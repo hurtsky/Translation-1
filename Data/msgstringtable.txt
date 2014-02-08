@@ -1,4 +1,4 @@
-ï»¿Do you agree?#
+Do you agree?#
 Failed to Connect to Server.#
 Disconnected from Server.#
 Disconnected from Server.#
@@ -155,7 +155,7 @@ You got %s (%d).#
 [Alt] + [=]: Fix the interval error between letters.#
 [F10]: To toggle Chat Window size; [Alt] + [F10]: Toggle Chat Window On or Off#
 How to Whisper: Enter a Character's Name on the left side of chat window and type your message on the right side. The Tab key helps you move between these boxes.#
-/!,/?,/ho,/lv,/lv2,/swt,/ic,/an,/ag,/$,/thx,/wah,/sry,/heh,/swt2,/hmm,/no1,/??,/omg,/oh,/X,/hp,/go,/sob,/gg,/kis,/kis2,/pif,/ok: Emotion icons corresponding to Alt + (1~9) Ctrl + (-=\\)#
+/!,/?,/ho,/lv,/lv2,/swt,/ic,/an,/ag,/$,/â€¦.,/thx,/wah,/sry,/heh,/swt2,/hmm,/no1,/??,/omg,/oh,/X,/hp,/go,/sob,/gg,/kis,/kis2,/pif,/ok: Emotion icons corresponding to Alt + (1~9) Ctrl + (-=\\)#
 How to Speak to Party: Add % in front of every message.(Example: \%Hello\)#
 You haven't learned enough Basic Skills to Trade.#
 You haven't learned enough Basic Skills to use Emotion icons.#
@@ -2533,7 +2533,7 @@ You do not have enough items.#
 Name of the character that cannot be invited.#
 You cannot invite the character to the guild.#
 Item already Sold,Purchase Failed..#
-Ã‡Ã¶Ã€Ã§ Ã€Â§Ã„Â¡Â¿Â¡Â¼Â­ Â¿Ã¶Ã‡Ã Ã€Ã¥Â¼Ã’Â¸Â¦ Â±Ã¢Â¾Ã¯ Ã‡Ã’ Â¼Ã¶ Â¾Ã¸Â½Ã€Â´ÃÂ´Ã™.#
+ÇöÀç À§Ä¡¿¡¼­ ¿öÇÁ Àå¼Ò¸¦ ±â¾ï ÇÒ ¼ö ¾ø½À´Ï´Ù.#
 Cannot purchase item, You exceeded the weight.#
 No.#
 Item#
@@ -2549,16 +2549,19 @@ Guild Storage Logs#
 100 entries are displayed.#
 Guild Storage is open only for 2 minutes, and will close automatically.#
 Incorrect GameSamba ID. Please Try Again.#
-%s [%dOption] : %d Quantity#
+%s [%d Option] : %d Quantity#
 Requires a Coin.#
 %d Coins are required.#
 Gatling Gun should be equipped with bullets.#
 Shotguns should be equipped with bullets.#
 Rifle should be equipped with bullets.#
 Pair of Revolver should be equipped with bullets.#
-Â¼ÂºÂ¼Ã“Â¼Âº ÂºÃ­Â¸Â´Ã€Â» Ã€Ã¥Ã‚Ã¸Ã‡Ã˜Â¾ÃŸ Ã‡Ã•Â´ÃÂ´Ã™#
+¼º¼Ó¼º ºí¸´À» ÀåÂøÇØ¾ß ÇÕ´Ï´Ù#
 Item Sell History#
 Item Purchase History#
 Grenade Launcher should be equipped with bullets.#
-[ÃˆÃ·Ã†Â®Â¹Ã¨Â·Â²],[Â¸Ã…ÂµÃ¥Â´ÃÂ½Âº Ã„ÂµÂ½Â½Â·Â¯],[Ã‡ÃƒÂ·Â¡Ã†Â¼Â³Ã‘ Â¾Ã‹Ã…Ã] Ã€Ã‡ ÃˆÂ¿Â°ÃºÂµÃ©Ã€Âº ÃÃŸÃƒÂ¸Ã‡ÃÂ¿Â© Â»Ã§Â¿Ã«Ã‡Ã’ Â¼Ã¶ Â¾Ã¸Â½Ã€Â´ÃÂ´Ã™.#
+[È÷Æ®¹è·²],[¸Åµå´Ï½º Äµ½½·¯],[ÇÃ·¡Æ¼³Ñ ¾ËÅÍ] ÀÇ È¿°úµéÀº ÁßÃ¸ÇÏ¿© »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.#
 Cannot use skill in this map.#
+If you are using a guild warehouse warehouse all items will disappear.#
+http://ragnarok.gamesamba.com/paytest.html#
+Please enter a password to login.#
