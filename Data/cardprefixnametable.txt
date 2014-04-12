@@ -478,6 +478,7 @@
 4475#Intangible#
 4476#Entomic#
 4477#Demonic#
+
 4480#Of Halfreload#
 4481#Half Jack Frost#
 4482#Of Half regeneration#
@@ -596,7 +597,20 @@
 4605#Of hunger#
 4606#Of Rancor#
 4607#Librarian#
+
 4485#Half Abyss#
 4608#Knights#
 4609#Knight#
 4610#The cage#
+
+//--- 2013 December
+4494#Half Blast#
+
+//--- 2014 January
+4538#Half LifeStream#
+
+//--- 2014 February
+4489#Half Giraffe#
+
+//--- 2014 March
+4490#Half Tea#
