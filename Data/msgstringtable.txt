@@ -2457,13 +2457,13 @@ Bank balance is low.#
 You don't have enough zeny#
 Minimum Deposit Amount: 1 zeny#
 Minimum Withdrawal Amount: 1 zeny#
-You cannot hold more than 2,147,483,647 billion#
-your account is lock by mobil otp#
+You cannot hold more than 2,147,483,647 Zeny#
+your account is lock by mobile otp#
 MOTP auth fail#
 For %d minutes,Job Experience obtained from monster is increased by %d%%#
 Current Zeny: %s Zeny#
 Zeny#
-The Maximum amount is 2,147,483,647 zeny#
+The Maximum amount is 2,147,483,647 Zeny#
 Your bullet is not enough#
 You entered more than 1 Billion Zeny, the price will be set to 1 Billion Zeny.#
 AuthTicket is Not Valid#
