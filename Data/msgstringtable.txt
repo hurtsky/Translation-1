@@ -38,7 +38,7 @@ BGM Off#
 /effect: Effects On or Off#
 /where: Shows your present location#
 /skip: Turns Frame Skip On or Off#
-/v (0~127): Controls the volume of the Sound Effects#
+/v (0~127): Controls the volume of the Sound Effects #
 /bv (0~127): Controls the volume of the BGM#
 /ex (Character Name): Blocks whispering from the Character#
 /ex: View a list of Characters you have Blocked#
@@ -96,13 +96,13 @@ Please select a Deal Type.#
 Invalid Command#
 Leave party#
 Expel from party#
-Send Message#
+Send Messages#
 1:1 Chat#
 Information#
 Party Setup#
 Friend#
 Party#
-Equipment#
+Equip#
 Status#
 Inventory#
 /organize ''Party Name'' To organize a party. Type /leave To leave a Party.#
@@ -2453,14 +2453,14 @@ Normal#
 Low#
 Very Low#
 The bank is not available. Please try again in a few minutes.#
-Bank balance is low.#
+Bank Balance is not enough.#
 You don't have enough zeny#
 Minimum Deposit Amount: 1 zeny#
 Minimum Withdrawal Amount: 1 zeny#
 You cannot hold more than 2,147,483,647 Zeny#
 your account is lock by mobile otp#
 MOTP auth fail#
-For %d minutes,Job Experience obtained from monster is increased by %d%%#
+JOB EXP from Monsters will increase %d%% for %dmins.#
 Current Zeny: %s Zeny#
 Zeny#
 The Maximum amount is 2,147,483,647 Zeny#
@@ -2469,15 +2469,15 @@ You entered more than 1 Billion Zeny, the price will be set to 1 Billion Zeny.#
 AuthTicket is Not Valid#
 ErrorCategory : %d, ErrorCode : %d (%d,%d,%d,%d)#
 %d%% ( Basic 100%% + Premium %d%% + PCCafe %d%% + %s Server %d%% )#
- %d Minutes to get through the monsters of the basic item drop rates increased to %d%%.#
-%d %.2d minutes when monsters of basic items that can be obtained through the drop rates increased to %d%%.#
-The price of %s is Over#
+Basic item drop rate from monster hunting is increased for %dmins by %dtimes.#
+Basic item drop rate from monster hunting is increased for %dhour %.2dmins  by %dtimes.#
+%s's price#
 100000000#
  ^ff0000%d^0000ff Hundred Million#
 10000000#
- ^ff0000%d^0000ffmillion#
-^0000ffZeny ^000000. \n Is the Amount Correct?#
-Safety check more than 10million Zeny#
+^ff0000%d^0000ff0,000,000#
+It is more than ^0000ffZeny^000000.\n Is it correct?#
+Safe check for over 10,000,000Zeny#
 https://www.warpportal.com/account/login.aspx?ReturnUrl=%2faccount%2fpayment.aspx#
 https://kepler.warpportal.com/steam/purchase/?step=1&steamid=76561198071003044&game=rose&accountname=khanhtest111&lang=en#
 A giant crevice appeared in Bifrost, the bridge between Splendide, the end of the world and the floating continent of Alfheim, and you do not know the source of the labyrinth forest.#
