@@ -750,5 +750,6 @@ ShadowFactorTable = {
   [jobtbl.JT_HIDDEN_MOB6] = 0,
   [jobtbl.JT_HIDDEN_MOB7] = 0,
   [jobtbl.JT_MM_GB_MOROCC_1] = 1.5,
-  [jobtbl.JT_MM_GB_MOROCC_4] = 1.5
+  [jobtbl.JT_MM_GB_MOROCC_4] = 1.5,
+  [jobtbl.JT_GOLD_ANOPHELES] = 0.3
 }

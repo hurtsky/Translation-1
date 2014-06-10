@@ -23,7 +23,6 @@ function GetTimeLimitInfo(EFST_ID)
   end
   return timeInfo[1], timeInfo[2]
 end
-
 function SetDefaultDesInfo(des, r, g, b)
   if des == nil then
     des = ""
@@ -44,7 +43,6 @@ function SetDefaultDesInfo(des, r, g, b)
     b
   }
 end
-
 local defaultInfo = SetDefaultDesInfo
 function GetStateIconDescript(EFST_ID, idx)
   local key = EFST_ID .. "-" .. idx
