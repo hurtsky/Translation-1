@@ -1813,7 +1813,7 @@ The map is not available.#
 The selected name or prefix/suffix does not exist.#
 You can purchase up to 10 items.#
 Some items could not be purchased.#
-Enter your birthday (e.g: 20101126)#
+Enter your 6-digit DOB(YYMMDD) (e.g: 801122)#
 Now Logging Out.#
 A database error has occurred.#
 Please leave your guild first in order to remove your character.#

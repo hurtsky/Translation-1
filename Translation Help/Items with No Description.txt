@@ -1,11 +1,11 @@
 1394
 Two-Handed Axe
 Unknown Item, can be identified by [Magnifier]
-강화 투핸드액스
-오리데오콘과 황금을 황금비율로 섞어 코팅한 Two-Handed Axe.
-파괴불가.
-제련도 1당 ATK + 14 증가.
-캐릭터 Level 70이상 : BaseLv이 10 상승 할 때 마다 ATK + 10씩 추가 증가.
+Enhanced Two-Handed Axe
+Two-Handed Axe that coated by Oridecon and Gold with perfect level.
+Indestructible.
+ATK increases by 14 for every Refine.
+Level 70 or Higher : ATK+10 for Every 10 BaseLevel
 Class : ^777777Two-Handed Axe^000000 Attack : ^777777110^000000
 Weight : ^777777200^000000
 Weapon Level : ^7777773^000000
@@ -16,13 +16,13 @@ Jobs : ^777777SwordsmanClass/MerchantClass^000000
 1398
 Two-Handed Axe
 Unknown Item, can be identified by [Magnifier]
-메탈 투핸드액스
+Metal Two-Handed Axe
 ^ff0000You cannot Trade this item.^000000
-강철에 프라콘과 엠베르타콘을 첨가하여 능력을 강화시킨 금속으로 제작한 투핸드액스
-파괴불가.
-제련도 1당 ATK + 7 증가.
-캐릭터 Level 20이상 : BaseLv이 10 상승 할 때 마다 ATK + 5씩 추가 증가.
-(증가량은  BaseLv 120까지 적용)
+Two hand ax, which has enhanced the ability to join Emveretarcon and Steel Metal
+Indestructible.
+For Each Refine, ATK+7
+Level 20 or Higher : ATK+5 for Every 10 BaseLevel
+(Applies till BaseLevel 120)
 Class : ^777777Two-Handed Axe^000000 Attack : ^777777105^000000
 Weight : ^7777770^000000
 Weapon Level : ^7777773^000000
@@ -33,10 +33,10 @@ Jobs : ^777777SwordsmanClass/MerchantClass^000000
 1399
 Two-Handed Axe
 Unknown Item, can be identified by [Magnifier]
-TE 공성 투핸드 액스
+WoE TE Hand Axe
 ^ff0000You cannot Trade this item.^000000
 ^000088Rental Items^000000
-파괴불가.
+Indestructible.
 ※ TE 공성 지역 추가 옵션
 플레이어에게 물리 Attack력 40% 증가.
 물리 Attack 시 높은 확률로 스턴.
@@ -847,7 +847,7 @@ Unknown Item, can be identified by [Magnifier]
 모든 Property의 물리Attack에 대한 내성 15%.
 FLEE + 15, MDEF + 2.
 텔레포트 Lv1 사용가능.
-제련불가. 파괴불가.
+제련불가. Indestructible.
 Class : ^777777Garment^000000    Defense : ^77777720^000000
 Weight : ^7777770^000000
 Required Level : ^77777747^000000
@@ -6784,7 +6784,7 @@ Unknown Item, can be identified by [Magnifier]
 Base Lv 20배 만큼의 MHP증가. Base Lv 5배 만큼의 MSP증가.
 물리Attack력 5%, 마법Attack력 5% 증가.
 MDEF + 5.
-넉백불가. 제련불가. 파괴불가.
+넉백불가. 제련불가. Indestructible.
 Class : ^777777Armor^000000    Defense : ^77777760^000000
 Weight : ^7777770^000000
 Required Level : ^77777747^000000
@@ -7160,7 +7160,7 @@ Unknown Item, can be identified by [Magnifier]
 TE 공성 메이스
 ^ff0000You cannot Trade this item.^000000
 ^000088Rental Items^000000
-파괴불가.
+Indestructible.
 ※ TE 공성 지역 추가 옵션
 플레이어에게 물리 Attack력 40% 증가.
 물리 Attack 시 높은 확률로 동빙.
@@ -7665,7 +7665,7 @@ Weight : ^7777771^000000
 모든 Property의 물리Attack에 대한 내성 15%.
 FLEE + 15, MDEF + 2.
 텔레포트 Lv1 사용가능.
-제련불가. 파괴불가.
+제련불가. Indestructible.
 Class : ^777777Garment^000000    Defense : ^77777720^000000
 Weight : ^7777770^000000
 Required Level : ^77777747^000000
@@ -7681,7 +7681,7 @@ Weight : ^7777771^000000
 모든 Property의 물리Attack에 대한 내성 15%.
 FLEE + 15, MDEF + 2.
 텔레포트 Lv1 사용가능.
-제련불가. 파괴불가.
+제련불가. Indestructible.
 Class : ^777777Garment^000000    Defense : ^77777720^000000
 Weight : ^7777770^000000
 Required Level : ^77777747^000000
@@ -7763,7 +7763,7 @@ Weight : ^7777771^000000
 Base Lv 20배 만큼의 MHP증가. Base Lv 5배 만큼의 MSP증가.
 물리Attack력 5%, 마법Attack력 5% 증가.
 MDEF + 5.
-넉백불가. 제련불가. 파괴불가.
+넉백불가. 제련불가. Indestructible.
 Class : ^777777Armor^000000    Defense : ^77777760^000000
 Weight : ^7777770^000000
 Required Level : ^77777747^000000
@@ -7778,7 +7778,7 @@ Weight : ^7777771^000000
 Base Lv 20배 만큼의 MHP증가. Base Lv 5배 만큼의 MSP증가.
 물리Attack력 5%, 마법Attack력 5% 증가.
 MDEF + 5.
-넉백불가. 제련불가. 파괴불가.
+넉백불가. 제련불가. Indestructible.
 Class : ^777777Armor^000000    Defense : ^77777760^000000
 Weight : ^7777770^000000
 Required Level : ^77777747^000000
@@ -13543,7 +13543,7 @@ Weight : ^7777771^000000
 강화 투핸드액스가 1개 들어있는 상자.
 ^ffffff_^000000
 오리데오콘과 황금을 황금비율로 섞어 코팅한 Two-Handed Axe.
-파괴불가.
+Indestructible.
 제련도 1당 ATK + 14 증가.
 캐릭터 Level 70이상 : BaseLv이 10 상승 할 때 마다 ATK + 10씩 추가 증가.
 Class : ^777777Two-Handed Axe^000000 Attack : ^777777110^000000
@@ -13559,7 +13559,7 @@ Weight : ^7777771^000000
 강화 투핸드액스가 1개 들어있는 상자.
 ^ffffff_^000000
 오리데오콘과 황금을 황금비율로 섞어 코팅한 Two-Handed Axe.
-파괴불가.
+Indestructible.
 제련도 1당 ATK + 14 증가.
 캐릭터 Level 70이상 : BaseLv이 10 상승 할 때 마다 ATK + 10씩 추가 증가.
 Class : ^777777Two-Handed Axe^000000 Attack : ^777777110^000000
@@ -13880,7 +13880,7 @@ Weight : ^7777771^000000
 ^ff0000You cannot Trade this item.^000000
 강화 투핸드액스 1개와 행운의 알Ⅹ 1개가 들어있는 상자.
 오리데오콘과 황금을 황금비율로 섞어 코팅한 Two-Handed Axe.
-파괴불가.
+Indestructible.
 제련도 1당 ATK + 14 증가.
 캐릭터 Level 70이상 : BaseLv이 10 상승 할 때 마다 ATK + 10씩 추가 증가.
 Class : ^777777Two-Handed Axe^000000 Attack : ^777777110^000000
@@ -13894,7 +13894,7 @@ Weight : ^7777771^000000
 ^ff0000You cannot Trade this item.^000000
 강화 투핸드액스 1개와 행운의 알Ⅹ 1개가 들어있는 상자.
 오리데오콘과 황금을 황금비율로 섞어 코팅한 Two-Handed Axe.
-파괴불가.
+Indestructible.
 제련도 1당 ATK + 14 증가.
 캐릭터 Level 70이상 : BaseLv이 10 상승 할 때 마다 ATK + 10씩 추가 증가.
 Class : ^777777Two-Handed Axe^000000 Attack : ^777777110^000000
@@ -15752,7 +15752,7 @@ Unknown Item, can be identified by [Magnifier]
 All State + 5, MDEF + 5.
 이동속도 증가.
 텔레포트 Lv1 사용 가능.
-파괴불가.
+Indestructible.
 Class : ^777777Headgear ^000000 Defense : ^77777720^000000
 Location : ^777777Upper ^000000Weight : ^777777100^000000
 Required Level : ^77777760^000000
@@ -15768,7 +15768,7 @@ Unknown Item, can be identified by [Magnifier]
 All State + 4, MDEF + 5.
 이동속도 증가.
 텔레포트 Lv1 사용 가능.
-파괴불가.
+Indestructible.
 Class : ^777777Headgear ^000000 Defense : ^77777720^000000
 Location : ^777777Upper ^000000Weight : ^777777100^000000
 Required Level : ^77777760^000000
@@ -15784,7 +15784,7 @@ Unknown Item, can be identified by [Magnifier]
 All State + 3, MDEF + 5.
 이동속도 증가.
 텔레포트 Lv1 사용 가능.
-파괴불가.
+Indestructible.
 Class : ^777777Headgear ^000000 Defense : ^77777720^000000
 Location : ^777777Upper ^000000Weight : ^777777100^000000
 Required Level : ^77777760^000000
