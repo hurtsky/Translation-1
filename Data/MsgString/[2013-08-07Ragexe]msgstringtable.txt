@@ -1412,7 +1412,7 @@ Thank you to accept mobile authentication.#
 This skill can't be used alone#
 This skill can be used to certain direction only#
 Cannot summon spheres anymore.#
-There is no summoned sphere.#
+There is no summoned sphere or you do not have enough sphere.#
 There is no imitation skills available.#
 You can't reuse this skill#
 Skill can't be used in this state#
