@@ -10463,7 +10463,7 @@ You can't receive any request from Biscuit during one day.#
 ÁÖ¹®À» ¹Ş¾Ò´Ù. ¹Ù¾Ë¿¡°Ô µ¹¾Æ°¡ÀÚ.#
 
 11253#¹Ù¾ËÀÇ ³ëÃµ±îÆä#SG_FEEL#QUE_NOIMAGE#
-ÇØ»ê¹°ÃÊÄÚÄÉŸ?Àç·á : ¹Ù´Ù°¡Àç 1¸¶¸®, ¿ÀÂ¡¾î, »õ¿ì, Á¶°³, ¸Û°Ô µî °¢Á¾ ÇØ»ê¹°, ½ºÆİÁö ÄÉŸ?½ÃÆ®, ÃÊÄİ·¿#
+ÇØ»ê¹°ÃÊÄÚÄÉŸå Àç·á : ¹Ù´Ù°¡Àç 1¸¶¸®, ¿ÀÂ¡¾î, »õ¿ì, Á¶°³, ¸Û°Ô µî °¢Á¾ ÇØ»ê¹°, ½ºÆİÁö ÄÉŸå ½ÃÆ®, ÃÊÄİ·¿#
 ¿ä¸®ºñ±ŞÀ» ÀĞ¾ú´Ù. ¹Ù¾Ë¿¡°Ô µ¹¾Æ°¡ÀÚ.#
 
 11254#¹Ù¾ËÀÇ ³ëÃµ±îÆä#SG_FEEL#QUE_NOIMAGE#
@@ -11082,14 +11082,12 @@ You've found a strange place with more traces of blood on it. Annon has to be he
 
 //-----------Sa-mhing Tiger------------
 12035#Holy Threads#SG_FEEL#QUE_NOIMAGE#
-Now that you have found the last part of the slate you should relay the message that you found to Boonthom#
-Shaman Boonthom#
-#
-
-12036#The Stone Slate Message#SG_FEEL#QUE_NOIMAGE#
 Boonthom asked you to bring back the following items to make the item with holy power: 1 needle Packet, 1 Spool, 1 Solid Husk, and 1 bottle of Holy Water. Then you will gain access to the 1st Underground Dungeon level.#
 #
 
+12036#The Stone Slate Message#SG_FEEL#QUE_NOIMAGE#
+Now that you have found the last part of the slate you should relay the message that you found to Boonthom#
+Shaman Boonthom#
 
 12037#Holier Threads#SG_FEEL#QUE_NOIMAGE#
 Now you must bring back materials to Boonthom so that you can enter the 2nd underground level. Bring back 2 Holy Water, 1 Yggdrasil Leaf, 2 Needle Packet and 2 Spool.#
