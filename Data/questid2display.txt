@@ -14091,7 +14091,6 @@ Time for analysis.#
 14133#Another favor#SG_FEEL#QUE_NOIMAGE#
 Wuhari analyzed the research report, but he was still unsure about how to recover his brother's body. Try finding and asking the Laphine who originally requested Wuhuru's participation in research.#
 Obtaining the evidence.#
-#
 
 14134#Sharp Ms. Goatie#SG_FEEL#QUE_NOIMAGE#
 Although Mr. Svery was visited for more insight, he said that he has no idea about the high-level Laphine. However, he suggested seeing his wife who's sharp with these things.#
