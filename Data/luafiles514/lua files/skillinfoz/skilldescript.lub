@@ -13119,5 +13119,22 @@ SKILL_DESCRIPT = {
     "Force Transfer",
     "MAX LV : 1",
     "Description : ^777777 ^000000"
+  },
+  [SKID.GD_GUILD_STORAGE] = {
+    "Guild Storage Expansion",
+    "Skill Form : ^000099Passive^000000",
+    "Target : ^777777P^000000",
+    "Description : ^777777Allows to use Guild Storage. Guild Storage Slots can be increased^000000",
+    "[Level 1] : ^777777100 Slots^000000",
+    "[Level 2] : ^777777200 Slots^000000",
+    "[Level 3] : ^777777300 Slots^000000",
+    "[Level 4] : ^777777400 Slots^000000",
+    "[Level 5] : ^777777500 Slots^000000"
+  },
+  [SKID.GM_WIDE_RESURRECTION] = {
+    "Wide Resurrection",
+    "Skill Form : ^000099Active^000000",
+    "Target : ^777777Dead Player^000000",
+    "Description : ^777777Revive All Players Around the caster.^000000"
   }
 }
