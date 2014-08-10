@@ -8668,7 +8668,7 @@ SKILL_DESCRIPT = {
     "MAX LV 5",
     "^777777Skill Requirement : Release 2 , Stasis 1, White Imprison 1  ^000000",
     "Skill Form : ^777777Buff(Self)^000000",
-    "Description : ^777777Maximizes one占쏙옙s own magical potential, dealing maximum damage with magical attacks for the skill duration.^000000",
+    "Description : ^777777Maximizes one's own magical potential, dealing maximum damage with magical attacks for the skill duration. Increases SP Consumption by 25%^000000",
     "[Lv 1] : ^777777100 SP / 60 sec. duration^000000",
     "[Lv 2] : ^777777120 SP / 90 sec. duration^000000",
     "[Lv 3] : ^777777140 SP / 110 sec. duration^000000",
@@ -10868,7 +10868,7 @@ SKILL_DESCRIPT = {
     "MAX Lv : 1 ",
     "^777777Skill Requirement :  Spirit Sympathy 1   ^000000",
     "Skill Form : ^777777 Active / Recovery ^000000",
-    "Description : ^777777Recover spirit's HP and SP by consumes 10% HP and SP to recover Elemental占쏙옙s HP and SP for the same amount.. Skill will fail if Caster has lower than 10% HP and SP.^000000"
+    "Description : ^777777Recover spirit's HP and SP by consumes 10% HP and SP to recover Elemental's HP and SP for the same amount.. Skill will fail if Caster has lower than 10% HP and SP.^000000"
   },
   [SKID.SO_FIRE_INSIGNIA] = {
     "Fire Insignia",
@@ -11076,7 +11076,7 @@ SKILL_DESCRIPT = {
     "MAX Lv : 5",
     "^777777Skill Requirement : Hell Plant  3 ^000000",
     "Skill Form : ^777777Active / Special / Damage ^000000",
-    "Description : ^777777Pull out a noisy MANDRAGORA from its pot and let it howl at surrounding enemies. Decrease all targets占쏙옙 INT and SP. Increase all skill's casting delay. Decrease success rate of the skill depending on target's VIT and LUK. ^000000",
+    "Description : ^777777Pull out a noisy MANDRAGORA from its pot and let it howl at surrounding enemies. Decrease all targets INT and SP. Increase all skill's casting delay. Decrease success rate of the skill depending on target's VIT and LUK. ^000000",
     "[Lv 1] : ^77777711x11 AoE / INT -4 / SP 30% Decrease / 30% SP^000000",
     "[Lv 2] : ^77777713x13 AoE / INT -8 / SP 35% Decrease / 35% SP^000000",
     "[Lv 3] : ^77777713x13 AoE / INT -12 / SP 40% Decrease / 40% SP^000000",
@@ -11127,7 +11127,7 @@ SKILL_DESCRIPT = {
     "MAX Lv : 5 ",
     "^777777Skill Requirement : Epiclesis 1 / Expiatio 1 ^000000",
     "Skill Form : ^777777Buff^000000",
-    "Description : ^777777Reduces a target占쏙옙s fixed cast time by performing a holy ceremony. ^000000",
+    "Description : ^777777Reduces a target's fixed cast time by performing a holy ceremony. ^000000",
     "[Lv 1] : ^777777Decrease fixed cast by 10% / Duration 60 sec.^000000",
     "[Lv 2] : ^777777Decrease fixed cast by 20% / Duration 90 sec.^000000",
     "[Lv 3] : ^777777Decrease fixed cast by 30% / Duration 120 sec.^000000",
@@ -12656,7 +12656,7 @@ SKILL_DESCRIPT = {
   [SKID.ECL_SNOWFLIP] = {
     "Snow Flip",
     "^777777 눈송이처럼 하얗고 만지면 손이 시릴 듯한 꽃잎. 동상에 걸릴지도 모르니 주의. ^000000",
-    "^777777 사용 시 발화, 출혈, 깊은 잠, 수면을 치료한다. ^000000"
+    "^777777 When used burning, bleeding, deep sleep and sleep are treated. ^000000"
   },
   [SKID.ECL_PEONYMAMY] = {
     "페오니마미",
@@ -12669,7 +12669,7 @@ SKILL_DESCRIPT = {
     "^777777 사용 시 스턴, 공포, 혼란, 환각을 치료한다. ^000000"
   },
   [SKID.ECL_SEQUOIADUST] = {
-    "세계수의 먼지",
+    "Sequoia Dust",
     "^777777 생명의 나무의 잎에 붙어있던 먼지 부스러기지만 모아서 사용했을 때는 정화 능력을 발휘한다. ^000000",
     "^777777 사용 시 석화, 암흑, 저주, 독, 민첩성 감소, 리버스 오키쉬을 치료한다. ^000000"
   },
