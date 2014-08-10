@@ -211,8 +211,8 @@ SKILL_DESCRIPT = {
   [SKID.MG_SAFETYWALL] = {
     "Safety Wall",
     "MAX Lv : 10",
-    "777777Requirement : Napalm Beat 7, Soul Strike 5^000000",
-    "777777Requirement : Aspersio 4, Sanctuary 3^000000",
+    "^777777Requirement : Napalm Beat 7, Soul Strike 5^000000",
+    "^777777Requirement : Aspersio 4, Sanctuary 3^000000",
     "Skill Form: ^777777Supportive",
     "Property: ^bb00bbSpiritual^000000",
     "Target: ^777777Ground^000000",
@@ -3537,7 +3537,7 @@ SKILL_DESCRIPT = {
     "[Lv 6]: ^777777Level 2^000099Soul Strike^000000",
     "[Lv 7]: ^777777Level 3^000099Soul Strike^000000",
     "[Lv 8]: ^777777Level 1^000099Fire Ball^000000",
-    "[Lv 9]: ^777777Level 2^000099Fire Ball000000",
+    "[Lv 9]: ^777777Level 2^000099Fire Ball^000000",
     "[Lv 10]: ^777777Level 1^000099Frost Diver^000000",
     "^777777The level of the skill cast by Hindsight",
     "is randomly determined and ^000099limited to the",
@@ -7141,7 +7141,7 @@ SKILL_DESCRIPT = {
     "[Lv 6]: ^777777160 Sec, 3 Dodges^000000",
     "[Lv 7]: ^777777180 Sec, 4 Dodges^000000",
     "[Lv 8]: ^777777200 Sec, 4 Dodges^000000",
-    "[Lv 9]: ^777777220 Sec,^ 5 Dodges000000",
+    "[Lv 9]: ^777777220 Sec, 5 Dodges^000000",
     "[Lv 10]: ^777777240 Sec, 5 Dodges^000000"
   },
   [SKID.NJ_NINPOU] = {
@@ -8668,7 +8668,7 @@ SKILL_DESCRIPT = {
     "MAX LV 5",
     "^777777Skill Requirement : Release 2 , Stasis 1, White Imprison 1  ^000000",
     "Skill Form : ^777777Buff(Self)^000000",
-    "Description : ^777777Maximizes one’s own magical potential, dealing maximum damage with magical attacks for the skill duration.^000000",
+    "Description : ^777777Maximizes one占쏙옙s own magical potential, dealing maximum damage with magical attacks for the skill duration.^000000",
     "[Lv 1] : ^777777100 SP / 60 sec. duration^000000",
     "[Lv 2] : ^777777120 SP / 90 sec. duration^000000",
     "[Lv 3] : ^777777140 SP / 110 sec. duration^000000",
@@ -10868,7 +10868,7 @@ SKILL_DESCRIPT = {
     "MAX Lv : 1 ",
     "^777777Skill Requirement :  Spirit Sympathy 1   ^000000",
     "Skill Form : ^777777 Active / Recovery ^000000",
-    "Description : ^777777Recover spirit's HP and SP by consumes 10% HP and SP to recover Elemental’s HP and SP for the same amount.. Skill will fail if Caster has lower than 10% HP and SP.^000000"
+    "Description : ^777777Recover spirit's HP and SP by consumes 10% HP and SP to recover Elemental占쏙옙s HP and SP for the same amount.. Skill will fail if Caster has lower than 10% HP and SP.^000000"
   },
   [SKID.SO_FIRE_INSIGNIA] = {
     "Fire Insignia",
@@ -11076,7 +11076,7 @@ SKILL_DESCRIPT = {
     "MAX Lv : 5",
     "^777777Skill Requirement : Hell Plant  3 ^000000",
     "Skill Form : ^777777Active / Special / Damage ^000000",
-    "Description : ^777777Pull out a noisy MANDRAGORA from its pot and let it howl at surrounding enemies. Decrease all targets’ INT and SP. Increase all skill's casting delay. Decrease success rate of the skill depending on target's VIT and LUK. ^000000",
+    "Description : ^777777Pull out a noisy MANDRAGORA from its pot and let it howl at surrounding enemies. Decrease all targets占쏙옙 INT and SP. Increase all skill's casting delay. Decrease success rate of the skill depending on target's VIT and LUK. ^000000",
     "[Lv 1] : ^77777711x11 AoE / INT -4 / SP 30% Decrease / 30% SP^000000",
     "[Lv 2] : ^77777713x13 AoE / INT -8 / SP 35% Decrease / 35% SP^000000",
     "[Lv 3] : ^77777713x13 AoE / INT -12 / SP 40% Decrease / 40% SP^000000",
@@ -11127,7 +11127,7 @@ SKILL_DESCRIPT = {
     "MAX Lv : 5 ",
     "^777777Skill Requirement : Epiclesis 1 / Expiatio 1 ^000000",
     "Skill Form : ^777777Buff^000000",
-    "Description : ^777777Reduces a target’s fixed cast time by performing a holy ceremony. ^000000",
+    "Description : ^777777Reduces a target占쏙옙s fixed cast time by performing a holy ceremony. ^000000",
     "[Lv 1] : ^777777Decrease fixed cast by 10% / Duration 60 sec.^000000",
     "[Lv 2] : ^777777Decrease fixed cast by 20% / Duration 90 sec.^000000",
     "[Lv 3] : ^777777Decrease fixed cast by 30% / Duration 120 sec.^000000",
@@ -12654,25 +12654,24 @@ SKILL_DESCRIPT = {
     "Effect: ^777777 Teleport to Eclage. Fixed casting time 3 seconds / 5 minutes cooldown after use.^000000",
   },
   [SKID.ECL_SNOWFLIP] = {
-
     "Snow Flip",
     "^777777 눈송이처럼 하얗고 만지면 손이 시릴 듯한 꽃잎. 동상에 걸릴지도 모르니 주의. ^000000",
-    "^777777 When used burning, bleeding, deep sleep and sleep are treated. ^000000",
+    "^777777 사용 시 발화, 출혈, 깊은 잠, 수면을 치료한다. ^000000"
   },
   [SKID.ECL_PEONYMAMY] = {
     "페오니마미",
-    "^777777 엄마 품처럼 따스한 온도를 가진 분홍색의 도톰한 꽃잎.^000000",
-    "^777777 사용 시 동빙, 냉동, 빙결을 치료한다.^000000",
+    "^777777 엄마 품처럼 따스한 온도를 가진 분홍색의 도톰한 꽃잎. ^000000",
+    "^777777 사용 시 동빙, 냉동, 빙결을 치료한다. ^000000"
   },
   [SKID.ECL_SADAGUI] = {
     "사다귀",
-    "^777777 냄새를 코로 들이마시면 머리를 때리는 듯한 강렬한 향을 가진 허브잎. 때때로 부작용도 있는 듯.^000000",
-    "^777777 사용 시 스턴, 공포, 혼란, 환각을 치료한다. ^000000",
+    "^777777 냄새를 코로 들이마시면 머리를 때리는 듯한 강렬한 향을 가진 허브잎. 때때로 부작용도 있는 듯. ^000000",
+    "^777777 사용 시 스턴, 공포, 혼란, 환각을 치료한다. ^000000"
   },
   [SKID.ECL_SEQUOIADUST] = {
-    "Sequoia Dust",
+    "세계수의 먼지",
     "^777777 생명의 나무의 잎에 붙어있던 먼지 부스러기지만 모아서 사용했을 때는 정화 능력을 발휘한다. ^000000",
-    "^777777 사용 시 석화, 암흑, 저주, 독, 민첩성 감소, 리버스 오키쉬을 치료한다. ^000000",
+    "^777777 사용 시 석화, 암흑, 저주, 독, 민첩성 감소, 리버스 오키쉬을 치료한다. ^000000"
   },
   [SKID.GC_DARKCROW] = {
     "Dark Crow",
@@ -12821,24 +12820,24 @@ SKILL_DESCRIPT = {
     "[Level 5] : ^777777 100% damage / Full screen splash ^000000",
   },
   [SKID.GM_ITEM_ATKMAX] = {
-    "물리 아이템 공격력 최대",
+    "Maximum Phsical Damage",
     "MAX LV : 1",
-    "내용 : ^777777 물리 아이템 공격력 최대^000000"
+    "Description : ^777777 Maximum Phsical Damage^000000"
   },
   [SKID.GM_ITEM_ATKMIN] = {
-    "물리 아이템 공격력 최소",
+    "Minimum Phsical Damage",
     "MAX LV : 1",
-    "내용 : ^777777 물리 아이템 공격력 최소^000000"
+    "Description : ^777777 Minimum Phsical Damage^000000"
   },
   [SKID.GM_ITEM_MATKMAX] = {
-    "마법 아이템 공격력 최대",
+    "Maximum Magical Damage",
     "MAX LV : 1",
-    "내용 : ^777777 마법 아이템 공격력 최대^000000"
+    "Description : ^777777 Maximum Magical Damage^000000"
   },
   [SKID.GM_ITEM_MATKMIN] = {
-    "마법 아이템 공격력 최소",
+    "Minimum Magical Damage",
     "MAX LV : 1",
-    "내용 : ^777777 마법 아이템 공격력 최소^000000"
+    "Description : ^777777 Minimum Magical Damage^000000"
   },
   [SKID.RL_D_TAIL] = {
     "Dragon tail (Tail of the Clutches)",
@@ -13101,24 +13100,24 @@ SKILL_DESCRIPT = {
     "^777777If the caster switches equipment during the duration, the skill will end and activate the 10 second penalty. 60 second duration. ^000000"
   },
   [SKID.BA_POEMBRAGI2] = {
-    "브라기의 시 (A Poem of Bragi)",
+    "A Poem of Bragi",
     "MAX Lv : 10",
-    "^777777습득조건 : 불협화음 3^000000",
-    "계열 : ^777777보조^000000",
-    "범위 : ^777777자신 주변 7칸^000000",
-    "내용 : ^777777범위내에 있는 플레이어들의 마법 캐스팅 시간과 마법 시전 후 딜레이를 줄여준다.^000000"
+    "^777777777777Requirement : Unchained Serenade Lv.3^000000",
+    "Skill Form : ^777777Attack^000000",
+    "Range : ^777777 7 Cells^000000",
+    "Description : ^777777Gives a fixed damage to enemies within range at regular intervals.^000000"
   },
   [SKID.DC_FORTUNEKISS2] = {
-    "행운의 키스 (Fortune's kiss)",
+    "Fortune's kiss",
     "MAX Lv : 10",
-    "^777777습득조건 : 막춤 3^000000",
-    "계열 : ^777777보조^000000",
-    "범위 : ^777777자신 주변 7칸^000000",
-    "내용 : ^777777범위내 플레이어의 크리티컬 확률을 높인다.^000000"
+    "^777777Requirement : Hip Shaker Lv. 3^000000",
+    "Skill Form : ^777777Seocndary^000000",
+    "Range: ^777777 7 Cells^000000",
+    "Description : ^777777Increases the chance to hit Critical.^000000"
   },
   [SKID.GM_FORCE_TRANSFER] = {
-    "포스 트랜스퍼",
+    "Force Transfer",
     "MAX LV : 1",
-    "내용 : ^777777 ^000000"
+    "Description : ^777777 ^000000"
   }
 }
