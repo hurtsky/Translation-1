@@ -1498,20 +1498,6 @@ Navi_Map = {
     240
   },
   {
-    "kh_kiehl01",
-    "Kiehl's Room",
-    5001,
-    200,
-    200
-  },
-  {
-    "kh_kiehl02",
-    "Kiehl's Last Room",
-    5001,
-    100,
-    100
-  },
-  {
     "kh_mansion",
     "Kiel Hyre's Mansion",
     5001,
@@ -3561,5 +3547,12 @@ Navi_Map = {
     5001,
     400,
     400
+  },
+  {
+    "itemmall",
+    "æ∆¿Ã≈€ ∏Ù",
+    5001,
+    200,
+    100
   }
 }
