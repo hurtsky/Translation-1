@@ -150,7 +150,6 @@ Collect 30 Clue_Of_Lope and return to the Order of the Knights Head.#
 1119#Knights of the Neighborhood#SG_FEEL#QUE_NOIMAGE#
 You have finished a job for the Knights of the Neighborhood Boss. Wait for the timer to expire before trying to help him again.#
 #
-
 //----------추석이벤트-----------------------------
 
 1120#Somewhere far, far away, where Belte Malang was born!#SG_FEEL#QUE_NOIMAGE#
@@ -284,7 +283,7 @@ Gather 30 Bad cans in Starry Coral Area and go back to Gobonge.#
 #
 
 1152#Help the Bad Cats in Danger!#SG_FEEL#QUE_NOIMAGE#
-Helping bad cats mission completed.# 
+Helping bad cats mission completed.#
 After 1 day, you can help them again.#
 
 1153#Help the Bad Cats in Danger!#SG_FEEL#QUE_NOIMAGE#
@@ -2082,7 +2081,6 @@ Bring special flower for Lalo.#
 3002#Job Change to Bard#SG_FEEL#QUE_NOIMAGE#
 The first step to becoming a Bard - Bard Lalo asks to find a talking snowman in Lutie and receive a present from him.#
   #
-  #
 
 3003#Job Change to Bard#SG_FEEL#QUE_NOIMAGE#
 Following a Song - Bard Lalo asks me to follow a song after him. If I am following to sing exactly, I could be a Bard...#
@@ -2110,7 +2108,6 @@ Qualification - "I will see through your effort and decide whether you are quali
 
 3010#Job Change to Crusader#SG_FEEL#QUE_NOIMAGE#
 Endurance - "To a crusader, endurance and patience are most important. You just need to walk down the hallway until you reach the end. But do not kill a single monster, even if they attack you."#
-  #
   #
 
 3011#Job Change to Crusader#SG_FEEL#QUE_NOIMAGE#
@@ -2184,7 +2181,6 @@ Touha#
 3026#Job Change to Monk#SG_FEEL#QUE_NOIMAGE#
 "Great!! Perfect! You have passed my test. But still you need to take another test. Please go to Sir 'Boohae' next. Good luck!"#
 Boohae#
-  #
 
 3027#Job Change to Monk#SG_FEEL#QUE_NOIMAGE#
 "Hmm....gathering mushrooms. So you want to test your tolerance huh? Go prepare and come back later when you're ready."#
@@ -2201,7 +2197,6 @@ Meet Tomoon#
 3031#Job Change to Monk - Spiritual Training#SG_FEEL#QUE_NOIMAGE#
 "The last test is a spiritual training! Attack and slash all enemies that stand in your way! Now! Make a fist! Stand up! It's time!"#
   #
-  #
 
 3032#Job Change to Monk - Become a Monk#SG_FEEL#QUE_NOIMAGE#
 "Well done!! Now... I will give you a secret potion. If you drink it, you will have enough physical strength to be able to change into a monk! Go back to sensei, 'Moohae'!#
@@ -2211,7 +2206,6 @@ Meet Tomoon#
 // ===================== Memorial Baphomet   ========================
 3040#The Curse of Baphomet#SG_FEEL#QUE_NOIMAGE#
 "You cannot enter because the Curse of Baphomet still remains. The curse of Baphomet disappears 12 hours after you have entered."#
-#
 #
 
 3041#The Curse of Baphomet#SG_FEEL#QUE_NOIMAGE#
@@ -2417,7 +2411,6 @@ Muff in Comodo seeks for a help finding his bond of debt he lost in the Papuchic
 3101#Consolidating Heavy Debt - Strange Heap of Earth#SG_FEEL#QUE_NOIMAGE#
 You discovered some strange heap of earth! Let's have a look.#
   #
-  #
 
 3102#Consolidating Heavy Debt - Bond of Debt Found, but...#SG_FEEL#QUE_NOIMAGE#
 The bond of debt is found, however, it is wet and tattered. It seems like completely ruined. Bring it to Muff anyway.#
@@ -2430,7 +2423,6 @@ Inventor Dorian in Izlude might be able to restore the bond of debt by using his
 3104#Consolidating Heavy Debt - Repair Materials of Magic Dryer#SG_FEEL#QUE_NOIMAGE#
 Dorian says you must help him fix the dryer if you want to use it.#
   20 Rusty Screws, 10 Iron Ores, 5 Steel, 2 Rubies, 10 Red Gemstones#
-  #
 
 3105#Consolidating Heavy Debt - Repairing Magic Dryer#SG_FEEL#QUE_NOIMAGE#
 Dorian tells you how to fix the dryer and lets you fix it yourself. It seems difficult...#
@@ -2455,41 +2447,33 @@ The bond of debt is now completely restored. Bring it to Muff.#
 3110#Stolen Diamond - Tracking the Diamond#SG_FEEL#QUE_NOIMAGE#
 Find the stolen diamond. First, you must find Jhonnita in Alberta, Kimeunbang in Payon, and Leblo in Geffen. They might know whereabouts.#
   #
-  #
 
 3111#Stolen Diamond - Leblo's Favor#SG_FEEL#QUE_NOIMAGE#
 Let's make a deal. I'll give you the information if you get some medicine from the doctor, Wola, in Payon.#
   #
-    #
 
 3112#Stolen Diamond - Wola the Doctor#SG_FEEL#QUE_NOIMAGE#
 You should help me fix this pot. I can't make any medicine without this pot.#
   20 Fine Sands, 10 Brigans, 10 Soft Leaf, 5 Empty Bottles#
-  #
 
 3113#Stolen Diamond - Wola the Doctor#SG_FEEL#QUE_NOIMAGE#
 Finally the pot is fixed. Now, what did you say you needed?#
-  #
   #
 
 3114#Stolen Diamond - Wola the Doctor#SG_FEEL#QUE_NOIMAGE#
 Leblo... Oh, that man in Geffen? I already prepared it. I'll have it delivered to him shortly.#
   #
-  #
 
 3115#Stolen Diamond - Leblo's Information#SG_FEEL#QUE_NOIMAGE#
 It would probably be the Z Gang that stole the diamond. Get some information on Z Gang at the Rogue Guild.#
-  #
   #
 
 3116#Stolen Diamond - Information from Rogue Investigator#SG_FEEL#QUE_NOIMAGE#
 Bribe him with some money and you hear that the Z Gang's old hideout is a large warehouse over in Comodo. Go check it out!#
   #
-  #
 
 3117#Stolen Diamond - Odd Switches#SG_FEEL#QUE_NOIMAGE#
 While searching the warehouse in Comodo, you found some odd switches. Let's examine some more.#
-  #
   #
 
 3118#Stolen Diamond - Diamond Found!#SG_FEEL#QUE_NOIMAGE#
@@ -3294,7 +3278,6 @@ Dominic.#
 
 4265#Bookshelf use#SG_FEEL#QUE_NOIMAGE#
 Obtained permission to read books in the bookshelf.#
-#
 #
 
 4266#스킬초기화 완료#SG_FEEL#QUE_NOIMAGE#
@@ -5704,12 +5687,10 @@ Find the place where the crytogram indicates.#
 7169#Mysterious Cryptogram - 3rd#SG_FEEL#QUE_NOIMAGE#
 Received the cryptogram and keyword that Paul had. [R-E-N-N-N-D / L-N-N-W-W-N-D ] These cryptogram seems indicate the place name and direction. The separate keyword is [FOOT]#
 Find the place where the crytogram indicates.#
-#
 
 7170#Mysterious Cryptogram - 3rd#SG_FEEL#QUE_NOIMAGE#
 You received the cryptogram and keyword that Paul had. [R-E-N-N-N-D / L-N-N-W-W-N-D ] These cryptogram seems indicate the place name and direction. The separate keyword is [COLD]#
 Find the place where the crytogram indicates.#
-#
 
 7171#Hunt the Shadow of Illusion#SG_FEEL#QUE_NOIMAGE#
 Like the Shadow of Deception, you found a flame strongly connected to another shadow. To cut this connection, you have to slay the Shadow of Illusion.#
@@ -6733,7 +6714,6 @@ Fome shared something unexpected. It was that Laphines have been subtly dislikin
 7425#A rumor about the King 3#SG_FEEL#QUE_NOIMAGE#
 Connection between Cenes's despotism and Kardui was made through talking with the Laphines. It is not too serious, but it is certain that the current king Kardui is being considered in a way similar to how Cenes was.#
 #
-#
 
 7426#A rumor about the King 4#SG_FEEL#QUE_NOIMAGE#
 Most recently, Kardui seemed to have become Mayor Jun in the midst of the calamity facing the entire Laphine race. They don't seem to completely disagree with his policies, but they don't seem to agree with them either.#
@@ -6772,7 +6752,6 @@ Check with Leo after some time.#
 7434#Kardui's big brother#SG_FEEL#QUE_NOIMAGE#
 Kardui sends a letter to his big brother. Kardui's brother lives on the top flower of Biforst Tower. Let's deliver it to him.#
 Deliver the letter.#
-  #
 
 7435#Time for reading the letter#SG_FEEL#QUE_NOIMAGE#
 Hisie asked for some time to read the letter. It only takes a couple of minutes, so let's wait a bit.#
@@ -6801,7 +6780,6 @@ Talk with Hisie.#
 7441#Mail is here!#SG_FEEL#QUE_NOIMAGE#
 Planned to visit the scholar of magic's Yai as if Shenime is sending a mail. Hisie will confirm whether that person is Avant. Hisie will provide the information at the crossroads in front of Eclage.#
 10 Dustballs, 10 Leaf Bookmarks#
-#
 
 7442#The identity of the scholar of magics#SG_FEEL#QUE_NOIMAGE#
 The scholar of magics found through the strategy was indeed Avant. Must tell this to Kardui.#
@@ -6852,7 +6830,6 @@ Survey Northern Bifrost.#
 7453#The last of the chief of staff#SG_FEEL#QUE_NOIMAGE#
 The road from the north to the south in Bifrost. It used to be an open path but is currently blocked by a huge rift in the south. On the way to the rift, the chief of staff's corpse was found.#
 Report to Kardui.#
-#
 
 // 2012 발렌타인화이트 이벤트
 7454#Dessert Class-Handmade Chocolate#SG_FEEL#QUE_NOIMAGE#
@@ -8185,11 +8162,9 @@ Find the treatment to cure the mother of lord.#
 8133#Song of the fox#SG_FEEL#QUE_NOIMAGE#
 Priest, priest~ A fox is following me! If he doesn't leave when I scream and shout! The North Shrine Priest should help me out~ Ralralrah Ralralrah Ralralrahralralrah~~#
 #
-#
 
 8134#Boy at the Northern Shrine#SG_FEEL#QUE_NOIMAGE#
 A stronger spirit will expel the fox from a human. Come on, yell out and show me your spirit!#
-#
 #
 
 8135#Fox Expelled#SG_FEEL#QUE_NOIMAGE#
@@ -8914,8 +8889,6 @@ Conversation with 'Catherine'#
 9024#An errand boy from Einbroch#SG_FEEL#QUE_NOIMAGE#
 Help an errand who comes to prontera from Ainbroc for finding jellopy.#
 Collect 100 jellopy and go back to 'an errand'.#
-Help ^0000FFan errand boy^000000 who come to find ^8B4513Prontera^000000.#
-Collect ^006400100 Jellopies^000000 and go back to ^0000FFthe errand boy^000000에게 돌아가자.#
 
 // 오현석------ 이상한 쥐-------------------
 9028#Strange Hydra#SG_FEEL#QUE_NOIMAGE#
@@ -10638,7 +10611,6 @@ Go back to Instructor Lugen.#
 11087#Repairing the Tent#SG_FEEL#QUE_NOIMAGE#
 You have agreed to help Diego fix his tent by getting materials that he can use as a post and rope to tie it with.#
 20 Ordinary Branch & 20 Strong Vine#
-#
 
 11088#Repairing the Tent#SG_FEEL#QUE_NOIMAGE#
 Diego is holding the makeshift pole of his tent, struggling to keep it straight. You should assist him with branch and vine.#
@@ -11622,7 +11594,6 @@ Go back into the house.#
 11337#Dreaming boy#SG_FEEL#QUE_NOIMAGE#
 Oliver the Dreaming Boy was nowhere to be found. What happened? Talk with Du's group.#
 Talk with Du's group.#
-#
 
 11338#Conversation with Subino#SG_FEEL#QUE_NOIMAGE#
 Talk to Subino in charge of hunting quests at the Criatura Academy.#
@@ -13421,7 +13392,6 @@ Announce the beginning.#
 13051#The singing Laphine#SG_FEEL#QUE_NOIMAGE#
 Tell the singing Laphine that the project will be started.#
 Find the singing Laphine.#
-#
 
 13052#The watering Laphine#SG_FEEL#QUE_NOIMAGE#
 Tell the watering Laphine that the project will be started.#
@@ -13430,7 +13400,6 @@ Find the watering Laphine.#
 13053#The dancing Laphine#SG_FEEL#QUE_NOIMAGE#
 Tell the dancing Laphine that the project will be started.#
 Find the dancing Laphine.#
-#
 
 13054#The smiling Laphine#SG_FEEL#QUE_NOIMAGE#
 Tell the smiling Laphine that the project will be started.#
@@ -13459,7 +13428,6 @@ Today's project is over! Let's come back later when we have time.#
 13060#Safety confirmation complete!#SG_FEEL#QUE_NOIMAGE#
 Everyone seems safe. Would they be safe tomorrow as well?#
 #
-  #
 
 13061#Food support#SG_FEEL#QUE_NOIMAGE#
 Bring 10 meats and 10 bunches of acorns for starving New Oz.#
@@ -13752,12 +13720,8 @@ Today's mission success. Let's come back after one day.#
 13133#Combat Ragged Zombie#SG_FEEL#QUE_NOIMAGE#
 Combat Ragged Zombie in unknown island#
 Combat 30 Ragged Zombie#
-Combat Ragged Zombie in unknown island#
-Combat 30 Ragged Zombie#
 
 13134#Combat Ragged Zombie - Wait#SG_FEEL#QUE_NOIMAGE#
-Today's mission success. Let's come back after one day.#
-#
 Today's mission success. Let's come back after one day.#
 #
 
@@ -14070,7 +14034,6 @@ Sending Wuhari regards.#
 14125#Surveying the area#SG_FEEL#QUE_NOIMAGE#
 Wuhari is searching for ways to recover Wuhuru's body. However, he doesn't know how. Wouldn't people in the nearby areas know something? Survey the areas nearby.#
 Talk with people in the town.#
-#
 
 14126#Searching for Ms. Goatie#SG_FEEL#QUE_NOIMAGE#
 Mr. Masione said he does not know much at all. But refers to Ms. Goatie who is a lot sharper with these things…#
@@ -14124,7 +14087,6 @@ Report to Wuhari.#
 Wuhari asked for ingredients that he could use to research on his own. Provide Wuhari with his necessary ingredients. (1 Wing piece, 1 sturdy hair, 1 Bradium, 1 rune of darkness, 1 rune of blood).#
 Obtain the items!#
 
-//----------- 초보자 수련장 (궁수편)
 //----------- 초보자 수련장 (궁수편)
 14142#To the Archer's town!#SG_FEEL#QUE_NOIMAGE#
 Finish the lesson by going to the Archer's Guild by going to Payon and traveling north.#
