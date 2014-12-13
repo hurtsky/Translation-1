@@ -2048,8 +2048,8 @@ Input your party ad.#
 Only party leader can register party ad.#
 You have already accepted this ad.#
 For#
-Eqp#
-Fav#
+E#
+F#
  Drop Lock: On/Off#
 Party Alarm#
 Create Party#
@@ -2489,7 +2489,7 @@ Swallowed countless adventurers to put a hell of confusion, wandering in the for
 You can enter only numbers.#
 Exchange or store window is active and can not register the withdrawal.#
 Go to#
-Item Compare#
+Compare#
 Now you are trying to mount the gun equipped with bullet does not meet#
 Now you are trying to mount the guns and bullets will not fit mounted#
 Has not registered to sell the item. Please register to sell the item#
