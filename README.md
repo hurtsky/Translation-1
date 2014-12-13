@@ -1,4 +1,4 @@
 Translation
 ===========
 
-Ragnarok Online ClientSide Translation Project.
+Ragnarok Online ClientSide Translation Project. 
