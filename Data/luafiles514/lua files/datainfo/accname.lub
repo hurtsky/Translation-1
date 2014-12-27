@@ -1291,5 +1291,5 @@ AccNameTable = {
   [ACCESSORY_IDs.ACCESSORY_Spell_Circuit] = "_스펠서킷",
   [ACCESSORY_IDs.ACCESSORY_Angel_Marcher_Hat] = "_천사의마칭햇",
   [ACCESSORY_IDs.ACCESSORY_Dark_Night_Veil] = "_암야의베일",
-  [ACCESSORY_IDs.ACCESSORY_Loki_Nidhogg_Hat] = "_로키&니드호그모자"
+  [ACCESSORY_IDs.ACCESSORY_Loki_Nidhogg_Hat] = "_로키와니드호그모자"
 }
