@@ -2533,7 +2533,7 @@ You do not have enough items.#
 Name of the character that cannot be invited.#
 You cannot invite the character to the guild.#
 Item already Sold,Purchase Failed..#
-ÇöÀç À§Ä¡¿¡¼­ ¿öÇÁ Àå¼Ò¸¦ ±â¾ï ÇÒ ¼ö ¾ø½À´Ï´Ù.#
+Cannot save location as a Memo Point at current location.#
 Cannot purchase item, You exceeded the weight.#
 No.#
 Item#
@@ -2560,8 +2560,175 @@ Pair of Revolver should be equipped with bullets.#
 Item Sell History#
 Item Purchase History#
 Grenade Launcher should be equipped with bullets.#
-[È÷Æ®¹è·²],[¸Åµå´Ï½º Äµ½½·¯],[ÇÃ·¡Æ¼³Ñ ¾ËÅÍ] ÀÇ È¿°úµéÀº ÁßÃ¸ÇÏ¿© »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.#
+[Heat barrel],[Last Stand],[Platinum Alter] cannot be used while sitting.#
 Cannot use skill in this map.#
 If you are using a guild warehouse warehouse all items will disappear.#
 http://ragnarok.gamesamba.com/paytest.html#
 Please enter a password to login.#
+Pet Evolution#
+Evolution - %s#
+Evolution requires the following ingredients:#
+Are you sure you want to evolve?#
+Unknown Error#
+Does not have a pet summoned.#
+It is not requested petal.#
+Evolution material is low.#
+Lack the necessary material for evolution.#
+Only evolve when intimacy is Loyal.#
+Automatic feeding#
+Pet feeding. '%s' transferred %d #
+Automatic feeding turned On#
+Automatic feeding turned Off#
+Update#
+%d minutes ago#
+%d hours ago#
+%d days ago#
+%d%% ( Premium %d%% + %s Server )#
+Mailed#
+Your mail has been sent.#
+This item has been moved to the inventory.#
+Failed to get items.#
+Please empty your inventory.#
+Zeny received.#
+Failed to get zeny.#
+Exceeded the limits of zenny.#
+Items attached success#
+The name of the recipient must be included.#
+The length of the title must be 4 to 50 characters long.#
+Mail delivery failed.#
+Transmission has failed to inappropriate items.#
+Information of the recipient does not exist.#
+%s [%d Option]#
+Level, enter a number between 1 and %d.#
+Please free the window possessing space.#
+Sending mail count exceeded.#
+You can not open the mail. #
+You are currently joined in CLan !!#
+Gold PC rooms mileage information#
+Unequip pet accessories first to start evolution#
+%d minutes later#
+%d hours later#
+%d days later#
+Press the OK button to confirm the C-CODE.#
+After obtaining the attached article can be deleted.#
+You can not send any more zeny.#
+Fee: %s Zeny#
+The recipient's name does not exist.#
+E X P : %.1f%% ( basic %.1f%% premium %.1f%% + %s %.1f%%)#
+DROP  : %.1f%% ( basic %.1f%% premium %.1f%% + %s %.1f%%)#
+DEATH : %.1f%% ( basic %.1f%% premium %.1f%% + %s %.1f%%)#
+You can accumulate point of PC Gold rooms mileage up to %d points maximum.#
+This function can not be used on the server.#
+Imposible to use in server.#
+The auction is not available in server.#
+The deal is imposible in server.#
+Items discard is imposible in server.#
+Stores selling features are not available.#
+The SP's summoned enough. #
+%s/%s#
+The maximum length of the message content is 1K.#
+Failed to attach an item.#
+The weight of the items that can be attached to mail has been exceeded.#
+Is already in service. Please try again in a few minutes.#
+Unable to open the window of Lucky Roulette.#
+Unable to close the window of the Lucky Roulette.#
+You can not start a roulette wheel of fortune.#
+Points is required to play Lucky Roulette.#
+You can not receive a winning items.#
+The number of items in the inventory has been exceeded. #
+The weight has been exceeded. Please free up the possesion window.#
+Failed to open stalls.#
+The roulette wheel is spinning. Please try again after checking with prizes.#
+Lucky Roulette#
+Notify when item sell out#
+Please check the fees.#
+Verify user name#
+Schedule deletion#
+Achievable challenge#
+Achieve overall#
+Achieve rank#
+The following compensation box until [% 5d] point#
+Progress#
+Recent Achievements#
+à¹ø¯  Item#
+à¹ø¯  : %d / %d #
+à¹ø¯  is low.#
+%s#
+Overview#
+General#
+Character#
+Action#
+Other#
+Adventure#
+Rune Midgarts#
+Schwartzvald#
+Arunafeltz#
+Commandment#
+Localizing#
+Dungeon#
+Battle#
+Duel#
+Lily#
+Quest#
+Episode#
+General#
+Memorial#
+Midgard#
+Commandment#
+Other#
+Feat#
+Achieved challenge#
+You cannot add anymore.#
+< %S > achieved.#
+only otp user login allow#
+When this button pressed, you will receive a specified initialized roulette item.#
+When this button pressed, the flashing arrows from the lines of the roulette wheel begins.#
+Title#
+Title release#
+Can't create a Guild in this area.#
+Can't disband a Guild in this area.#
+Can't join a Guild in this area.#
+Can't leave a Guild in this area.#
+Can't deport a Guild in this area.#
+Can't change a Guild title in this area#
+Please empty at least 5 amount of possession in item window.#
+EXP   : %.1f%% ( basic 100.0%% pccafe %.1f%% + %s %.1f%% )#
+DROP  : %.1f%% ( basic 100.0%% pccafe %.1f%% + %s %.1f%% )#
+DEATH : %.1f%% ( basic 100.0%% pccafe %.1f%% + %s %.1f%% )#
+The number of items that can be attached is exceeded.#
+Notify when item purchased#
+Unable to attach the items.#
+Because you can not win a slam room and turn the roulette of the next higher step.#
+Replying#
+Read more#
+Delete message#
+à¹ø¯  : %d#
+%s %s à¹ø¯ #
+à¹ø¯ #
+Total : %d à¹ø¯ #
+%d -> %s à¹ø¯ #
+%s à¹ø¯ #
+                                          Current à¹ø¯ : %s#
+    %s  :  %s  à¹ø¯#
+%10s à¹ø¯#
+Total : %s à¹ø¯#
+* The fee is 3% fee of at least 1/à¹ø¯ contra#
+à¹ø¯ ÀÔ´Ï´Ù.#
+^0000ffà¹ø¯ ÀÌ»ó^000000ÀÔ´Ï´Ù.ÀÔ·Â±Ý¾×ÀÌ ¸Â½À´Ï±î?#
+10¾ïà¹ø¯ÀÌ»ó ¾ÈÀü È®ÀÎ#
+10¾ï à¹ø¯ ÀÌ»ó ÀÔ·ÂÇÏ¼Åµµ °¡°ÝÀº 10¾ï à¹ø¯·Î ÆÇ¸ÅµË´Ï´Ù.#
+9,999à¹ø¯ ÀÌ»ó ÀÔ·ÂÇÏ¼Åµµ °¡°ÝÀº 9,999à¹ø¯·Î ÆÇ¸ÅµË´Ï´Ù.#
+°¡°ÝÀÌ 0 à¹ø¯ÀÎ ¾ÆÀÌÅÛÀÌ Á¸Àç ÇÕ´Ï´Ù. »óÁ¡À» ¿­¼ö ¾ø½À´Ï´Ù!#
+»ó´ë Ä³¸¯ÅÍ°¡ ÃÖ´ë º¸À¯ à¹ø¯·®À» ÃÊ°úÇÏ¿© °Å·¡°¡ ºÒ°¡´É ÇÕ´Ï´Ù.#
+%s ¾ÆÀÌÅÛÀÇ °¡°ÝÀ» 10¾ïà¹ø¯ ÀÌÇÏ·Î ÀÔ·ÂÇØ ÁÖ¼¼¿ä.#
+%s  :  %s  à¹ø¯ => %s EA#
+Á¦ÇÑ ±Ý¾× : %s à¹ø¯#
+%s %s à¹ø¯ %d °³#
+%s %d°³¸¦ %d à¹ø¯¿¡ ÆÇ¸Å ÇÏ¿´½À´Ï´Ù. ¼ö¼ö·á´Â 3%% ÀÔ´Ï´Ù.#
+RODEX#
+SEND#
+RECEIVE#
+Please close the mail compose window.#
+Server access denied(A)#
+Server access denied(B)#
+
