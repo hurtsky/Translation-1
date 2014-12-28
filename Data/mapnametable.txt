@@ -1,4 +1,30 @@
-//-- - Last updated 2013-07-30 14:08 PM
+//-- - Last updated 2014-10-28 11:08 PM
+
+// Clan MD
+1@ffp.rsw#Remnant Hideout#
+
+// Infinite MD
+1@infi.rsw#Infinite Space#
+
+// Para Market
+paramk.rsw#Para Market#
+
+// ep15.2 Memory Record
+verus01.rsw#Laboratory-OPTATIO#
+verus02.rsw#Research Building-WISH#
+un_bk_q.rsw#Underground Bunker#
+un_bunker.rsw#Underground Bunker#
+un_myst.rsw#Underground Tunnel#
+1@uns.rsw#The last room#
+1@lab.rsw#Central Laboratory#
+
+// New Biolabs Dungeon
+lhz_dun_n.rsw#Tomb of the fallen#
+
+// Trails of the 3 Heroes
+1@glast.rsw#Past Glastheim#
+1@air1.rsw#비공정#
+1@air2.rsw#비공정#
 
 // Rebellion Job Change Map
 job_gun.rsw#Release Shelter#
