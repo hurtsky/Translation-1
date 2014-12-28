@@ -512,23 +512,23 @@ Talk with the Little Santa at Santa's home in Lutie.#
 The ittle Santa saying the gift for raccoons is chosen as nice sweet popatoes. Let's feed the raccons protesting outside of the house.#
 Talk with the Little Santa at Santa's home in Lutie.#
 
-1208#Ã¢¹ÛÀ» º¸¶ó, ³Ê±¸¸® ¸¸¼¼´Ü!#SG_FEEL#QUE_NOIMAGE#
+1208#Ã¢¹ÛÀ» º¸¶ó, 10003 Raccoon!#SG_FEEL#QUE_NOIMAGE#
 ³Ê±¸¸®, Àü³ª¹«¿¡°Ô ¹ã°í±¸¸¶ ¸ÔÀÌ±â.#
 ³ó¼º ³Ê±¸¸®µé¿¡°Ô ¹ã°í±¸¸¶ ¸ÔÀÌ±â.#
 
-1209#Ã¢¹ÛÀ» º¸¶ó, ³Ê±¸¸® ¸¸¼¼´Ü!#SG_FEEL#QUE_NOIMAGE#
+1209#Ã¢¹ÛÀ» º¸¶ó, 10003 Raccoon!#SG_FEEL#QUE_NOIMAGE#
 ³Ê±¸¸®, »ï³ª¹«¿¡°Ô ¹ã°í±¸¸¶ ¸ÔÀÌ±â.#
 ³ó¼º ³Ê±¸¸®µé¿¡°Ô ¹ã°í±¸¸¶ ¸ÔÀÌ±â.#
 
-1210#Ã¢¹ÛÀ» º¸¶ó, ³Ê±¸¸® ¸¸¼¼´Ü!#SG_FEEL#QUE_NOIMAGE#
+1210#Ã¢¹ÛÀ» º¸¶ó, 10003 Raccoon!#SG_FEEL#QUE_NOIMAGE#
 ³Ê±¸¸®, µî³ª¹«¿¡°Ô ¹ã°í±¸¸¶ ¸ÔÀÌ±â.#
 ³ó¼º ³Ê±¸¸®µé¿¡°Ô ¹ã°í±¸¸¶ ¸ÔÀÌ±â.#
 
-1211#Ã¢¹ÛÀ» º¸¶ó, ³Ê±¸¸® ¸¸¼¼´Ü!#SG_FEEL#QUE_NOIMAGE#
+1211#Ã¢¹ÛÀ» º¸¶ó, 10003 Raccoon!#SG_FEEL#QUE_NOIMAGE#
 ³Ê±¸¸®, µ·³ª¹«¿¡°Ô ¹ã°í±¸¸¶ ¸ÔÀÌ±â.#
 ³ó¼º ³Ê±¸¸®µé¿¡°Ô ¹ã°í±¸¸¶ ¸ÔÀÌ±â.#
 
-1212#Ã¢¹ÛÀ» º¸¶ó, ³Ê±¸¸® ¸¸¼¼´Ü!#SG_FEEL#QUE_NOIMAGE#
+1212#Ã¢¹ÛÀ» º¸¶ó, 10003 Raccoon!#SG_FEEL#QUE_NOIMAGE#
 ³Ê±¸¸®, º¢³ª¹«¿¡°Ô ¹ã°í±¸¸¶ ¸ÔÀÌ±â.#
 ³ó¼º ³Ê±¸¸®µé¿¡°Ô ¹ã°í±¸¸¶ ¸ÔÀÌ±â.#
 
@@ -700,11 +700,11 @@ Conversation with the guide Leonie of Izlude shop#
 ¾Ëµ¥¹Ù¶õ¿¡ ÀÖ´Â µ¿³×ÇÕÃ¢´Ü ´ÜÀå°ú ´ëÈ­.#
 
 1255#µ¿¿äÇÏ´Â µ¿³×ÇÕÃ¢´Ü!#SG_FEEL#QUE_NOIMAGE#
-°á±¹ ¶Ç ¸®Çã¼³ÀÌ Áß´Ü µÅ¹ö·È´Ù. °©ÀÛ½º·¹ °íÇÔÀ» Áö¸¥ '³Ê±¸¸® ¸¸¼¼´Ü 1È£'¿Í ´ëÈ­ÇØ º¸ÀÚ.#
-¾Ëµ¥¹Ù¶õ¿¡ ÀÖ´Â '³Ê±¸¸® ¸¸¼¼´Ü 1È£'¿Í ´ëÈ­.#
+°á±¹ ¶Ç ¸®Çã¼³ÀÌ Áß´Ü µÅ¹ö·È´Ù. °©ÀÛ½º·¹ °íÇÔÀ» Áö¸¥ '10003 Raccoon 1È£'¿Í ´ëÈ­ÇØ º¸ÀÚ.#
+¾Ëµ¥¹Ù¶õ¿¡ ÀÖ´Â '10003 Raccoon 1È£'¿Í ´ëÈ­.#
 
 1256#µ¿¿äÇÏ´Â µ¿³×ÇÕÃ¢´Ü!#SG_FEEL#QUE_NOIMAGE#
-³Ê±¸¸® ¸¸¼¼´ÜÀ» À§ÇÑ ÇÇ¸®¸¦ ±¸ÇØ¾ß ÇÑ´Ù. ´Ù½Ã ÇÇ¸® ºÎ´Â »ç³ªÀÌ¸¦ ¸¸³ªº¸ÀÚ.#
+10003 RaccoonÀ» À§ÇÑ ÇÇ¸®¸¦ ±¸ÇØ¾ß ÇÑ´Ù. ´Ù½Ã ÇÇ¸® ºÎ´Â »ç³ªÀÌ¸¦ ¸¸³ªº¸ÀÚ.#
 ÆäÀÌ¿æ¿¡ ÀÖ´Â 'ÇÇ¸® ºÎ´Â »ç³ªÀÌ'¿Í ´ëÈ­.#
 
 1257#µ¿¿äÇÏ´Â µ¿³×ÇÕÃ¢´Ü!#SG_FEEL#QUE_NOIMAGE#
@@ -716,8 +716,8 @@ Conversation with the guide Leonie of Izlude shop#
 ÆäÀÌ¿æ¿¡ ÀÖ´Â 'ÇÇ¸® ºÎ´Â »ç³ªÀÌ'¿Í ´ëÈ­.#
 
 1259#µ¿¿äÇÏ´Â µ¿³×ÇÕÃ¢´Ü!#SG_FEEL#QUE_NOIMAGE#
-¼¼ ¹øÂ° ¹Ì¼Ç ¿Ï·á. ³Ê±¸¸® ¸¸¼¼´ÜÀ» À§ÇÑ '»ÏÁ·ÇÑ ³ª¹« ÇÇ¸®'¸¦ 3°³ ±¸Çß´Ù. ÃÖÁ¾ º¸°í¸¦ À§ÇØ ¾Ëµ¥¹Ù¶õÀ¸·Î µ¹¾Æ°¡ÀÚ.#
-¾Ëµ¥¹Ù¶õ¿¡ ÀÖ´Â '³Ê±¸¸® ¸¸¼¼´Ü 1È£'¿Í ´ëÈ­.#
+¼¼ ¹øÂ° ¹Ì¼Ç ¿Ï·á. 10003 RaccoonÀ» À§ÇÑ '»ÏÁ·ÇÑ ³ª¹« ÇÇ¸®'¸¦ 3°³ ±¸Çß´Ù. ÃÖÁ¾ º¸°í¸¦ À§ÇØ ¾Ëµ¥¹Ù¶õÀ¸·Î µ¹¾Æ°¡ÀÚ.#
+¾Ëµ¥¹Ù¶õ¿¡ ÀÖ´Â '10003 Raccoon 1È£'¿Í ´ëÈ­.#
 
 //----------¿µ¿õÀÇ ÈçÀû - ÀúÁÖÀÇ °Ë»ç '¸Á·ÉÀÇ ¿Õ±Ã' ¸Þ¸ð¸®¾ó ´øÀü
 
@@ -3435,80 +3435,82 @@ Removal of 4 porings#
 ¼¼ ¹øÂ° ¼±¹° ¼ö·É ¿Ï·á ³»ÀÏ ´Ù½Ã Ã£¾Æ°¡ÀÚ#
 #
 
-4306#³Ê±¸¸® ¸¸¼¼´Ü#SG_FEEL#QUE_NOIMAGE#
+//10003 Raccoon
+
+4306#10003 Raccoon#SG_FEEL#QUE_NOIMAGE#
 ÇÁ·ÐÅ×¶óÀÇ ÀÌÆÄ¸®¿¡°Ô ´ç±Ù 5°³¸¦ °¡Á® °¡ÀÚ#
 #
 
-4307#³Ê±¸¸® ¸¸¼¼´Ü#SG_FEEL#QUE_NOIMAGE#
+4307#10003 Raccoon#SG_FEEL#QUE_NOIMAGE#
 °ÔÆæ ÁÖº¯ÀÇ ÃÌÃÌÀ» 10¸¶¸® ÀâÀº ´ÙÀ½ °ÔÆæÀÇ ¾óÃ³±â¿¡°Ô µÇµ¹¾Æ°¡ÀÚ#
 #
 
-4308#³Ê±¸¸® ¸¸¼¼´Ü#SG_FEEL#QUE_NOIMAGE#
+4308#10003 Raccoon#SG_FEEL#QUE_NOIMAGE#
 ½º¸ðÅ°¸¦ 10¸¶¸® ÀâÀº ´ÙÀ½ ÆäÀÌ¿æÀÇ »ê¹Ù¸®¿¡°Ô µÇµ¹¾Æ°¡ÀÚ#
 #
 
-4309#³Ê±¸¸® ¸¸¼¼´Ü#SG_FEEL#QUE_NOIMAGE#
+4309#10003 Raccoon#SG_FEEL#QUE_NOIMAGE#
 ¾Ëº£¸£Å¸ÀÇ ¼öºÀÀÌ¿¡°Ô ºñ´Ã·Î µÈ ÁÙ±â 10°³¸¦ °¡Á® °¡ÀÚ#
 #
 
-4310#³Ê±¸¸® ¸¸¼¼´Ü#SG_FEEL#QUE_NOIMAGE#
+4310#10003 Raccoon#SG_FEEL#QUE_NOIMAGE#
 ¾Ëµ¥¹Ù¶õÀÇ ¿ì¶÷ÀÌ¿¡°Ô µµÅä¸® 10°³¸¦ °¡Á® °¡ÀÚ#
 #
 
-4311#³Ê±¸¸® ¸¸¼¼´Ü#SG_FEEL#QUE_NOIMAGE#
+4311#10003 Raccoon#SG_FEEL#QUE_NOIMAGE#
 ÄÚ¸ðµµÀÇ ¸®¿ì¸®¿¡°Ô Á¶°³»ì 1°³¸¦ °¡Á® °¡ÀÚ#
 #
 
-4312#³Ê±¸¸® ¸¸¼¼´Ü#SG_FEEL#QUE_NOIMAGE#
+4312#10003 Raccoon#SG_FEEL#QUE_NOIMAGE#
 ¸ð·ÎÅ©ÀÇ Ä¡µ¹ÀÌ¿¡°Ô Æ÷µµ ÁÖ½º 1°³¸¦ °¡Á® °¡ÀÚ#
 #
 
-4313#³Ê±¸¸® ¸¸¼¼´Ü#SG_FEEL#QUE_NOIMAGE#
+4313#10003 Raccoon#SG_FEEL#QUE_NOIMAGE#
 À¯³ëÀÇ ÆÄ¶ûÀÌ¿Í ´ëÈ­ ¿Ï·á#
 #
 
-4314#³Ê±¸¸® ¸¸¼¼´Ü#SG_FEEL#QUE_NOIMAGE#
+4314#10003 Raccoon#SG_FEEL#QUE_NOIMAGE#
 ÈÖ°Ö ¾Õ ÇÊµå¿¡¼­ °Ô 5¸¶¸®¸¦ Àâ°í ÈÖ°ÖÀÇ Áö¿ì±â¿¡°Ô µÇµ¹¾Æ°¡ÀÚ#
 #
 
-4315#³Ê±¸¸® ¸¸¼¼´Ü#SG_FEEL#QUE_NOIMAGE#
+4315#10003 Raccoon#SG_FEEL#QUE_NOIMAGE#
 ¾ÆÀÎºê·ÎÅ©ÀÇ ¼ö¼ö¸®¿¡°Ô ¼®Åº 1°³¸¦ °¡Á® °¡ÀÚ#
 #
 
-4316#³Ê±¸¸® ¸¸¼¼´Ü#SG_FEEL#QUE_NOIMAGE#
+4316#10003 Raccoon#SG_FEEL#QUE_NOIMAGE#
 ¸®È÷Å¸¸£Á¨ÀÇ ÇÑ¾ËÀÌ¿Í ´ëÈ­ ¿Ï·á#
 #
 
-4317#³Ê±¸¸® ¸¸¼¼´Ü#SG_FEEL#QUE_NOIMAGE#
+4317#10003 Raccoon#SG_FEEL#QUE_NOIMAGE#
 ¶óÇïÀÇ ÀÌ·ç¹Ì¿Í ´ëÈ­ ¿Ï·á#
 #
 
-4318#³Ê±¸¸® ¸¸¼¼´Ü#SG_FEEL#QUE_NOIMAGE#
+4318#10003 Raccoon#SG_FEEL#QUE_NOIMAGE#
 º£ÀÎ½ºÀÇ »ïµ¹ÀÌ¿¡°Ô Á©·ÎÇÇ 5°³¸¦ °¡Á® °¡ÀÚ#
 #
 
-4319#³Ê±¸¸® ¸¸¼¼´Ü#SG_FEEL#QUE_NOIMAGE#
+4319#10003 Raccoon#SG_FEEL#QUE_NOIMAGE#
 ¼ÛÁ¾ÀÌ¿Í ´ëÈ­ ¿Ï·á#
 #
 
-4320#³Ê±¸¸® ¸¸¼¼´Ü#SG_FEEL#QUE_NOIMAGE#
+4320#10003 Raccoon#SG_FEEL#QUE_NOIMAGE#
 ¸ðµµ¸®¿¡°Ô ÃÖÃÊÀÇ º¸»óÀ» ¹Þ¾Ò´Ù#
 #
 
-4321#³Ê±¸¸® ¸¸¼¼´Ü#SG_FEEL#QUE_NOIMAGE#
-³Ê±¸¸® ¸¸¼¼´ÜÀ» ÇÑ ¹øµµ ¸¸³­ Àû ¾ø´Ù#
+4321#10003 Raccoon#SG_FEEL#QUE_NOIMAGE#
+10003 RaccoonÀ» ÇÑ ¹øµµ ¸¸³­ Àû ¾ø´Ù#
 #
 
-4322#³Ê±¸¸® ¸¸¼¼´Ü#SG_FEEL#QUE_NOIMAGE#
-³Ê±¸¸® ¸¸¼¼´ÜÀ» ¸¸³­ Àû ÀÖ´Ù#
+4322#10003 Raccoon#SG_FEEL#QUE_NOIMAGE#
+10003 RaccoonÀ» ¸¸³­ Àû ÀÖ´Ù#
 #
 
-4323#³Ê±¸¸® ¸¸¼¼´Ü#SG_FEEL#QUE_NOIMAGE#
-³Ê±¸¸® ¸¸¼¼´ÜÀ» Á¶±Ý µµ¿Í ÁÖ¾ú´Ù#
+4323#10003 Raccoon#SG_FEEL#QUE_NOIMAGE#
+10003 RaccoonÀ» Á¶±Ý µµ¿Í ÁÖ¾ú´Ù#
 #
 
-4324#³Ê±¸¸® ¸¸¼¼´Ü#SG_FEEL#QUE_NOIMAGE#
-³Ê±¸¸® ¸¸¼¼´ÜÀ» ¾ÆÁÖ ¸¹ÀÌ µµ¿Í ÁÖ¾ú´Ù#
+4324#10003 Raccoon#SG_FEEL#QUE_NOIMAGE#
+10003 RaccoonÀ» ¾ÆÁÖ ¸¹ÀÌ µµ¿Í ÁÖ¾ú´Ù#
 #
 
 4325#¸ðµµ¸®ÀÇ º¸»ó#SG_FEEL#QUE_NOIMAGE#
@@ -3543,30 +3545,34 @@ Removal of 4 porings#
 ¿À´ÃÀº ¼±¹°À» ¹Þ¾Ò´Ù. ÇÏ·ç°¡ Áö³­ ´ÙÀ½¿¡ ¸ðµµ¸®¸¦ Ã£¾Æ°¡¸é ´Ù½Ã ¼±¹°À» ÁÙ °ÍÀÌ´Ù.#
 #
 
-4357#»êÅ¸ ·ç³ªÆ½ »ç³É#SG_FEEL#QUE_NOIMAGE#
-ÇÁ·ÐÅ×¶ó¿Í °ÔÆæ ±ÙÃ³ÀÇ ÇÊµå¿¡¼­ »êÅ¸ ·ç³ªÆ½ 3¸¶¸®¸¦ Ã³Ä¡ÇÏÀÚ#
+// Christmas Event
+
+4357#Hunt Santa Lunatic#SG_FEEL#QUE_NOIMAGE#
+Kill 3 Santa Lunatic, near fields of prontera and geffen#
 #
-4358#»êÅ¸ °íºí¸° »ç³É#SG_FEEL#QUE_NOIMAGE#
-°ÔÆæ ³²ÂÊ¿¡¼­ »êÅ¸ °íºí¸° 3¸¶¸®¸¦ Ã³Ä¡ÇÏÀÚ#
+4358#Hunt Santa Goblin#SG_FEEL#QUE_NOIMAGE#
+Kill 3 Santa Goblin (from Southern part of Geffen)#
 #
-4359#»êÅ¸ ¿ÀÅ© »ç³É#SG_FEEL#QUE_NOIMAGE#
-°ÔÆæ ³²ÂÊ, ÇÁ·ÐÅ×¶ó ³²¼­ÂÊÀÇ ¿ÀÅ© ÇÊµå¿¡¼­ »êÅ¸ ¿ÀÅ© 3¸¶¸®¸¦ Ã³Ä¡ÇÏÀÚ#
+4359#Hunt Santa Orc#SG_FEEL#QUE_NOIMAGE#
+Kill 3 Santa Orcs found in southern Geffen/Orc Field#
 #
-4360#»êÅ¸ Àè »ç³É#SG_FEEL#QUE_NOIMAGE#
-°ÔÆæ Å¸¿ö 2Ãþ¿¡¼­ »êÅ¸ Àè 3¸¶¸®¸¦ Ã³Ä¡ÇÏÀÚ#
+4360#Hunt Santa Jackk#SG_FEEL#QUE_NOIMAGE#
+Kill 3 Santa Jackk from 2nd Floor Geffen Tower#
 #
-4361#»êÅ¸·ç³ªÆ½ ´ë±âÁß#SG_FEEL#QUE_NOIMAGE#
-³»ÀÏ ´Ù½Ã Äù½ºÆ®¸¦ ¹ÞÀ» ¼ö ÀÖ´Ù#
+4361#Wait for Santa Lunatic#SG_FEEL#QUE_NOIMAGE#
+Please wait for 24 hours for quest#
 #
-4362#»êÅ¸°íºí¸° ´ë±âÁß#SG_FEEL#QUE_NOIMAGE#
-³»ÀÏ ´Ù½Ã Äù½ºÆ®¸¦ ¹ÞÀ» ¼ö ÀÖ´Ù#
+4362#Wait for Santa Goblin#SG_FEEL#QUE_NOIMAGE#
+Please wait for 24 hours for quest#
 #
-4363#»êÅ¸¿ÀÅ© ´ë±âÁß#SG_FEEL#QUE_NOIMAGE#
-³»ÀÏ ´Ù½Ã Äù½ºÆ®¸¦ ¹ÞÀ» ¼ö ÀÖ´Ù#
+4363#Wait for Santa Orc#SG_FEEL#QUE_NOIMAGE#
+Please wait for 24 hours for quest#
 #
-4364#»êÅ¸Àè ´ë±âÁß#SG_FEEL#QUE_NOIMAGE#
-³»ÀÏ ´Ù½Ã Äù½ºÆ®¸¦ ¹ÞÀ» ¼ö ÀÖ´Ù#
+4364#Wait for Santa Jakk#SG_FEEL#QUE_NOIMAGE#
+Please wait for 24 hours for quest#
 #
+
+//Frogs
 
 5000#The Crow of the Fate - 7#SG_FEEL#QUE_NOIMAGE#
 Go back to Benjamin in Morocc and tell him about Oliver Hilpert#
@@ -4915,28 +4921,28 @@ Z-2 ±¸¿ª¿¡ ºÎÅ¹ ¹ÞÀº ¹°°ÇÀ» ¿î¼ÛÇÏ¿´´Ù.#
 ¸®º§¸®¿ÂÀÇ ¸®º§¸®¿Â¿¡ ÀÇÇÑ ¸®º§¸®¿ÂÀ» À§ÇÑ ½ºÅ³ÃÊ±âÈ­¸¦ 3È¸ ÀÌ¿ëÇÏ¿´½À´Ï´Ù.#
 #
 
-//ÇÑ±¹ °ïÃæ Ä§°øÀÌº¥Æ®
-5374#±ä±Þ»óÈ²#SG_FEEL#QUE_NOIMAGE#
-À§ÇèÇØ º¸ÀÌ´Â ¹®¼­¸¦ ·é¹Ìµå°¡Ã÷ °¡µå¿¡°Ô Àü´ÞÇß´Ù.#
+//Event: Korea Insect Invasion
+5374#Emergency!!#SG_FEEL#QUE_NOIMAGE#
+Suspicious Article has been passed to Rune of Midgards.#
 #
 
-5375#[´ë±â]ÀÏ¹Ýº´ Åä¹ú(ÇÁ¸®¹Ì¾ö)#SG_FEEL#QUE_NOIMAGE#
-ÀÏ¹Ýº´ Åä¹ú ÀÓ¹«¸¦ ´Ù½Ã ÇÏ±â À§ÇØ¼­´Â 12½Ã°£À» ±â´Ù·Á¾ß ÇÕ´Ï´Ù.#
-´ë±â½Ã°£ 12½Ã°£#
+5375#[Ready]Disease Suppresion(Premium)#SG_FEEL#QUE_NOIMAGE#
+In order for working of Bottle, you must wait 12 hours.#
+Wait 12 Hours#
 
-5376#[´ë±â]ÀÏ¹Ýº´ Åä¹ú#SG_FEEL#QUE_NOIMAGE#
-ÀÏ¹Ýº´ Åä¹ú ÀÓ¹«¸¦ ´Ù½Ã ÇÏ±â À§ÇØ¼­´Â 24½Ã°£À» ±â´Ù·Á¾ß ÇÕ´Ï´Ù.#
-´ë±â½Ã°£ 24½Ã°£#
+5376#[´ë±â]Disease Suppresion#SG_FEEL#QUE_NOIMAGE#
+In order for working of Bottle, you must wait 24 hours.#
+Wait 24 Hours#
 
-5377#ÀÏ¹Ýº´ Åä¹ú#SG_FEEL#QUE_NOIMAGE#
-Åä¹ú ÀÓ¹«!! ÀÏ¹Ýº´ µ¥´Ï·Î¸¦ 20¸¶¸® Åä¹úÇÏ¶ó!!#
+5377#Disease Suppresion#SG_FEEL#QUE_NOIMAGE#
+Suppress Mission!! Make a Bottle of Dex20 !!#
 #
 
-5378#ÀÏ¹Ýº´ Åä¹ú#SG_FEEL#QUE_NOIMAGE#
-Åä¹ú ÀÓ¹«!! ÀÏ¹Ýº´ ºñÅ¸Å¸¸¦ 20¸¶¸® Åä¹úÇÏ¶ó!!#
+5378#Disease Suppresion#SG_FEEL#QUE_NOIMAGE#
+Suppress Mission!! Make a Bottle of Vit20 !!#
 #
 
-5379#ÀÏ¹Ýº´ Åä¹ú#SG_FEEL#QUE_NOIMAGE#
+5379#Disease Suppresion#SG_FEEL#QUE_NOIMAGE#
 Åä¹ú ÀÓ¹«!! ÀÏ¹Ýº´ ¾Óµå·¹¸¦ 20¸¶¸® Åä¹úÇÏ¶ó!!#
 #
 
@@ -5038,10 +5044,7 @@ You've chosen you're path to become a Taekwon. You must take the mental aptitude
 You finally can become a Taekwon by having a conversation with Phoenix.#
 #
 
-
-
-
-//¼Ò¿ï¸µÄ¿
+//Soul Linker
 
 6005#Job Change to Soul-Linker#SG_FEEL#QUE_NOIMAGE#
 If you want to rule the power of spirits, you need to proceed a ceremony using some materials. You must gather 1 Witherless Rose, 3 Carat Diamond and 1 Immortal Heart.#
@@ -9835,8 +9838,7 @@ Hunt 30 ^0000FF thief worms^000000, 30^0000FF thief real^000000 from the ^8B4513
 ¿¹¾ðÀÚ K¿¡°Ô µ¹¾Æ°¡ ¸ðµç »óÈ²À» ÀÌ¾ß±â ÇÏ°í º¸»óÀ» ¹ÞÀÚ.#
 ¿¹¾ðÀÚ K¿¡°Ô µ¹¾Æ°¡±â.#
 
-// 12°£Áö 7¿ù
-
+// 12 July
 
 9369#¸»ÀÇ ¿µÈ¥ Á¶°¢ ¸ð¾Æ¿À±â.#SG_FEEL#QUE_NOIMAGE#
 °ÔÆæ Áß¾Ó Å¾¿¡ ÀÖ´Â °ÔÆæ ÁöÇÏ´øÀü 2Ãþ¿¡¼­ ³ªÀÌÆ®¸Þ¾î¸¦ »ç³ÉÇØ ¸»ÀÇ ¿µÈ¥ Á¶°¢À» 100°³ ¸ð¾Æ¿Í¾ß ÇÑ´Ù.#
@@ -11540,11 +11542,11 @@ You can't receive any request from Biscuit during one day.#
 ÁÖ¹®À» ¹Þ¾Ò´Ù. ¹Ù¾Ë¿¡°Ô µ¹¾Æ°¡ÀÚ.#
 
 11253#¹Ù¾ËÀÇ ³ëÃµ±îÆä#SG_FEEL#QUE_NOIMAGE#
-ÇØ»ê¹°ÃÊÄÚÄÉŸå Àç·á : ¹Ù´Ù°¡Àç 1¸¶¸®, ¿ÀÂ¡¾î, »õ¿ì, Á¶°³, ¸Û°Ô µî °¢Á¾ ÇØ»ê¹°, ½ºÆÝÁö ÄÉŸå ½ÃÆ®, ÃÊÄÝ·¿#
+ÇØ»ê¹°ÃÊÄÚÄÉŸ?Àç·á : ¹Ù´Ù°¡Àç 1¸¶¸®, ¿ÀÂ¡¾î, »õ¿ì, Á¶°³, ¸Û°Ô µî °¢Á¾ ÇØ»ê¹°, ½ºÆÝÁö ÄÉŸ?½ÃÆ®, ÃÊÄÝ·¿#
 ¿ä¸®ºñ±ÞÀ» ÀÐ¾ú´Ù. ¹Ù¾Ë¿¡°Ô µ¹¾Æ°¡ÀÚ.#
 
 11254#¹Ù¾ËÀÇ ³ëÃµ±îÆä#SG_FEEL#QUE_NOIMAGE#
-¼Õ´ÔÀÌ È­°¡³ª¼­ µ¹¾Æ°¡ ¹ö·È´Ù.#
+¼Õ´ÔÀÌ È­°¡³ª?­ µ¹¾Æ°¡ ¹ö·È´Ù.#
 ¾îÂ·µç ¹Ù¾Ë¿¡°Ô µ¹¾Æ°¡ÀÚ.#
 
 //-- Å©¸®Åõ¶ó
