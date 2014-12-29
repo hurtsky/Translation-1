@@ -5566,7 +5566,7 @@ StateIconList[EFST_IDs.EFST_JUMPINGCLAN] = {
   descript = {
     {"Jumping Clan", COLOR_TITLE_BUFF},
     {
-      "All State + 1."
+      "All Stats + 1."
     }
   }
 }

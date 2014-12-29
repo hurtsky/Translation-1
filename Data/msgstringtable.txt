@@ -2602,8 +2602,8 @@ Information of the recipient does not exist.#
 Level, enter a number between 1 and %d.#
 Please free the window possessing space.#
 Sending mail count exceeded.#
-You can not open the mail. #
-You are currently joined in CLan !!#
+You can not open the mail.#
+You are currently joined in Clan !!#
 Gold PC rooms mileage information#
 Unequip pet accessories first to start evolution#
 %d minutes later#
