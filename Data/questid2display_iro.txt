@@ -6281,7 +6281,7 @@ The old man in the village said that there is girl who shows up in the same plac
 #
 
 //-----------2009 A training place for novice
-		#Your first quest!#SG_FEEL#QUE_NOIMAGE#
+7117#Your first quest!#SG_FEEL#QUE_NOIMAGE#
 Cross the bridge to the right. Go through the castle entrance, into the Training Center, and talk to Sprakki inside.#
 #
 
