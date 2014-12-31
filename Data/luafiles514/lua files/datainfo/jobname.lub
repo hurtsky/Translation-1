@@ -3297,5 +3297,6 @@ JobNameTable = {
   [jobtbl.JT_4_PD_TAMADORA] = "4_PD_TAMADORA",
   [jobtbl.JT_4_JP_EDGA_H] = "4_JP_EDGA_H",
   [jobtbl.JT_4_JP_BRAGOLEM_H] = "4_JP_BRAGOLEM_H",
-  [jobtbl.JT_4_EL_AQUA] = "4_EL_AQUA"
+  [jobtbl.JT_4_EL_AQUA] = "4_EL_AQUA",
+  [jobtbl.JT_LOST_LAMB] = "AMISTR",
 }
