@@ -1295,5 +1295,6 @@ ACCESSORY_IDs = {
   ACCESSORY_Spell_Circuit = 1301,
   ACCESSORY_Angel_Marcher_Hat = 1302,
   ACCESSORY_Dark_Night_Veil = 1303,
-  ACCESSORY_Loki_Nidhogg_Hat = 1304
+  ACCESSORY_Loki_Nidhogg_Hat = 1304,
+  ACCESSORY_Baphomet_Hat = 1311
 }
