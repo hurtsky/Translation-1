@@ -2576,7 +2576,7 @@ Evolution material is low.#
 Lack the necessary material for evolution.#
 Only evolve when intimacy is Loyal.#
 Automatic feeding#
-Pet feeding. '%s' transferred %d #
+Pet feeding. '%s' transferred %d#
 Automatic feeding turned On#
 Automatic feeding turned Off#
 Update#
@@ -2617,14 +2617,14 @@ The recipient's name does not exist.#
 E X P : %.1f%% ( basic %.1f%% premium %.1f%% + %s %.1f%%)#
 DROP  : %.1f%% ( basic %.1f%% premium %.1f%% + %s %.1f%%)#
 DEATH : %.1f%% ( basic %.1f%% premium %.1f%% + %s %.1f%%)#
-You can accumulate point of PC Gold rooms mileage up to %d points maximum.#
+You can accumulate points of PC Gold-club up to %d points maximum.#
 This function can not be used on the server.#
 Imposible to use in server.#
 The auction is not available in server.#
 The deal is imposible in server.#
 Items discard is imposible in server.#
 Stores selling features are not available.#
-The SP's summoned enough. #
+The SP's summoned enough.#
 %s/%s#
 The maximum length of the message content is 1K.#
 Failed to attach an item.#
