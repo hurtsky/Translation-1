@@ -7,5 +7,6 @@ SPRITE_ROBE_IDs = {
   ROBE_KIRIN_WING = 6,
   ROBE_Ribbon_Piamat = 7,
   ROBE_RUDRA_WING = 8,
-  ROBE_Wing_Of_Happiness = 9
+  ROBE_Wing_Of_Happiness = 9,
+  ROBE_GraetDevilWing = 10
 }

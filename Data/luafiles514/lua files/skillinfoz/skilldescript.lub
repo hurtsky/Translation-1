@@ -7740,7 +7740,6 @@ SKILL_DESCRIPT = {
   [SKID.NPC_WIDESOULDRAIN] = {
   },
   [SKID.ALL_INCCARRY] = {
-    "\t\t\t",
     "Enlarge Weight Limit",
     "Skill Form: ^000099Passive^000000",
     "Description: ^777777Increase Maximum Weight Limit.^000000",
@@ -7802,7 +7801,6 @@ SKILL_DESCRIPT = {
     "Description : ^777777Move to Mora Town. 3 seconds of fixed casting. Cannot use it again for 5 minutes.^000000"
   },
   [SKID.ALL_ODINS_POWER] = {
-
     "Odin's Power",
     "Type:^777777 Active / Buff ^000000",
     "Description : Temporarily increases Magical and Physical attack damage but lowers DEF and MDEF",
@@ -13294,10 +13292,10 @@ SKILL_DESCRIPT = {
   },
   [SKID.ALL_NIFLHEIM_RECALL] = {
     "Return to Niflheim",
-    "Description : ^777777Teleport to Niflheim.^000000"
+    "Description : ^777777Teleport to Niflheim, 5 minutes after use delay.^000000"
   },
   [SKID.ALL_PRONTERA_RECALL] = {
     "Return to Prontera",
-    "Description : ^777777Teleport to Prontera.^000000"
+    "Description : ^777777Teleport to Prontera, 5 minutes after use delay.^000000"
   }
 }
