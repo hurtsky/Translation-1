@@ -1301,5 +1301,8 @@ AccNameTable = {
   [ACCESSORY_IDs.ACCESSORY_Cozy_Hat] = "_바라만봐도포근한모자",
   [ACCESSORY_IDs.ACCESSORY_Large_Ribbon_Muffler] = "_커다란리본머플러",
   [ACCESSORY_IDs.ACCESSORY_Snownow_Hat] = "_스노우노우모자",
-  [ACCESSORY_IDs.ACCESSORY_Choco_Mint_Bonnet] = "_초코민트보넷"
+  [ACCESSORY_IDs.ACCESSORY_Choco_Mint_Bonnet] = "_초코민트보넷",
+  [ACCESSORY_IDs.ACCESSORY_STRONGMAN_HAIR_BLACK] = "_강한자의헤어검정",
+  [ACCESSORY_IDs.ACCESSORY_STRONGMAN_HAIR_RED] = "_강한자의헤어빨강",
+  [ACCESSORY_IDs.ACCESSORY_STRONGMAN_HAIR_WHITE] = "_강한자의헤어하얀"
 }
