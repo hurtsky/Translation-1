@@ -1051,7 +1051,7 @@ StateIconList[EFST_IDs.EFST_HIDING] = {
       "Hide under the ground to avoid enemy attack"
     },
     {
-      "Can be detected enemy's detecting skill"
+      "Can be detected by enemy's detecting skill"
     }
   }
 }
