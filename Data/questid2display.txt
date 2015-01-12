@@ -2752,57 +2752,75 @@ Penetration#
 
 4015#Becoming an Adventurer Appraiser#SG_FEEL##
 Meet the inspector of the kingdom and become an advanturer appraiser#
+#
 
 4016#Proof of Qualification#SG_FEEL##
 Prove your strength by bringing 2 Reins.#
+#
 
 4017#Qualification Test#SG_FEEL##
 Pass the aptitude test and get yourself fully qualified.#
+#
 
 4018#Preparations for Meeting Princes#SG_FEEL##
 Talk to the inspector again and get ready to meet the princes.#
+#
 
 4020#Interview with the Prince#SG_FEEL##
 Talk to the prince from the Gaebolg Family.#
+#
 
 4021#Interview with the Prince#SG_FEEL##
 Talk to the prince from the Walter Family.#
+#
 
 4022#Interview with the Prince#SG_FEEL##
 Talk to the prince from the Rechard Family.#
+#
 
 4023#Interview with the Prince#SG_FEEL##
 Talk to the prince from the Heine Family.#
+#
 
 4024#Interview with the Prince#SG_FEEL##
 Talk to the prince from the Wigner Family.#
+#
 
 4025#Interview with the Prince#SG_FEEL##
 Talk to the prince from the Roewenburg Family.#
+#
 
 4026#Interview with the Prince#SG_FEEL##
 Talk to the prince from the Nerius Family.#
+#
 
 4027#Interview with the Prince#SG_FEEL##
 Listen to the story a bit more.#
+#
 
 4028#The prince, Peter's Favor#SG_FEEL##
 Find the girl who wrote the letter to the prince Peter and give her flowers.#
+#
 
 4029#The Girl's Favor#SG_FEEL##
 Deliver the flower from the girl to Peter.#
+#
 
 4030#The Story of Ahrum and Ernst#SG_FEEL##
 Listen to the story of Ahrum and Ernst.#
+#
 
 4031#The Story of Ahrum and Ernst#SG_FEEL##
 You heard the news that a person from Walter Family is here. How come?#
+#
 
 4032#Conspiracy of the two families#SG_FEEL##
 There's a conspiracy between Walter and Rechard Family. You must report to someone.#
+#
 
 4033#Death of Ahrum#SG_FEEL##
 The prince Ahrum is killed by Ernst. You need to report ASAP.#
+#
 
 //-Brasilis quest
 4133#Anori's Purification Potion#SG_FEEL#QUE_NOIMAGE#
@@ -3319,6 +3337,8 @@ You have heard the explanation about the upper class jobs#
 4275#Ninja training-Exercise1#SG_FEEL#QUE_NOIMAGE#
 Remove the target at the space of back side of wall within a minute#
 Drops 10#
+
+4275#Ninja training-Exercise1#SG_FEEL#QUE_NOIMAGE#
 Remove the target at the back space of wall within a minute#
 Poring 10#
 
@@ -3550,24 +3570,31 @@ Removal of 4 porings#
 4357#Hunt Santa Lunatic#SG_FEEL#QUE_NOIMAGE#
 Kill 3 Santa Lunatic, near fields of prontera and geffen#
 #
+
 4358#Hunt Santa Goblin#SG_FEEL#QUE_NOIMAGE#
 Kill 3 Santa Goblin (from Southern part of Geffen)#
 #
+
 4359#Hunt Santa Orc#SG_FEEL#QUE_NOIMAGE#
 Kill 3 Santa Orcs found in southern Geffen/Orc Field#
 #
+
 4360#Hunt Santa Jackk#SG_FEEL#QUE_NOIMAGE#
 Kill 3 Santa Jackk from 2nd Floor Geffen Tower#
 #
+
 4361#Wait for Santa Lunatic#SG_FEEL#QUE_NOIMAGE#
 Please wait for 24 hours for quest#
 #
+
 4362#Wait for Santa Goblin#SG_FEEL#QUE_NOIMAGE#
 Please wait for 24 hours for quest#
 #
+
 4363#Wait for Santa Orc#SG_FEEL#QUE_NOIMAGE#
 Please wait for 24 hours for quest#
 #
+
 4364#Wait for Santa Jakk#SG_FEEL#QUE_NOIMAGE#
 Please wait for 24 hours for quest#
 #
@@ -5874,7 +5901,7 @@ The supplies will be given from the guild in the near future. But, I don't know 
 I received the ring of Karakass, which was available for sometime.#
 #
 
-/-- 에피소드 13.3 사파의 초청, 비밀임무
+//-- 에피소드 13.3 사파의 초청, 비밀임무
 
 7182#Sapha's Visit#SG_FEEL#QUE_NOIMAGE#
 There are rumors that a Sapha from Manuk has come to visit the camp. Aello trusts me so he appointed me to speak to him. The delegate is in the room at the right on the second floor.#
@@ -7173,8 +7200,12 @@ Suspicious Babes have stolen many small wooden boxes at the fortress in Gloria. 
 7510# Fight Off 30 Thieves#SG_FEEL#QUE_NOIMAGE#
 A request to fight off Poring the Thief that appears during Multiplayer Battle Arena hours at the fortress in Gloria in Multiplayer Battle Arena TE. Target number: 1 Poring.#
 Poring the Thief eliminated#
+
+7510# Fight Off 10 Thieves#SG_FEEL#QUE_NOIMAGE#
 A request to fight off Poring the Thief that appears during Multiplayer Battle Arena hours at the fortress in Gloria in Multiplayer Battle Arena TE. Target number: 10 Porings.#
 Porings eliminated#
+
+7510# Fight Off 10 Thieves#SG_FEEL#QUE_NOIMAGE#
 A request to fight off Poring the Thief that appears during Multiplayer Battle Arena hours at the fortress in Gloria in Multiplayer Battle Arena TE. Target number: 30 Porings.#
 Porings eliminated#
 
