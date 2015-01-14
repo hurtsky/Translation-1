@@ -1165,6 +1165,15 @@ AccNameTable = {
   [ACCESSORY_IDs.ACCESSORY_DragonCintamani_Hat4] = "_여의주를품은용모자4",
   [ACCESSORY_IDs.ACCESSORY_Coiledup_Snake_Hat1] = "_똬리튼뱀모자1",
   [ACCESSORY_IDs.ACCESSORY_Coiledup_Snake_Hat2] = "_똬리튼뱀모자2",
+  [ACCESSORY_IDs.ACCESSORY_Whisper_Tall_Hat] = "_위스퍼톨햇",
+  [ACCESSORY_IDs.ACCESSORY_Subject_Aura] = "_사념의오오라",
+  [ACCESSORY_IDs.ACCESSORY_Poring_Mascot_Costume] = "_덮어쓴포링",
   [ACCESSORY_IDs.ACCESSORY_Horse_Hairpin1] = "_미니말머리핀1",
-  [ACCESSORY_IDs.ACCESSORY_Horse_Hairpin2] = "_미니말머리핀2"
+  [ACCESSORY_IDs.ACCESSORY_Horse_Hairpin2] = "_미니말머리핀2",
+  [ACCESSORY_IDs.ACCESSORY_Lamb_Hat1] = "_양털모자1",
+  [ACCESSORY_IDs.ACCESSORY_Lamb_Hat2] = "_양털모자2",
+  [ACCESSORY_IDs.ACCESSORY_Drooping_Dorasuke] = "_늘어진길용이",
+  [ACCESSORY_IDs.ACCESSORY_Chicken_Hat1] = "_꼬꼬닭모자1",
+  [ACCESSORY_IDs.ACCESSORY_Chicken_Hat2] = "_꼬꼬닭모자2",
+  [ACCESSORY_IDs.ACCESSORY_Chicken_Hat3] = "_꼬꼬닭모자3"
 }

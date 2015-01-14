@@ -26,7 +26,8 @@ CmdOnOffList = {
   ["/merai"] = 0,
   ["/camera"] = 0,
   ["/btg"] = 1,
-  ["/lightmap"] = 1
+  ["/lightmap"] = 1,
+  ["/monsterhp"] = 1
 }
 OptionInfoList = {
   Window_XPos = -1,

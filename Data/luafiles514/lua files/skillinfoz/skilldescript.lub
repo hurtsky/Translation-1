@@ -7434,11 +7434,11 @@ SKILL_DESCRIPT = {
     "caster to damage enemies within the skill's",
     "range. Each cast consumes 1 Wind Stone.^000000",
     "Damage & Range by Skill Level",
-    "[Lv 1]: ^777777+200% Matk, 5*5 cells^000000",
-    "[Lv 2]: ^777777+240% Matk, 5*5 cells^000000",
-    "[Lv 3]: ^777777+280% Matk, 7*7 cells^000000",
-    "[Lv 4]: ^777777+320% Matk, 7*7 cells^000000",
-    "[Lv 5]: ^777777+360% Matk, 9*9 cells^000000"
+    "[Lv 1]: ^777777+200% Matk, 3*3 cells^000000",
+    "[Lv 2]: ^777777+240% Matk, 3*3 cells^000000",
+    "[Lv 3]: ^777777+280% Matk, 5*5 cells^000000",
+    "[Lv 4]: ^777777+320% Matk, 5*5 cells^000000",
+    "[Lv 5]: ^777777+360% Matk, 7*7 cells^000000"
   },
   [SKID.NJ_KAMAITACHI] = {
     "First Wind",

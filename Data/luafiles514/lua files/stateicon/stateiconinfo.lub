@@ -5570,3 +5570,57 @@ StateIconList[EFST_IDs.EFST_JUMPINGCLAN] = {
     }
   }
 }
+StateIconList[EFST_IDs.EFST_ESSENCE_OF_TIME] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {
+      "시간의 조각 응집중",
+      COLOR_SYSTEM
+    },
+    {"%s", COLOR_TIME},
+    {
+      "이미 시간의 정수를 얻었습니다."
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_LIMIT_POWER_BOOSTER] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {
+      "한정판 파워 부스터",
+      COLOR_TITLE_BUFF
+    },
+    {"%s", COLOR_TIME},
+    {
+      "ATK, MATK 증가"
+    },
+    {
+      "HIT, FLEE 증가"
+    },
+    {
+      "공격속도 증가"
+    },
+    {
+      "SP 소모량 감소"
+    },
+    {
+      "고정 캐스팅 감소"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_DRACULA_CARD] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {
+      "봉인된 베르제브브",
+      COLOR_TITLE_BUFF
+    },
+    {"%s", COLOR_TIME},
+    {
+      "변동 캐스팅 시간 감소"
+    }
+  }
+}

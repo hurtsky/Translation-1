@@ -1169,6 +1169,15 @@ ACCESSORY_IDs = {
   ACCESSORY_DragonCintamani_Hat4 = 1248,
   ACCESSORY_Coiledup_Snake_Hat1 = 1258,
   ACCESSORY_Coiledup_Snake_Hat2 = 1259,
+  ACCESSORY_Whisper_Tall_Hat = 1265,
+  ACCESSORY_Subject_Aura = 1267,
+  ACCESSORY_Poring_Mascot_Costume = 1268,
   ACCESSORY_Horse_Hairpin1 = 1271,
-  ACCESSORY_Horse_Hairpin2 = 1272
+  ACCESSORY_Horse_Hairpin2 = 1272,
+  ACCESSORY_Lamb_Hat1 = 1277,
+  ACCESSORY_Lamb_Hat2 = 1278,
+  ACCESSORY_Drooping_Dorasuke = 1290,
+  ACCESSORY_Chicken_Hat1 = 1296,
+  ACCESSORY_Chicken_Hat2 = 1297,
+  ACCESSORY_Chicken_Hat3 = 1298
 }
