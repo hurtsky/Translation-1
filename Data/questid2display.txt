@@ -7769,13 +7769,13 @@ Please wait at least 23 hours before hunting again. But try not to hunt more tha
 #
 
 //2015신년이벤트
-7671#내 어린양을 찾아주오.#SG_FEEL#QUE_NOIMAGE#
-^4d4dff오랏줄^000000을 ^4d4dff길 잃은 어린 양^000000에게 사용해 양을 다섯마리 이상 포획 해 달라는 부탁을 받았다. 양들은 필드 여기저기로 도망쳤다고 한다.#
-포획된 양 5#
+7671#Find my Lost lamb.#SG_FEEL#QUE_NOIMAGE#
+Use the ^4d4dffHunting Rope^000000 on to ^4d4dffLost Lambs^000000 wandering Rune Midgard.#
+Retrieve 5 lost lambs#
 
-7672#그 놈은 매번 도망을 친다오.#SG_FEEL#QUE_NOIMAGE#
-개가 매일 밤 짖어대니 어쩔 수 없다고 한다. 반드시 도망친 양이 생길테니 날이 바뀌면 다시 찾아가 보자.#
-아침에 초기화 됩니다.#
+7672#The lambs keep running away.#SG_FEEL#QUE_NOIMAGE#
+The guard dog seems to be scaring the lambs away regularly. Come back after a few hours and Bori will likely have lost more lambs.#
+Return to Bori after the timer has expired#
 
 7673#수랏간 생각시의 꿈#SG_FEEL#QUE_NOIMAGE#
 떡국 육수에 사용할 밑재료와 색다른 고명을 고민하던 수랏간 단술은 최근 초콜렛이라는걸 봤다며 구해달라고 부탁했다. ^4d4dff싱싱한 문어다리 15개와 초콜렛 1개^000000를 구해주자.#
@@ -12156,9 +12156,9 @@ T_W_O 처치#
 추석 아르바이트 - 뜨거운떡을 10마리 잡아서 페이욘의 방앗간 주인에게 돌아가자.#
 뜨거운떡 사냥#
 
-11393#2015 신년 모자 제작 #SG_FEEL#QUE_NOIMAGE#
-양치기청년의 자신작! 끝내주게 멋진 바라만봐도 포근한 모자를 만들었습니다.#
-모자 제작 완료.#
+11393#2015 new year's hat#SG_FEEL#QUE_NOIMAGE#
+Shepherd Boy's latest masterpiece! Try make this warm looking wool hat.#
+Complete Hat manufacture.#
 
 // 박해리슨
 12000#An old friend#SG_FEEL#QUE_NOIMAGE#
