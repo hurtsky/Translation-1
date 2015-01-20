@@ -694,7 +694,7 @@ Internet Cafe Time Plan has been ended. Would you like to continue the game with
 #
 Your lack of zeny or your zeny limit have prevented you from performing this action.#
 Your character has fainted. Push the ESC key to restart.#
-- %d obtained.#
+ - %d obtained.#
 Spell List#
 /minimize#
 This item has been damaged.#
