@@ -3,7 +3,7 @@
 
 	[14758] = {
 		unidentifiedDisplayName = "안심제련 스크롤",
-		unidentifiedResourceName  = "지혜스크롤",
+		unidentifiedResourceName = "지혜스크롤",
 		unidentifiedDescriptionName = {
 			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
 			"기간 한정 스크롤. ",
@@ -23,7 +23,7 @@
 
 	[17515] = {
 		unidentifiedDisplayName = "언리미티드 박스Ⅲ",
-		unidentifiedResourceName  = "햇빛의상자",
+		unidentifiedResourceName = "햇빛의상자",
 		unidentifiedDescriptionName = {
 			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
 			"ASPD 강화 포션 5개와 레드 부스터 10개가 들어있는 상자. 추가로 안심제련스크롤스크롤 1개가 들어있다.",
@@ -44,7 +44,7 @@
 
 	[17516] = {
 		unidentifiedDisplayName = "언리미티드 10세트 박스Ⅲ",
-		unidentifiedResourceName  = "햇빛의상자",
+		unidentifiedResourceName = "햇빛의상자",
 		unidentifiedDescriptionName = {
 			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
 			"ASPD 강화 포션 50개와 레드 부스터 100개가 들어있는 상자. 추가로 안심 제련 스크롤 11개가 들어있다.",
@@ -67,7 +67,7 @@
 
 	[6847] = {
 		unidentifiedDisplayName = "아주 작은 상자",
-		unidentifiedResourceName  = "한방약재",
+		unidentifiedResourceName = "한방약재",
 		unidentifiedDescriptionName = {
 			"감정되지 않음. [돋보기] 를 사용하여 감정할 수 있다.",
 		},
@@ -84,7 +84,7 @@
 
 	[6848] = {
 		unidentifiedDisplayName = "가벼운 상자",
-		unidentifiedResourceName  = "상자-택배",
+		unidentifiedResourceName = "상자-택배",
 		unidentifiedDescriptionName = {
 			"감정되지 않음. [돋보기] 를 사용하여 감정할 수 있다.",
 		},
@@ -101,7 +101,7 @@
 
 	[6849] = {
 		unidentifiedDisplayName = "의뢰 완료증",
-		unidentifiedResourceName  = "상인영수증",
+		unidentifiedResourceName = "상인영수증",
 		unidentifiedDescriptionName = {
 			"감정되지 않음. [돋보기] 를 사용하여 감정할 수 있다.",
 		},
@@ -118,7 +118,7 @@
 
 	[6850] = {
 		unidentifiedDisplayName = "수상한 상자",
-		unidentifiedResourceName  = "헐떡이는상자",
+		unidentifiedResourceName = "헐떡이는상자",
 		unidentifiedDescriptionName = {
 			"감정되지 않음. [돋보기] 를 사용하여 감정할 수 있다.",
 		},
@@ -135,7 +135,7 @@
 
 	[6851] = {
 		unidentifiedDisplayName = "수상한 문서",
-		unidentifiedResourceName  = "주문서다발",
+		unidentifiedResourceName = "주문서다발",
 		unidentifiedDescriptionName = {
 			"감정되지 않음. [돋보기] 를 사용하여 감정할 수 있다.",
 		},
@@ -152,7 +152,7 @@
 
 	[6852] = {
 		unidentifiedDisplayName = "초강력 중화제",
-		unidentifiedResourceName  = "안약",
+		unidentifiedResourceName = "안약",
 		unidentifiedDescriptionName = {
 			"감정되지 않음. [돋보기] 를 사용하여 감정할 수 있다.",
 		},
@@ -169,7 +169,7 @@
 
 	[6853] = {
 		unidentifiedDisplayName = "감사의 꽃다발",
-		unidentifiedResourceName  = "꽃다발",
+		unidentifiedResourceName = "꽃다발",
 		unidentifiedDescriptionName = {
 			"감정되지 않음. [돋보기] 를 사용하여 감정할 수 있다.",
 		},
@@ -186,7 +186,7 @@
 
 	[6854] = {
 		unidentifiedDisplayName = "포획된 노버스",
-		unidentifiedResourceName  = "무속성알",
+		unidentifiedResourceName = "무속성알",
 		unidentifiedDescriptionName = {
 			"감정되지 않음. [돋보기] 를 사용하여 감정할 수 있다.",
 		},
@@ -203,7 +203,7 @@
 
 	[6855] = {
 		unidentifiedDisplayName = "포획된 따따초",
-		unidentifiedResourceName  = "지속성알",
+		unidentifiedResourceName = "지속성알",
 		unidentifiedDescriptionName = {
 			"감정되지 않음. [돋보기] 를 사용하여 감정할 수 있다.",
 		},
@@ -220,7 +220,7 @@
 
 	[6856] = {
 		unidentifiedDisplayName = "피고름으로 쓴 원고",
-		unidentifiedResourceName  = "원고용지",
+		unidentifiedResourceName = "원고용지",
 		unidentifiedDescriptionName = {
 			"감정되지 않음. [돋보기] 를 사용하여 감정할 수 있다.",
 		},
@@ -237,7 +237,7 @@
 
 	[6857] = {
 		unidentifiedDisplayName = "매우 단단한 돌",
-		unidentifiedResourceName  = "영혼의조각",
+		unidentifiedResourceName = "영혼의조각",
 		unidentifiedDescriptionName = {
 			"감정되지 않음. [돋보기] 를 사용하여 감정할 수 있다.",
 		},
@@ -254,7 +254,7 @@
 
 	[6858] = {
 		unidentifiedDisplayName = "포획된 루드",
-		unidentifiedResourceName  = "수속성알",
+		unidentifiedResourceName = "수속성알",
 		unidentifiedDescriptionName = {
 			"감정되지 않음. [돋보기] 를 사용하여 감정할 수 있다.",
 		},
@@ -271,7 +271,7 @@
 
 	[6859] = {
 		unidentifiedDisplayName = "포획된 배회하는 자",
-		unidentifiedResourceName  = "풍속성알",
+		unidentifiedResourceName = "풍속성알",
 		unidentifiedDescriptionName = {
 			"감정되지 않음. [돋보기] 를 사용하여 감정할 수 있다.",
 		},
@@ -288,7 +288,7 @@
 
 	[6905] = {
 		unidentifiedDisplayName = "부서진 마법석",
-		unidentifiedResourceName  = "어스름한별빛",
+		unidentifiedResourceName = "어스름한별빛",
 		unidentifiedDescriptionName = {
 			"감정되지 않음. [돋보기] 를 사용하여 감정할 수 있다.",
 		},
@@ -304,7 +304,7 @@
 
 	[12872] = {
 		unidentifiedDisplayName = "전투교범 한정판",
-		unidentifiedResourceName  = "전투교범",
+		unidentifiedResourceName = "전투교범",
 		unidentifiedDescriptionName = {
 			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
 			"보다 효율적인 전투방법이 기록된 설명서 한정판!",
@@ -326,7 +326,7 @@
 
 	[14765] = {
 		unidentifiedDisplayName = "JOB 전투교범 한정판",
-		unidentifiedResourceName  = "전투교범",
+		unidentifiedResourceName = "전투교범",
 		unidentifiedDescriptionName = {
 			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
 			"보다 효율적인 전투방법이 기록된 설명서 한정판!",
@@ -350,7 +350,7 @@
 
 	[17520] = {
 		unidentifiedDisplayName = "한정판 교범 상자",
-		unidentifiedResourceName  = "캐시상자_노랑",
+		unidentifiedResourceName = "캐시상자_노랑",
 		unidentifiedDescriptionName = {
 			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
 			"전투교범 한정판 3권과 JOB전투교범 한정판 2권이 들어있는 상자. ",
@@ -374,7 +374,7 @@
 
 	[22717] = {
 		unidentifiedDisplayName = "배자 볼",
-		unidentifiedResourceName  = "알",
+		unidentifiedResourceName = "알",
 		unidentifiedDescriptionName = {
 			"감정되지 않음. [돋보기] 를 사용하여 감정할 수 있다.",
 		},
@@ -391,7 +391,7 @@
 
 	[22718] = {
 		unidentifiedDisplayName = "루드 볼",
-		unidentifiedResourceName  = "알",
+		unidentifiedResourceName = "알",
 		unidentifiedDescriptionName = {
 			"감정되지 않음. [돋보기] 를 사용하여 감정할 수 있다.",
 		},
@@ -408,7 +408,7 @@
 
 	[22719] = {
 		unidentifiedDisplayName = "따따초 볼",
-		unidentifiedResourceName  = "알",
+		unidentifiedResourceName = "알",
 		unidentifiedDescriptionName = {
 			"감정되지 않음. [돋보기] 를 사용하여 감정할 수 있다.",
 		},
@@ -425,7 +425,7 @@
 
 	[22720] = {
 		unidentifiedDisplayName = "노버스 볼",
-		unidentifiedResourceName  = "알",
+		unidentifiedResourceName = "알",
 		unidentifiedDescriptionName = {
 			"감정되지 않음. [돋보기] 를 사용하여 감정할 수 있다.",
 		},
