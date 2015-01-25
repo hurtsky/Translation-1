@@ -22779,7 +22779,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RL_B_TRAP] ={
 		"RL_B_TRAP",
-		SkillName = "Bind Trap",
+		SkillName = "Bound Trap",
 		MaxLv = 5,
 		SpAmount = {
 			30,

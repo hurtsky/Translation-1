@@ -4893,7 +4893,7 @@ StateIconList[EFST_IDs.EFST_FRIGG_SONG] = {
   posTimeLimitStr = 4,
   descript = {
     {
-      "Frigg’s Song",
+      "Frigg's Song",
       COLOR_TITLE_BUFF
     },
     {"Increase Max Hp"},
@@ -4929,10 +4929,10 @@ StateIconList[EFST_IDs.EFST_TELEKINESIS_INTENSE] = {
       COLOR_TITLE_BUFF
     },
     {
-      "Increase ghost elemen magic damage"
+      "Increase ghost property magic damage"
     },
     {
-      "Reduce SP consumption of ghost elemen magic"
+      "Reduce SP consumption of ghost property magic"
     },
     {
       "Decrease variable cast time of all skills"
@@ -4986,13 +4986,13 @@ StateIconList[EFST_IDs.EFST_KINGS_GRACE] = {
   haveTimeLimit = 1,
   posTimeLimitStr = 5,
   descript = {
-    {"King’s Grace", COLOR_TITLE_BUFF},
-    {"Protect against status effects and damage"},
+    {"King's Grace", COLOR_TITLE_BUFF},
+    {"Invulnerable"},
     {
-      "Unable to use items"
+      "Disable item use"
     },
     {
-      "Unable to move or attack"
+      "Unable to move and attack"
     },
     {"%s", COLOR_TIME}
   }
@@ -5142,10 +5142,10 @@ StateIconList[EFST_IDs.EFST_CUP_OF_BOZA] = {
   haveTimeLimit = 1,
   posTimeLimitStr = 4,
   descript = {
-    {"Let’s Cup", COLOR_TITLE_BUFF},
+    {"Let's Cup", COLOR_TITLE_BUFF},
     {"Increase vit"},
     {
-      "Increase resistance against fire monster"
+      "Increase resistance against fire property"
     },
     {"%s", COLOR_TIME}
   }
@@ -5157,7 +5157,7 @@ StateIconList[EFST_IDs.EFST_SWORDCLAN] = {
       "STR +1, VIT +1"
     },
     {
-      "MHP +30, MSP +10"
+      "MaxHP +30, MaxSP +10"
     }
   }
 }
@@ -5171,7 +5171,7 @@ StateIconList[EFST_IDs.EFST_ARCWANDCLAN] = {
       "INT +1, DEX +1"
     },
     {
-      "MHP +30, MSP +10"
+      "MaxHP +30, MaxSP +10"
     }
   }
 }
@@ -5185,7 +5185,7 @@ StateIconList[EFST_IDs.EFST_GOLDENMACECLAN] = {
       "LUK +1, INT +1"
     },
     {
-      "MHP +30, MSP +10"
+      "MaxHP +30, MaxSP +10"
     }
   }
 }
@@ -5199,7 +5199,7 @@ StateIconList[EFST_IDs.EFST_CROSSBOWCLAN] = {
       "DEX +1, AGI +1"
     },
     {
-      "MHP +30, MSP +10"
+      "MaxHP +30, MaxSP +10"
     }
   }
 }
@@ -5332,7 +5332,7 @@ StateIconList[EFST_IDs.EFST_GLASTHEIM_TRANS] = {
       COLOR_TITLE_DEBUFF
     },
     {
-      "Reduce ghost elemen damage by 50%."
+      "Reduce ghost property damage by 50%."
     },
     {"%s", COLOR_TIME}
   }
@@ -5396,7 +5396,7 @@ StateIconList[EFST_IDs.EFST_P_ALTER] = {
   posTimeLimitStr = 2,
   descript = {
     {
-      "Platinum Altar",
+      "Platinum Alter",
       COLOR_TITLE_BUFF
     },
     {"%s", COLOR_TIME},
@@ -5428,7 +5428,7 @@ StateIconList[EFST_IDs.EFST_ANTI_M_BLAST] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Reduce neutral elemen resistance"
+      "Reduce neutral property resistance"
     }
   }
 }
@@ -5520,7 +5520,7 @@ StateIconList[EFST_IDs.EFST_CHUSEOK_WEDNESDAY] = {
       "Increase damage against monster."
     },
     {
-      "Increase resistance against all elemen."
+      "Increase resistance against all property."
     }
   }
 }
@@ -5531,7 +5531,7 @@ StateIconList[EFST_IDs.EFST_CHUSEOK_THURSDAY] = {
     {"Enchanced Property", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
-      "Increase damage against wind elemen monster."
+      "Increase damage against wind property monster."
     },
     {
       "Increase resistance."
@@ -5562,7 +5562,7 @@ StateIconList[EFST_IDs.EFST_CHUSEOK_WEEKEND] = {
       "Increase damage against neutral monster."
     },
     {
-      "Increase against neutral elemen."
+      "Increase neutral resistance."
     }
   }
 }
@@ -5570,7 +5570,7 @@ StateIconList[EFST_IDs.EFST_JUMPINGCLAN] = {
   descript = {
     {"Jumping Clan", COLOR_TITLE_BUFF},
     {
-      "All Stats + 1."
+      "All Stats +1."
     }
   }
 }
@@ -5579,12 +5579,12 @@ StateIconList[EFST_IDs.EFST_ESSENCE_OF_TIME] = {
   posTimeLimitStr = 2,
   descript = {
     {
-      "시간의 조각 응집중",
+      "Essence of Time",
       COLOR_SYSTEM
     },
     {"%s", COLOR_TIME},
     {
-      "이미 시간의 정수를 얻었습니다."
+      "Already have Essence of Time."
     }
   }
 }
@@ -5593,24 +5593,24 @@ StateIconList[EFST_IDs.EFST_LIMIT_POWER_BOOSTER] = {
   posTimeLimitStr = 2,
   descript = {
     {
-      "한정판 파워 부스터",
+      "Limited Power Booster",
       COLOR_TITLE_BUFF
     },
     {"%s", COLOR_TIME},
     {
-      "ATK, MATK 증가"
+      "Increase ATK and MATK"
     },
     {
-      "HIT, FLEE 증가"
+      "Increase HIT and FLEE"
     },
     {
-      "공격속도 증가"
+      "Increase attack speed"
     },
     {
-      "SP 소모량 감소"
+      "Reduce SP consumption"
     },
     {
-      "고정 캐스팅 감소"
+      "Reduce fixed cast time"
     }
   }
 }
@@ -5619,12 +5619,12 @@ StateIconList[EFST_IDs.EFST_DRACULA_CARD] = {
   posTimeLimitStr = 2,
   descript = {
     {
-      "봉인된 베르제브브",
+      "Sealed Berzebub",
       COLOR_TITLE_BUFF
     },
     {"%s", COLOR_TIME},
     {
-      "변동 캐스팅 시간 감소"
+      "Reduce variable cast time"
     }
   }
 }
