@@ -21727,7 +21727,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SO_EL_CONTROL] ={
 		"SO_EL_CONTROL",
-		SkillName = "Spirit Control",
+		SkillName = "Elemental Control",
 		MaxLv = 4,
 		SpAmount = {
 			10,
@@ -21873,7 +21873,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SO_EL_ANALYSIS] ={
 		"SO_EL_ANALYSIS",
-		SkillName = "Four Spirity Analysis",
+		SkillName = "Elemental Analysis",
 		MaxLv = 2,
 		SpAmount = {
 			10,
@@ -21905,7 +21905,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SO_EL_SYMPATHY] ={
 		"SO_EL_SYMPATHY",
-		SkillName = "Spirit Sympathy",
+		SkillName = "Elemental Sympathy",
 		MaxLv = 5,
 		SpAmount = {
 			0,
@@ -21931,7 +21931,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SO_EL_CURE] ={
 		"SO_EL_CURE",
-		SkillName = "Spirit Recovery",
+		SkillName = "Elemental Cure",
 		MaxLv = 1,
 		SpAmount = {
 			10,

@@ -10727,7 +10727,7 @@ SKILL_DESCRIPT = {
     "[Lv 3] : ^777777Skill Duration 1200 sec. / Consume 11 SP per 10 seconds. ^000000"
   },
   [SKID.SO_EL_CONTROL] = {
-    "Spirit Control ",
+    "Elemental Control ",
     "Max Level : 4",
     "^777777Skill Requirement :  Analyze Element 1   ^000000",
     "Skill Form : ^777777Active  ^000000",
@@ -10745,7 +10745,7 @@ SKILL_DESCRIPT = {
     "Description : ^777777Activate 1 offensive (Attack) command immediately from summoned spirit. ^000000"
   },
   [SKID.SO_EL_ANALYSIS] = {
-    "Analyze Element",
+    "Elemental Analysis",
     "^777777Skill Requirement :  Flame Launcher 1 / Endow Tsunami 1 / Endow Tornado 1 / Endow Quake 1   ^000000",
     "Skill Form : ^777777Active  ^000000",
     "Description : ^777777Analyze enchanted ores which are used as catalyst items for summoning spirits into pure gemstones. Also, conversely, combine pure gemstones into an enchanted ore. ^000000",
@@ -10753,7 +10753,7 @@ SKILL_DESCRIPT = {
     "[Lv 2] : ^777777Combine pure gemstones into an enchanted ore (Once caster puts 10 Red Blood, Wind of Verdure, Crystal Blue, Green Live into convert window, it will be combined into 1 Flame Heart, Rough Wind, Mistic Frozen, Great Nature ) There is chance to fail in combining pure gemstones and getting nothing. ^000000"
   },
   [SKID.SO_EL_SYMPATHY] = {
-    "Spirit Sympathy",
+    "Elemental Sympathy",
     "Max Level : 5",
     "^777777Skill Requirement : Spirit Control 3  ^000000",
     "Skill Form : ^777777Passive  ^000000",
@@ -10765,7 +10765,7 @@ SKILL_DESCRIPT = {
     "[Lv 5] : ^777777MaxHP 25%, MaxSP 25% Increase / ATK +125 / SP cost reduction 30% ^000000"
   },
   [SKID.SO_EL_CURE] = {
-    "Spirit Cure",
+    "Elemental Cure",
     "Max Level : 1 ",
     "^777777Skill Requirement :  Spirit Sympathy 1   ^000000",
     "Skill Form : ^777777 Active / Recovery ^000000",
@@ -10812,7 +10812,7 @@ SKILL_DESCRIPT = {
     "[Lv 3] : ^777777Increase MSP 50 , MDEF 50. Increase ATK by 25% in specific earth property magic spell. ^000000"
   },
   [SKID.GN_TRAINING_SWORD] = {
-    "Sword Mastery",
+    "Sword Training",
     "Max Level : 5",
     "^777777Skill Requirement : Genetic Basic^000000",
     "Skill Form : ^777777Passive ^000000",
@@ -10860,7 +10860,7 @@ SKILL_DESCRIPT = {
     "[Lv 5] : ^777777ATK 300% + as Cart Remodeling level^000000"
   },
   [SKID.GN_CARTBOOST] = {
-    "Geneticist Cart Boost",
+    "Cart Boost",
     "Max Level : 5",
     "^777777Skill Requirement : Cart Remodeling 3^000000",
     "Skill Form : ^777777Buff (To yourself)  ^000000",
@@ -10908,7 +10908,7 @@ SKILL_DESCRIPT = {
     "[Lv 5] : ^77777711x11 AoE / Explode in 4 sec.^000000"
   },
   [SKID.GN_WALLOFTHORN] = {
-    "Thorn Wall",
+    "Wall of Thorns",
     "Max Level : 5",
     "^777777Skill Requirement : Thorn Trap 3 ^000000",
     "Skill Form : ^777777Special / Wall ^000000",
@@ -10920,7 +10920,7 @@ SKILL_DESCRIPT = {
     "[Lv 5] : ^77777780 SP / Skill Duration 14 sec.^000000"
   },
   [SKID.GN_CRAZYWEED] = {
-    "Crazy Vines",
+    "Crazy Weed",
     "Max Level : 10",
     "^777777Skill Requirement : Thorn Wall 3 ^000000",
     "Skill Form : ^777777Active / Damage ^000000",
@@ -10961,7 +10961,7 @@ SKILL_DESCRIPT = {
     "[Lv 5] : ^77777750 SP / Consume Acid Bottle / Demonic Fire turns into Acid Bomb / Activated in highest level among acquired skill. ^000000"
   },
   [SKID.GN_HELLS_PLANT] = {
-    "Hell Plant",
+    "Hell's Plant",
     "Max Level : 5",
     "^777777Skill Requirement : Blood Sucker 3 ^000000",
     "Skill Form : ^777777Active / Special / Damage ^000000",
@@ -10973,7 +10973,7 @@ SKILL_DESCRIPT = {
     "[Lv 5] : ^77777760 SP / Max plants 6 / [Bleeding] 30% / [Stun] 70%^000000"
   },
   [SKID.GN_MANDRAGORA] = {
-    "Mandragora Howl",
+    "Howling of Mandragora",
     "Max Level : 5",
     "^777777Skill Requirement : Hell Plant  3 ^000000",
     "Skill Form : ^777777Active / Special / Damage ^000000",
@@ -10985,7 +10985,7 @@ SKILL_DESCRIPT = {
     "[Lv 5] : ^77777715x15 AoE / INT -20 / SP 50% Decrease / 50% SP^000000"
   },
   [SKID.GN_SLINGITEM] = {
-    "Item Sling",
+    "Sling Item",
     "Max Level : 1",
     "^777777Skill Requirement : Change Material 1 ^000000",
     "Skill Form : ^777777Active  ^000000",
@@ -10999,7 +10999,7 @@ SKILL_DESCRIPT = {
     "Description : ^777777Learn the ability to create new items by combining various items. Items can't be made by combining random items. You have to combine the correct items with exact quantities. To get more details about combining items, please travel around Rune Midgard.^000000"
   },
   [SKID.GN_MIX_COOKING] = {
-    "Mixed Cooking",
+    "Mix Cooking",
     "Max Level : 2",
     "^777777Skill Requirement : Special Pharmacy 1 ^000000",
     "Skill Form : ^777777Active  ^000000",
@@ -11008,7 +11008,7 @@ SKILL_DESCRIPT = {
     "[Lv 2] : ^77777740 SP / Create 10 Food Items^000000"
   },
   [SKID.GN_MAKEBOMB] = {
-    "Bomb Creation",
+    "Create Bomb",
     "Max Level : 2",
     "^777777Skill Requirement : Mixed Cooking 1 ^000000",
     "Skill Form : ^777777Active  ^000000",
@@ -11036,7 +11036,7 @@ SKILL_DESCRIPT = {
     "[Lv 5] : ^777777Decrease fixed cast by 50% / Duration 180 sec.^000000"
   },
   [SKID.SR_HOWLINGOFLION] = {
-    "Lion's Howl",
+    "Howling of Lion",
     "Max Level : 5",
     "^777777Skill Requirement :  Power Absorb 1 / Lightning Ride 3 ^000000",
     "Skill Form : ^777777Active / Damage(Special) ^000000",
@@ -11048,7 +11048,7 @@ SKILL_DESCRIPT = {
     "[Lv 5] : ^777777Range 15 x 15 cells / Atk 1500% / Chance to cause Fear 30%^000000"
   },
   [SKID.SR_RIDEINLIGHTNING] = {
-    "Lightning Ride",
+    "Ride in Lightning",
     "Max Level : 5",
     "^777777Skill Requirement :  Throw Spirit Sphere 3 ^000000",
     "Skill Form : ^777777Active / Damage ^000000",
@@ -11062,13 +11062,13 @@ SKILL_DESCRIPT = {
   [SKID.ALL_ODINS_RECALL] = {
   },
   [SKID.RETURN_TO_ELDICASTES] = {
-    "To El Dicastes",
+    "Return to Eldicastes",
     "Max Level : 1",
     "Skill Form : ^777777Supportive^bb0000(Return)^000000",
     "Description : ^777777Return to El Dicastes, the Capital of Sapha. 5 minutes cool down time exist.^000000"
   },
   [SKID.HLIF_HEAL] = {
-    "Healing Hands",
+    "Touch of Heal",
     "Max Level : 5",
     "Description: ^777777Restore the Master's HP with a",
     "method that mimics the Acolyte's Heal skill.",
@@ -11083,7 +11083,7 @@ SKILL_DESCRIPT = {
     "[Lv 5]:^77777725 SP^000000"
   },
   [SKID.HLIF_AVOID] = {
-    "Urgent Escape",
+    "Emergency Avoid",
     "Max Level : 5",
     "Description: ^777777Temporarily increase the moving",
     "speed of caster and Homunculus so that they can",
@@ -11113,7 +11113,7 @@ SKILL_DESCRIPT = {
     " Healing Hands +10%^000000"
   },
   [SKID.HLIF_CHANGE] = {
-    "Mental Charge",
+    "Mental Change",
     "Max Level : 3",
     "Description: ^777777Exchange the Lif Homunculus's Max SP",
     "with its Max HP for this skill's duration.",
@@ -11141,7 +11141,7 @@ SKILL_DESCRIPT = {
     "[Lv 5]:^777777100% Success Chance^000000"
   },
   [SKID.HAMI_DEFENCE] = {
-    "Amistr Bulwark",
+    "Defense",
     "Max Level :5",
     "Description: ^777777Enhance the Defense of the caster",
     "and the Amistr Homunculus for this skill's",
@@ -11193,7 +11193,7 @@ SKILL_DESCRIPT = {
     "[Lv 5]:^7777773 Pecks, Damage +660%^000000"
   },
   [SKID.HFLI_FLEET] = {
-    "Flitting",
+    "Fleet Move",
     "Max Level :5",
     "Description: ^777777Temporarily increase Filir",
     "Homunculus's Attack Power and Speed.^000000",
@@ -11209,7 +11209,7 @@ SKILL_DESCRIPT = {
     " 40 Sec Duration 120 Sec Cast Delay^000000"
   },
   [SKID.HFLI_SPEED] = {
-    "Accelerated Flight",
+    "Over Speed",
     "Max Level : 5",
     "Description: Temporarily increase Filir Homunculus's",
     "Flee Rate by pushing it to its physical limits.^000000",
@@ -11244,7 +11244,7 @@ SKILL_DESCRIPT = {
     "[Lv 5]:^777777Cast Lv 5 Bolt skill^000000"
   },
   [SKID.HVAN_CHAOTIC] = {
-    "Chaotic Blessings",
+    "Chaotic Benediction",
     "Max Level :5",
     "Description: ^777777Restore HP to a target randomly",
     "selected among enemies, the Homuculus's master",
@@ -11271,7 +11271,7 @@ SKILL_DESCRIPT = {
     " 33% Chance of Healing Enemy^000000"
   },
   [SKID.HVAN_INSTRUCT] = {
-    "Instruction Change",
+    "Change Instruction",
     "Max Level : 5",
     "Skill Form: ^777777Passive^000000",
     "Description: ^777777Increase Homunculus's INT and STR.^000000",
@@ -11282,7 +11282,7 @@ SKILL_DESCRIPT = {
     "[Lv 5]:^777777+5 INT, +4 STR^000000"
   },
   [SKID.HVAN_EXPLOSION] = {
-    "Self-Destruction",
+    "Bio Explosion",
     "Max Level : 3",
     "Description: ^777777Command the Homunculus to self",
     "destruct, inflicting splashed damage within",
@@ -11293,17 +11293,7 @@ SKILL_DESCRIPT = {
     "reduced to 1.",
     "[Lv 1]:^777777Damage = Max HP*1^000000",
     "[Lv 2]:^777777Damage = Max HP*1.5^000000",
-    "[Lv 3]:^777777Damage = Max HP*2^000000",
-    "KN_CHARGEAtk",
-    "Charge Attack",
-    "^777777Requirement : Finish Quest^000000",
-    "Skill Form: ^777777Active^000000",
-    "Target: ^777777Enemy^000000",
-    "Description: ^777777Instantly close the distance",
-    "between character and targeted enemy to inflict",
-    "a close range attack. This skill's damage and",
-    "Cast Time is greater when there is more distance",
-    "between the  target and the caster.^000000"
+    "[Lv 3]:^777777Damage = Max HP*2^000000"
   },
   [SKID.MS_BASH] = {
     "Bash",
@@ -11352,7 +11342,6 @@ SKILL_DESCRIPT = {
     "enemies^000000"
   },
   [SKID.MS_PARRYING] = {
-    " ",
     "Parry",
     "Skill Form: ^777777Supportive^000000",
     "Description: ^777777Block an attack using a Two Handed",
@@ -11824,7 +11813,7 @@ SKILL_DESCRIPT = {
     "again for 5 minutes.^000000"
   },
   [SKID.GD_EMERGENCYCALL] = {
-    "Urgent Call",
+    "Emergency Call",
     "Skill Form: ^777777Supportive^000000",
     "Target: ^777777All Online Guildsmen^000000",
     "Description: ^777777This skill is only enabled during",
