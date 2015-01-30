@@ -1304,5 +1304,16 @@ AccNameTable = {
   [ACCESSORY_IDs.ACCESSORY_Choco_Mint_Bonnet] = "_초코민트보넷",
   [ACCESSORY_IDs.ACCESSORY_STRONGMAN_HAIR_BLACK] = "_강한자의헤어검정",
   [ACCESSORY_IDs.ACCESSORY_STRONGMAN_HAIR_RED] = "_강한자의헤어빨강",
-  [ACCESSORY_IDs.ACCESSORY_STRONGMAN_HAIR_WHITE] = "_강한자의헤어하얀"
+  [ACCESSORY_IDs.ACCESSORY_STRONGMAN_HAIR_WHITE] = "_강한자의헤어하얀",
+  [ACCESSORY_IDs.ACCESSORY_Love_Cheek] = "_러브발그레",
+  [ACCESSORY_IDs.ACCESSORY_Honey_Pancake] = "_허니팬케익",
+  [ACCESSORY_IDs.ACCESSORY_Black_Rabbit_Bonnet] = "_블랙래빗보넷",
+  [ACCESSORY_IDs.ACCESSORY_Blue_Head_Dress] = "_블루헤드드레스",
+  [ACCESSORY_IDs.ACCESSORY_Pink_Clover] = "_핑크클로버",
+  [ACCESSORY_IDs.ACCESSORY_Owlviscount_Silk_Hat] = "_아울바이카운트의실크햇",
+  [ACCESSORY_IDs.ACCESSORY_Secret_Zipper] = "_비밀의지퍼",
+  [ACCESSORY_IDs.ACCESSORY_Penguin_Cap] = "_펭귄캡",
+  [ACCESSORY_IDs.ACCESSORY_Sleep_Eclipse_Family] = "_잠자는이클립스가족",
+  [ACCESSORY_IDs.ACCESSORY_White_Fox_Ear_Ribbon] = "_흰여우귀방울리본",
+  [ACCESSORY_IDs.ACCESSORY_Gryphon_Wing_Ears] = "_그리폰의날개귀"
 }
