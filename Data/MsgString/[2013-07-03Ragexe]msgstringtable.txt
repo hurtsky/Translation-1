@@ -252,10 +252,10 @@ Vitality#
 Intelligence#
 Dexterity#
 Luck#
-Attack Power#
-Defense#
+Physical Attack#
+Physical Defense#
 Accuracy Rate#
-Critical Attack#
+Critical Attack Rate#
 Assigned Guild#
 Status Points to allocate#
 Magical Attack#
@@ -325,9 +325,9 @@ Change Skill#
 Sprite Resolution#
 Texture Resolution#
 Arrange Detail#
-You got %Zeny#
+You got %s Zeny#
 Guild Name#
-Guild lvl#
+Guild Level#
 Guild Master#
 Guildsmen#
 Avg.lvl of Guildsmen#
@@ -592,7 +592,7 @@ You have been knocked down by %s.#
 Feed - "%s" is not available.#
 Feed Pet#
 Performance#
-Return to Egg Shell#
+Return to Egg#
 Unequip Accessory#
 Check Pet Status#
 Accessory#
@@ -665,15 +665,15 @@ You cannot use this item while sitting.#
 Your use of skills and chat will be blocked for the next %d minutes.#
 Your use of skills and chat have been reinstated.#
 - [Not equipped]#
-Very Hungry#
-Hungry#
-Neutral#
-Satisfied#
-Stuffed#
-Awkward#
-Shy#
-Cordial#
-Loyal#
+ Very Hungry#
+ Hungry#
+ Neutral#
+ Satisfied#
+ Stuffed#
+ Awkward#
+ Shy#
+ Cordial#
+ Loyal#
 Unknown#
 Your account has play time of %d day %d hour %d minute.#
 Your account is already connected to account server.#
@@ -2220,7 +2220,7 @@ Use Airship?#
 << Goal... >>#
 -----------#
 Navigation#
-= Found (%d) ==#
+= search result (%d) ==#
 Npc)%s:%s#
 Mob)%s:%s#
 Map)%s#
@@ -2353,12 +2353,12 @@ Macro#
 Webbrowser#
 Navigation#
 UAEURL#
-Clan Information#
+Clan Info#
 Clan Level#
 Clan Name#
 Clan Mark#
 Ally Clan#
-Antagonist Clan#
+Hostile Clan#
 Send to Clan#
 ClanMaster Name#
 Number of Members#

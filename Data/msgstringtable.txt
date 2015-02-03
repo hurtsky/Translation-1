@@ -252,10 +252,10 @@ Vitality#
 Intelligence#
 Dexterity#
 Luck#
-Attack Power#
-Defense#
+Physical Attack#
+Physical Defense#
 Accuracy Rate#
-Critical Attack#
+Critical Attack Rate#
 Assigned Guild#
 Status Points to allocate#
 Magical Attack#
@@ -325,9 +325,9 @@ Change Skill#
 Sprite Resolution#
 Texture Resolution#
 Arrange Detail#
-You got %Zeny#
+You got %s Zeny#
 Guild Name#
-Guild lvl#
+Guild Level#
 Guild Master#
 Guildsmen#
 Avg.lvl of Guildsmen#
@@ -592,7 +592,7 @@ You have been knocked down by %s.#
 Feed - "%s" is not available.#
 Feed Pet#
 Performance#
-Return to Egg Shell#
+Return to Egg#
 Unequip Accessory#
 Check Pet Status#
 Accessory#
@@ -665,15 +665,15 @@ You cannot use this item while sitting.#
 Your use of skills and chat will be blocked for the next %d minutes.#
 Your use of skills and chat have been reinstated.#
 - [Not equipped]#
-Very Hungry#
-Hungry#
-Neutral#
-Satisfied#
-Stuffed#
-Awkward#
-Shy#
-Cordial#
-Loyal#
+ Very Hungry#
+ Hungry#
+ Neutral#
+ Satisfied#
+ Stuffed#
+ Awkward#
+ Shy#
+ Cordial#
+ Loyal#
 Unknown#
 Your account has play time of %d day %d hour %d minute.#
 Your account is already connected to account server.#
@@ -2220,7 +2220,7 @@ Use Airship?#
 << Goal... >>#
 -----------#
 Navigation#
-= Found (%d) ==#
+= search result (%d) ==#
 Npc)%s:%s#
 Mob)%s:%s#
 Map)%s#
@@ -2353,12 +2353,12 @@ Macro#
 Webbrowser#
 Navigation#
 UAEURL#
-Clan Information#
+Clan Info#
 Clan Level#
 Clan Name#
 Clan Mark#
 Ally Clan#
-Antagonist Clan#
+Hostile Clan#
 Send to Clan#
 ClanMaster Name#
 Number of Members#
@@ -2497,7 +2497,7 @@ ITEM#
 Guild storage is not available.#
 Guild is not subscribed to. After signing up, please use #
 Two other guild members are in use. Please use it after a while.#
-Storage Permission#
+Storage Permit#
 Guild Storage#
 You do not have permission to use guild storage.#
 Limited Sale Registration Window#
@@ -2731,4 +2731,33 @@ RECEIVE#
 Please close the mail compose window.#
 Server access denied(A)#
 Server access denied(B)#
-
+Unequipped Arrow/Ammunition.#
+Consuming item in inventory will close mail compose window.#
+Do not have Magnifier.#
+Close email window if you want to discard item.#
+對方邀請你加入好友中.#
+SCRIPT ERROR AID#
+\nErrorfile : %s\nErrorLine : %d item\nErrorContext: %s#
+^ff0000Are you sure want to purchase the item? after confirmation will consume %d point and %d crackers.#
+Shutdown#
+Task#
+View task icon#
+Amenities#
+View Amenities icon#
+Public members/players#
+Public members/players mark#
+Record#
+Boss Monster#
+I#
+Are you sure want to delete it?#
+Task NPC#
+Record content#
+Store#
+Record#
+%s [%d Property] %d ea#
+%s [%d Property] %s Zeny#
+%s [%d Property] %d %s %d -> %s %s#
+%s [%d Property] %d %s %s %s#
+%s [%d Property] %d -> %s %s#
+%s [%d Property] %s %s#
+The minimum trading unit must be 100 crackers or more.#
