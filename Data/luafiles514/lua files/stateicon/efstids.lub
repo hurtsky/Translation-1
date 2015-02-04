@@ -807,6 +807,8 @@ EFST_IDs = {
   EFST_ESSENCE_OF_TIME = 844,
   EFST_DRACULA_CARD = 865,
   EFST_LIMIT_POWER_BOOSTER = 867,
+  EFST_TIME_ACCESSORY = 872,
+  EFST_EP16_DEF = 873,
   __newindex = function()
     error("unknown state")
   end

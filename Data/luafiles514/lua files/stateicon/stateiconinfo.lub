@@ -5628,3 +5628,26 @@ StateIconList[EFST_IDs.EFST_DRACULA_CARD] = {
     }
   }
 }
+StateIconList[EFST_IDs.EFST_TIME_ACCESSORY] = {
+  haveTimeLimit = 0,
+  posTimeLimitStr = 1,
+  descript = {
+  }
+}
+StateIconList[EFST_IDs.EFST_EP16_DEF] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {
+      "Shining Holy Water",
+      COLOR_TITLE_BUFF
+    },
+    {"%s", COLOR_TIME},
+    {
+      "Awareness of the room,"
+    },
+    {
+      "Reduce 10% damage received in Prontera Invasion Dungeon"
+    }
+  }
+}
