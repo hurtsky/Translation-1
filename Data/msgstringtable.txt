@@ -2702,20 +2702,20 @@ Because you can not win a slam room and turn the roulette of the next higher ste
 Replying#
 Read more#
 Delete message#
-à¹ø¯  : %d#
-%s %s à¹ø¯ #
-à¹ø¯ #
-Total : %d à¹ø¯ #
-%d -> %s à¹ø¯ #
-%s à¹ø¯ #
-                                          Current à¹ø¯ : %s#
-    %s  :  %s  à¹ø¯#
-%10s à¹ø¯#
-Total : %s à¹ø¯#
-* The fee is 3% fee of at least 1/à¹ø¯ contra#
-à¹ø¯ ÀÔ´Ï´Ù.#
-^0000ffà¹ø¯ ÀÌ»ó^000000ÀÔ´Ï´Ù.ÀÔ·Â±İ¾×ÀÌ ¸Â½À´Ï±î?#
-10¾ïà¹ø¯ÀÌ»ó ¾ÈÀü È®ÀÎ#
+Crackers  : %d#
+%s %s crackers #
+Crackers #
+Total : %d Crackers #
+%d -> %s Crackers #
+%s Crackers #
+                                          Current Crackers : %s#
+    %s  :  %s  Crackers#
+%10s Crackers#
+Total : %s Crackers#
+* Commission 3% / Minimum 1 Crackers comission deducted#
+The Crackers.#
+^0000ff more than crackers^000000Did you enter the correct amount?#
+Over than 10billions secure check#
 10¾ï à¹ø¯ ÀÌ»ó ÀÔ·ÂÇÏ¼Åµµ °¡°İÀº 10¾ï à¹ø¯·Î ÆÇ¸ÅµË´Ï´Ù.#
 9,999à¹ø¯ ÀÌ»ó ÀÔ·ÂÇÏ¼Åµµ °¡°İÀº 9,999à¹ø¯·Î ÆÇ¸ÅµË´Ï´Ù.#
 °¡°İÀÌ 0 à¹ø¯ÀÎ ¾ÆÀÌÅÛÀÌ Á¸Àç ÇÕ´Ï´Ù. »óÁ¡À» ¿­¼ö ¾ø½À´Ï´Ù!#
