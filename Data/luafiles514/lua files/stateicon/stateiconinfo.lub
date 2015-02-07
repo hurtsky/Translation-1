@@ -3108,7 +3108,7 @@ StateIconList[EFST_IDs.EFST_OBLIVIONCURSE] = {
   posTimeLimitStr = 2,
   descript = {
     {
-      "Oblivious Curse",
+      "Oblivion Curse",
       COLOR_TITLE_DEBUFF
     },
     {"%s", COLOR_TIME},

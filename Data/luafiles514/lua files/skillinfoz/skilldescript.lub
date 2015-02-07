@@ -476,8 +476,8 @@ SKILL_DESCRIPT = {
   [SKID.AL_CURE] = {
     "Cure",
     "Max Level : 1",
-    "^777777Requirement : Heal 2 ^000000",
-    "^777777Requirement : Faith 5^000000",
+    "4^777777Requirement : Heal 2 ^000000",
+    "14^777777Requirement : Faith 5^000000",
     "Skill Form: ^777777Recovery^000000",
     "Target: ^777777Player^000000",
     "SP Cost: 15",

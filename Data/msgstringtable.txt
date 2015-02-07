@@ -2576,7 +2576,7 @@ Evolution material is low.#
 Lack the necessary material for evolution.#
 Only evolve when intimacy is Loyal.#
 Automatic feeding#
-Pet feeding. '%s' transferred %d#
+Feeding the pet. %d '%s' remaining#
 Automatic feeding turned On#
 Automatic feeding turned Off#
 Update#
