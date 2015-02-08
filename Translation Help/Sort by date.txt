@@ -1,4 +1,99 @@
 // Untranslated Miscs and Boxs Items
+// ------------------KRO 2014-08-13------------------
+
+	[22781] = {
+		unidentifiedDisplayName = "PC방 노말박스",
+		unidentifiedResourceName = "상인전직상자",
+		unidentifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"PC방 마일리지 2포인트를 소모해서 얻을 수 있는 박스.",
+			"화이트 슬림포션 50개가 포장되어 있다.",
+			"개봉 시, 추가로 희귀한 아이템 중 하나를 얻을 수 있다.",
+			"무게 : ^77777720^000000",
+		},
+		identifiedDisplayName = "PC방 노말박스",
+		identifiedResourceName = "상인전직상자",
+		identifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"PC방 마일리지 2포인트를 소모해서 얻을 수 있는 박스.",
+			"화이트 슬림포션 50개가 포장되어 있다.",
+			"개봉 시, 추가로 희귀한 아이템 중 하나를 얻을 수 있다.",
+			"무게 : ^77777720^000000",
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[22782] = {
+		unidentifiedDisplayName = "PC방 우든박스",
+		unidentifiedResourceName = "나무보물상자",
+		unidentifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"PC방 마일리지 10포인트를 소모해서 얻을 수 있는 박스.",
+			"화이트 슬림포션 80개가 포장되어 있다.",
+			"개봉 시, 추가로 희귀한 아이템 중 하나를 얻을 수 있다.",
+			"무게 : ^77777720^000000",
+		},
+		identifiedDisplayName = "PC방 우든박스",
+		identifiedResourceName = "나무보물상자",
+		identifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"PC방 마일리지 10포인트를 소모해서 얻을 수 있는 박스.",
+			"화이트 슬림포션 80개가 포장되어 있다.",
+			"개봉 시, 추가로 희귀한 아이템 중 하나를 얻을 수 있다.",
+			"무게 : ^77777720^000000",
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[22783] = {
+		unidentifiedDisplayName = "PC방 골든박스",
+		unidentifiedResourceName = "금보물상자",
+		unidentifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"PC방 마일리지 100포인트를 소모해서 얻을 수 있는 박스.",
+			"화이트 슬림포션 상자 2개와 에르늄 10개가 포장되어 있다.",
+			"개봉 시, 추가로 희귀한 아이템 중 하나를 얻을 수 있다.",
+			"무게 : ^77777720^000000",
+		},
+		identifiedDisplayName = "PC방 골든박스",
+		identifiedResourceName = "금보물상자",
+		identifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"PC방 마일리지 100포인트를 소모해서 얻을 수 있는 박스.",
+			"화이트 슬림포션 상자 2개와 에르늄 10개가 포장되어 있다.",
+			"개봉 시, 추가로 희귀한 아이템 중 하나를 얻을 수 있다.",
+			"무게 : ^77777720^000000",
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[22784] = {
+		unidentifiedDisplayName = "PC방 플래티넘박스",
+		unidentifiedResourceName = "다이아보물상자",
+		unidentifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"PC방 마일리지 300포인트를 소모해서 얻을 수 있는 박스.",
+			"화이트 슬림포션 상자 2개와 이속변화포션 10개, 독약병 12개가 포장되어 있다.",
+			"개봉 시, 추가로 희귀한 아이템 중 하나를 얻을 수 있다.",
+			"무게 : ^77777720^000000",
+		},
+		identifiedDisplayName = "PC방 플래티넘박스",
+		identifiedResourceName = "다이아보물상자",
+		identifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"PC방 마일리지 300포인트를 소모해서 얻을 수 있는 박스.",
+			"화이트 슬림포션 상자 2개와 이속변화포션 10개, 독약병 12개가 포장되어 있다.",
+			"개봉 시, 추가로 희귀한 아이템 중 하나를 얻을 수 있다.",
+			"무게 : ^77777720^000000",
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+
 // ------------------KRO 2014-08-20------------------
 
 	[17510] = {
