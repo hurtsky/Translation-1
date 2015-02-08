@@ -10446,6 +10446,18 @@ Hunt 400 Petal monsters.#
 Hunt the Breeze monsters and return to Gramps at the Eden Group to get your reward.#
 Hunt 400 Breeze monsters.#
 
+60865#Neraid Hunting#SG_FEEL#QUE_NOIMAGE#
+Hunt the Neraid monsters and return to Gramps at the Eden Group to get your reward.#
+Hunt 400 Neraid monsters.#
+
+60866#Sedora Hunting#SG_FEEL#QUE_NOIMAGE#
+Hunt the Sedora monsters and return to Gramps at the Eden Group to get your reward.#
+Hunt 400 Sedora monsters.#
+
+60867#Ancient Worm Hunting#SG_FEEL#QUE_NOIMAGE#
+Hunt the Ancient Worm monsters and return to Gramps at the Eden Group to get your reward.#
+Hunt 400 Ancient Worm monsters.#
+
 60901#Chefs of Iron#SG_FEEL#QUE_NOIMAGE#
 Talk to Lidia when you are ready to embark on the quest.#
 #
@@ -17020,6 +17032,10 @@ Defeat the monsters below and return to Janeway#
 Defeat the monsters below and return to Janeway#
 #
 
+62788#Jumping Janeway's Request 7#SG_FEEL#QUE_NOIMAGE#
+Defeat the monsters below and return to Janeway#
+#
+
 
 //WoE TE
 
@@ -18255,16 +18271,191 @@ Hunt 3 Santa Orcs from the Orc field near South Geffen and South West Prontera#
 4360#Santa Jack Hunt#SG_FEEL#QUE_NOIMAGE#
 Hunt 3 Santa Jakks from Geffen tower 2nd floor#
 #
-4361#Santa Lunatic Onhold#SG_FEEL#QUE_NOIMAGE#
-This quest is available after one day cool time#
+4361#Santa Lunatic wait#SG_FEEL#QUE_NOIMAGE#
+This quest is available after the cooldown timer expires#
 #
-4362#Santa Goblin Onhold#SG_FEEL#QUE_NOIMAGE#
-This quest is available after one day cool time#
+4362#Santa Goblin wait#SG_FEEL#QUE_NOIMAGE#
+This quest is available after the cooldown timer expires#
 #
-4363#Santa Orc Onhold#SG_FEEL#QUE_NOIMAGE#
-This quest is available after one day cool time#
+4363#Santa Orc wait#SG_FEEL#QUE_NOIMAGE#
+This quest is available after the cooldown timer expires#
 #
-4364#Santa Jakk Onhold산타잭 대기중#SG_FEEL#QUE_NOIMAGE#
-This quest is available after one day cool time#
+4364#Santa Jakk wait#SG_FEEL#QUE_NOIMAGE#
+This quest is available after the cooldown timer expires#
 #
 
+62789#Bounty Board Red Novus#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Red Novus monsters and return to the Bounty Board at Hugel#
+#
+
+62790#Bounty Board Yellow Novus#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Yellow Novus monsters and return to the Bounty Board at Hugel#
+#
+
+62791#Bounty Board Ancient Mimic#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Ancient Mimic monsters and return to the Bounty Board at Hugel#
+#
+
+62792#Bounty Board Death Word#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Death Word monsters and return to the Bounty Board at Hugel#
+#
+
+62793#Bounty Board Ferus#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Ferus monsters and return to the Bounty Board at Hugel#
+#
+
+62794#Bounty Board Bewler#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Bewler monsters and return to the Bounty Board at Hugel#
+#
+
+62795#Bounty Board Skogul#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Skogul monsters and return to the Bounty Board at Hugel#
+#
+
+62796#Bounty Board Frus#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Frus monsters and return to the Bounty Board at Hugel#
+#
+
+62797#Bounty Board Horn#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Horn monsters and return to the Bounty Board at Payon#
+#
+
+62798#Bounty Board Blue Acidus#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Blue Acidus monsters and return to the Bounty Board at Hugel#
+#
+
+62799#Bounty Board Gold Acidus#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Gold Acidus monsters and return to the Bounty Board at Hugel#
+#
+
+62802#Bounty Board Antler Scaraba#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Antler Scaraba monsters and return to the Bounty Board at El Dicastes#
+#
+
+62803#Bounty Board Horn Scaraba#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Horn Scaraba monsters and return to the Bounty Board at El Dicastes#
+#
+
+62804#Bounty Board Rake Horn Scaraba#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Rake Horn Scaraba monsters and return to the Bounty Board at El Dicastes#
+#
+
+62805#Bounty Board Uni-Horn Scaraba#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Uni-Horn Scaraba monsters and return to the Bounty Board at El Dicastes#
+#
+
+62806#Bounty Board Pinguicula#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Pinguicula monsters and return to the Bounty Board at the United Midgard Alliance Camp#
+#
+
+62807#Bounty Board Dark Pinguicula#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Dark Pinguicula monsters and return to the Bounty Board at the United Midgard Alliance Camp#
+#
+
+62808#Bounty Board Nepenthes#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Nepenthes monsters and return to the Bounty Board at the United Midgard Alliance Camp#
+#
+
+62809#Bounty Board Flora#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Flora monsters and return to the Bounty Board at Comodo#
+#
+
+62810#Bounty Board Coco#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Coco monsters and return to the Bounty Board at Geffen#
+#
+
+62811#Bounty Board Smokie#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Smokie monsters and return to the Bounty Board at Geffen#
+#
+
+62812#Bounty Board Martin#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Martin monsters and return to the Bounty Board at Geffen#
+#
+
+62813#Bounty Board Elder Willow#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Elder Willow monsters and return to the Bounty Board at Geffen#
+#
+
+62814#Bounty Board Soldier Skeleton#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Soldier Skeleton monsters and return to the Bounty Board at Geffen#
+#
+
+62815#Bounty Board Majoruros#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Majoruros monsters and return to the Bounty Board at Geffen#
+#
+
+62816#Bounty Board Lunatic#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Lunatic monsters and return to the Bounty Board at Prontera#
+#
+
+62817#Bounty Board Ambernite#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Ambernite monsters and return to the Bounty Board at Prontera#
+#
+
+62818#Bounty Board Muka#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Muka monsters and return to the Bounty Board at Prontera#
+#
+
+62819#Bounty Board Magnolia#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Magnolia monsters and return to the Bounty Board at Prontera#
+#
+
+62820#Bounty Board Skel Worker#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Skel Worker monsters and return to the Bounty Board at Geffen#
+#
+
+62821#Bounty Board Miming#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Miming monsters and return to the Bounty Board at Mora#
+#
+
+62822#Bounty Board Little Fatum#SG_FEEL#QUE_NOIMAGE#
+Hunt 150  Little Fatum monsters and return to the Bounty Board at Mora#
+#
+
+62823#Bounty Board Cenere#SG_FEEL#QUE_NOIMAGE#
+Hunt 150  Cenere monsters and return to the Bounty Board at Mora#
+#
+
+62824#Bounty Board Menblatt#SG_FEEL#QUE_NOIMAGE#
+Hunt 150  Menblatt monsters and return to the Bounty Board at Mora#
+#
+
+62825#Bounty Board Petal#SG_FEEL#QUE_NOIMAGE#
+Hunt 150  Petal monsters and return to the Bounty Board at Mora#
+#
+
+62826#Bounty Board Angra Mantis#SG_FEEL#QUE_NOIMAGE#
+Hunt 150  Angra Mantis monsters and return to the Bounty Board at Mora#
+#
+
+62827#Bounty Board Antique Book#SG_FEEL#QUE_NOIMAGE#
+Hunt 150  Antique Book monsters and return to the Bounty Board at Mora#
+#
+
+62828#Bounty Board Yellow Lichtern#SG_FEEL#QUE_NOIMAGE#
+Hunt 150  Yellow Lichtern monsters and return to the Bounty Board at Mora#
+#
+
+62829#Bounty Board Blue Lichtern#SG_FEEL#QUE_NOIMAGE#
+Hunt 150  Blue Lichtern monsters and return to the Bounty Board at Mora#
+#
+
+62830#Bounty Board Red Lichtern#SG_FEEL#QUE_NOIMAGE#
+Hunt 150  Red Lichtern monsters and return to the Bounty Board at Mora#
+#
+
+62831#Bounty Board Green Lichtern#SG_FEEL#QUE_NOIMAGE#
+Hunt 150  Green Lichtern monsters and return to the Bounty Board at Mora#
+#
+
+7671#Find my Lost lamb.#SG_FEEL#QUE_NOIMAGE#
+Use the ^4d4dffHunting Rope^000000 on to ^4d4dffLost Lambs^000000 wandering Rune Midgard.#
+Retrieve 5 lost lambs#
+
+7672#The lambs keep running away.#SG_FEEL#QUE_NOIMAGE#
+The guard dog seems to be scaring the lambs away regularly. Come back after a few hours and Bori will likely have lost more lambs.#
+Return to Bori after the timer has expired#
+
+11393#2015 new year's hat#SG_FEEL#QUE_NOIMAGE#
+Shepherd Boy's latest masterpiece! Try make this warm looking wool hat.#
+Complete Hat manufacture.#
