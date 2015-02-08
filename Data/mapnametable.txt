@@ -42,15 +42,15 @@ lhz_dun_n.rsw#Tomb of the fallen#
 1@air2.rsw#비공정#
 
 // Rebellion Job Change Map
-job_gun.rsw#Release Shelter#
+job_gun.rsw#Shelter of Rebellion#
 
 // ep15.1
-ver_eju.rsw#Ruins of Los yupe#
-ver_tunn.rsw#Behrooz outside the tunnel#
-verus04.rsw#Behrooz excavations#
-verus03.rsw#Behrooz Central Square#
+ver_eju.rsw#Eastern Ruins of Juperos#
+ver_tunn.rsw#Verus, Tunnel Outskirts#
+verus04.rsw#Verus, Excavation Site#
+verus03.rsw#Verus, Central Plaza#
 
-1@mcd.rsw#Charleston factory#
+1@mcd.rsw#Charleston Factory#
 
 //Operations Team Event
 e_hugel.rsw#Invaded Hugel#
@@ -63,25 +63,25 @@ silk_lair.rsw#Pythons Lair#
 
 moro_vol.rsw#Fire Basin#
 moro_cav.rsw#Fire Cave#
-1@dth1.rsw#Biohseu Island#
-1@dth2.rsw#Biohseu Island#
-1@dth3.rsw#Biohseu Island#
+1@dth1.rsw#Bios Island#
+1@dth2.rsw#Bios Island#
+1@dth3.rsw#Bios Island#
 1@rev.rsw#Morse Cave#
 1@xm_d.rsw#Horror Toy Factory#
-1@eom.rsw#Damascene Ago#
-1@jtb.rsw#Nightmares of the Jitterbug#
+1@eom.rsw#Former Devil#
+1@jtb.rsw#Nightmare Jitterbug#
 
 dali02.rsw#Dimensional Crack#
-1@face.rsw#Worm's Nest Face#
+1@face.rsw#Wormface's Nest#
 1@sara.rsw#Memories of Sara#
 dali.rsw#Dimensional Crack#
-1@tnm1.rsw#Top Floor of Damascene#
+1@tnm1.rsw#Top Floor of Devil Tower#
 1@tnm2.rsw#Top Floor of Devil Tower#
 1@tnm3.rsw#Morroc Castle Underground#
 1@ge_st.rsw#Geffen Magic Tournament#
 1@gef.rsw#Geffen Magic Tournament#
 1@gef_in.rsw#Geffen Magic Tournament#
-1@spa.rsw#Specter of Palace#
+1@spa.rsw#Palace of Specter#
 
 1@def01.rsw#Wave Dungeon - Forest#
 1@def02.rsw#Wave Dungeon - Sky#
@@ -94,20 +94,20 @@ gl_chyard_.rsw#Monastery Cemetery#
 2@gl_k.rsw#Old Templar 2nd Floor#
 1@gl_k.rsw#Old Templar 1st Floor#
 
-te_prt_gld.rsw#글로리아#
-te_prtcas01.rsw#게오보르그#
-te_prtcas02.rsw#리하르트#
-te_prtcas03.rsw#위그너#
-te_prtcas04.rsw#하이네#
-te_prtcas05.rsw#네리우스#
-teg_dun01.rsw#길드 지하 던전#
-te_alde_gld.rsw#카프라가텐#
-te_aldecas01.rsw#글라리스#
-te_aldecas02.rsw#디포르테#
-te_aldecas03.rsw#소린#
-te_aldecas04.rsw#비닛#
-te_aldecas05.rsw#더블류#
-teg_dun02.rsw#길드 지하 던전#
+te_prt_gld.rsw#Gloria#
+te_prtcas01.rsw#Gae Bolg#
+te_prtcas02.rsw#Richard#
+te_prtcas03.rsw#Wigner#
+te_prtcas04.rsw#Hein#
+te_prtcas05.rsw#Aquarius#
+teg_dun01.rsw#Guild Underground Dungeon#
+te_alde_gld.rsw#Kafra's Den#
+te_aldecas01.rsw#Glarice#
+te_aldecas02.rsw#Deporte#
+te_aldecas03.rsw#Sorin#
+te_aldecas04.rsw#Vinit#
+te_aldecas05.rsw#Curly Sue#
+teg_dun02.rsw#Guild Underground Dungeon#
 
 prt_fild08d.rsw#Prontera Field#
 prt_fild08c.rsw#Prontera Field#
