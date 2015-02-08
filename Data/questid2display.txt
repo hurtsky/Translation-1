@@ -1,11 +1,11 @@
-// 최종 업데이트 2015. 02. 04 (오후 6:40 2015-02-03 사크라이
+// Last updated 2015. 02. 04 (2015-02-03 6:40 PM)
 //-- 1번은 삭제 금지
 1#공갈#SG_FEEL#QUE_NOIMAGE#
 거북이#
 등딱지#
 
 
-// 하치원
+// Job Change
 1000#Transcendent#SG_FEEL#QUE_NOIMAGE#
 Find the Hall of Honor in Valkyrie. There, you will become a new hero of Valkyrie.#
 #
@@ -106,7 +106,7 @@ Train at Amatsu Dungeon by hunting 40 Antique Firelocks.#
 Third play alone training given by 'Hondal'.#
 Get rid of 20 Chung Es at Louyang!#
 
-//-- 2010 에피소드 14.1
+//-- 2010 Episode 14.1
 1109#Lope and Euridi - Survivors of the forest fog.#SG_FEEL#QUE_NOIMAGE#
 Find the Mora Village Inn and ask about the whereabouts of Lope.#
 #
@@ -3668,7 +3668,7 @@ Kill 50 Argiopes#
 3시간 이후에 다시 오세요#
 
 
-// 에피소드 14.1
+// Episode 14.1
 // 모라마을 목욕탕 연구 퀘디플
 5016#Bring me Research Tools#SG_FEEL#QUE_NOIMAGE#
 The Raffle Researchers are saying that they were being attached by an unidentified life and so their research was stolen from them.#
@@ -4755,7 +4755,7 @@ Waiting time- 20 hours#
 <웨이브모드-하늘>은 하루에 한 번만 이용할 수 있습니다.#
 대기시간 23시간#
 
-// 에피소드 15.1 판타스마고리카
+// Episode 15.1 Fantasmagorica
 5304#치안대장 캐슬러#SG_FEEL#QUE_NOIMAGE#
 치안대장 캐슬러를 처음 만났습니다.#
 치안대장 캐슬러#
@@ -5474,7 +5474,7 @@ A piece of a star, the sand of a star#
 If you are all done and satisfied, please go back to 'Moogang.'#
 Conversation with 'Moogang'#
 
-//---에피소드 13.1 단델리온의 의뢰 2부 모로크 추적 (ep13_moc2.sc)
+//---Episode 13.1 Dandelion's request part 2 tracking Satan Morocc (ep13_moc2.sc)
 
 7012#Pursuing Rayan Moore#SG_FEEL#QUE_NOIMAGE#
 The conversation with Echinacea was a rather one-sided talk. You have been assigned to be Mr. Kidd's assistant so you better go speak to him.#
@@ -6172,7 +6172,7 @@ The supplies will be given from the guild in the near future. But, I don't know 
 I received the ring of Karakass, which was available for sometime.#
 #
 
-//-- 에피소드 13.3 사파의 초청, 비밀임무
+//-- Episode 13.3 Sapha's Visit, a secret mission
 
 7182#Sapha's Visit#SG_FEEL#QUE_NOIMAGE#
 There are rumors that a Sapha from Manuk has come to visit the camp. Aello trusts me so he appointed me to speak to him. The delegate is in the room at the right on the second floor.#
@@ -6266,8 +6266,8 @@ Bring your final Report to Inspector Doha#
 I met 'Bomi' in Lutie who was curious about Spring bringing flower. For her, I promised I would bring her a bunch of spring flower. It may be enough with 5 [Huge Spray Of Flowers]..#
 Give Bomi Spring as a gift#
 
-//-- 2010 에피소드 14.1
-//---- 체셔의 새로운 일
+//-- 2010 Episode 14.1
+//---- Cheshire's New Job
 7206#The new days of Cheshire#SG_FEEL#QUE_NOIMAGE#
 You will find a member of the Cat Paw if you look in the middle of the ^4d4dffKamidal Tunnel^000000. ^4d4dff At West side of Skaraba Hall entrance there is a marked box of goods.^000000. Please move it. The location of where you need to move it will be on the box.#
 #
@@ -6288,7 +6288,7 @@ Refined Bradium: 20 each.#
 Cheshire is waiting for the Bradium box. You must take today's items to Cheshire who is waiting in Bifrost.#
 #
 
-//------방황하는 수호자
+//------Wandering Protector
 7211#Explore the Foggy Forest#SG_FEEL#QUE_NOIMAGE#
 Explore the Foggy Forest. The foggy forest remembers you so if you try to force re-entry it may reject you.#
 #
@@ -6301,7 +6301,7 @@ By chance, you met someone named Loki in the forest and is looking for someone. 
 The thing that Loki was looking for was the Guardian of Niddhog who was wandering around the fog aimlessly.  Once out of the forest, agreed to meet in Mora Village.#
 #
 
-//-------- 낙원단 중고급 수련
+//-------- Team Paradise's Advanced Training
 7214#Advanced Training at Comodo#SG_FEEL#QUE_NOIMAGE#
 Look for the cave located to the north. There's someone there named Romeo. You know? As in Romeo, Romeo, wherefore art thou Romeo.#
 Find and speak to Romeo#
@@ -7696,12 +7696,12 @@ Take a day off.#
 You have completed Kafragaten Challenge 2 already. To challenge again, come back after 1 day.#
 Take a day off.#
 
-7565#돌아온 레이얀 무어#SG_FEEL#QUE_NOIMAGE#
-최근 이용하게 된 차원의 균열은 레이얀 무어가 제공한 정보를 바탕으로 발견 된 것이라고 한다. 에클라쥬에서 보호 중인 레이얀 무어를 만나 그간의 이야기를 들어보자.#
-레이얀 무어#
+7565#Return of Rayan Moore#SG_FEEL#QUE_NOIMAGE#
+The dimensional Crack was found based on the information from Rayan Moore. Find out how he's doing while he's being held captive in Eclage.#
+Conversation with Rayan Moore#
 
-7566#차원이동기#SG_FEEL#QUE_NOIMAGE#
-차원의 균열로 진입할 수 있도록 특수 제작된 차원이동기입니다.#
+7566#Dimension Traveller#SG_FEEL#QUE_NOIMAGE#
+The dimensional devices are specially manufactured to enter the dimensional gap between space and time.#
 #
 
 //--- 마신의 탑
@@ -13957,26 +13957,26 @@ Space distorted#
 10주년 이벤트 의상 킹포링 모자를 수령하였습니다.#
 10주년 이벤트#
 
-//- 영웅의 흔적
-12325#페이스웜 둥지의 흔적#SG_FEEL#QUE_NOIMAGE#
-페이스웜 둥지를 출입한 후유증이 남아있습니다. #
-페이스웜 둥지의 흔적#
+//- Trail of Heroes
+12325#Faceworm's Nest after-effects#SG_FEEL#QUE_NOIMAGE#
+You cannot re-enter the Faceworm's Nest until the timer has expired.#
+#
 
-12326#오래된 반지의 주인#SG_FEEL#QUE_NOIMAGE#
-오래된 반지의 주인을 찾았습니다. 한동안 그녀가 기뻐하겠군요#
-오래된 반지의 주인#
+12326#The owner of old ring#SG_FEEL#QUE_NOIMAGE#
+You have discovered the owner of the old ring.#
+#
 
-12327#낡은 사진첩의 추억#SG_FEEL#QUE_NOIMAGE#
-사진첩을 받은 상인이 기뻐하는군요. 다음에도 시간이 된다면 다른 사진첩을 더 찾아봅시다. #
-낡은 사진첩의 추억#
+12327#The memory of old photo album#SG_FEEL#QUE_NOIMAGE#
+The merchant will be happy if he receives the photo album. Let's find other photo albums that he may have lost and bring them to him.#
+#
 
-12328#마님 왜 돌쇠에게만...#SG_FEEL#QUE_NOIMAGE#
-마님은 돌쇠에게만 쌀밥을 준 것 같습니다. 다음에도 알약을 발견하면 그 에게 보여줍시다.#
-마님 왜 돌쇠에게만...#
+12328#Dol-Seoi's Sorrow#SG_FEEL#QUE_NOIMAGE#
+Dol-Seoi wept when you gave him the pills that you found. Bring any other pills if you find more in the Faceworm's Nest#
+#
 
-12329#성불하십시오.#SG_FEEL#QUE_NOIMAGE#
-이 영혼은 왜 성불하지 않는 것일까요? 팔찌를 또 갖다 주면 그때는 성불할까요? #
-성불하십시오#
+12329#Keaton's Bracelet#SG_FEEL#QUE_NOIMAGE#
+Why can't this soul rest in peace? Bring any bracelets you find at the Faceworm's Nest back to Keaton.#
+#
 
 //-호러 장난감 공장
 12330#해골 얼굴의 소녀#SG_FEEL#QUE_NOIMAGE#
@@ -14152,7 +14152,7 @@ Kill the Gold Porings that are randomly around Rune Midgard and collect enough B
 Wait 23 hours before bringing more Blue Cards to the New Agent#
 #
 
-//-- 낙원단 100 - 110
+//-- paradise team 100 - 110
 13002#Brigan collecting#SG_FEEL#QUE_NOIMAGE#
 Collect 50 Brigan pieces from Turtle Island or Glastheim and bring it back to Gelkah at Eden Group.#
 Bring back 50 ^FF0000Brigan^000000#
@@ -14949,22 +14949,22 @@ RWC파란카드 모으기#
 #
 #
 
-//--- 테스트 구간
-14001#포링과 포링코인#SG_FEEL#QUE_NOIMAGE#
-포링을 10마리 잡고, 포링코인도 5개 줏어와라!#
-포링코인 10개#
+//--- Test Section
+14001#Poring and Poring Coin#SG_FEEL#QUE_NOIMAGE#
+Hold 10 poring coin, 포링코인도 5개 줏어와라!#
+Poring Coin 10 ea#
 
-14002#포링포링코인#SG_FEEL#QUE_NOIMAGE#
+14002#Poring and Poring Coin#SG_FEEL#QUE_NOIMAGE#
 포링이 포링코인을 줄거야. 그거 5개 줏어와#
 포링코인 5개#
 
-14003#포링포링코인#SG_FEEL#QUE_NOIMAGE#
+14003#Poring and Poring Coin#SG_FEEL#QUE_NOIMAGE#
 포링이 마누크주화를 줄거야. 그거 5개 줏어와#
 마누크주화 5개#
 
-//--- 보상이벤트
-14004#발키리의반지#SG_FEEL#QUE_NOIMAGE#
-발키리의 반지상자를 받았습니다.#
+//--- Reward Event
+14004#Valkyrie Ring#SG_FEEL#QUE_NOIMAGE#
+Receive Valkyrie Ring Box.#
 #
 
 //--- 미선씨구역
@@ -14993,9 +14993,9 @@ Give him time to read the letter.#
 After reading his brother's letter, Wuhuru began to share his story extensively and asked to send his brother his regards. Go back to Wuhari and give him his brother's regards.#
 Sending Wuhari regards.#
 
-14124#첫 의뢰#SG_FEEL#QUE_NOIMAGE#
-제이드씨가 기르던 동물들을 간밤에 누군가 훔쳐갔다고 해. 가서 어떻게 된 일인지 조사해보고 와.#
-제이드씨의 집으로#
+14124#First Request#SG_FEEL#QUE_NOIMAGE#
+Jade's animal was stolen last night. Investigate it and report what is happened.#
+Jade's home#
 
 14125#Surveying the area#SG_FEEL#QUE_NOIMAGE#
 Wuhari is searching for ways to recover Wuhuru's body. However, he doesn't know how. Wouldn't people in the nearby areas know something? Survey the areas nearby.#
@@ -15017,9 +15017,9 @@ Delivering the report.#
 Wuhari received the report, but stated that it will take some time to analyze the report. Try talking to him a bit later. Don't bother someone when he is studying.#
 Time for analysis.#
 
-14132#우리 조사#SG_FEEL#QUE_NOIMAGE#
-일단 동물들이 있었다던 우리를 먼저 조사해 보아야 할 것이다.#
-우리 조사#
+14132#Our Research#SG_FEEL#QUE_NOIMAGE#
+After the animal is found, first we have to investigate what's going on.#
+Our Research#
 
 14133#Another favor#SG_FEEL#QUE_NOIMAGE#
 Wuhari analyzed the research report, but he was still unsure about how to recover his brother's body. Try finding and asking the Laphine who originally requested Wuhuru's participation in research.#
