@@ -1,4 +1,82 @@
 // Untranslated Miscs and Boxs Items
+// ------------------KRO 2014-08-08------------------
+
+	[17507] = {
+		unidentifiedDisplayName = "냥다래 4개 상자",
+		unidentifiedResourceName = "보물상자_",
+		unidentifiedDescriptionName = {
+			"감정되지 않음. [돋보기] 를 사용하여 감정할 수 있다.",
+		},
+		identifiedDisplayName = "냥다래 4개 상자",
+		identifiedResourceName = "보물상자_",
+		identifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"냥다래 열매가 4개 들어있는 상자.",
+			"소량의 통조림도 보너스로 들어있다.",
+			"^ff0000본 아이템을 개봉하시면 청약철회 및 환불 대상에서 제외 됩니다.^000000",
+			"무게 : ^7777771^000000",
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[17508] = {
+		unidentifiedDisplayName = "냥다래 10개 상자",
+		unidentifiedResourceName = "보물상자_",
+		unidentifiedDescriptionName = {
+			"감정되지 않음. [돋보기] 를 사용하여 감정할 수 있다.",
+		},
+		identifiedDisplayName = "냥다래 10개 상자",
+		identifiedResourceName = "보물상자_",
+		identifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"냥다래 열매가 10개 들어있는 상자. ",
+			"소량의 통조림도 보너스로 들어있다.",
+			"^ff0000본 아이템을 개봉하시면 청약철회 및 환불 대상에서 제외 됩니다.^000000",
+			"무게 : ^7777771^000000",
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[17509] = {
+		unidentifiedDisplayName = "냥다래 40개 상자",
+		unidentifiedResourceName = "보물상자_",
+		unidentifiedDescriptionName = {
+			"감정되지 않음. [돋보기] 를 사용하여 감정할 수 있다.",
+		},
+		identifiedDisplayName = "냥다래 40개 상자",
+		identifiedResourceName = "보물상자_",
+		identifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"냥다래 열매가 40개 들어있는 상자.",
+			"소량의 통조림도 보너스로 들어있다.",
+			"^ff0000본 아이템을 개봉하시면 청약철회 및 환불 대상에서 제외 됩니다.^000000",
+			"무게 : ^7777771^000000",
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[22826] = {
+		unidentifiedDisplayName = "의상 인챈트 스톤 상자4",
+		unidentifiedResourceName = "초록상자",
+		unidentifiedDescriptionName = {
+			"부위별 의상 장비에 인챈트를 할 수 있는 스톤이 들어 있는 상자.",
+			"ASPD스톤(걸칠것)이 새롭게 추가되었으며, 기존의 의상 인챈트 스톤도 포함되어 있다.",
+			"무게 : ^7777771^000000",
+		},
+		identifiedDisplayName = "의상 인챈트 스톤 상자4",
+		identifiedResourceName = "초록상자",
+		identifiedDescriptionName = {
+			"부위별 의상 장비에 인챈트를 할 수 있는 스톤이 들어 있는 상자.",
+			"ASPD스톤(걸칠것)이 새롭게 추가되었으며, 기존의 의상 인챈트 스톤도 포함되어 있다.",
+			"무게 : ^7777771^000000",
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
 // ------------------KRO 2014-08-13------------------
 
 	[22781] = {
