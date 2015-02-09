@@ -1,4 +1,74 @@
 // Untranslated Miscs and Boxs Items
+// ------------------KRO 2014-07-16------------------
+	[6397] = {
+		unidentifiedDisplayName = "GM이벤트 응모권",
+		unidentifiedResourceName = "쿠폰-노멀",
+		unidentifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"응모하면 경품이 내손으로!!! 라고 써있는 응모권.",
+			"휘겔의 경품자판기에서 응모권 수량에 따른 상품교환이 가능하다!",
+			"(이벤트 기간 이후, 해당 아이템은 삭제됩니다) ",
+			"무게 : ^7777770^000000",
+		},
+		identifiedDisplayName = "GM이벤트 응모권",
+		identifiedResourceName = "쿠폰-노멀",
+		identifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"응모하면 경품이 내손으로!!! 라고 써있는 응모권.",
+			"휘겔의 경품자판기에서 응모권 수량에 따른 상품교환이 가능하다!",
+			"(이벤트 기간 이후, 해당 아이템은 삭제됩니다) ",
+			"무게 : ^7777770^000000",
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[12811] = {
+		unidentifiedDisplayName = "GM이벤트 선물상자",
+		unidentifiedResourceName = "pro선물상자",
+		unidentifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"이그드라실의 열매가 3개 들어있는 상자. ",
+			"거기에 펫교환쿠폰상자 , 마력깃든 카드첩, ",
+			"무기 7 ~ 9제련 보장권, 방어구 7 ~ 9제련보장권을 포함한 여러가지 경품아이템들 중 하나가 랜덤 등장!",
+			"(이벤트 기간 이후, 해당 아이템은 삭제됩니다)",
+			"무게 : ^7777771^000000",
+		},
+		identifiedDisplayName = "GM이벤트 선물상자",
+		identifiedResourceName = "pro선물상자",
+		identifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"이그드라실의 열매가 3개 들어있는 상자. ",
+			"거기에 펫교환쿠폰상자 , 마력깃든 카드첩, ",
+			"무기 7 ~ 9제련 보장권, 방어구 7 ~ 9제련보장권을 포함한 여러가지 경품아이템들 중 하나가 랜덤 등장!",
+			"(이벤트 기간 이후, 해당 아이템은 삭제됩니다)",
+			"무게 : ^7777771^000000",
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[22802] = {
+		unidentifiedDisplayName = "6제련권 상자",
+		unidentifiedResourceName = "캐시상자_보라",
+		unidentifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"무기 6제련 보장권, 방어구 6제련 보장권이 ",
+			"각 1장씩 들어있는 상자.",
+			"무게 : ^7777771^000000",
+		},
+		identifiedDisplayName = "6제련권 상자",
+		identifiedResourceName = "캐시상자_보라",
+		identifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"무기 6제련 보장권, 방어구 6제련 보장권이 ",
+			"각 1장씩 들어있는 상자.",
+			"무게 : ^7777771^000000",
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
 // ------------------KRO 2014-07-23------------------
 
 	[17501] = {
