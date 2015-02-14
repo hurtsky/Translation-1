@@ -3370,5 +3370,6 @@ JobNameTable = {
   [jobtbl.JT_AS_EVIL_SHADOW1] = "AS_EVIL_SHADOW1",
   [jobtbl.JT_AS_EVIL_SHADOW2] = "AS_EVIL_SHADOW2",
   [jobtbl.JT_AS_EVIL_SHADOW3] = "AS_EVIL_SHADOW3",
-  [jobtbl.JT_AS_D_RAGGED_GOLEM] = "AS_RAGGED_GOLEM"
+  [jobtbl.JT_AS_D_RAGGED_GOLEM] = "AS_RAGGED_GOLEM",
+  [jobtbl.JT_4_F_BIJOU] = "4_F_BIJOU"
 }

@@ -2070,6 +2070,10 @@ Lv10 (Fire element) attack#
 #
 #
 
+2365#2015 발렌타인데이#SG_FEEL#QUE_NOIMAGE#
+핸드메이드 초콜렛 15개, 핸드메이드 초콜렛(화이트) 15개, 초콜렛드링크 15개, 초콜렛타르트 15개, 딸기초콜렛 15개, 프레임하트 1개, 은화살 1개를 스위티 예스에게 전달하자.#
+스위티 예스에게 초콜렛 전달#
+
 3000#Job Change to Bard#SG_FEEL#QUE_NOIMAGE#
 Beautiful Song - I have met a beautiful singer Bard. I want to be a Bard...Should I ask him about becoming a Bard?#
   #
@@ -4062,7 +4066,7 @@ Wolfchev's lab is towards the 12 O'clock direction.#
 
 5112#Limited access on the lab#SG_FEEL#QUE_NOIMAGE#
 Access to the lab entrance system is restricted.#
-Waiting time to enter (3days - 72hour) 30 minutes on Sakray#
+Waiting to enter#
 
 5113#[Shelter] Lord Knight#SG_FEEL#QUE_NOIMAGE#
 In order to stop the angry Human Guinea pig, you need to kill the boss monster.#
@@ -16722,6 +16726,10 @@ Bring Chocoins to Bitta in Einbroch#
 14515#별의 반짝임#SG_FEEL#QUE_NOIMAGE#
 드레스에 반짝이는 별을 뿌리고 싶어요! 별의 가루를 구해주세요! 5개 정도면 아름답게 수놓을 수 있을 거에요.#
 별의 반짝임#
+
+14516#수상한 그림자#SG_FEEL#QUE_NOIMAGE#
+수상한 사람이 나타나 이안에게 은밀히 하는 이야기를 들었다.#
+수상한 그림자#
 
 //-1
 15000#Experiencing abnormal statuses#SG_FEEL#QUE_NOIMAGE#
