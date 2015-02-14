@@ -4187,11 +4187,11 @@
 6415#Strange Embryo#
 6416#Around The Exchange Carpet Coupon#
 6417#Silvervine Fruit#
-6418#Aclass Coin#
-6419#Bclass Coin#
-6420#Cclass Coin#
-6421#Dclass Coin#
-6422#Dclass Coin#
+6418#A Class Coin#
+6419#B Class Coin#
+6420#C Class Coin#
+6421#D Class Coin#
+6422#E Class Coin#
 6423#Seagod Anger#
 6424#Spirit Piece#
 6425#Halloween Certificate#
@@ -8361,7 +8361,9 @@
 15100#Frozen Breastplate#
 15101#Hardened Breastplate#
 15102##
-15105##
+15103#Kirin Armor#
+15104#FishingMan Mail#
+15105#Kaftan#
 15110#Strength Supplement Equipment#
 15111#Reinforced Parts - Gloves#
 15116#Armor Of Airship#
@@ -8372,6 +8374,7 @@
 15121#Sarah Combat Robe#
 15138#Aegir Armor#
 15141#Ancient Armor Of The Goddess#
+15145#Evil Dragon Armor#
 15146#Flattering Robe#
 15147#Abusive Robe#
 16000#Erde#
@@ -9544,6 +9547,7 @@
 18120#Devil Piercing Bow#
 18122#Giant Bow#
 18123#Bow of Storms#
+18124#Half BF Bow#
 18125#Arcus Daemonicus#
 18126#Blue Bow#
 18128#Infinity Bow#
@@ -9554,7 +9558,7 @@
 18503#Small Devil Horns#
 18504#Anubis Helm J#
 18505#Umbala Spirit#
-18506#Hata Black#
+18506#Hatta Black#
 18507#Elven Ears#
 18508#Garuda Hat#
 18509#RWC 2010 Indonesia#
@@ -9572,12 +9576,12 @@
 18521#Lucky Clover#
 18522#Evil Marching Hat#
 18523#Thunderstorm Cloud#
-18524#Mask Of Demon#
+18524#Dokkebi Mask#
 18525#Watermelon Hat#
 18526#Delicious Lollipop#
 18527#Gloomy Pumpkin Hat#
 18528#Drooping Neko Crew#
-18529#Accurate Wild Rose#
+18529#Drooping Wild Rose#
 18530#Thanatos Despero Mask#
 18531#Drooping Permeter#
 18532#Heart Ribbon Hairband#
@@ -9605,8 +9609,8 @@
 18556#Angel's Symbol#
 18557#Devil's Symbol#
 18558#Sinsuncho Hat#
-18559#Fafunirusukin#
-18560#Fafunirumasuku#
+18559#Fafnir Skin#
+18560#Fafnir Mask#
 18561#Black Feather Beret#
 18562#Death Corsage#
 18563#Heart Wing Headband#
@@ -9675,7 +9679,7 @@
 18626#Gelato Hat#
 18627#Dried Leaf#
 18628#Tare Brownie#
-18629#B Desert Wolf Hat#
+18629#Baby Desert Wolf Hat#
 18630#Drooping Alicel#
 18631#Ribbon Chef hat#
 18632#Yellow Poring Hairpin#
@@ -9704,7 +9708,7 @@
 18655#Dragonfly Monocle#
 18656#Witch's Pumpkin Hat#
 18657#Pegasus Ear Wing#
-18658#Santa's Beard Holy#
+18658#Santa's Holy Beard#
 18659#Boitata Hat#
 18660#Indian Feather Headband#
 18661#Trident Helmet#
@@ -9718,7 +9722,7 @@
 18669#Cowhide Hat#
 18670#Handkerchief In Mouth#
 18671#Rudolf Hairband#
-18672#Flap Pope#
+18672#Chibi Pope#
 18673#Chibi Pope#
 18674#Planewing Hat#
 18675#Green Apple Hat#
@@ -9762,13 +9766,13 @@
 18717#Skull Hood#
 18718#Rose Hairband#
 18719#Angel Stars#
-18720##
+18720#Magical Booster#
 18721#Sweet Valentine Hat#
 18722#Ear Featgers Wings#
-18723##
+18723#AuraQuarts Crown#
 18724#Baphomet Horns#
-18725##
-18726##
+18725#Rabbit Knit Hat#
+18726#Sky Met#
 18727#Sedora Hat#
 18728#Aegir Helm#
 18729#MVP Basketball Hat#
@@ -9830,8 +9834,8 @@
 18785#King Poring Hat#
 18786#Anemos Mask#
 18787#Hockey Mask#
-18788##
-18789##
+18788#Binocular#
+18789#Poison Spore Hat#
 18790#Rainbow Poring Hat#
 18791#Shrine Maiden Hat#
 18793#Sorc Night Cap#
@@ -9845,14 +9849,14 @@
 18801#Gold Hair Ornament#
 18802#Poring Fedora Hat#
 18803#Rose Cascade#
-18804##
+18804#Thornwood Band#
 18805#Eclipse Hat#
 18806#Black Rabbit Hat#
 18807#White Citron Hat#
 18808#Wing Style Spectacle#
-18809##
+18809#7th Anniversary Hat#
 18810#Hell Pumpkin Hat#
-18811##
+18811#White Snake Hat#
 18812##
 18813##
 18814#Angel School Cap#
@@ -10466,7 +10470,7 @@
 19886#Costume: Purple Glasses#
 19887#Costume: Cyclops Glasses#
 19888#Costume: Glasses#
-19889#Costume: Small Ribbons#
+19889#Costume: Small Ribbon#
 19890#Costume: Mage Hat#
 19891#Costume: Magnolia Hat#
 19892#Costume: Night Sparrow Hat#
@@ -10498,8 +10502,8 @@
 19925#Costume: Monocle#
 19929#Costume: Classical Ribbon#
 19931#Costume: Lazy Smokie#
-19932#Costume: Lazy Smokie#
-19934#Costume: Alive Ten Gallon Hat Of Flame#
+19932#Costume: Model Training Hat#
+19934#Costume: Flaming Ten Gallon Hat#
 19935#Costume: Hunting Cap Of Gust#
 19936#Costume: Knit Cap Of Water#
 19938#Costume: Love Bunny Hood#
@@ -10586,6 +10590,7 @@
 20035#Costume: Miracle Blue Rose#
 20036#Costume: Crown of Victory#
 20037#Costume: Owlduke Silk Hat#
+20038#Costume: Alphonse Helm#
 20039#Costume: Butterfly Wing Ears#
 20040#Costume: Chung Hairpin#
 20041#Costume: Rose Headband#
@@ -10596,7 +10601,7 @@
 20046#Costume: Blue Ribbon Band#
 20047#Costume: Prayer Cherry Blossom#
 20048#Costume: Wind Prairie#
-20049#Costume: Giant Band Aid#
+20049#Costume: Giant Aid Band#
 20050#Costume: Ph.D Hat#
 20053#Costume: White King Tiger Doll Hat#
 20054#Costume: Pacifier#
@@ -10612,7 +10617,15 @@
 20074#Costume: Biretta#
 20084#Costume: Ceremonial Hat#
 20085#Costume: St Patrick's Hat#
+20086#Costume: Dragon Cintamani Hat#
+20087#Costume: Dragon Cintamani Hat#
 20091#Costume: Smoking Pipe#
+20092#Costume: Sale Banner#
+20093#Costume: Wizard Hat#
+20094#Costume: Green Ribbon#
+20095#Costume: Red Ribbon#
+20096#Costume: Blue Ribbon#
+20097#Costume: White Ribbon#
 20102#Costume: Horse King#
 20103#Costume: Drooping Panda#
 20104#Costume: Picky Egg Shell#
@@ -10621,6 +10634,8 @@
 20107#Costume: Fish in mouth#
 20108#Costume: Blind Glasses#
 20109#Costume: Jolly Roger Hat#
+20110#Costume: Coiledup Snake Hat#
+20111#Costume: Coiledup Snake Hat#
 20112#Costume: Aqua Ten Gallon Hat#
 20113#Costume: Star Reading Hat#
 20114#Costume: Funeral Hat#
@@ -10635,10 +10650,10 @@
 20123#Costume: Eagle Eyes#
 20124#Costume: Masquerade#
 20125#Costume: Mini Glasses#
-20126#Costume: Thanatos Odium Mask#
+20126#Costume: Odium Thanatos Mask#
 20127#Costume: Abysmal Knight Helm#
 20128#Costume: Remover Hat#
-20129#Poporing Cap#
+20129#Costume: Poporing Cap#
 20130#Costume: Whisper Tall Hat#
 20131#Costume: Clock Tower Manager Incom#
 20132#Costume: Evil Spirit Aura#
@@ -10704,7 +10719,7 @@
 20206#Costume: Chicken Hat#
 20207#Costume: Striped Hairband#
 20208#Costume: Necktie#
-20209#Mermaid Bubbles#
+20209#Costume: Mermaid Bubbles#
 20210#Costume: Chicken Hat#
 20211#Costume: Chicken Hat#
 20212#Costume: Loki & Nidhoggur dolls#
@@ -10743,50 +10758,12 @@
 20253#Costume: Drooping Alicel#
 20254#Costume: Yellow Ribbon#
 20255#Costume: Love Cheeks#
-20256#Costume: Honet Pancake#
+20256#Costume: Honey Pancake#
 20257#Costume: Black Rabbit Bonnet#
 20258#Costume: Blue Headdress#
 20259#Costume: Pink Clover#
 20271#Costume: Sunflower#
 20272#Costume: Unicorn Horn#
-20321#Classic Underneath Saber 2 Week Rental Box#
-20322#Classic Underneath Gladius 2 Week Rental Box#
-20323#Classic Underneath Chain 2 Week Rental Box#
-20324#Classic Underneath Book 2 Week Rental Box#
-20325#Classic Underneath Hypnotist's Staff 2 Week Rental Box#
-20326#Classic Underneath Knuckle Duster 2 Week Rental Box#
-20327#Classic Underneath Lute 2 Week Rental Box#
-20328#Classic Underneath Wire 2 Week Rental Box#
-20329#Classic Underneath Bastard Sword 2 Week Rental Box#
-20330#Classic Underneath Jur 2 Week Rental Box#
-20331#Classic Underneath HammerAxe 2 Week Rental Box#
-20332#Classic Underneath Trident 2 Week Rental Box#
-20333#Classic Underneath Huuma Giant Wheel 2 Week Rental Box#
-20334#Classic Underneath Crossbow 2 Week Rental Box#
-20335#Classic Underneath Garrison 2 Week Rental Box#
-20336#Classic Underneath Cyclone 2 Week Rental Box#
-20337#Classic Underneath Drifter 2 Week Rental Box#
-20338#Classic Underneath Destroyer 2 Week Rental Box#
-20339#Classic Underneath Thunder P 2 Week Rental Box#
-20361#Classic Saharic Saber 2 Week Rental Box#
-20362#Classic Saharic Gladius 2 Week Rental Box#
-20363#Classic Saharic Chain 2 Week Rental Box#
-20364#Classic Saharic Book 2 Week Rental Box#
-20365#Classic Saharic Hypnotist's Staff 2 Week Rental Box#
-20366#Classic Saharic Knuckle Duster 2 Week Rental Box#
-20367#Classic Saharic Lute 2 Week Rental Box#
-20368#Classic Saharic Wire 2 Week Rental Box#
-20369#Classic Saharic Bastard Sword 2 Week Rental Box#
-20370#Classic Saharic Jur 2 Week Rental Box#
-20371#Classic Saharic HammerAxe 2 Week Rental Box#
-20372#Classic Saharic Trident 2 Week Rental Box#
-20373#Classic Saharic Huuma Giant Wheel 2 Week Rental Box#
-20374#Classic Saharic Crossbow 2 Week Rental Box#
-20375#Classic Saharic Garrison 2 Week Rental Box#
-20376#Classic Saharic Cyclone 2 Week Rental Box#
-20377#Classic Saharic Drifter 2 Week Rental Box#
-20378#Classic Saharic Destroyer 2 Week Rental Box#
-20379#Classic Saharic Thunder P 2 Week Rental Box#
 20500#Costume: Archangel Wing#
 20700#Aegir Mantle#
 20701#Solar Manteau#
@@ -10815,6 +10792,7 @@
 20725#Piamette Ribbon#
 20726#Fire Dragon Manteau#
 20727#Brilliant Golden Wings#
+20730#Loyalists Hood#
 20732#Fitness Supplement Device#
 20733#Reinforced Parts - Engine#
 20737#Costume: Kirin Wings#
@@ -10824,7 +10802,7 @@
 20748#Cloak Of Casualties#
 20749#Cloak Of Casualties#
 20756#Egir Manteau#
-20757#Heavinly Wings#
+20757#Heavenly Wings#
 20758#Heavinly Wings#
 20761#Costume: Wing of Happiness#
 20763#Costume: Amistr Bag#
@@ -11262,7 +11240,7 @@
 24179#Magic Caesars Shadow Weapon#
 24180#Bearer's Shadow Armor#
 24181#Bearer's Shadow Shoes#
-24182#ºBearer's Shadow Shield#
+24182#Bearer's Shadow Shield#
 24183#Bearer's Shadow Weapon#
 24184#Bearer's Shadow Earring#
 24185#Bearer's Shadow Pendant#
@@ -11328,6 +11306,7 @@
 24245#Reload Shadow Armor#
 28000#Tanos Katar#
 28001#Devil Torn Katar#
+28002#Half BF Katar2#
 28005#Blue Katar#
 28007#Crimson Katar#
 28100#Axe from North#

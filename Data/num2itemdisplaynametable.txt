@@ -611,7 +611,7 @@
 1276#Katar#
 1277#Katar#
 1278#Katar#
-1279#Brave Carnage Katar#
+1279#Katar#
 1280#Katar#
 1281#Katar#
 1282#Katar#
@@ -4187,11 +4187,11 @@
 6415#Strange Embryo#
 6416##
 6417#Silvervine Fruit#
-6418#Aclass Coin#
-6419#Bclass Coin#
-6420#Cclass Coin#
-6421#Dclass Coin#
-6422#Dclass Coin#
+6418#A Class Coin#
+6419#B Class Coin#
+6420#C Class Coin#
+6421#D Class Coin#
+6422#E Class Coin#
 6423#Seagod Anger#
 6424#Spirit Piece#
 6425#Halloween Certificate#
@@ -5732,7 +5732,7 @@
 11016#Expedition Report Vol4#
 11017#KVM Reward Items Catalog#
 11018#Splendide Selling Item#
-11019#Splendide Selling Item#
+11019#Manuk Selling Item#
 11020#Japanese Book 1#
 11021#Japanese Book 2#
 11022#Cooking Book: Mix Cooking#
@@ -6283,7 +6283,7 @@
 12431#Minor Brisket#
 12432#Siroma Icetea#
 12433#Drocera Herb Stew#
-12434#Petti Tail Noodle#
+12434#Pettite Tail Noodle#
 12435#Black Thing#
 12436#Vitata500#
 12437#Enrich Celermine Juice#
@@ -8361,7 +8361,9 @@
 15100##
 15101##
 15102##
-15105##
+15103#Armor#
+15104#Armor#
+15105#Clothes#
 15110#Armor#
 15111#Armor#
 15116#Armor#
@@ -8372,6 +8374,7 @@
 15121#¿Ê#
 15138#Armor#
 15141#Armor#
+15145#Armor#
 15146#Clothes#
 15147#Clothes#
 16000#Mace#
@@ -9384,9 +9387,9 @@
 17222#Anniversary Extravaganza Crate#
 17223#GoCash East West Costume Box#
 17224##
-17226##
-17227##
-17228##
+17226#Infinite Concentration Potion#
+17227#Infinite Awakening Potion#
+17228#Infinite berserk Potion#
 17229##
 17231##
 17232##
@@ -9527,10 +9530,10 @@
 18100#Bow#
 18101#Bow#
 18103#Bow#
-18106#Eden Group Bow3#
-18107#bow#
-18108#bow#
-18109#Catapult#
+18106#Bow#
+18107#Bow#
+18108#Bow#
+18109#Bow#
 18110#Bow#
 18111#Bow#
 18112#Bow#
@@ -9544,6 +9547,7 @@
 18120#Bow#
 18122#Bow#
 18123#Bow#
+18124#Bow#
 18125#Bow#
 18126#Bow#
 18128#Bow#
@@ -9554,15 +9558,15 @@
 18503#Headgear#
 18504#Headgear#
 18505#Umbala Spirit#
-18506#¾Ç¼¼»ç¸®#
-18507#Elven Ears#
-18508#Garuda Hat#
+18506#Headgear#
+18507#Accesory#
+18508#Hat#
 18509#Hat#
 18510#Hairband#
 18511#Accessory#
-18512##
+18512#Hairband#
 18513#Headgear#
-18514#Eden Group Hat II#
+18514#Hat#
 18515#Headgear#
 18516#Headgear#
 18517#Headgear#
@@ -9572,46 +9576,46 @@
 18521#Accessory#
 18522#Headgear#
 18523#Headgear#
-18524##
+18524#Headgear#
 18525#Headgear#
 18526#Headgear#
-18527#Gloomy Pumpkin Hat#
-18528#¸ðÀÚ#
-18529#hat#
-18530#mask#
-18531#hat#
+18527#Hat#
+18528#Hat#
+18529#Hat#
+18530#Mask#
+18531#Hat#
 18532#Hairband#
 18533#Headgear#
-18534#Fancy Phantom Mask#
-18535##
-18536#accessory#
+18534#Mask#
+18535#Hat#
+18536#Accessory#
 18537#Hairband#
-18538#Spirit Whispers#
-18539#Skull Cap#
-18540#Demon Mask#
-18541#Little Feather Hat#
-18542#Benevolent Guardian#
-18543#Witch Hat#
-18546##
-18547##
-18548##
-18549#hat#
-18550#Asgard Bless#
-18551##
-18552##
-18553#headgear#
-18554#headgear#
-18555#headgear#
+18538#Headgear#
+18539#Hat#
+18540#Mask#
+18541#Hat#
+18542#Hat#
+18543#Hat#
+18546#Accesory#
+18547#Hat#
+18548#Hat#
+18549#Hat#
+18550#Headgear#
+18551#Headgear#
+18552#Hat#
+18553#Headgear#
+18554#Headgear#
+18555#Headgear#
 18556#Glasses#
 18557#Glasses#
-18558#headgear#
+18558#Headgear#
 18559#Headgear#
 18560#Headgear#
 18561#Headgear#
 18562#Headgear#
-18563#headgear#
-18564#headgear#
-18565#headgear#
+18563#Headgear#
+18564#Headgear#
+18565#Headgear#
 18566#headgear#
 18567#headgear#
 18568#headgear#
@@ -9830,8 +9834,8 @@
 18785#Hat#
 18786#Headgear#
 18787#Headgear#
-18788##
-18789##
+18788#Glasses#
+18789#Hat#
 18790##
 18791#Accessory#
 18793#Hat#
@@ -9845,14 +9849,14 @@
 18801#Headgear#
 18802#Headgear#
 18803#Hat#
-18804##
-18805##
-18806##
-18807##
-18808##
-18809##
+18804#Headgear#
+18805#Hat#
+18806#Hat#
+18807#Hat#
+18808#Hat#
+18809#Headgear#
 18810#Helmet#
-18811##
+18811#Hedgear#
 18812##
 18813##
 18814##
@@ -10586,6 +10590,7 @@
 20035#Accessory#
 20036#Headgear#
 20037#Hat#
+20038#Headgear#
 20039#Headgear#
 20040#Headgear#
 20041#Headgear#
@@ -10612,7 +10617,15 @@
 20074#Hat#
 20084#Headgear#
 20085#Headgear#
+20086#Hat#
+20087#Hat#
 20091#Headgear#
+20092#Headgear#
+20093#Hat#
+20094#Hairband#
+20095#Hairband#
+20096#Hairband#
+20097#Hairband#
 20102#Headgear#
 20103#Headgear#
 20104#Headgear#
@@ -10621,6 +10634,8 @@
 20107#Headgear#
 20108#Headgear#
 20109#Headgear#
+20110#Hat#
+20111#Hat#
 20112#Headgear#
 20113#Headgear#
 20114#Headgear#
@@ -10729,7 +10744,7 @@
 20232#Headgear#
 20233#Headgear#
 20234#Headgear#
-20239#Accesory#
+20239#Headgear#
 20240#Accesory#
 20241#Hat#
 20242#Headgear#
@@ -10749,44 +10764,6 @@
 20259#Accesory#
 20271#Headgear#
 20272#Headgear#
-20321#Classic Underneath Saber 2 Week Rental Box#
-20322#Classic Underneath Gladius 2 Week Rental Box#
-20323#Classic Underneath Chain 2 Week Rental Box#
-20324#Classic Underneath Book 2 Week Rental Box#
-20325#Classic Underneath Hypnotist's Staff 2 Week Rental Box#
-20326#Classic Underneath Knuckle Duster 2 Week Rental Box#
-20327#Classic Underneath Lute 2 Week Rental Box#
-20328#Classic Underneath Wire 2 Week Rental Box#
-20329#Classic Underneath Bastard Sword 2 Week Rental Box#
-20330#Classic Underneath Jur 2 Week Rental Box#
-20331#Classic Underneath HammerAxe 2 Week Rental Box#
-20332#Classic Underneath Trident 2 Week Rental Box#
-20333#Classic Underneath Huuma Giant Wheel 2 Week Rental Box#
-20334#Classic Underneath Crossbow 2 Week Rental Box#
-20335#Classic Underneath Garrison 2 Week Rental Box#
-20336#Classic Underneath Cyclone 2 Week Rental Box#
-20337#Classic Underneath Drifter 2 Week Rental Box#
-20338#Classic Underneath Destroyer 2 Week Rental Box#
-20339#Classic Underneath Thunder P 2 Week Rental Box#
-20361#Classic Saharic Saber 2 Week Rental Box#
-20362#Classic Saharic Gladius 2 Week Rental Box#
-20363#Classic Saharic Chain 2 Week Rental Box#
-20364#Classic Saharic Book 2 Week Rental Box#
-20365#Classic Saharic Hypnotist's Staff 2 Week Rental Box#
-20366#Classic Saharic Knuckle Duster 2 Week Rental Box#
-20367#Classic Saharic Lute 2 Week Rental Box#
-20368#Classic Saharic Wire 2 Week Rental Box#
-20369#Classic Saharic Bastard Sword 2 Week Rental Box#
-20370#Classic Saharic Jur 2 Week Rental Box#
-20371#Classic Saharic HammerAxe 2 Week Rental Box#
-20372#Classic Saharic Trident 2 Week Rental Box#
-20373#Classic Saharic Huuma Giant Wheel 2 Week Rental Box#
-20374#Classic Saharic Crossbow 2 Week Rental Box#
-20375#Classic Saharic Garrison 2 Week Rental Box#
-20376#Classic Saharic Cyclone 2 Week Rental Box#
-20377#Classic Saharic Drifter 2 Week Rental Box#
-20378#Classic Saharic Destroyer 2 Week Rental Box#
-20379#Classic Saharic Thunder P 2 Week Rental Box#
 20500#Garment#
 20700#Garment#
 20701#Garment#
@@ -10815,6 +10792,7 @@
 20725#Garment#
 20726#Garment#
 20727#Garment#
+20730#Garment#
 20732#Garment#
 20733#Garment#
 20737#Garment#
@@ -11086,7 +11064,7 @@
 24003#Shadow Shoes#
 24004#Shadow Accesory#
 24005#Shadow Accesory#
-24006#Shadow Weapon#
+24006#Shadow Armor#
 24007#Shadow Weapon#
 24008#Shadow Shield#
 24009#Shadow Shoes#
@@ -11328,6 +11306,7 @@
 24245#Shadow Armor#
 28000#Katar#
 28001#Katar#
+28002#Katar#
 28005#Katar#
 28007#Katar#
 28100#Two-Handed Axe#
