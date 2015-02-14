@@ -2473,10 +2473,10 @@ Basic item drop rate from monster hunting is increased for %dmins by %dtimes.#
 Basic item drop rate from monster hunting is increased for %dhour %.2dmins  by %dtimes.#
 %s's price#
 100000000#
- ^ff0000%d^0000ff Hundred Million#
+ is more than ^ff0000%d^0000ff Million ^0000ffZeny^000000.#
 10000000#
-^ff0000%d^0000ff0,000,000#
-It is more than ^0000ffZeny^000000.\n Is it correct?#
+ ^ff0000%d^0000ff0,000,000^000000#
+ Is it correct?#
 Safe check for over 10,000,000Zeny#
 https://www.warpportal.com/account/login.aspx?ReturnUrl=%2faccount%2fpayment.aspx#
 https://kepler.warpportal.com/steam/purchase/?step=1&steamid=76561198071003044&game=rose&accountname=khanhtest111&lang=en#
