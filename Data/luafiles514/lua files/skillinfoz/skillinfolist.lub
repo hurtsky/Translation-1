@@ -7835,7 +7835,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.LK_TENSIONRELAX] ={
 		"LK_TENSIONRELAX",
-		SkillName = "Relax",
+		SkillName = "Tension Relax",
 		MaxLv = 1,
 		SpAmount = {
 			15,
