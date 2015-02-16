@@ -268,7 +268,7 @@ Account ID blocked by the Game Master Team.#
 Incorrect User ID or Password. Please try again.#
 Choose Hairstyle#
 Hit Point#
-Defence Rate#
+DEF#
 Attack Snap On#
 Attack Snap Off#
 Skill Snap On#
@@ -411,7 +411,7 @@ HP#
 Size#
 Type#
 MDEF#
-Attribute#
+Property#
 Neutral#
 Water#
 Earth#
@@ -442,7 +442,7 @@ Server still recognizes your last log-in. Please try again after a few minutes.#
 Release Falcon#
 Dismount#
 Small#
-Med#
+Medium#
 Big#
 Double#
 Triple#
