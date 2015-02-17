@@ -222,7 +222,7 @@ You can't have this item because you will exceed the weight limit.#
 Out of the maximum capacity#
 Rent a Cart Items#
 Take Off Rent a Cart#
-Vend a Shop#
+Opening a stall#
 Please Name your Shop.#
 My Shop#
 Merchant Shop#
@@ -280,7 +280,7 @@ Snap#
 You cannot carry more than 30,000 of one kind of item.#
 You cannot delete a Character with a level greater than 30. If you want to delete the character please contact a Game Master.#
 You cannot use an NPC shop while in a trade.#
-Shop Name#
+Name#
 Skill Tree#
 Skill Point: %d#
 Skill has failed.#

@@ -2687,6 +2687,20 @@ achievement_tbl = {
 		reward = { item = 617 },
 		score = 50
 	},
+	[170000] = {
+		UI_Type = 0,
+		group = "COMMUNITY",
+		major = 4,
+		minor = 0,
+		title = "방송 사고는 아닙니다",
+		content = {
+			summary = "궁정악사의 비밀선곡 감상",
+			details = "프론테라 궁정악사 오린트가 추천하는 비밀선곡 듣기"
+		},
+		resource = { [1] = { text = "프론테라 궁정악사 오린트가 추천하는 비밀선곡 듣기" } },
+		reward = {},
+		score = 10
+	},
 	[200000] = {
 		UI_Type = 0,
 		group = "ACTION",
@@ -3085,10 +3099,10 @@ achievement_tbl = {
 		minor = 0,
 		title = "애증의 화신",
 		content = {
-			summary = "노비스로 BaseLv 99 달성!",
-			details = "직업군 노비스 상태로 BaseLv 99레벨에 도달하다."
+			summary = "노비스로 99 베이스 레벨을 달성한다",
+			details = "직업이 노비스 상태에서 베이스 레벨을 99 까지 달성한다."
 		},
-		resource = { [1] = { text = "노비스로 BaseLv 99 달성!" } },
+		resource = { [1] = { text = "노비스 상태에서 99 베이스 레벨을 달성" } },
 		reward = { buff = 10, item = 16483 },
 		score = 30
 	},

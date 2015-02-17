@@ -2328,19 +2328,19 @@ achievement_tbl = {
 		group = "ACTION",
 		major = 2,
 		minor = 0,
-		title = "프론테라의 탐험가",
-		content = { summary = "목표 필드 탐험 완료", details = "프론테라 주변 탐험 완료" },
+		title = "Prontera Explorer",
+		content = { summary = "Field exploration objective completed", details = "Explore prontera surrounding completed" },
 		resource = {
-			[1] = { text = "North Prontera Field Exploration(1) 완료", shortcut = 120001 },
-			[2] = { text = "North Prontera Field Exploration(2) 완료", shortcut = 120002 },
-			[3] = { text = "North Prontera Field Exploration(3) 완료", shortcut = 120003 },
-			[4] = { text = "West Prontera Field Exploration(1) 완료", shortcut = 120004 },
-			[5] = { text = "West Prontera Field Exploration(2) 완료", shortcut = 120005 },
-			[6] = { text = "프론테라 동쪽 필드 탐험(1) 완료", shortcut = 120006 },
-			[7] = { text = "프론테라 남쪽 필드 탐험(1) 완료", shortcut = 120007 },
-			[8] = { text = "프론테라 남쪽 필드 탐험(2) 완료", shortcut = 120008 },
-			[9] = { text = "프론테라 남쪽 필드 탐험(3) 완료", shortcut = 120009 },
-			[10] = { text = "프론테라 남쪽 필드 탐험(4) 완료", shortcut = 120010 }
+			[1] = { text = "North Prontera Field Exploration(1) completed", shortcut = 120001 },
+			[2] = { text = "North Prontera Field Exploration(2) completed", shortcut = 120002 },
+			[3] = { text = "North Prontera Field Exploration(3) completed", shortcut = 120003 },
+			[4] = { text = "West Prontera Field Exploration(1) completed", shortcut = 120004 },
+			[5] = { text = "West Prontera Field Exploration(2) completed", shortcut = 120005 },
+			[6] = { text = "East Prontera Field Exploration(1) completed", shortcut = 120006 },
+			[7] = { text = "South Prontera Field Exploration(1) completed", shortcut = 120007 },
+			[8] = { text = "South Prontera Field Exploration(2) completed", shortcut = 120008 },
+			[9] = { text = "South Prontera Field Exploration(3) completed", shortcut = 120009 },
+			[10] = { text = "South Prontera Field Exploration(4) completed", shortcut = 120010 }
 		},
 		reward = { item = 644 },
 		score = 20
@@ -2350,16 +2350,16 @@ achievement_tbl = {
 		group = "ACTION",
 		major = 2,
 		minor = 0,
-		title = "게펜의 탐험가",
-		content = { summary = "목표 필드 탐험 완료", details = "게펜 주변 탐험 완료" },
+		title = "Geffen Explorer",
+		content = { summary = "Field exploration objective completed", details = "Explore geffen surrounding completed" },
 		resource = {
-			[1] = { text = "게펜 동쪽 필드 탐험(1) 완료", shortcut = 120011 },
-			[2] = { text = "게펜 동남쪽 필드 탐험(1) 완료", shortcut = 120012 },
-			[3] = { text = "게펜 서북쪽 필드 탐험(1) 완료", shortcut = 120013 },
-			[4] = { text = "게펜 서북쪽 필드 탐험(2) 완료", shortcut = 120014 },
-			[5] = { text = "게펜 서북쪽 필드 탐험(3) 완료", shortcut = 120015 },
-			[6] = { text = "게펜 남쪽 필드 탐험(1) 완료", shortcut = 120016 },
-			[7] = { text = "게펜 남쪽 필드 탐험(2) 완료", shortcut = 120017 }
+			[1] = { text = "East Geffen Field Exploration(1) completed", shortcut = 120011 },
+			[2] = { text = "Southeast Geffen Field Exploration(1) completed", shortcut = 120012 },
+			[3] = { text = "Northwest Geffen Field Exploration(1) completed", shortcut = 120013 },
+			[4] = { text = "Northwest Geffen Field Exploration(2) completed", shortcut = 120014 },
+			[5] = { text = "Northwest Geffen Field Exploration(3) completed", shortcut = 120015 },
+			[6] = { text = "South Geffen Field Exploration(1) completed", shortcut = 120016 },
+			[7] = { text = "South Geffen Field Exploration(2) completed", shortcut = 120017 }
 		},
 		reward = { item = 644 },
 		score = 20
@@ -2369,15 +2369,15 @@ achievement_tbl = {
 		group = "ACTION",
 		major = 2,
 		minor = 0,
-		title = "소그라트 사막의 탐험가",
-		content = { summary = "목표 필드 탐험 완료", details = "소그라트 사막 주변 탐험 완료" },
+		title = "Sograt Desert Explorer",
+		content = { summary = "Field exploration objective completed", details = "Explore sograt desert surrounding completed" },
 		resource = {
-			[1] = { text = "소그라트 사막 필드 탐험(1) 완료", shortcut = 120018 },
-			[2] = { text = "소그라트 사막 필드 탐험(2) 완료", shortcut = 120019 },
-			[3] = { text = "소그라트 사막 필드 탐험(3) 완료", shortcut = 120020 },
-			[4] = { text = "소그라트 사막 필드 탐험(4) 완료", shortcut = 120021 },
-			[5] = { text = "소그라트 사막 필드 탐험(5) 완료", shortcut = 120022 },
-			[6] = { text = "소그라트 사막 필드 탐험(6) 완료", shortcut = 120023 }
+			[1] = { text = "Sograt Desert Field Exploration(1) completed", shortcut = 120018 },
+			[2] = { text = "Sograt Desert Field Exploration(2) completed", shortcut = 120019 },
+			[3] = { text = "Sograt Desert Field Exploration(3) completed", shortcut = 120020 },
+			[4] = { text = "Sograt Desert Field Exploration(4) completed", shortcut = 120021 },
+			[5] = { text = "Sograt Desert Field Exploration(5) completed", shortcut = 120022 },
+			[6] = { text = "Sograt Desert Field Exploration(6) completed", shortcut = 120023 }
 		},
 		reward = { item = 644 },
 		score = 20
@@ -2387,17 +2387,17 @@ achievement_tbl = {
 		group = "ACTION",
 		major = 2,
 		minor = 0,
-		title = "페이욘의 탐험가",
-		content = { summary = "목표 필드 탐험 완료", details = "페이욘 주변 탐험 완료" },
+		title = "Payon Explorer",
+		content = { summary = "Field exploration objective completed", details = "Explore payon surrounding completed" },
 		resource = {
-			[1] = { text = "페이욘 남서쪽 필드 탐험(1) 완료", shortcut = 120024 },
-			[2] = { text = "페이욘 남서쪽 필드 탐험(2) 완료", shortcut = 120025 },
-			[3] = { text = "페이욘 남서쪽 필드 탐험(3) 완료", shortcut = 120026 },
-			[4] = { text = "페이욘 남서쪽 필드 탐험(4) 완료", shortcut = 120027 },
-			[5] = { text = "페이욘 동쪽 필드 탐험(1) 완료", shortcut = 120028 },
-			[6] = { text = "페이욘 동쪽 필드 탐험(2) 완료", shortcut = 120029 },
-			[7] = { text = "페이욘 동쪽 필드 탐험(3) 완료", shortcut = 120030 },
-			[8] = { text = "페이욘 동쪽 필드 탐험(4) 완료", shortcut = 120031 }
+			[1] = { text = "Southwest Payon Field Exploration(1) completed", shortcut = 120024 },
+			[2] = { text = "Southwest Payon Field Exploration(2) completed", shortcut = 120025 },
+			[3] = { text = "Southwest Payon Field Exploration(3) completed", shortcut = 120026 },
+			[4] = { text = "Southwest Payon Field Exploration(4) completed", shortcut = 120027 },
+			[5] = { text = "East Payon Field Exploration(1) completed", shortcut = 120028 },
+			[6] = { text = "East Payon Field Exploration(2) completed", shortcut = 120029 },
+			[7] = { text = "East Payon Field Exploration(3) completed", shortcut = 120030 },
+			[8] = { text = "East Payon Field Exploration(4) completed", shortcut = 120031 }
 		},
 		reward = { item = 644 },
 		score = 20
@@ -2407,14 +2407,14 @@ achievement_tbl = {
 		group = "ACTION",
 		major = 2,
 		minor = 0,
-		title = "묘르닐 북쪽의 탐험가",
-		content = { summary = "목표 필드 탐험 완료", details = "묘르닐 북쪽 주변 탐험 완료" },
+		title = "North Mjolnir Explorer",
+		content = { summary = "Field exploration objective completed", details = "Explore north mjolnir surrounding completed" },
 		resource = {
-			[1] = { text = "묘르닐 북쪽 필드 탐험(1) 완료", shortcut = 120032 },
-			[2] = { text = "묘르닐 북쪽 필드 탐험(2) 완료", shortcut = 120033 },
-			[3] = { text = "묘르닐 북쪽 필드 탐험(3) 완료", shortcut = 120034 },
-			[4] = { text = "묘르닐 북쪽 필드 탐험(4) 완료", shortcut = 120035 },
-			[5] = { text = "묘르닐 북쪽 필드 탐험(5) 완료", shortcut = 120036 }
+			[1] = { text = "North Mjolnir Field Exploration(1) completed", shortcut = 120032 },
+			[2] = { text = "North Mjolnir Field Exploration(2) completed", shortcut = 120033 },
+			[3] = { text = "North Mjolnir Field Exploration(3) completed", shortcut = 120034 },
+			[4] = { text = "North Mjolnir Field Exploration(4) completed", shortcut = 120035 },
+			[5] = { text = "North Mjolnir Field Exploration(5) completed", shortcut = 120036 }
 		},
 		reward = { item = 644 },
 		score = 20
@@ -2424,16 +2424,16 @@ achievement_tbl = {
 		group = "ACTION",
 		major = 2,
 		minor = 0,
-		title = "묘르닐 남쪽의 탐험가",
-		content = { summary = "목표 필드 탐험 완료", details = "묘르닐 남쪽 주변 탐험 완료" },
+		title = "South Mjolnir Explorer",
+		content = { summary = "Field exploration objective completed", details = "Explore south mjolnir surrounding completed" },
 		resource = {
-			[1] = { text = "묘르닐 남쪽 필드 탐험(1) 완료", shortcut = 120037 },
-			[2] = { text = "묘르닐 남쪽 필드 탐험(2) 완료", shortcut = 120038 },
-			[3] = { text = "묘르닐 남쪽 필드 탐험(3) 완료", shortcut = 120039 },
-			[4] = { text = "묘르닐 남쪽 필드 탐험(4) 완료", shortcut = 120040 },
-			[5] = { text = "묘르닐 남쪽 필드 탐험(5) 완료", shortcut = 120041 },
-			[6] = { text = "묘르닐 남쪽 필드 탐험(6) 완료", shortcut = 120042 },
-			[7] = { text = "알데바란 남쪽 필드 탐험(1) 완료", shortcut = 120043 }
+			[1] = { text = "South Mjolnir Field Exploration(1) completed", shortcut = 120037 },
+			[2] = { text = "South Mjolnir Field Exploration(2) completed", shortcut = 120038 },
+			[3] = { text = "South Mjolnir Field Exploration(3) completed", shortcut = 120039 },
+			[4] = { text = "South Mjolnir Field Exploration(4) completed", shortcut = 120040 },
+			[5] = { text = "South Mjolnir Field Exploration(5) completed", shortcut = 120041 },
+			[6] = { text = "South Mjolnir Field Exploration(6) completed", shortcut = 120042 },
+			[7] = { text = "South Aldebaran Field Exploration(1) completed", shortcut = 120043 }
 		},
 		reward = { item = 644 },
 		score = 20
@@ -2443,17 +2443,17 @@ achievement_tbl = {
 		group = "ACTION",
 		major = 2,
 		minor = 0,
-		title = "코모도의 탐험가",
-		content = { summary = "목표 필드 탐험 완료", details = "코모도 주변 탐험 완료" },
+		title = "Comodo Explorer",
+		content = { summary = "Field exploration objective completed", details = "Explore comodo surrounding completed" },
 		resource = {
-			[1] = { text = "코모도 필드 탐험(1) 완료", shortcut = 120044 },
-			[2] = { text = "코모도 필드 탐험(2) 완료", shortcut = 120045 },
-			[3] = { text = "코모도 필드 탐험(3) 완료", shortcut = 120046 },
-			[4] = { text = "코모도 필드 탐험(4) 완료", shortcut = 120047 },
-			[5] = { text = "코모도 필드 탐험(5) 완료", shortcut = 120048 },
-			[6] = { text = "코모도 필드 탐험(6) 완료", shortcut = 120049 },
-			[7] = { text = "코모도 필드 탐험(7) 완료", shortcut = 120050 },
-			[8] = { text = "코모도 필드 탐험(8) 완료", shortcut = 120051 }
+			[1] = { text = "Comodo Field Exploration(1) completed", shortcut = 120044 },
+			[2] = { text = "Comodo Field Exploration(2) completed", shortcut = 120045 },
+			[3] = { text = "Comodo Field Exploration(3) completed", shortcut = 120046 },
+			[4] = { text = "Comodo Field Exploration(4) completed", shortcut = 120047 },
+			[5] = { text = "Comodo Field Exploration(5) completed", shortcut = 120048 },
+			[6] = { text = "Comodo Field Exploration(6) completed", shortcut = 120049 },
+			[7] = { text = "Comodo Field Exploration(7) completed", shortcut = 120050 },
+			[8] = { text = "Comodo Field Exploration(8) completed", shortcut = 120051 }
 		},
 		reward = { item = 644 },
 		score = 20
@@ -2463,16 +2463,16 @@ achievement_tbl = {
 		group = "ACTION",
 		major = 2,
 		minor = 0,
-		title = "룬 미드가츠의 탐험가",
-		content = { summary = "목표 필드 탐험 완료", details = "룬 미드가츠 주변 탐험 완료" },
+		title = "Rune Midgard Explorer",
+		content = { summary = "Field exploration objective completed", details = "Explore rune midgard surrounding completed" },
 		resource = {
-			[1] = { text = "프론테라의 탐험가", shortcut = 129001 },
-			[2] = { text = "게펜의 탐험가", shortcut = 129002 },
-			[3] = { text = "소그라트 사막의 탐험가", shortcut = 129003 },
-			[4] = { text = "페이욘의 탐험가", shortcut = 129004 },
-			[5] = { text = "묘르닐 북쪽의 탐험가", shortcut = 129005 },
-			[6] = { text = "묘르닐 남쪽의 탐험가", shortcut = 129006 },
-			[7] = { text = "코모도의 탐험가", shortcut = 129007 }
+			[1] = { text = "Prontera Explorer", shortcut = 129001 },
+			[2] = { text = "Geffen Explorer", shortcut = 129002 },
+			[3] = { text = "Sograt Desert Explorer", shortcut = 129003 },
+			[4] = { text = "Payon Explorer", shortcut = 129004 },
+			[5] = { text = "North Mjolnir Explorer", shortcut = 129005 },
+			[6] = { text = "South Mjolnir Explorer", shortcut = 129006 },
+			[7] = { text = "Comodo Explorer", shortcut = 129007 }
 		},
 		reward = { item = 617 },
 		score = 50
@@ -2482,19 +2482,19 @@ achievement_tbl = {
 		group = "ACTION",
 		major = 2,
 		minor = 1,
-		title = "유노의 탐험가",
-		content = { summary = "목표 필드 탐험 완료", details = "유노 주변 탐험 완료" },
+		title = "Yuno Explorer",
+		content = { summary = "Field exploration objective completed", details = "Explore yuno surrounding completed" },
 		resource = {
-			[1] = { text = "국경 검문소 필드 탐험(1) 완료", shortcut = 120052 },
-			[2] = { text = "국경 검문소 필드 탐험(2) 완료", shortcut = 120053 },
-			[3] = { text = "킬 하이르의 별장 필드 탐험(1) 완료", shortcut = 120054 },
-			[4] = { text = "엘메스 플레투 필드 탐험(1) 완료", shortcut = 120055 },
-			[5] = { text = "엘메스 플레투 필드 탐험(2) 완료", shortcut = 120056 },
-			[6] = { text = "엘메스 플레투 필드 탐험(3) 완료", shortcut = 120057 },
-			[7] = { text = "엘메스 협곡 필드 탐험(1) 완료", shortcut = 120058 },
-			[8] = { text = "킬 하이르 학원 필드 탐험(1) 완료", shortcut = 120059 },
-			[9] = { text = "경비대 야영지 필드 탐험(1) 완료", shortcut = 120060 },
-			[10] = { text = "유노 필드 탐험(1) 완료", shortcut = 120061 }
+			[1] = { text = "Border Checkpoint Field Exploration(1) completed", shortcut = 120052 },
+			[2] = { text = "Border Checkpoint Field Exploration(2) completed", shortcut = 120053 },
+			[3] = { text = "Kiel Hyre Mansion Field Exploration(1) completed", shortcut = 120054 },
+			[4] = { text = "El Mes Plateau Field Exploration(1) completed", shortcut = 120055 },
+			[5] = { text = "El Mes Plateau Field Exploration(2) completed", shortcut = 120056 },
+			[6] = { text = "El Mes Plateau Field Exploration(3) completed", shortcut = 120057 },
+			[7] = { text = "El Mes Gorge Field Exploration(1) completed", shortcut = 120058 },
+			[8] = { text = "Kiel Hyre Academy Field Exploration(1) completed", shortcut = 120059 },
+			[9] = { text = "Guard Camp Field Exploration(1) completed", shortcut = 120060 },
+			[10] = { text = "Yuno Field Exploration(1) completed", shortcut = 120061 }
 		},
 		reward = { item = 644 },
 		score = 20
@@ -2504,14 +2504,14 @@ achievement_tbl = {
 		group = "ACTION",
 		major = 2,
 		minor = 1,
-		title = "휘겔의 탐험가",
-		content = { summary = "목표 필드 탐험 완료", details = "휘겔 주변 탐험 완료" },
+		title = "Hugel Explorer",
+		content = { summary = "Field exploration objective completed", details = "Explore hugel surrounding completed" },
 		resource = {
-			[1] = { text = "타나토스 타워 앞 필드 탐험(1) 완료", shortcut = 120062 },
-			[2] = { text = "휘겔 필드 탐험(1) 완료", shortcut = 120063 },
-			[3] = { text = "휘겔 필드 탐험(2) 완료", shortcut = 120064 },
-			[4] = { text = "휘겔 필드 탐험(3) 완료", shortcut = 120065 },
-			[5] = { text = "어비스호수 필드 탐험(1) 완료", shortcut = 120066 }
+			[1] = { text = "Front of Thanatos Tower Field Exploration(1) completed", shortcut = 120062 },
+			[2] = { text = "Hugel Field Exploration(1) completed", shortcut = 120063 },
+			[3] = { text = "Hugel Field Exploration(2) completed", shortcut = 120064 },
+			[4] = { text = "Hugel Field Exploration(3) completed", shortcut = 120065 },
+			[5] = { text = "Abyss Lake Field Exploration(1) completed", shortcut = 120066 }
 		},
 		reward = { item = 644 },
 		score = 20
@@ -2521,17 +2521,17 @@ achievement_tbl = {
 		group = "ACTION",
 		major = 2,
 		minor = 1,
-		title = "아인브로크의 탐험가",
-		content = { summary = "목표 필드 탐험 완료", details = "아인브로크 주변 탐험 완료" },
+		title = "Einbroch Explorer",
+		content = { summary = "Field exploration objective completed", details = "Explore einbroch surrounding completed" },
 		resource = {
-			[1] = { text = "아인브로크 필드 탐험(1) 완료", shortcut = 120067 },
-			[2] = { text = "아인브로크 필드 탐험(2) 완료", shortcut = 120068 },
-			[3] = { text = "아인브로크 필드 탐험(3) 완료", shortcut = 120069 },
-			[4] = { text = "아인브로크 필드 탐험(4) 완료", shortcut = 120070 },
-			[5] = { text = "아인브로크 필드 탐험(5) 완료", shortcut = 120071 },
-			[6] = { text = "아인브로크 필드 탐험(6) 완료", shortcut = 120072 },
-			[7] = { text = "아인브로크 필드 탐험(7) 완료", shortcut = 120073 },
-			[8] = { text = "아인브로크 필드 탐험(8) 완료", shortcut = 120074 }
+			[1] = { text = "Einbroch Field Exploration(1) completed", shortcut = 120067 },
+			[2] = { text = "Einbroch Field Exploration(2) completed", shortcut = 120068 },
+			[3] = { text = "Einbroch Field Exploration(3) completed", shortcut = 120069 },
+			[4] = { text = "Einbroch Field Exploration(4) completed", shortcut = 120070 },
+			[5] = { text = "Einbroch Field Exploration(5) completed", shortcut = 120071 },
+			[6] = { text = "Einbroch Field Exploration(6) completed", shortcut = 120072 },
+			[7] = { text = "Einbroch Field Exploration(7) completed", shortcut = 120073 },
+			[8] = { text = "Einbroch Field Exploration(8) completed", shortcut = 120074 }
 		},
 		reward = { item = 644 },
 		score = 20
@@ -2541,12 +2541,12 @@ achievement_tbl = {
 		group = "ACTION",
 		major = 2,
 		minor = 1,
-		title = "리히타르젠의 탐험가",
-		content = { summary = "목표 필드 탐험 완료", details = "리히타르젠 주변 탐험 완료" },
+		title = "Lighthalzen Explorer",
+		content = { summary = "Field exploration objective completed", details = "Explore lighthalzen surrounding completed" },
 		resource = {
-			[1] = { text = "리히타르젠 필드 탐험(1) 완료", shortcut = 120075 },
-			[2] = { text = "리히타르젠 필드 탐험(2) 완료", shortcut = 120076 },
-			[3] = { text = "리히타르젠 필드 탐험(3) 완료", shortcut = 120077 }
+			[1] = { text = "Lighthalzen Field Exploration(1) completed", shortcut = 120075 },
+			[2] = { text = "Lighthalzen Field Exploration(2) completed", shortcut = 120076 },
+			[3] = { text = "Lighthalzen Field Exploration(3) completed", shortcut = 120077 }
 		},
 		reward = { item = 644 },
 		score = 20
@@ -2556,13 +2556,13 @@ achievement_tbl = {
 		group = "ACTION",
 		major = 2,
 		minor = 1,
-		title = "슈발츠발드의 탐험가",
-		content = { summary = "목표 필드 탐험 완료", details = "슈발츠발드 주변 탐험 완료" },
+		title = "Schwarzwald Explorer",
+		content = { summary = "Field exploration objective completed", details = "Explore schwarzwald surrounding completed" },
 		resource = {
-			[1] = { text = "유노의 탐험가", shortcut = 129009 },
-			[2] = { text = "휘겔의 탐험가", shortcut = 129010 },
-			[3] = { text = "아인브로크의 탐험가", shortcut = 129011 },
-			[4] = { text = "리히타르젠의 탐험가", shortcut = 129012 }
+			[1] = { text = "Yuno Explorer", shortcut = 129009 },
+			[2] = { text = "Hugel Explorer", shortcut = 129010 },
+			[3] = { text = "Einbroch Explorer", shortcut = 129011 },
+			[4] = { text = "Lighthalzen Explorer", shortcut = 129012 }
 		},
 		reward = { item = 617 },
 		score = 50
@@ -2572,16 +2572,16 @@ achievement_tbl = {
 		group = "ACTION",
 		major = 2,
 		minor = 2,
-		title = "라헬의 탐험가",
-		content = { summary = "목표 필드 탐험 완료", details = "라헬 주변 탐험 완료" },
+		title = "Rachel Explorer",
+		content = { summary = "Field exploration objective completed", details = "Explore rachel surrounding completed" },
 		resource = {
-			[1] = { text = "라헬 아우둠라 평원 필드 탐험(1) 완료", shortcut = 120078 },
-			[2] = { text = "라헬 이다 평원 필드 탐험(1) 완료", shortcut = 120079 },
-			[3] = { text = "라헬 이다 평원 필드 탐험(2) 완료", shortcut = 120080 },
-			[4] = { text = "라헬 이다 평원 필드 탐험(3) 완료", shortcut = 120081 },
-			[5] = { text = "라헬 아우둠라 초원 필드 탐험(1) 완료", shortcut = 120082 },
-			[6] = { text = "라헬 아우둠라 초원 필드 탐험(2) 완료", shortcut = 120083 },
-			[7] = { text = "포르투 루나 필드 탐험(1) 완료", shortcut = 120084 }
+			[1] = { text = "Rachel Audhumbla Plains Field Exploration(1) completed", shortcut = 120078 },
+			[2] = { text = "Rachel Plains Field Exploration(1) completed", shortcut = 120079 },
+			[3] = { text = "Rachel Plains Field Exploration(2) completed", shortcut = 120080 },
+			[4] = { text = "Rachel Plains Field Exploration(3) completed", shortcut = 120081 },
+			[5] = { text = "Rachel Audhumbla Grassland Field Exploration(1) completed", shortcut = 120082 },
+			[6] = { text = "Rachel Audhumbla Grassland Field Exploration(2) completed", shortcut = 120083 },
+			[7] = { text = "Portus Luna Field Exploration(1) completed", shortcut = 120084 }
 		},
 		reward = { item = 644 },
 		score = 20
@@ -2591,14 +2591,14 @@ achievement_tbl = {
 		group = "ACTION",
 		major = 2,
 		minor = 2,
-		title = "베인스의 탐험가",
-		content = { summary = "목표 필드 탐험 완료", details = "베인스 주변 탐험 완료" },
+		title = "Veins Explorer",
+		content = { summary = "Field exploration objective completed", details = "Explore veins surrounding completed" },
 		resource = {
-			[1] = { text = "베인스 필드 탐험(1) 완료", shortcut = 120085 },
-			[2] = { text = "베인스 필드 탐험(2) 완료", shortcut = 120086 },
-			[3] = { text = "베인스 필드 탐험(3) 완료", shortcut = 120087 },
-			[4] = { text = "베인스 필드 탐험(4) 완료", shortcut = 120088 },
-			[5] = { text = "베인스 필드 탐험(5) 완료", shortcut = 120089 }
+			[1] = { text = "Veins Field Exploration(1) completed", shortcut = 120085 },
+			[2] = { text = "Veins Field Exploration(2) completed", shortcut = 120086 },
+			[3] = { text = "Veins Field Exploration(3) completed", shortcut = 120087 },
+			[4] = { text = "Veins Field Exploration(4) completed", shortcut = 120088 },
+			[5] = { text = "Veins Field Exploration(5) completed", shortcut = 120089 }
 		},
 		reward = { item = 644 },
 		score = 20
@@ -2608,11 +2608,11 @@ achievement_tbl = {
 		group = "ACTION",
 		major = 2,
 		minor = 2,
-		title = "아루나펠츠의 탐험가",
-		content = { summary = "목표 필드 탐험 완료", details = "아루나펠츠 주변 탐험 완료" },
+		title = "Arunafeltz Explorer",
+		content = { summary = "Field exploration objective completed", details = "Explore arunafeltz surrounding completed" },
 		resource = {
-			[1] = { text = "라헬의 탐험가", shortcut = 129014 },
-			[2] = { text = "베인스의 탐험가", shortcut = 129015 }
+			[1] = { text = "Rachel Explorer", shortcut = 129014 },
+			[2] = { text = "Veins Explorer", shortcut = 129015 }
 		},
 		reward = { item = 617 },
 		score = 50
@@ -2622,15 +2622,15 @@ achievement_tbl = {
 		group = "ACTION",
 		major = 2,
 		minor = 3,
-		title = "라피네의 탐험가",
-		content = { summary = "목표 필드 탐험 완료", details = "라피네 주변 탐험 완료" },
+		title = "Laphine Explorer",
+		content = { summary = "Field exploration objective completed", details = "Explore laphine surrounding completed" },
 		resource = {
-			[1] = { text = "에클라쥬 필드 탐험(1) 완료", shortcut = 120090 },
-			[2] = { text = "비프로스트 북부 필드 탐험(1) 완료", shortcut = 120091 },
-			[3] = { text = "비프로스트 남부 필드 탐험(1) 완료", shortcut = 120092 },
-			[4] = { text = "스플랑디드 필드 탐험(1) 완료", shortcut = 120093 },
-			[5] = { text = "스플랑디드 필드 탐험(2) 완료", shortcut = 120094 },
-			[6] = { text = "스플랑디드 필드 탐험(3) 완료", shortcut = 120095 }
+			[1] = { text = "Eclage Field Exploration(1) completed", shortcut = 120090 },
+			[2] = { text = "North Bitfrost Field Exploration(1) completed", shortcut = 120091 },
+			[3] = { text = "South Bitfrost Field Exploration(1) completed", shortcut = 120092 },
+			[4] = { text = "Splendide Field Exploration(1) completed", shortcut = 120093 },
+			[5] = { text = "Splendide Field Exploration(2) completed", shortcut = 120094 },
+			[6] = { text = "Splendide Field Exploration(3) completed", shortcut = 120095 }
 		},
 		reward = { item = 644 },
 		score = 20
@@ -2640,14 +2640,14 @@ achievement_tbl = {
 		group = "ACTION",
 		major = 2,
 		minor = 3,
-		title = "마누크의 탐험가",
-		content = { summary = "목표 필드 탐험 완료", details = "마누크 주변 탐험 완료" },
+		title = "Manuk Explorer",
+		content = { summary = "Field exploration objective completed", details = "Explore manuk surrounding completed" },
 		resource = {
-			[1] = { text = "마누크 필드 탐험(1) 완료", shortcut = 120096 },
-			[2] = { text = "마누크 필드 탐험(2) 완료", shortcut = 120097 },
-			[3] = { text = "마누크 필드 탐험(3) 완료", shortcut = 120098 },
-			[4] = { text = "카미달 산기슭 필드 탐험(1) 완료", shortcut = 120099 },
-			[5] = { text = "카미달 산기슭 필드 탐험(2) 완료", shortcut = 120100 }
+			[1] = { text = "Manuk Field Exploration(1) completed", shortcut = 120096 },
+			[2] = { text = "Manuk Field Exploration(2) completed", shortcut = 120097 },
+			[3] = { text = "Manuk Field Exploration(3) completed", shortcut = 120098 },
+			[4] = { text = "Outskirts of Kamidal Field Exploration(1) completed", shortcut = 120099 },
+			[5] = { text = "Outskirts of Kamidal Field Exploration(2) completed", shortcut = 120100 }
 		},
 		reward = { item = 644 },
 		score = 20
@@ -2658,10 +2658,10 @@ achievement_tbl = {
 		major = 2,
 		minor = 4,
 		title = "이계의 탐험가",
-		content = { summary = "목표 필드 탐험 완료", details = "이계 주변 탐험 완료" },
+		content = { summary = "Field exploration objective completed", details = "이계 주변 탐험 완료" },
 		resource = {
-			[1] = { text = "라피네의 탐험가", shortcut = 129017 },
-			[2] = { text = "마누크의 탐험가", shortcut = 129019 }
+			[1] = { text = "Laphine Explorer", shortcut = 129017 },
+			[2] = { text = "Manuk Explorer", shortcut = 129019 }
 		},
 		reward = { item = 617 },
 		score = 50

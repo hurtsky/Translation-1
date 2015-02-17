@@ -3434,6 +3434,9 @@ Unknown Item, can be identified by [Magnifier].
 1399#
 Unknown Item, can be identified by [Magnifier].
 #
+1400#
+Unknown Item, can be identified by [Magnifier].
+#
 1401#
 Unknown Item, can be identified by [Magnifier].
 Weight: ^77777770^000000
@@ -3565,6 +3568,9 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 1443#
+Unknown Item, can be identified by [Magnifier].
+#
+1450#
 Unknown Item, can be identified by [Magnifier].
 #
 1451#
@@ -4050,6 +4056,9 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 1599#
+Unknown Item, can be identified by [Magnifier].
+#
+1600#
 Unknown Item, can be identified by [Magnifier].
 #
 1601#
@@ -4600,6 +4609,9 @@ Weight: ^7777770.1^000000
 Unknown Item, can be identified by [Magnifier].
 Weight: ^7777770.1^000000
 #
+1800#
+Unknown Item, can be identified by [Magnifier].
+#
 1801#
 Unknown Item, can be identified by [Magnifier].
 Weight: ^77777740^000000
@@ -4726,6 +4738,9 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 1839#
+Unknown Item, can be identified by [Magnifier].
+#
+1900#
 Unknown Item, can be identified by [Magnifier].
 #
 1901#
@@ -5059,6 +5074,9 @@ Unknown Item, can be identified by [Magnifier].
 1995#
 Unknown Item, can be identified by [Magnifier].
 #
+1996#
+Unknown Item, can be identified by [Magnifier].
+#
 2000#
 Unknown Item, can be identified by [Magnifier].
 #
@@ -5136,6 +5154,12 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 2025#
+Unknown Item, can be identified by [Magnifier].
+#
+2026#
+Unknown Item, can be identified by [Magnifier].
+#
+2027#
 Unknown Item, can be identified by [Magnifier].
 #
 2101#
@@ -13770,8 +13794,9 @@ Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4636#
-Immunie to Frozen.
-DEF +300, MDEF +30.
+Immune to Frozen.
+ATK +10%, MATK +10%.
+When equipped with Enhanced Amdarais Card, add an immunity to Burning.
 Class: ^777777Card^000000
 Compound on: ^777777Shield^000000
 Weight: ^7777771^000000
@@ -34357,6 +34382,9 @@ Unknown Item, can be identified by [Magnifier].
 13127#
 Unknown Item, can be identified by [Magnifier].
 #
+13128#
+Unknown Item, can be identified by [Magnifier].
+#
 13150#
 Unknown Item, can be identified by [Magnifier].
 #
@@ -35146,6 +35174,9 @@ Unknown Item, can be identified by [Magnifier].
 13327#
 Unknown Item, can be identified by [Magnifier].
 #
+13328#
+Unknown Item, can be identified by [Magnifier].
+#
 13400#
 Unknown Item, can be identified by [Magnifier].
 #
@@ -35375,6 +35406,9 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 13454#
+Unknown Item, can be identified by [Magnifier].
+#
+13455#
 Unknown Item, can be identified by [Magnifier].
 #
 13500#
@@ -44712,6 +44746,9 @@ Unknown Item, can be identified by [Magnifier].
 16040#
 Unknown Item, can be identified by [Magnifier].
 #
+16041#
+Unknown Item, can be identified by [Magnifier].
+#
 16100#
 A box that contains 1 "Angry Mouth" inside.
 ^ffffff_^000000
@@ -50146,6 +50183,9 @@ Unknown Item, can be identified by [Magnifier].
 18120#
 Unknown Item, can be identified by [Magnifier].
 #
+18121#
+Unknown Item, can be identified by [Magnifier].
+#
 18122#
 Unknown Item, can be identified by [Magnifier].
 #
@@ -51198,10 +51238,16 @@ Unknown Item, can be identified by [Magnifier].
 18850#
 Unknown Item, can be identified by [Magnifier].
 #
+18851#
+Unknown Item, can be identified by [Magnifier].
+#
 18852#
 Unknown Item, can be identified by [Magnifier].
 #
 18853#
+Unknown Item, can be identified by [Magnifier].
+#
+18854#
 Unknown Item, can be identified by [Magnifier].
 #
 18855#
@@ -54886,6 +54932,12 @@ Unknown Item, can be identified by [Magnifier].
 21015#
 Unknown Item, can be identified by [Magnifier].
 #
+21016#
+Unknown Item, can be identified by [Magnifier].
+#
+21018#
+Unknown Item, can be identified by [Magnifier].
+#
 22000#
 Unknown Item, can be identified by [Magnifier].
 #
@@ -56773,8 +56825,14 @@ Unknown Item, can be identified by [Magnifier].
 28007#
 Unknown Item, can be identified by [Magnifier].
 #
+28008#
+Unknown Item, can be identified by [Magnifier].
+#
+28010#
+Unknown Item, can be identified by [Magnifier].
+#
 28100#
-Use [Magnifying Glass] to Identify this Item..
+Unknown Item, can be identified by [Magnifier].
 #
 28101#
 Unknown Item, can be identified by [Magnifier].
@@ -56786,6 +56844,9 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 28106#
+Unknown Item, can be identified by [Magnifier].
+#
+28107#
 Unknown Item, can be identified by [Magnifier].
 #
 28200#
@@ -56833,10 +56894,16 @@ Unknown Item, can be identified by [Magnifier].
 28604#
 Unknown Item, can be identified by [Magnifier].
 #
+28605#
+Unknown Item, can be identified by [Magnifier].
+#
 28703#
 Unknown Item, can be identified by [Magnifier].
 #
 28705#
+Unknown Item, can be identified by [Magnifier].
+#
+28706#
 Unknown Item, can be identified by [Magnifier].
 #
 28900#
