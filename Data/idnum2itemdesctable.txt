@@ -67001,7 +67001,7 @@ Weight: ^77777750^000000
 Jobs: ^777777All^000000
 #
 15053#
-Newly improved ninja shoes which took into consideration the opinions of skilled ninjas. Lighter and durability of the textile is better than before.
+Newly improved ninja suit which took into consideration the opinions of skilled ninjas. Lighter and durability of the textile is better than before.
 AGI +1 and increases AGI 1 per 3 Refine.
 Additional AGI +2 with Job and For Armguard.
 Class: ^777777Armor^000000
@@ -67032,7 +67032,7 @@ Require Level: ^777777100^000000
 Job: ^777777Ninja Class^000000
 #
 15056#
-Newly improved ninja shoes which took into consideration the opinions of skilled ninjas. Lighter and durability of the textile is better than before.
+Newly improved ninja suit which took into consideration the opinions of skilled ninjas. Lighter and durability of the textile is better than before.
 AGI +1. Increases AGI 1 per 3 Refine.
 Additional AGI +2 with Job and For Armguard.
 Class: ^777777Armor^000000
@@ -74815,8 +74815,8 @@ Weight: ^7777770^000000
 Job: ^777777ÀüÁ÷±÷ Job^000000
 #
 18503#
-...
-ATK, MATK	5%.
+The horns imbued with full of Devil Spirit. Feels so tight and harsh.
+ATK, MATK +5%.
 MaxHP, MaxSP +10%.
 Class :^777777 Headgear^000000
 Defense :^777777 2^000000
@@ -82182,10 +82182,28 @@ Required Level :^7777771^000000
 Jobs:^777777All^000000
 #
 19698#
+Class : ^777777Costume^000000
+Defense :^7777770^000000
+Location: ^777777Upper^000000
+Weight :^7777770^000000
+Required Level :^7777771^000000
+Jobs:^777777All^000000
 #
 19699#
+Class : ^777777Costume^000000
+Defense :^7777770^000000
+Location: ^777777Upper^000000
+Weight :^7777770^000000
+Required Level :^7777771^000000
+Jobs:^777777All^000000
 #
 19700#
+Class : ^777777Costume^000000
+Defense :^7777770^000000
+Location: ^777777Upper^000000
+Weight :^7777770^000000
+Required Level :^7777771^000000
+Jobs:^777777All^000000
 #
 19701#
 A bonnet favored by women of nobility.
@@ -82317,8 +82335,20 @@ Required Level : ^7777771^000000
 Jobs : ^777777all jobs^000000
 #
 19719#
+Class : ^777777Costume^000000
+Defense : ^7777770^000000
+Location : ^777777Upper ^000000
+Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777all jobs^000000
 #
 19720#
+Class : ^777777Costume^000000
+Defense : ^7777770^000000
+Location : ^777777Upper ^000000
+Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777all jobs^000000
 #
 19721#
 An elegant black wings which are spreading wide.
@@ -82475,9 +82505,16 @@ Required Level : ^7777771^000000
 Jobs: ^777777All^000000
 #
 19741#
+The horns imbued with full of Devil Spirit. Feels so tight and harsh.
+Class : ^777777Costume^000000
+Location: ^777777Upper ^000000
+Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs: ^777777All^000000
 #
 19742#
-When the Guardian of Midgard, Luthien Silvermoon, was summoned by the gods to ascend to Asgard, a nice pair of wings made of celestial energy appeared, making a halo around his head.
+Divine wings that rumored contain holy force.
+Increase 1% experience gain.
 Class : ^777777Costume^000000
 Location: ^777777Middle^000000
 Weight : ^7777770^000000
@@ -82887,7 +82924,7 @@ Jobs:^777777All^000000
 19793#
 A mask with a surprised expression on it.
 Class : ^777777Costume Equipment^000000
-Location: ^777777Middle^000000
+Location: ^777777Middle, Lower^000000
 Weight :^7777770^000000
 Required Level :^7777771^000000
 Jobs:^777777All^000000
@@ -82895,7 +82932,7 @@ Jobs:^777777All^000000
 19794#
 A mask with an annoyed expression on it.
 Class : ^777777Costume Equipment^000000
-Location: ^777777Middle^000000
+Location: ^777777Middle, Lower^000000
 Weight :^7777770^000000
 Required Level :^7777771^000000
 Jobs:^777777All^000000
@@ -83239,7 +83276,7 @@ Jobs: ^777777All^000000
 19838#
 You look very cunnniing with wearing this mask.
 Class: ^777777Costume^000000
-Location: ^777777Upper, Middle, Lower^000000
+Location: ^777777Middle, Lower^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -85690,7 +85727,7 @@ Required Level : ^7777771^000000
 Jobs: ^777777All^000000
 #
 20247#
-...
+Head seized by fate that dominated the feeling.
 Class : ^777777Costume^000000
 Defense : ^7777770^000000
 Location: ^777777Upper^000000

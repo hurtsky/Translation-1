@@ -10311,11 +10311,11 @@
 19695#Headgear#
 19696#Hat#
 19697#Headgear#
-19698##
-19699##
-19700##
-19701##
-19702#Headgear#
+19698#Hat#
+19699#Hat#
+19700#Helm#
+19701#Hat#
+19702#Hat#
 19704#Headgear#
 19706#Hat#
 19707#Hat#
@@ -10350,7 +10350,7 @@
 19737#Headgear#
 19738#Headgear#
 19739#Hat#
-19741##
+19741#Helm#
 19742#Headgear#
 19743#Headgear#
 19744#Accessory#
