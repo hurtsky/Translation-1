@@ -1862,7 +1862,7 @@ SKILL_DESCRIPT = {
     "Description: ^777777Attack an enemy with a Stone",
     "which inflicts 50 damage that will pierce enemy",
     "defense and has a low chance of causing the",
-    "^702180Stun^777777 or ^702180Blind^777777 status.^000000",
+    "^702180Stun^777777 or ^702180Blind^777777 status.",
     "Each cast requires 1 ^00BB00Stone^777777.^000000"
   },
   [SKID.MC_CARTREVOLUTION] = {
