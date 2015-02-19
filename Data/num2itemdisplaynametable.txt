@@ -10768,6 +10768,9 @@
 20245#Accesory#
 20246#Accesory#
 20247#Hat#
+20248#Hat#
+20249#Hat#
+20250#Hat#
 20251#Hat#
 20252#Headgear#
 20253#Hat#

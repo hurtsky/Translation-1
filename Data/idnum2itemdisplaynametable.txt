@@ -10768,6 +10768,9 @@
 20245#Costume:_Cat_Paw_Hairpin#
 20246#Costume:_Decoration_of_Time#
 20247#Costume:_Black_Hand_of_Fate#
+20248#Costume:_Black_Strong_Hair#
+20249#Costume:_Red_Strong_Hair#
+20250#Costume:_White_Strong_Hair#
 20251#Costume:_Rose_Cascade#
 20252#Costume:_Mage_Decoration#
 20253#Costume:_Drooping_Alicel#

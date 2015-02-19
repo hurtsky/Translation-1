@@ -85735,6 +85735,33 @@ Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Jobs: ^777777All^000000
 #
+20248#
+A hair inspired by certain race whose hair changes when they exceed their limits.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
+#
+20249#
+A hair inspired by certain race whose hair changes when they exceed their limits.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
+#
+20250#
+A hair inspired by certain race whose hair changes when they exceed their limits.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
+#
 20251#
 The special hunting cap with lace.
 Class : ^777777Costume^000000
