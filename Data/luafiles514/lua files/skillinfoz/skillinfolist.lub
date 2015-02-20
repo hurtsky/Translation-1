@@ -11429,7 +11429,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GS_FLING] ={
 		"GS_FLING",
-		SkillName = "Fling",
+		SkillName = "Coin Fling",
 		MaxLv = 1,
 		SpAmount = {
 			10,
