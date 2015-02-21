@@ -7012,6 +7012,18 @@ SKILL_INFO_LIST = {
 			1,
 		},
 		NeedSkillList = {
+			[JOBID.JT_BARD] = {
+				{
+					SKID.BA_WHISTLE,
+					10
+				}
+			},
+			[JOBID.JT_DANCER] = {
+				{
+					SKID.DC_HUMMING,
+					10
+				}
+			}
 		},
 	},
 	[SKID.BD_RICHMANKIM] ={
@@ -7078,6 +7090,18 @@ SKILL_INFO_LIST = {
 			1,
 		},
 		NeedSkillList = {
+			[JOBID.JT_BARD] = {
+				{
+				SKID.BA_APPLEIDUN,
+          			10
+				}
+			},
+			[JOBID.JT_DANCER] = {
+				{
+				SKID.DC_SERVICEFORYOU,
+				10
+				}
+			}
 		},
 	},
 	[SKID.BD_RINGNIBELUNGEN] ={
@@ -7118,6 +7142,18 @@ SKILL_INFO_LIST = {
 			1,
 		},
 		NeedSkillList = {
+			[JOBID.JT_BARD] = {
+				{
+					SKID.BA_ASSASSINCROSS,
+					10
+				}
+			},
+			[JOBID.JT_DANCER] = {
+				{
+					SKID.DC_DONTFORGETME,
+					10
+				}
+			}
 		},
 	},
 	[SKID.BD_INTOABYSS] ={
@@ -7158,6 +7194,18 @@ SKILL_INFO_LIST = {
 			1,
 		},
 		NeedSkillList = {
+			[JOBID.JT_BARD] = {
+				{
+					SKID.BA_POEMBRAGI,
+					10
+				}
+			},
+			[JOBID.JT_DANCER] = {
+				{
+					SKID.DC_FORTUNEKISS,
+					10
+				}
+			}
 		},
 	},
 	[SKID.BD_RAGNAROK] ={
@@ -8869,6 +8917,34 @@ SKILL_INFO_LIST = {
 			9,
 		},
 		NeedSkillList = {
+			[JOBID.JT_BARD_H] = {
+				{
+					SKID.AC_DOUBLE,
+					5
+				},
+			{
+					SKID.AC_SHOWER,
+					5
+				},
+			{
+					SKID.BA_MUSICALSTRIKE,
+					1
+				}
+			},
+			[JOBID.JT_DANCER_H] = {
+				{
+					SKID.AC_DOUBLE,
+					5
+				},
+			{
+					SKID.AC_SHOWER,
+ 					5
+ 				},
+			{
+					SKID.DC_THROWARROW,
+					1
+				}
+			}
 		},
 	},
 	[SKID.CG_MOONLIT] ={
@@ -8891,6 +8967,26 @@ SKILL_INFO_LIST = {
 			1,
 		},
 		NeedSkillList = {
+			[JOBID.JT_BARD_H] = {
+				{
+					SKID.AC_CONCENTRATION,
+					5
+				},
+			{
+					SKID.BA_MUSICALLESSON,
+					7
+				}
+			},
+			[JOBID.JT_DANCER_H] = {
+				{
+					SKID.AC_CONCENTRATION,
+					5
+			},
+				{
+					SKID.DC_DANCINGLESSON,
+					7
+				}
+			}
 		},
 	},
 	[SKID.CG_MARIONETTE] ={
@@ -8905,6 +9001,26 @@ SKILL_INFO_LIST = {
 			7,
 		},
 		NeedSkillList = {
+			[JOBID.JT_BARD_H] = {
+				{
+					SKID.AC_CONCENTRATION,
+					10
+			},
+				{
+					SKID.BA_MUSICALLESSON,
+					5
+				}
+			},
+			[JOBID.JT_DANCER_H] = {
+				{
+					SKID.AC_CONCENTRATION,
+					10
+				},
+			{
+					SKID.DC_DANCINGLESSON,
+					5
+				}
+			}
 		},
 	},
 	[SKID.LK_SPIRALPIERCE] ={
@@ -11155,6 +11271,34 @@ SKILL_INFO_LIST = {
 			1,
 		},
 		NeedSkillList = {
+			[JOBID.JT_BARD_H] = {
+				{
+					SKID.CG_MARIONETTE,
+					1
+				},
+			{
+					SKID.BA_DISSONANCE,
+					3
+				},
+			{
+					SKID.BA_MUSICALLESSON,
+					10
+				}
+			},
+			[JOBID.JT_DANCER_H] = {
+				{
+					SKID.CG_MARIONETTE,
+					1
+				},
+			{
+					SKID.DC_UGLYDANCE,
+					3
+				},
+			{
+					SKID.DC_DANCINGLESSON,
+					10
+				}
+			}
 		},
 	},
 	[SKID.CG_HERMODE] ={
@@ -11177,6 +11321,26 @@ SKILL_INFO_LIST = {
 			1,
 		},
 		NeedSkillList = {
+			[JOBID.JT_BARD_H] = {
+				{
+					SKID.AC_CONCENTRATION,
+					10
+				},
+			{
+					SKID.BA_MUSICALLESSON,
+					10
+				}
+			},
+			[JOBID.JT_DANCER_H] = {
+				{
+					SKID.AC_CONCENTRATION,
+					10
+				},
+			{
+					SKID.DC_DANCINGLESSON,
+					10
+				}
+			}
 		},
 	},
 	[SKID.CG_TAROTCARD] ={
@@ -11199,6 +11363,26 @@ SKILL_INFO_LIST = {
 			9,
 		},
 		NeedSkillList = {
+			[JOBID.JT_BARD_H] = {
+				{
+					SKID.AC_CONCENTRATION,
+					10
+				},
+			{
+					SKID.BA_DISSONANCE,
+					3
+				}
+			},
+			[JOBID.JT_DANCER_H] = {
+				{
+					SKID.AC_CONCENTRATION,
+					10
+				},
+			{
+					SKID.DC_UGLYDANCE,
+					3
+				}
+			}
 		},
 	},
 	[SKID.CR_ACIDDEMONSTRATION] ={
@@ -20913,6 +21097,18 @@ SKILL_INFO_LIST = {
 			9,
 		},
 		NeedSkillList = {
+			[JOBID.JT_MINSTREL] = {
+				{
+					SKID.BA_DISSONANCE,
+					5
+				}
+			},
+ 			[JOBID.JT_WANDERER] = {
+				{
+					SKID.DC_UGLYDANCE,
+					5
+				}
+			}
 		},
 	},
 	[SKID.WM_DOMINION_IMPULSE] ={
@@ -20953,6 +21149,18 @@ SKILL_INFO_LIST = {
 			9,
 		},
 		NeedSkillList = {
+			[JOBID.JT_MINSTREL] = {
+				{
+					SKID.BA_MUSICALSTRIKE,
+					5
+				}
+			},
+			[JOBID.JT_WANDERER] = {
+				{
+					SKID.DC_THROWARROW,
+					5
+				}
+			}
 		},
 	},
 	[SKID.WM_POEMOFNETHERWORLD] ={
@@ -21183,6 +21391,34 @@ SKILL_INFO_LIST = {
 			1,
 		},
 		NeedSkillList = {
+			[JOBID.JT_MINSTREL] = {
+				{
+					SKID.MI_HARMONIZE,
+					1
+				},
+				{
+					SKID.MI_RUSH_WINDMILL,
+					1
+				},
+				{
+					SKID.MI_ECHOSONG,
+					1
+				}
+			},
+			[JOBID.JT_WANDERER] = {
+				{
+					SKID.WA_SWING_DANCE,
+					1
+				},
+				{
+					SKID.WA_SYMPHONY_OF_LOVER,
+					1
+				},
+				{
+					SKID.WA_MOONLIT_SERENADE,
+					1
+				}
+			}
 		},
 	},
 	[SKID.WM_DANCE_WITH_WUG] ={
@@ -21205,6 +21441,34 @@ SKILL_INFO_LIST = {
 			1,
 		},
 		NeedSkillList = {
+			[JOBID.JT_MINSTREL] = {
+				{
+					SKID.MI_HARMONIZE,
+					1
+				},
+				{
+					SKID.MI_RUSH_WINDMILL,
+  					1
+				},
+				{
+					SKID.MI_ECHOSONG,
+					1
+ 				}
+			},
+			[JOBID.JT_WANDERER] = {
+				{
+					SKID.WA_SWING_DANCE,
+					1
+				},
+				{
+					SKID.WA_SYMPHONY_OF_LOVER,
+					1
+				},
+				{
+				SKID.WA_MOONLIT_SERENADE,
+					1
+				}
+			}
 		},
 	},
 	[SKID.WM_SOUND_OF_DESTRUCTION] ={
@@ -21283,6 +21547,34 @@ SKILL_INFO_LIST = {
 			1,
 		},
 		NeedSkillList = {
+			[JOBID.JT_MINSTREL] = {
+				{
+					SKID.MI_HARMONIZE,
+					1
+				},
+				{
+					SKID.MI_RUSH_WINDMILL,
+					1
+				},
+				{
+					SKID.MI_ECHOSONG,
+					1
+				}
+			},
+			[JOBID.JT_WANDERER] = {
+				{
+					SKID.WA_SWING_DANCE,
+					1
+				},
+				{
+					SKID.WA_SYMPHONY_OF_LOVER,
+					1
+				},
+				{
+ 					SKID.WA_MOONLIT_SERENADE,
+					1
+				}
+			}
 		},
 	},
 	[SKID.WM_MELODYOFSINK] ={
