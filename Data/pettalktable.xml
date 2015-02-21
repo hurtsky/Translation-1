@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="euc-kr" ?>
 
 <monster_talk_table>
 
@@ -4370,5 +4370,207 @@
 		<perfor_s>	Ugh... Did I eat too much? I feel like throwing up.	</perfor_s>
 	</so_full>			
 </TIKBALANG>
+
+	<GOLEM>
+		<hungry>
+			<feeding>	Thank you, i really appreciate it!	</feeding>
+			<feeding>	You saved me!	</feeding>
+			<feeding>	I feel overflowing energy!	</feeding>
+			<feeding>	It's so, Korekore! Tasty!	</feeding>
+			<hunting>	It's about time for you to feed me! I feel so powerless!	</hunting>
+			<hunting>	I feel so exhausted, can we take a break?!	</hunting>
+			<hunting>	Hmmm.... that surprisingly strong attack!	</hunting>
+			<hunting>	The most important thing in this world is a strong body!	</hunting>
+			<danger>	I wonder, if this the right time to flee?!	</danger>
+			<danger>	This fight is impossible!	</danger>
+			<danger>	Hey, this gonna be dangerous if you don't recover your wound!	</danger>
+			<danger>	You will die if you don't treat your wound!	</danger>
+			<dead>	What a pity...	</dead>
+			<dead>	You should know your limit...	</dead>
+			<dead>	Good bye...	</dead>
+			<stand>	Will you give me food?	</stand>
+			<stand>	Hey! that's some tasty stone over there!	</stand>
+			<stand>	Sigh.... no edible stone around here	</stand>
+			<stand>	Zeropi is not a stone, please be careful	</stand>
+			<stand>	...Foooooooooodd......	</stand>
+			<stand>	*pant* *pant*...Can you give me some stone?	</stand>
+			<connect>	Did you come to give me food?	</connect>
+			<connect>	Hoho, it's meal time!	</connect>
+			<connect>	I'm glad you come, i feel reduced bloody circulation in my belly!	</connect>
+			<connect>	You finally come!	</connect>
+			<connect>	I've waiting you for a long time!	</connect>
+			<levelup>	Congratulations! I hope i can be as strong as you.	</levelup>
+			<levelup>	Well done! you did it!	</levelup>
+			<levelup>	Impressive! Next is meal time~	</levelup>
+			<levelup>	We've work so hard to level up, it's time to get some meal~	</levelup>
+			<perfor_1>	Look at my strong body!!!	</perfor_1>
+			<perfor_1>	There is powerful force that move my strong body!	</perfor_1>
+			<perfor_2>	Admit it! you admire my strong body!	</perfor_2>
+			<perfor_2>	This body, is a strong body!	</perfor_2>
+			<perfor_3>	My golem sense is tingling!	</perfor_3>
+			<perfor_3>	I feel powerful force near me!	</perfor_3>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	You saved me once again!	</feeding>
+			<feeding>	Best timing!	</feeding>
+			<feeding>	Now i can use my power!	</feeding>
+			<hunting>	Hey it's dinner time!	</hunting>
+			<hunting>	I feel so exhausted, can we take a break?!	</hunting>
+			<hunting>	Hmmm.... that surprisingly strong attack!	</hunting>
+			<hunting>	The most important thing in this world is a strong body!	</hunting>
+			<danger>	Did you enjoy the thrill?	</danger>
+			<danger>	Please be careful, who's gonna feed me if you died?	</danger>
+			<danger>	Hang on! i will help you!	</danger>
+			<danger>	How can you still be okay with that wounds?	</danger>
+			<danger>	That look painful </danger>
+			<dead>	Even though i help you, but you still dead...	</dead>
+			<dead>	You should know your limit...	</dead>
+			<dead>	What a dissapointing result.	</dead>
+			<dead>	What? died again? </dead>
+			<stand>	It's meals time~	</stand>
+			<stand>	Sigh.... no edible stone around here	</stand>
+			<stand>	Zeropi is not a stone, please be careful	</stand>
+			<stand>	...Foooooooooodd......	</stand>
+			<stand>	*pant* *pant*...Can you give me some stone?	</stand>
+			<connect>	Come come! Fill this belly!	</connect>
+			<connect>	Finally you come!	</connect>
+			<connect>	I've waiting for you all day!	</connect>
+			<connect>	How are you today?	</connect>
+			<connect>	It's about time you feed me, what meal did you brought?	</connect>
+			<levelup>	Congratulations! I hope i can be as strong as you.	</levelup>
+			<levelup>	Well done! you did it!	</levelup>
+			<levelup>	Impressive! Next is meal time~	</levelup>
+			<levelup>	We've work so hard to level up, it's time to get some meal~	</levelup>
+			<perfor_1>	Look at my strong body!!!	</perfor_1>
+			<perfor_1>	There is powerful force that move my strong body!	</perfor_1>
+			<perfor_2>	Admit it! you admire my strong body!	</perfor_2>
+			<perfor_2>	This body, is a strong body!	</perfor_2>
+			<perfor_3>	My golem sense is tingling!	</perfor_3>
+			<perfor_3>	I feel powerful force near me!	</perfor_3>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	My power is now restored!!	</feeding>
+			<feeding>	I feel so slim	</feeding>
+			<feeding>	It has nice taste!	</feeding>
+			<feeding>	I feel so slim...again	</feeding>
+			<feeding>	It's good...though not delicious	</feeding>
+			<hunting>	Hey it's dinner time!	</hunting>
+			<hunting>	I feel so exhausted, can we take a break?!	</hunting>
+			<hunting>	Hmmm.... that surprisingly strong attack!	</hunting>
+			<hunting>	The most important thing in this world is a strong body!	</hunting>
+			<hunting>	Attack! attack! You feel that?!	</hunting>
+			<danger>	Did you enjoy the thrill?	</danger>
+			<danger>	Please be careful, who's gonna feed me if you died?	</danger>
+			<danger>	Hang on! i will help you!	</danger>
+			<danger>	How can you still be okay with that wounds?	</danger>
+			<danger>	That look painful </danger>
+			<dead>	Even though i help you, but you still dead...	</dead>
+			<dead>	You should know your limit...	</dead>
+			<dead>	What a dissapointing result.	</dead>
+			<dead>	What? died again? </dead>
+			<stand>	It's meals time~	</stand>
+			<stand>	Sigh.... no edible stone around here	</stand>
+			<stand>	Zeropi is not a stone, please be careful	</stand>
+			<stand>	...Foooooooooodd......	</stand>
+			<stand>	*pant* *pant*...Can you give me some stone?	</stand>
+			<stand>	Did you know? Elunium has good taste! You should try it!	</stand>
+			<connect>	Come come! Fill this belly!	</connect>
+			<connect>	Finally you come!	</connect>
+			<connect>	I've waiting for you all day!	</connect>
+			<connect>	How are you today?	</connect>
+			<connect>	It's about time you feed me, what meal did you brought?	</connect>
+			<levelup>	Congratulations! I hope i can be as strong as you.	</levelup>
+			<levelup>	Well done! you did it!	</levelup>
+			<levelup>	Impressive! Next is meal time~	</levelup>
+			<levelup>	We've work so hard to level up, it's time to get some meal~	</levelup>
+			<perfor_1>	Look at my strong body!!!	</perfor_1>
+			<perfor_1>	There is powerful force that move my strong body!	</perfor_1>
+			<perfor_2>	Admit it! you admire my strong body!	</perfor_2>
+			<perfor_2>	This body, is a strong body!	</perfor_2>
+			<perfor_3>	My golem sense is tingling!	</perfor_3>
+			<perfor_3>	I feel powerful force near me!	</perfor_3>
+		</noting>
+
+		<full>
+			<feeding>	I feel so great today!	</feeding>
+			<feeding>	Uuuuuuuo uuuuuo! Strong body is filled with magic now!	</feeding>
+			<feeding>	It's fighting time!! Let's go!	</feeding>
+			<feeding>	At last! my magic power is restored!	</feeding>
+			<feeding>	Burp! I feel so full!	</feeding>
+			<hunting>	Did you know having a strong body is important?	</hunting>
+			<hunting>	Nice hit!	</hunting>
+			<hunting>	Hmmm.... that surprisingly strong attack!	</hunting>
+			<hunting>	The most important thing in this world is a strong body!	</hunting>
+			<hunting>	Attack! attack! You feel that?!	</hunting>
+			<danger>	Did you enjoy the thrill?	</danger>
+			<danger>	Please be careful, who's gonna feed me if you died?	</danger>
+			<danger>	Hang on! i will help you!	</danger>
+			<danger>	Are you okay?	</danger>
+			<dead>	Even though i help you, but you still dead...	</dead>
+			<dead>	You should know your limit...	</dead>
+			<dead>	What a dissapointing result.	</dead>
+			<dead>	What? died again? </dead>
+			<dead>	It's time to rematch! c'mon get up!	</dead>
+			<stand>	It's good we spent time without moving~	</stand>
+			<stand>	Can you guess, how many cousin i have?	</stand>
+			<stand>	Hey, can we fisit my cousin? His name is bradium.	</stand>
+			<stand>	Last week my cousin, Lava, sent some tasty stone, will you try it?	</stand>
+			<stand>	Maybe we should rest in here?	</stand>
+			<connect>	Finally you come!	</connect>
+			<connect>	I've waiting for you all day!	</connect>
+			<connect>	Thank you for come, you must have miss me alot~	</connect>
+			<levelup>	Congratulations! I hope i can be as strong as you.	</levelup>
+			<levelup>	Well done! you did it!	</levelup>
+			<levelup>	Impressive! Our next target is level 99!	</levelup>
+			<levelup>	Nice! Now we can protect each other~	</levelup>
+			<perfor_1>	Look at my strong body!!!	</perfor_1>
+			<perfor_1>	There is powerful force that move my strong body!	</perfor_1>
+			<perfor_2>	Admit it! you admire my strong body!	</perfor_2>
+			<perfor_2>	This body, is a strong body!	</perfor_2>
+			<perfor_3>	My golem sense is tingling!	</perfor_3>
+			<perfor_3>	I feel powerful force near me!	</perfor_3>
+		</full>
+
+		<so_full>
+			<feeding>	I feel so great more than before!	</feeding>
+			<feeding>	Thank you! You can have the other stones~	</feeding>
+			<feeding>	Feel so great!	</feeding>
+			<feeding>	I'm okay. are you okay too? Good!	</feeding>
+			<hunting>	Nice hit!	</hunting>
+			<hunting>	Hmmm.... that surprisingly strong attack!	</hunting>
+			<hunting>	The most important thing in this world is a strong body!	</hunting>
+			<hunting>	Attack! attack! You feel that?!	</hunting>
+			<danger>	Did you enjoy the thrill?	</danger>
+			<danger>	Please be careful, who's gonna feed me if you died?	</danger>
+			<danger>	Hang on! i will help you!	</danger>
+			<danger>	Are you okay?	</danger>
+			<dead>	Even though i help you, but you still dead...	</dead>
+			<dead>	You should know your limit...	</dead>
+			<dead>	What a dissapointing result.	</dead>
+			<dead>	What? died again? </dead>
+			<dead>	It's time to rematch! c'mon get up!	</dead>
+			<stand>	Can you guess, how many cousin i have?	</stand>
+			<stand>	Hey, can we fisit my cousin? His name is bradium.	</stand>
+			<stand>	Last week my cousin, Lava, sent some tasty stone, will you try it?	</stand>
+			<stand>	If you want to have strong body, you have to train hard! and eat stone~	</stand>
+			<stand>	Maybe we should rest in here?	</stand>
+			<connect>	Finally you come!	</connect>
+			<connect>	I've waiting for you all day!	</connect>
+			<connect>	Thank you for come, you must have miss me alot~	</connect>
+			<levelup>	Congratulations! I hope i can be as strong as you.	</levelup>
+			<levelup>	Well done! you did it!	</levelup>
+			<levelup>	Impressive! Our next target is level 99!	</levelup>
+			<levelup>	Nice! Now we can protect each other~	</levelup>
+			<perfor_1>	Look at my strong body!!!	</perfor_1>
+			<perfor_1>	There is powerful force that move my strong body!	</perfor_1>
+			<perfor_2>	Admit it! you admire my strong body!	</perfor_2>
+			<perfor_2>	This body, is a strong body!	</perfor_2>
+			<perfor_3>	My golem sense is tingling!	</perfor_3>
+			<perfor_3>	I feel powerful force near me!	</perfor_3>
+		</so_full>
+
+	</GOLEM>
 
 </monster_talk_table>
