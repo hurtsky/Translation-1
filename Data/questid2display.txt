@@ -1955,7 +1955,7 @@ Let's sweep Cruisers in Toy Factory#
 20 Cruisers#
 
 2330#Payon Guardian#SG_FEEL#QUE_NOIMAGE#
-Let's sweep Hydras in Comodi Cave#
+Let's sweep Hydras in Comodo Cave#
 20 Hydras#
 
 2331#Payon Guardian#SG_FEEL#QUE_NOIMAGE#
@@ -2038,27 +2038,27 @@ Remaining time of rental weapon#
 #
 #
 
-2352#World Championship round 32­-1#SG_FEEL#QUE_NOIMAGE#
+2352#World Championship round 32 -1#SG_FEEL#QUE_NOIMAGE#
 #
 #
 
-2353#World Championship round 32­-2#SG_FEEL#QUE_NOIMAGE#
+2353#World Championship round 32 -2#SG_FEEL#QUE_NOIMAGE#
 #
 #
 
-2354#World Championship round 32­-3#SG_FEEL#QUE_NOIMAGE#
+2354#World Championship round 32 -3#SG_FEEL#QUE_NOIMAGE#
 #
 #
 
-2355#World Championship round 16­#SG_FEEL#QUE_NOIMAGE#
+2355#World Championship round 16#SG_FEEL#QUE_NOIMAGE#
 #
 #
 
-2356#World Championship round 8­#SG_FEEL#QUE_NOIMAGE#
+2356#World Championship round 8#SG_FEEL#QUE_NOIMAGE#
 #
 #
 
-2357#World Championship round 4­#SG_FEEL#QUE_NOIMAGE#
+2357#World Championship round 4#SG_FEEL#QUE_NOIMAGE#
 #
 #
 
