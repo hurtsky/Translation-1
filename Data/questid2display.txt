@@ -1900,179 +1900,179 @@ Speak to the Poring#
 Damage the fire element egg#
 Lv10 (Fire element) attack#
 
-//Å¬·£
-2314#Å¬·£½Ã½ºÅÛ#SG_FEEL#QUE_NOIMAGE#
+// Clan
+2314#Clan system#SG_FEEL#QUE_NOIMAGE#
 #
 #
 
-2315#º¸»ó³ÉÀÌÀÇ ¼±¹°#SG_FEEL#QUE_NOIMAGE#
-º¸»ó³ÉÀÌÀÇ ¼±¹°À» ´Ù½Ã ¹ŞÀ» ¼ö ¾ø½À´Ï´Ù.#
+2315#Reward from cat#SG_FEEL#QUE_NOIMAGE#
+Unable to receive anymore reward from cat.#
 #
 
 // ±èÀºµ¿
-2319#ÇÁ·ĞÅ×¶ó ¼öÈ£´ë#SG_FEEL#QUE_NOIMAGE#
-´ÙÀ½ ¼öÇà°¡´É½Ã°£±îÁö ³²Àº ½Ã°£#
+2319#Prontera Guardian#SG_FEEL#QUE_NOIMAGE#
+Remaining time until next mission.#
 #
 
-2320#ÇÁ·ĞÅ×¶ó ¼öÈ£´ë#SG_FEEL#QUE_NOIMAGE#
-´ë¼º´ç ¼öÈ£´ëÀåÀÌ ¾îÄİ¶óÀÌÆ® ¾ç¼ºÀ» À§ÇÑ ¼ö¾÷Àç·á¸¦ ¿äÃ»Çß´Ù.#
-½âÀººØ´ë 10, »ç°ú 10, ÃÊ·ÏÇãºê 10#
+2320#Prontera Guardian#SG_FEEL#QUE_NOIMAGE#
+Gather then deliver materials asked by Guardian Captain in Cathedral.#
+10 Rotten Bandages, 10 apples, 10 green herbs#
 
-2321#°ÔÆæ ¼öÈ£´ë#SG_FEEL#QUE_NOIMAGE#
-´ÙÀ½ ¼öÇà°¡´É½Ã°£±îÁö ³²Àº ½Ã°£#
+2321#Geffen Guardian#SG_FEEL#QUE_NOIMAGE#
+Remaining time until next mission.#
 #
 
-2322#°ÔÆæ ¼öÈ£´ë#SG_FEEL#QUE_NOIMAGE#
-»¡°£Ç®À» 5¹ø ¼öÈ®ÇÑ µÚ »¡°£Çãºê 5°³¸¦ ¼öÈ£´ëÀå¿¡°Ô Àü´ŞÇÏÀÚ.#
-»¡°£Çãºê 5#
+2322#Geffen Guardian#SG_FEEL#QUE_NOIMAGE#
+Gather then deliver 5 red potions and 5 red herbs to Guardian Captain.#
+5 Red Herbs#
 
-2323#°ÔÆæ ¼öÈ£´ë#SG_FEEL#QUE_NOIMAGE#
-ÆÄ¶õÇ®À» 5¹ø ¼öÈ®ÇÑ µÚ ÆÄ¶õÇãºê 5°³¸¦ ¼öÈ£´ëÀå¿¡°Ô Àü´ŞÇÏÀÚ.#
-ÆÄ¶õÇãºê 5#
+2323#Geffen Guardian#SG_FEEL#QUE_NOIMAGE#
+Gather then deliver 5 blue potions and 5 blue herbs to Guardian Captain.#
+5 Blue Herbs#
 
-2324#°ÔÆæ ¼öÈ£´ë#SG_FEEL#QUE_NOIMAGE#
-³ë¶õÇ®À» 5¹ø ¼öÈ®ÇÑ µÚ ³ë¶õÇãºê 5°³¸¦ ¼öÈ£´ëÀå¿¡°Ô Àü´ŞÇÏÀÚ.#
-³ë¶õÇãºê 5#
+2324#Geffen Guardian#SG_FEEL#QUE_NOIMAGE#
+Gather then deliver 5 yellow potions and 5 yellow herbs to Guardian Captain.#
+5 Yellow Herbs#
 
-2325#°ÔÆæ ¼öÈ£´ë#SG_FEEL#QUE_NOIMAGE#
-ÇÏ¾áÇ®À» 5¹ø ¼öÈ®ÇÑ µÚ ÇÏ¾áÇãºê 5°³¸¦ ¼öÈ£´ëÀå¿¡°Ô Àü´ŞÇÏÀÚ.#
-ÇÏ¾áÇãºê 5#
+2325#Geffen Guardian#SG_FEEL#QUE_NOIMAGE#
+Gather then deliver 5 white potions and 5 white herbs to Guardian Captain.#
+5 White Herbs#
 
-2326#°ÔÆæ ¼öÈ£´ë#SG_FEEL#QUE_NOIMAGE#
-ÃÊ·ÏÇ®À» 5¹ø ¼öÈ®ÇÑ µÚ ÃÊ·ÏÇãºê 5°³¸¦ ¼öÈ£´ëÀå¿¡°Ô Àü´ŞÇÏÀÚ.#
-ÃÊ·ÏÇãºê 5#
+2326#Geffen Guardian#SG_FEEL#QUE_NOIMAGE#
+Gather then deliver 5 green potions and 5 green herbs to Guardian Captain.#
+5 Green Herbs#
 
-2327#°ÔÆæ ¼öÈ£´ë#SG_FEEL#QUE_NOIMAGE#
-°ËÀº¹ö¼¸À» 5¹ø ¼öÈ®ÇÑ µÚ µ¶¹ö¼¸Æ÷ÀÚ 5°³¸¦ ¼öÈ£´ëÀå¿¡°Ô Àü´ŞÇÏÀÚ.#
-µ¶¹ö¼¸Æ÷ÀÚ 5#
+2327#Geffen Guardian#SG_FEEL#QUE_NOIMAGE#
+Gather then deliver 5 Black Mushrooms and 5 Poison Spores to Guardian Captain.#
+Poison Spores 5#
 
-2328#ÆäÀÌ¿æ ¼öÈ£´ë#SG_FEEL#QUE_NOIMAGE#
-´ÙÀ½ ¼öÇà°¡´É½Ã°£±îÁö ³²Àº ½Ã°£#
+2328#Payon Guardian#SG_FEEL#QUE_NOIMAGE#
+Remaining time until next mission.#
 #
 
-2329#ÆäÀÌ¿æ ¼öÈ£´ë#SG_FEEL#QUE_NOIMAGE#
-Àå³­°¨°øÀåÀÇ Å©·çÀÌÀú¸¦ ¼ÒÅÁÇÏÀÚ#
-Å©·çÀÌÀú 20¸¶¸®#
+2329#Payon Guardian#SG_FEEL#QUE_NOIMAGE#
+Let's sweep Cruisers in Toy Factory#
+20 Cruisers#
 
-2330#ÆäÀÌ¿æ ¼öÈ£´ë#SG_FEEL#QUE_NOIMAGE#
-ÄÚ¸ğµµ µ¿ÂÊµ¿±¼ÀÇ È÷µå¶ó¸¦ ¼ÒÅÁÇÏÀÚ#
-È÷µå¶ó 20¸¶¸®#
+2330#Payon Guardian#SG_FEEL#QUE_NOIMAGE#
+Let's sweep Hydras in Comodi Cave#
+20 Hydras#
 
-2331#ÆäÀÌ¿æ ¼öÈ£´ë#SG_FEEL#QUE_NOIMAGE#
-°³¹ÌÁö¿ÁÀÇ ÇÇ¿¡¸£¸¦ ¼ÒÅÁÇÏÀÚ#
-ÇÇ¿¡¸£ 20¸¶¸®#
+2331#Payon Guardian#SG_FEEL#QUE_NOIMAGE#
+Let's sweep Pierres in Ant Hell#
+20 Pierres#
 
-2332#ÆäÀÌ¿æ ¼öÈ£´ë#SG_FEEL#QUE_NOIMAGE#
-½Ã°èÅ¾ Áö»ó 3ÃşÀÇ ¶óÀÌµå¿öµå¸¦ ¼ÒÅÁÇÏÀÚ#
-¶óÀÌµå¿öµå 20¸¶¸®#
+2332#Payon Guardian#SG_FEEL#QUE_NOIMAGE#
+Let's sweep Ridewords in 3rd floor of Clock Tower#
+20 Ridewords#
 
-2333#ÆäÀÌ¿æ ¼öÈ£´ë#SG_FEEL#QUE_NOIMAGE#
-½Ã°èÅ¾ Áö»ó 4ÃşÀÇ ¾Æ¿ïµàÅ©¸¦ ¼ÒÅÁÇÏÀÚ#
-¾Æ¿ïµàÅ© 20¸¶¸®#
+2333#Payon Guardian#SG_FEEL#QUE_NOIMAGE#
+Let's sweep Owl Dukes in 4th floor of Clock Tower#
+20 Owl Dukes#
 
-2334#ÆäÀÌ¿æ ¼öÈ£´ë#SG_FEEL#QUE_NOIMAGE#
-½Ã°èÅ¾ ÁöÇÏ 3ÃşÀÇ Å©·¥ÇÁ¸¦ ¼ÒÅÁÇÏÀÚ#
-Å©·¥ÇÁ 20¸¶¸®#
+2334#Payon Guardian#SG_FEEL#QUE_NOIMAGE#
+Let's sweep Cramps in 3rd floor of Clock Tower Underground#
+20 Cramps#
 
-2335#ÆäÀÌ¿æ ¼öÈ£´ë#SG_FEEL#QUE_NOIMAGE#
-ÇÇ¶ó¹Ìµå ÁöÇÏ2ÃşÀÇ ¾ÆÅ©¶ó¿ì½º¸¦ ¼ÒÅÁÇÏÀÚ#
-¾ÆÅ©¶ó¿ì½º 20¸¶¸®#
+2335#Payon Guardian#SG_FEEL#QUE_NOIMAGE#
+Let's sweep Arclouses in 2nd floor of Pyramid Underground#
+20 Arclouse#
 
-2336#ÆäÀÌ¿æ ¼öÈ£´ë#SG_FEEL#QUE_NOIMAGE#
-»ıÃ¼´øÀü 1,2ÃşÀÇ ÀÌ·»µå¿¡º£½Ã¸¦ ¼ÒÅÁÇÏÀÚ#
-ÀÌ·»µå¿¡º£½Ã 20¸¶¸®#
+2336#Payon Guardian#SG_FEEL#QUE_NOIMAGE#
+Let's sweep Errende Ebecees in 1st and 2nd floor of Biolab#
+20 Errende Ebecees#
 
-2337#¾Ëº£¸£Å¸ ¼öÈ£´ë#SG_FEEL#QUE_NOIMAGE#
-´ÙÀ½ ¼öÇà°¡´É½Ã°£±îÁö ³²Àº ½Ã°£#
+2337#Alberta Guardian#SG_FEEL#QUE_NOIMAGE#
+Remaining time until next mission.#
 #
 
-2338#¾Ëº£¸£Å¸ ¼öÈ£´ë#SG_FEEL#QUE_NOIMAGE#
-Ã¶, Ã¶±¤¼®, ¼®Åº, °­Ã¶ÀÇ ¸ÁÄ¡ Áß ¿øÇÏ´Â °ÍÀ» 10°³ ¸ğ¾Æ »óÀÎÁ¶ÇÕ ¼öÈ£´ëÀå¿¡°Ô °¡Á®°¡ÀÚ#
-¹°Ç° 10°³#
+2338#Alberta Guardian#SG_FEEL#QUE_NOIMAGE#
+Gather and deliver 10 of Irons, Iron Ores, Coals and Steel Hammers to Guardian Captain in Market.#
+Gather 10 items#
 
-2339#ÀÌÁî·çµå ¼öÈ£´ë#SG_FEEL#QUE_NOIMAGE#
-´ÙÀ½ ¼öÇà°¡´É½Ã°£±îÁö ³²Àº ½Ã°£#
+2339#Izlude Guardian#SG_FEEL#QUE_NOIMAGE#
+Remaining time until next mission.#
 #
 
-2340#ÀÌÁî·çµå ¼öÈ£´ë#SG_FEEL#QUE_NOIMAGE#
-·¹µå, ¿»·Î¿ì, ºí·ç Áª½ºÅæ Áß ÇÏ³ª¸¦ °¡Áö°í ±¤¼® ºĞÇØ ¼º°øÇÏ±â#
-°Ë»ç±æµå ¼öÈ£´ëÀå°ú ´ëÈ­#
+2340#Izlude Guardian#SG_FEEL#QUE_NOIMAGE#
+Bring one of dissambled Red, yellow and blue gemstones.#
+Swordman Guild Guardian Captain conversation.#
 
-2341#¸ğ·ÎÅ© ¼öÈ£´ë#SG_FEEL#QUE_NOIMAGE#
-´ÙÀ½ ¼öÇà°¡´É½Ã°£±îÁö ³²Àº ½Ã°£#
+2341#Morocc Guardian#SG_FEEL#QUE_NOIMAGE#
+Remaining time until next mission.#
 #
 
-2342#¸ğ·ÎÅ© ¼öÈ£´ë#SG_FEEL#QUE_NOIMAGE#
-ÇÁ·ĞÅ×¶ó ´ë¼º´çÀ¸·Î Áö¿ø¿äÃ»À» °¡ÀÚ#
+2342#Morocc Guardian#SG_FEEL#QUE_NOIMAGE#
+Let's support a request from Prontera Cathedral#
 #
 
-2343#¸ğ·ÎÅ© ¼öÈ£´ë#SG_FEEL#QUE_NOIMAGE#
-°ÔÆæ ¸¶¹ı±æµå·Î Áö¿ø¿äÃ»À» °¡ÀÚ#
+2343#Morocc Guardian#SG_FEEL#QUE_NOIMAGE#
+Let's support a request from Geffen Magic Guild#
 #
 
-2344#¸ğ·ÎÅ© ¼öÈ£´ë#SG_FEEL#QUE_NOIMAGE#
-ÆäÀÌ¿æ ÀÌÄ«·ç½º·Î Áö¿ø¿äÃ»À» °¡ÀÚ#
+2344#Morocc Guardian#SG_FEEL#QUE_NOIMAGE#
+Let's support a request from Payon Icarus#
 #
 
-2345#¸ğ·ÎÅ© ¼öÈ£´ë#SG_FEEL#QUE_NOIMAGE#
-¾Ëº£¸£Å¸ »óÀÎÁ¶ÇÕÀ¸·Î Áö¿ø¿äÃ»À» °¡ÀÚ#
+2345#Morocc Guardian#SG_FEEL#QUE_NOIMAGE#
+Let's support a request from Alberta Market#
 #
 
-2346#¸ğ·ÎÅ© ¼öÈ£´ë#SG_FEEL#QUE_NOIMAGE#
-ÀÌÁî·çµå °Ë»ç±æµå·Î Áö¿ø¿äÃ»À» °¡ÀÚ#
+2346#Morocc Guardian#SG_FEEL#QUE_NOIMAGE#
+Let's support a request from Izlude Swordman Guild#
 #
 
-2347#¸ğ·ÎÅ© ¼öÈ£´ë#SG_FEEL#QUE_NOIMAGE#
-¾Æ¸¶Âê ´ÑÀÚ±æµå·Î Áö¿ø¿äÃ»À» °¡ÀÚ#
+2347#Morocc Guardian#SG_FEEL#QUE_NOIMAGE#
+Let's support a request from Amatsu Ninja Guild#
 #
 
-2348#¸ğ·ÎÅ© ¼öÈ£´ë#SG_FEEL#QUE_NOIMAGE#
-¾ÆÀÎºê·ÎÅ© °Ç½½¸µ°Å±æµå·Î Áö¿ø¿äÃ»À» °¡ÀÚ#
+2348#Morocc Guardian#SG_FEEL#QUE_NOIMAGE#
+Let's support a request from Einbroch Gunslinger Guild#
 #
 
-2349#·»Å»¾ÆÀÌÅÛ#SG_FEEL#QUE_NOIMAGE#
-´ÙÀ½ ¹«±â ·»Å»°¡´É½Ã°£±îÁö ³²Àº ½Ã°£#
+2349#Rental Items#SG_FEEL#QUE_NOIMAGE#
+Remaining time of rental weapon#
 #
 
-2351#10·¹º§ ´Ş¼º!#SG_FEEL#QUE_NOIMAGE#
-#
-#
-
-2352#¼¼°è´ëÈ¸ 32°­-1#SG_FEEL#QUE_NOIMAGE#
+2351#Level 10 achieved!#SG_FEEL#QUE_NOIMAGE#
 #
 #
 
-2353#¼¼°è´ëÈ¸ 32°­-2#SG_FEEL#QUE_NOIMAGE#
+2352#World Championship round 32­-1#SG_FEEL#QUE_NOIMAGE#
 #
 #
 
-2354#¼¼°è´ëÈ¸ 32°­-3#SG_FEEL#QUE_NOIMAGE#
+2353#World Championship round 32­-2#SG_FEEL#QUE_NOIMAGE#
 #
 #
 
-2355#¼¼°è´ëÈ¸ 16°­#SG_FEEL#QUE_NOIMAGE#
+2354#World Championship round 32­-3#SG_FEEL#QUE_NOIMAGE#
 #
 #
 
-2356#¼¼°è´ëÈ¸ 8°­#SG_FEEL#QUE_NOIMAGE#
+2355#World Championship round 16­#SG_FEEL#QUE_NOIMAGE#
 #
 #
 
-2357#¼¼°è´ëÈ¸ 4°­#SG_FEEL#QUE_NOIMAGE#
+2356#World Championship round 8­#SG_FEEL#QUE_NOIMAGE#
 #
 #
 
-2358#¼¼°è´ëÈ¸ °á½ÂÁøÃâ#SG_FEEL#QUE_NOIMAGE#
+2357#World Championship round 4­#SG_FEEL#QUE_NOIMAGE#
 #
 #
 
-2359#¼¼°è´ëÈ¸ ¿ì½Â#SG_FEEL#QUE_NOIMAGE#
+2358#World Championship Final#SG_FEEL#QUE_NOIMAGE#
 #
 #
 
-2365#2015 ¹ß·»Å¸ÀÎµ¥ÀÌ#SG_FEEL#QUE_NOIMAGE#
-ÇÚµå¸ŞÀÌµå ÃÊÄİ·¿ 15°³, ÇÚµå¸ŞÀÌµå ÃÊÄİ·¿(È­ÀÌÆ®) 15°³, ÃÊÄİ·¿µå¸µÅ© 15°³, ÃÊÄİ·¿Å¸¸£Æ® 15°³, µş±âÃÊÄİ·¿ 15°³, ÇÁ·¹ÀÓÇÏÆ® 1°³, ÀºÈ­»ì 1°³¸¦ ½ºÀ§Æ¼ ¿¹½º¿¡°Ô Àü´ŞÇÏÀÚ.#
-½ºÀ§Æ¼ ¿¹½º¿¡°Ô ÃÊÄİ·¿ Àü´Ş#
+2359#World Championship#SG_FEEL#QUE_NOIMAGE#
+#
+#
+
+2365#2015 Valentine's Day#SG_FEEL#QUE_NOIMAGE#
+Let's deliver 15 Handmade Chocolates, 15 White Handmade Chocolates, 15 Chocolate Drinks, 15 Chocolate Tarts, 15 Strawberry Chocolates, 1 Flame Heart and buy 1 silver.#
+Deliver Sweet Chocolate#
 
 3000#Job Change to Bard#SG_FEEL#QUE_NOIMAGE#
 Beautiful Song - I have met a beautiful singer Bard. I want to be a Bard...Should I ask him about becoming a Bard?#
@@ -2270,7 +2270,7 @@ You stretch your hand and pick up a lusterless fragment. It's a piece of the Sat
 "Congratulations, soldier. You just saved this world and people from being consumed by destruction and evil. I have three items. Which one do you like to receive?"#
 Choose your reward#
 
-//--------------------º£ÀÎ½ºÀÇ ³²¸Å---------------------------------
+//--------------------Veins Sibling---------------------------------
 3060#Kids in Veins - Where's the Little Sis?#SG_FEEL#QUE_NOIMAGE#
 A kid name Karyn has lost his little sister when they went to Thor Volcano in Veins. You must help him finding his sis Curdie.#
 #
@@ -2696,7 +2696,7 @@ Collect  ^0000FF30 Dokebi Horn^000000 and ^0000FF3 Trunk^000000s#
 A request from a place taking request. You found a missing boy in the first floor of geffen dungeon, so go back to a place taking request for reporting.#
 #
 
-// ¿À³²°æ
+// Hunter job change
 
 4000#Sherin's Job Interview#SG_FEEL#QUE_NOIMAGE#
 You've got to pass Sherin's test to take a step forward.#
@@ -2839,13 +2839,13 @@ The rest is omitted.#
 Anori looks busy doing other things. After the timer expires, you can help her again.#
 #
 
-// ³«¿ø´Ü µî·Ï
-4150#³«¿ø´Ü¿ø µÇ±â#SG_FEEL#QUE_NOIMAGE#
-³«¿ø´ÜÀÌ µÇ¾îº¸ÀÚ.#
-³«¿ø´Ü¿ø µÇ±â#
+// Team Paradise member register
+4150#Join team paradise#SG_FEEL#QUE_NOIMAGE#
+Let's join team paradise.#
+Join team paradise#
 
-//----------È£¹®Å¬·ç½º ¿¬±¸ Á¾°áÀÚ
-// È£¹®Å¬·ç½º ¿¬±¸ Á¾°áÀÚ
+//----------Homunculus research terminator
+// Homunculus research terminator
 4154#Homunculus S mutation#SG_FEEL#QUE_NOIMAGE#
 You are seeking Viorel help in Mutating your mighty Evolved Homunculus in Lighthalzen.#
 #
@@ -2875,7 +2875,7 @@ Viorel will help you finally mutate your Homunculus, this is an important decisi
 #
 
 
-//-- ³«¿ø´Ü Ãß°¡ Æ©Åä¸®¾ó
+//-- Team Paradise additional tutorial
 4161#Siege Expert#SG_FEEL#QUE_NOIMAGE#
 Speak to the Siege Expert at the Eden Group Headquarters second floor and pass his quiz.#
 #
@@ -2900,7 +2900,7 @@ Speak to the Map Expert at the Eden Group Headquarters second floor and pass his
 Congrats on passing all the Experts' quizzes! Now, go find and talk to the ^006400Tutorial Goal^000000!#
 #
 
-// ³«¿ø´Ü ÀÇ·Ú 86 ~ 90
+// Team Paradise Quest 86 ~ 90
 4167#Dragon Tail Hunting#SG_FEEL#QUE_NOIMAGE#
 Hunt 30 Dragon Tail monsters at Turtle Island and return to the second floor of the Eden Group Headquarters.#
 #
@@ -3146,17 +3146,17 @@ You must wait 3 hours before re-taking the Disguise Hunting Quest.#
 #
 
 
-//-- ÀÌº¥Æ®
-4228#Á¸´Ù#SG_FEEL#QUE_NOIMAGE#
-Á¸´Ù ÀÌº¥Æ® °É¿¡°Ô¼­ ¾î¸Ó´ÏÀÇ ¸¶À½À» ¹Ş¾Ò´Ù.#
+//-- Event
+4228#Zonda#SG_FEEL#QUE_NOIMAGE#
+Zonda event, i won her heart.#
 #
 
-//-- Æ÷Æ® ¸»¶ó¾ß
+//-- Port Malaya
 4229#Devil in the Cave#SG_FEEL#QUE_NOIMAGE#
 People say the monster is not appearing at the moment. Should come back tomorrow.#
 Buwaya in hiding#
 
-//-- 2011 ÇÒ·ÎÀ© ÀÌº¥Æ®
+//-- 2011 Halloween Events
 4230#Those who came back alive#SG_FEEL#QUE_NOIMAGE#
 Bring 2 pieces of Rusty screw to the dead man on the International airplane#
 Saint-actually#
@@ -3302,11 +3302,11 @@ Dominic.#
 Obtained permission to read books in the bookshelf.#
 #
 
-4266#½ºÅ³ÃÊ±âÈ­ ¿Ï·á#SG_FEEL#QUE_NOIMAGE#
+4266#Skill Initialization Complete#SG_FEEL#QUE_NOIMAGE#
 #
 #
 
-4267#½ºÅÈÃÊ±âÈ­ ¿Ï·á#SG_FEEL#QUE_NOIMAGE#
+4267#Stats Initialization Complete#SG_FEEL#QUE_NOIMAGE#
 #
 #
 
