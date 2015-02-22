@@ -51832,17 +51832,7 @@ Required Level: ^7777771^000000
 Jobs: ^777777All Except Novice^000000
 #
 19019#
-A box that contains 1 Classic Rosary 2 Week Rental
-Description:
-^000088Rental Item^000000
-An ancient rosary.
-LUK +4, MDEF +5
-This item cannot be Dropped or Traded.
-Class: ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All Except Novice^000000
+Unknown Item, can be identified by [Magnifier].
 #
 19020#
 A box that contains 1 Classic Solar Sword 2 Week Rental

@@ -79513,17 +79513,18 @@ Required Level: ^7777771^000000
 Jobs: ^777777All Except Novice^000000
 #
 19019#
-A box that contains 1 Classic Rosary 2 Week Rental
-Description:
-^000088Rental Item^000000
-An ancient rosary.
-LUK +4, MDEF +5
-This item cannot be Dropped or Traded.
-Class: ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All Except Novice^000000
+A crown bless by spirit, by wearing it you can feel the flow of nature.
+DEX +3.
+Ranged attack damage +4%.
+Every 2 refine increase DEX +1.
+When base level is more than 130, every refine will add DEX +1.
+When equipped with Burning Bow, Frozen Bow, Earth Bow or Gust Bow, Increase ranged damage by 45%.
+Class: ^777777Helm^000000
+Defense: ^77777710^000000
+Location: ^777777Upper^000000
+Weight: ^77777750^000000
+Required level: ^77777750^000000
+Job: ^777777All^000000
 #
 19020#
 A box that contains 1 Classic Solar Sword 2 Week Rental
@@ -79651,7 +79652,15 @@ Jobs: ^777777All Except Novice^000000
 Box Weight: ^7777770^000000
 #
 19029#
-[JRO item]
+A figurine doll that resemble maid from A-larm House 69.
+Increase damage against boss monster by 15%.
+When you have pet Alice, increase damage against boss monster by 10%.
+When intimacy with pet Alice is Loyal, increase damage against boss monster by 15%.
+Class: ^777777Headgear^000000
+Defense: ^7777770^000000
+Weight: ^77777730^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 19030#
 The bunny hood worn by strong warrior during insect invasion in village.

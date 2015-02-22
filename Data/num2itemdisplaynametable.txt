@@ -10028,7 +10028,7 @@
 19016#Classic_Moonlight_Sword_2_Week_Rental_Box#
 19017#Classic_Necklace_2_Week_Rental_Box#
 19018#Classic_Ring_2_Week_Rental_Box#
-19019#Classic_Rosary_2_Week_Rental_Box#
+19019#Helm#
 19020#Classic_Solar_Sword_2_Week_Rental_Box#
 19021#Classic_Pole_Axe_2_Week_Rental_Box#
 19022#Classic_Safety_Ring_2_Week_Rental_Box#
@@ -10038,7 +10038,7 @@
 19026#Helm#
 19027#Classic_Refresh_Shoes_2_Week_Rental_Box#
 19028#Classic_Silf_Manteau_2_Week_Rental_Box#
-19029#Headgear#
+19029#Hat#
 19030#Hat#
 19031#Classic_Unholy_Touch_2_Week_Rental_Box#
 19032#Classic_Whip_of_Balance_2_Week_Rental_Box#

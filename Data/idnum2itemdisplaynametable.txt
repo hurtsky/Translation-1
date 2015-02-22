@@ -10028,7 +10028,7 @@
 19016#Classic_Moonlight_Sword_2_Week_Rental_Box#
 19017#Classic_Necklace_2_Week_Rental_Box#
 19018#Classic_Ring_2_Week_Rental_Box#
-19019#Classic_Rosary_2_Week_Rental_Box#
+19019#Elemental_Crown#
 19020#Classic_Solar_Sword_2_Week_Rental_Box#
 19021#Classic_Pole_Axe_2_Week_Rental_Box#
 19022#Classic_Safety_Ring_2_Week_Rental_Box#
@@ -10683,7 +10683,7 @@
 20147#Costume:_Pigeon_On_Shoulder#
 20152#Costume:_Straw_Rice_Bag#
 20153#Costume:_Monochrome_Cap#
-20154#Costume:_Falling_Maple_leafs#
+20154#Costume:_Falling_Maple_Leafs#
 20155#Costume:_Lady_Feather_Hat#
 20156#[Costume]_Fan_in_Mouth#
 20157#Costume:_Blue_Fish#
