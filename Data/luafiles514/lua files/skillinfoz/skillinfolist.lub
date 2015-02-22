@@ -783,7 +783,7 @@ SKILL_INFO_LIST = {
 			10,
 			9,
 		},
-		bSeperateLv = false,
+		bSeperateLv = true,
 		AttackRange = {
 			1,
 			1,
