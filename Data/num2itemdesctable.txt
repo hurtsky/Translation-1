@@ -44538,30 +44538,43 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 15090#
+Unknown Item, can be identified by [Magnifier].
 #
 15091#
+Unknown Item, can be identified by [Magnifier].
 #
 15092#
+Unknown Item, can be identified by [Magnifier].
 #
 15093#
+Unknown Item, can be identified by [Magnifier].
 #
 15094#
+Unknown Item, can be identified by [Magnifier].
 #
 15095#
+Unknown Item, can be identified by [Magnifier].
 #
 15096#
+Unknown Item, can be identified by [Magnifier].
 #
 15097#
+Unknown Item, can be identified by [Magnifier].
 #
 15098#
+Unknown Item, can be identified by [Magnifier].
 #
 15099#
+Unknown Item, can be identified by [Magnifier].
 #
 15100#
+Unknown Item, can be identified by [Magnifier].
 #
 15101#
+Unknown Item, can be identified by [Magnifier].
 #
 15102#
+Unknown Item, can be identified by [Magnifier].
 #
 15103#
 Unknown Item, can be identified by [Magnifier].
@@ -44719,8 +44732,10 @@ Jobs: ^777777Swordman Class/Acolyte Class/Merchant Class^000000
 16027#
 #
 16028#
+Unknown Item, can be identified by [Magnifier].
 #
 16029#
+Unknown Item, can be identified by [Magnifier].
 #
 16030#
 Unknown Item, can be identified by [Magnifier].
