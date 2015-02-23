@@ -2471,15 +2471,15 @@ ErrorCategory : %d, ErrorCode : %d (%d,%d,%d,%d)#
 %d%% ( Basic 100%% + Premium %d%% + PCCafe %d%% + %s Server %d%% )#
 Basic item drop rate from monster hunting is increased for %dmins by %dtimes.#
 Basic item drop rate from monster hunting is increased for %dhour %.2dmins  by %dtimes.#
-%s's price#
+The price of %s#
 100000000#
  is more than ^ff0000%d^0000ff Million ^0000ffZeny^000000.#
 10000000#
  ^ff0000%d^0000ff0,000,000^000000#
  Is it correct?#
-Safe check for over 10,000,000Zeny#
+Safe check over 10million Zeny#
 https://www.warpportal.com/account/login.aspx?ReturnUrl=%2faccount%2fpayment.aspx#
-https://kepler.warpportal.com/steam/purchase/?step=1&steamid=76561198071003044&game=rose&accountname=khanhtest111&lang=en#
+https://kepler.warpportal.com/ro1/purchase/?step=1&steamid=%lld&accountname=#
 A giant crevice appeared in Bifrost, the bridge between Splendide, the end of the world and the floating continent of Alfheim, and you do not know the source of the labyrinth forest.#
 This is a marker indicating the end of the trip, a new world is opening indicators! Guardian, such as the lyrics to the temptation was gradually losing the soul.#
 For thousands of years, a mysterious melody has mesmerized the guardian. After a millennia of slumber, the guardian became confused about what he had been protecting all these years, and began to suspect that he might be the one who has been sealed and hidden away.#
@@ -2497,7 +2497,7 @@ ITEM#
 Guild storage is not available.#
 Guild is not subscribed to. After signing up, please use #
 Two other guild members are in use. Please use it after a while.#
-Storage Permit#
+Strg Permit#
 Guild Storage#
 You do not have permission to use guild storage.#
 Limited Sale Registration Window#
