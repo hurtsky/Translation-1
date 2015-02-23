@@ -39118,36 +39118,84 @@ The bag has a lot of goods that Raccoon Hooray team borrowed without permission.
 Weight : ^7777771^000000
 #
 6683#
+A flower that dried.
+There is crisp sound when you touch it.
+Weight : ^7777771^000000
 #
 6684#
+A token of hero.
+Weight : ^7777770^000000
 #
 6685#
+A certificate given to people who help rebuilding Morocc.
+^ff0000This item is account bound.^000000
+Weight : ^7777770^000000
 #
 6686#
+A construction material used for restoration of Morocc.
+^ff0000This item is account bound.^000000
+Weight : ^777777200^000000
 #
 6687#
+A construction material used for restoration of Morocc.
+^ff0000This item is account bound.^000000
+Weight : ^777777200^000000
 #
 6688#
+A construction material used for restoration of Morocc.
+^ff0000This item is account bound.^000000
+Weight : ^777777200^000000
 #
 6689#
+A very hot insect shell.
+Very popular because it can be a subtitue for heating pad, you will never feel cold.
+^ff0000This item is account bound.^000000
+Weight : ^7777770^000000
 #
 6690#
+Quite primitive form of plant stem.
+It feels warm inside it.
+Very popular because of it taste!
+^ff0000This item is account bound.^000000
+Weight : ^7777770^000000
 #
 6691#
+A hell feather of Fire condor.
+There is fire around it which always moving and protecting it from damage.
+Weight : ^7777770^000000
 #
 6692#
+A jurnal of Fire Basin patrol written on it.
+Does not seem like detailed wrote.
+Weight : ^7777770.1^000000
 #
 6693#
+A hell body part of fire golem.
+Unlike its name, its has ugly appearance.
+Weight : ^7777771^000000
 #
 6694#
+A bottle containing blood from monster of Fire Basin.
+It's not clear whether if drinking it will harm or not.
+Weight : ^7777771^000000
 #
 6695#
+A teeth of Fire Golem.
+It's much heavier than you think.
+Weight : ^77777710^000000
 #
 6696#
+A frill of Fire Frildora.
+Weight : ^7777771^000000
 #
 6697#
+A coupon that can be used to exchange existing headgear into costume.
+^ffffff<NAVI>^4D4DFF[Eve Patterson]^000000<INFO>malangdo,162,139,0,100,0,0</INFO></NAVI>^000000
+Weight : ^7777771^000000
 #
 6698#
+A simple axe that used by lumberjack.
+Weight : ^777777100^000000
 #
 6699#
 Ancient relic, a moment of silence, the silence is composed of a set crystals that are dirty but can be used for investigation.
@@ -39189,10 +39237,15 @@ A wish to Guardian Flower upon the safe return of warrior that went to the battl
 Weight : ^7777770^000000
 #
 6707#
+Chief Hair Designer ^ffffff<NAVI>^4D4DFF[Jeremy]^000000<INFO>itemmall,19,71,0,100,0,0</INFO></NAVI>^000000 hairstyle change coupon. He can make you ultimately stylish!
+Weight : ^7777771^000000
 #
 6708#
+A crystal that contain significant magic.
 #
 6709#
+Smooth and shiny silk.
+Somehow its seems brittle.
 #
 6710#
 #

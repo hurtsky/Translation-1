@@ -4447,8 +4447,8 @@
 6681#XMAS_Cookie#
 6682#Bag_Of_Selling_Goods#
 6683#Dried_Flower#
-6684#Proof_of_The_Heroic#
-6685#Morocc_Certification#
+6684#Heroic_Token#
+6685#Morocc_Merit_Certificate#
 6686#Brick#
 6687#Rope#
 6688#Wood#
@@ -4456,11 +4456,11 @@
 6690#Delicious_Stem#
 6691#Fire_Feather#
 6692#Patrol_Journal#
-6693#Stone_Blessing#
+6693#Blessed_Stone#
 6694#Blood_of_The_Monster#
 6695#Tooth_Rock_Of_Fire_Golem#
 6696#Fire_Frill#
-6697#Costumes_Exchange_Coupons#
+6697#Costume_Exchange_Coupon#
 6698#Wooden_Axe#
 6699#Divine_Silence#
 6700#White_Snake_Scale#
