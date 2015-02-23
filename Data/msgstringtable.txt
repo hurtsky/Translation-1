@@ -1463,13 +1463,13 @@ Deletion is impossible for over level %d#
 Can't be used while on Magic Gear.#
 Dismount Dragon#
 Dismount Magic Gear#
-I#
+Con#
 Cash#
 Armors#
 Weapons#
 Ammo#
 Card#
-M#
+Mis#
 Client response time has passed so connection is terminated#
 Incorrect version of hack shield file. Please reinstall the client#
 [Magic Book] is required.#
@@ -2048,8 +2048,8 @@ Input your party ad.#
 Only party leader can register party ad.#
 You have already accepted this ad.#
 For#
-E#
-F#
+Eqp#
+Fav#
  Drop Lock: On/Off#
 Party Alarm#
 Create Party#
