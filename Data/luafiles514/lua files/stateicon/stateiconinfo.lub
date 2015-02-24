@@ -2267,7 +2267,7 @@ StateIconList[EFST_IDs.EFST_ENCHANTBLADE] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Add MATK to mili physical ATK"
+      "Add MATK to melee physical attack"
     }
   }
 }
@@ -2284,7 +2284,7 @@ StateIconList[EFST_IDs.EFST_ADRENALINE] = {
       "Increase ASPD of"
     },
     {
-      "Axe and Blunt class weapon"
+      "Axe and Mace class weapon"
     }
   }
 }

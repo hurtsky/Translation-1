@@ -16125,7 +16125,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RK_HUNDREDSPEAR] ={
 		"RK_HUNDREDSPEAR",
-		SkillName = "Hundred Spears",
+		SkillName = "Hundred Spear",
 		MaxLv = 10,
 		SpAmount = {
 			60,
