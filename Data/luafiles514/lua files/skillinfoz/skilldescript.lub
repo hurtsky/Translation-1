@@ -2148,10 +2148,11 @@ SKILL_DESCRIPT = {
     "Max Level : 10",
     "^777777Requirement : Potion Research 5^000000",
     "Skill Form: ^777777Supportive^000000",
-    "Description: ^777777Enables manufacturing of potions",
-    "and chemicals. The correct ^000099Potion Creation Guide^000000",
+    "Description: ^777777Enables manufacturing of potion",
+    "and chemical. The correct ^000099Potion Creation Guide^777777",
     "is needed for the manufacture of specific",
-    "potions. Each cast requires 1 ^00BB00Medicine Bowl^777777.^000000"
+    "potions.",
+    "Each cast requires 1 ^00BB00Medicine Bowl^777777.^000000"
   },
   [SKID.AM_DEMONSTRATION] = {
     "Bomb",
@@ -2164,7 +2165,7 @@ SKILL_DESCRIPT = {
     "by throwing a Bottle Grenade. The flames will",
     "not push back enemies within their range, but",
     "they do have a chance of damaging the weapons",
-    "of enemies. Each cast requires 1 ^00BB00Bottle Grenade^777777.^000000"
+    "of enemies. Each cast require 1 ^00BB00Bottle Grenade^777777.^000000"
   },
   [SKID.AM_ACIDTERROR] = {
     "Acid Terror",
@@ -2220,9 +2221,9 @@ SKILL_DESCRIPT = {
     "Skill Form: ^777777Support^000000",
     "Target: ^777777Ground^000000",
     "SP Cost: 10",
-    "Description: ^777777Summon a ^000099Marine Sphere^777777to a targeted",
-    "cell. Marine Spheres will cast ^000099Self-Destruct^777777",
-    "upon receiving damage.",
+    "Description: ^777777Summon a ^000099Marine Sphere^777777 to a",
+    "targeted cell. Marine Spheres will cast",
+    "^000099Self-Destruct^777777 upon receiving damage.",
     "Each cast requires 1 ^00BB00Marine Sphere Bottle^777777.^000000"
   },
   [SKID.AM_CP_WEAPON] = {
@@ -2309,8 +2310,8 @@ SKILL_DESCRIPT = {
     "Max Level : 1",
     "^777777Requirement : Vaporize 1^000000",
     "Skill Form: ^777777Supportive^000000",
-    "Description: ^777777Summon an existing Homunculus that",
-    "was stored by using the Vaporize skill.",
+    "Description: ^777777Summon an existing Homunculus",
+    "that was stored by using the Vaporize skill.",
     "Each cast requires 1 ^00BB00Embryo^777777.^000000"
   },
   [SKID.AM_REST] = {
@@ -4714,7 +4715,7 @@ SKILL_DESCRIPT = {
     "duration of the increase in Attack Speed from",
     "this skill lasts only half as long as the",
     "Berserk Potion item.",
-    "^00BB00Each cast requires 2 Berserk Potions^777777.^000000"
+    "Each cast requires 2 ^00BB00Berserk Potions^777777.^000000"
   },
   [SKID.SL_MONK] = {
     "Monk Spirit",
@@ -5274,17 +5275,16 @@ SKILL_DESCRIPT = {
     "Description: ^777777Consume one Condensed Potion to",
     "heal all Party Members within a 7*7 cell area",
     "around the targeted spot.^000000",
-    "Potion Efficiency & Required Condensed Potion",
-    "[Lv 1]: ^777777110%, [Red]^000000",
-    "[Lv 2]: ^777777120%, [Red]^000000",
-    "[Lv 3]: ^777777130%, [Red]^000000",
-    "[Lv 4]: ^777777140%, [Red]^000000",
-    "[Lv 5]: ^777777150%, [Red]^000000",
-    "[Lv 6]: ^777777160%, [Yellow]^000000",
-    "[Lv 7]: ^777777170%, [Yellow]^000000",
-    "[Lv 8]: ^777777180%, [Yellow]^000000",
-    "[Lv 9]: ^777777190%, [Yellow]^000000",
-    "[Lv 10]: ^777777200%, [White]^000000"
+    "[Lv 1]: ^777777110% efficiency, Require Red Potion^000000",
+    "[Lv 2]: ^777777120% efficiency, Require Red Potion^000000",
+    "[Lv 3]: ^777777130% efficiency, Require Red Potion^000000",
+    "[Lv 4]: ^777777140% efficiency, Require Red Potion^000000",
+    "[Lv 5]: ^777777150% efficiency, Require Red Potion^000000",
+    "[Lv 6]: ^777777160% efficiency, Require Yellow Potion^000000",
+    "[Lv 7]: ^777777170% efficiency, Require Yellow Potion^000000",
+    "[Lv 8]: ^777777180% efficiency, Require Yellow Potion^000000",
+    "[Lv 9]: ^777777190% efficiency, Require Yellow Potion^000000",
+    "[Lv 10]: ^777777200% efficiency, Require White Potion^000000"
   },
   [SKID.CR_FULLPROTECTION] = {
     "Full Chemical Protection",
@@ -5516,13 +5516,13 @@ SKILL_DESCRIPT = {
     "Max Level : 2",
     "Description: ^777777Initiate an attempt, which will",
     "have a 50% chance of success, to create a",
-    "random type of Mushroom from a Mushroom Spore,",
-    "or a Plant from a Stem. This skill is disabled",
-    "during WoE (Guild War).^000000",
+    "random type of Mushroom from a Mushroom",
+    "Spore, or a Plant from a Stem. This skill is",
+    "disabled during WoE.^000000",
     "[Lv 1]: ^777777Cultivate Mushrooms",
-    " ^00BB00Requires Mushroom Spore^000000",
+    "Requires ^00BB00Mushroom Spore^000000",
     "[Lv 2]: ^777777Cultivate Plants",
-    " ^00BB00Requires Stem^000000"
+    "Requires ^00BB00Stem^000000"
   },
   [SKID.TK_MISSION] = {
     "Taekwon Mission",
@@ -5600,13 +5600,13 @@ SKILL_DESCRIPT = {
     "Skill Form: ^777777Supportive^000000",
     "Description: ^777777This skill is only enabled through",
     "the power of the Super Novice Guardian Angel.",
-    "Consume 200 SP in order to make 200 attempts to",
-    "create a White Potion every 0.005 seconds. This",
-    "skill can earn Alchemist Ranking Points and has",
-    "the same success rate as the Prepare Potion",
-    "skill, as well as a 3 second cast time that",
-    "is unaffected by DEX. Each cast requires enough",
-    "materials to craft 200 White Potions.^000000"
+    "Consume 200 SP in order to make 200 attempts",
+    "to create a White Potion every 0.005 seconds.",
+    "This skill can earn Alchemist Ranking Points",
+    "and has the same success rate as the Prepare",
+    "Potion skill, as well as a 3 second cast time",
+    "that is unaffected by DEX. Each cast requires",
+    "enough materials to craft 200 White Potions.^000000"
   },
   [SKID.AM_TWILIGHT3] = {
     "Spiritual Potion Creation",
