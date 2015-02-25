@@ -1,10 +1,10 @@
 //-- - Last updated 2015-01-30 5:29 PM
 // ep16.1 Banquet for Hero + Prontera Renewal
-1@mir.rsw#Awareness of the room#
-2@mir.rsw#Awareness of the room#
-1@sthb.rsw#Inside Sky Fortress#
-1@sthc.rsw#Secret Chamber of Sky Fortress#
-1@sthd.rsw#Sky Fortress Top Floor#
+1@mir.rsw#Ritual room#
+2@mir.rsw#Ritual room#
+1@sthb.rsw#Inside Aerial Fortress#
+1@sthc.rsw#Secret Chamber of Aerial Fortress#
+1@sthd.rsw#Aerial Fortress Top Floor#
 
 prt_cas.rsw#Prontera Central Palace#
 prt_cas_q.rsw#Prontera Imperial Palace#
