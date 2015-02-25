@@ -5760,6 +5760,7 @@
 11056#Spiritualism_Guide#
 11057#February_Sweets#
 11058##
+11061#List_Exchange_of_Token_of_Honor#
 11500#Light_Yellow_Potion#
 11501#Light_White_Potion#
 11502#Slim_Blue_Potion#
@@ -8105,6 +8106,8 @@
 14498#Pisces_Crown_Box#
 14499#Peacock_Feather_Box#
 14500#Life_Insurrance_Certificate#
+14505#1_Hour_Dungeon_Ticket#
+14506#Dungeon_Ticket#
 14508#Zeny_Pet_Egg_Scroll#
 14509#Light_Concentration_Potion#
 14510#Light_Awakening_Potion#
@@ -9534,6 +9537,8 @@
 17548#(Limited)2015_Reset_stats_coupon#
 17549#(Limited)30_High_Density_Bradium_Box#
 17550#(Limited)30_High_Density_Cranium_Box#
+17569#3_Hours_Dungeon_Ticket_Box#
+17570#던전_이용권_3시간_상자#
 18000#Cannon_Ball#
 18001#Holy_Cannon_Ball#
 18002#Dark_Cannon_Ball#
@@ -10919,7 +10924,7 @@
 22538#Hanbok_Pocket#
 22539#Special_Box_of_Cooked_Dishes#
 22540#Lux_Anima_Rune#
-22541#PC_Room_Coupon_Box_VI#
+22541#PC_Cafe_Coupon_Box_VI#
 22542#Concentration_Potion#
 22543#Berserk_Potion#
 22544#Awakening_Potion#
@@ -11070,13 +11075,13 @@
 22884#October_gift_box#
 22885#September_gift_box#
 22886#December_gift_box#
-22887#Gold_PC_Room_Box#
+22887#Gold_PC_Cafe_Box#
 22888#New_Year's_Scroll#
 22893#New_Year's_shadow_cube#
 22894#(Limited)2015_Neutralize_Rod#
 22895#(Limited)2015_Reset_Coupon#
 22896#(Limited)Old_Reset_stats_coupon#
-22899#Downtown_Map#
+22899#City_Center_Map#
 22901#Mysterious_Blue_Box#
 24000#Shadow_Armor#
 24001#Shadow_Weapon#

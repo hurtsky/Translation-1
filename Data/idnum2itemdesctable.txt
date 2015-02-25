@@ -3556,7 +3556,7 @@ Job: ^777777Transcendent Swordman Classes^000000
 ^000088Rental Items^000000
 Large, double-edged broad sword that was used by the Scottish highlanders.
 Increases damage against small, medium, large size monsters by 40%.
-[+^6A5ACDGold PC Room^000000]
+[+^6A5ACDGold PC Cafe^000000]
 ATK +10, MATK +10
 Class: ^777777Two-handed Sword^000000
 Attack: ^777777220^000000
@@ -4533,7 +4533,7 @@ Job: ^777777Assassin Cross^000000
 ^000088Rental Items^000000
 A specially made katar with two blades that move like scissors to reveal a third blade from within.
 Increases damage against small, medium, large size monsters by 40%.
-[+^6A5ACDGold PC Room^000000]
+[+^6A5ACDGold PC Cafe^000000]
 ATK +10, MATK +10
 Class:^777777 Katar^000000
 Attack:^777777 200^000000
@@ -4555,7 +4555,7 @@ Jobs: ^777777Guillotine Cross^000000
 ^000088Rental Item^000000
 Sensitive Dark Demi-Human having ability as of Katar.
 Ignores Demi-Human Defense,Low Probability of Bleeding.
-[+^6A5ACDGold PC Room^000000]
+[+^6A5ACDGold PC Cafe^000000]
 Restore SP when killing enemy
 ATK +10,MATK +10
 Class: ^777777Katar^000000
@@ -4814,7 +4814,7 @@ Job: ^777777Transcendent Swordman/Merchant Classes^000000
 ^000088Rental Items^000000
 An axe crafted by Orcish smiths for Orcish warriors.
 Increases damage against small, medium, large size monsters by 70%.
-[Equipped in GoldPC Room]ATK +10,MATK +10
+[Equipped in Gold PC Cafe]ATK +10,MATK +10
 Class: ^777777Axe^000000
 Attack: ^777777110^000000
 Weight: ^7777770^000000
@@ -6517,7 +6517,7 @@ Jobs:^777777 Swordman Class^000000
 Ignore enemy's defense.
 Chance to activate level 5 pierce when attacking.
 Increase damage against demi-human monster by 20%.
-[+^6A5ACDGold PC Room^000000]
+[+^6A5ACDGold PC Cafe^000000]
 Increase damage against demi-human by 5%
 Class :^777777 Spear^000000
 Attack :^777777 135^000000
@@ -8569,7 +8569,7 @@ Jobs:^777777 Novice, Mage Class, Acolyte Class, Soul Linker^000000
 Staff for healing, created from the blessed branches of Yggdrasil. On a staff written in the ancient language 'Source longevity'.
 MATK +100
 Increases effectiveness of Heal and Sanctuary skills by 18%.
-[+^6A5ACDGold PC Room^000000]
+[+^6A5ACDGold PC Cafe^000000]
 Low chance of automatically use Heal when casting Heal.
 Increase effectiveness of Heal and Sanctuary skills by 5%
 Class :^777777 Rod^000000
@@ -11536,7 +11536,7 @@ Job: ^777777Wizard and Soul Linker^000000
 #
 2027#
 Staff once used by famous arcwizard. The magic prevent flower from being wilted.
-INT +5, MATK +300.
+INT +5, MATK +320.
 Every 2 refine MATK +1%.
 Every refine reduce after skill delay by 1%.
 Indestructible.
@@ -11545,7 +11545,7 @@ Attack: ^777777150^000000
 Weight: ^777777150^000000
 Weapon Level: ^7777774^000000
 Required Level: ^777777170^000000
-Job: ^7777773rd Class of Mage and Acolyte^000000
+Job: ^777777Warlock^000000
 #
 2101#
 A square shield that is small, yet effective in combat.
@@ -12068,7 +12068,7 @@ Jobs:^777777 Swordman Class^000000
 ^FF0000Cannot be traded^000000
 ^000088Rental item^000000
 Reduces damage taken from Demon and Demi-human monsters by 25%.
-[+^6A5ACDGold PC Room^000000]
+[+^6A5ACDGold PC Cafe^000000]
 Reduces damage from demons and demi-human monsters by 5%.
 MaxHP +400.
 Class :^777777 Shield^000000
@@ -14232,7 +14232,7 @@ Max HP +800
 Immune to frozen
 Reduces by 20% the damage of all properties except Neutral and Water.
 MDEF +5
-[+^6A5ACDGold PC Room^000000]
+[+^6A5ACDGold PC Cafe^000000]
 All Stats +1
 Class: ^777777Armor^000000
 Defense: ^77777738^000000
@@ -16481,7 +16481,7 @@ Decrease resistance against Demi-Human monsters by 5%
 [^000088+L묨mour Shield^000000]
 Each refine increase resistance against Demi-Human monsters by 1%
 Each refine decrease resistance against Undead monsters by 1%.
-[+^6A5ACDGold PC Room^000000]
+[+^6A5ACDGold PC Cafe^000000]
 FLEE +20.
 Class: ^777777Garment^000000
 Defense: ^77777720^000000
@@ -40021,19 +40021,19 @@ Weight : ^7777771^000000
 6926#
 ^ff0000Cannot be traded.^000000
 A book contain histories of Rune Midgard. 12 volumes published so far.
-Weight : ^7777771^000000
+Weight : ^7777770^000000
 #
 6927#
 ^ff0000Cannot be traded.^000000
 A rare stone found in Comodo Beach. This transparant stone also known mermaid's gift, it showing an ocean.
 When under the sunlight it looked more mysterious.
-Weight : ^7777771^000000
+Weight : ^7777770^000000
 #
 6928#
 ^ff0000Cannot be traded.^000000
 The ultimate cleaning mop for cleaning a kitchen.
 Rub a few times on stricken oil.
-Weight : ^7777771^000000
+Weight : ^7777770^000000
 #
 6929#
 ^ff0000Cannot be traded.^000000
@@ -40069,7 +40069,7 @@ Weight : ^777777100^000000
 6935#
 ^ff0000Cannot be traded.^000000
 A very luxury plate that only used in royal banquet.
-Weight : ^7777770^000000
+Weight : ^7777771^000000
 #
 6936#
 A bead with cold air flowing from it. A collectible that can sold to merchant,
@@ -47073,6 +47073,8 @@ Weight : ^7777775^000000
 #
 11058#
 #
+11061#
+#
 11500#
 A yellow potion that
 has been condensed
@@ -47502,7 +47504,7 @@ A product obtained when the selected monster hunts in the event super star R. Th
 Weight: ^7777771^000000
 #
 11600#
-Awareness of the room, reduce damage taken in Prontera Dungeon Invasion by 10% for 3 minutes.
+Ritual room, reduce damage taken during Prontera Dungeon Invasion by 10% for 3 minutes.
 Recover from poison, curse and silence also recover HP by 1000.
 Weight : ^7777771.5^000000
 #
@@ -54294,7 +54296,7 @@ Refine level +6, increase damage against medium size monster by 8%.
 Has low chance for 5 second ignore weapon size penalty.
 Refine level +9, increase damage against medium size monster by 20%.
 Refine level +12, ignore weapon size penalty.
-[When used in Gold PC ROOM]
+[When used in Gold PC Cafe]
 Restore 1 SP for every hit.
 Increase damage against medium size monster by 5%
 Refine level +8, ignore weapon size penalty.
@@ -65439,6 +65441,19 @@ The effect will disappear after your first KO'.
 ^ffffff_^000000
 Weight :^777777 1^000000
 #
+14505#
+^ff0000Cannot be traded.^000000
+A ticket to enter Aerial Fortress Invasion Memorial Dungeon for 1 hour.
+You can directly enter Aerial Fortress Invasion.
+Weight : ^7777770^000000
+#
+14506#
+^ff0000Cannot be traded.^000000
+Free dungeon entry ticket.
+It seem you can directly go to dungeon if your level meet the requirement.
+Aerial Fortress Invasion - "Level(145 or higher)" 
+Weight : ^7777770^000000
+#
 14508#
 A scroll which gives you a random of amount zeny.
 ^ffffff_^000000
@@ -67449,7 +67464,7 @@ Jobs:^777777 All Jobs^000000
 #
 15146#
 A clothes that was made for no purpose.
-Enable use of level 1 Endure.
+Enable use of level 1 Endure. (Not implemented)
 MATK +50
 If wearer's base level 120 or higher, increase MATK +50
 If wearer's base level 140 or higher, additional MATK +50
@@ -67466,7 +67481,7 @@ Required Level: ^777777100^000000
 Jobs: ^777777All^000000
 #
 15147#
-A clothes coated with people's soul that about to blow up in conversation.
+A clothes that will deal serious damage to people's spirit when talking.
 Enable use of Level 1 Improve Concentration.
 Every 1 refine, ignore 4% physical defense of Demi-human, Demon and undead monster.
 When equipped with ^008800Morrigane's Manteau^000000,
@@ -74596,6 +74611,32 @@ When you fail while upgrading defense weapon whose upgrade level is over +10, it
 ^ffffff<NAVI>^4D4DFF[바스타]^000000<INFO>itemmall,25,71,0,100,0,0</INFO></NAVI>^000000
 Weight : ^7777771^000000
 ^FF0000Not refundable once opened^000000
+#
+17569#
+^ff0000Cannot be traded.^000000
+A box containing 3 Hour Dungeon Ticket.
+^ffffff_^000000
+^ff0000Cannot be traded.^000000
+^000088Rental Item^000000
+Free Dungeon Entry Ticket.
+It seem you can directly go to dungeon if your level meet the requirement.
+Aerial Fortress Invasion - "Level(145 or higher)" 
+^ffffff_^000000
+^ff0000Unable to withdrawal once opened. Cannot put in storage! ^000000
+Weight : ^7777771^000000
+#
+17570#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+3시간 동안 사용할 수 있는 던전 이용권이 들어있는 상자.
+^ffffff_^000000
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+^000088임대 아이템^000000
+기억된 던전을 자유롭게 입장할 수 있는 이용권. 
+기억된 던전으로 바로 이동할 수 있다. 
+기억된 던전 - "공중요새 침공(145레벨 이상)"
+^ffffff_^000000
+^ff0000본 아이템을 개봉하시면 청약철회 대상에서 제외 됩니다. 창고에도 넣을 수 없습니다! ^000000
+무게 : ^7777771^000000
 #
 18000#
 A consumable item to use the Mechanic Magic Gear Skill, Arm's Cannon.
@@ -85792,9 +85833,6 @@ Jobs: ^777777All^000000
 #
 20234#
 Warm and cozy hat made with top class lamb's wool.
-HP +15%, SP +15%.
-Increase physical and magic damage to all monsters by 15%
-Increase Milk restoration by 2015%
 Class : ^777777Costume^000000
 Defense : ^7777770^000000
 Location: ^777777Upper, middle, lower^000000
@@ -85868,20 +85906,20 @@ Jobs: ^777777All^000000
 #
 20246#
 I feel trapped in flow of time.
-Class : ^777777Costume^000000
-Defense : ^7777770^000000
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
 Location: ^777777Middle^000000
-Weight : ^7777770^000000
-Required Level : ^7777771^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 20247#
 Head seized by fate that dominated the feeling.
-Class : ^777777Costume^000000
-Defense : ^7777770^000000
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
 Location: ^777777Upper^000000
-Weight : ^7777770^000000
-Required Level : ^7777771^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 20248#
@@ -86541,9 +86579,10 @@ Jobs: ^777777Swordman class^000000
 Sword once used by berserker Riel. You can feel steady rhythm of enemy movement which passing in your sight.
 Every 2 refine ATK +1%.
 Every 1 refine, Increase attack speed (reduce delay after attack by 1%)
+Indestructible.
 Class: ^777777Two-handed sword^000000
-Attack: ^777777320^000000
-Weight: ^777777320^000000
+Attack: ^777777340^000000
+Weight: ^777777340^000000
 Weapon Level: ^7777774^000000
 Required Level: ^777777170^000000
 Jobs: ^7777773rd Class of Swordman^000000
@@ -87944,7 +87983,7 @@ A guide map to the interior of city.
 When used, cast level 1 increase agility on user.
 CAUTION! do not use when casting a skill.
 CAUTION! it consume 15HP, don't use it when HP is below 15.
-Weight : ^7777770^000000
+Weight : ^7777771^000000
 #
 22901#
 ^ff0000Cannot be traded.^000000
@@ -91160,8 +91199,9 @@ Job: ^777777Assassin^000000
 Katar used by assasin agent. There's name of his lover who died in his arms.
 Every 2 refine ATK +1%
 Every 1 refine, Increase attack speed (reduce delay after attack by 1%)
+Indestructible.
 Class: ^777777Katar^000000
-Attack: ^777777280^000000
+Attack: ^777777300^000000
 Weight: ^777777250^000000
 Weapon Level: ^7777774^000000
 Required Level: ^777777170^000000
@@ -91340,7 +91380,7 @@ Jobs: ^777777All^000000
 28333#
 ^ff0000This item is impossible to deal with another account.^000000
 MaxHP +3%, MaxSP +3%.
-[+^6A5ACDGold PC Room^000000]
+[+^6A5ACDGold PC Cafe^000000]
 MaxHP +3%, MaxSP +3%.
 ATK +3%, MATK +3%.
 Class: ^777777Accessory^000000 
@@ -91350,16 +91390,16 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 28354#
-A guide map to interior of city.
+A guide map to center of city.
 Enable use of level 3 increase agility
-Class: ^777777Accessory^000000 
+Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^77777740^000000
 Jobs: ^777777All^000000
 #
 28355#
-Awareness of the room, reduce damage taken by 20% when in Prontera Dungeon Invasion.
+Ritual Room, reduce damage taken by 20% when during Prontera Dungeon Invasion.
 Recover 100 HP and 5 SP every 10 seconds.
 Class: ^777777Accessory^000000 
 Defense: ^7777770^000000

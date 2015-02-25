@@ -21076,19 +21076,19 @@ Weight : ^7777771^000000
 6926#
 ^ff0000Cannot be traded.^000000
 A book contain histories of Rune Midgard. 12 volumes published so far.
-Weight : ^7777771^000000
+Weight : ^7777770^000000
 #
 6927#
 ^ff0000Cannot be traded.^000000
 A rare stone found in Comodo Beach. This transparant stone also known mermaid's gift, it showing an ocean.
 When under the sunlight it looked more mysterious.
-Weight : ^7777771^000000
+Weight : ^7777770^000000
 #
 6928#
 ^ff0000Cannot be traded.^000000
 The ultimate cleaning mop for cleaning a kitchen.
 Rub a few times on stricken oil.
-Weight : ^7777771^000000
+Weight : ^7777770^000000
 #
 6929#
 ^ff0000Cannot be traded.^000000
@@ -21124,7 +21124,7 @@ Weight : ^777777100^000000
 6935#
 ^ff0000Cannot be traded.^000000
 A very luxury plate that only used in royal banquet.
-Weight : ^7777770^000000
+Weight : ^7777771^000000
 #
 6936#
 A bead with cold air flowing from it. A collectible that can sold to merchant,
@@ -27893,6 +27893,8 @@ Weight : ^7777775^000000
 #
 11058#
 #
+11061#
+#
 11500#
 A yellow potion that
 has been condensed
@@ -28319,7 +28321,7 @@ A product obtained when the selected monster hunts in the event super star R. Th
 Weight: ^7777771^000000
 #
 11600#
-Awareness of the room, reduce damage taken in Prontera Dungeon Invasion by 10% for 3 minutes.
+Ritual room, reduce damage taken during Prontera Dungeon Invasion by 10% for 3 minutes.
 Recover from poison, curse and silence also recover HP by 1000.
 Weight : ^7777771.5^000000
 #
@@ -43359,6 +43361,19 @@ The effect will disappear after your first KO'.
 ^ffffff_^000000
 Weight :^777777 1^000000
 #
+14505#
+^ff0000Cannot be traded.^000000
+A ticket to enter Aerial Fortress Invasion Memorial Dungeon for 1 hour.
+You can directly enter Aerial Fortress Invasion.
+Weight : ^7777770^000000
+#
+14506#
+^ff0000Cannot be traded.^000000
+Free dungeon entry ticket.
+It seem you can directly go to dungeon if your level meet the requirement.
+Aerial Fortress Invasion - "Level(145 or higher)" 
+Weight : ^7777770^000000
+#
 14508#
 A scroll which gives you a random of amount zeny.
 ^ffffff_^000000
@@ -50162,6 +50177,31 @@ When you fail while upgrading defense weapon whose upgrade level is over +10, it
 Weight : ^7777771^000000
 ^FF0000Not refundable once opened^000000
 #
+17569#
+^ff0000Cannot be traded.^000000
+A box containing 3 Hour Dungeon Ticket.
+^ffffff_^000000
+^ff0000Cannot be traded.^000000
+^000088Rental Item^000000
+Free Dungeon Entry Ticket.
+It seem you can directly go to dungeon if your level meet the requirement.
+Aerial Fortress Invasion - "Level(145 or higher)" 
+^ffffff_^000000
+^ff0000Unable to withdrawal once opened. Cannot put in storage! ^000000
+Weight : ^7777771^000000
+#
+17570#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+3시간 동안 사용할 수 있는 던전 이용권이 들어있는 상자.
+^ffffff_^000000
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+^000088임대 아이템^000000
+기억된 던전을 자유롭게 입장할 수 있는 이용권. 
+기억된 던전으로 바로 이동할 수 있다. 
+기억된 던전 - "공중요새 침공(145레벨 이상)"
+^ffffff_^000000
+^ff0000본 아이템을 개봉하시면 청약철회 대상에서 제외 됩니다. 창고에도 넣을 수 없습니다! ^000000
+#
 18000#
 A consumable item to use the Mechanic Magic Gear Skill, Arm's Cannon.
 Class: ^777777Cannonball^000000
@@ -56132,7 +56172,7 @@ A guide map to the interior of city.
 When used, cast level 1 increase agility on user.
 CAUTION! do not use when casting a skill.
 CAUTION! it consume 15HP, don't use it when HP is below 15.
-Weight : ^7777770^000000
+Weight : ^7777771^000000
 #
 22901#
 ^ff0000Cannot be traded.^000000
