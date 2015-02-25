@@ -1,4 +1,18 @@
 achievement_tbl = {
+	[110000] = {
+		UI_Type = 0,
+		group = "COMMUNITY",
+		major = 4,
+		minor = 0,
+		title = "이 시간에 먹는건 살 안쪄",
+		content = {
+			summary = "야식이 땡기는 시간 새벽 1시",
+			details = "빅풋이 요구한 음식을 야심한 시각에 가져다 준다"
+		},
+		resource = { [1] = { text = "빅풋이 요구한 음식을 야심한 시각에 가져다 준다" } },
+		reward = {},
+		score = 10
+	},
 	[120001] = {
 		UI_Type = 0,
 		group = "ACTION",
@@ -2686,6 +2700,28 @@ achievement_tbl = {
 		},
 		reward = { item = 617 },
 		score = 50
+	},
+	[130000] = {
+		UI_Type = 0,
+		group = "COMMUNITY",
+		major = 4,
+		minor = 0,
+		title = "사교계 데뷔",
+		content = {
+			summary = "일곱 왕가 방문하기",
+			details = "동쪽과 서쪽 별궁에 기거하는 일곱 왕가를 방문해 존재감을 드러내세요."
+		},
+		resource = {
+			[1] = { text = "하이네 가문을 방문해 첫 대화 나누기" },
+			[2] = { text = "네리우스 가문을 방문해 첫 대화 나누기" },
+			[3] = { text = "발터 가문을 방문해 첫 대화 나누기" },
+			[4] = { text = "위그너 가문을 방문해 첫 대화 나누기" },
+			[5] = { text = "리하르트 가문을 방문해 첫 대화 나누기" },
+			[6] = { text = "게오보르그 가문을 방문해 첫 대화 나누기" },
+			[7] = { text = "뢰겐부르그 가문을 방문해 첫 대화 나누기" }
+		},
+		reward = { title = 1034 },
+		score = 10
 	},
 	[170000] = {
 		UI_Type = 0,
