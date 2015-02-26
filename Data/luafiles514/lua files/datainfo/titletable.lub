@@ -33,6 +33,7 @@ title_tbl = {
 	[1031] = "남이 못보는 걸 보는",
 	[1032] = "Growing Bud",
 	[1033] = "Made a Family"
+	[1034] = "VIP"
 }
 
 GetTitleString = function(titleID)
