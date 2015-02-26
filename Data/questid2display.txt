@@ -150,7 +150,7 @@ Collect 30 Clue_Of_Lope and return to the Order of the Knights Head.#
 1119#Knights of the Neighborhood#SG_FEEL#QUE_NOIMAGE#
 You have finished a job for the Knights of the Neighborhood Boss. Wait for the timer to expire before trying to help him again.#
 #
-//----------추석이벤트-----------------------------
+//----------Thanksgiving Event-----------------------------
 
 1120#Somewhere far, far away, where Belte Malang was born!#SG_FEEL#QUE_NOIMAGE#
 Recieve Grilled Rice Cake from travel guide in Izlude.#
@@ -236,23 +236,23 @@ Final report to Belte Malang#
 Finished looking for hometown of Belte Malang.#
 Able to request again after 1 day#
 
-1141#머나먼 곳, 벨테 말랑의 고향은 그곳!#SG_FEEL#QUE_NOIMAGE#
-축제가면 전달 완료. 다시 쿤룬으로 가서 강강술래 전문가를 만나자.#
-강강술래 전문가와 대화#
+1141#Somewhere far, far away, where Belte Malang was born!#SG_FEEL#QUE_NOIMAGE#
+Festival mask delivery completed. Go back to Kunlun and talk to Ganggangsulae Expert.#
+Talk to Ganggangsulae Expert#
 
-1142#머나먼 곳, 벨테 말랑의 고향은 그곳!#SG_FEEL#QUE_NOIMAGE#
-추석이벤트 1회 완료.#
+1142#Somewhere far, far away, where Belte Malang was born!#SG_FEEL#QUE_NOIMAGE#
+Thanksgiving Event completed once.#
 #
 
-1143#머나먼 곳, 벨테 말랑의 고향은 그곳!#SG_FEEL#QUE_NOIMAGE#
-추석이벤트 2회 완료.#
+1143#Somewhere far, far away, where Belte Malang was born!#SG_FEEL#QUE_NOIMAGE#
+Thanksgiving Event completed twice.#
 #
 
-1144#머나먼 곳, 벨테 말랑의 고향은 그곳!#SG_FEEL#QUE_NOIMAGE#
-떡펫 지급.#
+1144#Somewhere far, far away, where Belte Malang was born!#SG_FEEL#QUE_NOIMAGE#
+Cute pet reward.#
 #
 
-//---------ㅡMalangdo Daily Quest - Help the Bad Cats --------------------------------
+//---------Malangdo Daily Quest - Help the Bad Cats --------------------------------
 
 1145#Help the Bad Cats in Danger!#SG_FEEL#QUE_NOIMAGE#
 Do a favor for Gobong who's stomach is upset. Go to the port and try to listen to the suspious conversation.#
@@ -298,7 +298,7 @@ Patrol leader.#
 Report Bad action to Gobonge.#
 Gobonge#
 
-//----------가정의 달 이벤트 '동요하는 동네합창단'
+//----------Family month event '동요하는 동네합창단'
 
 1156#동요하는 동네합창단!#SG_FEEL#QUE_NOIMAGE#
 첫 번째 미션 - [밥집 아기] 밥집 아빠가 뜬금없이 리허설을 중단시켰다. 사정을 들어보자.#
@@ -372,7 +372,7 @@ Gobonge#
 세 번째 미션 완료. 그림물감과 추가 주문 사항까지 꼭 챙겨오겠다는 바둑구두 배송담당. 최종 보고를 위해 바둑구두 소녀에게 가도록 하자.#
 알데바란에 있는 '바둑구두 소녀'와 대화.#
 
-//----------필리핀 로컬라이징 바코나와 입장퀘스트
+//----------Philippine localization, Bakonawa quests
 
 1174#Rumor, Time and Legend#SG_FEEL#QUE_NOIMAGE#
 Bring back the Geffen Tablet to the granddaughter of the Old Man Bright in Legends.#
@@ -512,23 +512,23 @@ Talk with the Little Santa at Santa's home in Lutie.#
 The ittle Santa saying the gift for raccoons is chosen as nice sweet popatoes. Let's feed the raccons protesting outside of the house.#
 Talk with the Little Santa at Santa's home in Lutie.#
 
-1208#창밖을 보라, 10003 Raccoon!#SG_FEEL#QUE_NOIMAGE#
+1208#Look out the window, 10003 Raccoon!#SG_FEEL#QUE_NOIMAGE#
 너구리, 전나무에게 밤고구마 먹이기.#
 농성 너구리들에게 밤고구마 먹이기.#
 
-1209#창밖을 보라, 10003 Raccoon!#SG_FEEL#QUE_NOIMAGE#
+1209#Look out the window, 10003 Raccoon!#SG_FEEL#QUE_NOIMAGE#
 너구리, 삼나무에게 밤고구마 먹이기.#
 농성 너구리들에게 밤고구마 먹이기.#
 
-1210#창밖을 보라, 10003 Raccoon!#SG_FEEL#QUE_NOIMAGE#
+1210#Look out the window, 10003 Raccoon!#SG_FEEL#QUE_NOIMAGE#
 너구리, 등나무에게 밤고구마 먹이기.#
 농성 너구리들에게 밤고구마 먹이기.#
 
-1211#창밖을 보라, 10003 Raccoon!#SG_FEEL#QUE_NOIMAGE#
+1211#Look out the window, 10003 Raccoon!#SG_FEEL#QUE_NOIMAGE#
 너구리, 돈나무에게 밤고구마 먹이기.#
 농성 너구리들에게 밤고구마 먹이기.#
 
-1212#창밖을 보라, 10003 Raccoon!#SG_FEEL#QUE_NOIMAGE#
+1212#Look out the window, 10003 Raccoon!#SG_FEEL#QUE_NOIMAGE#
 너구리, 벚나무에게 밤고구마 먹이기.#
 농성 너구리들에게 밤고구마 먹이기.#
 
@@ -599,7 +599,7 @@ talk with Diary Frog No. 3 near Bifrost Tower.#
 Final report to Professor Worm.#
 Talk with Professor Worm on the 4th floor of Bifrost Tower.#
 
-//----------2012 초보자수련장 검사 수련
+//----------2012 Beginner Swordman training
 
 1229#Swordsman training#SG_FEEL#QUE_NOIMAGE#
 Start the Swordsman training. Equip the Swordsman Manual and test the skills.#
@@ -719,36 +719,36 @@ Conversation with the guide Leonie of Izlude shop#
 세 번째 미션 완료. 10003 Raccoon을 위한 '뾰족한 나무 피리'를 3개 구했다. 최종 보고를 위해 알데바란으로 돌아가자.#
 알데바란에 있는 '10003 Raccoon 1호'와 대화.#
 
-//----------영웅의 흔적 - 저주의 검사 '망령의 왕궁' 메모리얼 던전
+//----------Trail of Heroes - Investigation of the cursed 'Palace of Specter' memorial dungeon
 
-1260#저주의 검사#SG_FEEL#QUE_NOIMAGE#
-비밀통로를 통해 망령의 왕궁으로 들어간다.#
-망령의 왕궁 입장.#
+1260#Investigation of the cursed#SG_FEEL#QUE_NOIMAGE#
+Enter the Palace of Specter via secret passage.#
+Palace of Specter entrance.#
 
-1261#저주의 검사#SG_FEEL#QUE_NOIMAGE#
-23시간 동안 망령의 왕궁 입장 금지.#
-23시간 이후 망령의 왕궁 재입장.#
+1261#Investigation of the cursed#SG_FEEL#QUE_NOIMAGE#
+23 hours prohibition to enter Palace of Specter entrance.#
+23 hours to re-enter Palace of Specter entrance.#
 
-1262#저주의 검사#SG_FEEL#QUE_NOIMAGE#
-망령의 왕궁 탐험을 중단하였다.#
-망령의 왕궁 탐험 중단.#
+1262#Investigation of the cursed#SG_FEEL#QUE_NOIMAGE#
+Exploration of the Palace of Specter was stopped.#
+Exploration of the Palace of Specter interrupted.#
 
-1263#저주의 검사#SG_FEEL#QUE_NOIMAGE#
-망령의 왕궁을 떠날 시간이다. 모든 것을 완료했고, 모든 것이 소멸할 것이다.#
-망령의 왕궁 완료#
+1263#Investigation of the cursed#SG_FEEL#QUE_NOIMAGE#
+It's time to leave Palace of Specter. Once everything is completed, all things will be destroyed.#
+Palace of Specter completed#
 
-//----------EP14.3_화염분지와 멸망축복회
+//----------EP14.3 Fire Basin and Destroyed Ruin
 
-1264#화염분지와 멸망축복회#SG_FEEL#QUE_NOIMAGE#
-화염 콘도르를 물리치고 불 붙은 깃털 15개를 모으자.#
-주둔지 조사관과 대화.#
+1264#Fire Basin and Destroyed Ruin#SG_FEEL#QUE_NOIMAGE#
+Defeat and collect 15 feather of Fire Condor.#
+Talk to Post Investigator.#
 
-1265#화염분지와 멸망축복회#SG_FEEL#QUE_NOIMAGE#
-화염 분지 어딘가에 있을 정찰병을 찾자.#
-정찰병과 대화.#
+1265#Fire Basin and Destroyed Ruin#SG_FEEL#QUE_NOIMAGE#
+Let's scout some place in Fire Basin.#
+Scout and conversation.#
 
-1266#화염분지와 멸망축복회#SG_FEEL#QUE_NOIMAGE#
-화염 샌드맨에게서 순찰 일지 20장을 회수하자.#
+1266#Fire Basin and Destroyed Ruin#SG_FEEL#QUE_NOIMAGE#
+Let's collect 20 Patrol Journals from Fire Sandman.#
 정찰병과 대화.#
 
 1267#화염분지와 멸망축복회#SG_FEEL#QUE_NOIMAGE#
@@ -2073,6 +2073,10 @@ Remaining time of rental weapon#
 2365#2015 Valentine's Day#SG_FEEL#QUE_NOIMAGE#
 Let's deliver 15 Handmade Chocolates, 15 White Handmade Chocolates, 15 Chocolate Drinks, 15 Chocolate Tarts, 15 Strawberry Chocolates, 1 Flame Heart and buy 1 silver.#
 Deliver Sweet Chocolate#
+
+2366#2015점핑이벤트#SG_FEEL#QUE_NOIMAGE#
+선물을 지급해 드렸습니다#
+#
 
 3000#Job Change to Bard#SG_FEEL#QUE_NOIMAGE#
 Beautiful Song - I have met a beautiful singer Bard. I want to be a Bard...Should I ask him about becoming a Bard?#
@@ -10478,6 +10482,10 @@ Hunt 30 ^0000FF thief worms^000000, 30^0000FF thief real^000000 from the ^8B4513
 ^8B4513과학자 도연^000000의 메세지: 공중요새로 진입하는 워프를 발동시키기 위해서 많은 마력이 필요해, 거대한 마력을 지닌 매개체를 내게 가져오거나 3일 정도 마력을 다시 모을 시간이 필요해.#
 3일 후에 도연 찾아가기.#
 
+9427#공중요새 최초 클리어#SG_FEEL#QUE_NOIMAGE#
+공중요새 최초 클리어.#
+공중요새 최초 클리어.#
+
 //---------------------------왕위조례--------------------------------
 10000#To the Prontera Royal Court#SG_FEEL#QUE_NOIMAGE#
 As the messenger says, go to the Prontera Royal Court and talk to the Inspector.#
@@ -16730,6 +16738,10 @@ Bring Chocoins to Bitta in Einbroch#
 14516#수상한 그림자#SG_FEEL#QUE_NOIMAGE#
 수상한 사람이 나타나 이안에게 은밀히 하는 이야기를 들었다.#
 수상한 그림자#
+
+14517#야식 배달#SG_FEEL#QUE_NOIMAGE#
+야식을 배달했다#
+야식배달#
 
 //-1
 15000#Experiencing abnormal statuses#SG_FEEL#QUE_NOIMAGE#
