@@ -31915,31 +31915,65 @@ Weight: ^7777771^000000
 12596#
 Unknown Item, can be identified by [Magnifier].
 #
+12599#
+A special fruit that usually eaten in Ramadhan.
+All Stats +2 for 5 minute.
+Weight: ^77777710^000000
+#
 12600#
+^FF0000Cannot be traded^000000
+You can summon a hideout treasure chest.
+(Can only be used inside City, Village and Quest type map)
+Please note: Use when there are no other character around.
+Use after confirmation dialog.
+Weight : ^7777770^000000
 #
 12601#
+Juice made of a deliciously grinded watermelon.
+recovers 5% of HP and SP.
+Weight : ^77777710^000000
 #
 12602#
+Look like you can get a particular item from it. The higher the number, better item will come out.
+Weight : ^77777710^000000
 #
 12603#
+Look like you can get a particular item from it. The higher the number, better item will come out.
+Weight : ^77777710^000000
 #
 12604#
+Look like you can get a particular item from it. The higher the number, better item will come out.
+Weight : ^77777710^000000
 #
 12605#
+Look like you can get a particular item from it. The higher the number, better item will come out.
+Weight : ^77777710^000000
 #
 12606#
+Look like you can get a particular item from it. The higher the number, better item will come out.
+Weight : ^77777710^000000
 #
 12607#
+^000088Rental item^000000
+A box contain usable 3 days Delicious Lollipop.
+Weight : ^7777771^000000
 #
 12608#
-Unknown Item, can be identified by [Magnifier].
+Metal box which contain gorgeous hand painted.
+Weight : ^77777710^000000
 #
 12609#
+An old and dirty box. When you lift it there are sound of some ores inside it.
+Weight : ^77777710^000000
 #
 12610#
-Unknown Item, can be identified by [Magnifier].
+^FF0000Cannot be traded^000000
+Mysterious small egg. It's showing color between its crack. Look like it's a single-layer egg.
+Weight : ^7777771^000000
 #
 12611#
+A special scroll that can quickly teleport to eden group paradise.
+Weight : ^7777770^000000
 #
 12612#
 A small, worn out bag which makes a tiny sound. Cling! No one has any idea what's in it.
@@ -32706,24 +32740,53 @@ Cures effect of ^000088Stone, Dark, Curse, Poison, Decrease Agility, Reverse Orc
 Weight : ^7777771^000000
 #
 12816#
+^FF0000Cannot be traded^000000
+An old and dirty box. There are sounds of some ores inside it.
+It's possible to get Old Card Album from it.
+Required Level: ^77777760^0000.
+Weight : ^7777770^0000
 #
 12817#
+^FF0000Cannot be traded^000000
+An album that contain random card.
+Required Level: ^77777780^0000.
+Weight : ^7777770^0000
 #
 12818#
+^FF0000Cannot be traded^000000
+A box contain variety of advanced equipments.
+Required Level: ^777777100^0000.
+Weight : ^7777770^0000
 #
 12819#
+^FF0000Cannot be traded^000000
+A box contain Zherlthsh Exchange Ticket.
+Required Level: ^777777150^0000.
+Weight : ^7777770^0000
 #
 12820#
+A scroll that can summon Nine Tail mercenary.
+When there is existing active merceneray, this scroll will not give effect.
+Weight : ^7777771^0000
 #
 12821#
+A scroll that can summon Loli Ruri mercenary.
+When there is existing active merceneray, this scroll will not give effect.
+Weight : ^7777771^0000
 #
 12822#
 A box has 50 pcs of rice cake.
 Weight : ^7777771^000000
 #
 12823#
+A scroll that can summon Sedora mercenary.
+When there is existing active merceneray, this scroll will not give effect.
+Weight : ^7777771^0000
 #
 12824#
+A scroll that can summon Deviruchi mercenary.
+When there is existing active merceneray, this scroll will not give effect.
+Weight : ^7777771^0000
 #
 12825#
 #
@@ -32747,8 +32810,16 @@ You know this day is going to be epic! *wink wink* - Geheimnis
 Weight : ^77777720^000000
 #
 12830#
+^FF0000Cannot be traded^000000
+A box contain: 50 Dead Branches and 2 Bloody Death Branch.
+^FF0000Caution!!! if you exceed the weight limit, all items may be lost.^000000
+Weight : ^7777775^000000
 #
 12831#
+^FF0000Cannot be traded^000000
+A box contain: 100 Red slim potions, 100 Yellow slim potions, 100 White slim potions and 100 Blue potions.
+^FF0000Caution!!! if you exceed the weight limit, all items may be lost.^000000
+Weight : ^7777775^000000
 #
 12832#
 #
