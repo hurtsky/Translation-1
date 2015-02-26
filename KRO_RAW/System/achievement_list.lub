@@ -3753,6 +3753,34 @@ achievement_tbl = {
 		reward = {},
 		score = 10
 	},
+	[230146] = {
+		UI_Type = 0,
+		group = "COMMUNITY",
+		major = 3,
+		minor = 1,
+		title = "서큐버스 - 길들이기",
+		content = {
+			summary = "서큐버스를 테이밍에 성공한다",
+			details = "서큐버스를 펫으로 만들자. '소년의 순정' 아이템으로 꼬실 수 있다."
+		},
+		resource = { [1] = { text = "서큐버스를 테이밍에 성공" } },
+		reward = {},
+		score = 10
+	},
+	[230147] = {
+		UI_Type = 0,
+		group = "COMMUNITY",
+		major = 3,
+		minor = 1,
+		title = "로리루리 - 길들이기",
+		content = {
+			summary = "로리루리를 테이밍에 성공한다",
+			details = "로리루리를 펫으로 만들자. '새빨간 쥬스' 아이템으로 꼬실 수 있다."
+		},
+		resource = { [1] = { text = "로리루리를 테이밍에 성공" } },
+		reward = {},
+		score = 10
+	},
 	[230151] = {
 		UI_Type = 0,
 		group = "COMMUNITY",
@@ -4729,11 +4757,10 @@ achievement_tbl = {
 	}
 }
 
--- Function #0
-main = function()
+function main()
 	for achieveID, achieveInfo in pairs(achievement_tbl) do
 		result, msg = InsertAchieveInfo(achieveID, achieveInfo.title, achieveInfo.content.summary, achieveInfo.content.details, achieveInfo.score)
-		if not result == true then
+		if not result then
 			return false, msg
 		end
 		if nil ~= achieveInfo.resource then
@@ -4742,43 +4769,41 @@ main = function()
 					shortcut = resource.shortcut
 				else
 					shortcut = -1
-					continue
 				end
-			end
-			index = achieveInfo.content.summary
-			resource = achieveInfo.content.details
-		end
-		while nil == achieveInfo.reward do
-			result, msg = InsertAchieveUIType(achieveID, achieveInfo.UI_Type, achieveInfo.group)
-			while not(not result == true) do
-				result, msg = SetAchieveIDByTab(achieveID, achieveInfo.major, achieveInfo.minor)
-				if not result == true then
+				if 0 == achieveInfo.UI_Type then
+					result, msg = InsertAchieveResource(achieveID, resource.text, 0, shortcut)
+				elseif 1 == achieveInfo.UI_Type then
+					result, msg = InsertAchieveResource(achieveID, resource.text, resource.count, shortcut)
+				end
+				if not result then
 					return false, msg
 				end
 			end
-			return false, msg
 		end
-		if nil ~= achieveInfo.reward.item then
-			result, msg = InsertAchieveRewardItem(achieveID, achieveInfo.reward.item)
-		end
-		if nil ~= achieveInfo.reward.title then
-			result, msg = InsertAchieveRewardTitle(achieveID, achieveInfo.reward.title)
-			if not result == true then
+		if nil ~= achieveInfo.reward then
+			if nil ~= achieveInfo.reward.item then
+				result, msg = InsertAchieveRewardItem(achieveID, achieveInfo.reward.item)
+			end
+			if nil ~= achieveInfo.reward.title then
+				result, msg = InsertAchieveRewardTitle(achieveID, achieveInfo.reward.title)
+			if not result then
 				return false, msg
 			end
-			if nil ~= achieveInfo.reward.buff then
-				result, msg = InsertAchieveRewardBuff(achieveID, achieveInfo.reward.buff)
-				if not result == true then
-					return false, msg
-				end
-				-- GRF Editor Decompiler : CodeReconstructor has failed to identify the usage of this goto 1_[115]
-			else
-				-- GRF Editor Decompiler : CodeReconstructor has failed to identify the usage of this goto 1_[115]
+		end
+		if nil ~= achieveInfo.reward.buff then
+			result, msg = InsertAchieveRewardBuff(achieveID, achieveInfo.reward.buff)
+			if not result then
+				return false, msg
 			end
-		elseif nil ~= achieveInfo.reward.buff then
-			-- GRF Editor Decompiler : CodeReconstructor has failed to identify the usage of this goto 1_[102]
-		else
-			-- GRF Editor Decompiler : CodeReconstructor has failed to identify the usage of this goto 1_[115]
+		end
+	end
+	result, msg = InsertAchieveUIType(achieveID, achieveInfo.UI_Type, achieveInfo.group)
+	if not result then
+		return false, msg
+	end
+	result, msg = SetAchieveIDByTab(achieveID, achieveInfo.major, achieveInfo.minor)
+	if not result then
+		return false, msg
 		end
 	end
 	return true, "good"
