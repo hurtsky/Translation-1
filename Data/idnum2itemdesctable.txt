@@ -36125,6 +36125,8 @@ Job : ^777777All^000000
 #
 5920#
 #
+5921#
+#
 5926#
 [JRO item]
 #
@@ -50906,16 +50908,16 @@ Weight :^777777 1^000000
 Available for a limited time, this hat box contains costumes based on popular hats.
 Are you looking for a cute new headgear?
 When opened this box to receive one of the following:
-Costume: Cake Hat
-Costume: Gold Dragonhelm
-Costume: Sakkat
-Costume: Dark Blindfold
-Costume: Angry Snarl
-Costume: Cowboy Hat
-Costume: Zorro Mask
-Costume: Dagger in Mouth
-Costume: Heart Eye Patch (NEW)
-Costume: Full Moon (NEW)
+[Costume] Cake Hat
+[Costume] Gold Dragonhelm
+[Costume] Sakkat
+[Costume] Dark Blindfold
+[Costume] Angry Snarl
+[Costume] Cowboy Hat
+[Costume] Zorro Mask
+[Costume] Dagger in Mouth
+[Costume] Heart Eye Patch (NEW)
+[Costume] Full Moon (NEW)
 The box can be traded and vended, but the costume headgears are account bound.
 Weight : ^7777771^000000
 #
@@ -58566,7 +58568,7 @@ Mystical Card Album
 Fallen Angel Wing
 +20 Basic Food Box
 Sword, Bow, or Spear Mercenary Scroll x 10
-Costume: Blue Chirstmas Cheer
+[Costume] Blue Chirstmas Cheer
 Box Weight: ^7777771^000000
 #
 13687#
@@ -73328,10 +73330,10 @@ Available for a limited time, this hat box contains one of four new costumes bas
 Take this box to Alora in the Eden Group and she will allow you to choose which one you want!
 Additionally, if you upgrade a normal/slotted version of the headgear to +8 or higher, Alora will take it and give you a costume version of it.
 The costume versions give +15% EXP when killing monsters until November 13, 2012 and you will lose the normal version of the headgear.
-Costume: Boy's Cap
-Costume: Satellite Headband (no +8 tradein)
-Costume: Tiara
-Costume: Crown
+[Costume] Boy's Cap
+[Costume] Satellite Headband (no +8 tradein)
+[Costume] Tiara
+[Costume] Crown
 The box can be traded and vended, but the costume headgears are account bound.
 Weight: ^7777771^000000
 #
@@ -78471,6 +78473,7 @@ Req LV: ^7777771 ^000000
 jobs: ^777777All^000000
 #
 18860#
+[JRO item]
 #
 18861#
 Another version of a doll that resembles the angel Zaha.
@@ -79244,6 +79247,13 @@ Weight : ^77777710^000000
 Req LvL : ^7777771^000000
 Job : ^777777All^000000
 #
+18969#
+Class : ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight :^7777770^000000
+Required Level :^7777771^000000
+Jobs:^777777All^000000
+#
 18970#
 ^FF0000Cannot be traded^000000
 A zodiac cat got fooled by rat, back to the moon to train.
@@ -79688,81 +79698,12 @@ Required Level: ^7777771^000000
 Jobs: ^777777Swordman Class^000000
 #
 19014#
-A box that contains 1 Classic Glove 2 Week Rental
-Description:
-^000088Rental Item^000000
-An ancient glove.
-DEX +4
-This item cannot be Dropped or Traded.
-Class: ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All Except Novice^000000
-#
-19015#
-A box that contains 1 Classic Light Epsilon 2 Week Rental
-Description:
-^000088Rental Item^000000
-A Greek ceremonial
-axe that possesses
-the power of holiness.
-STR +10, Holy property,
-Enables use of Lvl 3 Heal Increases damage inflicted
-on Devil monsters by 3%.^FFFFFF	^000000 Increases Movement Speed.
-This item cannot be Dropped or Traded.
-Class: ^777777Axe^000000
-Attack: ^777777229^000000
-Weight: ^7777770^000000
-Property: ^777777Holy^000000
-Weapon Level: ^7777774^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Swordman
-and Merchant Classes^000000
-#
-19016#
-A box that contains 1 Classic Moonlight Sword 2 Week Rental
-Description:
-^000088Rental Item^000000
-A dagger imbued with
-lunar spirit and the power to drain an enemy's soul.
-Regain 3 SP
-with each attack.
-Max SP +10%
-This item cannot be Dropped or Traded.
-Class: ^777777Dagger^000000
-Attack: ^77777785^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777774^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Swordman, Mage, Archer, Merchant,
-Thief Classes, Soul Linker, and Ninja^000000
-#
-19017#
-A box that contains 1 Classic Necklace 2 Week Rental
-Description:
-^000088Rental Item^000000
-An ancient necklace.
-VIT +4
-This item cannot be Dropped or Traded.
-Class: ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All Except Novice^000000
-#
-19018#
-A box that contains 1 Classic Ring 2 Week Rental
-Description:
-^000088Rental Item^000000
-An ancient ring.
-STR +4
-This item cannot be Dropped or Traded.
-Class: ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All Except Novice^000000
+Class: ^777777Headgear^000000
+Defense: ^7777771^000000
+Location: ^777777Middle^000000
+Weight: ^77777720^000000
+Required level: ^77777710^000000
+Job: ^777777All^000000
 #
 19019#
 A crown bless by spirit, by wearing it you can feel the flow of nature.
@@ -79778,81 +79719,11 @@ Weight: ^77777750^000000
 Required level: ^77777750^000000
 Job: ^777777All^000000
 #
-19020#
-A box that contains 1 Classic Solar Sword 2 Week Rental
-Description:
-^000088Rental Item^000000
-A one-handed sword
-adorned with an engraving of the sun, symbolizing battle spirit and vigor.
-Regains 1% of the damage inflicted on its target as HP with each attack.
-Drains 15 SP from its
-owner every 10 seconds.
-This item cannot be Dropped or Traded.
-Class: ^777777One-handed Sword^000000
-Attack: ^777777120^000000
-Weight: ^7777770^000000
-Property: ^777777Fire^000000
-Weapon Level: ^7777774^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Swordman,
-Merchant, and
-Thief Classes^000000
-#
-19021#
-A box that contains 1 Classic Pole Axe 2 Week Rental
-Description:
-^000088Rental Item^000000
-A weapon consisting
-of an axe head mounted
-on a long pole that
-is designed to break
-through thick armor.
-STR +1, INT +2, DEX +1
-This item cannot be Dropped or Traded.
-Class: ^777777Spear^000000
-Attack: ^777777195^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777773^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Swordman Class^000000
-#
-19022#
-A box that contains 1 Classic Safety Ring 2 Week Rental
-Description:
-^000088Rental Item^000000
-A strange ring that
-curiously raises its
-wearer's defenses.
-DEF +8, MDEF +8
-This item cannot be Dropped or Traded.
-Class: ^777777Accessory^000000
-Defense: ^7777775^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All Except Novice^000000
-#
 19023#
 [JRO item]
 #
 19024#
 [JRO item]
-#
-19025#
-A box that contains 1 Classic Spanner 2 Week Rental Box
-Description:
-^000088Rental Item^000000
-A heavy tool with many practical applications.
-Enable a chance of
-randomly inflicting the ^880000Stun^000000, ^880000Blind^000000, ^880000Poison^000000
-or ^880000Frozen^000000 statuses with
-each attack.
-This item cannot be Dropped or Traded.
-Class: ^777777Mace^000000
-Attack: ^777777150^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777773^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Acolyte Class^000000
 #
 19026#
 A Helmet from Aegir, god of Ocean. If the whole set of Egir are gathered, it will show the power of the Sea.
@@ -82189,59 +82060,52 @@ Required Level: ^7777771^000000
 Class: ^777777All^000000
 #
 19664#
-[JRO item]
 Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location:: ^777777Upper^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Class: ^777777All^000000
+Job: ^777777All^000000
 #
 19665#
 A hat looking like a cake with Poring on top.
 It gives you happiness even by worn on top of the head.
 Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location:: ^777777Upper^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Class: ^777777All^000000
+Job: ^777777All^000000
 #
 19666#
 A Hat worn by Cookie Xmas, 'the idol of Toy Dungeon'. It covers the ears to protect from cold weather.
 Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location:: ^777777Upper^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Class: ^777777All^000000
+Job: ^777777All^000000
 #
 19667#
 A headgear made by the hard scale of Dragon. The wearer of this headgear can get the great power of Dragon.
 Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location:: ^777777Upper^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Class: ^777777All^000000
+Job: ^777777All^000000
 #
 19668#
 A cap of post man who delivers letters with heart. 
 Magic in the cap protects the wearer not to lose their way.
 Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location:: ^777777Upper^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Class: ^777777All^000000
+Job: ^777777All^000000
 #
 19669#
 Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location:: ^777777Middle^000000
+Location: ^777777Middle^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Class: ^777777All^000000
+Job: ^777777All^000000
 #
 19670#
 #
@@ -82486,7 +82350,11 @@ Required Level :^7777771^000000
 Jobs:^777777All^000000
 #
 19704#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 19706#
 A red dress hat. It goes well with fancy dresses.
@@ -83729,7 +83597,31 @@ Jobs:^777777All^000000
 #
 19865#
 A comical hat worn by clowns and jesters that is rumored to protect its wearer from magic.
-Class : ^777777Costume Equipment^000000
+Class : ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight :^7777770^000000
+Required Level :^7777771^000000
+Jobs:^777777All^000000
+#
+19866#
+A lovely nightcap. It is cute and you will feels sleepy when your wear it.
+Class : ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight :^7777770^000000
+Required Level :^7777771^000000
+Jobs:^777777All^000000
+#
+19867#
+A lovely nightcap. It is cute and you will feels sleepy when your wear it.
+Class : ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight :^7777770^000000
+Required Level :^7777771^000000
+Jobs:^777777All^000000
+#
+19868#
+Wear this hat to be a show off!
+Class : ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight :^7777770^000000
 Required Level :^7777771^000000
@@ -83739,6 +83631,24 @@ Jobs:^777777All^000000
 The rhythm that stimulates your five senses. Makes you feel the melody so vividly.
 Class : ^777777Costume^000000
 Location: ^777777Middle^000000
+Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs: ^777777All^000000
+#
+19873#
+A hat which made to celebrate the festival.
+^FF0000'Made especially for you.'^000000
+Class : ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs: ^777777All^000000
+#
+19874#
+A Circlet that will be used in Carnival festival
+^FF0000'Made especially for you.'^000000
+Class : ^777777Costume^000000
+Location: ^777777Upper^000000
 Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Jobs: ^777777All^000000
@@ -84107,8 +84017,21 @@ Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Job : ^777777All^000000
 #
+19928#
+Class: ^777777Costume Equipment^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
+#
 19929#
-...
+Class: ^777777Costume Equipment^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
+#
+19930#
 Class: ^777777Costume Equipment^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
@@ -84175,6 +84098,15 @@ Jobs:^777777All^000000
 #
 19941#
 Costume hat to protect your ears from noise or cold.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19949#
+A hat to celebrate RWC 2013 in Japan.
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
@@ -84608,34 +84540,74 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 20004#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20005#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20006#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper, Middle^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20007#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20008#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20009#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20010#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20011#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20012#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20013#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20014#
 Replica of an Emancipator's tall black hat.
@@ -84683,19 +84655,39 @@ Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 20020#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20021#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20022#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20023#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20024#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20025#
 ^ff0000Cannot be traded.^000000
@@ -84738,19 +84730,39 @@ Required Level :^7777771^000000
 Jobs:^777777All^000000
 #
 20029#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20030#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20031#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20032#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20033#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20034#
 Jack castle bat chases his owner anywhere.
@@ -84789,37 +84801,81 @@ Required LV : ^7777771^000000
 Job : ^777777All^000000
 #
 20038#
-...
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20039#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20040#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20041#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20042#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20043#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20044#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20045#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20046#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20047#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20048#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20049#
 A hair accessory which looks just like two crossed band aids.
@@ -84916,10 +84972,18 @@ Jobs:^777777All^000000
 ^ff0000This item is impossible to deal with another account.^000000
 Hat full of the zodiac cute rabbit.
 That beautiful ears have, but doubles the bites of ticks.
-Class : ^777777Costume Equipment^000000
-Location: ^777777Upper^000000 Weight :^7777770^000000
-Required Level :^7777771^000000
-Jobs:^777777All^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
+#
+20070#
+Class: ^777777Costume^000000
+Location: ^777777Upper, Middle, Lower^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20073#
 A simple hair band that holds hair in place quite neatly. It's a very cute look for girls, but dudes, on the other hand.
@@ -84936,10 +85000,18 @@ Required Level :^7777771^000000
 Jobs:^777777All^000000
 #
 20084#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20085#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20086#
 ^ff0000Cannot be traded.^000000
@@ -85018,44 +85090,81 @@ Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Job : ^777777All^000000
 #
+20100#
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
+#
 20102#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper, Middle, Lower^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20103#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20104#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20105#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20106#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20107#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20108#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20109#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20110#
 ^ff0000Cannot be traded.^000000
 Snake is part of 12 chinese zodiacs.
-똬리를 틀고 있어 공격 할 것 같은 느낌이다.
-Class : ^777777Costume^000000
-Location : ^777777Upper ^000000
-Weight : ^7777770^000000
-Required Level : ^7777771^000000
-Job : ^777777All^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20111#
 ^ff0000Cannot be traded.^000000
 Snake is part of 12 chinese zodiacs.
-똬리를 틀고 있어 공격 할 것 같은 느낌이다.
 Class : ^777777Costume^000000
 Location : ^777777Upper ^000000
 Weight : ^7777770^000000
@@ -85063,10 +85172,18 @@ Required Level : ^7777771^000000
 Job : ^777777All^000000
 #
 20112#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20113#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20114#
 Traditional Korean headdress worn during funeral ceremonies by the bereaved family and close friends.
@@ -85329,13 +85446,20 @@ Required Level : ^7777771^000000
 Jobs: ^777777All^000000
 #
 20152#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper, Middle, Lower^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20153#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20154#
-[JRO item]
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Lower^000000
@@ -85344,7 +85468,11 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 20155#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20156#
 The useful tools for refreshing in the summer.
@@ -85616,31 +85744,67 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 20190#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20191#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20192#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20193#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20194#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20195#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Middle, Lower^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20196#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20197#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20198#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20199#
 A dark marching hat worn by members of an undead band from Niffleheim.
@@ -85773,31 +85937,67 @@ Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 20213#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20214#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20215#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20216#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20217#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20218#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20219#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20220#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20221#
-[JRO item]
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20222#
 A double-pommed Blue Christmas Cap
@@ -85912,7 +86112,6 @@ Required Level : ^7777771^000000
 Jobs: ^777777All^000000
 #
 20239#
-[JRO item]
 Class : ^777777Costume^000000
 Defense : ^7777770^000000
 Location: ^777777Lower^000000
@@ -85940,7 +86139,6 @@ Required Level : ^7777771^000000
 Jobs: ^777777All^000000
 #
 20242#
-[JRO item]
 Class : ^777777Costume^000000
 Defense : ^7777770^000000
 Location: ^777777Upper^000000
@@ -85949,7 +86147,6 @@ Required Level : ^7777771^000000
 Jobs: ^777777All^000000
 #
 20243#
-[JRO item]
 Class : ^777777Costume^000000
 Defense : ^7777770^000000
 Location: ^777777Upper^000000
@@ -86862,7 +87059,6 @@ Jobs:^777777 Novice^000000
 22032#
 #
 22033#
-[JRO item]
 Increase Holy Resistance by 2%
 [Per 3 Refine]Increases Holy Resistance by 1%
 Type: Armor

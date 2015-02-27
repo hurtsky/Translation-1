@@ -17364,6 +17364,9 @@ Unknown Item, can be identified by [Magnifier].
 5920#
 Unknown Item, can be identified by [Magnifier].
 #
+5921#
+Unknown Item, can be identified by [Magnifier].
+#
 5926#
 Unknown Item, can be identified by [Magnifier].
 #
@@ -31497,16 +31500,16 @@ Weight :^777777 1^000000
 Available for a limited time, this hat box contains costumes based on popular hats.
 Are you looking for a cute new headgear?
 When opened this box to receive one of the following:
-Costume: Cake Hat
-Costume: Gold Dragonhelm
-Costume: Sakkat
-Costume: Dark Blindfold
-Costume: Angry Snarl
-Costume: Cowboy Hat
-Costume: Zorro Mask
-Costume: Dagger in Mouth
-Costume: Heart Eye Patch (NEW)
-Costume: Full Moon (NEW)
+[Costume] Cake Hat
+[Costume] Gold Dragonhelm
+[Costume] Sakkat
+[Costume] Dark Blindfold
+[Costume] Angry Snarl
+[Costume] Cowboy Hat
+[Costume] Zorro Mask
+[Costume] Dagger in Mouth
+[Costume] Heart Eye Patch (NEW)
+[Costume] Full Moon (NEW)
 The box can be traded and vended, but the costume headgears are account bound.
 Weight : ^7777771^000000
 #
@@ -37177,7 +37180,7 @@ Mystical Card Album
 Fallen Angel Wing
 +20 Basic Food Box
 Sword, Bow, or Spear Mercenary Scroll x 10
-Costume: Blue Chirstmas Cheer
+[Costume] Blue Chirstmas Cheer
 Box Weight: ^7777771^000000
 #
 13687#
@@ -51672,6 +51675,9 @@ Unknown Item, can be identified by [Magnifier].
 18964#
 Unknown Item, can be identified by [Magnifier].
 #
+18969#
+Unknown Item, can be identified by [Magnifier].
+#
 18970#
 Unknown Item, can be identified by [Magnifier].
 #
@@ -51934,160 +51940,16 @@ Required Level: ^7777771^000000
 Jobs: ^777777Swordman Class^000000
 #
 19014#
-A box that contains 1 Classic Glove 2 Week Rental
-Description:
-^000088Rental Item^000000
-An ancient glove.
-DEX +4
-This item cannot be Dropped or Traded.
-Class: ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All Except Novice^000000
-#
-19015#
-A box that contains 1 Classic Light Epsilon 2 Week Rental
-Description:
-^000088Rental Item^000000
-A Greek ceremonial
-axe that possesses
-the power of holiness.
-STR +10, Holy property,
-Enables use of Lvl 3 Heal Increases damage inflicted
-on Devil monsters by 3%.^FFFFFF	^000000 Increases Movement Speed.
-This item cannot be Dropped or Traded.
-Class: ^777777Axe^000000
-Attack: ^777777229^000000
-Weight: ^7777770^000000
-Property: ^777777Holy^000000
-Weapon Level: ^7777774^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Swordman
-and Merchant Classes^000000
-#
-19016#
-A box that contains 1 Classic Moonlight Sword 2 Week Rental
-Description:
-^000088Rental Item^000000
-A dagger imbued with
-lunar spirit and the power to drain an enemy's soul.
-Regain 3 SP
-with each attack.
-Max SP +10%
-This item cannot be Dropped or Traded.
-Class: ^777777Dagger^000000
-Attack: ^77777785^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777774^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Swordman, Mage, Archer, Merchant,
-Thief Classes, Soul Linker, and Ninja^000000
-#
-19017#
-A box that contains 1 Classic Necklace 2 Week Rental
-Description:
-^000088Rental Item^000000
-An ancient necklace.
-VIT +4
-This item cannot be Dropped or Traded.
-Class: ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All Except Novice^000000
-#
-19018#
-A box that contains 1 Classic Ring 2 Week Rental
-Description:
-^000088Rental Item^000000
-An ancient ring.
-STR +4
-This item cannot be Dropped or Traded.
-Class: ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All Except Novice^000000
+Unknown Item, can be identified by [Magnifier].
 #
 19019#
 Unknown Item, can be identified by [Magnifier].
-#
-19020#
-A box that contains 1 Classic Solar Sword 2 Week Rental
-Description:
-^000088Rental Item^000000
-A one-handed sword
-adorned with an engraving of the sun, symbolizing battle spirit and vigor.
-Regains 1% of the damage inflicted on its target as HP with each attack.
-Drains 15 SP from its
-owner every 10 seconds.
-This item cannot be Dropped or Traded.
-Class: ^777777One-handed Sword^000000
-Attack: ^777777120^000000
-Weight: ^7777770^000000
-Property: ^777777Fire^000000
-Weapon Level: ^7777774^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Swordman,
-Merchant, and
-Thief Classes^000000
-#
-19021#
-A box that contains 1 Classic Pole Axe 2 Week Rental
-Description:
-^000088Rental Item^000000
-A weapon consisting
-of an axe head mounted
-on a long pole that
-is designed to break
-through thick armor.
-STR +1, INT +2, DEX +1
-This item cannot be Dropped or Traded.
-Class: ^777777Spear^000000
-Attack: ^777777195^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777773^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Swordman Class^000000
-#
-19022#
-A box that contains 1 Classic Safety Ring 2 Week Rental
-Description:
-^000088Rental Item^000000
-A strange ring that
-curiously raises its
-wearer's defenses.
-DEF +8, MDEF +8
-This item cannot be Dropped or Traded.
-Class: ^777777Accessory^000000
-Defense: ^7777775^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All Except Novice^000000
 #
 19023#
 Unknown Item, can be identified by [Magnifier].
 #
 19024#
 Unknown Item, can be identified by [Magnifier].
-#
-19025#
-A box that contains 1 Classic Spanner 2 Week Rental Box
-Description:
-^000088Rental Item^000000
-A heavy tool with many practical applications.
-Enable a chance of
-randomly inflicting the ^880000Stun^000000, ^880000Blind^000000, ^880000Poison^000000
-or ^880000Frozen^000000 statuses with
-each attack.
-This item cannot be Dropped or Traded.
-Class: ^777777Mace^000000
-Attack: ^777777150^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777773^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Acolyte Class^000000
 #
 19026#
 Unknown Item, can be identified by [Magnifier].
@@ -53994,7 +53856,22 @@ Unknown Item, can be identified by [Magnifier].
 19865#
 Unknown Item, can be identified by [Magnifier].
 #
+19866#
+Unknown Item, can be identified by [Magnifier].
+#
+19867#
+Unknown Item, can be identified by [Magnifier].
+#
+19868#
+Unknown Item, can be identified by [Magnifier].
+#
 19871#
+Unknown Item, can be identified by [Magnifier].
+#
+19873#
+Unknown Item, can be identified by [Magnifier].
+#
+19874#
 Unknown Item, can be identified by [Magnifier].
 #
 19875#
@@ -54129,7 +54006,13 @@ Unknown Item, can be identified by [Magnifier].
 19925#
 Unknown Item, can be identified by [Magnifier].
 #
+19928#
+Unknown Item, can be identified by [Magnifier].
+#
 19929#
+Unknown Item, can be identified by [Magnifier].
+#
+19930#
 Unknown Item, can be identified by [Magnifier].
 #
 19931#
@@ -54154,6 +54037,9 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 19941#
+Unknown Item, can be identified by [Magnifier].
+#
+19949#
 Unknown Item, can be identified by [Magnifier].
 #
 19952#
@@ -54468,6 +54354,9 @@ Unknown Item, can be identified by [Magnifier].
 20068#
 Unknown Item, can be identified by [Magnifier].
 #
+20070#
+Unknown Item, can be identified by [Magnifier].
+#
 20073#
 Unknown Item, can be identified by [Magnifier].
 #
@@ -54505,6 +54394,9 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 20097#
+Unknown Item, can be identified by [Magnifier].
+#
+20100#
 Unknown Item, can be identified by [Magnifier].
 #
 20102#

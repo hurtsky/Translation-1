@@ -3777,6 +3777,7 @@
 5907#Hat#
 5918#Hat#
 5920#Shoes#
+5921#Headgear#
 5926#Headgear#
 5927#Headgear#
 5928#Headgear#
@@ -6153,7 +6154,7 @@
 12291#Mysterious_PET_Bottle#
 12292#Unripe_Yggdrasilberry#
 12293#Dried_Yggdrasilberry#
-12294#Costume:_Blue_Christmas_Cheer_Box#
+12294#[Costume]_Blue_Christmas_Cheer_Box#
 12295#Groove_Pack_1#
 12296#Splendid_Spring_Hat_Box#
 12297#PC-Room_Coin_Box#
@@ -9214,11 +9215,11 @@
 16970##
 16971##
 16972#Weather_Report_Box#
-16973#Costume:_Yellow_Hat_Box#
-16974#Costume:_Old-Timey_Box#
-16975#Costume:_Singing_Bird_Box#
-16976#Costume:_Chicken_Box#
-16977#Costume:_Mini_Crown_Box#
+16973#[Costume]_Yellow_Hat_Box#
+16974#[Costume]_Old-Timey_Box#
+16975#[Costume]_Singing_Bird_Box#
+16976#[Costume]_Chicken_Box#
+16977#[Costume]_Mini_Crown_Box#
 16978##
 16979#Silvervine_Box4#
 16990##
@@ -9244,8 +9245,8 @@
 17011##
 17012##
 17013#Malang_Woe_Encard_Box#
-17014#Costume:_Butterfly_Ears_Box#
-17015#Costume:_Bolt_Ears_Box#
+17014#[Costume]_Butterfly_Ears_Box#
+17015#[Costume]_Bolt_Ears_Box#
 17016##
 17017##
 17018##
@@ -10000,6 +10001,7 @@
 18962#Accessory#
 18963#Accessory#
 18964#Headgear#
+18969#Hat#
 18970#Hat#
 18971#투구#
 18972#모자#
@@ -10029,18 +10031,10 @@
 19011#Classic_Earring_2_Week_Rental_Box#
 19012#Headgear#
 19013#Classic_Executioner_2_Week_Rental_Box#
-19014#Classic_Glove_2_Week_Rental_Box#
-19015#Classic_Light_Epsilon_2_Week_Rental_Box#
-19016#Classic_Moonlight_Sword_2_Week_Rental_Box#
-19017#Classic_Necklace_2_Week_Rental_Box#
-19018#Classic_Ring_2_Week_Rental_Box#
+19014#Headgear#
 19019#Helm#
-19020#Classic_Solar_Sword_2_Week_Rental_Box#
-19021#Classic_Pole_Axe_2_Week_Rental_Box#
-19022#Classic_Safety_Ring_2_Week_Rental_Box#
 19023#Headgear#
 19024#Headgear#
-19025#Classic_Spanner_2_Week_Rental_Box#
 19026#Helm#
 19027#Classic_Refresh_Shoes_2_Week_Rental_Box#
 19028#Classic_Silf_Manteau_2_Week_Rental_Box#
@@ -10289,7 +10283,7 @@
 19667#Headgear#
 19668#Hat#
 19669#Headgear#
-19670##
+19670#Headgear#
 19671##
 19672##
 19673##
@@ -10402,7 +10396,7 @@
 19784#Headgear#
 19785#Accessory#
 19786#Headgear#
-19787#Costume:_Devoted_Eyes#
+19787#[Costume]_Devoted_Eyes#
 19788#Headgear#
 19789#Headgear#
 19790#Hat#
@@ -10476,7 +10470,12 @@
 19863#Headgear#
 19864#Headgear#
 19865#Headgear#
+19866#Hat#
+19867#Hat#
+19868#Hat#
 19871#Headgear#
+19873#Hat#
+19874#Headgear#
 19875#Headgear#
 19876#Headgear#
 19877#Headgear#
@@ -10521,7 +10520,9 @@
 19920#Headgear#
 19922#Headgear#
 19925#Headgear#
+19928#Headgear#
 19929#Headgear#
+19930#Hat#
 19931#Headgear#
 19932#Headgear#
 19934#Headgear#
@@ -10530,6 +10531,7 @@
 19938#Headgear#
 19939#Headgear#
 19941#Headgear#
+19949#Hat#
 19952#Headgear#
 19953#Headgear#
 19954#Headgear#
@@ -10634,6 +10636,7 @@
 20064#Accessory#
 20067#Headband#
 20068#Headband#
+20070#Headgear#
 20073#Headband#
 20074#Hat#
 20084#Headgear#
@@ -10647,6 +10650,7 @@
 20095#Hairband#
 20096#Hairband#
 20097#Hairband#
+20100#Hat#
 20102#Headgear#
 20103#Headgear#
 20104#Headgear#
