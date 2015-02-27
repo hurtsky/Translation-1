@@ -220,7 +220,7 @@ Cancel#
 There is a Delay after using a Skill.#
 You can't have this item because you will exceed the weight limit.#
 Out of the maximum capacity#
-Rent a Cart Items#
+Cart Items#
 Take Off Rent a Cart#
 Opening a stall#
 Please Name your Shop.#
