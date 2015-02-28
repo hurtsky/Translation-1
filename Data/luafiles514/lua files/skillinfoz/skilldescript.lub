@@ -233,7 +233,8 @@ SKILL_DESCRIPT = {
     "Description: ^777777Summon bolts of frigid ice to",
     "strike at an enemy. Barring changes in damage",
     "due to elemental properties, each bolt inflicts",
-    "an amount of damage equal to the caster's Matk.^000000"
+    "an amount of damage equal to the caster's",
+    "MATK.^000000"
   },
   [SKID.MG_FROSTDIVER] = {
     "Frost Diver",
@@ -253,8 +254,8 @@ SKILL_DESCRIPT = {
     "Target: ^777777Enemy^000000",
     "Description: ^777777Curse an enemy by turning it",
     "into stone. Has no effect on Boss and Undead",
-    "monsters.^000000",
-    "^00bb00Each cast requires Red Gemstone^000000."
+    "monsters.",
+    "Each cast requires 1 ^00bb00Red Gemstone^777777.^000000"
   },
   [SKID.MG_FIREBALL] = {
     "Fire Ball",
@@ -289,7 +290,8 @@ SKILL_DESCRIPT = {
     "Description: ^777777Summon bolts of pure flame to",
     "strike at an enemy. Barring changes in damage",
     "due to elemental properties, each bolt inflicts",
-    "an amount of damage equal to the caster's Matk.^000000"
+    "an amount of damage equal to the caster's",
+    "MATK.^000000"
   },
   [SKID.MG_LIGHTNINGBOLT] = {
     "Lightning Bolt",
@@ -300,7 +302,8 @@ SKILL_DESCRIPT = {
     "Description: ^777777Summon bolts of lightning to",
     "strike at an enemy. Barring changes in damage",
     "due to elemental properties, each bolt inflicts",
-    "an amount of damage equal to the caster's Matk.^000000"
+    "an amount of damage equal to the caster's",
+    "MATK.^000000"
   },
   [SKID.MG_THUNDERSTORM] = {
     "Thunder Storm",
@@ -1121,7 +1124,7 @@ SKILL_DESCRIPT = {
     "4190^777777Requirement: Stone Curse 1^000000",
     "16^777777Requirement: Seismic Weapon 1^000000",
     "Skill Form: ^777777Offensive^000000",
-    "Property: ^00bb00Earth Property^000000",
+    "Property: ^cc5500Earth Property^000000",
     "Target: ^777777Enemy^000000 ",
     "Description: ^777777Command the ground beneath",
     "a targeted enemy to rise into spikes.^000000"
@@ -1133,7 +1136,7 @@ SKILL_DESCRIPT = {
     "4190^777777Requirement: Earth Spike 3^000000",
     "16^777777Requirement: Earth Spike 1^000000",
     "Skill Form: ^777777Offensive^000000",
-    "Property: ^00BB00Earth Property^000000",
+    "Property: ^cc5500Earth Property^000000",
     "Target: ^777777Ground^000000",
     "Description: ^777777Command the ground in a",
     "targeted area to rise into spikes in order to",
@@ -1143,7 +1146,7 @@ SKILL_DESCRIPT = {
     "Quagmire",
     "Max Level: 5",
     "^777777Requirement: Heaven's Drive 1^000000",
-    "Skill Form: ^777777Supportive^00bb00 (Earth)^000000",
+    "Skill Form: ^777777Supportive^00bb00 (^cc5500Earth^777777)^000000",
     "Target: ^777777Ground^000000",
     "Description: ^777777Temporarily convert a targeted area",
     "into marshland that will reduce the Movement",
@@ -1789,7 +1792,7 @@ SKILL_DESCRIPT = {
   [SKID.TF_SPRINKLESAND] = {
     "Sprinkle Sand",
     "^777777Requirement: Finish Quest^000000",
-    "Skill Form: ^777777Offensive (^A68064Earth^777777 Property)^000000",
+    "Skill Form: ^777777Offensive (^cc5500Earth^777777 Property)^000000",
     "Target: ^777777Enemy^000000",
     "Description: ^777777Kick sand into enemy face",
     "which will inflict 130% damage and also",
@@ -2023,14 +2026,14 @@ SKILL_DESCRIPT = {
   [SKID.RG_CLEANER] = {
     "Cleaner",
     "Max Level: 1",
-    "^777777Requirement: GangSter Paradise 1^000000",
+    "^777777Requirement: Gangster Paradise 1^000000",
     "Skill Form: ^777777Supportive^000000",
     "Target: ^777777Guild Flag^000000",
     "Description: ^777777Remove graffiti from a guild flag",
     "Requires 1 ^00BB00Wet Duster^777777.^000000"
   },
   [SKID.RG_GANGSTER] = {
-    "GangSter Paradise",
+    "Gangster Paradise",
     "Max Level: 1",
     "^777777Requirement: Strip Shield 3^000000",
     "Skill Form: ^000099Passive^000000",
@@ -2041,7 +2044,7 @@ SKILL_DESCRIPT = {
   [SKID.RG_COMPULSION] = {
     "Compulsion Discount",
     "Max Level: 5",
-    "^777777Requirement: GangSter Paradise 1^000000",
+    "^777777Requirement: Gangster Paradise 1^000000",
     "Skill Form: ^000099Passive^000000",
     "Description: ^777777Purchase items from NPC shops",
     "at lower prices.^000000",
@@ -2081,7 +2084,7 @@ SKILL_DESCRIPT = {
     "[Lv 10]: ^777777Atk +30^000000"
   },
   [SKID.AM_LEARNINGPOTION] = {
-    "Potion Research",
+    "Learning Potion",
     "Max Level: 10",
     "Skill Form: ^000099Passive^000000",
     "Description: ^777777Increase effectiveness of",
@@ -2089,43 +2092,46 @@ SKILL_DESCRIPT = {
     "potion creation success rate.^000000"
   },
   [SKID.AM_PHARMACY] = {
-    "Prepare Potion",
+    "Pharmacy",
     "Max Level: 10",
-    "^777777Requirement: Potion Research 5^000000",
+    "^777777Requirement: Learning Potion 5^000000",
     "Skill Form: ^777777Supportive^000000",
     "Description: ^777777Enables manufacturing of potion",
-    "and chemical. The correct ^000099Potion Creation Guide^777777",
-    "is needed for the manufacture of specific",
-    "potions.",
+    "and chemical. The correct ^000099Potion Creation",
+    "Guide^777777 is needed for the manufacture",
+    "of specific potions.",
     "Each cast requires 1 ^00BB00Medicine Bowl^777777.^000000"
   },
   [SKID.AM_DEMONSTRATION] = {
-    "Bomb",
+    "Demonstration",
     "Max Level: 5",
-    "^777777Requirement: Prepare Potion 4^000000",
-    "Skill Form: ^777777Active^bb0000 (Fire Property)^000000",
+    "^777777Requirement: Pharmacy 4^000000",
+    "Skill Form: ^777777Active^000000",
+    "Property: ^bb0000Fire^000000",
     "Target: ^777777Ground^000000",
     "Description: ^777777Target an area and set it on fire",
     "by throwing a Bottle Grenade. The flames will",
     "not push back enemies within their range, but",
-    "they do have a chance of damaging the weapons",
-    "of enemies. Each cast require 1 ^00BB00Bottle Grenade^777777.^000000"
+    "they do have a chance of damaging the",
+    "weapons of enemies.",
+    "Each cast require 1 ^00BB00Bottle Grenade^777777.^000000"
   },
   [SKID.AM_ACIDTERROR] = {
     "Acid Terror",
     "Max Level: 5",
-    "^777777Requirement: Prepare Potion 5^000000",
+    "^777777Requirement: Pharmacy 5^000000",
     "Skill Form: ^777777Offensive^000000",
     "Target: ^777777Enemy^000000",
     "Description: ^777777Fling a bottle of corrosive acid",
-    "at an enemy that has the chance of damaging the",
-    "target's armor or causing the Bleeding effect.",
+    "at an enemy that has the chance of damaging",
+    "the target's armor or causing the Bleeding",
+    "effect.",
     "Each cast requires 1 ^00BB00Acid Bottle^777777.^000000"
   },
   [SKID.AM_POTIONPITCHER] = {
-    "Aid Potion",
+    "Potion Pitcher",
     "Max Level: 5",
-    "^777777Requirement: Prepare Potion 3^000000",
+    "^777777Requirement: Pharmacy 3^000000",
     "Skill Form: ^777777Supportive^000000",
     "Target: ^777777Single Ally^000000",
     "Description: ^777777Throw a potion to an ally that will",
@@ -2140,39 +2146,39 @@ SKILL_DESCRIPT = {
     "[Lv 5]: ^777777Blue Potion^000000"
   },
   [SKID.AM_CANNIBALIZE] = {
-    "Summon Flora",
+    "Bio Cannibalize",
     "Max Level: 5",
-    "^777777Requirement: Prepare Potion 6^000000",
+    "^777777Requirement: Pharmacy 6^000000",
     "Skill Form: ^777777Supportive^000000",
     "Target: ^777777Ground^000000",
-    "Description: ^777777Summon a ^000099Plant monster^777777to a",
+    "Description: ^777777Summon a ^000099Plant monster^777777 to a",
     "targeted cell. Monster will disappear after the",
     "skill's duration. Skill level affects the type",
     "of Plant monster that is summoned, as well as",
-    "the monster's Max HP. Caster can only summon",
-    "monsters of the same type at once.",
+    "the monster's Max HP. Caster can only",
+    "summon monsters of the same type at once.",
     "Each cast requires 1 ^00BB00Plant Bottle^777777.^000000",
-    "[Lv 1]: ^777777Summon up to 5 Mandragora for 300 sec^000000",
-    "[Lv 2]: ^777777Summon up to 4 Hydra for 240 sec^000000",
-    "[Lv 3]: ^777777Summon up to 3 Flora for 180 sec^000000",
-    "[Lv 4]: ^777777Summon up to 2 Parasite for 120 sec^000000",
-    "[Lv 5]: ^777777Summon up to 1 Geographer for 60 sec^000000"
+    "[Lv 1]: ^777777Summon up to 5 Mandragora^000000",
+    "[Lv 2]: ^777777Summon up to 4 Hydra^000000",
+    "[Lv 3]: ^777777Summon up to 3 Flora^000000",
+    "[Lv 4]: ^777777Summon up to 2 Parasite^000000",
+    "[Lv 5]: ^777777Summon up to 1 Geographer^000000"
   },
   [SKID.AM_SPHEREMINE] = {
     "Summon Marine Sphere",
     "Max Level: 5",
-    "^777777Requirement: Prepare Potion 2^000000",
+    "^777777Requirement: Pharmacy 2^000000",
     "Skill Form: ^777777Support^000000",
     "Target: ^777777Ground^000000",
     "Description: ^777777Summon a ^000099Marine Sphere^777777 to a",
     "targeted cell. Marine Spheres will cast",
-    "^000099Self-Destruct^777777upon receiving damage.",
+    "^000099Self-Destruct^777777 upon receiving damage.",
     "Each cast requires 1 ^00BB00Marine Sphere Bottle^777777.^000000"
   },
   [SKID.AM_CP_WEAPON] = {
-    "Alchemical Weapon",
+    "Chemical Protection Weapon",
     "Max Level: 5",
-    "^777777Requirement: Synthetic Armor 3^000000",
+    "^777777Requirement: Chemical Protection Armor 3^000000",
     "Skill Form: ^777777Supportive^000000",
     "Target: ^777777Ally^000000",
     "Description: ^777777Protect a targeted ally's Weapon",
@@ -2180,9 +2186,9 @@ SKILL_DESCRIPT = {
     "Each cast requires 1 ^00BB00Glistening Coat^777777.^000000"
   },
   [SKID.AM_CP_SHIELD] = {
-    "Synthesized Shield",
+    "Chemical Protection Shield",
     "Max Level: 5",
-    "^777777Requirement: Biochemical Helm 3^000000",
+    "^777777Requirement: Chemical Protection Helm 3^000000",
     "Skill Form: ^777777Supportive^000000",
     "Target: ^777777Ally^000000",
     "Description: ^777777Protect a targeted ally's Shield",
@@ -2190,9 +2196,9 @@ SKILL_DESCRIPT = {
     "Each cast requires 1 ^00BB00Glistening Coat^777777.^000000"
   },
   [SKID.AM_CP_ARMOR] = {
-    "Synthetic Armor",
+    "Chemical Protection Armor",
     "Max Level: 5",
-    "^777777Requirement: Synthesized Shield 3^000000",
+    "^777777Requirement: Chemical Protection Shield 3^000000",
     "Skill Form: ^777777Supportive^000000",
     "Target: ^777777Ally^000000",
     "Description: ^777777Protect a targeted ally's Armor",
@@ -2200,9 +2206,9 @@ SKILL_DESCRIPT = {
     "Each cast requires 1 ^00BB00Glistening Coat^777777.^000000"
   },
   [SKID.AM_CP_HELM] = {
-    "Biochemical Helm",
+    "Chemical Protection Helm",
     "Max Level: 5",
-    "^777777Requirement: Prepare Potion 2^000000",
+    "^777777Requirement: Pharmacy 2^000000",
     "Skill Form: ^777777Supportive^000000",
     "Target: ^777777Ally^000000",
     "Description: ^777777Protect a targeted ally's Headgear",
@@ -2248,14 +2254,14 @@ SKILL_DESCRIPT = {
   [SKID.AM_CALLHOMUN] = {
     "Call Homunculus",
     "Max Level: 1",
-    "^777777Requirement: Vaporize 1^000000",
+    "^777777Requirement: Rest 1^000000",
     "Skill Form: ^777777Supportive^000000",
     "Description: ^777777Summon an existing Homunculus",
     "that was stored by using the Vaporize skill.",
     "Each cast requires 1 ^00BB00Embryo^777777.^000000"
   },
   [SKID.AM_REST] = {
-    "Vaporize",
+    "Rest",
     "Max Level: 1",
     "^777777Requirement: Bioethics 1^000000",
     "Skill Form: ^777777Supportive^000000",
@@ -2289,7 +2295,7 @@ SKILL_DESCRIPT = {
     "of HP equivalent to that of the ^000099Heal^777777skill.^000000"
   },
   [SKID.AM_RESURRECTHOMUN] = {
-    "Homunculus Resurrection",
+    "Ressurect Homunculus",
     "Max Level: 5",
     "^777777Requirement: Call Homunculus 1^000000",
     "Skill Form: ^777777Supportive^000000",
@@ -2305,7 +2311,7 @@ SKILL_DESCRIPT = {
     "against the Holy property.^000000"
   },
   [SKID.CR_AUTOGUARD] = {
-    "Guard",
+    "Auto Guard",
     "Max Level: 5",
     "Skill Form: ^777777Supportive^000000",
     "Target: ^777777Self^000000",
@@ -2322,7 +2328,7 @@ SKILL_DESCRIPT = {
   [SKID.CR_SHIELDCHARGE] = {
     "Smite",
     "Max Level: 5",
-    "^777777Requirement: Guard 5^000000",
+    "^777777Requirement: Auto Guard 5^000000",
     "Skill Form: ^777777Offensive^000000",
     "Target: ^777777Enemy^000000",
     "Description: ^777777Smash a Shield into an enemy,",
@@ -2392,7 +2398,7 @@ SKILL_DESCRIPT = {
     "Cannot be used for other Crusader class.^000000"
   },
   [SKID.CR_PROVIDENCE] = {
-    "Resistant Souls",
+    "Providence",
     "Max Level: 5",
     "^777777Requirement: Divine Protection 5, Heal 5^000000",
     "Skill Form: ^777777Supportive^000000",
@@ -2421,9 +2427,9 @@ SKILL_DESCRIPT = {
     "spear weapon.^000000"
   },
   [SKID.MO_IRONHAND] = {
-    "Iron Fists",
+    "Iron Hand",
     "Max Level: 10",
-    "^777777Requirement: Demon Bane 10, ",
+    "^777777Requirement: Demon Bane 10,",
     "Divine Protection 10^000000",
     "Skill Form: ^000099Passive^000000",
     "Description: ^777777Increase damage with bare hands",
@@ -2440,7 +2446,7 @@ SKILL_DESCRIPT = {
     "[Lv 10]: ^777777Atk +30^000000"
   },
   [SKID.MO_SPIRITSRECOVERY] = {
-    "Spiritual Cadence",
+    "Spirit Recovery",
     "Max Level: 5",
     "^777777Requirement: Root 2^000000",
     "Skill Form: ^000099Passive^000000",
@@ -2450,9 +2456,9 @@ SKILL_DESCRIPT = {
     "this extra HP and SP is recovered every 20 sec.^000000"
   },
   [SKID.MO_CALLSPIRITS] = {
-    "Summon Spirit Sphere",
+    "Call Spirits",
     "Max Level: 5",
-    "^777777Requirement: Iron Fists 2^000000",
+    "^777777Requirement: Iron Hand 2^000000",
     "Skill Form: ^777777Supportive^000000",
     "Description: ^777777Summon a Spirit Sphere, which can",
     "be used to amplify different skill abilities.",
@@ -2461,7 +2467,7 @@ SKILL_DESCRIPT = {
   [SKID.MO_ABSORBSPIRITS] = {
     "Spiritual Sphere Absorption",
     "Max Level: 1",
-    "^777777Requirement: Summon Spirit Sphere 5^000000",
+    "^777777Requirement: Call Spirits 5^000000",
     "Skill Form: ^777777Supportive^000000",
     "Description: ^777777Absorb a certain amount of SP from",
     "a Spirit Sphere, which can be stolen from other",
@@ -2475,7 +2481,7 @@ SKILL_DESCRIPT = {
   [SKID.MO_TRIPLEATTACK] = {
     "Raging Trifecta Blow",
     "Max Level: 10",
-    "^777777Requirement: Flee 5^000000",
+    "^777777Requirement: Dodge 5^000000",
     "Skill Form: ^000099Passive^000000",
     "Description: ^777777Enables the chance of automatically",
     "delivering a triple attack in battle. This skill",
@@ -2484,7 +2490,7 @@ SKILL_DESCRIPT = {
   [SKID.MO_BODYRELOCATION] = {
     "Snap",
     "Max Level: 1",
-    "^777777Requirement: Spritual Cadence 2,",
+    "^777777Requirement: Spirit Recovery 2,",
     "Asura Strike 3, Mental Strength 3^000000",
     "Skill Form: ^777777Supportive^000000",
     "Target: ^777777Ground^000000",
@@ -2494,15 +2500,15 @@ SKILL_DESCRIPT = {
     "1 Spirit Sphere when not in Critical Explosion status."
   },
   [SKID.MO_DODGE] = {
-    "Flee",
+    "Dodge",
     "Max Level: 10",
-    "^777777Requirement: Iron Fists 5,",
-    "Summon Spirit Sphere 5^000000 ",
+    "^777777Requirement: Iron Hand 5,",
+    "Call Spirits 5^000000 ",
     "Skill Form: ^000099Passive^000000",
     "Description: ^777777Increase flee rate.^000000"
   },
   [SKID.MO_INVESTIGATE] = {
-    "Occult Impaction",
+    "Investigate",
     "Max Level: 5",
     "^777777Requirement: Summmon Spirit Sphere 5^000000",
     "Skill Form: ^777777Offensive^000000",
@@ -2513,9 +2519,9 @@ SKILL_DESCRIPT = {
     "^00BB00Each cast requires 1 Spirit Sphere.^000000"
   },
   [SKID.MO_FINGEROFFENSIVE] = {
-    "Throw Spirit Sphere",
+    "Finger Offensive",
     "Max Level: 5",
-    "^777777Requirement: Occult Impaction 3^000000",
+    "^777777Requirement: Investigate 3^000000",
     "Skill Form: ^777777Offensive^000000",
     "Target: ^777777Enemy^000000",
     "Description: ^777777Attack a distant enemy by firing",
@@ -2536,7 +2542,7 @@ SKILL_DESCRIPT = {
   [SKID.MO_BLADESTOP] = {
     "Root",
     "Max Level: 5",
-    "^777777Requirement: Flee 5^000000",
+    "^777777Requirement: Dodge 5^000000",
     "Skill Form: ^777777Supportive^000000",
     "Description: ^777777Immobilize both the caster and an",
     "enemy until either one of them dies. Leveling",
@@ -2547,8 +2553,8 @@ SKILL_DESCRIPT = {
     "Root Duration and Skills Enabled in Root Status",
     "According to Level:",
     "[Lv 1]: ^77777720 sec^000000",
-    "[Lv 2]: ^77777730 sec, Throw Spirit Sphere enabled^000000",
-    "[Lv 3]: ^77777740 sec, Occult Impaction enabled^000000",
+    "[Lv 2]: ^77777730 sec, Finger Offensive enabled^000000",
+    "[Lv 3]: ^77777740 sec, Investigate enabled^000000",
     "[Lv 4]: ^77777750 sec, Raging Quadruple Blow enabled^000000",
     "[Lv 5]: ^77777760 sec, Asura Strike enabled;",
     "caster must be in Critical Explosion status and have at least",
@@ -2570,7 +2576,7 @@ SKILL_DESCRIPT = {
     "Asura Strike",
     "Max Level: 5",
     "^777777Requirement: Critical Explosion 3,",
-    "Throw Spirit Sphere 3^000000",
+    "Finger Offensive 3^000000",
     "Skill Form: ^777777Offensive^000000",
     "Target: ^777777Enemy^000000",
     "Description: ^777777Only usable during Critical",
@@ -2606,7 +2612,7 @@ SKILL_DESCRIPT = {
     "^00BB00Each cast requires 1 Spirit Sphere.^000000"
   },
   [SKID.SA_ADVANCEDBOOK] = {
-    "Study",
+    "Advanced Book",
     "Max Level: 10",
     "Skill Form: ^000099Passive^000000",
     "Description: ^777777Increase Attack Speed",
@@ -2625,7 +2631,7 @@ SKILL_DESCRIPT = {
   [SKID.SA_CASTCANCEL] = {
     "Cast Cancel",
     "Max Level: 5",
-    "^777777Requirement: Study 2^000000",
+    "^777777Requirement: Advanced Book 2^000000",
     "Skill Form: ^777777Supportive^000000",
     "Description: ^777777Only usable while casting a magic",
     "spell. Immediately cancel a spell, allowing",
@@ -2635,7 +2641,7 @@ SKILL_DESCRIPT = {
   [SKID.SA_MAGICROD] = {
     "Magic Rod",
     "Max Level: 5",
-    "^777777Requirement: Study 4^000000",
+    "^777777Requirement: Advanced Book 4^000000",
     "Skill Form: ^777777Supportive^000000",
     "Description: ^777777Upon being attacked with a skill,",
     "using Magic Rod has a chance of giving the SP",
@@ -2654,9 +2660,9 @@ SKILL_DESCRIPT = {
     "enemy and receive the SP the enemy used to",
     "cast that spell, as well as reduce 2% of the",
     "enemy's HP. At skill 5 and above, half of this",
-    "HP damage is absorbed by the caster. HP cannot",
-    "be drained from Boss monsters and WoE",
-    "Guardians, but this skill does have a 10%",
+    "HP damage is absorbed by the caster. HP",
+    "cannot be drained from Boss monsters and",
+    "WoE Guardians, but this skill does have 10%",
     "chance of interrupting Boss monster spells.^000000"
   },
   [SKID.SA_FREECAST] = {
@@ -2668,32 +2674,33 @@ SKILL_DESCRIPT = {
     "during the casting of magic spells.^000000"
   },
   [SKID.SA_AUTOSPELL] = {
-    "Hindsight",
+    "Auto Spell",
     "Max Level: 10",
     "^777777Requirement: Free Cast 4^000000",
     "Skill Form: ^777777Supportive^000000",
     "Description: ^777777Auto Cast certain magic spells by",
     "a certain chance while battling enemies with",
     "physical attacks. Spells that are auto cast",
-    "through Hindsight only consume 2/3 of the",
+    "through Auto Spell only consume 2/3 of the",
     "required SP. Spells that are not learned by",
     "the caster can't be cast.^000000",
-    "[Lv 2]: ^777777Level 1^000099Cold, Fire or Lightning Bolt^000000",
-    "[Lv 3]: ^777777Level 2 ^000099Cold, Fire or Lightning Bolt^000000",
-    "[Lv 4]: ^777777Level 3^000099Cold, Fire or Lightning Bolt^000000",
-    "[Lv 5]: ^777777Level 1^000099Soul Strike^000000",
-    "[Lv 6]: ^777777Level 2^000099Soul Strike^000000",
-    "[Lv 7]: ^777777Level 3^000099Soul Strike^000000",
-    "[Lv 8]: ^777777Level 1^000099Fire Ball^000000",
-    "[Lv 9]: ^777777Level 2^000099Fire Ball^000000",
-    "[Lv 10]: ^777777Level 1^000099Frost Diver^000000",
-    "^777777The level of the skill cast by Hindsight",
-    "is randomly determined and ^000099limited to the",
-    "highest level learned by the caster^777777.^000000"
+    "[Lv 2]: ^777777Level 1^000099 Cold, Fire or Lightning Bolt^000000",
+    "[Lv 3]: ^777777Level 2^000099 Cold, Fire or Lightning Bolt^000000",
+    "[Lv 4]: ^777777Level 3^000099 Cold, Fire or Lightning Bolt^000000",
+    "[Lv 5]: ^777777Level 1^000099 Soul Strike^000000",
+    "[Lv 6]: ^777777Level 2^000099 Soul Strike^000000",
+    "[Lv 7]: ^777777Level 3^000099 Soul Strike^000000",
+    "[Lv 8]: ^777777Level 1^000099 Fire Ball^000000",
+    "[Lv 9]: ^777777Level 2^000099 Fire Ball^000000",
+    "[Lv 10]: ^777777Level 1^000099 Frost Diver^000000",
+    "^777777The level of the skill cast by Auto Spell",
+    "is randomly determined and limited to the",
+    "highest level learned by the caster.^000000"
   },
   [SKID.SA_FLAMELAUNCHER] = {
-    "Endow Blaze",
+    "Flame Launcher",
     "Max Level: 5",
+    "^777777Requirement: Fire Bolt 1, Advanced Book 5^000000",
     "Skill Form: ^777777Supportive^000000",
     "Property: ^bb0000Fire^000000",
     "Target: ^777777Party Member^000000",
@@ -2701,51 +2708,52 @@ SKILL_DESCRIPT = {
     "with Fire property for the skill's duration. ",
     "If the skill fails, the weapon being endowed",
     "will be destroyed.",
-    "^00BB00Each cast requires 1 Red Blood.^000000"
+    "Each cast requires 1 ^00BB00Red Blood^777777.^000000"
   },
   [SKID.SA_FROSTWEAPON] = {
-    "Endow Tsunami",
+    "Frost Weapon",
     "Max Level: 5",
-    "^777777Requirement: Cold Bolt 1, Study 5^000000",
+    "^777777Requirement: Cold Bolt 1, Advanced Book 5^000000",
     "Skill Form: ^777777Supportive^000000",
-    "Property: ^bb0000Water^000000",
+    "Property: ^6996ADWater^000000",
     "Target: ^777777Party Member^000000",
     "Description: ^777777Endow a party member's weapon",
     "with Water property for the skill's duration.",
     "If the skill fails, the weapon being endowed",
     "will be destroyed.",
-    "^00BB00Each cast requires 1 Crystal Blue.^000000"
+    "Each cast requires 1 ^00BB00Crystal Blue^777777.^000000"
   },
   [SKID.SA_LIGHTNINGLOADER] = {
-    "Endow Tornado",
+    "Lightning Loader",
     "Max Level: 5",
-    "^777777Requirement: Lightning Bolt 1, Study 5^000000",
+    "^777777Requirement: Lightning Bolt 1,",
+    "Advanced Book 5^000000",
     "Skill Form: ^777777Supportive^000000",
-    "Property: ^bb0000Wind^000000",
+    "Property: ^4cbb17Wind^000000",
     "Target: ^777777Party Member^000000",
     "Description: ^777777Endow a party member's weapon",
     "with Wind property for the skill's duration.",
     "If the skill fails, the weapon being endowed",
     "will be destroyed.",
-    "^00BB00Each cast requires 1 Wind of Verdure.^000000"
+    "Each cast requires 1 ^00BB00Wind of Verdure^777777.^000000"
   },
   [SKID.SA_SEISMICWEAPON] = {
-    "Endow Quake",
+    "Seismic Weapon",
     "Max Level: 5",
-    "^777777Requirement: Stone Curse 1, Study 5^000000",
+    "^777777Requirement: Stone Curse 1, Advanced Book 5^000000",
     "Skill Form: ^777777Supportive^000000",
-    "Property: ^bb0000Earth^000000",
+    "Property: ^cc5500Earth^000000",
     "Target: ^777777Party Member^000000",
     "Description: ^777777Endow a party member's weapon",
     "with Earth property for the skill's duration.",
     "If the skill fails, the weapon being endowed",
     "will be destroyed.",
-    "^00BB00Each cast requires 1 Green Live.^000000"
+    "Each cast requires 1 ^00BB00Green Live^777777.^000000"
   },
   [SKID.SA_DRAGONOLOGY] = {
     "Dragonology",
     "Max Level: 5",
-    "^777777Requirement: Study 9^000000",
+    "^777777Requirement: Advanced Book 9^000000",
     "Skill Form: ^000099Passive^000000",
     "Description: ^777777Increase resistance and damage",
     "against Dragon monsters. Mastering this skill",
@@ -2754,24 +2762,26 @@ SKILL_DESCRIPT = {
   [SKID.SA_VOLCANO] = {
     "Volcano",
     "Max Level: 5",
-    "^777777Requirement: Endow Blaze 2^000000",
+    "^777777Requirement: Flame Launcher 2^000000",
     "Skill Form: ^777777Supportive^000000",
-    "Property: ^bb0000Fire^000000",
+    "Property: ^FF0000Fire^000000",
     "Target: ^777777Ground^000000",
     "Description: ^777777Enchant an area on the ground so",
     "that it will amplify all Fire attacks, as well",
     "as the Fire property targets' Attack Power,",
     "in its range. Ice Wall and Sage skills that",
     "target the ground can't be cast over Volcano.",
-    "^00BB00Initial cast requires 1 Yellow Gemstone^777777, but",
+    "Initial cast requires 1 ^00BB00Yellow Gemstone^777777, but",
     "multiple casting of this skill will not consume",
-    "Gemstones throughout Volcano's active duration.^000000"
+    "Gemstones throughout Volcano's active",
+    "duration.^000000"
   },
   [SKID.SA_DELUGE] = {
     "Deluge",
     "Max Level: 5",
-    "^777777Requirement: Endow Tsunami 2^000000",
-    "Skill Form: ^777777Supportive^bb0000(Water Property)^000000",
+    "^777777Requirement: Frost Weapon 2^000000",
+    "Skill Form: ^777777Supportive^000000",
+    "Property: ^6996ADWater^000000",
     "Target: ^777777Ground^000000",
     "Description: ^777777Enchant an area on the ground so",
     "that it will amplify all Water attacks and the",
@@ -2779,15 +2789,17 @@ SKILL_DESCRIPT = {
     "This area will also enable the use of ^000099Water Ball^777777",
     "and ^000099Aqua Benedicta^777777. Other Sage skills that",
     "target the ground can't be cast over Deluge.",
-    "^00BB00Initial cast requires 1 Yellow Gemstone^777777, but",
+    "Initial cast requires 1 ^00BB00Yellow Gemstone^777777, but",
     "multiple casting of this skill will not consume",
-    "Gemstones throughout Deluge's active duration.^000000"
+    "Gemstones throughout Deluge's active",
+    "duration.^000000"
   },
   [SKID.SA_VIOLENTGALE] = {
-    "Whirlwind",
+    "Violent Gale",
     "Max Level: 5",
-    "^777777Requirement: Endow Tornado 2^000000",
-    "Skill Form: ^777777Supportive^bb0000(Wind Property)^000000",
+    "^777777Requirement: Lightning Loader 2^000000",
+    "Skill Form: ^777777Supportive^000000",
+    "Property: ^4cbb17Wind^000000",
     "Target: ^777777Ground^000000",
     "Description: ^777777Enchant an area on the ground so",
     "that it will amplify all Wind attacks and the",
@@ -2795,25 +2807,26 @@ SKILL_DESCRIPT = {
     "This area will also increase the duration of",
     "Fire Wall so that it lasts 1.5 times longer.",
     "Other Sage skills that target the ground can't",
-    "be cast over Whirlwind.",
-    "^00BB00Initial cast requires 1 Yellow Gemstone^777777, but",
+    "be cast over Violent Gale.",
+    "Initial cast requires 1 ^00BB00Yellow Gemstone^777777, but",
     "multiple casting of this skill will not consume",
-    "Gemstones throughout Whirlwind's active",
+    "Gemstones throughout Violent Gale's active",
     "duration.^000000"
   },
   [SKID.SA_LANDPROTECTOR] = {
-    "Magnetic Earth",
+    "Land Protector",
     "Max Level: 5",
-    "^777777Requirement: Volcano 3, Deluge 3, Whirlwind 3^000000",
+    "^777777Requirement: Volcano 3, Deluge 3,",
+    "Violent Gale 3^000000",
     "Skill Form: ^777777Supportive^000000",
     "Target: ^777777Ground^000000",
     "Description: ^777777Cast a spell that will block or",
     "cancel all ground targeting spells or",
     "enchantments. Other Sage skills that target the",
     "ground can't be cast in the area enchanted by",
-    "Magnetic Earth.",
-    "^00BB00Each cast requires 1 Blue Gemstone and",
-    "1 Yellow Gemstone.^000000"
+    "Land Protector.",
+    "Each cast requires 1 ^00BB00Blue Gemstone^777777 and",
+    "1 ^00BB00Yellow Gemstone^777777.^000000"
   },
   [SKID.SA_DISPELL] = {
     "Dispell",
@@ -2824,19 +2837,19 @@ SKILL_DESCRIPT = {
     "Description: ^777777Casting Dispell has a chance of",
     "canceling all magic effects that have been cast",
     "on a target.",
-    "^00BB00Each cast requires 1 Yellow Gemstone.^000000"
+    "Each cast requires 1 ^00BB00Yellow Gemstone^777777.^000000"
   },
   [SKID.SA_ABRACADABRA] = {
-    "Hocus-pocus",
+    "Abracadabra",
     "Max Level: 10",
-    "^777777Requirement: Hindsight 5, Dispell 1,",
-    "Magnetic Earth 1^000000",
+    "^777777Requirement: Auto Spell 5, Dispell 1,",
+    "Land Protector 1^000000",
     "Skill Form: ^777777Undefined^000000",
     "Target: ^777777Undefined^000000",
     "Description: ^777777Cast a random skill. Leveling this",
     "skill increases the variety of skills that are",
-    "cast through Hocus Pocus.",
-    "^00BB00Each cast requires 2 Yellow Gemstones.^000000"
+    "cast through Abracadabra.",
+    "Each cast requires 2 ^00BB00Yellow Gemstones^777777.^000000"
   },
   [SKID.SA_MONOCELL] = {
     "Mono Cell",
@@ -2844,7 +2857,7 @@ SKILL_DESCRIPT = {
     "Target: Enemy",
     "Description: Transmogrify a target into a Poring for",
     "the skill's duration. This skill is exclusively",
-    "cast through ^00BB00Hocus Pocus^777777.^000000"
+    "cast through ^00BB00Abracadabra^777777.^000000"
   },
   [SKID.SA_CLASSCHANGE] = {
     "Class Change",
@@ -2852,7 +2865,7 @@ SKILL_DESCRIPT = {
     "Target:^777777Enemy ^000000",
     "Description: ^777777Transmogrify a target into a Boss monster",
     "for the skill's duration. This skill is exclusively",
-    "cast through ^00BB00Hocus Pocus^777777.^000000"
+    "cast through ^00BB00Abracadabra^777777.^000000"
   },
   [SKID.SA_SUMMONMONSTER] = {
     "Monster Chant",
@@ -2860,7 +2873,7 @@ SKILL_DESCRIPT = {
     "Target:^777777Enemy ^000000",
     "Description: ^777777Same ability as the Dead Branch item.",
     "Note: Exclusive skill that can be cast through",
-    "Hocus-pocus.^000000"
+    "Abracadabra.^000000"
   },
   [SKID.SA_REVERSEORCISH] = {
     "Grampus Morph",
@@ -2869,7 +2882,7 @@ SKILL_DESCRIPT = {
     "Description: ^777777Transform caster's face into an",
     "Orc for a set period.",
     "Note: Exclusive skill that can be cast through",
-    "Hocus-pocus.^000000"
+    "Abracadabra.^000000"
   },
   [SKID.SA_DEATH] = {
     "Grim Reaper",
@@ -2878,7 +2891,7 @@ SKILL_DESCRIPT = {
     "Description: ^777777Deliver instant death to a target.",
     "The target will not reward any EXP points or",
     "items. Note: Exclusive skill that can be cast",
-    "through Hocus-pocus.^000000"
+    "through Abracadabra.^000000"
   },
   [SKID.SA_FORTUNE] = {
     "Gold Digger",
@@ -2887,7 +2900,7 @@ SKILL_DESCRIPT = {
     "Description: ^777777Gain as much zeny as a target's",
     "level multiplied by 100.",
     "Note: Exclusive skill that can be cast through",
-    "Hocus-pocus.^000000"
+    "Abracadabra.^000000"
   },
   [SKID.SA_TAMINGMONSTER] = {
     "Beastly Hypnosis",
@@ -2895,7 +2908,7 @@ SKILL_DESCRIPT = {
     "Target:^777777Enemy ^000000",
     "Description: ^777777Tame a tamable monster without the",
     "required item. Note: Exclusive skill that can be cast",
-    "through Hocus-pocus.^000000"
+    "through Abracadabra.^000000"
   },
   [SKID.SA_QUESTION] = {
     "Questioning",
@@ -2903,7 +2916,7 @@ SKILL_DESCRIPT = {
     "Target:^777777Enemy ^000000",
     "Description: ^777777Target shows a emotion [?].",
     "Note: Exclusive skill that can be cast through",
-    "Hocus-pocus.^000000"
+    "Abracadabra.^000000"
   },
   [SKID.SA_GRAVITY] = {
     "Gravity",
@@ -2911,28 +2924,28 @@ SKILL_DESCRIPT = {
     "Target:^777777Automatically casts on its user^000000",
     "Description: ^777777Gravity logo appears on the head of",
     "caster. Note: Exclusive skill that can be cast",
-    "through Hocus-pocus.^000000"
+    "through Abracadabra.^000000"
   },
   [SKID.SA_LEVELUP] = {
     "Leveling",
     "Skill Form: ^777777Active^000000",
     "Target:^777777Automatically casts on its user^000000",
     "Description: ^777777Automatically level up the caster.",
-    "Note: Exclusive skill that can be cast through Hocus-pocus.^000000"
+    "Note: Exclusive skill that can be cast through Abracadabra.^000000"
   },
   [SKID.SA_INSTANTDEATH] = {
     "Suicide",
     "Skill Form: ^777777Active^000000",
     "Target:^777777Automatically casts on its user^000000",
     "Description: ^777777Kills the caster. Caster will lose EXP points.",
-    "Note: Exclusive skill that can be cast through Hocus-pocus.^000000"
+    "Note: Exclusive skill that can be cast through Abracadabra.^000000"
   },
   [SKID.SA_FULLRECOVERY] = {
     "Rejuvenation",
     "Skill Form: Active^000000",
     "Target:^777777Automatically casts on its user^000000",
     "Description: ^777777Recover full HP and SP, and cure all abnormal status.",
-    "Note:^777777Exclusive skill that can be cast through Hocus-pocus.^000000"
+    "Note:^777777Exclusive skill that can be cast through Abracadabra.^000000"
   },
   [SKID.SA_COMA] = {
     "Coma",
@@ -2940,7 +2953,7 @@ SKILL_DESCRIPT = {
     "Target:^777777Automatically casts on its user^000000",
     "Description: ^777777Reduce the caster's HP and",
     "SP down to 1. Note: Exclusive skill that can be",
-    "cast through Hocus-pocus.^000000"
+    "cast through Abracadabra.^000000"
   },
   [SKID.BD_ADAPTATION] = {
     "Amp",
@@ -3373,7 +3386,7 @@ SKILL_DESCRIPT = {
     "Basilica",
     "Max Level: 5",
     "^777777Requirement: Gloria 2,",
-    "Improved SP Recovery 1, Kyrie Eleison 3^000000",
+    "Increase SP Recovery 1, Kyrie Eleison 3^000000",
     "Skill Form: ^777777Supportive^000000",
     "Description: ^777777Block all enemies and attacks from",
     "entering this skill's range. Ineffective against",
@@ -3392,7 +3405,7 @@ SKILL_DESCRIPT = {
   [SKID.HP_MEDITATIO] = {
     "Meditation",
     "Max Level: 10",
-    "^777777Requirement: Improved SP Recovery 5,",
+    "^777777Requirement: Increase SP Recovery 5,",
     "Lex Divina 5, Aspersio 3^000000",
     "Skill Form: ^000099Passive^000000",
     "Description: ^777777Increase SP Recovery Rate and",
@@ -3412,7 +3425,7 @@ SKILL_DESCRIPT = {
   [SKID.HW_SOULDRAIN] = {
     "Soul Drain",
     "Max Level: 10",
-    "^777777Requirement: Improved SP Recovery 5,",
+    "^777777Requirement: Increase SP Recovery 5,",
     "Soul Strike 7^000000",
     "Skill Form: ^000099Passive^000000",
     "Description: ^777777Increase Max SP and regain a",
@@ -3507,8 +3520,8 @@ SKILL_DESCRIPT = {
   [SKID.CH_PALMSTRIKE] = {
     "Raging Palm Strike",
     "Max Level: 5",
-    "^777777Requirement: Iron Fists 7,",
-    "Summon Spirit Sphere 5^000000",
+    "^777777Requirement: Iron Hand 7,",
+    "Call Spirits 5^000000",
     "Skill Form: ^777777Offensive^000000",
     "Description: ^777777Strike an enemy using the palms,",
     "pushing back the enemy and causing damage, which",
@@ -3524,7 +3537,7 @@ SKILL_DESCRIPT = {
   [SKID.CH_TIGERFIST] = {
     "Glacier Fist",
     "Max Level: 5",
-    "^777777Requirement: Iron Fists 5,",
+    "^777777Requirement: Iron Hand 5,",
     "Raging Trifecta Blow 5, Raging Thrust 3^000000",
     "Skill Form: ^777777Offensive^000000",
     "Description: ^777777A combo skill that can be cast",
@@ -3540,8 +3553,8 @@ SKILL_DESCRIPT = {
   [SKID.CH_CHAINCRUSH] = {
     "Chain Crush Combo",
     "Max Level: 10",
-    "^777777Requirement: Iron Fists 5,",
-    "Summon Spirit Sphere 5, Glacier Fist 2^000000",
+    "^777777Requirement: Iron Hand 5,",
+    "Call Spirits 5, Glacier Fist 2^000000",
     "Skill Form: ^777777Offensive^000000",
     "Description: ^777777A combo skill that can be cast",
     "after using Raging Thrust. Glacier Fist cannot",
@@ -3562,11 +3575,11 @@ SKILL_DESCRIPT = {
   [SKID.PF_HPCONVERSION] = {
     "Indulge",
     "Max Level: 5",
-    "^777777Requirement: Improved SP Recovery 1,",
+    "^777777Requirement: Increase SP Recovery 1,",
     "Magic Rod 1^000000",
     "Skill Form: ^777777Supportive^000000",
-    "Description: ^777777Consume an amount of HP equal to",
-    "10% of Max HP to restore an SP amount",
+    "Description: ^777777Consume an amount of HP equal",
+    "to 10% of Max HP to restore an SP amount",
     "determined by the skill's level.^000000",
     "[Lv 1]: ^777777SP +10%^000000",
     "[Lv 2]: ^777777SP +20%^000000",
@@ -3575,7 +3588,7 @@ SKILL_DESCRIPT = {
     "[Lv 5]: ^777777SP +50%^000000"
   },
   [SKID.PF_SOULCHANGE] = {
-    "Soul Exhale",
+    "Soul Change",
     "Max Level: 1",
     "^777777Requirement: Magic Rod 3, Spell Breaker 2^000000",
     "Skill Form: ^777777Supportive^000000",
@@ -3585,7 +3598,7 @@ SKILL_DESCRIPT = {
     "Max SP limit.^000000"
   },
   [SKID.PF_SOULBURN] = {
-    "Soul Siphon",
+    "Soul Burn",
     "Max Level: 5",
     "^777777Requirement: Cast Cancel 5,",
     "Magic Rod 3, Dispell 3^000000",
@@ -3595,7 +3608,7 @@ SKILL_DESCRIPT = {
     "skill will also inflict an amount of damage",
     "equal to double of the caster's remaining SP.",
     "However, if this skill fails, this damage will",
-    "be received by the caster. Soul Siphon is only",
+    "be received by the caster. Soul Burn is only",
     "enabled in WoE (Guild War) battles and PvP",
     "zones, and has a 15 second delay after each",
     "use.^000000",
@@ -3915,13 +3928,13 @@ SKILL_DESCRIPT = {
     "Skill Form: ^777777Supportive^000000",
     "Description: ^777777Summon 5 Spirit Spheres at one time.",
     "The cast time of this skill is double the time",
-    "of the Summon Spirit Sphere skill.^000000"
+    "of the Call Spirits skill.^000000"
   },
   [SKID.PF_MINDBREAKER] = {
     "Mind Breaker",
     "Max Level: 5",
-    "^777777Requirement: Improved SP Recovery 3,",
-    "Soul Siphon 2^000000",
+    "^777777Requirement: Increase SP Recovery 3,",
+    "Soul Burn 2^000000",
     "Skill Form: ^777777Supportive^000000",
     "Description: ^777777Induce mental turmoil in an enemy",
     "that will reduce its Magic Defense, but will",
@@ -3937,7 +3950,7 @@ SKILL_DESCRIPT = {
   [SKID.PF_MEMORIZE] = {
     "Memorize",
     "Max Level: 1",
-    "^777777Requirement: Study 5, Hindsight 1,",
+    "^777777Requirement: Advanced Book 5, Auto Spell 1,",
     "Free Cast 5^000000",
     "Skill Form: ^777777Supportive^000000",
     "Description: ^777777Reduce cast time for a skill by",
@@ -3949,16 +3962,16 @@ SKILL_DESCRIPT = {
   [SKID.PF_FOGWALL] = {
     "Wall of Fog",
     "Max Level: 1",
-    "^777777Requirement: Whirlwind 2, Deluge 2^000000",
+    "^777777Requirement: Violent Gale 2, Deluge 2^000000",
     "Skill Form: ^777777Supportive^000000",
     "Description: ^777777Create a wall of fog in a 5*3 cell",
     "area that will cause the Blind status on players",
     "and monsters. All long ranged attacks targeted",
     "at players within the skill's range will have",
     "a greater chance of missing and have reduced",
-    "damage. Negative effects only apply to monsters",
-    "in normal fields, but will also apply to players",
-    "in PvP zones."
+    "damage. Negative effects only apply to",
+    "monsters in normal fields, but will also apply",
+    "to players in PvP zones.^000000"
   },
   [SKID.PF_SPIDERWEB] = {
     "Spider Web",
@@ -3970,9 +3983,9 @@ SKILL_DESCRIPT = {
     "Rate by half for 8 seconds. Fire property",
     "attacks will cause 2.5 times more damage on",
     "Fiber Locked targets and cancel the Fiber",
-    "Locked status. A maximum of 2 Spider Webs can",
-    "be shot at once.",
-    "^00BB00Each cast requires 1 Cobweb^777777.^000000"
+    "Locked status. A maximum of 2 Spider Webs",
+    "can be shot at once.",
+    "Each cast requires 1 ^00BB00Cobweb^777777.^000000"
   },
   [SKID.ASC_METEORASSAULT] = {
     "Meteor Assault",
@@ -3983,7 +3996,7 @@ SKILL_DESCRIPT = {
     "Skill Form: ^777777Offensive^000000",
     "Description: ^777777Damage all enemies in a 5*5 cell",
     "area around the caster with the chance of",
-    "causing status such as ^702180Stun^777777, ^702180Blind^777777or ^702180Bleed^777777.^000000",
+    "causing status such as ^702180Stun^777777, ^702180Blind^777777 or ^702180Bleed^777777.^000000",
     "[Lv 1]: ^77777780% ATK^000000",
     "[Lv 2]: ^777777120% ATK^000000",
     "[Lv 3]: ^777777160% ATK^000000",
@@ -4628,7 +4641,7 @@ SKILL_DESCRIPT = {
     "Description: ^777777Summon the spirit of history's",
     "greatest Alchemist and temporarily endow its",
     "powers upon a targeted Alchemist, enhancing",
-    "that Alchemist's Aid Potion skill, which is",
+    "that Alchemist's Potion Pitcher skill, which is",
     "affected by Base Level, and enabling the use",
     "of the Berserk Pitcher and the Twilight",
     "Pharmacy skills.^000000",
@@ -4692,7 +4705,7 @@ SKILL_DESCRIPT = {
     "Description: ^777777Summon the spirit of history's",
     "greatest Sage and temporarily endow its",
     "abilities upon a targeted Sage, enhancing that",
-    "Sage's Hindsight skill so that it casts the",
+    "Sage's Auto Spell skill so that it casts the",
     "highest level Bolt skills.^000000",
     "SP Consumption & Duration by Level",
     "[Lv 1]: ^777777460 SP, 150 sec^000000",
@@ -5201,9 +5214,9 @@ SKILL_DESCRIPT = {
   [SKID.CR_SLIMPITCHER] = {
     "Slim Potion Pitcher",
     "Max Level: 10",
-    "^777777Requirement: Aid Potion 5^000000",
+    "^777777Requirement: Potion Pitcher 5^000000",
     "Skill Form: ^777777Supportive^000000",
-    "Description: ^777777Consume one Condensed Potion to",
+    "Description: ^777777Consume 1 Condensed Potion to",
     "heal all Party Members within a 7*7 cell area",
     "around the targeted spot.^000000",
     "[Lv 1]: ^777777110% efficiency, Require Red Potion^000000",
@@ -5225,7 +5238,7 @@ SKILL_DESCRIPT = {
     "Skill Form: ^777777Supportive^000000",
     "Description: ^777777Protect the targeted character with",
     "all four kinds of chemical protection.",
-    "^00BB00Each cast requires 1 Glistening Coat^777777.^000000",
+    "Each cast requires 1 ^00BB00Glistening Coat^777777.^000000",
     "[Lv 1]: ^777777120 Sec Duration^000000",
     "[Lv 2]: ^777777240 Sec Duration^000000",
     "[Lv 3]: ^777777360 Sec Duration^000000",
@@ -5264,18 +5277,17 @@ SKILL_DESCRIPT = {
     "[Lv 5]: ^777777-20% SP cost^000000"
   },
   [SKID.PF_DOUBLECASTING] = {
-    "Double Cast",
+    "Double Casting",
     "Max Level: 5",
-    "^777777Requirement: Hindsignts 1^000000",
-    "Description: ^777777Enable the chance of repeating any",
-    "Bolt skill that is cast for this skill's",
-    "90 second duration.^000000",
-    "Chance of Double Casting Bolt Skill By Level",
-    "[Lv 1]: ^77777740%^000000",
-    "[Lv 2]: ^77777750%^000000",
-    "[Lv 3]: ^77777760%^000000",
-    "[Lv 4]: ^77777770%^000000",
-    "[Lv 5]: ^77777780%^000000"
+    "^777777Requirement: Auto Spell 1^000000",
+    "Description: ^777777Enable the chance of repeating ",
+    "any Bolt skill that is cast for this",
+    "skill's duration.^000000",
+    "[Lv 1]: ^77777740% chance^000000",
+    "[Lv 2]: ^77777750% chance^000000",
+    "[Lv 3]: ^77777760% chance^000000",
+    "[Lv 4]: ^77777770% chance^000000",
+    "[Lv 5]: ^77777780% chance^000000"
   },
   [SKID.HW_GANBANTEIN] = {
     "Ganbantein",
@@ -5285,7 +5297,7 @@ SKILL_DESCRIPT = {
     "Description: ^777777Enable the chance of canceling any",
     "ground targeting magic spell cast on a 3*3 cell",
     "area around the targeted spot. This skill will",
-    "cancel Magnetic Earth on areas that have been",
+    "cancel Land Protector on areas that have been",
     "enchanted by that skill. This skill is",
     "unaffected by items or skills that remove",
     "Gemstone requirements. ^00BB00Each cast requires",
@@ -5421,7 +5433,7 @@ SKILL_DESCRIPT = {
   [SKID.CR_ACIDDEMONSTRATION] = {
     "Acid Demonstration",
     "Max Level: 10",
-    "^777777Requirement: Bomb 5, Acid Terror 5^000000",
+    "^777777Requirement: Demonstration 5, Acid Terror 5^000000",
     "Description: ^777777Attack an enemy by throwing both",
     "a Bottle Grenade and an Acid Bottle, inflicting",
     "an amount of damage that is affected by the",
@@ -5429,8 +5441,8 @@ SKILL_DESCRIPT = {
     "VIT. This skill only inflicts 50% of its damage",
     "on other players, but it has the chance of",
     "damaging that player's weapon or armor.",
-    "^00BB00Each cast requires 1 Bottle Grenade and",
-    "1 Acid Bottle.^000000",
+    "Each cast requires 1 ^00BB00Bottle Grenade^777777 and",
+    "1 ^00BB00Acid Bottle^777777.^000000",
     "[Lv 1]: ^7777771 hit, 1% chance destroying^000000",
     "[Lv 2]: ^7777772 hits, 2% chance destroying^000000",
     "[Lv 3]: ^7777773 hits, 3% chance destroying^000000",
@@ -5512,20 +5524,20 @@ SKILL_DESCRIPT = {
   },
   [SKID.AM_TWILIGHT1] = {
     "Twilight Pharmacy",
-    "^777777Requirement: Prepare Potion 10,",
+    "^777777Requirement: Pharmacy 10,",
     "Spirit State^000000",
     "Skill Form: ^777777Supportive^000000",
     "Description: ^777777Consume 200 SP in order to make",
     "200 attempts to create a White Potion every",
     "0.005 seconds. This skill has the same success",
-    "rate as the Prepare Potion skill and has a",
+    "rate as the Pharmacy skill and has a",
     "3 second cast time that is unaffected by DEX.",
     "^00BB00Each cast requires enough materials to craft",
     "200 White Potions.^000000"
   },
   [SKID.AM_TWILIGHT2] = {
     "Twilight Pharmacy",
-    "^777777Requirement: Prepare Potion 10,",
+    "^777777Requirement: Pharmacy 10,",
     "Spirit State^000000",
     "Skill Form: ^777777Supportive^000000",
     "Description: ^777777This skill is only enabled through",
@@ -5540,7 +5552,7 @@ SKILL_DESCRIPT = {
   },
   [SKID.AM_TWILIGHT3] = {
     "Twilight Pharmacy",
-    "^777777Requirement: Prepare Potion 10,",
+    "^777777Requirement: Pharmacy 10,",
     "Spirit State^000000",
     "Skill Form: ^777777Supportive^000000",
     "Description: ^777777This skill is only enabled through",
@@ -6495,7 +6507,7 @@ SKILL_DESCRIPT = {
     "and a Happy New Year!"
   },
   [SKID.ALL_BUYING_STORE] = {
-    "Open Buying Store",
+    "Buying Store",
     "Skill Form: Supportive",
     "Description: ^777777Open a simple store from which",
     "you can buy various items from others.",
@@ -6528,15 +6540,16 @@ SKILL_DESCRIPT = {
     "^777777Requirement: Finish Quest^000000",
     "Skill Form: ^777777Supportive^000000",
     "Description: ^777777Shrink must be used together with",
-    "the Guard skill in order to have any effect.",
-    "When a monster attacks and triggers the Guard",
-    "effect, this skill adds a chance of pushing",
-    "that monster 2 cells backward. The push back",
-    "success rate is 5% for Lv 1 Guard, and increases",
-    "by 5% for each successive Guard Skill Level. At",
-    "Lv 10 Guard, the push back success rate is 50%.",
-    "Shrink has a 5 minute duration, and is cancelled",
-    "if it is double cast."
+    "the Auto Guard skill in order to have any",
+    "effect. When a monster attacks and triggers",
+    "the Guard effect, this skill adds a chance",
+    "of pushing that monster 2 cells backward.",
+    "The push back success rate is 5% for Level",
+    "1 Auto Guard, and increases by 5% for each",
+    "successive Auto Guard Skill Level. At Level",
+    "10 Auto Guard, the push back success rate is",
+    "50%. Shrink has a 5 minute duration, and is",
+    "cancelled if it is double cast.^000000"
   },
   [SKID.AS_SONICACCEL] = {
     "Sonic Acceleration",
@@ -6584,16 +6597,16 @@ SKILL_DESCRIPT = {
     "Create Elemental Converter",
     "^777777Requirement: Finish Quest^000000",
     "Skill Form: ^777777Supportive^000000",
-    "Description: ^777777Consume certain items to create an",
-    "Elemental Converter that will temporarily endow",
-    "the user's attacks with an elemental property.",
-    "There are 4 different kinds of Elemental",
-    "Converters.",
-    "Item Requirements",
-    "Fire Converter: ^7777773 Scorpion Tails, 1 Blank Scroll^000000",
-    "Earth Converter: ^7777773 Horns, 1 Blank Scroll^000000",
-    "Wind Converter: ^7777773 Rainbow Shells, 1 Blank Scroll^000000",
-    "Water Converter: ^7777773 Snail Shells, 1 Blank Scroll^000000"
+    "Description: ^777777Consume certain items to create",
+    "an Elemental Converter that will temporarily",
+    "endow the user's attacks with an elemental",
+    "property. There are 4 different kinds of",
+    "Elemental Converters.",
+    "Item Requirement :",
+    "^FF0000Fire^777777 Converter: ^7777773 Scorpion Tails, 1 Blank Scroll^000000",
+    "^cc5500Earth^777777 Converter: ^7777773 Horns, 1 Blank Scroll^000000",
+    "^4cbb17Wind^777777 Converter: ^7777773 Rainbow Shells, 1 Blank Scroll^000000",
+    "^6996ADWater^777777 Converter: ^7777773 Snail Shells, 1 Blank Scroll^000000"
   },
   [SKID.SA_ELEMENTWATER] = {
     "Elemental Change (^6996ADWater^000000)",
@@ -7864,7 +7877,7 @@ SKILL_DESCRIPT = {
   [SKID.RA_DETONATOR] = {
     "Detonator",
     "Max Level: 1 ",
-    "^777777Requirement: Bomb Cluster 3 ^000000",
+    "^777777Requirement: Cluster Bomb 3 ^000000",
     "Skill Form: ^777777Active / Special ^000000",
     "Description: ^777777Immediately activates traps on the ground. Skills range is 7x7 cells around the targeted area. It can also activate Hunter's traps. This skill will not detonate traps of another player.",
     "Can activate the following traps: Cluster Bomb, Blast Mine, Claymore Trap, Sandman, Talkie Box, Fire Trap, and Ice Trap.^000000"
@@ -7882,11 +7895,11 @@ SKILL_DESCRIPT = {
     "[Lv 5]: ^777777Consuming SP by a sec. 25% / Duration 28 sec.^000000"
   },
   [SKID.RA_CLUSTERBOMB] = {
-    "Bomb Cluster",
+    "Cluster Bomb",
     "Max Level: 5",
     "^777777Requirement: Trap Research 3 ^000000",
     "Skill Form: ^777777Active / Trap ^000000",
-    "Description: ^777777Maximum 3 traps are allowed to be set at once and damage range is 3 cells wide and 5 cells deep. Can be combined with Detonator Skill. Bomb Cluster cannot be removed by [Remove Trap] from Hunter. Requires 1 Special Alloy Trap.^000000",
+    "Description: ^777777Maximum 3 traps are allowed to be set at once and damage range is 3 cells wide and 5 cells deep. Can be combined with Detonator Skill. Cluster Bomb cannot be removed by [Remove Trap] from Hunter. Requires 1 Special Alloy Trap.^000000",
     "[Lv 1]: ^777777Damage 300% + Additional Trap Damage / Duration 15 sec.^000000",
     "[Lv 2]: ^777777Damage 400% + Additional Trap Damage / Duration 15 sec.^000000",
     "[Lv 3]: ^777777Damage 500% + Additional Trap Damage / Duration 15 sec.^000000",
@@ -8109,7 +8122,7 @@ SKILL_DESCRIPT = {
     "[Lv 3]: ^777777Fire Property Damage 1200% / Chance to curse [Ignition] status 50%^000000"
   },
   [SKID.NC_COLDSLOWER] = {
-    "Ice Launcher",
+    "Cold Slower",
     "Max Level: 3",
     "^777777Requirement: Vulcan Arm 3 ^000000",
     "Skill Form: ^777777Active / Damage ^000000",
@@ -8121,7 +8134,7 @@ SKILL_DESCRIPT = {
   [SKID.NC_ARMSCANNON] = {
     "Arm Cannon",
     "Max Level: 3",
-    "^777777Requirement: Flame Launcher 2 / Ice Launcher 2  ^000000",
+    "^777777Requirement: Flame Launcher 2 / Cold Slower 2  ^000000",
     "Skill Form: ^777777Active / Damage ^000000",
     "Description: ^777777Launch the cannon equipped on the Madogear to give great damage to the target. Damage decreases as target's size gets bigger. Damage property is changeable depending on equipped cannon ball. 1 Magic Gear Fuel and 1 cannon ball are required.^000000",
     "[Lv 1]: ^777777Attack Power 700% / 650% / 600% / Range 9 Cells / effective range of 7x7 cells^000000",
@@ -8267,9 +8280,9 @@ SKILL_DESCRIPT = {
     "[Lv 5]: ^777777Cast Range 9 Cell / MaxHP 23% recovery ^000000"
   },
   [SKID.NC_TRAININGAXE] = {
-    "Axe Mastery ",
+    "Axe Training",
     "Max Level: 10",
-    "^777777Requirement: Mechanic Basic  ^000000",
+    "^777777Requirement: Mechanic Basic^000000",
     "Skill Form: ^777777Passive ^000000",
     "Description: ^777777Increase ATK and Accuracy rate when caster equips an axe (passive), Maces also receive a small percentage of this skill.^000000",
     "[Lv 1]: ^777777ATK +5 / Accuracy Rate +3  ^000000",
@@ -8298,7 +8311,7 @@ SKILL_DESCRIPT = {
   [SKID.NC_AXEBOOMERANG] = {
     "Axe Boomerang",
     "Max Level: 5",
-    "^777777Requirement: Axe Mastery 1  ^000000",
+    "^777777Requirement: Axe Training 1^000000",
     "Skill Form: ^777777Active / Damage ^000000",
     "Description: ^777777Axe exclusive skill (One-handed and Two-handed) Throws axe like a boomerang at a target, causing damage and knocking it back. The weight of the axe increases damage done by the skill.^000000",
     "[Lv 1]: ^777777Damage 300% + Axe Weight / Skill Range 5 cells^000000",
@@ -8320,9 +8333,9 @@ SKILL_DESCRIPT = {
     "[Lv 5]: ^777777ATK 800%^000000"
   },
   [SKID.NC_AXETORNADO] = {
-    "Axe Tornado ",
+    "Axe Tornado",
     "Max Level: 5",
-    "^777777Requirement: Axe Mastery 1  ^000000",
+    "^777777Requirement: Axe Training 1^000000",
     "Skill Form: ^777777Active / Damage ^000000",
     "Description: ^777777Axe exclusive Skill (One-handed, Two-handed) Causes a tornado to form by spinning with an axe at a high speed, causing damage to all targets in range.^000000",
     "[Lv 1]: ^7777775x5 AoE / 18 SP / 20 HP^000000",
@@ -8334,7 +8347,7 @@ SKILL_DESCRIPT = {
   [SKID.NC_SILVERSNIPER] = {
     "FAW Silver Sniper",
     "Max Level: 5",
-    "^777777Requirement: Fire Earth Research 2  ^000000",
+    "^777777Requirement: Fire Earth Research 2^000000",
     "Skill Form: ^777777Active / FAW Set ^000000",
     "Description: ^777777Set FAW (Fixed Automatic Weapon) on the ground that executes long distance attacks. Maximum of 2 FAWs can be set. Consumes 2 Steel and 1 Iron. Requires an Oridecon Hammer and Mini Furnace. ^000000",
     "[Lv 1]: ^777777ATK +0  / Duration 20sec. ^000000",
@@ -8346,7 +8359,7 @@ SKILL_DESCRIPT = {
   [SKID.NC_MAGICDECOY] = {
     "FAW Magic Decoy",
     "Max Level: 5",
-    "^777777Requirement: FAW Silver Sniper  2  ^000000",
+    "^777777Requirement: FAW Silver Sniper 2^000000",
     "Skill Form: ^777777Active / FAW Set ^000000",
     "Description: ^777777Set FAW (Fixed Automatic Weapon) on the ground that executes magic attacks. Maximum of 2 FAWs can be set. Consumes 2 Iron, 1 Brigan and 1 item among Red Blood, Green Live, Wind of Verdure or Crystal Blue. Requires an Oridecon Hammer and Portable Furnace.^000000",
     "[Lv 1]: ^777777MATK 300  / Duration 20sec. ^000000",
@@ -8356,7 +8369,7 @@ SKILL_DESCRIPT = {
     "[Lv 5]: ^777777MATK 500  / Duration 60sec. ^000000"
   },
   [SKID.NC_DISJOINT] = {
-    "Divest FAW ",
+    "Divest FAW",
     "Max Level: 1",
     "^777777Requirement: FAW Silver Sniper 1  ^000000",
     "Skill Form: ^777777Active / Divest FAW ^000000",
@@ -8412,8 +8425,8 @@ SKILL_DESCRIPT = {
   [SKID.SC_SHADOWFORM] = {
     "Shadow Form",
     "Max Level: 5",
-    "^777777Requirement: Tunnel Drive 3 ^000000",
-    "Skill Form: ^777777Active / Debuff ^000000",
+    "^777777Requirement: Tunnel Drive 3^000000",
+    "Skill Form: ^777777Active / Debuff^000000",
     "Description: ^777777Hide yourself behind another player's shadow and make the front player receive damage instead of you. The skill is canceled if the front player has been attacked a certain amount of times or the distance between you and the front player gets farther. Skills and Items can't be used while in this state. ^000000",
     "[Lv 1]: ^777777Number of damage - 5 times / Consume 10 SP per sec. 10 / Duration 30 sec. ^000000",
     "[Lv 2]: ^777777Number of damage - 6 times / Consume 9 SP per sec. / Duration 40 sec. ^000000",
@@ -8424,7 +8437,7 @@ SKILL_DESCRIPT = {
   [SKID.SC_TRIANGLESHOT] = {
     "Triangle Shot",
     "Max Level: 10",
-    "^777777Requirement: Double Strafe 7 ^000000",
+    "^777777Requirement: Double Strafe 7^000000",
     "Skill Form: ^777777Active / Damage ^000000",
     "Description: ^777777Attack the enemy by throwing 3 arrows at once. Increase damage as caster's AGI gets higher. Consume 3 arrows to activate the skill. The damaged enemy gets knock back by a low chance.^000000",
     "[Lv 1]: ^777777Skill Range 7 cells / 2% chance to give knock back ^000000",
@@ -8453,7 +8466,7 @@ SKILL_DESCRIPT = {
   [SKID.SC_INVISIBILITY] = {
     "Invisibility",
     "Max Level: 5",
-    "^777777Requirement: Shadow Spell 7 / Deadly Infection 5 / Masquerade Unlucky 3 ^000000",
+    "^777777Requirement: Auto Shadow Spell 7 / Deadly Infection 5 / Masquerade Unlucky 3 ^000000",
     "Skill Form: ^777777Active / Buff ^000000",
     "Description: ^777777Make yourself invisible. You can attack enemies during invisible state but the property of attack becomes Ghost Property level 1. It keeps consuming caster's SP and also other skill or items can not be used while the skill is casted. Skill is canceled if SP becomes 0.",
     "Ignore some of detect skills. ^000000",
@@ -8467,7 +8480,7 @@ SKILL_DESCRIPT = {
   [SKID.SC_DEADLYINFECT] = {
     "Deadly Infection",
     "Max Level: 5",
-    "^777777Requirement: Shadow Formation 3 / Shadow Spell 5 ^000000",
+    "^777777Requirement: Shadow Formation 3 / Auto Shadow Spell 5 ^000000",
     "Skill Form: ^777777Active / Buff ^000000",
     "Description: ^777777Transfer abnormal status that caster holds at the moment to the target or attacking enemies. Even if the caster transferred its curse to others, the curse on caster is maintained. ^000000",
     "[Lv 1]: ^777777Skill Duration 10 sec. / 40% chance of",
@@ -8492,7 +8505,7 @@ SKILL_DESCRIPT = {
     "[Lv 3]: ^777777ATK 50% Decrease / Duration 20 sec. ^000000"
   },
   [SKID.SC_GROOMY] = {
-    "Masquerade Gloomy",
+    "Masquerade Groomy",
     "Max Level: 3",
     "^777777Requirement: Body Painting 1 ^000000",
     "Skill Form: ^777777Active / Debuff ^000000",
@@ -8514,7 +8527,7 @@ SKILL_DESCRIPT = {
   [SKID.SC_LAZINESS] = {
     "Masquerade Laziness",
     "Max Level: 3",
-    "^777777Requirement: Masquerade Enervation 1 / Gloomy 1 / Ignorance 1 ^000000",
+    "^777777Requirement: Masquerade Enervation 1 / Groomy 1 / Ignorance 1 ^000000",
     "Skill Form: ^777777Active / Debuff ^000000",
     "Description: ^777777Decrease target's movement, casting speed and also flee rate. The target has to consume additional SP [Laziness skill level x 10] to use any skills while target is affected by Laziness. Must have a Makeover Brush and consume 1 Face Paint. The chance of success depends on the caster and target's level and stats.^000000",
     "[Lv 1]: ^777777Flee Rate 10% Decrease /  Casting Speed 20% Decrease / Duration 10 sec.^000000",
@@ -8534,7 +8547,7 @@ SKILL_DESCRIPT = {
   [SKID.SC_WEAKNESS] = {
     "Masquerade Weakness",
     "Max Level: 3",
-    "^777777Requirement: Masquerade Enervation 1 / Gloomy 1 / Ignorance 1^000000",
+    "^777777Requirement: Masquerade Enervation 1 / Groomy 1 / Ignorance 1^000000",
     "Skill Form: ^777777Active / Debuff ^000000",
     "Description: ^777777Decrease maximum HP and strip weapon and shield from target's body temporary. Target can not equip weapon or shield during casting duration. Required to have Makeover Brush and consume 1 Face Paint. The chance of success is changeable depending on caster and target's level and stats. ^000000",
     "[Lv 1]: ^777777MHP 10% Decrease / Duration 10 sec.^000000",
@@ -8547,11 +8560,11 @@ SKILL_DESCRIPT = {
     "^777777Requirement: Strip Weapon 1^000000",
     "Skill Form: ^777777Active / Debuff ^000000",
     "Description: ^777777Strip 2 accessories from target's body. The target is disabled to re-equip those released accessories during skill duration. To monsters, it decreases 20% of INT, DEX and LUK for a while. ^000000",
-    "[Lv 1]: ^777777Chance of Success 14% / Duration 60 sec. ^000000",
-    "[Lv 2]: ^777777Chance of Success 16% / Duration 60 sec.  ^000000",
-    "[Lv 3]: ^777777Chance of Success 18% / Duration 60 sec.  ^000000",
-    "[Lv 4]: ^777777Chance of Success 20% / Duration 60 sec.  ^000000",
-    "[Lv 5]: ^777777Chance of Success 22% / Duration 60 sec.  ^000000"
+    "[Lv 1]: ^777777Chance of Success 14%^000000",
+    "[Lv 2]: ^777777Chance of Success 16%^000000",
+    "[Lv 3]: ^777777Chance of Success 18%^000000",
+    "[Lv 4]: ^777777Chance of Success 20%^000000",
+    "[Lv 5]: ^777777Chance of Success 22%^000000"
   },
   [SKID.SC_MANHOLE] = {
     "Manhole",
@@ -8626,7 +8639,7 @@ SKILL_DESCRIPT = {
     "[Lv 5]: ^777777ATK 250%  ^000000"
   },
   [SKID.LG_BANISHINGPOINT] = {
-    "Vanishing Point",
+    "Banishing Point",
     "Max Level: 10",
     "^777777Requirement: Spear Mastery 1 ^000000",
     "Skill Form: ^777777Active / Damage ^000000",
@@ -8679,7 +8692,7 @@ SKILL_DESCRIPT = {
   [SKID.LG_PINPOINTATTACK] = {
     "Pinpoint Attack",
     "Max Level: 5",
-    "^777777Requirement: Vanishing Point 5 ^000000",
+    "^777777Requirement: Banishing Point 5 ^000000",
     "Skill Form: ^777777Active / Damage ^000000",
     "Description: ^777777Quickly move close to the target and hit its vital point. Has a chance to cause different status change or other effect depending on the skill level used. The caster's Agility can increase the damage. Deals 100% critical damage.^000000",
     "[Lv 1]: ^777777Atk 100% / cause bleeding^000000",
@@ -8710,7 +8723,7 @@ SKILL_DESCRIPT = {
   [SKID.LG_SHIELDSPELL] = {
     "Shield Spell",
     "Max Level: 3",
-    "^777777Requirement: Shield Press 3 / Earth Drive 2  ^000000",
+    "^777777Requirement: Shield Press 3 / Earth Drive 2^000000",
     "Skill Form: ^777777Active / Special ^000000",
     "Description: ^777777Summons magical abilities based on your shield defense, shield magic defense, or shield refine rate depending on the skill level used. An equipped shield is required to cast this skill.^000000",
     "[Lv 1]: ^777777Activate magic based on shield defense ^000000",
@@ -8720,7 +8733,7 @@ SKILL_DESCRIPT = {
   [SKID.LG_EXEEDBREAK] = {
     "Exceed Break",
     "Max Level: 5",
-    "^777777Requirement: Vanishing Point 3  ^000000",
+    "^777777Requirement: Banishing Point 3^000000",
     "Skill Form: ^777777Active / Buff (To yourself) ^000000",
     "Description: ^777777Gather your strength to cause greater damage on your next attack. A short range physical attack on your body will cancel the skill. Your skill damage is not affected by this skill. Movement speed reduces while this skill is active.^000000",
     "[Lv 1]: ^777777Attack Power 100%^000000",
@@ -8732,7 +8745,7 @@ SKILL_DESCRIPT = {
   [SKID.LG_OVERBRAND] = {
     "Overbrand",
     "Max Level: 5",
-    "^777777Requirement: Moonslasher 3 / Pinpoint Attack 1  ^000000",
+    "^777777Requirement: Moon Slasher 3 / Pinpoint Attack 1  ^000000",
     "Skill Form: ^777777Active / Damage ^000000",
     "Description: ^777777Draws a cross on the ground to cause damage at a range of up to 6x6. Enemies that receive damage are knocked back. If targets are pushed into a wall or obstacles, they receive additional damage.^000000",
     "[Lv 1]: ^777777Piercing Atk 400% / Smashing Atk 300%  ^000000",
@@ -8756,16 +8769,16 @@ SKILL_DESCRIPT = {
   [SKID.LG_BANDING] = {
     "Banding",
     "Max Level: 5",
-    "^777777Requirement: Pinpoint Attack 3 / Burst Attack 1  ^000000",
+    "^777777Requirement: Pinpoint Attack 3 / Burst Attack 1^000000",
     "Skill Form: ^777777Active / Buff (To yourself) ^000000",
     "Description: ^777777When Royal Guards in your party have Banding activated, if you are within range with other Royal Guards, your attack and defense increases while sharing HP with them. The number of party members increases the effectiveness of the skill.",
     "Consumes SP at regular interval to keep the skill active. To deactivate the skill, use the skill again.^000000"
   },
   [SKID.LG_MOONSLASHER] = {
-    "Moonslasher",
+    "Moon Slasher",
     "Max Level: 5",
-    "^777777Requirement: Spear Mastery 1  ^000000",
-    "Skill Form: ^777777Active / Damage ^000000",
+    "^777777Requirement: Spear Mastery 1^000000",
+    "Skill Form: ^777777Active / Damage^000000",
     "Description: ^777777Deals damage to all targets in a 3 cell radius around the caster. Forcing all targets hit by it to sit. For monsters, they are unable to move for a short period. Damage is influenced by Overbrand skill level.^000000",
     "[Lv 1]: ^777777Atk 120% / Chance of success 40%  ^000000",
     "[Lv 2]: ^777777Atk 240% / Chance of success 48% ^000000",
@@ -8852,7 +8865,7 @@ SKILL_DESCRIPT = {
     "[Lv 10]: ^777777Atk 500% / Stun Chance 11% ^000000"
   },
   [SKID.SR_SKYNETBLOW] = {
-    "Sky Blow",
+    "Sky Net Blow",
     "Max Level: 5",
     "^777777Requirement: Dragon Combo 3^000000",
     "Skill Form: ^777777Active / Damage ^000000",
@@ -8914,7 +8927,7 @@ SKILL_DESCRIPT = {
   [SKID.SR_CRESCENTELBOW] = {
     "Crescent Elbow",
     "Max Level: 5",
-    "^777777Requirement: Sky Blow 1  ^000000",
+    "^777777Requirement: Sky Net Blow 1  ^000000",
     "Skill Form: ^777777Active / Offensive ^000000",
     "Description: ^777777Has a chance to counter an attack, deals damage and knocks back the enemy while taking part of the damage yourself. The higher the HP of the target, the more damage it deals. Consumes 2 spirit spheres. Does not work on MVP type monsters.^000000",
     "[Lv 1]: ^77777755% chance of proc / 3 second duration^000000",
@@ -8993,12 +9006,12 @@ SKILL_DESCRIPT = {
   [SKID.SR_POWERVELOCITY] = {
     "Power Implantation",
     "Max Level: 1",
-    "^777777Requirement: Summon Spirit Sphere 5^000000",
+    "^777777Requirement: Call Spirits 5^000000",
     "Skill Form: ^777777Active / Special ^000000",
     "Description: ^777777Transfers all of your Spirit Spheres to the selected target.^000000"
   },
   [SKID.SR_GATEOFHELL] = {
-    "Gates of Hell",
+    "Gate of Hell",
     "Max Level: 10",
     "^777777Requirement: Rising Dragon 5 / Tiger Cannon 5 ^000000",
     "Skill Form: ^777777Active / Damage ^000000",
@@ -9028,7 +9041,7 @@ SKILL_DESCRIPT = {
     "Max Level: 5",
     "^777777Requirement: Gentle Touch-Silence 3 ^000000",
     "Skill Form: ^777777Active / Buff (To yourself) ^000000",
-    "Description: ^777777Use the knowledge of pressure point techniques, to improve your fighting spirit which allows you to the chance to gain spirit spheres when you deal or receive physical damage. This skill cannot be used in combination with Gentle Touch-Convert or Gentle Touch-Revitalize.^000000",
+    "Description: ^777777Use the knowledge of pressure point techniques, to improve your fighting spirit which allows you to the chance to gain spirit spheres when you deal or receive physical damage. This skill cannot be used in combination with Gentle Touch-Change or Gentle Touch-Revitalize.^000000",
     "[Lv 1]: ^777777HP 1% Consumption / Chance to gain Spirit Sphere 15% ^000000",
     "[Lv 2]: ^777777HP 2% Consumption / Chance to gain Spirit Sphere 20% ^000000",
     "[Lv 3]: ^777777HP 3% Consumption / Chance to gain Spirit Sphere 25% ^000000",
@@ -9036,7 +9049,7 @@ SKILL_DESCRIPT = {
     "[Lv 5]: ^777777HP 5% Consumption / Chance to gain Spirit Sphere 35% ^000000"
   },
   [SKID.SR_GENTLETOUCH_CHANGE] = {
-    "Gentle Touch-Convert",
+    "Gentle Touch - Change",
     "Max Level: 5",
     "^777777Requirement: Gentle Touch-Cure 4 ^000000",
     "Skill Form: ^777777Active /  Buff ^000000",
@@ -9052,7 +9065,7 @@ SKILL_DESCRIPT = {
     "Max Level: 5",
     "^777777Requirement: Gentle Touch-Change 5 ^000000",
     "Skill Form: ^777777Active / Buff ^000000",
-    "Description: ^777777Using the knowledge of pressure point techniques, your movement speed, attack speed, Vit, Max HP and physical defense increases while improving your natural and skill HP recovery. This skill cannot be used in combination with Gentle Touch-Energy Gain or Gentle Touch-Convert. Consumes 2 Spirit Spheres.^000000",
+    "Description: ^777777Using the knowledge of pressure point techniques, your movement speed, attack speed, Vit, Max HP and physical defense increases while improving your natural and skill HP recovery. This skill cannot be used in combination with Gentle Touch-Energy Gain or Gentle Touch-Change. Consumes 2 Spirit Spheres.^000000",
     "[Lv 1]: ^777777MaxHP increases by 2% / HP Recovery Speed increases by 80%^000000",
     "[Lv 2]: ^777777MaxHP increases by 4% / HP Recovery Speed increases by 110%^000000",
     "[Lv 3]: ^777777MaxHP increases by 6% / HP Recovery Speed increases by 140%^000000",
@@ -9072,7 +9085,7 @@ SKILL_DESCRIPT = {
     "[Lv 5]: ^777777Skill Range 23 x 23 Cells ^000000"
   },
   [SKID.WA_SYMPHONY_OF_LOVER] = {
-    "Lover Symphony",
+    "Symphony of Lover",
     "Max Level: 5",
     "^777777Requirement: Deep Sleep Lullaby 1 ^000000",
     "Skill Form: ^777777Active / Buff ^000000",
@@ -9390,7 +9403,7 @@ SKILL_DESCRIPT = {
     "Song Of Mana",
     "Max Level: 5",
     "^777777Requirement: Harmonize / Swing Dance,",
-    "Windmill Rush / Lover Symphony & Echo Song /",
+    "Windmill Rush / Symphony of Lover & Echo Song /",
     "Moonlight Serenade 1^000000",
     "Skill Form: ^777777Active / Buff / Chorus ^000000",
     "Description: ^777777The caster and at least one other",
@@ -9410,7 +9423,7 @@ SKILL_DESCRIPT = {
     "Dances with Wargs",
     "Max Level: 5",
     "^777777Requirement: Harmonize / Swing Dance,",
-    "Windmill Rush / Lover Symphony & Echo Song /",
+    "Windmill Rush / Symphony of Lover & Echo Song /",
     "Moonlight Serenade 1  ^000000",
     "Skill Form: ^777777Active / Buff / Chorus ^000000",
     "Description: ^777777The caster and at least one other",
@@ -9480,7 +9493,7 @@ SKILL_DESCRIPT = {
     "Lerad's Dew",
     "Max Level: 5",
     "^777777Requirement: Swing Dance/Harmonize,",
-    "Lover Symphony/Windmill Rush,",
+    "Symphony of Lover/Windmill Rush,",
     "Moonlight Serenade/Echo Song 1  ^000000",
     "Skill Form: ^777777Active / Buff / Chorus ^000000",
     "Description: ^777777When sung by the caster at least",
@@ -9569,8 +9582,8 @@ SKILL_DESCRIPT = {
   [SKID.SO_ELECTRICWALK] = {
     "Electric Walk",
     "Max Level: 5",
-    "^777777Requirement: Whirlwind 1,",
-    "Endow Quake 1^000000",
+    "^777777Requirement: Violent Gale 1,",
+    "Seismic Weapon 1^000000",
     "Skill Form: ^777777Active / Special / Damage ^000000",
     "Description: ^777777Summons thunder under your feet, dealing Wind element damage to enemies that walk on it.^000000",
     "[Lv 1]: ^77777730 SP / Max area 8 cells^000000",
@@ -9582,7 +9595,7 @@ SKILL_DESCRIPT = {
   [SKID.SO_SPELLFIST] = {
     "Spell Fist",
     "Max Level: 5",
-    "^777777Requirement: Hindsight 4 ^000000",
+    "^777777Requirement: Auto Spell 4 ^000000",
     "Skill Form: ^777777Active / Special / Damage ^000000",
     "Description: ^777777If the caster uses this skill while casting Fire Bolt or Cold Bolt or Lightening Bolt, the Bolt casting is cancelled but all the bolt's power is concentrated in the caster's hands. While in this state, physical attacks will deal magic damage of the bolt. The amount of damage depends on the skill level. The skill is cancelled when the duration expires or when the max number of hits is reached.^000000",
     "[Lv 1]: ^777777Duration 20 sec. / 2 times the max impact^000000",
@@ -9618,8 +9631,8 @@ SKILL_DESCRIPT = {
   [SKID.SO_POISON_BUSTER] = {
     "Poison Burst",
     "Max Level: 5",
-    "^777777Requirement: Killing Cloud 2  ^000000",
-    "Skill Form: ^777777Active / Damage  ^000000",
+    "^777777Requirement: Killing Cloud 2^000000",
+    "Skill Form: ^777777Active / Damage^000000",
     "Description: ^777777Manipulates the poison in a target, causing it to explode and deal Poison Element damage. This skill may not be used on Poison Element monsters or targets that are not poisoned. After a successful cast, Poison status is removed from the target.^000000",
     "[Lv 1]: ^77777770 SP^000000",
     "[Lv 2]: ^77777790 SP^000000",
@@ -9654,19 +9667,21 @@ SKILL_DESCRIPT = {
   [SKID.SO_STRIKING] = {
     "Striking",
     "Max Level: 5",
-    "^777777Requirement: Endow Blaze 1, Endow Tsunami 1, Endow Tornado 1, Endow Quake 1^000000",
-    "Skill Form: ^777777Active / Buff  ^000000",
-    "Description: ^777777Increase weapon's ATK and Critical rate of caster and party members. Affected target consumes certain amount of SP per second. Increase skill effect depending on required skill level (Endow Blaze / Endow Tsunami / Endow Tornado / Endow Quake ) ^000000",
-    "[Lv 1]: ^77777750 SP / Critical +1% / Duration 60 sec.^000000",
-    "[Lv 2]: ^77777755 SP / Critical +2% / Duration 60 sec.^000000",
-    "[Lv 3]: ^77777760 SP / Critical +3% / Duration 60 sec.^000000",
-    "[Lv 4]: ^77777765 SP / Critical +4% / Duration 60 sec.^000000",
-    "[Lv 5]: ^77777770 SP / Critical +5% / Duration 60 sec.^000000"
+    "^777777Requirement: Lightning Loader 1,",
+    "Flame Launcher 1, Frost Weapon 1,",
+    "Seismic Weapon 1^000000",
+    "Skill Form: ^777777Active / Buff^000000",
+    "Description: ^777777Increase weapon's ATK and Critical rate of caster and party members. Affected target consumes certain amount of SP per second. Increase skill effect depending on required skill level (Flame Launcher / Frost Weapon / Lightning Loader / Seismic Weapon ) ^000000",
+    "[Lv 1]: ^777777Critical +1%, Duration 60 sec.^000000",
+    "[Lv 2]: ^777777Critical +2%, Duration 60 sec.^000000",
+    "[Lv 3]: ^777777Critical +3%, Duration 60 sec.^000000",
+    "[Lv 4]: ^777777Critical +4%, Duration 60 sec.^000000",
+    "[Lv 5]: ^777777Critical +5%, Duration 60 sec.^000000"
   },
   [SKID.SO_WARMER] = {
     "Warmer",
     "Max Level: 5",
-    "^777777Requirement: Volcano 1 / Whirlwind 1^000000",
+    "^777777Requirement: Volcano 1, Violent Gale 1^000000",
     "Skill Form: ^777777Active / Ground / Recovery^000000",
     "Description: ^777777Increases the temperature in an area, removing Crystallization, Frozen and Freezing status effect from targets in range.^000000",
     "[Lv 1]: ^777777Skill Duration 40 sec.^000000",
@@ -9678,7 +9693,7 @@ SKILL_DESCRIPT = {
   [SKID.SO_VACUUM_EXTREME] = {
     "Extreme Vacuum",
     "Max Level: 5",
-    "^777777Requirement: Magnetic Earth 2^000000",
+    "^777777Requirement: Land Protector 2^000000",
     "Skill Form: ^777777Active / Special^000000",
     "Description: ^777777Create a vacuum on a cell that suspends all targets in a 7x7 area. Targets in the area cannot move until the skill duration expires.^000000",
     "[Lv 1]: ^77777734 SP / 3x3 AoE / Duration 4 sec.^000000",
@@ -9690,7 +9705,7 @@ SKILL_DESCRIPT = {
   [SKID.SO_VARETYR_SPEAR] = {
     "Varetyr Spear",
     "Max Level: 5",
-    "^777777Requirement: Endow Quake 1 / Whirlwind 4^000000",
+    "^777777Requirement: Seismic Weapon 1, Violent Gale 4^000000",
     "Skill Form: ^777777Active / Damage^000000",
     "Description: ^777777Summon a huge lightning spear from the sky and give physical and magic damage (Wind property) to 1 target and surrounding enemies. Also has a chance to [Stun] damaged targets.^000000",
     "[Lv 1]: ^777777target and surrounding 3x3 cells^000000",
@@ -9712,9 +9727,9 @@ SKILL_DESCRIPT = {
     "[Lv 5]: ^777777target ground 7x7 cells / 40% Success Chance / 16 sec duration^000000"
   },
   [SKID.SO_SUMMON_AGNI] = {
-    "Call Agni",
+    "Summon Agni",
     "Max Level: 3",
-    "^777777Requirement: Elemental Control 1 / Warmer 3^000000",
+    "^777777Requirement: Elemental Control 1, Warmer 3^000000",
     "Skill Form: ^777777Active / Summon^000000",
     "Description: ^777777Summon spirit of Fire, AGNI. Consume [3 Red Blood or 6 Red Blood or 1 Flame_Heart ] as catalyst items depending on the skill level. ^000000",
     "[Lv 1]: ^777777Skill Duration 600 sec. / Consume 5 SP per 10 seconds.^000000",
@@ -9722,9 +9737,9 @@ SKILL_DESCRIPT = {
     "[Lv 3]: ^777777Skill Duration 1200 sec. / Consume 11 SP per 10 seconds.^000000"
   },
   [SKID.SO_SUMMON_AQUA] = {
-    "Call Aqua",
+    "Summon Aqua",
     "Max Level: 3",
-    "^777777Requirement: Elemental Control 1 / Diamond Dust 3^000000",
+    "^777777Requirement: Elemental Control 1, Diamond Dust 3^000000",
     "Skill Form: ^777777Active / Summon^000000",
     "Description: ^777777Summon spirit of water, AQUA. Consume [3 Crystal Blue or 6 Crystal Blue or 1 Mistic Frozen ] as catalyst items depending on the skill level. ^000000",
     "[Lv 1]: ^777777Skill Duration 600 sec. / Consume 5 SP per 10 seconds.^000000",
@@ -9732,7 +9747,7 @@ SKILL_DESCRIPT = {
     "[Lv 3]: ^777777Skill Duration 1200 sec. / Consume 11 SP per 10 seconds. ^000000"
   },
   [SKID.SO_SUMMON_VENTUS] = {
-    "Call Ventus",
+    "Summon Ventus",
     "Max Level: 3",
     "^777777Requirement: Elemental Control 1 / Varetyr Spear 3^000000",
     "Skill Form: ^777777Active / Summon^000000",
@@ -9742,7 +9757,7 @@ SKILL_DESCRIPT = {
     "[Lv 3]: ^777777Skill Duration 1200 sec. / Consume 11 SP per 10 seconds. ^000000"
   },
   [SKID.SO_SUMMON_TERA] = {
-    "Call Tera",
+    "Summon Tera",
     "Max Level: 3",
     "^777777Requirement: Elemental Control 1 / Earth Grave 3^000000",
     "Skill Form: ^777777Active / Summon^000000",
@@ -9752,7 +9767,7 @@ SKILL_DESCRIPT = {
     "[Lv 3]: ^777777Skill Duration 1200 sec. / Consume 11 SP per 10 seconds. ^000000"
   },
   [SKID.SO_EL_CONTROL] = {
-    "Elemental Control ",
+    "Elemental Control",
     "Max Level: 4",
     "^777777Requirement: Analyze Element 1^000000",
     "Skill Form: ^777777Active^000000",
@@ -9770,8 +9785,8 @@ SKILL_DESCRIPT = {
     "Description: ^777777Activate 1 offensive (Attack) command immediately from summoned elemental.^000000"
   },
   [SKID.SO_EL_ANALYSIS] = {
-    "Elemental Analysis",
-    "^777777Requirement: Flame Launcher 1 / Endow Tsunami 1 / Endow Tornado 1 / Endow Quake 1^000000",
+    "4 Elemental Analysis",
+    "^777777Requirement: Flame Launcher 1 / Frost Weapon 1 / Lightning Loader 1 / Seismic Weapon 1^000000",
     "Skill Form: ^777777Active^000000",
     "Description: ^777777Analyze enchanted ores which are used as catalyst items for summoning elemental into pure gemstones. Also, conversely, combine pure gemstones into an enchanted ore. ^000000",
     "[Lv 1]: ^777777Analyze enchanted ores into pure gemstones (Once caster puts 1 of Flame Heart, Rough Wind, Mistic Frozen, Great Nature into convert window, it will be divided into Red Blood, Wind of Verdure, Crystal Blue, Green Live. Divided item quantities are randomly decided.  ^000000",
@@ -9799,7 +9814,7 @@ SKILL_DESCRIPT = {
   [SKID.SO_FIRE_INSIGNIA] = {
     "Fire Insignia",
     "Max Level: 3",
-    "^777777Requirement: Call Agni 3^000000",
+    "^777777Requirement: Summon Agni 3^000000",
     "Skill Form: ^777777Active / Ground Magic^000000",
     "Description: ^777777Draw a fire insignia on the ground within 3 x 3 cells. Recover 1% of HP per 5 seconds if the target is equipped fire property armor or it is a fire property monster. Conversely, decrease 1% of HP per 5 seconds if the target is equipped earth property armor or it is a earth property monster. But all the targets that are inside of skill range get 1.5 times more damage from water property attack. Consume [Scarlet Point 1 / 2 / 3 ] depending on the skill level. ^000000",
     "[Lv 1]: ^777777Increase AGNI's ATK by 20%. Recovery amount of HP, SP per 3 seconds doubled. ^000000",
@@ -9809,7 +9824,7 @@ SKILL_DESCRIPT = {
   [SKID.SO_WATER_INSIGNIA] = {
     "Water Insignia",
     "Max Level: 3",
-    "^777777Requirement: Call Aqua 3^000000",
+    "^777777Requirement: Summon Aqua 3^000000",
     "Skill Form: ^777777Active / Ground^000000",
     "Description: ^777777Draw a water insignia on the",
     "ground within 3 x 3 cells. Recover 1% of",
@@ -9829,7 +9844,7 @@ SKILL_DESCRIPT = {
   [SKID.SO_WIND_INSIGNIA] = {
     "Wind Insignia",
     "Max Level: 3",
-    "^777777Requirement: Call Ventus 3^000000",
+    "^777777Requirement: Summon Ventus 3^000000",
     "Skill Form: ^777777Active / Ground^000000",
     "Description: ^777777Draw a wind insignia on the ground within 3 x 3 cells. Recover 1% of HP per 5 seconds, if the target is equipped wind property armor or it is a wind property monster. Conversely, decrease 1% of HP per 5 seconds, if the target is equipped water property armor or it is a water property monster. But all the targets that are inside of skill range get 1.5 times more damage from earth property attack. Consume [Yellow Wish Point 1 / 2 / 3 ] depending on the skill level. ^000000",
     "[Lv 1]: ^777777Increase VENTUS's ATK by 20%. Recovery amount of HP, SP per 3 seconds doubled. ^000000",
@@ -9839,7 +9854,7 @@ SKILL_DESCRIPT = {
   [SKID.SO_EARTH_INSIGNIA] = {
     "Earth Insignia",
     "Max Level: 3",
-    "^777777Requirement: Call Tera 3^000000",
+    "^777777Requirement: Summon Tera 3^000000",
     "Skill Form: ^777777Active / Ground^000000",
     "Description: ^777777Draw a earth insignia on the ground within 3 x 3 cells. Recover 1% of HP per 5 seconds, if the target is equipped earth property armor or it is a earth property monster. Conversely, decrease 1% of HP per 5 seconds, if the target is equipped wind property armor or it is a wind property monster. But all the targets that are inside of skill range get 1.5 times more damage from fire property attack. Consume [Lime Green Point 1 / 2 / 3 ] depending on the skill level. ^000000",
     "[Lv 1]: ^777777Increase TERA's ATK by 20%. Recovery amount of HP, SP per 3 seconds doubled. ^000000",
@@ -9907,7 +9922,7 @@ SKILL_DESCRIPT = {
     "[Lv 5]: ^777777Movement Speed 100% increase / ATK 50 increase^000000"
   },
   [SKID.GN_THORNS_TRAP] = {
-    "Thorn Trap",
+    "Thorns Trap",
     "Max Level: 5",
     "^777777Requirement: Special Pharmacy 2 ^000000",
     "Skill Form: ^777777Special / Damage ^000000",
@@ -9945,7 +9960,7 @@ SKILL_DESCRIPT = {
   [SKID.GN_WALLOFTHORN] = {
     "Wall of Thorns",
     "Max Level: 5",
-    "^777777Requirement: Thorn Trap 3 ^000000",
+    "^777777Requirement: Thorns Trap 3 ^000000",
     "Skill Form: ^777777Special / Wall ^000000",
     "Description: ^777777Build a thorn wall around 1 target to deal damage and pushes it back. It can be destroyed by attacks and damages. If the Thorn Wall gets fire property damage, it burns out and turns into Fire Wall. Only 1 Thorn Wall can be cast and consumes 1 Thorn Plant Seed.^000000",
     "[Lv 1]: ^77777740 SP / Skill Duration 10 sec.^000000",
@@ -10086,7 +10101,7 @@ SKILL_DESCRIPT = {
   [SKID.SR_RIDEINLIGHTNING] = {
     "Ride in Lightning",
     "Max Level: 5",
-    "^777777Requirement: Throw Spirit Sphere 3 ^000000",
+    "^777777Requirement: Finger Offensive 3 ^000000",
     "Skill Form: ^777777Active / Damage ^000000",
     "Description: Description: ^777777Fires your Spirit Spheres to create an explosion that damages all targets in the area of effect. The more Spheres fired, the higher the damage. Increases with higher level of Dex. Targets using Wind Elemental endowed weapons will take additional damage.^000000",
     "[Lv 1]: ^777777AoE 5 x 5  / Consumes 1 Spirit Sphere ^000000",
@@ -10556,7 +10571,7 @@ SKILL_DESCRIPT = {
     "cancels the Defending Aura status.^000000"
   },
   [SKID.ML_AUTOGUARD] = {
-    "Guard",
+    "Auto Guard",
     "Skill Form: ^777777Supportive^000000",
     "Guard status which has a chance of blocking long",
     "and short range physical attacks for the",
@@ -10812,7 +10827,7 @@ SKILL_DESCRIPT = {
     "this skill's range.^000000"
   },
   [SKID.GD_BATTLEORDER] = {
-    "Battle Command",
+    "Battle Order",
     "Skill Form: ^000099Passive^000000",
     "Target: ^777777Guildsmen^000000",
     "Range: ^777777Guildmaster's View^000000",
@@ -11016,7 +11031,7 @@ SKILL_DESCRIPT = {
     "[Lv 5]: ^777777ATK 1750% / Holy property magic damage / 5 x 5 Cell ^000000"
   },
   [SKID.MH_ANGRIFFS_MODUS] = {
-    "Angriffs_Modus",
+    "Angriffs Modus",
     "Max Level: 5",
     "Description: ^777777Increase Homunculus' ATK for certain period, Defense and Flee Rate decrease",
     "greatly. Also, this skill cannot be used with [Goldene Ferse] skill. ^000000",
@@ -11663,9 +11678,9 @@ SKILL_DESCRIPT = {
     "Flash Combo",
     "Max Level: 5",
     "^777777Requirement: Dragon Combo 3, Fallen Empire 3,",
-    "Tiger Cannon 1, Sky Blow 1^000000",
+    "Tiger Cannon 1, Sky Net Blow 1^000000",
     "Type: ^777777Active / Combo ^000000",
-    "Description: 777777Activate 4 consecutive combo attacks : Dragon Combo, Fallen Empire, Tiger Cannon, Sky Blow in extremely fast succession. Each skill activates at caster's max learned skill level.^000000",
+    "Description: 777777Activate 4 consecutive combo attacks : Dragon Combo, Fallen Empire, Tiger Cannon, Sky Net Blow in extremely fast succession. Each skill activates at caster's max learned skill level.^000000",
     "[Lv 1]: ^777777Use 5 spirit spheres, ATK +40 for 4 seconds^000000",
     "[Lv 2]: ^777777Use 5 spirit spheres, ATK +60 for 4 seconds^000000",
     "[Lv 3]: ^777777Use 4 spirit spheres, ATK +80 for 4 seconds^000000",
@@ -11872,7 +11887,7 @@ SKILL_DESCRIPT = {
   [SKID.RL_SLUGSHOT] = {
     "Slug Shot",
     "Max Level: 5",
-    "^777777Requirement: Vanishing Buster 3 ^000000",
+    "^777777Requirement: Banishing Buster 3 ^000000",
     "Skill Form: ^777777 Offensive / Debuff ^000000",
     "Description: ^777777 Shotgun exclusive skill. Fire a special slug shot bullet at the target to deal damage. ^000000",
     "^777777Heavier Bullet will increase the damage done. ^000000",
