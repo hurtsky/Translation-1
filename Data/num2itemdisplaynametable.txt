@@ -979,11 +979,11 @@
 1722#Bow#
 1723#Bow#
 1724#Bow#
-1725#Minstrel_Bow#
+1725#Bow#
 1726#Bow#
 1727#Bow#
-1728#Ballista#
-1729#Rudra_Bow#
+1728#Bow#
+1729#Bow#
 1730#Bow#
 1731#Bow#
 1732#Bow#
@@ -993,7 +993,7 @@
 1736#Bow#
 1737#Bow#
 1738#Bow#
-1739#Brave_Battle_CrossBow#
+1739#Bow#
 1740#Bow#
 1741#Bow#
 1742#Bow#

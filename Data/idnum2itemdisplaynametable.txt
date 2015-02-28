@@ -969,9 +969,9 @@
 1711#Cross_Bow#
 1712#Cross_Bow#
 1713#Arbalest_Bow#
-1714#Gakkung_Bow#
+1714#Gakkung#
 1715#Arbalest_Bow#
-1716#Gakkung_Bow#
+1716#Gakkung#
 1718#Hunter_Bow#
 1719#Roguemaster's_Bow#
 1720#Rudra_Bow#

@@ -4407,36 +4407,10 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 1728#
-^000088Rental Item^000000
-A giant bow used
-in ancient battles.
-Damage increases
-by 20% when used
-in ranged attacks.
-Class: ^777777Bow^000000
-Attack: ^777777194^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777774^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Hunter, Bard, Dancer^000000
+Unknown Item, can be identified by [Magnifier].
 #
 1729#
-^000088Rental Item^000000
-A bow imbued with the
-sacred essense of Rudra, one of the ancient gods.
-Adds 50% tolerance to the Poison, Curse, Silence,
-Chaos and Blind statuses. Enables the use of
-^008800Level 1 Heal^000000 and
-^008800Level 1 Cure^000000. INT +5
-This item cannot be Dropped or Traded.
-Class: ^777777Bow^000000
-Attack: ^777777185^000000
-Weight: ^7777770^000000
-Property: ^777777Holy^000000
-Weapon Level: ^7777774^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Archer Class;
-Rogue Job^000000
+Unknown Item, can be identified by [Magnifier].
 #
 1730#
 Unknown Item, can be identified by [Magnifier].
@@ -39297,7 +39271,7 @@ Weight :^777777 1^000000
 #
 13948#
 A gift box contains essential equipment for Archer.
-Contains "Tight [1],Gakkung Bow [2],Boots [1],Muffler [1],a Zerom Card,a Whisper Card,2 Clips, a Apple Of Archer". 
+Contains "Tight [1],Gakkung [2],Boots [1],Muffler [1],a Zerom Card,a Whisper Card,2 Clips, a Apple Of Archer". 
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
