@@ -10036,8 +10036,8 @@
 19023#Queen_Scaraba_Crown#
 19024#Protect_Feathers#
 19026#Aegir_Helm#
-19027#Classic_Refresh_Shoes_2_Week_Rental_Box#
-19028#Classic_Silf_Manteau_2_Week_Rental_Box#
+19027#Type-10_Glasses#
+19028#Kid_Deviling#
 19029#Alice_Friesinger_Hat_69#
 19030#Rabbit_Hero_Hood#
 19031#Classic_Unholy_Touch_2_Week_Rental_Box#
@@ -10650,6 +10650,7 @@
 20095#[Costume]_Red_Ribbon#
 20096#[Costume]_Blue_Ribbon#
 20097#[Costume]_White_Ribbon#
+20099#[Costume]_Ljosalfar#
 20100#[Costume]_Volume_Fhat#
 20102#[Costume]_Horse_King#
 20103#[Costume]_Drooping_Panda#

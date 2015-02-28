@@ -10036,8 +10036,8 @@
 19023#Headgear#
 19024#Headgear#
 19026#Helm#
-19027#Classic_Refresh_Shoes_2_Week_Rental_Box#
-19028#Classic_Silf_Manteau_2_Week_Rental_Box#
+19027#Glasses#
+19028#Hat#
 19029#Hat#
 19030#Hat#
 19031#Classic_Unholy_Touch_2_Week_Rental_Box#
@@ -10650,6 +10650,7 @@
 20095#Hairband#
 20096#Hairband#
 20097#Hairband#
+20099#Headgear#
 20100#Hat#
 20102#Headgear#
 20103#Headgear#

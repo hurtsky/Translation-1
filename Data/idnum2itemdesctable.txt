@@ -79738,41 +79738,20 @@ Required Lv. : ^777777110^000000
 Jobs: ^777777All^000000
 #
 19027#
-A box that contains:
-^000088Rental Item^000000
-^6A5ACD1 Refresh Shoes^000000
-Duration: 2 Weeks after opening.
-^CC0000Available until 7/17^000000
-^CC0000Shoes will not work in WoE/PVP^000000
-^000088Rental Item^000000
-Shoes made with a complex design and soft animal skin.
-MaxHP +17% , MaxSP +8%.
-Every 10 seconds, your HP goes up by 20, SP goes up by 3.
-Class: ^777777Shoes^000000
-Defense: ^7777779^000000
-Weight: ^7777770^000000
-Required Level: ^7777770^000000
-Jobs: ^777777All^000000
-Box Weight: ^7777770^000000
+Class: ^777777Headgear^000000
+Defense: ^7777770^000000
+Location: ^777777Middle^000000
+Weight: ^77777720^000000
+Required Level: ^77777710^000000
+Job: ^777777All^000000
 #
 19028#
-A box that contains:
-^000088Rental Item^000000
-^6A5ACD1 Silf Manteau^000000
-Duration: 2 Weeks after opening.
-^CC0000Available until 7/17^000000
-^CC0000Shoes will not work in WoE/PVP^000000
-^000088Rental Item^000000
-A Soft Manteau that has been blessed by a Wind Fairy.
-It is said to allow the wearer to be protected from danger.
-FLEE +13, Reduce 13% of ^777777Neutral^000000 property damage.
-Perfect Dodge +1
-Class: ^777777Garment^000000
-Defense: ^7777779^000000
-Weight: ^7777770^000000
-Required Level: ^7777770^000000
-Jobs: ^777777All Except Novice^000000
-Box Weight: ^7777770^000000
+Class: ^777777Headgear^000000
+Defense: ^7777770^000000
+Location: ^777777Middle^000000
+Weight: ^77777720^000000
+Required Level: ^77777740^000000
+Job: ^777777All^000000
 #
 19029#
 A figurine doll that resemble maid from A-larm House 69.
@@ -85089,6 +85068,13 @@ Location : ^777777Upper ^000000
 Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Job : ^777777All^000000
+#
+20099#
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20100#
 Class: ^777777Costume^000000
