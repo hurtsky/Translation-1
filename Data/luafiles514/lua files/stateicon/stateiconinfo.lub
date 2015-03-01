@@ -2516,12 +2516,12 @@ StateIconList[EFST_IDs.EFST_UNLIMITED_HUMMING_VOICE] = {
   posTimeLimitStr = 2,
   descript = {
     {
-      "Infinite Humming",
+      "Unlimited Humming Voice",
       COLOR_TITLE_BUFF
     },
     {"%s", COLOR_TIME},
     {
-      "Skill and magic casting is never get disconnected"
+      "Skill and magic casting is uninterruptible"
     },
     {
       "Increase SP consumption when using skills"
