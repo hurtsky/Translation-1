@@ -5775,7 +5775,7 @@
 11510#Coca_Cola_Zero#
 11511#Diet_Coca_Cola#
 11512#Coca_Cola#
-11513#Throat_Lozenge#
+11513#Neck_Protection_Candy#
 11514#Enriched_Slim_Potion#
 11515#Coconut#
 11516#Asai_Fruit#
