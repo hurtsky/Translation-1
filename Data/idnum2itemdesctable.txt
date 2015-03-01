@@ -19163,7 +19163,8 @@ Jobs: ^777777Hunter / Bard / Dancer^0000007770^000000
 Agimat Tattoo with a huge Alligator pattern. It is told that the one who owns this tattoo will possess extreme power.
 MATK +7% increase and Fixed Casting 7% decrease.
 Class: ^777777Accessory^000000
-Defense: ^7777770^000000			Weight: ^77777710^000000
+Defense: ^7777770^000000
+Weight: ^77777710^000000
 Jobs: ^777777All^000000
 #
 2908#
@@ -30342,7 +30343,8 @@ A fancy umbrella that doesn't need a hand and is very handy during monsoon. It p
 Reduces getting 3% damage from ^6996ADWater^000000 property Attack.
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
-Location: ^777777Upper^000000    Weight: ^77777710^000000
+Location: ^777777Upper^000000
+Weight: ^77777710^000000
 Required Level: ^77777750^000000
 Jobs: ^777777All^000000
 #
@@ -30400,7 +30402,7 @@ Job: ^777777All^000000
 #
 5322#
 Wonderful Kerchief for that loved.
-Class: ^777777Head Gear^000000    
+Class: ^777777Head Gear^000000
 Defense: ^7777772^000000
 Slot: ^777777Upper^000000
 Weight: ^77777710^000000
@@ -31198,7 +31200,7 @@ Jobs: ^777777All^000000
 A souvenir hat to celebarate the 4th Anniversary of Europe Ragnarok Online.
 VIT +1
 Give a chance to drop Blue Herbs every time a monster is killed.
-Class: ^777777Head Gear^000000    
+Class: ^777777Head Gear^000000
 Defense: ^7777772^000000
 Slot: ^777777Upper^000000
 Weight: ^77777750^000000
@@ -31940,7 +31942,7 @@ Jobs: ^777777All^000000
 A cap of post man who delivers letters with heart. 
 Magic in the cap protects the wearer not to lose their way.
 Enables use of Level 1 Teleport.AGI +2
-Class: ^777777Head Gear^000000
+Class: ^777777Headgear^000000
 Defense: ^7777772^000000
 Slot: ^777777Upper^000000
 Weight: ^77777710^000000
@@ -31951,7 +31953,7 @@ Job: ^777777All^000000
 A headgear made by the hard scale of Dragon. The wearer of this headgear can get the great power of Dragon.
 Adds 20% damage to the dragon monster.
 Cause a certain abnormal status to all enemies in 5x5 cell when physical attack, by low chance.
-Class: ^777777Head Gear^000000
+Class: ^777777Headgear^000000
 Defense: ^7777775^000000
 Slot: ^777777Upper^000000
 Weight: ^777777200^000000
@@ -31962,7 +31964,7 @@ Job: ^777777All^000000
 A cap which makes the wearer very happy to go on a parade.
 Skill delay - 5%.
 Reduces casting delay refine level - 5% if upgraded at +6.
-Class: ^777777Head Gear^000000    
+Class: ^777777Headgear^000000
 Defense: ^7777773^000000
 Slot: ^777777Upper^000000
 Weight: ^77777780^000000
@@ -31974,7 +31976,7 @@ STR +2.
 Has a chance of auto-casting Level 1 Adrenaline Rush when receiving physical melee attack.
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
-Location:	^777777Upper^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^77777730^000000
 Jobs: ^777777All^000000
@@ -31983,7 +31985,7 @@ Jobs: ^777777All^000000
 An eye cover which has gloomy eyes on it.
 It looks fixed, but someone says the eyes moves sometimes.
 Never get Blindness. DEX +1
-Class: ^777777Head Gear^000000    
+Class: ^777777Head Gear^000000
 Defense: ^7777771^000000
 Slot: ^777777Upper^000000
 Weight: ^77777710^000000
@@ -31993,7 +31995,7 @@ Job: ^777777All^000000
 5471#
 A head accessory which is named after Valkyrie Reginleif. If someone wear this, they can get the bless of god.
 Increase resistance against Water, Fire, Undead, ^777777Ghost^000000 property by 5%.
-Class: ^777777Head Gear^000000    
+Class: ^777777Headgear^000000
 Defense: ^7777771^000000
 Slot: ^777777Mid^000000
 Weight: ^77777780^000000
@@ -33141,7 +33143,7 @@ Jobs:^777777 All^000000
 5575#
 Made with love, this onigiri is very tasty.
 Designed by Sheikh.
-Class: ^777777Head Gear^000000    
+Class: ^777777Headgear^000000
 Defense: ^7777773^000000
 Slot: ^777777Upper^000000
 Weight: ^77777710^000000
@@ -35241,7 +35243,7 @@ Job: ^777777All^000000
 5800#
 A blushing impression of a bridegroom.
 Reduces damage from DemiHuman monster by 3%
-Class: ^777777Head Gear^000000    
+Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Position: ^777777Middle^000000
 Weight: ^7777775^000000
@@ -40233,7 +40235,7 @@ Weight: ^7777771^000000
 A stem with a tough
 surface that feels
 like it's covered with
-thick, protective scales. ^FFFFFF			^000000
+thick, protective scales.
 Weight: ^7777771^000000
 #
 7013#
@@ -40373,7 +40375,7 @@ Weight: ^7777771^000000
 7032#
 An eggshell fragment
 that protected its egg
-to the final, tragic end. ^ffffff			^000000
+to the final, tragic end.
 Weight: ^7777771^000000
 #
 7033#
@@ -40386,7 +40388,8 @@ Weight: ^7777771^000000
 A Christmas stocking
 from which presents
 were stolen through a
-hole made in the bottom. Weight: ^7777771^000000
+hole made in the bottom.
+Weight: ^7777771^000000
 #
 7035#
 A phosphorus tipped
@@ -40420,7 +40423,8 @@ Weight: ^7777771^000000
 7040#
 A funnel shaped
 device that is used
-to amplify one's voice. Weight: ^7777771^000000
+to amplify one's voice.
+Weight: ^7777771^000000
 #
 7041#
 A crystal made
@@ -40456,7 +40460,8 @@ Weight: ^7777771^000000
 #
 7046#
 A set of disassembled
-parts for making a cart. Weight: ^7777771^000000
+parts for making a cart.
+Weight: ^7777771^000000
 #
 7047#
 An apron worn by
@@ -40464,7 +40469,8 @@ the Alice monster.
 Weight: ^7777771^000000
 #
 7048#
-A Griffon's sharp talon. Weight: ^7777771^000000
+A Griffon's sharp talon.
+Weight: ^7777771^000000
 #
 7049#
 Just a simple stone
@@ -40513,7 +40519,8 @@ for the Kafra Employees. Weight: ^7777775^000000
 A great bugle made
 from an animal's horn
 whose thunderous sound
-can be heard for miles. Weight: ^77777750^000000
+can be heard for miles.
+Weight: ^77777750^000000
 #
 7058#
 Impossibly strong
@@ -40521,13 +40528,15 @@ thread woven from
 the sound of a cat's
 footsteps, woman's
 moustache, stone root,
-fish spirit, bird sputem and bear sinew. Weight: ^77777750^000000
+fish spirit, bird sputem and bear sinew.
+Weight: ^77777750^000000
 #
 7059#
 A ticket that entitles
 the bearer to use the
 Kafra Storage one time
-without paying any fee. Weight: ^7777770^000000
+without paying any fee.
+Weight: ^7777770^000000
 #
 7060#
 A ticket that entitles
@@ -44293,7 +44302,7 @@ Weight: ^7777771^000000
 A certificate imbued
 with the power of the
 invulnerable Siegfried
-which allows its bearer^FFFFFF	 ^000000 to overcome death.
+which allows its bearer to overcome death.
 Revives the dead
 character.
 ^ffffff_^000000
@@ -52656,7 +52665,7 @@ Description:
 A certificate imbued
 with the power of the
 invulnerable Siegfried
-which allows its bearer^FFFFFF	 ^000000 to overcome death.
+which allows its bearer to overcome death.
 Revives the dead
 character.
 ^ffffff_^000000
@@ -52698,12 +52707,12 @@ aid the adventurer on the
 long journey.
 Contains:
 Kafra Item Mall Prize Package.
-Kafra Item Mall Prize cannot be traded, dropped, or sold.	It can be Stored.
+Kafra Item Mall Prize cannot be traded, dropped, or sold. It can be Stored.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 12926#
-^0000CCAnniversary Destiny Box^000000, opening this up and get your prize!	This item cannot be traded, but can be saved and opened at your leisure!
+^0000CCAnniversary Destiny Box^000000, opening this up and get your prize! This item cannot be traded, but can be saved and opened at your leisure!
 Description:
 ^ffffff_^000000
 ^0000FFS Class: Mini Glasses[1]^000000
@@ -53505,7 +53514,7 @@ This is a special prize for showing your support for Ragnarok Online during the 
 5 Life Insurance
 200 Giant Fly Wing
 ^ffffff_^000000
-Weight:	^7777771^000000
+Weight: ^7777771^000000
 #
 12992#
 A pack of consumables to
@@ -54272,7 +54281,8 @@ It is one of the legendary Weapon,
 Critical ATK +10,Increases ASPD(Attack Delay Reduces by 5%)
 Class: ^777777Dagger^000000
 Attack: ^777777155^000000
-Weight: ^7777770^000000     Element: ^777777Wind^000000
+Weight: ^7777770^000000
+Property: ^777777Wind^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777770^000000
 Jobs: ^777777Ninja Class^000000
@@ -69874,8 +69884,10 @@ If you wear this, it feels like you become a fancy Chung aristocrat.
 LUK + 3, MDEF +4, Def+5
 When receiving any physical attack, Mammonite Lv5 will be activated at a low rate.
 (If you have no zeny, it won't be activated.)
-Class : ^777777Headgear^000000 Defense : ^7777775^000000
-Location: ^777777Upper^000000 Weight : ^77777750^000000
+Class : ^777777Headgear^000000
+Defense : ^7777775^000000
+Location: ^777777Upper^000000
+Weight : ^77777750^000000
 Required Level : ^77777760^000000
 Jobs: ^777777All^000000
 Weight : ^7777771^000000
@@ -69886,8 +69898,10 @@ A box that contains 1 Ice Ear Wing in it.
 Earrings made of ice and other special chemicals. If you wear these, you can beat off the heat by its cool energy!
 LUK + 1.
 When receiving any physical attack, Autospell Coldbolt Lv5 will be activated at a low rate.
-Class : ^777777Headgear^000000 Defense : ^7777770^000000
-Location: ^777777Mid ^000000 Weight : ^77777710^000000
+Class : ^777777Headgear^000000
+Defense : ^7777770^000000
+Location: ^777777Mid ^000000
+Weight : ^77777710^000000
 Required Level : ^77777710^000000
 Jobs: ^777777All^000000
 Weight : ^7777770^000000
@@ -70826,8 +70840,10 @@ A box contains 1 2011 Pagdayaw in it.
 An headgear which is made of many kinds of property rings. It looks very luxurious and charming. Reduce all damage from Demi-humans by 10%,
 Reduce damage from Water, Fire, Wind by 5%, Reduce damage from Ghost property monsters by 10%, Increase damage against Ghost property Demi-humans by 50%.
 30 days Rental Item.
-Class : ^777777Headgear^000000 Defense : ^7777772^000000
-Location: ^777777Upper,Mid,Lower^000000 Weight : ^7777770^000000
+Class : ^777777Headgear^000000
+Defense : ^7777772^000000
+Location: ^777777Upper,Mid,Lower^000000
+Weight : ^7777770^000000
 Required Level : ^77777720^000000
 Jobs: ^777777All Jobs Except Novice^000000
 Weight : ^7777771^000000
@@ -76506,9 +76522,9 @@ If refined to +7, absorb 5% of damage dealt to enemy into HP, 2% into SP with ce
 If refined to +8, absorb 5% of damage dealt to enemy into HP, 2% into SP with a higher rate.
 If refined to +9 or above, absorb 8% of damage dealt to enemy into HP, 4% into SP with a higher rate.
 ^ff0000Can be traded, stored, and vended^000000
-Class : ^777777Helmet^000000    
+Class : ^777777Headgear^000000
 Defense : ^77777710^000000
-Location: ^777777Upper^000000    
+Location: ^777777Upper^000000
 Weight : ^777777150^000000
 Required Lv. : ^77777780^000000
 Jobs: ^777777All jobs ^000000

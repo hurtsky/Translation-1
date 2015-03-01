@@ -21315,7 +21315,7 @@ Weight: ^7777771^000000
 A stem with a tough
 surface that feels
 like it's covered with
-thick, protective scales. ^FFFFFFspacer^000000
+thick, protective scales.
 Weight: ^7777771^000000
 #
 7013#
@@ -21455,7 +21455,7 @@ Weight: ^7777771^000000
 7032#
 An eggshell fragment
 that protected its egg
-to the final, tragic end. ^ffffffspacer^000000
+to the final, tragic end.
 Weight: ^7777771^000000
 #
 7033#
@@ -21468,7 +21468,8 @@ Weight: ^7777771^000000
 A Christmas stocking
 from which presents
 were stolen through a
-hole made in the bottom. Weight: ^7777771^000000
+hole made in the bottom.
+Weight: ^7777771^000000
 #
 7035#
 A phosphorus tipped
@@ -21496,13 +21497,14 @@ Weight: ^7777771^000000
 #
 7039#
 An identification tag
-that certifies that its	owner is a Novice.
+that certifies that its owner is a Novice.
 Weight: ^7777771^000000
 #
 7040#
 A funnel shaped
 device that is used
-to amplify one's voice. Weight: ^7777771^000000
+to amplify one's voice.
+Weight: ^7777771^000000
 #
 7041#
 A crystal made
@@ -21538,7 +21540,8 @@ Weight: ^7777771^000000
 #
 7046#
 A set of disassembled
-parts for making a cart. Weight: ^7777771^000000
+parts for making a cart.
+Weight: ^7777771^000000
 #
 7047#
 An apron worn by
@@ -21546,7 +21549,8 @@ the Alice monster.
 Weight: ^7777771^000000
 #
 7048#
-A Griffon's sharp talon. Weight: ^7777771^000000
+A Griffon's sharp talon.
+Weight: ^7777771^000000
 #
 7049#
 Just a simple stone
@@ -21592,7 +21596,10 @@ Payment statement for the Kafra employees.
 Weight: ^7777775^000000
 #
 7057#
-A great bugle made out of an animal horn. Its sound is thunderous and can be heard for miles around.
+A great bugle made
+from an animal's horn
+whose thunderous sound
+can be heard for miles.
 Weight: ^77777750^000000
 #
 7058#
@@ -25288,14 +25295,16 @@ Weight: ^7777771^000000
 A certificate imbued
 with the power of the
 invulnerable Ziegfried
-which allows its bearer^FFFFFF	 ^000000 to overcome death.
+which allows its bearer to overcome death.
 Revives the dead
 character.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 7622#
-Unknown Item, can be identified by [Magnifier].
+This coupon can be exchanged, along with the required materials, to a hair dresser to change your hairstyle.
+^ffffff_^000000
+Weight: ^7777770^000000
 #
 7623#
 New name for new adventure! A ticket for Name Change Service.
@@ -33176,7 +33185,7 @@ Weight: ^7777771^000000
 #
 12922#
 A box containing
-10 Tokens of Ziegfried.^FFFFFF		^000000 ^ffffff_^000000
+10 Tokens of Ziegfried.
 Token of Ziegfried -
 Revives dead character
 when used.
@@ -33185,7 +33194,7 @@ Weight: ^7777771^000000
 #
 12923#
 December 2008 Lucky Box!
-Inside, you have a chance of winning many great prizes.	See the Lucky Box page on the iro.ragnarokonline.com website for possible prizes.
+Inside, you have a chance of winning many great prizes. See the Lucky Box page on the iro.ragnarokonline.com website for possible prizes.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -33206,13 +33215,13 @@ aid the adventurer on the
 long journey.
 Contains:
 Kafra Item Mall Prize Package.
-Kafra Item Mall Prize cannot be traded, dropped, or sold.	It can be Stored.
+Kafra Item Mall Prize cannot be traded, dropped, or sold. It can be Stored.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 12926#
 December 2008 Lucky Box!
-Inside, you have a chance of winning many great prizes.	See the Lucky Box page on the iro.ragnarokonline.com website for possible prizes.
+Inside, you have a chance of winning many great prizes. See the Lucky Box page on the iro.ragnarokonline.com website for possible prizes.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -33894,7 +33903,7 @@ traded or dropped,
 but can be placed
 in Kafra Storage.
 ^ffffff_^000000
-Weight:	^7777771^000000
+Weight: ^7777771^000000
 #
 12992#
 A pack of consumables to
@@ -46815,8 +46824,10 @@ If you wear this, it feels like you become a fancy Chung aristocrat.
 LUK + 3, Mdef +4, Def+5
 When receiving any physical attack,  Mammonite Lv5 will be activated at a low rate.
 (If you have no zeny, it won't be activated.)
-Class : ^777777Headgear^000000    Defense : ^7777775^000000
-Location: ^777777Upper^000000    Weight : ^77777750^000000
+Class : ^777777Headgear^000000
+Defense : ^7777775^000000
+Location: ^777777Upper^000000
+Weight : ^77777750^000000
 Required Level : ^77777760^000000
 Jobs: ^777777All^000000
 Weight : ^7777771^000000
@@ -46827,8 +46838,10 @@ A box that contains 1 Ice Ear Wing in it.
 Earrings made of ice and other special chemicals. If you wear these, you can beat off the heat by its cool energy!
 LUK + 1.
 When receiving any physical attack, Autospell Coldbolt Lv5 will be activated at a low rate.
-Class : ^777777Headgear^000000    Defense : ^7777770^000000
-Location: ^777777Mid ^000000 Weight : ^77777710^000000
+Class : ^777777Headgear^000000
+Defense : ^7777770^000000
+Location: ^777777Mid ^000000
+Weight : ^77777710^000000
 Required Level : ^77777710^000000
 Jobs: ^777777All^000000
 Weight : ^7777770^000000
@@ -47495,8 +47508,10 @@ A box contains 1 2011 Pagdayaw in it.
 An headgear which is made of many kinds of property rings. It looks very luxurious and charming. Reduce all damage from Demi-humans by 10%, 
 Reduce damage from Water, Fire, Wind by 5%, Reduce damage from Ghost property monsters by 10%, Increase damage against Ghost property Demi-humans by 50%. 
 30 days Rental Item.
-Class : ^777777Headgear^000000    Defense : ^7777772^000000
-Location: ^777777Upper,Mid,Lower^000000    Weight : ^7777770^000000
+Class : ^777777Headgear^000000
+Defense : ^7777772^000000
+Location: ^777777Upper,Mid,Lower^000000
+Weight : ^7777770^000000
 Required Level : ^77777720^000000
 Jobs: ^777777All Jobs Except Novice^000000
 Weight : ^7777771^000000
