@@ -809,7 +809,7 @@ StateIconList[EFST_IDs.EFST_INC_AGI] = {
   posTimeLimitStr = 2,
   descript = {
     {
-      "Increase AGI",
+      "Increase Agility",
       COLOR_TITLE_BUFF
     },
     {"%s", COLOR_TIME},
@@ -913,7 +913,7 @@ StateIconList[EFST_IDs.EFST_WEAPONBLOCKING] = {
       "Have chance to fully avoid damage"
     },
     {
-      "of mili physical attack"
+      "of melee physical attack"
     }
   }
 }
@@ -1750,7 +1750,7 @@ StateIconList[EFST_IDs.EFST_GENTLETOUCH_ENERGYGAIN] = {
     },
     {"%s", COLOR_TIME},
     {
-      "When mili attacking or being attacked"
+      "When melee attacking or being attacked"
     },
     {
       "Create 1 Spirit Sphere"
@@ -2171,7 +2171,7 @@ StateIconList[EFST_IDs.EFST_DODGE_ON] = {
       "When caster is in Spurt"
     },
     {
-      "also can block mili-attacks"
+      "also can block melee-attacks"
     }
   }
 }
@@ -3045,7 +3045,7 @@ StateIconList[EFST_IDs.EFST_STONEHARDSKIN] = {
       "Create defense barrier after consuming certain amount of HP"
     },
     {
-      "When other player mili physical attacks to the caster"
+      "When other player melee physical attacks to the caster"
     },
     {
       "have chance to destroy the enemy's weapon"
@@ -3284,7 +3284,7 @@ StateIconList[EFST_IDs.EFST_REFLECTSHIELD] = {
       "Reflect certain amount of damage to the enemy"
     },
     {
-      "which the caster got from the mili-physical attack"
+      "which the caster got from the melee-physical attack"
     }
   }
 }
