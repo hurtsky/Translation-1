@@ -7018,7 +7018,7 @@ SKILL_DESCRIPT = {
     "10 Sticky Poisons, 1 Izidor^000000",
     "[Lv 7]: ^777777Success Rate 65%, ^702180Magic Mushroom^777777,",
     "10 Poison Spores, 1 Poison Herb Makulata^000000",
-    "[Lv 8]: Success Rate 70%, ^702180Toxin^777777,",
+    "[Lv 8]: ^777777Success Rate 70%, ^702180Toxin^777777,",
     "10 Sticky Poisons, 1 Poison Herb Nerium^000000",
     "[Lv 9]: ^777777Success Rate 75%, ^702180Oblivion Curse^777777,",
     "10 Heart Of Mermaids, 1 Izidor^000000",
@@ -9888,7 +9888,7 @@ SKILL_DESCRIPT = {
   [SKID.SO_EL_CONTROL] = {
     "Elemental Control",
     "Max Level: 4",
-    "^777777Requirement: Analyze Element 1^000000",
+    "^777777Requirement: 4 Elemental Analysis 1^000000",
     "Skill Form: ^777777Active^000000",
     "Description: ^777777Command a waiting mode Elemental to switch its mode to Passive (Buff), Defensive (Defense), Offensive (Attack). To switch the elemental into waiting mode, caster just commands same order one more time. When elemental are in waiting mode, they recover little amount HP and SP continuously.  ^000000",
     "[Lv 1]: ^777777Switch Elemental to Passive mode^000000",
@@ -11791,7 +11791,7 @@ SKILL_DESCRIPT = {
   [SKID.SO_ELEMENTAL_SHIELD] = {
     "Elemental Shield",
     "Max Level: 5",
-    "^777777Requirement: Spirit Control 3^000000",
+    "^777777Requirement: Elemental Control 3^000000",
     "Type: ^777777Active / Support^000000",
     "Target:^777777Ground^000000",
     "Description: ^777777By expending summoned elemental's magic, sorcerer creates a magical barrier on the cells where the caster and party members are standing on.^000000",
@@ -11821,8 +11821,10 @@ SKILL_DESCRIPT = {
     "Max Level: 5",
     "^777777Requirement: Triangle Shot 2^000000",
     "Type: ^777777Active / Support^000000",
-    "Description: ^777777Caster immediately lays down a trap on the ground and backslides. Caster cannot backslide over dead cells (walls etc).^000000",
-    "^777777Consumes 1 ^008800Special Alloy Trap^000000",
+    "Description: ^777777Caster immediately lays down",
+    "a trap on the ground and backslides.",
+    "Caster cannot backslide over dead cells/walls.",
+    "Consumes 1 ^008800Special Alloy Trap^000000",
     "[Lv 1]: ^777777Backslide range 5 cells ^000000",
     "[Lv 2]: ^777777Backslide range 6 cells^000000",
     "[Lv 3]: ^777777Backslide range 7 cells^000000",
@@ -11838,28 +11840,33 @@ SKILL_DESCRIPT = {
     "Sanctuary, Highness Heal and Coluceo Heal.",
     "The skill cannot be used in conjunction",
     "with Manigificat.",
-    "Cure the following effect:",
+    "^000000Cure the following effect:",
     "^702180Curse, Poison, Hallucination, Confusion,",
-    "Bleeding, Burning, Freezing, Mandragora",
-    "Howling.^000000",
-    "[Lv 1]: ^777777Heal Power +30%, SP Cost 220%^000000",
-    "[Lv 2]: ^777777Heal Power +60%, SP Cost 240%^000000",
-    "[Lv 3]: ^777777Heal Power +90%, SP Cost 260%^000000",
-    "[Lv 4]: ^777777Heal Power +120%, SP Cost 270%^000000",
-    "[Lv 5]: ^777777Heal Power +150%, SP Cost 300%^000000"
+    "Bleeding, Burning, Freezing, Blind,",
+    "Mandragora Howling ^000000and^702180 Guillotine Cross",
+    "poison^000000 (except ^702180Oblivion Curse^000000).",
+    "[Lv 1]: ^777777Heal Power x1.3, SP cost 220%^000000",
+    "[Lv 2]: ^777777Heal Power x1.6, SP cost 240%^000000",
+    "[Lv 3]: ^777777Heal Power x1.9, SP cost 260%^000000",
+    "[Lv 4]: ^777777Heal Power x2.2, SP cost 270%^000000",
+    "[Lv 5]: ^777777Heal Power x2.5, SP cost 300%^000000"
   },
   [SKID.WL_TELEKINESIS_INTENSE] = {
     "Telekinesis Intense",
     "Max Level: 5",
     "^777777Requirement: Soul Expansion 5^000000",
     "Type: ^777777Active / Buff ^000000",
-    "Description: ^777777Ghost magic enters caster's circulatory system, increasing Ghost magic damage and reducing cast time and mana cost of spells for 3 minutes.^000000",
-    "^777777This skill cannot be removed by clearance or dispell.^000000",
-    "[Lv 1]: ^777777Ghost Magic Damage +40% / -10% Variable Cast Time on all skills / -10% Ghost Spell SP Cost^000000",
-    "[Lv 2]: ^777777Ghost Magic Damage +80% / -20% Variable Cast Time on all skills / -20% Ghost Spell SP Cost^000000",
-    "[Lv 3]: ^777777Ghost Magic Damage +120% / -30% Variable Cast Time on all skills / -30% Ghost Spell SP Cost^000000",
-    "[Lv 4]: ^777777Ghost Magic Damage +160% / -40% Variable Cast Time on all skills / -40% Ghost Spell SP Cost^000000",
-    "[Lv 5]: ^777777Ghost Magic Damage +200% / -50% Variable Cast Time on all skills / -50% Ghost Spell SP Cost^000000"
+    "Description: ^777777Ghost magic enters caster's",
+    "circulatory system, increasing Ghost magic",
+    "damage and reducing cast time and SP cost",
+    "of spells for 1 Minute.",
+    "This skill cannot be removed by ^008800Clearance^777777",
+    "or ^008800Dispell^777777.^000000",
+    "[Lv 1]: ^777777Ghost MATK x1.4, -10% variable cast time, -10% Ghost Spell SP Cost^000000",
+    "[Lv 2]: ^777777Ghost MATK x1.8, -20% variable cast time, -20% Ghost Spell SP Cost^000000",
+    "[Lv 3]: ^777777Ghost MATK x2.2, -30% variable cast time, -30% Ghost Spell SP Cost^000000",
+    "[Lv 4]: ^777777Ghost MATK x2.6, -40% variable cast time, -40% Ghost Spell SP Cost^000000",
+    "[Lv 5]: ^777777Ghost MATK x3, -50% variable cast time, -50% Ghost Spell SP Cost^000000"
   },
   [SKID.ALL_FULL_THROTTLE] = {
     "Full Throttle",
@@ -11888,32 +11895,35 @@ SKILL_DESCRIPT = {
     "Max Level: 5",
     "^777777Requirement: Special Pharmacy 1^000000",
     "Type: ^777777Special / Debuff^000000",
-    "Description: ^777777Throw a concentrated alcohol mix to cause hallucinations and decreased accuracy with a high probability. Consumes 1 alcohol.^000000",
-    "[Lv 1]: ^777777100% damage / 9x9 splash ^000000",
-    "[Lv 2]: ^777777100% damage / 11x11 splash ^000000",
-    "[Lv 3]: ^777777100% damage / 13x13 splash ^000000",
-    "[Lv 4]: ^777777100% damage / 15x15 splash ^000000",
-    "[Lv 5]: ^777777100% damage / Full screen splash ^000000",
+    "Description: ^777777Throw a concentrated alcohol",
+    "mix to cause hallucinations and decreased",
+    "accuracy with a high probability.",
+    "Consumes 1 alcohol.^000000",
+    "[Lv 1]: ^777777100% damage, 9x9 splash^000000",
+    "[Lv 2]: ^777777100% damage, 11x11 splash^000000",
+    "[Lv 3]: ^777777100% damage, 13x13 splash^000000",
+    "[Lv 4]: ^777777100% damage, 15x15 splash^000000",
+    "[Lv 5]: ^777777100% damage, Full screen splash^000000",
   },
   [SKID.GM_ITEM_ATKMAX] = {
-    "Maximum physical damage item",
+    "Max Physical item attack rate",
     "Max Level: 1",
-    "Description: ^777777Maximum physical damage item^000000"
+    "Description: ^777777Max Physical item attack rate^000000"
   },
   [SKID.GM_ITEM_ATKMIN] = {
-    "Minimum physical damage item",
+    "Minimize Physical item attack rate",
     "Max Level: 1",
-    "Description: ^777777Minimum physical damage item^000000"
+    "Description: ^777777Minimize Physical item attack rate^000000"
   },
   [SKID.GM_ITEM_MATKMAX] = {
-    "Maximum magical damage item",
+    "Max Magic item attack rate",
     "Max Level: 1",
-    "Description: ^777777Maximum magical damage item^000000"
+    "Description: ^777777Max Magic item attack rate^000000"
   },
   [SKID.GM_ITEM_MATKMIN] = {
-    "Minimum magical damage item",
+    "Minimize Magic item attack rate",
     "Max Level: 1",
-    "Description: ^777777Minimum magical damage item^000000"
+    "Description: ^777777Minimize Magic item attack rate^000000"
   },
   [SKID.RL_D_TAIL] = {
     "Dragon Tail",
