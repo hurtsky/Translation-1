@@ -16622,10 +16622,10 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 5607#
-
+Unknown Item, can be identified by [Magnifier].
 #
 5608#
-
+Unknown Item, can be identified by [Magnifier].
 #
 5609#
 Unknown Item, can be identified by [Magnifier].
@@ -18498,44 +18498,44 @@ Weight: ^7777771^000000
 
 #
 6228#
-...
-^ffffff_^000000
+^ff0000Cannot be traded.^000000
+You can refine your weapon to +9 through ^8B4513Prontera^000000's ^0000FFRefining Expert^000000. -1 time limited-
 Weight: ^7777770^000000
 #
 6229#
-...
-^ffffff_^000000
+^ff0000Cannot be traded.^000000
+You can refine your weapon to +8 through ^8B4513Prontera^000000's ^0000FFRefining Expert^000000. -1 time limited-
 Weight: ^7777770^000000
 #
 6230#
-Take this certificate, 1 Oridecon and an upgradable Weapon to Mighty Hammer in the Eden Group. If he fails on the upgrade when the item is +4, +5, or +6 the item will not break and it will stay at its current upgrade level.
-This item is Tradable, and Storagable only.
-Weight: ^7777771^000000
+^ff0000Cannot be traded.^000000
+You can refine your weapon to +7 through ^8B4513Prontera^000000's ^0000FFRefining Expert^000000. -1 time limited-
+Weight: ^7777770^000000
 #
 6231#
-...
-^ffffff_^000000
+^ff0000Cannot be traded.^000000
+You can refine your weapon to +6 through ^8B4513Prontera^000000's ^0000FFRefining Expert^000000. -1 time limited-
 Weight: ^7777770^000000
 #
 6232#
-...
-^ffffff_^000000
+^ff0000Cannot be traded.^000000
+You can refine your armor to +9 through ^8B4513Prontera^000000's ^0000FFRefining Expert^000000. -1 time limited-
 Weight: ^7777770^000000
 #
 6233#
-...
-^ffffff_^000000
+^ff0000Cannot be traded.^000000
+You can refine your armor to +8 through ^8B4513Prontera^000000's ^0000FFRefining Expert^000000. -1 time limited-
 Weight: ^7777770^000000
 #
 6234#
-Take this certificate, 1 Elunium and an upgradable Shield, Shoes, Clothing, or Armor to Mighty Hammer in the Eden Group. If he fails on the upgrade when the item is +4, +5, or +6 the item will not break and it will stay at its current upgrade level.
-This item is Tradable, and Storagable only.
-Weight: ^7777771^000000
+^ff0000Cannot be traded.^000000
+You can refine your armor to +7 through ^8B4513Prontera^000000's ^0000FFRefining Expert^000000. -1 time limited-
+Weight: ^7777770^000000
 #
 6235#
-Take this certificate, 1 Elunium and an upgradable Headgear to Mighty Hammer in the Eden Group. If he fails on the upgrade when the item is +4, +5, or +6 the item will not break and it will stay at its current upgrade level.
-This item is Tradable, and Storagable only.
-Weight: ^7777771^000000
+^ff0000Cannot be traded.^000000
+You can refine your armor to +6 through ^8B4513Prontera^000000's ^0000FFRefining Expert^000000. -1 time limited-
+Weight: ^7777770^000000
 #
 6236#
 ...
@@ -45393,7 +45393,7 @@ A hat depicting a sleeping baby dragon.
 It has the ability to grant it's wearer 20% more Base experience for each dragon type monster killed.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
-Head Position: ^777777Upper ^000000
+Head Position: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level	: ^7777770^000000
 Jobs: ^777777All^000000
@@ -47089,7 +47089,7 @@ If refined to 9, has a chance of autocasting Lv 5 Frost Nova.
 If refined to 10, ASPD +2%. (Attack after delay 2&), ATK +5.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
-Head Position: ^777777Upper ^000000
+Head Position: ^777777Upper^000000
 Weight: ^77777730^000000
 Required level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -47104,7 +47104,7 @@ DEX +1, Atk	+5.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
 Slot: ^7777771^000000
-Head Position: ^777777Upper ^000000
+Head Position: ^777777Upper^000000
 Weight: ^77777730^000000
 Required level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -47121,7 +47121,7 @@ If refined to 9, has a chance of autocasting Lv 5 Frost Nova.
 If refined to 10, ASPD +2%. (Attack after delay 2&), ATK +5.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
-Head Position: ^777777Upper ^000000
+Head Position: ^777777Upper^000000
 Weight: ^77777730^000000
 Required level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -47136,7 +47136,7 @@ DEX +1, Atk	+5.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
 Slot: ^7777771^000000
-Head Position: ^777777Upper ^000000
+Head Position: ^777777Upper^000000
 Weight: ^77777730^000000
 Required level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -47212,7 +47212,7 @@ If refined to 9, aditional increase Atk and Matk by 2%.
 Slot: ^7777771^000000
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
-Head Position: ^777777Upper ^000000
+Head Position: ^777777Upper^000000
 Weight: ^77777760^000000
 Required level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -47230,7 +47230,7 @@ If refined to 9, aditional increase Atk and Matk by 2%.
 Slot: ^7777771^000000
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
-Head Position: ^777777Upper ^000000
+Head Position: ^777777Upper^000000
 Weight: ^77777760^000000
 Required level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -47384,7 +47384,7 @@ When dealing physical or magical damage, has a low chance of activating Lv 1 Fro
 If refined to	8, activates Lv 5 Frost Joker.
 Class: ^777777Helmet^000000
 Defense: ^7777774^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -47401,7 +47401,7 @@ When dealing physical or magical damage, has a low chance of activating Lv 1 Fro
 If refined to	8, activates Lv 5 Frost Joker.
 Class: ^777777Helmet^000000
 Defense: ^7777774^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -48748,7 +48748,7 @@ A box that contains
 Description:
 A simple yellow hat with a long feather in it. Fashionistas wear it to the side lest they be shunned.
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -48770,7 +48770,7 @@ A box that contains
 Description:
 A newly hatched baby bird chirps it's tunes on a twig of dreams.
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -48791,7 +48791,7 @@ A box that contains
 Description:
 A mini red crown affixed to a headband and worn off to the side. Though not a true symbol of royalty, this crown does have a regal air about it.
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -48895,7 +48895,7 @@ Costume-Butterfly Ears
 Description:
 Have the appearance of wearing the wings of a butterfly as your ears with this accessory.
 Class: ^777777Middle^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -48908,7 +48908,7 @@ A box that contains
 Description:
 You can look like you just rolled off the assembly line with these bolt-on ear accessories.
 Class: ^777777Middle^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -49257,7 +49257,7 @@ ATK +5%.
 When the refine level gets +5 or higher, per refine level, increases 1% of Physical damage on Demi-human monsters, and reduces 1% of physical damage from Demi-human monsters.
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -49272,7 +49272,7 @@ MATK +5%, MDEF +5.
 When the refine level gets +5 or higher, per refine level, increases 1% of Magical damage on Demi-human monsters, and reduces 1% of magical damage from Demi-human monsters..
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000

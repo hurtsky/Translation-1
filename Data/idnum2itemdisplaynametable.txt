@@ -3285,7 +3285,7 @@
 5351#Sunflower#
 5352#Poporing_Cap#
 5353#Hat_of_the_Sun_God#
-5354#Muslim_Hat_M#
+5354#Songkok#
 5355#Selendang#
 5356#Festival_Pumpkin_Hat#
 5357#Wings_Of_Victory#
@@ -4025,7 +4025,7 @@
 6232#Safe_to_9_Body_Armor_Certificate#
 6233#Safe_to_8_Body_Armor_Certificate#
 6234#Safe_to_7_Body_Armor_Certificate#
-6235#Safe_to_7_Headgear_Certificate#
+6235#Safe_to_6_Body_Armor_Certificate#
 6236#Blue_7_Card#
 6237#Guarana_Fruit#
 6238#Safe_to_11_Weapon_Certificate#

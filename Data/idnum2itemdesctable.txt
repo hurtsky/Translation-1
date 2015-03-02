@@ -12261,7 +12261,7 @@ Indestructible
 Class: ^777777Shield^000000 
 Defense: ^777777100^000000
 Weight: ^777777150^000000
-Required Lv. : ^77777790^000000
+Required Level: ^77777790^000000
 Jobs: ^777777All^000000
 #
 2182#
@@ -28462,7 +28462,7 @@ Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Lower^000000
 Weight: ^77777710^000000
-Equipped by: ^777777All professions^000000
+Jobs: ^777777All^000000
 #
 5157#
 A surprisingly durable helmet that was crafted by expert Orcish smiths.
@@ -28728,7 +28728,7 @@ Class: ^777777Head Gear^000000
 Defense: ^7777773^000000
 Slot: ^777777Upper/Mid^000000
 Weight: ^77777750^000000
-Lvl required: ^77777750^000000
+Required Level: ^77777750^000000
 Jobs: ^777777Swordman/Merchant/Thief^000000
 #
 5182#
@@ -28809,7 +28809,7 @@ Jobs: ^777777All^000000
 5188#
 Given as a reward to creative members of the community to say 'thank you' for their help in contributing to the game.
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
 Required Level: ^77777750^000000
@@ -29064,7 +29064,7 @@ Class: 777777Headgear^000000
 Defense: ^7777776^000000
 Slot: ^777777Upper^000000
 Weight: ^777777100^000000
-Lvl required: ^77777730^000000
+Required Level: ^77777730^000000
 Jobs: ^777777All^000000
 #
 5213#
@@ -29561,7 +29561,7 @@ Class: ^777777Head Gear^000000
 Defense: ^7777771^000000
 Slot: ^777777Upper^000000
 Weight: ^77777730^000000
-Lvl required: ^77777720^000000
+Required Level: ^77777720^000000
 Jobs: ^777777All^000000
 #
 5253#
@@ -29622,7 +29622,7 @@ Class: ^777777Head Gear^000000
 Defense: ^7777773^000000
 Slot: ^777777Upper^000000
 Weight: ^77777730^000000
-Lvl required: ^77777720^000000
+Required Level: ^77777720^000000
 Jobs: ^777777All^000000
 #
 5258#
@@ -30185,7 +30185,7 @@ Class: ^777777Head Gear^000000
 Defense: ^7777772^000000
 Slot: ^777777Upper^000000
 Weight: ^77777780^000000
-Lvl required: ^77777745^000000
+Required Level: ^77777745^000000
 Jobs: ^777777All^000000
 #
 5301#
@@ -30223,7 +30223,7 @@ Class: ^777777Head Gear^000000
 Defense: ^7777774^000000
 Slot: ^777777Upper/Mid/Bottom^000000
 Weight: ^77777780^000000
-Lvl required: ^77777730^000000
+Required Level: ^77777730^000000
 Jobs: ^777777All^000000
 #
 5305#
@@ -30355,7 +30355,7 @@ Class: ^777777Head Gear^000000
 Defense: ^7777772^000000
 Slot: ^777777Upper^000000
 Weight: ^77777710^000000
-Lvl required: ^77777750^000000
+Required Level: ^77777750^000000
 Jobs: ^777777All^000000
 #
 5318#
@@ -30376,7 +30376,7 @@ When hunting Angel type monsters, can drop 'Box of Sunlight' in a certain probab
 MDEF +3.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777720^000000
 Required Lv: ^7777771^000000
 Jobs: ^777777All^000000
@@ -30406,7 +30406,7 @@ Class: ^777777Head Gear^000000
 Defense: ^7777772^000000
 Slot: ^777777Upper^000000
 Weight: ^77777710^000000
-Lvl required: ^77777724^000000
+Required Level: ^77777724^000000
 Jobs: ^777777All^000000
 #
 5323#
@@ -30519,7 +30519,7 @@ Class: ^777777Head Gear^000000
 Defense: ^7777772^000000
 Slot: ^777777Mid/Bottom^000000
 Weight: ^77777720^000000
-Lvl required: ^77777720^000000
+Required Level: ^77777720^000000
 Jobs: ^777777All^000000
 #
 5333#
@@ -30673,7 +30673,8 @@ Required Level: ^77777710^000000
 Jobs: ^777777All^000000
 #
 5347#
-A ceremonial hat worn during one's graduation. Class: ^777777Headgear^000000
+A ceremonial hat worn during one's graduation.
+Class: ^777777Headgear^000000
 Defense: ^7777775^000000
 Location: ^777777Upper^000000
 Weight: ^77777710^000000
@@ -31560,7 +31561,7 @@ Jobs: ^777777All^000000
 5430#
 Adds 10% bonus experience for each monster killed.
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -31848,7 +31849,7 @@ ATK +5, MATK +5%.
 If upgraded to 5 or higher, Atk and Matk percent are increased by 1 according to level.
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All except Novice^000000
@@ -32618,7 +32619,7 @@ Looks like an ugly frog but a handsome price is its inside and waiting for a lad
 AGI +1.
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777750^000000
 Required Level: ^77777730^000000
 Jobs: ^777777All Jobs except Novice^000000
@@ -32649,7 +32650,7 @@ A baby dragon who has been trained to help its master.
 Slot: ^7777771^000000
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level	: ^7777771^000000
 Jobs: ^777777All^000000
@@ -32713,7 +32714,7 @@ A Coati-shaped Hat with a cute thick tail. This hat comes with a fresh forest sc
 AGI +3, Can't be refined.
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777720^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Every Classes^000000
@@ -32909,7 +32910,7 @@ AGI +2, Low chance of autocast Lv.5 [Provoke] when attacked physically.
 Indestructable.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777720^000000
 Required Level: ^77777720^000000
 Jobs: ^777777All^000000
@@ -32945,7 +32946,7 @@ A hat which resembles the wild cat, Wild Rose.
 AGI +3.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777750^000000
 Required Level: ^77777720^000000
 Jobs: ^777777All Except Novice^000000
@@ -32955,7 +32956,7 @@ This hat is a legend to the people from whild festival world.
 Low chance of dropping 'Blue Herb' when hunt a Plant type monster.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^77777730^000000
 Jobs: ^777777All^000000
@@ -33115,7 +33116,7 @@ VIT +2.
 Have chance to inflict Stun to enemy during melee physical attack. Damage from Animal type monster +10%.
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Level Requirement: ^7777771^000000
 Jobs: ^777777All Job^000000
@@ -33125,7 +33126,7 @@ Baby Dokkaebi's strong firm horn. Some say this brings you wealth.
 Drops jewelry when killing monsters with low chance, with physical attack activates mammonite Lv5 by certain chance.(Spends zeny when activating, not available without zeny.)
 Class: ^777777Headgear^000000 
 Defense: ^7777776^000000
-Location: ^777777Upper ^000000 
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Jobs: ^777777All^000000
 #
@@ -33182,7 +33183,7 @@ A hat that is given to brave sailors.
 AGI +2.
 Class: ^777777Headgear^000000
 Defense: ^7777771^000000
-Item Position: ^777777Upper ^000000
+Item Position: ^777777Upper^000000
 Weight: ^7777771^000000
 Required Lv: ^7777770^000000
 Jobs: ^777777All^000000
@@ -33205,7 +33206,7 @@ Increase physical damage by 5% toward human monster.
 Decrease physical damage by 5% from human monster.
 class: ^777777headgear^000000 
 Defense: ^7777770^000000
-Location: ^777777upper ^000000 
+Location: ^777777Upper^000000
 Weight: ^77777770^000000
 Required Level: ^7777771^000000
 job: ^777777All^000000
@@ -33243,7 +33244,7 @@ A hat that is provided only for members of the Eden Group.
 It's designed to go well with a suit.
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^77777712^000000
 Jobs: ^777777All^000000
@@ -33254,7 +33255,7 @@ Reduce damage from demon monsters by 3%.
 Recover 1 SP when kill the enemies by using short range physical attack or magical attack.
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777740^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -33275,7 +33276,7 @@ Jobs: ^777777All^000000
 Look like emit out mosquitoes. feel like is work to ant and Cockroach. 
 Class: ^777777helm^000000
 Defense: ^7777775^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
 Jobs: ^777777AllJob^000000
@@ -33286,7 +33287,7 @@ A hat which gives out a smell that mosquitos hates.
 ATK,MATK +10 during the event period.
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
-Head Postion: ^777777Upper ^000000
+Head Postion: ^777777Upper^000000
 Weight: ^7777770^000000
 Required level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -33447,7 +33448,7 @@ A cute ribbon has one sied yellow the other side is green.
 MDEF +1.
 Class: ^777777Headgear^000000
 Defense: ^7777771^000000
-Item Position: ^777777Upper ^000000
+Item Position: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Lv: ^7777771^000000
 Jobs: ^777777All^000000
@@ -33457,7 +33458,7 @@ A two-toned banana yellow and green colored beret.
 LUK +3, MDEF +1.
 Class: ^777777Headgear^000000
 Defense: ^7777771^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -33470,7 +33471,7 @@ A legendary helmet,will be awarded to the First Best warrior.
 All Status +3.
 Class: ^777777Headgear^000000
 Defense: ^7777778^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^777777250^000000
 Level Requirement: ^7777771^000000
 Equipped by: ^777777All Series of job^000000
@@ -33480,23 +33481,24 @@ A legendary helmet,will be awarded to Second Best warrior.
 All Status +2.
 Class: ^777777Headgear^000000
 Defense: ^7777776^000000
-Location: ^777777Upper ^000000 Weight: ^777777250^000000
+Location: ^777777Upper^000000
+Weight: ^777777250^000000
 Level Requirement: ^7777771^000000
-Equipped by: ^777777All Series of job^000000
+Jobs: ^777777All^000000
 #
 5605#
 A legendary helmet,will be awarded to third Best warrior.
 All Status +1.
 Class: ^777777Headgear^000000
 Defense: ^7777774^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^777777250^000000
 Level Requirement: ^7777771^000000
-Equipped by: ^777777All Series of job^000000
+Jobs: ^777777All^000000
 #
 5606#
 ...
-ALL STATUS +1.
+All stats +1.
 Class: ^777777Headgear^000000
 Defense: ^7777774^000000
 Location: ^777777Upper^000000
@@ -33505,17 +33507,35 @@ Required Level: ^7777773^000000
 Jobs: ^777777All^000000
 #
 5607#
-
+A doll resemble lyria, her innocence empower people.
+MaxHP +500
+Reduce damage from demi-human by 5%.
+Cannot be refined.
+Class: ^777777Headgear^000000
+Defense: ^7777770^000000
+Slot: ^777777Upper^000000
+Weight: ^77777750^000000
+Required Level: ^77777760^000000
+Jobs: ^777777All^000000
 #
 5608#
-
+A doll resemble Dorothy, you can feel her strong will.
+MaxSP +500
+Reduce damage from demi-human by 5%.
+Cannot be refined.
+Class: ^777777Headgear^000000
+Defense: ^7777770^000000
+Slot: ^777777Upper^000000
+Weight: ^77777750^000000
+Required Level: ^77777760^000000
+Jobs: ^777777All^000000
 #
 5609#
 When you have it, you can feel a splendid aristocratic atmosphere of chung.
 LUK +3.
 When you are under physical attack, it uses Lv5 Mammonite skill by low chance.
 (if you don’t have zeny, it doesn't work.)
-Class: ^777777Head Gear^000000
+Class: ^777777Headgear^000000
 Defense: ^7777775^000000
 Slot: ^777777Upper^000000
 Weight: ^77777750^000000
@@ -34125,8 +34145,7 @@ or Tradable
 Can be placed in Kafra Storage
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
-Location:
-^777777Upper, Mid, Lower^000000
+Location: ^777777Upper, Mid, Lower^000000
 Weight: ^77777710^000000
 Required Level: ^77777710^000000
 Jobs: ^777777All^000000
@@ -34217,7 +34236,14 @@ Weight: ^77777780^000000
 Jobs: ^777777All^000000
 #
 5653#
-placeholder
+A Helm crafted by Demons specially for the Dark Lord.
+Has several powers set to Dark Lords from the past generations.
+Hidden ability gets activated upon the combination of certain Mid Head gear.
+Class: ^777777Headgear^000000
+Defense: ^7777775^000000
+Location: ^777777Upper^000000
+Weight: ^77777730^000000
+Jobs: ^777777All^000000
 #
 5654#
 A marching hat with holy angel wings affixed to the sides made famous by a righteous Rune Midgardian band.
@@ -34309,7 +34335,7 @@ If refined to 9 or higher,
 MATK +5% and adds a chance of casting Lv 5 Frost Nova when physically attacked.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -34323,7 +34349,7 @@ If refined to 9 or higher,
 Flee +5 and physical attack power +3%.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -34383,16 +34409,32 @@ It has the power to make monsters drop Pumpkin Pies when killed by its wearer.
 MDEF +5.
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 5669#
-placeholder
+Hat resemble poring that ready to party.
+Class: ^777777Headgear^000000
+Defense: ^7777771^000000
+Location: ^777777Upper^000000
+Weight: ^77777730^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 5670#
-placeholder
+A hat that wear on anniversary event.
+AGI +1
+When melee attacking has low chance to activate level 1 Steal.
+[+^008800Monocle^000000]
+Increase that chance to activate level 1 Steal.
+Class: ^777777Headgear^000000
+Defense: ^7777773^000000
+Location: ^777777Upper^000000
+Weight: ^77777730^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 5671#
 An unusually cute doll of the usually hideous Incarnation of Morocc monster.
@@ -34434,7 +34476,7 @@ If refined to 9, has a chance of autocasting Lv 5 Frost Nova.
 If refined to 10, ASPD +2%. (Attack after delay 2&), ATK +5.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -34447,7 +34489,7 @@ DEX +1, Atk	+5.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
 Slot: ^7777771^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -34500,7 +34542,7 @@ Jobs: ^777777All^000000
 An imitation of the famous Magestic Goat. Though, it seems like it doesn't have any magical effects.
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -34509,7 +34551,7 @@ Jobs: ^777777All^000000
 A carefully imitated Jewel Crown replica that looks quite good.
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -34527,7 +34569,7 @@ An S-grade replica which is copied in detail down to the wrinkles.
 It even feels like the real thing.
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Leve: ^7777771^000000
 Jobs: ^777777All^000000
@@ -34536,7 +34578,7 @@ Jobs: ^777777All^000000
 A helm of an Orc that copies it's primitive feelings.
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -34571,7 +34613,7 @@ If refined to 9, additional increase Atk and Matk by 2%.
 Slot: ^7777771^000000
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
-Head Position: ^777777Upper ^000000
+Head Position: ^777777Upper^000000
 Weight: ^77777760^000000
 Required Level: ^77777750^000000
 Jobs: ^777777All^000000
@@ -34608,7 +34650,7 @@ Reduce damage from Demi-Humans by 2%
 When worn with No Fear Shoes and No Fear Belt-Cannot be frozen, Increase EXP Gain by 5%.
 Class: ^777777Headgear^000000
 Defense: ^77777710^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^77777720^000000
 Jobs: ^777777All^000000
@@ -34619,7 +34661,7 @@ VIT +1, MaxHP +100.
 Reduce damage from Demi-Humans by 2%
 Class: ^777777Headgear^000000
 Defense: ^7777771^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^77777720^000000
 Jobs: ^777777All Jobs Except Novice^000000
@@ -34654,7 +34696,7 @@ When dealing physical or magical damage, has a low chance of activating Lv 1 Fro
 If refined to	8, activates Lv 5 Frost Joker.
 Class: ^777777Headgear^000000
 Defense: ^7777774^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -34713,7 +34755,7 @@ If refined to +5 adds a further 5%
 If refined to +7 adds a further 3% for a total of 10% Damage versus beasts!
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777740^000000
 Required Level: ^77777710^000000
 Jobs: ^777777All^000000
@@ -34727,7 +34769,7 @@ DEX +2, VIT +2
 If refined to 7 or higher, when melee-attacking, has a chance of auto-casting Lv 1 Mild Wind (Earth endow).
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -34742,7 +34784,7 @@ If refined to 9 or higher, increases the effectiveness of Heal and Sanctuary ski
 If refined to 10 or higher, when attacked, has a low chance of auto-casting Lv 5 Hammer Fall.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -34753,7 +34795,7 @@ STR +1, INT +1, MDEF +5.
 When pure Str is 120, ATK +10, MATK +5.
 Class: ^777777Headgear^000000
 Defense: ^77777712^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^777777100^000000
 Jobs: ^777777Rune Knight^000000
@@ -34765,7 +34807,7 @@ Increase 5% of self-using heal effect.
 When pure Int is 120, MATK +10.
 Class: ^777777Headgear^000000
 Defense: ^77777712^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^777777100^000000
 Jobs: ^777777Arch Bishop^000000
@@ -34787,7 +34829,7 @@ STR +1, DEX +1, MDEF +5.
 When pure Str is 120, ATK +10, CRI +3.
 Class: ^777777Headgear^000000
 Defense: ^77777712^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight:: ^77777710^000000
 Required Level: ^777777100^000000
 Jobs: ^777777Mechanic^000000
@@ -34798,7 +34840,7 @@ INT +1, AGI +1, MDEF +1.
 When pure Agi is 120, ATK +10, Flee +3.
 Class: ^777777Headgear^000000
 Defense: ^77777712^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^777777100^000000
 Jobs: ^777777Shadow Chaser^000000
@@ -34810,7 +34852,7 @@ Increases long range physical attack power by 5%
 rushed toward windmill, decrease sp by 10.
 Class: ^777777Headgear^000000
 Defense: ^77777712^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^777777100^000000
 Jobs: ^777777Minstrel^000000
@@ -34821,7 +34863,7 @@ STR +1, DEX +1, MDEF +5.
 When pure Str is 120, ATK +5, ASPD +1.
 Class: ^777777Headgear^000000
 Defense: ^77777712^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^777777100^000000
 Jobs: ^777777Geneticist^000000
@@ -34911,7 +34953,7 @@ AGI +2.
 Chance to use the skill Sonic Blow lvl 5 when you attack physically in short distance .
 Class: ^777777Headgear^000000 
 Defense: ^7777773^000000
-Weapon position: ^777777Upper ^000000 
+Weapon position: ^777777Upper^000000
 Weight: ^77777780^000000
 Required Lv: ^7777771^000000
 Jobs: ^777777All^000000
@@ -34922,7 +34964,7 @@ ALL State +1, MDEF +5.
 2% resistence to human and animal monsters.
 Class: ^777777Headgear^000000 
 Defense: ^7777775^000000
-Location: ^777777Upper^000000 
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -35130,7 +35172,7 @@ If refined to 9, increase ATK and MATK by 2%.
 If refined to 10, increase ATK and MATK by 2% in addition.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777720^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All Jobs ^000000
@@ -35143,7 +35185,7 @@ If refined to 9, increase ATK and MATK by 2%.
 If refined to 10, increase ATK and MATK by 2% in addition.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777720^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All Jobs ^000000
@@ -35156,7 +35198,7 @@ If refined to 9, increase ATK and MATK by 2%.
 If refined to 10, increase ATK and MATK by 2% in addition.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777720^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All Jobs ^000000
@@ -35202,7 +35244,7 @@ A fish-shaped pin. It's pretty but doesn't seem very powerful.
 Decreases damage from fish-type monsters by 1%.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -35771,7 +35813,7 @@ Enhanced version of Army Cap from the Midgard Crowd Control event.
 Reduce damage from Demi-Human by 10%
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^77777760^000000
 Jobs: ^777777All^000000
@@ -35781,7 +35823,7 @@ Enhanced version of Kafra Band from the Midgard Crowd Control event.
 Reduce damage from Demi-Human by 10%
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^77777760^000000
 Jobs: ^777777All^000000
@@ -35826,7 +35868,7 @@ Stone Curse to enemies in a certain chance when you got physical damaged.
 Speed increase when it equpped. 
 Class: ^777777Headgear^000000
 Defense: ^7777774^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -35836,7 +35878,7 @@ Helmet made by mysterious eggs. Pink bunny is so cute.
 AGI +3, ASPD +1.
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -35846,7 +35888,7 @@ Helmet made by mysterious eggs. Picky is hippity-hoppity on the head.
 VIT +3, MDEF +2.
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -35861,7 +35903,7 @@ All Stat + 5.
 Impossible to destroy.
 Class: ^777777Headgear^000000
 Defense: ^7777777^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777760^000000
 Required Level: ^77777760^000000
 Jobs: ^777777Rebirth Swordman and Merchant Class^000000
@@ -35876,7 +35918,7 @@ All Stat +5.
 Impossible to destroy.
 Class: ^777777Headgear^000000
 Defense: ^7777776^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777760^000000
 Required Level: ^77777760^000000
 Jobs: ^777777Rebirth Archer/Thief Class^000000
@@ -35891,7 +35933,7 @@ All Stat +5.
 Impossible to destroy.
 Class: ^777777Headgear^000000
 Defense: ^7777776^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777760^000000
 Required Level: ^77777760^000000
 Jobs: ^777777Rebirth Magician/Acolyte Class^000000
@@ -35904,7 +35946,7 @@ If upgraded to +7 or higher, Increases damage for all races by 10%
 ^ff0000Account Bound^000000
 Class: ^777777Headgear^000000
 Defense: ^7777777^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777720^000000
 Required Level: ^77777730^000000
 Jobs: ^777777All^000000
@@ -35916,7 +35958,7 @@ If upgraded to +7 or higher, FLEE +10, LUK +10.
 ^ff0000Account Bound^000000
 Class: ^777777Headgear^000000
 Defense: ^7777777^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777720^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -35933,7 +35975,7 @@ Reduces variable cast time by 20%
 Reduces 'Neutral' property damage by 5%.
 Class: ^777777Headgear^000000
 Defense: ^77777720^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777775^000000
 Required Level: ^777777100^000000
 Jobs: ^777777Super Novice Only^000000
@@ -35947,9 +35989,9 @@ If upgraded to +9 or higher,, increases Arrow Storm damage additionally by 2% fo
 ^ff0000This item cannot be traded with other accounts.^000000
 Class: ^777777Headgear^000000
 Defense: ^77777710^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777720^000000
-Required Lv. : ^777777100^000000
+Required Level: ^777777100^000000
 Job : ^777777Ranger only^000000
 #
 5899#
@@ -35960,9 +36002,9 @@ If upgraded to +9 or higher, increases the damage done by Ignition Break by 30%
 ^ff0000This item cannot be traded with other accounts.^000000
 Class: ^777777Headgear^000000
 Defense: ^77777710^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777720^000000
-Required Lv. : ^777777100^000000
+Required Level: ^777777100^000000
 Job : ^777777Rune Knight Only^000000
 #
 5900#
@@ -35973,9 +36015,9 @@ If upgraded to +9 or higher, Increase Genesis Ray damage by 20%.
 ^ff0000This item cannot be traded with other accounts.^000000
 Class: ^777777Headgear^000000
 Defense: ^77777710^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777720^000000
-Required Lv. : ^777777100^000000
+Required Level: ^777777100^000000
 Job : ^777777Royal Guard Only^000000
 #
 5901#
@@ -35986,9 +36028,9 @@ If upgraded to +9 or higher,, Increase Fallen Empire damage by 30%.
 ^ff0000This item cannot be traded with other accounts.^000000
 Class: ^777777Headgear^000000
 Defense: ^77777710^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777720^000000
-Required Lv. : ^777777100^000000
+Required Level: ^777777100^000000
 Job : ^777777Sura Only^000000
 #
 5902#
@@ -35999,9 +36041,9 @@ If upgraded to +9 or higher, increases the damage done by Cart Cannon skill by 1
 ^ff0000This item cannot be traded with other accounts.^000000
 Class: ^777777Headgear^000000
 Defense: ^77777710^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777720^000000
-Required Lv. : ^777777100^000000
+Required Level: ^777777100^000000
 Job : ^777777Genetic Only^000000
 #
 5903#
@@ -36014,9 +36056,9 @@ If upgraded to +9 or higher, reduce variable casting by 20%, when Estun, Esma is
 ^ff0000This item cannot be traded with other accounts.^000000
 Class: ^777777Headgear^000000
 Defense: ^77777715^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777720^000000
-Required Lv. : ^77777799^000000
+Required Level: ^77777799^000000
 Job : ^777777Magician and Soul Linker Only^000000
 #
 5904#
@@ -36027,9 +36069,9 @@ If upgraded to +9 or higher,, Additional increase on MATK by 5%.
 ^ff0000This item cannot be traded with other accounts.^000000
 Class: ^777777Headgear^000000
 Defense: ^77777710^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777720^000000
-Required Lv. : ^777777100^000000
+Required Level: ^777777100^000000
 Job : ^777777Shadow chaser only^000000
 #
 5905#
@@ -36041,9 +36083,9 @@ If upgraded to +9 or higher, reduces the SP cost of Severe Rainstorm by 10.
 ^ff0000This item cannot be traded with other accounts.^000000
 Class: ^777777Headgear^000000
 Defense: ^77777710^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777720^000000
-Required Lv. : ^777777100^000000
+Required Level: ^777777100^000000
 Job : ^777777Maestro only^000000
 #
 5906#
@@ -36055,9 +36097,9 @@ If upgraded to +9 or higher, when physical attacking, autocast Cross Impact Lv.1
 ^ff0000This item cannot be traded with other accounts.^000000
 Class: ^777777Headgear^000000
 Defense: ^77777710^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777720^000000
-Required Lv. : ^777777100^000000
+Required Level: ^777777100^000000
 Job : ^777777Guillotine cross only^000000
 #
 5907#
@@ -36070,9 +36112,9 @@ If upgraded to +9 or higher,,each level of Axe Mastery increases the damage of A
 ^ff0000This item cannot be traded with other accounts.^000000
 Class: ^777777Headgear^000000
 Defense: ^77777720^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777720^000000
-Required Lv. : ^777777100^000000
+Required Level: ^777777100^000000
 Job : ^777777Mechanic only^000000
 #
 5918#
@@ -36080,7 +36122,7 @@ Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Middle^000000
 Weight: ^77777750^000000
-Required Lv. : ^77777770^000000
+Required Level: ^77777770^000000
 Job : ^777777All^000000
 #
 5920#
@@ -37305,44 +37347,44 @@ Weight: ^7777770^000000
 
 #
 6228#
-...
-^ffffff_^000000
+^ff0000Cannot be traded.^000000
+You can refine your weapon to +9 through ^8B4513Prontera^000000's ^0000FFRefining Expert^000000. -1 time limited-
 Weight: ^7777770^000000
 #
 6229#
-...
-^ffffff_^000000
+^ff0000Cannot be traded.^000000
+You can refine your weapon to +8 through ^8B4513Prontera^000000's ^0000FFRefining Expert^000000. -1 time limited-
 Weight: ^7777770^000000
 #
 6230#
-Take this certificate, 1 Oridecon and an upgradable Weapon to Mighty Hammer in the Eden Group. If he fails on the upgrade when the item is +4, +5, or +6 the item will not break and it will stay at its current upgrade level.
-This item is Tradable, and Storagable only.
-Weight: ^7777771^000000
+^ff0000Cannot be traded.^000000
+You can refine your weapon to +7 through ^8B4513Prontera^000000's ^0000FFRefining Expert^000000. -1 time limited-
+Weight: ^7777770^000000
 #
 6231#
-...
-^ffffff_^000000
+^ff0000Cannot be traded.^000000
+You can refine your weapon to +6 through ^8B4513Prontera^000000's ^0000FFRefining Expert^000000. -1 time limited-
 Weight: ^7777770^000000
 #
 6232#
-...
-^ffffff_^000000
+^ff0000Cannot be traded.^000000
+You can refine your armor to +9 through ^8B4513Prontera^000000's ^0000FFRefining Expert^000000. -1 time limited-
 Weight: ^7777770^000000
 #
 6233#
-...
-^ffffff_^000000
+^ff0000Cannot be traded.^000000
+You can refine your armor to +8 through ^8B4513Prontera^000000's ^0000FFRefining Expert^000000. -1 time limited-
 Weight: ^7777770^000000
 #
 6234#
-Take this certificate, 1 Elunium and an upgradable Shield, Shoes, Clothing, or Armor to Mighty Hammer in the Eden Group. If he fails on the upgrade when the item is +4, +5, or +6 the item will not break and it will stay at its current upgrade level.
-This item is Tradable, and Storagable only.
-Weight: ^7777771^000000
+^ff0000Cannot be traded.^000000
+You can refine your armor to +7 through ^8B4513Prontera^000000's ^0000FFRefining Expert^000000. -1 time limited-
+Weight: ^7777770^000000
 #
 6235#
-Take this certificate, 1 Elunium and an upgradable Headgear to Mighty Hammer in the Eden Group. If he fails on the upgrade when the item is +4, +5, or +6 the item will not break and it will stay at its current upgrade level.
-This item is Tradable, and Storagable only.
-Weight: ^7777771^000000
+^ff0000Cannot be traded.^000000
+You can refine your armor to +6 through ^8B4513Prontera^000000's ^0000FFRefining Expert^000000. -1 time limited-
+Weight: ^7777770^000000
 #
 6236#
 ...
@@ -68412,7 +68454,7 @@ A baby dragon who has been trained to help its master.
 Slot: ^7777771^000000
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level	: ^7777771^000000
 Jobs: ^777777All^000000
@@ -68452,7 +68494,7 @@ A Coati-shaped Hat with a cute thick tail. This hat comes with a fresh forest sc
 AGI +3, Can't be refined.
 Class: ^777777Headgear^000000
 Defense: ^7777771^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777770^000000
 Required Level: ^77777745^000000
 Jobs: ^777777Every Classes^000000
@@ -70232,7 +70274,7 @@ If refined to 9 or higher,
 MATK +5% and adds a chance of casting Lv 5 Frost Nova when physically attacked.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -70250,7 +70292,7 @@ If refined to 9 or higher,
 MATK +5% and adds a chance of casting Lv 5 Frost Nova when physically attacked.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -70267,7 +70309,7 @@ If refined to 9 or higher,
 Flee +5 and physical attack power +3%.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -70284,7 +70326,7 @@ If refined to 9 or higher,
 Flee +5 and physical attack power +3%.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -70348,7 +70390,7 @@ If refined to 9, has a chance of autocasting Lv 5 Frost Nova.
 If refined to 10, ASPD +2%. (Attack after delay 2&), ATK +5.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -70363,7 +70405,7 @@ DEX +1, Atk	+5.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
 Slot: ^7777771^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -70380,7 +70422,7 @@ If refined to 9, has a chance of autocasting Lv 5 Frost Nova.
 If refined to 10, ASPD +2%. (Attack after delay 2&), ATK +5.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -70395,7 +70437,7 @@ DEX +1, Atk	+5.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
 Slot: ^7777771^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -70470,7 +70512,7 @@ If refined to 9, aditional increase Atk and Matk by 2%.
 Slot: ^7777771^000000
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
-Head Position: ^777777Upper ^000000
+Head Position: ^777777Upper^000000
 Weight: ^77777760^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -70488,7 +70530,7 @@ If refined to 9, aditional increase Atk and Matk by 2%.
 Slot: ^7777771^000000
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
-Head Position: ^777777Upper ^000000
+Head Position: ^777777Upper^000000
 Weight: ^77777760^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -70642,7 +70684,7 @@ When dealing physical or magical damage, has a low chance of activating Lv 1 Fro
 If refined to	8, activates Lv 5 Frost Joker.
 Class: ^777777Headgear^000000
 Defense: ^7777774^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -70659,7 +70701,7 @@ When dealing physical or magical damage, has a low chance of activating Lv 1 Fro
 If refined to	8, activates Lv 5 Frost Joker.
 Class: ^777777Headgear^000000
 Defense: ^7777774^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -70780,7 +70822,7 @@ DEX +2, VIT +2
 If refined to 7 or higher, when melee-attacking, has a chance of auto-casting Lv 1 Mild Wind (Earth endow).
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -70793,7 +70835,7 @@ DEX +2, VIT +2
 If refined to 7 or higher, when melee-attacking, has a chance of auto-casting Lv 1 Mild Wind (Earth endow).
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -70810,7 +70852,7 @@ If refined to 9 or higher, increases the effectiveness of Heal and Sanctuary ski
 If refined to 10 or higher, when attacked, has a low chance of auto-casting Lv 5 Hammer Fall.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -70827,7 +70869,7 @@ If refined to 9 or higher, increases the effectiveness of Heal and Sanctuary ski
 If refined to 10 or higher, when attacked, has a low chance of auto-casting Lv 5 Hammer Fall.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -72919,7 +72961,7 @@ A box that contains
 Description:
 A simple yellow hat with a long feather in it. Fashionistas wear it to the side lest they be shunned.
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -72941,7 +72983,7 @@ A box that contains
 Description:
 A newly hatched baby bird chirps it's tunes on a twig of dreams.
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -72962,7 +73004,7 @@ A box that contains
 Description:
 A mini red crown affixed to a headband and worn off to the side. Though not a true symbol of royalty, this crown does have a regal air about it.
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -73082,7 +73124,7 @@ A box that contains
 Description:
 You can look like you just rolled off the assembly line with these bolt-on ear accessories.
 Class: ^777777Middle^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -73291,7 +73333,7 @@ If refine level is at +7 or higher, this percentage increases by 2.
 ^FF0000Concept created by Channa^000000
 Class: ^777777Headgear^000000
 Defense: ^7777776^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777720^000000
 Required Level: ^77777770^000000
 Jobs: ^777777All^000000
@@ -73544,7 +73586,7 @@ A cute beret with cat ears! Cats don't normally wear hats but if they did they w
 If upgraded to +5 or higher, increases 2% of Physical damage on Demi-human monsters and reduces 2% of physical damage from Demi-human monsters per refine level over 4 and caps at level 12.
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -73559,7 +73601,7 @@ MDEF +5.
 If upgraded to +5 or higher, increases 2% of Magical damage on Demi-human monsters, and reduces 2% of magical damage from Demi-human monsters per refine level over 4 and caps at level 12.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -74265,7 +74307,7 @@ If upgraded to +7 or higher, Increases damage for all races by 10%
 ^ff0000Box can be traded/stored/vended. Once open the headgear is Account Bound^000000
 Class: ^777777Headgear^000000
 Defense: ^7777777^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777720^000000
 Required Level: ^77777730^000000
 Jobs: ^777777All^000000
@@ -74279,7 +74321,7 @@ If upgraded to +7 or higher, FLEE +10, LUK +10.
 ^ff0000Box can be traded/stored/vended. Once open the headgear is Account Bound^000000
 Class: ^777777Headgear^000000
 Defense: ^7777777^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777720^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -75128,7 +75170,7 @@ Reduce 10% damage from Demi-humans.
 Can't be refined.
 Class: ^777777Headgear^000000
 Defense: ^7777771^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777720^000000
 Required Level: ^77777760^000000
 Jobs: ^777777All^000000
@@ -75152,7 +75194,7 @@ OFP +2.
 ¶¿·® ¿ø¿ÝÀ´ ¶ÞÀ´ ²Ã ÀÏÁ¤È®¸ü¸Î ÀÎºà±î Oe1 ¶ßº°.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^7777770^000000
 Jobs: ^777777¼ëµñ²µ·¦ Á¦°ÜÇÑ ÀüÁ÷±÷^000000
@@ -75163,7 +75205,7 @@ It's designed to go well with a suit.
 Has a chance of adding 10 Atk or 10 Matk power for 5 seconds while doing physical or magic damage.
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^77777760^000000
 Jobs: ^777777All^000000
@@ -75220,7 +75262,7 @@ A crown that only the person who receives the tribal honor of the Jaty Tribe can
 Decrease 5% of damage from animal and plant type monsters. Increases 5% of damage to animal and plant type monsters.
 Class: ^777777Headgear^000000
 Defense: ^7777771^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -75259,7 +75301,7 @@ The level of your Lightning Bolt and Thunder Storm will increase the probability
 Cannot be refined.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777750^000000
 Required Level: ^77777730^000000
 Jobs: ^777777All^000000
@@ -75354,7 +75396,7 @@ A cute hairband with an outstanding blue-laced ribbon.
 INT +2
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required level: ^77777710^000000
 Jobs: ^777777All^000000
@@ -75403,7 +75445,7 @@ A souvenir hat from Malangdo
 FLEE +6
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
-location: ^777777Upper ^000000
+location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -75491,7 +75533,7 @@ Reduces 5% of skill casting change duration.
 Additional 5% duration reducing for +7 enchant.
 Class: ^777777Headgear^000000
 Defense: ^7777777^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^77777720^000000
 Jobs: ^777777All^000000
@@ -75537,7 +75579,7 @@ Add a 5% resistance to Plant-type monsters.
 Add a chance of gaining 'Izidor' each time a Plant-type monster is killed.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777720^000000
 Required Level: ^77777720^000000
 Jobs: ^777777All^000000
@@ -75587,7 +75629,7 @@ When using Shusi and Fish Slice, HP Recovery+100%.
 When equipped with Crab Card, Aster Card and Shellfish Card, damage to Water Type monster +10%.
 Class: ^777777Headgear^000000
 Defense: ^7777778^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^777777100^000000
 Level Requirement : ^7777771^000000
 Jobs: ^777777All^000000
@@ -75634,7 +75676,7 @@ Increase EXP by 5% when killing Plant monsters.
 Increase 10% damage taken from Plant monsters.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^777777100^000000
 Required Level: ^77777710^000000
 Jobs: ^777777All^000000
@@ -75664,7 +75706,7 @@ Reduce damage from demihuman monster by 10%.
 VIT +2, MDEF +3.
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^77777740^000000
 Jobs: ^777777All^000000
@@ -75692,7 +75734,7 @@ If refined to +8 or higher, adds a chance of automatically using 1 Green Ale whi
 ^ff0000Can be traded, stored, and vended^000000
 Class: ^777777Headgear^000000
 Defense: ^7777778^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^77777740^000000
 Jobs: ^777777All^000000
@@ -75711,7 +75753,7 @@ jobs: ^777777All Jobs ^000000
 It seems the nose of a liar talented. Rumor has it that this wooden nose was a god of lies.
 Class: ^777777Headgear^000000
 Defense: ^7777777^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -75728,7 +75770,7 @@ If Mage or Acolyte, MATK +8%, increase 7% of heal amount,
 If Archer, DEX +3, increase long distance physical attack power 10%.
 Class: ^777777Headgear^000000
 Defense: ^7777777^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777740^000000
 Required Level: ^777777100^000000
 Jobs: ^777777For 3rd Job only/Kagerou/Oboro^000000
@@ -75739,7 +75781,7 @@ This item cannot be refined.
 When killing monster, increase Exp.3.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^777777100^000000
 Required Levelel: ^7777771^000000
 Jobs: ^777777All^000000
@@ -75763,7 +75805,7 @@ Every 1 refine, increase 1% ranged attack
 All stats +1, reduce damage from demi-human by 10%
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Levelel: ^7777771^000000
 Jobs: ^777777All^000000
@@ -75775,7 +75817,7 @@ If refined to +5, HIT -10, MaxHP +10%;
 HIT -3, MaxHP +3% for every addtional 2 refining level increase.
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777750^000000
 Level Requirement : ^77777730^000000
 Jobs: ^777777All^000000
@@ -75851,7 +75893,7 @@ If refine level is +7 or higher, this percentage increases by 2.
 ^FF0000Concept created by Channa^000000
 Class: ^777777Headgear^000000
 Defense: ^7777776^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777720^000000
 Required Level: ^77777770^000000
 Jobs: ^777777All^000000
@@ -75911,7 +75953,7 @@ If refined to 9, increase ATK and MATK by 2%
 If refined to 12, reduce fix casting time by 10%
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777771^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -75925,7 +75967,7 @@ If refined to 9, increase ATK and MATK by 2%
 If refined to 12, reduce fix casting time by 10%
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777771^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -75939,7 +75981,7 @@ If refined to 9, increase ATK and MATK by 2%
 If refined to 12, reduce fix casting time by 10%
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777771^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -75953,7 +75995,7 @@ If refined to 9, increase ATK and MATK by 2%
 If refined to 12, reduce fix casting time by 10%
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777771^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -75976,7 +76018,7 @@ increase registance 5% from evel monster type
 MDEF +3.
 Class: ^777777headgear^000000
 Defense: ^7777773^000000
-Location: ^777777upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777720^000000
 Required Level: ^77777710^000000
 Jobs: ^777777All^000000
@@ -76002,7 +76044,7 @@ If refine over +5, add MATK +1%.
 If refine over +7, add MATK +2%.
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Levelel: ^77777730^000000
 Jobs: ^777777All^000000
@@ -76061,7 +76103,7 @@ A cute beret with cat ears! Cats don't normally wear hats but if they did they w
 If upgraded to +5 or higher, increases 2% of Physical damage on Demi-human monsters and reduces 2% of physical damage from Demi-human monsters per refine level over 4 and caps at level 12.
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -76072,7 +76114,7 @@ MDEF +5.
 If upgraded to +5 or higher, increases 2% of Magical damage on Demi-human monsters, and reduces 2% of magical damage from Demi-human monsters per refine level over 4 and caps at level 12.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -76256,7 +76298,7 @@ Increase moving speed,
 Indestructible.
 Class: ^777777Headgear^000000
 Defense: ^77777720^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^777777100^000000
 Level Requirement : ^77777795^000000
 Jobs: ^777777All Job^000000
@@ -76290,7 +76332,7 @@ MaxHP +2%, decrese -5% of damange from demi human monster
 if equipped with manteau of boss tare, able to decrease -10% of damage and MaxHP +3% from demi human monsters
 Class: ^777777headgear^000000
 Defense: ^7777775^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777750^000000
 Required Levelel : ^77777750^000000
 Jobs: ^777777All^000000
@@ -76302,7 +76344,7 @@ With a pet desert wolf, additional 5% damage to small-type monsters.
 Adds 5% intimacy if the stat is close friends.
 Class: ^777777headgear^000000
 Def : ^7777770^000000
-location: ^777777upper ^000000
+location: ^777777Upper^000000
 Weight: ^77777730^000000
 Jobs: ^777777All^000000
 #
@@ -76536,7 +76578,7 @@ Class: ^777777Headgear^000000
 Defense: ^77777710^000000
 Location: ^777777Upper^000000
 Weight: ^777777150^000000
-Required Lv. : ^77777780^000000
+Required Level: ^77777780^000000
 Jobs: ^777777All jobs ^000000
 #
 18653#
@@ -76885,7 +76927,7 @@ Using a form decorative star of the Stardust, the hair band that was created. It
 +EXP 5% from none-type of monster, and +10% of damage from it 
 Class: ^777777headgear^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^777777100^000000
 Required Levelel : ^77777710^000000
 Jobs: ^777777All^000000
@@ -77037,7 +77079,7 @@ MDEF +4, MaxSP +64.
 Increases Physical damage received from insect monsters by 10%.
 Class: ^777777Headgear^000000
 Defense: ^7777776^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777764^000000
 Required Level: ^77777764^000000
 Jobs: ^777777All^000000
@@ -77193,7 +77235,7 @@ if refined is over lv 7 , additional HP recovery +100% with sushi, raw fish
 if euipped with Sea Otter Card, additional HP recovery +50% with sushi, raw fish
 Class: ^777777headgear^000000
 Def : ^77777713^000000
-Location: ^777777upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Lv : ^77777710^000000
 Jobs: ^777777All^000000
@@ -77202,9 +77244,9 @@ Jobs: ^777777All^000000
 A Helmet from Aegir, god of Ocean. If the whole set of Egir are gathered, it will show the power of the Sea.
 Class: ^777777Headgear^000000 
 Defense: ^77777710^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777780^000000
-Required Lv. : ^777777110^000000
+Required Level: ^777777110^000000
 Jobs: ^777777All^000000
 #
 18729#
@@ -77215,7 +77257,7 @@ Variable casting time -3%.
 If refined to +12, variable casting time -1%; If refined to +14, variable casting -1%. (Maximum reduce by 5%)
 Class: ^777777Headgear^000000
 Defense: ^7777776^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777715^000000
 Level Requirement : ^7777771^000000
 Jobs: ^777777All^000000
@@ -77234,7 +77276,7 @@ Valkyrie's favorite Sunday fighting hat. It doesn't look much different than the
 Cannot be upgraded
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -77292,7 +77334,7 @@ Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Middle^000000
 Weight: ^77777720^000000
-Required Lv. : ^7777771^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 18737#
@@ -77303,7 +77345,7 @@ Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Middle^000000
 Weight: ^77777720^000000
-Required Lv. : ^77777710^000000
+Required Level: ^77777710^000000
 Jobs: ^777777All^000000
 #
 18738#
@@ -77314,7 +77356,7 @@ Express your love to your mother.
 LUK +1.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Level Requirement : ^7777771^000000
 Jobs: ^777777All^000000
@@ -77400,7 +77442,7 @@ According to Chinese custom, it can bring the wealth and fortune to you.
 LUK +2, DEX +2.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Level Requirement : ^7777771^000000
 Jobs: ^777777All^000000
@@ -77437,7 +77479,7 @@ SP absorption increases with every 3 refine levels
 HP would be lost per 5 sec depends on refined degree.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Level Requirement : ^77777799^000000
 Jobs: ^777777All except Novice^000000
@@ -77448,7 +77490,7 @@ LUK +1.
 Have chance to drop Rice Ball after defeat monster
 Class: ^777777Headgear^000000
 Defense: ^7777776^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777777^000000
 Level Requirement : ^7777771^000000
 Jobs: ^777777All^000000
@@ -77483,7 +77525,7 @@ When equipped with Fidelity Necklace, while attacking has a low chance to increa
 Refine rate of the headgear increases the chance that the additional attack power is activated.
 Class: ^777777Headgear^000000
 Defense: ^7777776^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777740^000000
 Required Level: ^77777750^000000
 Jobs: ^777777All^000000
@@ -77503,7 +77545,7 @@ Class: ^777777Helmet^000000
 Defense: ^7777770^000000
 Location: ^777777Mid ^000000
 Weight: ^77777720^000000
-Required Lv. : ^77777750^000000
+Required Level: ^77777750^000000
 Jobs: ^777777All^000000
 #
 18760#
@@ -77547,7 +77589,7 @@ LUK +2, MDEF +5.
 When refined to +7 or higher, Increases critical damage by 5%.
 Class: ^777777Headgear ^000000
 Defense: ^7777773^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All except Novice^000000
@@ -77558,7 +77600,7 @@ LUK +2
 When refined to +7 or higher, CRIT +5
 Class: ^777777Headgear ^000000
 Defense: ^7777773^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -77570,7 +77612,7 @@ When refined to +7 or higher, Neutral resistance +1%.
 When refined to +9 or higher, MaxHP +3%
 Class: ^777777Headgear ^000000
 Defense: ^77777710^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777750^000000
 Required Level: ^77777799^000000
 Jobs: ^777777All except Novice^000000
@@ -77582,7 +77624,7 @@ When refined to +7 or higher, AGI +2, LUK +2
 When refined to +9 or higher, ASPD +1
 Class: ^777777Headgear ^000000
 Defense: ^77777710^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^777777160^000000
 Required Level: ^77777799^000000
 Jobs: ^7777772nd Job, Star Gladiator, Soul Linker, Kagerou, Oboro and Rebellion^000000
@@ -77607,7 +77649,7 @@ When refined to +7 or higher, decreases neutral property damage by 2%.
 When refined to +9 or higher, decreases neutral property damage by 2%.
 Class: ^777777Headgear ^000000
 Defense: ^77777715^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777780^000000
 Required Level: ^77777770^000000
 Jobs: ^777777Swordsman and Merchant class^000000
@@ -77672,7 +77714,7 @@ Class: ^777777Headgear^000000
 Defense: ^7777771^000000
 Location: ^777777Lower^000000
 Weight: ^77777710^000000
-Required Lv. : ^77777770^000000
+Required Level: ^77777770^000000
 Jobs: ^777777Assasin and Priest^000000
 #
 18775#
@@ -77692,7 +77734,7 @@ SP Recovery Rate +30%
 When used in combination with Modified Angelic Cardigan, ATK +10.
 Class: ^777777Headgear ^000000
 Defense: ^7777776^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^77777799^000000
 Jobs: ^777777Novice^000000
@@ -77771,7 +77813,7 @@ DEX +1, LUK +1.
 Additional DEX +1, LUK +1 per refine level above +5.
 Class: ^777777Headgear^000000
 Defense: ^77777710^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777760^000000
 Required Level: ^77777710^000000
 Jobs: ^777777All^000000
@@ -77906,7 +77948,7 @@ If upgraded to +5 or higher, MaxHP +1%, MaxSP -2% per refine level
 If upgraded to +10, MaxHP +4%, MaxSP -3%.
 Class: ^777777Headgear^000000
 Defense: ^77777710^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -77919,7 +77961,7 @@ If pure DEX is 120 and above, SP consumption -5% additionally,
 If equipped with Bloody Muffler, SP consumption -5% additionally.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777750^000000
 Required Level: ^77777710^000000
 Jobs: ^777777All^000000
@@ -77931,7 +77973,7 @@ Jobs: ^777777All^000000
 LUK +3, MDEF +5.
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Level Requirement : ^7777771^000000
 Jobs: ^777777All^000000
@@ -77953,7 +77995,7 @@ LUK +3, VIT +2.
 Reduces damage from Plant monster by 10%.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777740^000000
 Level Requirement : ^7777771^000000
 Jobs: ^777777All Job except Novice^000000
@@ -77993,7 +78035,7 @@ The symbol of good student, it represents the enthusiastic in helping.
 VIT +1, INT +2.
 Class: ^777777Headgear^000000
 Defense: ^7777774^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Level Requirement : ^7777771^000000
 Jobs: ^777777All Job except Novice^000000
@@ -78004,7 +78046,7 @@ The symbol of naughty student, it represents the devil and troublesome.
 VIT +1, STR +2.
 Class: ^777777Headgear^000000
 Defense: ^7777774^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Level Requirement : ^7777771^000000
 Jobs: ^777777All Job except Novice^000000
@@ -78015,7 +78057,7 @@ VIT +2, INT +2, LUK +1.
 If equipped with Red Pencil In Mouth and School Uniform, MATK increase according to Base Lv, (BaseLv 1/3, Maxmimum Lv150), EXP from monster +5%.
 Class: ^777777Headgear^000000
 Defense: ^7777774^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Level Requirement : ^7777771^000000
 Jobs: ^777777All Job except Novice^000000
@@ -78026,7 +78068,7 @@ VIT +2, STR +2, LUK +1.
 If equipped with Blue Pencil In Mouth and School Uniform, ATK increase according Base Lv (BaseLv 1/3, maximum Lv150), EXP from monster +5%.
 Class: ^777777Headgear^000000
 Defense: ^7777774^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Level Requirement : ^7777771^000000
 Jobs: ^777777All Job except Novice^000000
@@ -78057,7 +78099,7 @@ Increase holy resistance by 3%
 Every 2 refine increase holy resistance by 1%.
 Class: ^777777Headgear ^000000
 Defense: ^77777735^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777745^000000
 Required Level: ^777777120^000000
 Jobs: ^777777Third Jobs^000000
@@ -78113,7 +78155,7 @@ Jobs: ^777777All^000000
 INT +1, DEX +1.
 Class: ^777777Headgear^000000
 Defense: ^7777778^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^777777120^000000
 Required Level: ^77777738^000000
 Jobs: ^777777All^000000
@@ -78141,7 +78183,7 @@ Enable use of Lvl 1 Teleport skill.
 Indestructible.
 Class: ^777777HeadGear^000000
 Defense: ^77777720^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^777777100^000000
 Required Level: ^77777795^000000
 Jobs: ^777777All^000000
@@ -78155,7 +78197,7 @@ Enable use of Lvl 1 Teleport skill.
 Indestructible.
 Class: ^777777HeadGear^000000
 Defense: ^77777720^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^777777100^000000
 Required Level: ^77777795^000000
 Jobs: ^777777All^000000
@@ -78169,7 +78211,7 @@ Enable use of Lvl 1 Teleport skill.
 Indestructible.
 Class: ^777777HeadGear^000000
 Defense: ^77777720^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^777777100^000000
 Required Level: ^77777795^000000
 Jobs: ^777777All^000000
@@ -78181,7 +78223,7 @@ Increase moving speed.
 Unable destroy.
 Class: ^777777HeadGear^000000
 Defense: ^77777720^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^777777100^000000
 Required Level: ^77777795^000000
 Jobs: ^777777All^000000
@@ -78193,7 +78235,7 @@ Certain chance of activating 2 LV Adrenalin Rush skill when performing physical 
 Extra 2 LV Adrenalin Rush skill activation chance goes up when friendly rate is 'best friend'.
 Class: ^777777Helm^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -78260,7 +78302,7 @@ When killed monsters, EXP +3%.
 Refined 10, ASPD +1.
 Class: ^777777Headgear^000000
 Defense: ^7777778^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777735^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -78272,9 +78314,9 @@ Decrease 7% damage from human style monsters.
 MaxHP - 3%.
 Class: ^777777Helmet^000000
 Defense: ^7777778^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777735^000000
-Required Lv. : ^7777771^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 18843#
@@ -78283,9 +78325,9 @@ Decrease 5% damage from human style monsters.
 Refined over 8, MaxHP +1% per 1 refinement.
 Class: ^777777Helmet^000000
 Defense: ^7777777^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777735^000000
-Required Lv. : ^7777771^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 18844#
@@ -78295,7 +78337,7 @@ Class: ^777777Helmet^000000
 Defense: ^7777775^000000
 Location: ^777777Lower^000000
 Weight: ^7777775^000000
-Required Lv. : ^7777771^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 18845#
@@ -78306,7 +78348,7 @@ Class: ^777777Helmet^000000
 Defense: ^7777775^000000
 Location: ^777777bottom ^000000
 Weight: ^77777720^000000
-Required Lv. : ^7777771^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 18846#
@@ -78320,7 +78362,7 @@ Every refine increase MATK.
 When magically attacking, has chance to activate lv 10 soul drain.
 Class: ^777777Headgear ^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777720^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -78332,7 +78374,7 @@ Recover 200 HP when killing enemy with magical attack.
 Drain 50 HP every 5 second when equipped.
 Class: ^777777Headgear ^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777720^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -78347,7 +78389,7 @@ SP recovery speed 3% increase.
 Adds a chance to drop 'Buche De Noel' with each monster killed.
 Class: ^777777Headgear^000000
 Defense: ^7777777^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -78359,7 +78401,7 @@ MaxHP +5%
 Every 2 refine increase MaxHP +1%.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^77777740^000000
 Jobs: ^777777All^000000
@@ -78389,7 +78431,7 @@ MaxSP +5%
 Every 2 refine increase MaxSP +1%.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^77777740^000000
 Jobs: ^777777All^000000
@@ -78412,7 +78454,7 @@ Additional 10% damage against Animal Monsters.
 When attacking or being attacked physically, you are possessed by the king of tigers 'Eddga' with a rare chance. When being possessed, you can lose Sp 5 per every sec but gain a brutal power for a while. Both transforming chance and strength are increased per each refine grade.
 Class: ^777777Headgear^000000
 Defense: ^77777710^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -78458,7 +78500,7 @@ Heal, Coluseo Heal, Highness Heal, Sanctuary, and Aid Potion effectiveness inscr
 Indestructible.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Levelel : ^77777750^000000
 Job : ^777777All^000000
@@ -78484,7 +78526,7 @@ Enables use of ^008800Earth Spike^000000 Lv 5
 VIT +2.
 Class: ^777777Headgear^000000
 Defense: ^7777776^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777725^000000
 Required Level: ^7777771^000000
 Job : ^777777All^000000
@@ -78503,7 +78545,7 @@ Mace Mastery Lv 10, increase 10% attack speed.
 When equipping with one of Mysteltainn Card, Tirfing Card, Executioner Card, increase 5% damage per each size of monsters.
 Class: ^777777Headgear^000000
 Defense: ^77777730^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^777777100^000000
 Required Level: ^77777750^000000
 Job : ^777777all^000000
@@ -78520,7 +78562,7 @@ With equipping Walking Stick, the chance to activate Mystical Amplification will
 With more than 10 refine Lv of Walking Stick, decrease 20% Floating Casting time.
 Class: ^777777Headgear^000000
 Defense: ^77777715^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777750^000000
 Required Level: ^77777770^000000
 Job : ^777777all^000000
@@ -78614,7 +78656,7 @@ Additional Ranged resistance +1% per refine upgrade at +6 and above.
 Indestructible.
 Class: ^777777Headgear^000000
 Defense: ^77777715^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^777777100^000000
 Required Level: ^77777750^000000
 Jobs: ^777777All^000000
@@ -78625,7 +78667,7 @@ Have a chance to increase your damages and give the Poison status to your target
 MDEF +5
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^777777100^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -78657,7 +78699,7 @@ Increase resistance against human type monsters by 11%
 Increase the healing effect of Mastela Fruit by 70% 
 Class: ^777777Headgear^000000
 Defense: ^7777778^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^77777770^000000
 Jobs: ^777777All^000000
@@ -78681,7 +78723,7 @@ If refined to 9, MDEF +5 and MATK 4%
 If refined to 12, reduce fix casting time by 10%
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -78695,7 +78737,7 @@ If refined to 9, increase ATK and MATK by 4%
 If refined to 12, reduce fix casting time by 10%
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -78709,7 +78751,7 @@ If refined to 9, increase ATK and MATK by 5%
 If refined to 12, reduce fix casting time by 10%
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -78723,7 +78765,7 @@ If refined to 9, ATK and MATK increase 4%.
 If refined to 12, decrease stat casting time 10%
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -78735,7 +78777,7 @@ When physically attacked, adds 1% chance to cast Wind Walk Level 5
 For every refine, increases chance to cast Wind Walk by 0.3% 
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777750^000000
 Required Level: ^77777770^000000
 Jobs: ^777777All^000000
@@ -78747,7 +78789,7 @@ if refined to 7, reduce cast time by 5%
 if refined to 9, skill delay reduce by 5% , ASPD +5%
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^777777100^000000
 Required Level: ^77777710^000000
 Jobs: ^777777All^000000
@@ -78759,7 +78801,7 @@ Increases healing effect of Meat by 200%
 if refined to 12, increase MaxHP +7%, MaxSP +3%
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^777777100^000000
 Required Level: ^77777710^000000
 Jobs: ^777777All^000000
@@ -78815,7 +78857,7 @@ All Stat +5, MaxHP +100, MaxSP +50
 If refined to 8 and above, adds 1% to MHP and reduces fix casting time by 1% for every refine level
 Class: ^777777Headgear^000000
 Defense: ^7777776^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777720^000000
 Required Level: ^77777760^000000
 Jobs: ^777777All^000000
@@ -78827,7 +78869,7 @@ Class: ^777777Helmet^000000
 Defense: ^7777771^000000
 Location: ^777777Lower^000000
 Weight: ^77777710^000000
-Required Lv. : ^77777760^000000
+Required Level: ^77777760^000000
 Jobs: ^777777All^000000
 #
 18901#
@@ -78838,7 +78880,7 @@ Class: ^777777Helmet^000000
 Defense: ^7777775^000000
 Location: ^777777Upper^000000
 Weight: ^77777750^000000
-Required Lv. : ^77777760^000000
+Required Level: ^77777760^000000
 Jobs: ^777777All^000000
 #
 18907#
@@ -78847,7 +78889,7 @@ Reduce damage from human-type monsters by 5%
 Increases damage to medium-type monsters by 10%
 When refined to 9 above, randomly auto-casts 'Scream Lv.2' when physically attacked.
 Class: ^777777Headgear^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Defense: ^7777778^000000
 Weight: ^77777720^000000
 Required Level: ^7777771^000000
@@ -78861,7 +78903,7 @@ Reduce damage from fire-type monsters by 10%
 When refined to 9, ASPD +1
 For every 2 refinements above 9, ASPD +1
 Class: ^777777Headgear^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Defense: ^7777778^000000
 Weight: ^77777730^000000
 Required Level: ^7777771^000000
@@ -78873,7 +78915,7 @@ MaxHP +10%
 Reduce damage from human-type monsters by 5%
 For every refine level, MATK +2
 Class: ^777777Headgear^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Defense: ^7777778^000000
 Weight: ^77777730^000000
 Required Level: ^7777771^000000
@@ -78885,7 +78927,7 @@ Reduce damage from human-type monsters by 5%
 Increases damage to medium-type monsters by 10%
 When refined to 12 above, reflects physical damages by 5%
 Class: ^777777Headgear^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Defense: ^7777778^000000
 Weight: ^77777730^000000
 Required Level: ^7777771^000000
@@ -78898,7 +78940,7 @@ Reduce damage from earth-type monsters by 3%
 Reduce damage from human-type monsters by 10%
 When refined to 12 above, reflects physical damages by 5%
 Class: ^777777Headgear^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Defense: ^77777710^000000
 Weight: ^77777720^000000
 Required Level: ^7777771^000000
@@ -79008,7 +79050,7 @@ LUK +10
 ^ff0000Account Bound^000000
 Class: ^777777Costume Headgear^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777720^000000
 Required Level: ^77777750^000000
 Jobs: ^777777All^000000
@@ -79039,7 +79081,7 @@ DEX +1 when upgraded to +8.
 DEX +1 every 2 upgrade levels after +8.
 Class: ^777777HeadGear^000000
 Defense: ^77777710^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^77777730^000000
 Job : ^777777All^000000
@@ -79051,7 +79093,7 @@ Creates a chance of casting Level 5 Bowling Bash while you are Physically attack
 Additional STR +3when upgraded to +11.
 Class: ^777777HeadGear^000000
 Defense: ^77777710^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^77777730^000000
 Job : ^777777All^000000
@@ -79064,7 +79106,7 @@ Additional INT +1 when upgraded to +8.
 Additional INT +1 every 2 upgrade levels after +8.
 Class: ^777777HeadGear^000000
 Defense: ^77777710^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^77777730^000000
 Job : ^777777All^000000
@@ -79076,7 +79118,7 @@ Creates a chance of casting Level 5 Lord of Vermilion when you receive Physical 
 Additional VIT +1 per upgrade level at +11 and above.
 Class: ^777777HeadGear^000000
 Defense: ^77777710^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^77777730^000000
 Job : ^777777All^000000
@@ -79132,7 +79174,7 @@ All Stats +1.
 Physical and Magic damage +1% to devil type monsters.
 Class: ^777777Headgear^000000
 Def : ^7777775^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777720^000000
 Req LvL : ^7777771^000000
 Job : ^777777All^000000
@@ -79143,7 +79185,7 @@ MDEF +3, DEX +2, INT +2, FLEE -1, MaxHP +2%, MaxSP +30.
 Skill 'Magnificat' 1LvL available.
 Class: ^777777Headgear^000000
 Def : ^7777772^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Req LvL : ^77777730^000000
 Job : ^777777All^000000
@@ -79153,7 +79195,7 @@ Nothin you need to worry in the World when wearing this on your head.
 MDEF +3, STR +2, LUK +2, FLEE -1, MaxHP +1%, MaxSP +15.
 Class: ^777777Headgear^000000
 Def : ^7777772^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Req LvL : ^77777730^000000
 Job : ^777777All^000000
@@ -79187,7 +79229,7 @@ Job : ^777777All^000000
 A hat made after fluffy monster Lunatic.
 Class: ^777777Headgear^000000
 Def : ^7777772^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Req LvL : ^7777771^000000
 Job : ^777777All^000000
@@ -79255,7 +79297,7 @@ Each 2 refine inflict 20% more damage with ^008800Ignition Break^000000.
 Each 2 refines inflict 15% more damage with ^008800Hundred Spear^000000.
 Class: ^777777Headgear^000000 
 Defense: ^77777710^000000
-Location: ^777777Upper^000000 
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^777777170^000000
 Jobs: ^777777Rune Knight^000000
@@ -79269,7 +79311,7 @@ Each 2 refine inflict 20% more damage with ^008800Judex^000000.
 Each 2 refine inflict 10% more damage with ^008800Magnus Exorcismus^000000.
 Class: ^777777Headgear^000000 
 Defense: ^77777710^000000
-Location: ^777777Upper^000000 
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^777777170^000000
 Jobs: ^777777Arch Bishop^000000
@@ -79284,7 +79326,7 @@ Each 2 refine inflict 20% more damage with ^008800Power Swing^000000.
 Each 2 refine inflict 20% more damage with ^008800Axe Tornado^000000.
 Class: ^777777Headgear^000000 
 Defense: ^77777710^000000
-Location: ^777777Upper^000000 
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^777777170^000000
 Jobs: ^777777Mechanic^000000
@@ -79299,7 +79341,7 @@ Each 2 refine inflict 5% more damage with ^008800Arm Cannon^000000.
 Each 4 refine inflict 10% more damage with ^008800Self-Destruction^000000.
 Class: ^777777Headgear^000000 
 Defense: ^77777710^000000
-Location: ^777777Upper^000000 
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^777777170^000000
 Jobs: ^777777Mechanic^000000
@@ -79315,7 +79357,7 @@ If refine +8 or more cooldown reduce by 1 sec ^008800Masquerade-Laziness, Weakne
 If refine +10 or more cooldown reduce by 1 sec ^008800Masquerade-Ignorance, Groomy skills^000000.
 Class: ^777777Headgear^000000 
 Defense: ^77777710^000000
-Location: ^777777Upper^000000 
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^777777170^000000
 Jobs: ^777777Shadow Chaser^000000
@@ -79329,7 +79371,7 @@ Each 2 refine inflict 20% more damage with ^008800Arrow Vulcan^000000.
 Each 2 refine inflict 5% more damage with ^008800Severe Rainstorm^000000.
 Class: ^777777Headgear^000000 
 Defense: ^77777710^000000
-Location: ^777777Upper^000000 
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^777777170^000000
 Jobs: ^777777Minstrel^000000
@@ -79343,7 +79385,7 @@ Each 2 refine increase MHP, MSP 1%.
 Each 2 refine inflict 15% more damage with ^008800Cart Cannon^000000.
 Class: ^777777Headgear^000000 
 Defense: ^77777710^000000
-Location: ^777777Upper^000000 
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^777777170^000000
 Jobs: ^777777Generic^000000
@@ -79358,7 +79400,7 @@ Crimson Rock skill 1 second cooldown reduction.
 According to refine, Crimson Rock skill 0.1 seconds Cooldown reduced.
 Class: ^777777Headgear^000000 
 Defense: ^77777710^000000
-Location: ^777777Upper^000000 
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^777777170^000000
 Jobs: ^777777Warlock^000000
@@ -79372,7 +79414,7 @@ Each 2 refine inflict 15% more damage with ^008800Rampage Blaster^000000.
 Each 2 refine inflict 20% more damage with ^008800Lightning Ride^000000.
 Class: ^777777Headgear^000000 
 Defense: ^77777710^000000
-Location: ^777777Upper^000000 
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^777777170^000000
 Jobs: ^777777Sura^000000
@@ -79386,7 +79428,7 @@ Each 2 refine inflict 15% more damage with ^008800Posion Buster^000000.
 Each 2 refine inflict 20% more damage with ^008800Varetyr Spear^000000.
 Class: ^777777Headgear^000000 
 Defense: ^77777710^000000
-Location: ^777777Upper^000000 
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^777777170^000000
 Jobs: ^777777Sorcerer^000000
@@ -79400,7 +79442,7 @@ Each 2 refine inflict 20% more damage with ^008800Arrow Vulcan^000000.
 Each 2 refine inflict 5% more damage with ^008800Severe Rainstorm^000000.
 Class: ^777777Headgear^000000 
 Defense: ^77777710^000000
-Location: ^777777Upper^000000 
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^777777170^000000
 Jobs: ^777777Wanderer^000000
@@ -79414,7 +79456,7 @@ Each 2 refine inflict 10% more damage with ^008800Cross Impact^000000.
 Each 2 refine inflict 20% more damage with ^008800Cross Ripper Slasher^000000.
 Class: ^777777Headgear^000000 
 Defense: ^77777710^000000
-Location: ^777777Upper^000000 
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^777777170^000000
 Jobs: ^777777Guillotine Cross^000000
@@ -79429,7 +79471,7 @@ Each 2 refine inflict 20% more damage with ^008800Cannon Spear^000000.
 Each 2 refine inflict 5% more damage with ^008800Overbrand^000000.
 Class: ^777777Headgear^000000 
 Defense: ^77777710^000000
-Location: ^777777Upper^000000 
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^777777170^000000
 Jobs: ^777777Royal Guard^000000
@@ -79444,7 +79486,7 @@ Each 2 refine inflict 15% more damage with ^008800Cluster Bomb^000000.
 Each 2 refine inflict 10% more damage with ^008800Warg Strike^000000.
 Class: ^777777Headgear^000000 
 Defense: ^77777710^000000
-Location: ^777777Upper^000000 
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^777777170^000000
 Jobs: ^777777Ranger^000000
@@ -79457,7 +79499,7 @@ Infinity movement accelerating, ATK,MATK +50.
 If refine to +9 or more additional MSP + 50%, MHP + 10%.
 Class: ^777777Headgear^000000 
 Defense: ^7777770^000000
-Location: ^777777Upper^000000 
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^777777100^000000
 Jobs: ^777777All^000000
@@ -79710,9 +79752,9 @@ Decreases 10% damage from Fish type enemy.
 Additional decrease of damage by 1%, per refinement of the armor.
 Class: ^777777Headgear^000000 
 Defense: ^77777710^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777780^000000
-Required Lv. : ^777777110^000000
+Required Level: ^777777110^000000
 Jobs: ^777777All^000000
 #
 19027#
@@ -79790,7 +79832,7 @@ A decoration worn by goddess.
 I feel that one of its benefits were sealed with a high cost.
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^777777100^000000
 Jobs: ^777777All^000000
@@ -79823,7 +79865,7 @@ When equipped with 12th Anniversary Fairy Ears and refined to +7, CRIT +12, HIT 
 Refined to +9, MaxHP +1200, MaxSP +120.
 Class: ^777777Headgear^000000
 Defense: ^77777712^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777712^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -80644,7 +80686,7 @@ Jobs: ^777777All^000000
 #
 19503#
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -80669,7 +80711,7 @@ Jobs: ^777777All^000000
 19506#
 A hairband utilizing a Feather from a Valkyrie Angel.
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -80679,7 +80721,7 @@ Jobs: ^777777All^000000
 A brightly shining sun that floats above your head.
 ^ff0000This item is account bound^000000
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -80733,7 +80775,7 @@ Jobs: ^777777All^000000
 A simple bird beak. Wearing this won't make you less fearful of things.
 ^ff0000This item is account bound^000000
 Class: ^777777Lower^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -80743,7 +80785,7 @@ Jobs: ^777777All^000000
 A neatly trimmed mustache reminiscent of the style worn by an 'Old Timey' actor from the past.
 ^ff0000This item is account bound^000000
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -80753,7 +80795,7 @@ Jobs: ^777777All^000000
 A simple yellow hat with a long feather in it. Fashionistas wear it to the side lest they be shunned.
 ^ff0000This item is account bound^000000
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -80763,7 +80805,7 @@ Jobs: ^777777All^000000
 A newly hatched baby bird chirps it's tunes on a twig of dreams.
 ^ff0000This item is account bound^000000
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -80773,7 +80815,7 @@ Jobs: ^777777All^000000
 A roosters dignified comb. But don't be fooled while wearing this or the yolk's on you!
 ^ff0000This item is account bound^000000
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -80783,7 +80825,7 @@ Jobs: ^777777All^000000
 Share your happiness with others with this brightly colored rainbow.
 ^ff0000This item is account bound^000000
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -80793,7 +80835,7 @@ Jobs: ^777777All^000000
 A dark thunder cloud that rivals the bolts created by Thor... well maybe not.
 ^ff0000This item is account bound^000000
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -80803,7 +80845,7 @@ Jobs: ^777777All^000000
 When it rains it pours. Especially when it's only raining above your head.
 ^ff0000This item is account bound^000000
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -80813,7 +80855,7 @@ Jobs: ^777777All^000000
 A circular shaped bowler hat reminiscent of the style worn by an 'Old Timey' actor from the past.
 ^ff0000This item is account bound^000000
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -80823,7 +80865,7 @@ Jobs: ^777777All^000000
 A mini red crown affixed to a headband and worn off to the side. Though not a true symbol of royalty, this crown does have a regal air about it.
 ^ff0000This item is account bound^000000
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -80912,7 +80954,7 @@ Jobs: ^777777All^000000
 A hat that makes you charming.
 DEX +1
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Levelel : ^7777771^000000
 Jobs: ^777777All^000000
@@ -80922,7 +80964,7 @@ Hat for those who want to be like the Spore monster. Feel like a mushroom!
 VIT +1
 Experience gain +1%
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Levelel : ^7777771^000000
 Jobs: ^777777All^000000
@@ -80941,7 +80983,7 @@ Part of wild ginseng. They say that when ginseng taken out of the ground, you ca
 STR +1
 Experience gain +1%
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Levelel : ^7777771^000000
 Jobs: ^777777All^000000
@@ -80951,7 +80993,7 @@ Korusaju decorated with beautiful roses. .
 INT +1
 Experience gain +1%
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Levelel : ^7777771^000000
 Jobs: ^777777All^000000
@@ -80959,7 +81001,7 @@ Jobs: ^777777All^000000
 19537#
 a hat from Gryphon symbolic of bravery.
 Class: ^777777clothes^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Level Requirement : ^7777771^000000
 Jobs: ^777777All^000000
@@ -80969,7 +81011,7 @@ Bright full moon which is the biggest on the15th of August.
 Has a chance of adding +50 Atk or +50 Matk while physically attacking or magically attacking for 5 seconds.
 This effect does not work during War of Emperium
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -81013,7 +81055,7 @@ Jobs: ^777777All^000000
 19543#
 Wolf face shaped fluffy hood. Useful when you cannot sleep well. 
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000 
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^77777770^000000
 Jobs: ^777777All^000000
@@ -81030,7 +81072,7 @@ Jobs: ^777777All^000000
 19545#
 Lousy black hat for school kids.
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000 
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^777777100^000000
 Jobs: ^777777All^000000
@@ -81038,7 +81080,7 @@ Jobs: ^777777All^000000
 19546#
 A Helm of 'Battle Princess' who serves Odin.
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000 
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^777777100^000000
 Jobs: ^777777All^000000
@@ -81046,7 +81088,7 @@ Jobs: ^777777All^000000
 19547#
 Copied hat of Baby Deviruchi. 
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000 
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^777777100^000000
 Jobs: ^777777All^000000
@@ -81054,7 +81096,7 @@ Jobs: ^777777All^000000
 19548#
 Frog god shaped Hat.
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000 
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^777777100^000000
 Jobs: ^777777All^000000
@@ -81062,7 +81104,7 @@ Jobs: ^777777All^000000
 19549#
 Goat shape helm gives spot light for the user.
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000 
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^777777100^000000
 Jobs: ^777777All^000000
@@ -81323,7 +81365,7 @@ Jobs: ^777777All^000000
 19577#
 A Poring hat made to celebrate Ragnarok Online's 10th anniversary.
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -81413,7 +81455,7 @@ Class: ^7777772nd Job^000000
 The Master of all porings, the King Poring's hat.
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -81426,7 +81468,7 @@ A beatiful helm shaped as a rising angel's wing.
 Wearing this item makes you feel little bit dizzy, but soon it will fresh you up.
 Class: ^777777Costume ^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Job : ^777777All^000000
@@ -81677,7 +81719,7 @@ Jobs: ^777777All^000000
 19617#
 A cute headband that looks just like a pair of adorable puppy ears.
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -81685,7 +81727,7 @@ Jobs: ^777777All^000000
 19618#
 A mask rumored to have been worn by certain assassins in order to hide themselves.
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -81702,7 +81744,7 @@ Jobs: ^777777All^000000
 19620#
 This type of cap is known to have been worn by a world famous detective. It feels like a Pipe would perfectly complement this cap for some reason.
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^77777720^000000
 Jobs: ^777777All^000000
@@ -81743,7 +81785,7 @@ Jobs: ^777777All^000000
 19625#
 A hairband that gives one the appearance of having rabbit ears, a lasting symbol of extremely good luck.
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^77777720^000000
 Jobs: ^777777All^000000
@@ -81943,7 +81985,7 @@ Jobs: ^777777All^000000
 A headgear made from leaves fallen from an enchanted tree.
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -81952,7 +81994,7 @@ Jobs: ^777777All^000000
 A white kitten looking cute hairlace.
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -82185,7 +82227,7 @@ Jobs: ^777777All^000000
 19676#
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -82194,7 +82236,7 @@ Jobs: ^777777All^000000
 A mysterious ring floating above your head. It feels like that you don't have a soul?!
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -82202,7 +82244,7 @@ Jobs: ^777777All^000000
 19678#
 A cute ribbon with small bells. The bells seem to jingle.
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -82236,7 +82278,7 @@ Jobs: ^777777All^000000
 A cute santa poring is tumbling on your head!
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -82289,7 +82331,7 @@ Jobs: ^777777All^000000
 A hair band decorated with small flowers.
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777all jobs^000000
@@ -82307,7 +82349,7 @@ Jobs: ^777777all jobs^000000
 A hat of Dark Snake Lord. You can be an emperor with this.
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777all jobs^000000
@@ -82316,7 +82358,7 @@ Jobs: ^777777all jobs^000000
 A blue ribbon symbolized of the elite!
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777all jobs^000000
@@ -82335,7 +82377,7 @@ A cute hat stacked with popular monster porings.
 It seems that Angeling, Mastering and Poring are standing in a line.
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777all jobs^000000
@@ -82344,7 +82386,7 @@ Jobs: ^777777all jobs^000000
 A traditional hairpin shaped like a windmill spining round. You can feel the wind with it.
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777all jobs^000000
@@ -82353,7 +82395,7 @@ Jobs: ^777777all jobs^000000
 A kettle put on your head. It depends you well but water can overflow if you move too hard.
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777all jobs^000000
@@ -82361,7 +82403,7 @@ Jobs: ^777777all jobs^000000
 19696#
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777all jobs^000000
@@ -82439,7 +82481,7 @@ Christmas hat that Raccoon Hooray team 'borrowed' from Santa.
 It is very helpful for the Raccoons to keep warm since they're currently homeless.
 ^ff0000Adds 25% EXP bonus for any monster killed until May 7, 2013^000000
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -82447,7 +82489,7 @@ Jobs: ^777777All^000000
 19708#
 A white snake that balances naturally on your head. It's beady eyes stare into your soul.
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -82456,7 +82498,7 @@ Jobs: ^777777All^000000
 A ribbon made by an old flag. You can put it on one side of your head.
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777all jobs^000000
@@ -82473,7 +82515,7 @@ Jobs: ^777777All^000000
 A doll shaped like an angel. It is used to worship Odin by the blacksmith guild of dwarf.
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777all jobs^000000
@@ -82492,7 +82534,7 @@ Jobs: ^777777all jobs^000000
 A cute doll shaped like Lady Tanee.
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777all jobs^000000
@@ -82501,7 +82543,7 @@ Jobs: ^777777all jobs^000000
 A scarf with a mysterious wind.
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777all jobs^000000
@@ -82510,7 +82552,7 @@ Jobs: ^777777all jobs^000000
 A doll shaped like a popular monster Alice. She says 'Master, cheer up' on your head.
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777all jobs^000000
@@ -82519,7 +82561,7 @@ Jobs: ^777777all jobs^000000
 A butterfly shaped ribbon for girls, or pretty boys can wear it.
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777all jobs^000000
@@ -82527,7 +82569,7 @@ Jobs: ^777777all jobs^000000
 19718#
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777all jobs^000000
@@ -82535,7 +82577,7 @@ Jobs: ^777777all jobs^000000
 19719#
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777all jobs^000000
@@ -82543,7 +82585,7 @@ Jobs: ^777777all jobs^000000
 19720#
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777all jobs^000000
@@ -82552,7 +82594,7 @@ Jobs: ^777777all jobs^000000
 An elegant black wings which are spreading wide.
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777all jobs^000000
@@ -82570,7 +82612,7 @@ Jobs: ^777777all jobs^000000
 A crown with holy fire.
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777all jobs^000000
@@ -82579,7 +82621,7 @@ Jobs: ^777777all jobs^000000
 A headgear shaped like Kafra Deprotai! All boys are chasing her so they can use Kafra service 20 times per day.
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777all jobs^000000
@@ -82606,7 +82648,7 @@ Jobs: ^777777all jobs^000000
 A hat designed like Deviling. His sharp eyes are the best point for your fashion!
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777all jobs^000000
@@ -82614,7 +82656,7 @@ Jobs: ^777777all jobs^000000
 19728#
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777all jobs^000000
@@ -82623,7 +82665,7 @@ Jobs: ^777777all jobs^000000
 A stylish hairband shaped like Kafra's and cat's ears. It's double the cuteness!
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777all jobs^000000
@@ -82633,7 +82675,7 @@ Jobs: ^777777all jobs^000000
 19731#
 Headgear made according to the wings on the demon's back.
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -82649,7 +82691,7 @@ Jobs: ^777777All^000000
 19733#
 A cute and cuddly headgear made in the form of a Panda's head.
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -82689,7 +82731,7 @@ Jobs: ^777777All^000000
 19738#
 This type of cap is known to have been worn by a world famous detective. It feels like a Pipe would perfectly complement this cap for some reason.
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -82697,7 +82739,7 @@ Jobs: ^777777All^000000
 19739#
 Hat that refer to shape of sleeping cat. If you wake up sleeping cat, you will be suffered.
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -82705,7 +82747,7 @@ Jobs: ^777777All^000000
 19741#
 The horns imbued with full of Devil Spirit. Feels so tight and harsh.
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -83229,7 +83271,7 @@ Job : ^777777all jobs^000000
 A brave headgear that no one can block.
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -83237,7 +83279,7 @@ Jobs: ^777777All^000000
 19808#
 A blazing sun
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -83245,7 +83287,7 @@ Jobs: ^777777All^000000
 19809#
 This hat is for festival that represent west frontier in one country.
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -83278,7 +83320,7 @@ Jobs: ^777777All^000000
 19813#
 Ice cream is best in hot summer. Be careful its may cause brain freeze.
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -83286,7 +83328,7 @@ Jobs: ^777777All^000000
 19814#
 Wig with Yellow, Orange and Gold
 Class: ^77777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -83294,7 +83336,7 @@ Jobs: ^777777All^000000
 19815#
 Ten gallon hat gets along with Lolita fashion
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -83302,7 +83344,7 @@ Jobs: ^777777All^000000
 19816#
 The motif of this hat is monster Pecopeco
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -83319,7 +83361,7 @@ Jobs: ^777777All^000000
 A scary bloody rag doll.
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Job : ^777777All^000000
@@ -84380,7 +84422,7 @@ Jobs: ^777777All^000000
 Cats living in Malangdo, wearing this hat for Christmas.
 Class: ^777777Headgear^000000 
 Defense: ^7777770^000000
-Location: ^777777Upper^000000 
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All job^000000
@@ -84526,7 +84568,7 @@ A headgear to commemorate saLU-salo event!
 Meet up, mingle and make friends, all in the name of online gaming fun.
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Job : ^777777All^000000
@@ -84544,7 +84586,7 @@ Jobs: ^777777All^000000
 A very dangerous hat! Nobody knows when it explodes.
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
 Job : ^777777All^000000
@@ -84553,7 +84595,7 @@ Job : ^777777All^000000
 A turtle hat with poweful dragon scales.
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
 Job : ^777777All^000000
@@ -84855,7 +84897,7 @@ Job : ^777777All^000000
 A golden crown worn by a champion among champions.
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Job : ^777777All^000000
@@ -84864,7 +84906,7 @@ Job : ^777777All^000000
 A silk hat of Owlduke.
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Job : ^777777All^000000
@@ -85087,7 +85129,7 @@ Jobs: ^777777All^000000
 Dragon is part of 12 chinese zodiacs.
 ºû³ª´Â ¿©ÀÇÁÖ¸¦ Ç°°í ÀÖ¾î ¼Ò¿øÀ» µé¾îÁÙ °Í ¸¸ °°´Ù.
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Job : ^777777All^000000
@@ -85097,7 +85139,7 @@ Job : ^777777All^000000
 Dragon is part of 12 chinese zodiacs.
 ºû³ª´Â ¿©ÀÇÁÖ¸¦ Ç°°í ÀÖ¾î ¼Ò¿øÀ» µé¾îÁÙ °Í ¸¸ °°´Ù.
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Job : ^777777All^000000
@@ -85107,14 +85149,14 @@ Smoke in moderation or not at all. No one's choice but yours.
 Class: ^777777Costume^000000
 Location: ^777777Lower^000000
 Weight: ^7777770^000000
-Required Lv. : ^7777771^000000
+Required Level: ^7777771^000000
 Job : ^777777All^000000
 #
 20092#
 A banner which has a word 'Sale' written on the surface.
 Seems to be useful when used for opening a vending shop.
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Job : ^777777All^000000
@@ -85122,7 +85164,7 @@ Job : ^777777All^000000
 20093#
 A mystic hat, made specifically for wizards, which amplifies pyschic power.
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Job : ^777777All^000000
@@ -85130,7 +85172,7 @@ Job : ^777777All^000000
 20094#
 A small Green ribbon emphasizes one's cuteness while wearing this hairband.
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Job : ^777777All^000000
@@ -85138,7 +85180,7 @@ Job : ^777777All^000000
 20095#
 A small Red ribbon emphasizes one's cuteness while wearing this hairband.
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Job : ^777777All^000000
@@ -85146,7 +85188,7 @@ Job : ^777777All^000000
 20096#
 A small Blue ribbon emphasizes one's cuteness while wearing this hairband.
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Job : ^777777All^000000
@@ -85154,7 +85196,7 @@ Job : ^777777All^000000
 20097#
 A small White ribbon emphasizes one's cuteness while wearing this hairband.
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Job : ^777777All^000000
@@ -85242,7 +85284,7 @@ Jobs: ^777777All^000000
 ^ff0000Cannot be traded.^000000
 Snake is part of 12 chinese zodiacs.
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Job : ^777777All^000000
