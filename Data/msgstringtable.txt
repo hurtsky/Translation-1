@@ -1469,7 +1469,7 @@ Armors#
 Weapons#
 Ammo#
 Card#
-Mis#
+Etc#
 Client response time has passed so connection is terminated#
 Incorrect version of hack shield file. Please reinstall the client#
 [Magic Book] is required.#
