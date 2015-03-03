@@ -5570,9 +5570,7 @@ Required Level: ^7777774^000000
 Jobs: ^777777Swordman Class^000000
 #
 1404#
-A basic spear that
-allows slightly longer
-ranged melee attacks.
+A basic spear that allows slightly longer ranged melee attacks.
 Class: ^777777Spear^000000
 Attack: ^77777744^000000
 Weight: ^77777785^000000
@@ -5581,9 +5579,7 @@ Required Level: ^7777774^000000
 Jobs: ^777777Swordman Class^000000
 #
 1405#
-A basic spear that
-allows slightly longer
-ranged melee attacks.
+A basic spear that allows slightly longer ranged melee attacks.
 Class: ^777777Spear^000000
 Attack: ^77777744^000000
 Weight: ^77777785^000000
@@ -5592,9 +5588,7 @@ Required Level: ^7777774^000000
 Jobs: ^777777Swordman Class^000000
 #
 1406#
-A basic spear that
-allows slightly longer
-ranged melee attacks.
+A basic spear that allows slightly longer ranged melee attacks.
 Class: ^777777Spear^000000
 Attack: ^77777744^000000
 Weight: ^77777785^000000
@@ -5603,9 +5597,7 @@ Required Level: ^7777774^000000
 Jobs: ^777777Swordman Class^000000
 #
 1407#
-A long spear that
-is generally issued
-to foot soldiers.
+A long spear that is generally issued to foot soldiers.
 Class: ^777777Spear^000000
 Attack: ^77777760^000000
 Weight: ^777777100^000000
@@ -5614,9 +5606,7 @@ Required Level: ^7777774^000000
 Jobs: ^777777Swordman Class^000000
 #
 1408#
-A long spear that
-is generally issued
-to foot soldiers.
+A long spear that is generally issued to foot soldiers.
 Class: ^777777Spear^000000
 Attack: ^77777760^000000
 Weight: ^777777100^000000
@@ -5625,9 +5615,7 @@ Required Level: ^7777774^000000
 Jobs: ^777777Swordman Class^000000
 #
 1409#
-A long spear that
-is generally issued
-to foot soldiers.
+A long spear that is generally issued to foot soldiers.
 Class: ^777777Spear^000000
 Attack: ^77777760^000000
 Weight: ^777777100^000000
@@ -5664,37 +5652,31 @@ Jobs: ^777777Swordman Class^000000
 #
 1413#
 A legendary spear that is known for its ability to never miss its target.
-Has a 25% chance of
-performing a guided attack that a target can't evade.
-Accuracy rate +30
+Has a 25% chance of performing a guided attack that a target can't evade.
+HIT +30
 Class: ^777777Spear^000000
 Attack: ^777777120^000000
-Property: ^777777Wind^000000
+Property: ^4cbb17Wind^000000
 Weight: ^77777750^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777774^000000
 Jobs: ^777777Swordman Class^000000
 #
 1414#
-A special spear imbued
-with the ^cc5500Earth^000000 property. Max HP +800
-Max SP - 50
+A special spear imbued with the ^cc5500Earth^000000 property.
+Max HP +800, MaxSP -50
 Class: ^777777Spear^000000
 Attack: ^777777145^000000
 Weight: ^77777770^000000
-Property: ^777777Earth^000000
+Property: ^cc5500Earth^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777748^000000
 Jobs: ^777777Swordman Class^000000
 #
 1415#
-A spear that has been
-made to puncture any
-armor worn by enemies.
-Increases damage inflicted
-on ^777777Neutral^000000 property by 25%
-Pierces Defense
-of its target.
+A spear that has been made to puncture any armor worn by enemies.
+Increases damage inflicted on ^777777Neutral^000000 property by 25%.
+Pierces Defense of its target.
 Class: ^777777Spear^000000
 Attack: ^77777785^000000
 Weight: ^77777785^000000
@@ -5703,10 +5685,8 @@ Required Level: ^77777748^000000
 Jobs: ^777777Swordman Class^000000
 #
 1416#
-A spear with the power
-to drain the souls of enemies it has defeated.
-Regains 1 SP with each
-attack and 5 SP each time an enemy is killed.
+A spear with the power to drain the souls of enemies it has defeated.
+Regains 1 SP with each attack and 5 SP each time an enemy is killed.
 Class: ^777777Spear^000000
 Attack: ^777777100^000000
 Weight: ^777777100^000000
@@ -5715,12 +5695,8 @@ Required Level: ^77777748^000000
 Jobs: ^777777Swordman Class^000000
 #
 1417#
-An axe head mounted
-on a long pole, this
-weapon was especially
-made to break through
-thick armored plates.
-STR +1 , INT +2 , DEX +1
+An axe head mounted on a long pole, this weapon was especially made to break through thick armored plates.
+STR +1, INT +2, DEX +1
 Class: ^777777Spear^000000
 Attack: ^777777160^000000
 Weight: ^777777380^000000
@@ -5730,12 +5706,11 @@ Jobs: ^777777Swordman Class^000000
 #
 1418#
 A legendary spear that is known for its ability to never miss its target.
-Has a 25% chance of
-performing a guided attack that a target can't evade.
-Accuracy rate +30
+Has a 25% chance of performing a guided attack that a target can't evade.
+HIT +30
 Class: ^777777Spear^000000
 Attack: ^777777120^000000
-Property: ^777777Wind^000000
+Property: ^4cbb17Wind^000000
 Weight: ^77777750^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777774^000000
@@ -5758,65 +5733,34 @@ Required Level: ^7777771^000000
 Jobs: ^777777Swordman Class^000000
 #
 1420#
-A spear fashioned
-from a unicorn's
-horn, enabling it to
-neutralize poisons
-and inflict deep
-wounding. Has a
-certain chance of
-inflicting the Bleeding status to enemies,
-and neutralizes Poison
-effects on the wearer.
-Cannot be damaged in
-battle. Holy property.
-Has a low chance
-of auto casting Lv.2
-Assumption on the
-wearer with each
-enemy attack when
-worn with Valkyrja's
-Shield.
+A spear fashioned from a unicorn's horn, enabling it to neutralize poisons and inflict deep wounding.
+Has a certain chance of inflicting the Bleeding status to enemies, and neutralizes Poison effects on the wearer.
+Indestructible.
+[+^008800 Valkyrja Shield^000000]
+Has a low chance of auto casting Lv.2 Assumption on the wearer with each enemy attack.
 Class: ^777777Spear^000000
 Attack: ^777777150^000000
+Property: ^777777Holy^000000
 Weight: ^777777100^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777765^000000
-Jobs: ^777777Transcendent
-Swordman Classes^000000
+Jobs: ^777777Transcendent Swordman Classes^000000
 #
 1421#
-A spear that is tipped
-with a hook that can
-push and pull enemies.
-Has a 5% chance of
-inflicting the Stun
-status to enemies,
-and increases damage
-to Demihuman enemies
-by 20%. Enables use
-of Lv.3 Pierce.
+A spear that is tipped with a hook that can push and pull enemies.
+Has a 5% chance of inflicting the Stun status to enemies, and increases damage to Demihuman enemies by 20%.
+Enables use of Lv.3 Pierce.
 Class: ^777777Spear^000000
 Attack: ^777777140^000000
 Weight: ^77777790^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777765^000000
-Jobs: ^777777Transcendent
-Swordman Classes^000000
+Jobs: ^777777Transcendent Swordman Classes^000000
 #
 1422#
-A spear with a leaf
-shaped point that is
-designed for hunting,
-causing damage with
-its heavy weight
-instead of stabbing.
-Ignores DEF of Animal
-monsters, and adds
-a chance that defeated
-enemies will drop Meat. Each attack has a certain
-chance of auto casting
-Lv.3 Vital Strike.
+A spear with a leaf shaped point that is designed for hunting, causing damage with its heavy weight instead of stabbing.
+Ignores DEF of Animal monsters, and adds a chance that defeated enemies will drop Meat.
+Each attack has a certain chance of auto casting Lv.3 Joint Beat.
 Class: ^777777Spear^000000
 Attack: ^777777180^000000
 Weight: ^777777420^000000
@@ -11792,12 +11736,12 @@ Jobs: ^777777Priest, Monk^000000
 A big and thick cross-shaped shield.
 STR +1
 Increase SP Consumption of skills by 10%.
-Increases damage when using ^FF0000Rapid Smiting^000000 and ^FF0000Shield Boomerang^000000 by 30%.
-Item Clsss: ^777777Shield^000000
+Increases damage when using ^FF0000Shield Chain^000000 and ^FF0000Shield Boomerang^000000 by 30%.
+Clsss: ^777777Shield^000000
 Defense: ^777777130^000000
 Weight: ^777777200^000000
 Required Level: ^77777780^000000
-Jobs: ^777777Crusader Jobs^000000
+Jobs: ^777777Crusader^000000
 #
 2131#
 A thick book which is full of unknown words. It seems to be published in series.
@@ -22846,8 +22790,8 @@ INT +1
 STR +1
 DEF +2
 SP Recovery +10%
-+10% Rapid Smiting and
-Martyr's Reckoning Damage
++10% Shield Chain and
+Sacrifice Damage
 Cast Speed +10%
 Crusader/Paladin Only Bonus:
 Armor becomes Holy Property.
@@ -22990,8 +22934,8 @@ INT +1
 STR +1
 DEF +2
 SP Recovery +10%
-+10% Rapid Smiting and
-Martyr's Reckoning Damage
++10% Shield Chain and
+Sacrifice Damage
 Cast Speed +10%
 Crusader/Paladin Only Bonus:
 Armor becomes Holy Property.
@@ -23203,8 +23147,8 @@ INT +1
 STR +1
 DEF +2
 SP Recovery +10%
-+10% Rapid Smiting and
-Martyr's Reckoning Damage
++10% Shield Chain and
+Sacrifice Damage
 Cast Speed +10%
 Crusader/Paladin Only Bonus:
 Armor becomes Holy Property.
@@ -23647,8 +23591,8 @@ INT +1
 STR +1
 DEF +2
 SP Recovery +10%
-+10% Rapid Smiting and
-Martyr's Reckoning Damage
++10% Shield Chain and
+Sacrifice Damage
 Variable Casting Speed +10%
 Crusader/Paladin Only Bonus:
 Armor becomes Holy Property.
@@ -86416,6 +86360,87 @@ Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
+20262#
+A headgear that imitated the ears of fox. When you move the bell will ringing.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20263#
+Hat that refer to shape of sleeping cat. If you wake up sleeping cat, you will be suffered.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20264#
+Cursed mask inspired by creepy vampire fang. It can drains life.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Lower^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20265#
+A bird's nest with a newly hatched baby bird. It takes certain responsibility to keep the baby bird.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20266#
+From the inside of zipper there is creature like a bunny.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20267#
+Costume with penguin motif.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20268#
+A sleepy Eclipse with his family, look comfortable.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20269#
+A costume that imitated the ears of white fox.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20270#
+A costume that imitated the ears of white fox.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Middle^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
 20271#
 Peculiar headgear designed to look like a sunflower.
 Class: ^777777Costume^000000
@@ -86427,6 +86452,15 @@ Jobs: ^777777All^000000
 #
 20272#
 A pristinely white horn worn on the forehead that makes one look like a unicorn.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20274#
+A lovely 'Bear Hat' costume.
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
@@ -86590,6 +86624,38 @@ Every 2 refine increase holy resistance +1%.
 20722#
 #
 20723#
+#
+20724#
+Beautiful golden wings Shining brightly To celebrate the event of Father's Day
+[-^6A5ACD Base STR 90^000000 -]
+All stats +1
+MaxHP +1%, MaxSP +1%
+STR +1 for every refine
+[-^6A5ACD Base INT 90^000000 -]
+All stats +1
+MaxHP +1%, MaxSP +1%
+INT +1 for every refine
+[-^6A5ACD Base VIT 90^000000 -]
+All stats +1
+MaxHP +1%, MaxSP +1%
+VIT +1 for every refine
+[-^6A5ACD Base AGI 90^000000 -]
+All stats +1
+MaxHP +1%, MaxSP +1%
+AGI +1 for every refine
+[-^6A5ACD Base DEX 90^000000 -]
+All stats +1
+MaxHP +1%, MaxSP +1%
+DEX +1 for every refine
+[-^6A5ACD Base LUK 90^000000 -]
+All stats +1
+MaxHP +1%, MaxSP +1%
+LUK +1 for every refine
+Class: ^777777Garment^000000
+Defense: ^77777715^000000
+Weight: ^77777710^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 20725#
 A huge ribbon worn by Piamette. Blessed with strong magical power.

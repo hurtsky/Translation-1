@@ -10986,8 +10986,8 @@ INT +1
 STR +1
 DEF +2
 SP Recovery +10%
-+10% Rapid Smiting and
-Martyr's Reckoning Damage 
++10% Shield Chain and
+Sacrifice Damage 
 Cast Speed +10%
 Crusader/Paladin Only Bonus:
 Armor becomes Holy Property.
@@ -11129,8 +11129,8 @@ INT +1
 STR +1
 DEF +2
 SP Recovery +10%
-+10% Rapid Smiting and
-Martyr's Reckoning Damage 
++10% Shield Chain and
+Sacrifice Damage 
 Cast Speed +10%
 Crusader/Paladin Only Bonus:
 Armor becomes Holy Property.
@@ -11342,8 +11342,8 @@ INT +1
 STR +1
 DEF +2
 SP Recovery +10%
-+10% Rapid Smiting and
-Martyr's Reckoning Damage 
++10% Shield Chain and
+Sacrifice Damage 
 Cast Speed +10%
 Crusader/Paladin Only Bonus:
 Armor becomes Holy Property.
@@ -11786,8 +11786,8 @@ INT +1
 STR +1
 DEF +2
 SP Recovery +10%
-+10% Rapid Smiting and
-Martyr's Reckoning Damage 
++10% Shield Chain and
+Sacrifice Damage 
 Cast Speed +10%
 Crusader/Paladin Only Bonus:
 Armor becomes Holy Property.
@@ -54792,10 +54792,40 @@ Unknown Item, can be identified by [Magnifier].
 20259#
 Unknown Item, can be identified by [Magnifier].
 #
+20262#
+Unknown Item, can be identified by [Magnifier].
+#
+20263#
+Unknown Item, can be identified by [Magnifier].
+#
+20264#
+Unknown Item, can be identified by [Magnifier].
+#
+20265#
+Unknown Item, can be identified by [Magnifier].
+#
+20266#
+Unknown Item, can be identified by [Magnifier].
+#
+20267#
+Unknown Item, can be identified by [Magnifier].
+#
+20268#
+Unknown Item, can be identified by [Magnifier].
+#
+20269#
+Unknown Item, can be identified by [Magnifier].
+#
+20270#
+Unknown Item, can be identified by [Magnifier].
+#
 20271#
 Unknown Item, can be identified by [Magnifier].
 #
 20272#
+Unknown Item, can be identified by [Magnifier].
+#
+20274#
 Unknown Item, can be identified by [Magnifier].
 #
 20500#
@@ -54871,6 +54901,9 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 20723#
+Unknown Item, can be identified by [Magnifier].
+#
+20724#
 Unknown Item, can be identified by [Magnifier].
 #
 20725#
