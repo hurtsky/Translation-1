@@ -5619,12 +5619,6 @@ StateIconList[EFST_IDs.EFST_DRACULA_CARD] = {
     }
   }
 }
-StateIconList[EFST_IDs.EFST_TIME_ACCESSORY] = {
-  haveTimeLimit = 0,
-  posTimeLimitStr = 1,
-  descript = {
-  }
-}
 StateIconList[EFST_IDs.EFST_EP16_DEF] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
