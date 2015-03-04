@@ -2930,6 +2930,8 @@
 4949#Delay_After_Skill_Lv2#
 4950#Delay_After_Skill_Lv3#
 4991#Kafra_Blossom_Card#
+4992#HP_Absorb_1#
+4993#SP_Absorb_1#
 4998#GM_Aegis_Card#
 4999#GM_Valor_Card#
 5001#Helm#
@@ -4657,6 +4659,8 @@
 6957#Soft_Wool#
 6958#Lamb_Horn#
 6960#Sky_Fortress_Key#
+6963#HP_Restoration_Stone_(Garment_Slot)#
+6964#SP_Restoration_Stone_(Garment_Slot)#
 7001#Mould_Powder#
 7002#Ogre_Tooth#
 7003#Anolian_Skin#
@@ -8241,7 +8245,7 @@
 14649##
 14663##
 14664##
-14665##
+14665#Scroll_of_Love#
 14666##
 14667##
 14672##
@@ -9541,6 +9545,8 @@
 17550#(Limited)30_High_Density_Cranium_Box#
 17569#3_Hours_Dungeon_Ticket_Box#
 17570#던전_이용권_3시간_상자#
+17573#10_Nyan_Actinidia_Box_of_Fotune#
+17574#100_Nyan_Actinidia_Box_of_Fotune#
 18000#Cannon_Ball#
 18001#Holy_Cannon_Ball#
 18002#Dark_Cannon_Ball#
@@ -9856,8 +9862,8 @@
 18787#Headgear#
 18788#Glasses#
 18789#Hat#
-18790##
-18791#Accessory#
+18790#Hat#
+18791#Headgear#
 18793#Hat#
 18794#Hat#
 18795#Hat#
@@ -10639,6 +10645,7 @@
 20067#Headband#
 20068#Headband#
 20070#Headgear#
+20071#Accesory#
 20073#Headband#
 20074#Hat#
 20084#Headgear#
@@ -10652,6 +10659,7 @@
 20095#Hairband#
 20096#Hairband#
 20097#Hairband#
+20098#Hairband#
 20099#Headgear#
 20100#Hat#
 20102#Headgear#
@@ -10804,6 +10812,7 @@
 20270#Hat#
 20271#Headgear#
 20272#Headgear#
+20273#Hat#
 20274#Headgear#
 20500#Garment#
 20700#Garment#
@@ -10847,6 +10856,7 @@
 20757#Garment#
 20758#Garment#
 20761#Garment#
+20762#Garment#
 20763#Garment#
 20764#Garment#
 20765#Garment#

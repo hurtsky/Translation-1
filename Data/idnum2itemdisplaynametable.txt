@@ -2930,6 +2930,8 @@
 4949#Delay_After_Skill_Lv2#
 4950#Delay_After_Skill_Lv3#
 4991#Kafra_Blossom_Card#
+4992#HP_Absorb_1#
+4993#SP_Absorb_1#
 4998#GM_Aegis_Card#
 4999#GM_Valor_Card#
 5001#Headset#
@@ -4657,6 +4659,8 @@
 6957#Soft_Wool#
 6958#Lamb_Horn#
 6960#Sky_Fortress_Key#
+6963#HP_Restoration_Stone_(Garment_Slot)#
+6964#SP_Restoration_Stone_(Garment_Slot)#
 7001#Mould_Powder#
 7002#Ogre_Tooth#
 7003#Anolian_Skin#
@@ -8241,7 +8245,7 @@
 14649##
 14663#Scroll_Sealed_Dark_Lord#
 14664##
-14665##
+14665#Scroll_of_Love#
 14666##
 14667##
 14672#Steel_Fighter_Scroll(20Lv)#
@@ -9541,6 +9545,8 @@
 17550#(Limited)30_High_Density_Cranium_Box#
 17569#3_Hours_Dungeon_Ticket_Box#
 17570#던전_이용권_3시간_상자#
+17573#10_Nyan_Actinidia_Box_of_Fotune#
+17574#100_Nyan_Actinidia_Box_of_Fotune#
 18000#Cannon_Ball#
 18001#Holy_Cannon_Ball#
 18002#Dark_Cannon_Ball#
@@ -9622,7 +9628,7 @@
 18549#Butterfly_Hairpin#
 18550#Asgard_Blessing#
 18551#Galaxy_Circlet#
-18552#Baby_Angel_Stone_Hat#
+18552#Blessed_Apprentice_Angel#
 18553#Christmas_Tree_Hat#
 18554#Amami_Old_Hat#
 18555#Dragon_General_Helm#
@@ -10639,6 +10645,7 @@
 20067#[Costume]_White_Rabbit_Headband#
 20068#[Costume]_Black_Rabbit_Headband#
 20070#[Costume]_Alpaca_Hood#
+20071#[Costume]_Worg_In_Mouth#
 20073#[Costume]_Hair_Band#
 20074#[Costume]_Biretta#
 20084#[Costume]_Ceremonial_Hat#
@@ -10652,6 +10659,7 @@
 20095#[Costume]_Red_Ribbon#
 20096#[Costume]_Blue_Ribbon#
 20097#[Costume]_White_Ribbon#
+20098#[Costume]_Vampire_Hairband#
 20099#[Costume]_Ljosalfar#
 20100#[Costume]_Volume_Fhat#
 20102#[Costume]_Horse_King#
@@ -10804,6 +10812,7 @@
 20270#[Costume]_Gryphon_Wing_Ears#
 20271#[Costume]_Sunflower#
 20272#[Costume]_Unicorn_Horn#
+20273#의상_부드러운_양모자#
 20274#[Costume]_Polar_Bear_Cap#
 20500#[Costume]_Archangel_Wing#
 20700#Aegir_Mantle#
@@ -10847,6 +10856,7 @@
 20757#Heavenly_Wings#
 20758#Heavinly_Wings#
 20761#[Costume]_Wing_of_Happiness#
+20762#[Costume]_Great_Devil_Wings#
 20763#[Costume]_Amistr_Bag#
 20764#[Costume]_Fallen_Angel_Wing#
 20765#[Costume]_Archangel_Wing#

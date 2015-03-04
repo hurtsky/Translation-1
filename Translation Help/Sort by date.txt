@@ -997,4 +997,44 @@
 		ClassNum = 0
 	},
 
+// ------------------KRO 2015-03-04------------------
 
+	[22905] = {
+		unidentifiedDisplayName = "의상 인챈트 스톤 상자6",
+		unidentifiedResourceName = "초록상자",
+		unidentifiedDescriptionName = {
+			"부위별 의상 장비에 인챈트를 할 수 있는 스톤이 들어 있는 상자. ",
+			"HP회복스톤(걸칠것), SP회복스톤(걸칠것)이 새롭게 추가되었으며, ",
+			"기존의 의상 인챈트 스톤도 포함되어 있다."
+		},
+		identifiedDisplayName = "의상 인챈트 스톤 상자6",
+		identifiedResourceName = "초록상자",
+		identifiedDescriptionName = {
+			"부위별 의상 장비에 인챈트를 할 수 있는 스톤이 들어 있는 상자. ",
+			"HP회복스톤(걸칠것), SP회복스톤(걸칠것)이 새롭게 추가되었으며, ",
+			"기존의 의상 인챈트 스톤도 포함되어 있다.",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[22906] = {
+		unidentifiedDisplayName = "봉인된인장 스크롤Ⅲ",
+		unidentifiedResourceName = "지혜스크롤",
+		unidentifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"기간 한정 봉인된인장 스크롤. ",
+			"봉인된인장 카드, 무기 9제련 보장권, 방어구 9제련 보장권, 신년 쉐도우 큐브, 무한 파리의 날개 5일상자 등등 여러가지 희귀한 아이템 중 하나를 얻을 수 있다."
+		},
+		identifiedDisplayName = "봉인된인장 스크롤Ⅲ",
+		identifiedResourceName = "지혜스크롤",
+		identifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"기간 한정 봉인된인장 스크롤. ",
+			"봉인된인장 카드, 무기 9제련 보장권, 방어구 9제련 보장권, 신년 쉐도우 큐브, 무한 파리의 날개 5일상자 등등 여러가지 희귀한 아이템 중 하나를 얻을 수 있다.",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},

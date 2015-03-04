@@ -13778,7 +13778,7 @@ Weight: ^7777771^000000
 4637#
 When killing enemy with melee attack, recover 50 HP and 5 SP.
 Disable HP and SP natural recovery.
-When armor is unequipped, drain HP -1000 and SP -100
+When garment is unequipped, drain HP -1000 and SP -100
 Class: ^777777Card^000000
 Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
@@ -14796,6 +14796,12 @@ Delay After-Cast by -6%.
 #
 4991#
 Kafra_Blossom_Card
+#
+4992#
+1% chance to absorb 1% physical damage into HP.
+#
+4993#
+1% chance to absorb 1% physical damage into SP.
 #
 4998#
 GM_Aegis_Card
@@ -20009,70 +20015,70 @@ Weight: ^7777770^000000
 A stone with strength.
 Gives below stats to Upper Costume
 STR +1.
-^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6637#
 A stone with Intelligence.
 Gives below stats to Upper Costume
 INT +1.
-^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6638#
 A stone with Agility.
 Gives below stats to Upper Costume
 AGI +1.
-^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6639#
 A stone with Dexterity.
 Gives below stats to Upper Costume
 DEX +1.
-^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6640#
 A stone with Health.
 Gives below stats to Upper Costume
 VIT +1.
-^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6641#
 A stone with Lucky.
 Gives below stats to Upper Costume
 LUK +1.
-^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6642#
 A stone with Attack.
 Gives below stats to Middle Costume
 ATK +1%.
-^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6643#
 A stone with Magical.
 Gives below stats to Middle Costume
 MATK +1%.
-^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6644#
 A stone with Hit.
 Gives below stats to Lower Costume
 HIT +1.
-^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6645#
 A stone with Evasion.
 Gives below stats to Lower Costume
 FLEE +1.
-^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 무게 : ^77777710^000000
 #
 6646#
@@ -20261,7 +20267,7 @@ Weight: ^7777771^000000
 #
 6697#
 A coupon that can be used to exchange existing headgear into costume.
-^ffffff<NAVI>^4D4DFF[Eve Patterson]^000000<INFO>malangdo,162,139,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Eve Patterson]^000000<INFO>mal_in01,11,110,0,100,0,0</INFO></NAVI>^000000
 Weight: ^7777771^000000
 #
 6698#
@@ -20391,42 +20397,42 @@ Weight: ^7777770^000000
 Stone to increase the amount of recovery.
 Costumes in the top slot grants the following abilities.
 Increase item recovery effect + 2%.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6741#
 Stone is a good skill to write Recovery
 Costumes in the top slot grants the following abilities.
 Skills Recovery 3% of the amount of recovery.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6742#
 Improves Regen stone.
 Costumes in the middle slot grants the following abilities.
 Each 10 Seconds restores 10 HP.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6743#
 Stone to increase health.
 Costumes in the middle slot grants the following abilities.
 MaxHP + 1%.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6744#
 Stone to increase magic power.
 Costumes in the middle slot grants the following abilities.
 MaxSP + 1%.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6745#
 The stone give SP for battle.
 Costumes in the lower slot grants the following abilities.
 When user kill enemy with physically/magically attacking recovery 1 SP.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6746#
@@ -20612,21 +20618,21 @@ Weight: ^7777770^000000
 Stone effective against large size enemies.
 Costumes in the top slot grants the following abilities.
 Increases damage against large size monsters by 1%.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6791#
 Stone effective against medium size enemies.
 Costumes in the top slot grants the following abilities.
 Increases damage against medium size monsters by 1%.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6792#
 Stone effective against small size enemies.
 Costumes in the top slot grants the following abilities.
 Increases damage against small size monsters by 1%.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6797#
@@ -21140,63 +21146,63 @@ Weight: ^7777771^000000
 A power stone.
 Increase a stat in costume's upper slot.
 ATK +1%.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6944#
 A power stone.
 Increase a stat in costume's upper slot.
 MATK +1%.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6945#
 A power stone.
 Increase a stat in costume's middle slot.
 STR +1.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6946#
 A power stone.
 Increase a stat in costume's middle slot.
 INT +1.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6947#
 A power stone.
 Increase a stat in costume's middle slot.
 AGI +1.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6948#
 A power stone.
 Increase a stat in costume's middle slot.
 DEX +1.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6949#
 A power stone.
 Increase a stat in costume's middle slot.
 VIT +1.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6950#
 A power stone.
 Increase a stat in costume's middle slot.
 LUK +1.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6951#
 A power stone.
 Increase a stat in costume's lower slot.
 Max HP +1%.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6953#
@@ -21240,6 +21246,18 @@ Weight: ^7777770^000000
 ^ff0000Cannot be traded.^000000
 A key used to enter fortress somewhere in the sky.
 Weight: ^7777771^000000
+#
+6963#
+Stone which can absorb HP
+Give ability to costume garment slot.
+1% chance to absorb 1% physical damage into HP.
+^ffffff<NAVI>^4D4DFF[레이스 라 자드]^000000<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>^000000
+#
+6964#
+Stone which can absorb SP.
+Give ability to costume garment slot.
+1% chance to absorb 1% physical damage into SP.
+^ffffff<NAVI>^4D4DFF[레이스 라 자드]^000000<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>^000000
 #
 7001#
 A handful of soft, powdery mold that is strangely silken to the touch.
@@ -44250,6 +44268,8 @@ Weight: ^7777771^000000
 14664#
 #
 14665#
+Rumors say it will bless for your love.
+Weight: ^7777771^000000
 #
 14666#
 #
@@ -50274,6 +50294,22 @@ Weight: ^7777771^000000
 ^ffffff_^000000
 ^ff0000본 아이템을 개봉하시면 청약철회 대상에서 제외 됩니다. 창고에도 넣을 수 없습니다! ^000000
 #
+17573#
+^ff0000Cannot be traded.^000000
+Box contain 10 Nyan Actinidia Fruit.
+Contain bonus of Canned food.
+It's possible to get sealed scroll III from this box.
+^ff0000Impossible to withdrawl once opened.^000000
+Weight : ^7777771^000000
+#
+17574#
+^ff0000Cannot be traded.^000000
+Box contain 100 Nyan Actinidia Fruit.
+Contain bonus of Canned food.
+It's possible to get 11 sealed scroll III from this box.
+^ff0000Impossible to withdrawl once opened.^000000
+Weight : ^7777771^000000
+#
 18000#
 A consumable item to use the Mechanic Magic Gear Skill, Arm's Cannon.
 Class: ^777777Cannonball^000000
@@ -54330,6 +54366,9 @@ Unknown Item, can be identified by [Magnifier].
 20070#
 Unknown Item, can be identified by [Magnifier].
 #
+20071#
+Unknown Item, can be identified by [Magnifier].
+#
 20073#
 Unknown Item, can be identified by [Magnifier].
 #
@@ -54367,6 +54406,9 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 20097#
+Unknown Item, can be identified by [Magnifier].
+#
+20098#
 Unknown Item, can be identified by [Magnifier].
 #
 20099#
@@ -54825,6 +54867,9 @@ Unknown Item, can be identified by [Magnifier].
 20272#
 Unknown Item, can be identified by [Magnifier].
 #
+20273#
+Unknown Item, can be identified by [Magnifier].
+#
 20274#
 Unknown Item, can be identified by [Magnifier].
 #
@@ -54952,6 +54997,9 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 20761#
+Unknown Item, can be identified by [Magnifier].
+#
+20762#
 Unknown Item, can be identified by [Magnifier].
 #
 20763#

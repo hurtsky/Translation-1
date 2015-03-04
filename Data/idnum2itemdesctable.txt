@@ -25607,7 +25607,7 @@ Weight: ^7777771^000000
 4637#
 When killing enemy with melee attack, recover 50 HP and 5 SP.
 Disable HP and SP natural recovery.
-When armor is unequipped, drain HP -1000 and SP -100
+When garment is unequipped, drain HP -1000 and SP -100
 Class: ^777777Card^000000
 Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
@@ -26630,6 +26630,12 @@ Adventurers can feel carefree exploring dangerous lands knowing that Kafra gal B
 Class: ^777777Card^000000
 Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
+#
+4992#
+1% chance to absorb 1% physical damage into HP.
+#
+4993#
+1% chance to absorb 1% physical damage into SP.
 #
 4998#
 GM_Aegis_Card
@@ -35936,7 +35942,7 @@ Defense: ^77777710^000000
 Location: ^777777Upper^000000
 Weight: ^77777720^000000
 Required Level: ^777777100^000000
-Job : ^777777Ranger only^000000
+Jobs: ^777777Ranger only^000000
 #
 5899#
 A simple black ribbon that promotes focus no matter how intense the battle is.
@@ -35949,7 +35955,7 @@ Defense: ^77777710^000000
 Location: ^777777Upper^000000
 Weight: ^77777720^000000
 Required Level: ^777777100^000000
-Job : ^777777Rune Knight Only^000000
+Jobs: ^777777Rune Knight Only^000000
 #
 5900#
 A majestic hat that displays the divine authority that has been invested in the wearer.
@@ -35962,7 +35968,7 @@ Defense: ^77777710^000000
 Location: ^777777Upper^000000
 Weight: ^77777720^000000
 Required Level: ^777777100^000000
-Job : ^777777Royal Guard Only^000000
+Jobs: ^777777Royal Guard Only^000000
 #
 5901#
 A green beret that helps the user to refocus their energy into more meaningful attacks. The star on the front is inscribed with the character for 'Dragon'.
@@ -35975,7 +35981,7 @@ Defense: ^77777710^000000
 Location: ^777777Upper^000000
 Weight: ^77777720^000000
 Required Level: ^777777100^000000
-Job : ^777777Sura Only^000000
+Jobs: ^777777Sura Only^000000
 #
 5902#
 A good-luck hat worn by farmers to make sure they collect an exceptionally good harvest. Some say it was blessed by the Harvest Goddess herself.
@@ -35988,7 +35994,7 @@ Defense: ^77777710^000000
 Location: ^777777Upper^000000
 Weight: ^77777720^000000
 Required Level: ^777777100^000000
-Job : ^777777Genetic Only^000000
+Jobs: ^777777Genetic Only^000000
 #
 5903#
 An otherwise normal ghost bandana with a red spiral insignia on the front.
@@ -36003,7 +36009,7 @@ Defense: ^77777715^000000
 Location: ^777777Upper^000000
 Weight: ^77777720^000000
 Required Level: ^77777799^000000
-Job : ^777777Magician and Soul Linker Only^000000
+Jobs: ^777777Magician and Soul Linker Only^000000
 #
 5904#
 A simple hat that would look inconspicuous in any crowd. Its very helpful to anyone who is trying to blend in.
@@ -36016,7 +36022,7 @@ Defense: ^77777710^000000
 Location: ^777777Upper^000000
 Weight: ^77777720^000000
 Required Level: ^777777100^000000
-Job : ^777777Shadow chaser only^000000
+Jobs: ^777777Shadow chaser only^000000
 #
 5905#
 A finely crafted hat designed just for Maestros.
@@ -36030,7 +36036,7 @@ Defense: ^77777710^000000
 Location: ^777777Upper^000000
 Weight: ^77777720^000000
 Required Level: ^777777100^000000
-Job : ^777777Maestro only^000000
+Jobs: ^777777Maestro only^000000
 #
 5906#
 Twisted horns that were supposedly crafted to look like those of a race of demons that died out long ago.
@@ -36044,7 +36050,7 @@ Defense: ^77777710^000000
 Location: ^777777Upper^000000
 Weight: ^77777720^000000
 Required Level: ^777777100^000000
-Job : ^777777Guillotine cross only^000000
+Jobs: ^777777Guillotine cross only^000000
 #
 5907#
 A crisp white hat most often used by the captains of large naval craft.
@@ -36059,7 +36065,7 @@ Defense: ^77777720^000000
 Location: ^777777Upper^000000
 Weight: ^77777720^000000
 Required Level: ^777777100^000000
-Job : ^777777Mechanic only^000000
+Jobs: ^777777Mechanic only^000000
 #
 5918#
 Class: ^777777Headgear^000000
@@ -36067,7 +36073,7 @@ Defense: ^7777770^000000
 Location: ^777777Middle^000000
 Weight: ^77777750^000000
 Required Level: ^77777770^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 5920#
 #
@@ -38886,70 +38892,70 @@ Weight: ^7777770^000000
 A stone with strength.
 Gives below stats to Upper Costume
 STR +1.
-^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6637#
 A stone with Intelligence.
 Gives below stats to Upper Costume
 INT +1.
-^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6638#
 A stone with Agility.
 Gives below stats to Upper Costume
 AGI +1.
-^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6639#
 A stone with Dexterity.
 Gives below stats to Upper Costume
 DEX +1.
-^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6640#
 A stone with Health.
 Gives below stats to Upper Costume
 VIT +1.
-^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6641#
 A stone with Lucky.
 Gives below stats to Upper Costume
 LUK +1.
-^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6642#
 A stone with Attack.
 Gives below stats to Middle Costume
 ATK +1%.
-^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6643#
 A stone with Magical.
 Gives below stats to Middle Costume
 MATK +1%.
-^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6644#
 A stone with Hit.
 Gives below stats to Lower Costume
 HIT +1.
-^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6645#
 A stone with Evasion.
 Gives below stats to Lower Costume
 FLEE +1.
-^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 무게 : ^77777710^000000
 #
 6646#
@@ -39138,7 +39144,7 @@ Weight: ^7777771^000000
 #
 6697#
 A coupon that can be used to exchange existing headgear into costume.
-^ffffff<NAVI>^4D4DFF[Eve Patterson]^000000<INFO>malangdo,162,139,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Eve Patterson]^000000<INFO>mal_in01,11,110,0,100,0,0</INFO></NAVI>^000000
 Weight: ^7777771^000000
 #
 6698#
@@ -39268,42 +39274,42 @@ Weight: ^7777770^000000
 Stone to increase the amount of recovery.
 Costumes in the top slot grants the following abilities.
 Increase item recovery effect + 2%.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6741#
 Stone is a good skill to write Recovery
 Costumes in the top slot grants the following abilities.
 Skills Recovery 3% of the amount of recovery.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6742#
 Improves Regen stone.
 Costumes in the middle slot grants the following abilities.
 Each 10 Seconds restores 10 HP.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6743#
 Stone to increase health.
 Costumes in the middle slot grants the following abilities.
 MaxHP + 1%.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6744#
 Stone to increase magic power.
 Costumes in the middle slot grants the following abilities.
 MaxSP + 1%.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6745#
 The stone give SP for battle.
 Costumes in the lower slot grants the following abilities.
 When user kill enemy with physically/magically attacking recovery 1 SP.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6746#
@@ -39489,21 +39495,21 @@ Weight: ^7777770^000000
 Stone effective against large size enemies.
 Costumes in the top slot grants the following abilities.
 Increases damage against large size monsters by 1%.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6791#
 Stone effective against medium size enemies.
 Costumes in the top slot grants the following abilities.
 Increases damage against medium size monsters by 1%.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6792#
 Stone effective against small size enemies.
 Costumes in the top slot grants the following abilities.
 Increases damage against small size monsters by 1%.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6797#
@@ -40056,63 +40062,63 @@ Weight: ^7777771^000000
 A power stone.
 Increase a stat in costume's upper slot.
 ATK +1%.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6944#
 A power stone.
 Increase a stat in costume's upper slot.
 MATK +1%.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6945#
 A power stone.
 Increase a stat in costume's middle slot.
 STR +1.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6946#
 A power stone.
 Increase a stat in costume's middle slot.
 INT +1.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6947#
 A power stone.
 Increase a stat in costume's middle slot.
 AGI +1.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6948#
 A power stone.
 Increase a stat in costume's middle slot.
 DEX +1.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6949#
 A power stone.
 Increase a stat in costume's middle slot.
 VIT +1.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6950#
 A power stone.
 Increase a stat in costume's middle slot.
 LUK +1.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6951#
 A power stone.
 Increase a stat in costume's lower slot.
 Max HP +1%.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>malangdo,154,135,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6953#
@@ -40156,6 +40162,20 @@ Weight: ^7777770^000000
 ^ff0000Cannot be traded.^000000
 A key used to enter fortress somewhere in the sky.
 Weight: ^7777771^000000
+#
+6963#
+Stone which can absorb HP
+Give ability to costume garment slot.
+1% chance to absorb 1% physical damage into HP.
+^ffffff<NAVI>^4D4DFF[레이스 라 자드]^000000<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>^000000
+Weight: ^77777710^000000
+#
+6964#
+Stone which can absorb SP.
+Give ability to costume garment slot.
+1% chance to absorb 1% physical damage into SP.
+^ffffff<NAVI>^4D4DFF[레이스 라 자드]^000000<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>^000000
+Weight: ^77777710^000000
 #
 7001#
 A handful of soft, powdery mold that is strangely silken to the touch.
@@ -56770,7 +56790,7 @@ Attack: ^777777120^000000
 Weight: ^777777120^000000
 Weapon Level: ^7777771^000000
 Required Level: ^77777730^000000
-Job : ^777777Swordman^000000
+Jobs: ^777777Swordman^000000
 #
 13434#
 A one-handed sword that is made by the Eden Group. It's suitable for an experienced sword handler.
@@ -66363,6 +66383,8 @@ You can get Deviliing Card,Angeliing Card,+11 Weapon Refine,Gurantee +11 Armor,W
 14664#
 #
 14665#
+Rumors say it will bless for your love.
+Weight: ^7777771^000000
 #
 14666#
 #
@@ -72078,9 +72100,9 @@ DEF+4
 Enables the use of the skill 'Hiding' Lv1.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
-Location: ^777777Upper-Mid^000000		Weight: ^77777710^000000
+Location: ^777777Upper-Mid^000000
+Weight: ^77777710^000000
 Jobs: ^777777All^000000
-^777777_^000000
 Weight: ^7777771^000000
 #
 16737#
@@ -72092,9 +72114,9 @@ DEF+4
 Enables the use of the skill 'Hiding' Lv1.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
-Location: ^777777Upper-Mid^000000		Weight: ^77777710^000000
+Location: ^777777Upper-Mid^000000
+Weight: ^77777710^000000
 Jobs: ^777777All^000000
-^777777_^000000
 Weight: ^7777771^000000
 #
 16738#
@@ -74670,6 +74692,22 @@ Weight: ^7777771^000000
 ^ff0000본 아이템을 개봉하시면 청약철회 대상에서 제외 됩니다. 창고에도 넣을 수 없습니다! ^000000
 무게 : ^7777771^000000
 #
+17573#
+^ff0000Cannot be traded.^000000
+Box contain 10 Nyan Actinidia Fruit.
+Contain bonus of Canned food.
+It's possible to get sealed scroll III from this box.
+^ff0000Impossible to withdrawl once opened.^000000
+Weight : ^7777771^000000
+#
+17574#
+^ff0000Cannot be traded.^000000
+Box contain 100 Nyan Actinidia Fruit.
+Contain bonus of Canned food.
+It's possible to get 11 sealed scroll III from this box.
+^ff0000Impossible to withdrawl once opened.^000000
+Weight : ^7777771^000000
+#
 18000#
 A consumable item to use the Mechanic Magic Gear Skill, Arm's Cannon.
 Class: ^777777Cannonball^000000
@@ -75552,6 +75590,16 @@ Required Level: ^77777750^000000
 Jobs: ^777777All^000000
 #
 18552#
+Statue of a baby angel that could be embarrassing to wear if you're insecure.
+LUK +2
+Cannot be refined.
+Indestructible
+Class: ^777777Headgear^000000
+Defense: ^7777770^000000
+Equip: ^777777Upper^000000
+Weight: ^777777120^000000
+Required Level: ^77777710^000000
+Jobs: ^777777All^000000
 #
 18553#
 A 'fashionable' Christmas Tree hat designed by Louise Carol.
@@ -77780,10 +77828,18 @@ Jobs: ^777777All^000000
 18789#
 #
 18790#
+^FF0000Cannot be traded^000000
+Colorful Poring hat, make all people love it.
+Increase resistance against demi-human by 5%.
+ATK +5%, MATK +5%.
+Class: ^777777Headgear^000000
+Defense: ^7777773^000000
+Location: ^777777Upper^000000
+Weight: ^77777710^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 18791#
-^FF0000Can be obtained from Poring Festival or Item Mall.^000000
-^FF0000This item is Account Bound^000000
 A ribbon once worn by a shrine maiden as she fought off hordes of demons and youkai.
 Wearing it demonstrates - and rewards - your resolve to follow the same path.
 -Increases the damage of Magnus Exorcismus by 30%.
@@ -78357,7 +78413,7 @@ If refined to +12 or higher, ASPD +2
 Class: ^777777Headgear^000000 Defense: ^7777774^000000
 Location: ^777777Upper ^000000Weight: ^77777715^000000
 Required Level: ^77777730^000000
-Job : ^777777All jobs^000000
+Jobs: ^777777All jobs^000000
 #
 18853#
 A delicious strawberry, so delicious that you'd rather put in on your head than eat it?
@@ -78366,7 +78422,7 @@ If refined to +12 or higher, ASPD +2
 Class: ^777777Headgear^000000 Defense: ^7777774^000000
 Location: ^777777Upper ^000000Weight: ^77777715^000000
 Required Level: ^77777730^000000
-Job : ^777777All jobs^000000
+Jobs: ^777777All jobs^000000
 #
 18854#
 It feel stronger than usual.
@@ -78447,7 +78503,7 @@ Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Levelel : ^77777750^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 18862#
 #
@@ -78460,7 +78516,7 @@ Class: ^777777Armor^000000
 Defense: ^77777757^000000
 Weight: ^777777170^000000
 Required Level: ^77777760^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 18864#
 This flower decoration is blessed by the goddess of earth granting its wearer protection against Earth damages.
@@ -78473,7 +78529,7 @@ Defense: ^7777776^000000
 Location: ^777777Upper^000000
 Weight: ^77777725^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 18865#
 A crown for the master of all weapon.
@@ -78492,7 +78548,7 @@ Defense: ^77777730^000000
 Location: ^777777Upper^000000
 Weight: ^777777100^000000
 Required Level: ^77777750^000000
-Job : ^777777all^000000
+Jobs: ^777777all^000000
 #
 18866#
 A silk hat of Owlduke. It can boost magic attack powers.
@@ -78509,7 +78565,7 @@ Defense: ^77777715^000000
 Location: ^777777Upper^000000
 Weight: ^77777750^000000
 Required Level: ^77777770^000000
-Job : ^777777all^000000
+Jobs: ^777777all^000000
 #
 18867#
 One of the holy weapon of Rudra, the God of storm.
@@ -78522,7 +78578,7 @@ Defense: ^7777770^000000
 Location: ^777777Lower ^000000
 Weight: ^77777730^000000
 Required Level: ^77777748^000000
-Job : ^777777all^000000
+Jobs: ^777777all^000000
 #
 18868#
 A mask worn by a group of eastern assassins. It's shaped like a skull to notify targets of their imminent death.
@@ -78532,7 +78588,7 @@ Defense: ^7777772^000000
 Location: ^777777Middle, Lower^000000
 Weight: ^77777750^000000
 Required Level: ^77777770^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 18869#
 [JRO item]
@@ -78837,7 +78893,7 @@ Location: ^777777Upper^000000
 Defense: ^7777778^000000
 Weight: ^77777720^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 18908#
 Piamette's red ears cap that kids love the most.
@@ -78851,7 +78907,7 @@ Location: ^777777Upper^000000
 Defense: ^7777778^000000
 Weight: ^77777730^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 18909#
 Piamette's brown ears cap that kids love the most.
@@ -78863,7 +78919,7 @@ Location: ^777777Upper^000000
 Defense: ^7777778^000000
 Weight: ^77777730^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 18910#
 Piamette's blue ears cap that kids love the most.
@@ -78875,7 +78931,7 @@ Location: ^777777Upper^000000
 Defense: ^7777778^000000
 Weight: ^77777730^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 18911#
 Lovely petals dropping from a pair of red flowers.
@@ -78888,7 +78944,7 @@ Location: ^777777Upper^000000
 Defense: ^77777710^000000
 Weight: ^77777720^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 18912#
 A pigeon perched on his master's shoulder.
@@ -78901,7 +78957,7 @@ Location: ^777777Middle ^000000
 Defense: ^7777775^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 18913#
 A gossiping raven that talks all day long.
@@ -78914,7 +78970,7 @@ Location: ^777777Middle ^000000
 Defense: ^7777775^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 18914#
 A cute baby deviling that chases his master all day.
@@ -78926,7 +78982,7 @@ Location: ^777777Middle ^000000
 Defense: ^7777775^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 18915#
 Scary but beautiful. Blood is still dripping from the wings, don't ask how it was acquired.
@@ -78938,7 +78994,7 @@ Location: ^777777Middle ^000000
 Defense: ^7777775^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 18916#
 A balloon shaped like a bear. It is often mistaken as a Poring.
@@ -78950,7 +79006,7 @@ Location: ^777777Lower ^000000
 Defense: ^7777775^000000
 Weight: ^77777720^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 18917#
 One of the best ways to show love. It makes you feel thrilled with your love relationship.
@@ -78961,7 +79017,7 @@ Location: ^777777Lower ^000000
 Defense: ^7777775^000000
 Weight: ^77777720^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 18918#
 A balloon shaped like an octopus. It sticks to its owner by using suckers.
@@ -78973,7 +79029,7 @@ Location: ^777777Lower ^000000
 Defense: ^7777775^000000
 Weight: ^77777720^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 18919#
 A common familiar often summoned by vampires. Very useful in scouting danger ahead of time.
@@ -78985,7 +79041,7 @@ Location: ^777777Lower ^000000
 Defense: ^7777775^000000
 Weight: ^77777720^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 18921#
 A moroccan style lamp that has lucky powers in it.
@@ -79028,7 +79084,7 @@ Defense: ^77777710^000000
 Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^77777730^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 18930#
 A hat that is shaped like the biggest primate in Africa.
@@ -79040,7 +79096,7 @@ Defense: ^77777710^000000
 Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^77777730^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 18931#
 A hat shaped like the predatory feline mammal that is popularly known as the king of the beasts.
@@ -79053,7 +79109,7 @@ Defense: ^77777710^000000
 Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^77777730^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 18932#
 A hat shaped like the equine mammal that is naturally armed with thick skin and strong, intimidating horns.
@@ -79065,7 +79121,7 @@ Defense: ^77777710^000000
 Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^77777730^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 18933#
 [JRO item]
@@ -79121,7 +79177,7 @@ Def : ^7777775^000000
 Location: ^777777Upper^000000
 Weight: ^77777720^000000
 Req LvL : ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 18945#
 Nothin you need to worry in the World when wearing this on your head.
@@ -79132,7 +79188,7 @@ Def : ^7777772^000000
 Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Req LvL : ^77777730^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 18946#
 Nothin you need to worry in the World when wearing this on your head.
@@ -79142,7 +79198,7 @@ Def : ^7777772^000000
 Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Req LvL : ^77777730^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 18953#
 A newly crafted cap.
@@ -79167,7 +79223,7 @@ Def : ^7777771^000000
 Location: ^777777Lower ^000000
 Weight: ^77777710^000000
 Req LvL : ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 18961#
 A hat made after fluffy monster Lunatic.
@@ -79176,7 +79232,7 @@ Def : ^7777772^000000
 Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Req LvL : ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 18962#
 Cute panda balloon!
@@ -79187,7 +79243,7 @@ Def : ^7777770^000000
 Location: ^777777Lower ^000000
 Weight: ^77777720^000000
 Req LvL : ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 18963#
 A hat made after pretty mocking bird.
@@ -79197,7 +79253,7 @@ Def : ^7777775^000000
 Location: ^777777Middle ^000000
 Weight: ^77777710^000000
 Req LvL : ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 18964#
 A crown with sacred aura all over it.
@@ -81415,7 +81471,7 @@ Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 19590#
 A red ribbon with a white flower. It makes girls prettier.
@@ -81424,7 +81480,7 @@ Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 19591#
 A long piece of red satin tied together into a neat little ribbon that wards off harmful magic.
@@ -81433,7 +81489,7 @@ Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 19592#
 A flower said to be as beautiful as a fairy in a far east country, and usually used as a medicinal
@@ -81442,7 +81498,7 @@ Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 19593#
 A wreath made with bright blue Leaves and Flowers to make you feel Fresh and rejuvenated.
@@ -81451,7 +81507,7 @@ Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 19594#
 A special decoration geographer designed to rest nicely on your head.
@@ -81460,7 +81516,7 @@ Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 19595#
 Funny hats made for April Fool's Day.
@@ -81469,7 +81525,7 @@ Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 19596#
 A headgear that looks like flapping angel wings.
@@ -81478,7 +81534,7 @@ Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 19597#
 A hat that looks like the eyes of a dark mage, which are rumored to blink sometimes.
@@ -81487,7 +81543,7 @@ Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 19598#
 Can feel a high dignity of the Northern Wolf Tribe.
@@ -81496,7 +81552,7 @@ Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 19599#
 A hat which resemble Imp of Thor Volcano.
@@ -81505,7 +81561,7 @@ Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 19600#
 Doll keel of expression was not pleased with that one. When worn, also depressed mood and figure of the wearer.
@@ -82728,7 +82784,7 @@ Jobs: ^777777All^000000
 #
 19746#
 The purple T-shirt which fit into shadowed human face.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper,Mid,Low^000000 Weight :^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -82756,14 +82812,14 @@ Jobs: ^777777All^000000
 #
 19750#
 It looks a neat big white ribbon.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000 Weight :^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19751#
 A white on the left, a black wing right wing was designed as a crown.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -82777,7 +82833,7 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19753#
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -82785,7 +82841,7 @@ Jobs: ^777777All^000000
 #
 19754#
 A legendary veil which can be used by only truly loved couple.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper, middle^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -82793,7 +82849,7 @@ Jobs: ^777777All^000000
 #
 19755#
 Earring symbolizes Yin and Yang.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Middle^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -82801,7 +82857,7 @@ Jobs: ^777777All^000000
 #
 19756#
 A hat blessed by Holy Mother. It can bless other people even by self-sacrifice.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper,Middle^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -82809,7 +82865,7 @@ Jobs: ^777777All^000000
 #
 19757#
 A hat shaped like a lily. It makes you calm and silent.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -82817,7 +82873,7 @@ Jobs: ^777777All^000000
 #
 19758#
 Even though it is a frog, a gentle man is waiting for a lovely girl who can dispel his curse.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -82825,35 +82881,35 @@ Jobs: ^777777All^000000
 #
 19759#
 Very colorful umbrella. It is very useful in rainy season.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19760#
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper,Middle^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19761#
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19762#
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19763#
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -82861,7 +82917,7 @@ Jobs: ^777777All^000000
 #
 19764#
 ^ff0000Cannot be traded.^000000
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Lower^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -82869,14 +82925,14 @@ Jobs: ^777777All^000000
 #
 19765#
 ^ff0000Cannot be traded.^000000
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Middle^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19766#
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -82884,7 +82940,7 @@ Jobs: ^777777All^000000
 #
 19767#
 A cute hair accessory decorated with cherry blossoms and bells. It reminds you of old memories.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -82892,7 +82948,7 @@ Jobs: ^777777All^000000
 #
 19768#
 A pink flowered wreath.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -82900,21 +82956,21 @@ Jobs: ^777777All^000000
 #
 19769#
 A headgear looks like the ears of a mischievous fairy.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Middle^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19770#
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Lower^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19771#
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -82923,7 +82979,7 @@ Jobs: ^777777All^000000
 19772#
 An interesting hat decorated with honeybee-like stripes and feelers.
 You feel like gathering the honey!
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -82931,7 +82987,7 @@ Jobs: ^777777All^000000
 #
 19773#
 A cute hairpin shaped like an angeling. When wearing this, you feel like a feather.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -82939,7 +82995,7 @@ Jobs: ^777777All^000000
 #
 19774#
 A laurel wreath used for the coronation of the emperor. It symbolizes glory and victory.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -82954,7 +83010,7 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19776#
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Middle^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -82963,7 +83019,7 @@ Jobs: ^777777All^000000
 19777#
 Ornaments modeled after the stars twinkling in the night sky. 
 Only wish good fortune to come to find something.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^7777771^000000
@@ -82972,7 +83028,7 @@ Jobs: ^777777All^000000
 #
 19778#
 A texture that melts in the mouth.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
@@ -82981,7 +83037,7 @@ Jobs: ^777777All^000000
 #
 19779#
 Spring flowers bloom earlier than other kinds of flowers made of hair ornaments to tell. Smells sweet.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
@@ -82992,7 +83048,7 @@ Jobs: ^777777All^000000
 Knitted hat is very cuteness and comfortable.
 Pendent rabbit ears are impressive.
 MHP +3%, MSP +3%.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83000,7 +83056,7 @@ Jobs: ^777777All Job^000000
 #
 19781#
 An ear accessory that looks just like white, beautiful angel wings.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Middle^000000
 Weight: ^7777770^000000
@@ -83009,7 +83065,7 @@ Jobs: ^777777All^000000
 #
 19782#
 A cute kitty doll which can be worn on top of the head.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
@@ -83018,7 +83074,7 @@ Jobs: ^777777All^000000
 #
 19783#
 A white colored moustache, symbol of experience and well aged sophistication.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Lower^000000
 Weight: ^7777770^000000
@@ -83027,7 +83083,7 @@ Jobs: ^777777All^000000
 #
 19784#
 A helm that was once owned by Morrigane, the goddess of war.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
@@ -83037,7 +83093,7 @@ Jobs: ^777777All^000000
 19785#
 A noble headgear created in the proud image of a crunchy toast.
 Wearing it makes you feel just like a part of a balanced breakfast.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Lower^000000
 Weight: ^7777770^000000
@@ -83046,7 +83102,7 @@ Jobs: ^777777All^000000
 #
 19786#
 A crown which is made after the one worn by Mistress.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
@@ -83091,7 +83147,7 @@ Jobs: ^777777All^000000
 #
 19791#
 A mask which resembles the face of an Alarm monster.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Middle^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83099,7 +83155,7 @@ Jobs: ^777777All^000000
 #
 19792#
 A mask with a blank expression on it.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Middle^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83107,7 +83163,7 @@ Jobs: ^777777All^000000
 #
 19793#
 A mask with a surprised expression on it.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Middle, Lower^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83115,7 +83171,7 @@ Jobs: ^777777All^000000
 #
 19794#
 A mask with an annoyed expression on it.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Middle, Lower^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83123,7 +83179,7 @@ Jobs: ^777777All^000000
 #
 19795#
 An exquisitely made circlet, typically worn by rulers or gentry.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83131,7 +83187,7 @@ Jobs: ^777777All^000000
 #
 19796#
 An incredibly heavy, yet almost impenetrable helmet constructed of bone.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83139,7 +83195,7 @@ Jobs: ^777777All^000000
 #
 19797#
 A headgear made in the honor of the legendary archer who shot an apple, on top of a friend's head, from a long distance.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83147,7 +83203,7 @@ Jobs: ^777777All^000000
 #
 19798#
 A headgear that finally allows its wearer to express inner rage or slight disgust.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Lower^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83155,7 +83211,7 @@ Jobs: ^777777All^000000
 #
 19799#
 A helmet forged from pure gold which blocks attacks effectively, but is also unaffordable.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83163,7 +83219,7 @@ Jobs: ^777777All^000000
 #
 19800#
 To celebrate the month of home-made, it became a diadem of pink carnations.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83174,42 +83230,42 @@ A hat shaped like a white fox. People say that some east countries worship the w
 Class: ^777777Costume^000000 Defense: ^7777770^000000
 Location: ^777777Mid Lower ^000000Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job : ^777777all jobs^000000
+Jobs: ^777777all jobs^000000
 #
 19802#
 A hat shaped like a fox with nine tails. It makes you warm, definitely.
 Class: ^777777Costume^000000 Defense: ^7777770^000000
 Location: ^777777Upper ^000000Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job : ^777777all jobs^000000
+Jobs: ^777777all jobs^000000
 #
 19803#
 A hairband decorated with a pinwheel. It makes you cool!
 Class: ^777777Costume^000000 Defense: ^7777770^000000
 Location: ^777777Upper ^000000Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job : ^777777all jobs^000000
+Jobs: ^777777all jobs^000000
 #
 19804#
 A red hairpin with a spining round windmill.
 Class: ^777777Costume^000000 Defense: ^7777770^000000
 Location: ^777777Upper ^000000Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job : ^777777all jobs^000000
+Jobs: ^777777all jobs^000000
 #
 19805#
 A magic scroll which high class ninja use. It has a myterious power.
 Class: ^777777Costume^000000 Defense: ^7777770^000000
 Location: ^777777Upper ^000000Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job : ^777777all jobs^000000
+Jobs: ^777777all jobs^000000
 #
 19806#
 A fancy hairpin which you can feel spring flowers.
 Class: ^777777Costume^000000 Defense: ^7777770^000000
 Location: ^777777Upper ^000000Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job : ^777777all jobs^000000
+Jobs: ^777777all jobs^000000
 #
 19807#
 A brave headgear that no one can block.
@@ -83308,7 +83364,7 @@ Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 19819#
 A hood for Necromencers wearing at their evil worships.
@@ -83317,7 +83373,7 @@ Defense: ^7777770^000000
 Location: ^777777Upper Mid ^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 19821#
 A monster Hyegun's hat. It looks nasty and tattered but it has better defense than what you thought.
@@ -83329,7 +83385,7 @@ Jobs: ^777777All^000000
 #
 19822#
 A yellow bandana wearing by a pacifist. Some bloods are on it.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83337,7 +83393,7 @@ Jobs: ^777777All^000000
 #
 19823#
 A hood of soft cat ears *no cats were harmed in the making of this headgear* 
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper, middle^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83345,7 +83401,7 @@ Jobs: ^777777All^000000
 #
 19824#
 That cynical atmosphere for a lone user.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83353,7 +83409,7 @@ Jobs: ^777777All^000000
 #
 19825#
 Tight bandages for wounds of the eyes. It seems that they were already used.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83361,7 +83417,7 @@ Jobs: ^777777All^000000
 #
 19826#
 Ice and other special compounds made earrings. If you feel the heat, wear cool aura cast items!
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Middle^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83499,7 +83555,7 @@ Jobs: ^777777All^000000
 #
 19844#
 A small, tight fitting headdress made of fine silk.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83507,7 +83563,7 @@ Jobs: ^777777All^000000
 #
 19845#
 Well-known item which has been rumored to have been worn by a great woman warrior in ancient times.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83515,7 +83571,7 @@ Jobs: ^777777All^000000
 #
 19846#
 A mask rumored to have been worn by a romantic hero with an unknown fate.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Middle^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83523,7 +83579,7 @@ Jobs: ^777777All^000000
 #
 19847#
 An over-sized red ribbon that contains hidden magical power.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83531,7 +83587,7 @@ Jobs: ^777777All^000000
 #
 19848#
 A hat, made especially to look like a certain monster that looks like an angel, but it hates the whole human race.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83539,7 +83595,7 @@ Jobs: ^777777All^000000
 #
 19849#
 An exact replica of the turban worn by Munak, complete with a queue and talisman.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper,Mid,Low^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83547,7 +83603,7 @@ Jobs: ^777777All^000000
 #
 19850#
 A hat worn by the Bongun monster. For some reason, there's an amulet which has been torn in half.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper,Mid,Low^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83555,7 +83611,7 @@ Jobs: ^777777All^000000
 #
 19851#
 A hat made to look like a teddy bear's face. It makes a nice present.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83565,7 +83621,7 @@ Jobs: ^777777All^000000
 ^000088Rental Items^000000
 With the most popular new Filir homunculus, has created a beautiful headgear shaped wings.
 Increase experiencie when kill monsters by 5%.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83573,7 +83629,7 @@ Jobs: ^777777All^000000
 #
 19856#
 An Ice sherbet hat, cool from head to toe. Feels like all the heat are blown away.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
@@ -83584,7 +83640,7 @@ Jobs: ^777777All Job^000000
 It lives at the bottom of the sea near Malangdo.
 Created by the legendary lobster hat.
 Seems very much alive.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
@@ -83603,7 +83659,7 @@ Jobs: ^777777All^000000
 19859#
 A headgear which looks like an angel flapping its wing.
 It make you feel dizzy when you wear it, but also makes your body feel light.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83611,7 +83667,7 @@ Jobs: ^777777All^000000
 #
 19860#
 The first step you take in this world of fantasy need a helmet. This cap is called School Criatura.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83620,7 +83676,7 @@ Jobs: ^777777All^000000
 19861#
 A cute hairpin with a heart attached to it.
 Makes its wearer look adorable and charming.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83628,7 +83684,7 @@ Jobs: ^777777All^000000
 #
 19862#
 A headgear which resembles the horns of Succubus.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83636,7 +83692,7 @@ Jobs: ^777777All^000000
 #
 19863#
 A headgear which resembles the horns of Incubus.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83644,7 +83700,7 @@ Jobs: ^777777All^000000
 #
 19864#
 A fluffy afro style wig which is something teenagers go crazy for. Once you wear it, you might want to dance.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83710,7 +83766,7 @@ Jobs: ^777777All^000000
 #
 19875#
 A rabbit doll hat made by a very famous artist.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper,Middle,Lower^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83718,7 +83774,7 @@ Jobs: ^777777All^000000
 #
 19876#
 An energetic Bunny Band perfect for a magic show.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83726,7 +83782,7 @@ Jobs: ^777777All^000000
 #
 19877#
 A blindfold with scary eyes. It is said those eyes are moving sometimes.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Middle^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83734,7 +83790,7 @@ Jobs: ^777777All^000000
 #
 19878#
 A doll shaped like a cute rabbit. Can be put on a head.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83744,7 +83800,7 @@ Jobs: ^777777All^000000
 A sexy gorgeous hairband for you!
 Every man chases you as soon as wearing this!
 Increase your sex appeal 100%.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83752,7 +83808,7 @@ Jobs: ^777777All^000000
 #
 19880#
 A hairband with the shiny golden star.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83760,7 +83816,7 @@ Jobs: ^777777All^000000
 #
 19881#
 A newly designed love rabbit hood for the new year.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83768,7 +83824,7 @@ Jobs: ^777777All^000000
 #
 19882#
 Wearing it, you might want to compound CO2 and H2O into carbohydrate by the solar energy.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Middle,Lower^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83776,7 +83832,7 @@ Jobs: ^777777All^000000
 #
 19883#
 Piamette hood with mortuary motifs.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83785,7 +83841,7 @@ Jobs: ^777777All^000000
 19884#
 Fenrir Helm modeled after all is said and swallowed.
 ....... alias, Fenrir.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83793,7 +83849,7 @@ Jobs: ^777777All Job^000000
 #
 19885#
 A face mask that is worn by those who have trouble sleeping.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Mid^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83802,7 +83858,7 @@ Jobs: ^777777All Job^000000
 19886#
 High quality sunglasses that effectively block glare from the sun.
 A face mask that is worn by those who have trouble sleeping.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Mid^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83810,7 +83866,7 @@ Jobs: ^777777All Job^000000
 #
 19887#
 An aristocratically stylish lens that is worn for only one eye.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Middle^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83818,7 +83874,7 @@ Jobs: ^777777All Job^000000
 #
 19888#
 Prescription glasses worn to compensate for defects in vision.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Middle^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83826,7 +83882,7 @@ Jobs: ^777777All Job^000000
 #
 19889#
 A pair of small red ribbons which can be used to decorate the hair of little girls.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Middle^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83834,7 +83890,7 @@ Jobs: ^777777All Job^000000
 #
 19890#
 A stylish formal hat that talented magicians usually wear during a show.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83842,7 +83898,7 @@ Jobs: ^777777All Job^000000
 #
 19891#
 What looks like a fried egg in a skillet is actually a furious Magnolia monster.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83850,7 +83906,7 @@ Jobs: ^777777All Job^000000
 #
 19892#
 A hat named after the mysterious bird that sings at night.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83858,7 +83914,7 @@ Jobs: ^777777All Job^000000
 #
 19893#
 Just an ordinary black magician's hat. For some reason, you feel somewhat extraordinary while wearing it.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83866,7 +83922,7 @@ Jobs: ^777777All Job^000000
 #
 19894#
 A ribbon once worn by a shrine maiden as she fought off hordes of demons and youkai.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83874,7 +83930,7 @@ Jobs: ^777777All Job^000000
 #
 19895#
 A hat that promotes a sophisticated yet sleepy look.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -83926,7 +83982,7 @@ Jobs: ^777777All^000000
 #
 19903#
 A dark, mysterious power of a Witch is in this hat. In contrast, shiny orange coloured pumpkin symbol makes the hat cute.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -84016,7 +84072,7 @@ Jobs: ^777777All^000000
 19914#
 Airship Tarlock's captain hat.
 Using the usual hat and the colors are different.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -84024,7 +84080,7 @@ Jobs: ^777777All^000000
 #
 19917#
 Sullen mood pumpkin hat.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -84033,7 +84089,7 @@ Jobs: ^777777All^000000
 19918#
 Face masks made rude motif.
 If you go to the air gun barrel with a smile even when confronting difficult.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Middle, Lower^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -84041,7 +84097,7 @@ Jobs: ^777777All^000000
 #
 19919#
 Face masks made Quve motif.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Middle, Lower^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -84049,7 +84105,7 @@ Jobs: ^777777All^000000
 #
 19920#
 Stronger Whisper Mask.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper, Middle, Lower^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -84057,7 +84113,7 @@ Jobs: ^777777All^000000
 #
 19922#
 Costume hast were made of High Priest 'Noah'.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -84070,24 +84126,24 @@ Defense: ^7777770^000000
 Location: ^777777Middle ^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 19928#
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19929#
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19930#
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -84113,7 +84169,7 @@ Jobs: ^777777All^000000
 #
 19934#
 Fireworks with the sanctity of God's power is sealed in ten gallons Hat.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -84121,7 +84177,7 @@ Jobs: ^777777All^000000
 #
 19935#
 The sanctity of the god of wind power is sealed in this cap.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -84129,7 +84185,7 @@ Jobs: ^777777All^000000
 #
 19936#
 The sanctity of the god of water power is sealed in this cap.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -84137,7 +84193,7 @@ Jobs: ^777777All^000000
 #
 19938#
 Carefully made by those responsible for the famous rabbit from the hat.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper, Mid, Lower^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -84252,7 +84308,7 @@ Jobs: ^777777All^000000
 #
 19961#
 A circlet designed for a Rune Knight. It has Rune magical power in it.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -84260,7 +84316,7 @@ Jobs: ^777777All^000000
 #
 19962#
 A hat which is used for ceremonies by bishops.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -84268,7 +84324,7 @@ Jobs: ^777777All^000000
 #
 19963#
 A special hairband which is designed to use the most frequently used tools. 
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -84276,7 +84332,7 @@ Jobs: ^777777All^000000
 #
 19964#
 A special hairband which is designed to use the most frequently used tools. 
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -84284,7 +84340,7 @@ Jobs: ^777777All^000000
 #
 19965#
 A mini crown which is made at Shadow Artworks. Masterpiece of the designer Doomk.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -84292,7 +84348,7 @@ Jobs: ^777777All^000000
 #
 19966#
 A hat of a famous minstrel. Fancy and plentiful black feathers adorn this hat.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -84300,7 +84356,7 @@ Jobs: ^777777All^000000
 #
 19967#
 Free gift of a famous Geneticist Bob Rose's book. Midas mark looks cute.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -84308,7 +84364,7 @@ Jobs: ^777777All^000000
 #
 19968#
 A hat which is decorated with minerals from an unknown world that has magical power in it.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -84316,7 +84372,7 @@ Jobs: ^777777All^000000
 #
 19969#
 A hat made for those who decide to become a Sura. It expresses a burning spirit.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -84324,7 +84380,7 @@ Jobs: ^777777All^000000
 #
 19970#
 A hat for a ritual ceremony which is made from a spiritual feather.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -84332,7 +84388,7 @@ Jobs: ^777777All^000000
 #
 19971#
 A beautiful head ornament of a ballerina.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -84340,7 +84396,7 @@ Jobs: ^777777All^000000
 #
 19972#
 Was awarded one hundred twenty-four people who keep a tube.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -84348,7 +84404,7 @@ Jobs: ^777777All^000000
 #
 19973#
 A circular crown as the pores of the bones.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -84356,7 +84412,7 @@ Jobs: ^777777All^000000
 #
 19974#
 Christmas hooded cover perforated for rabbit ears.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -84373,7 +84429,7 @@ Jobs: ^777777All job^000000
 #
 19977#
 Exclamation in sparkling gold. Always gives you an incredibly wonderful feeling.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -84381,7 +84437,7 @@ Jobs: ^777777All^000000
 #
 19978#
 Exclamation in sparkling silver. Always gives you an incredibly wonderful feeling.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -84389,7 +84445,7 @@ Jobs: ^777777All^000000
 #
 19979#
 Question in sparkling gold. Always gives you an incredibly wonderful feeling.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -84397,7 +84453,7 @@ Jobs: ^777777All^000000
 #
 19980#
 Question in sparkling silver. Always gives you an incredibly wonderful feeling.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -84515,12 +84571,12 @@ Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 19996#
 ^ff0000Cannot be traded.^000000
 Welcome to the year of the horse 2014 with this mask. Simply feel I can go faster but is somewhat stiff, I feel my own breath.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper,Middle,Lower^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -84533,7 +84589,7 @@ Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 19998#
 A turtle hat with poweful dragon scales.
@@ -84542,7 +84598,7 @@ Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 19999#
 ^ff0000Cannot be traded.^000000
@@ -84835,7 +84891,7 @@ Defense: ^7777770^000000
 Location: ^777777Lower ^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 20036#
 A golden crown worn by a champion among champions.
@@ -84844,7 +84900,7 @@ Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 20037#
 A silk hat of Owlduke.
@@ -84853,7 +84909,7 @@ Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 20038#
 Class: ^777777Costume^000000
@@ -84934,7 +84990,7 @@ Jobs: ^777777All^000000
 #
 20049#
 A hair accessory which looks just like two crossed band aids.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -84952,14 +85008,15 @@ Jobs: ^777777All^000000
 ^ff0000This item is impossible to deal with another account.^000000
 Hat full of the most intelligent spirit of the white tiger.
 Okay, but is comfortable this stuffed tiger.
-Class: ^777777Costume Equipment^000000
-Location: ^777777Upper^000000 Weight :^7777770^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 20054#
 An item used to shut babies up when they're crying.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Lower^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -85009,7 +85066,7 @@ Jobs: ^777777All^000000
 20064#
 ^ff0000This item is impossible to deal with another account.^00000
 A smart hat that pushes the boundaries of human feelings.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000 Weight :^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -85018,7 +85075,7 @@ Jobs: ^777777All^000000
 ^ff0000This item is impossible to deal with another account.^000000
 Hat full of the zodiac cute rabbit.
 That beautiful ears have, but doubles the bites of ticks.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000 Weight :^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -85040,16 +85097,24 @@ Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
+20071#
+It seem he love his mother.
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
 20073#
 A simple hair band that holds hair in place quite neatly. It's a very cute look for girls, but dudes, on the other hand.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000 Weight :^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 20074#
 A stiff, squarish formal hat usually worn by clerics.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000 Weight :^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -85076,7 +85141,7 @@ Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 20087#
 ^ff0000Cannot be traded.^000000
@@ -85086,7 +85151,7 @@ Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 20091#
 Smoke in moderation or not at all. No one's choice but yours.
@@ -85094,7 +85159,7 @@ Class: ^777777Costume^000000
 Location: ^777777Lower^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 20092#
 A banner which has a word 'Sale' written on the surface.
@@ -85103,7 +85168,7 @@ Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 20093#
 A mystic hat, made specifically for wizards, which amplifies pyschic power.
@@ -85111,7 +85176,7 @@ Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 20094#
 A small Green ribbon emphasizes one's cuteness while wearing this hairband.
@@ -85119,7 +85184,7 @@ Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 20095#
 A small Red ribbon emphasizes one's cuteness while wearing this hairband.
@@ -85127,7 +85192,7 @@ Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 20096#
 A small Blue ribbon emphasizes one's cuteness while wearing this hairband.
@@ -85135,7 +85200,7 @@ Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 20097#
 A small White ribbon emphasizes one's cuteness while wearing this hairband.
@@ -85143,7 +85208,15 @@ Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Job: ^777777All^000000
+#
+20098#
+A hairband that give an image of vampire to you.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 20099#
 Class: ^777777Costume^000000
@@ -85231,7 +85304,7 @@ Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 20112#
 Class: ^777777Costume^000000
@@ -86459,6 +86532,15 @@ Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
+20273#
+Cute sheep hat. Its so cute that make people's heart beat fast.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
 20274#
 A lovely 'Bear Hat' costume.
 Class: ^777777Costume^000000
@@ -86827,6 +86909,14 @@ Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
+20762#
+Costume replica of famous winged demon of underworld.
+Class: ^777777Costume^000000
+Location: ^777777Garment^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
 20763#
 Bag that looks like the Homunculus Amistr.
 MDEF +10
@@ -86837,7 +86927,7 @@ Class: ^777777Costume^000000
 Location: ^777777Garment^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 20764#
 Large, black wings of a fallen dark angel.
@@ -86845,7 +86935,7 @@ Class: ^777777Costume^000000
 Location: ^777777Garment^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 20765#
 White wings of a holy Archangel.
@@ -86853,7 +86943,7 @@ Class: ^777777Costume^000000
 Location: ^777777Garment^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 20768#
 [JRO item]
@@ -89442,7 +89532,7 @@ When equipped with ^32CD32 gemstone shadow set(armor, shield, shoes, weapon, ear
 All State + 1.
 If the amount of the entire set of refine is equal or superior 45 removes gemstone from the requirement of skills. increase in 100% the SP cost of skills.
 When refine total is superior to + 45 reduce % the sp cost of skills.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Shoes^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -89456,7 +89546,7 @@ When equipped with ^32CD32 gemstone shadow set(armor, shield, shoes, weapon, ear
 All State + 1.
 If the amount of the entire set of refine is equal or superior 45 removes gemstone from the requirement of skills. increase in 100% the SP cost of skills.
 When refine total is superior to + 45 reduce % the sp cost of skills.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Shield^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -89470,7 +89560,7 @@ When equipped with ^32CD32 gemstone shadow set(armor, shield, shoes, weapon, ear
 All State + 1.
 If the amount of the entire set of refine is equal or superior 45 removes gemstone from the requirement of skills. increase in 100% the SP cost of skills.
 When refine total is superior to + 45 reduce % the sp cost of skills.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Weapon^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -89498,7 +89588,7 @@ When equipped with ^32CD32 gemstone shadow set(armor, shield, shoes, weapon, ear
 All State + 1.
 If the amount of the entire set of refine is equal or superior 45 removes gemstone from the requirement of skills. increase in 100% the SP cost of skills.
 When refine total is superior to + 45 reduce % the sp cost of skills.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Accesory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -89787,7 +89877,7 @@ Decrease variable cast by 1%.
 Refined to +7 or more additional decrease variable cast by 1%.
 When equipped ^32CD32 caster shadow set (weapon, earring, pendant)^000000 prevents skill casts from being interupted and increase variable cast by 40%.
 Each refine of complete set decrease variable cast.
-Class: ^777777Costume Equipment^000000
+Class: ^777777Costume^000000
 Location: ^777777Accesory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -91950,7 +92040,7 @@ Jobs: ^777777Novice, Swordman, Magician, Archer, Merchant, Thief, Ninja and Soul
 #
 28900#
 Prontera kingdom's knight shield.
-Enable use of Level 1 Shield Spell (Not implemented).
+Enable use of Level 1 Shield Spell.
 When received melee damage, has chance to activate Level 3 Asumptio on yourself.
 Increasing refine level will increase the chance of activating this effect.
 Every refine increase DEF +10 and MDEF +1.
