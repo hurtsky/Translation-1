@@ -1428,9 +1428,9 @@ Paint is required.#
 Use the skills that are not at the specified location.#
 Not enough SP.#
 Character %d is character selection window cannot connect to the game that exceeds the total. Please remove unwanted characters.#
-Throat Lozenge is required.#
-Painful Tears is required.#
-Throat Lozenge is required.#
+Neck Protection Candy is required.#
+Regrettable Tears is required.#
+Neck Protection Candy is required.#
 Cooperation is only available with Weapon Blocking.#
 Poisoned weapons is required.#
 Item can only be used when Mado Gear is mounted.#
@@ -1829,7 +1829,7 @@ results have been found.#
 Failed to remove result.#
 No results have been found.#
 No payment information has been found.#
-Screenshot Trade On/Off#
+Screenshot Trade#
 [Trade_%s]#
 Death due to the auto insurance young people are spending.#
 Chat Dialog#
@@ -1934,7 +1934,7 @@ This skill requires 1% experience.#
 Experience value: #
 Drop rate: #
 Death Penalty: #
-%d%% (PCroom %d%% + TPLUS %d%% + Premium %d%% + %s Server %d%%)#
+%d%% (PCcafe %d%% + TPLUS %d%% + Premium %d%% + %s Server %d%%)#
 Amount of party members to cast the skill Chorus SP is low.#
 Relative character that has possession of the items can not trade because amount is exceeded..#
 Relative character that has possession of the item amount which exceeds makes it impossible to trade.#
