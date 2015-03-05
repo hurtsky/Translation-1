@@ -1230,9 +1230,9 @@
 2146#Siver_Guard#
 2147#Round_Buckler#
 2148#Rosa_Shield#
-2149#Reinforcement_Guard#
-2150#Reinforcement_Buckler#
-2151#Reinforcement_Shield#
+2149#Upgrade_Guard#
+2150#Upgrade_Buckler#
+2151#Upgrade_Shield#
 2152#Anti_Demon_Shield#
 2153#Imperial_Guard#
 2154#Toy_Shield#
@@ -10860,7 +10860,7 @@
 20763#[Costume]_Amistr_Bag#
 20764#[Costume]_Fallen_Angel_Wing#
 20765#[Costume]_Archangel_Wing#
-20768#Arch_Angel_Wings#
+20768#Large_Angel_Wings#
 21000#Upgrade_Two-Handed_Sword#
 21001#Vellum_Claymore#
 21002#Vellum_Katzbalger#

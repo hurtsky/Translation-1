@@ -11991,7 +11991,8 @@ Jobs: ^777777All^000000
 2156#
 An ancient book of sacred songs handed down in the cathedral.
 It is said to have sold like hotcakes, published as one of a series.
-Allows the user to use Level 2 Odin's Power which increases Atk and Matk by 70 while lowering defense and Mdef by 20.
+MDEF +2
+Enable use of Level 1 Odin's Power.
 Class: ^777777Shield^000000
 Defense: ^77777710^000000
 Weight: ^77777750^000000
@@ -12040,8 +12041,8 @@ Jobs: ^777777Warlock^000000
 2162#
 An ancient book of sacred songs handed down in the cathedral.
 MDEF +5
-Allows the user to use Level 2 Odin's Power which increases Atk and Matk by 100 while lowering defense and Mdef by 20.
-Increases effectiveness of your Heal, Sanctuary and Potion Pitcher by 5%.
+Enable use of Level 2 Odin's Power.
+Increases effectiveness of Healing by 5%.
 Class: ^777777Shield^000000
 Defense: ^77777720^000000
 Weight: ^77777750^000000
@@ -86922,7 +86923,7 @@ Bag that looks like the Homunculus Amistr.
 MDEF +10
 Adds resistance against Player +1%.
 Special Effect:
-When equipping with 'Costume: Amistr Cap', additional resistance against Player +4%
+When equipping with '[Costume] Amistr Cap', additional resistance against Player +4%
 Class: ^777777Costume^000000
 Location: ^777777Garment^000000
 Weight: ^7777770^000000
@@ -86946,7 +86947,7 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 20768#
-[JRO item]
+Large wings of Archangel
 Defense: ^77777718^000000
 Weight: ^77777720^000000
 Required Level: ^7777771^000000
