@@ -5909,7 +5909,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SO_POISON_BUSTER] = {
 		"SO_POISON_BUSTER",
-		SkillName = "Poison Burst",
+		SkillName = "Poison Buster",
 		MaxLv = 5,
 		SpAmount = { 70, 90, 110, 130, 150 },
 		bSeperateLv = true,
