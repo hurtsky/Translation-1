@@ -46,7 +46,7 @@ Required Level: 100
 Jobs: All
 Slots: 1
 
-^ff0000[Guardman Shield]^000000
+^ff0000[Praetorian Shield]^000000
 Prontera kingdom's knight shield.
 Enable use of Level 1 Shield Spell.
 When received melee damage, has chance to activate Level 3 Asumptio on yourself.
