@@ -403,12 +403,12 @@ MsgStrID = {
   MSI_EX_MACRO_ETC_11 = " Preemptive attack to nearby enemy",
   MSI_EX_MACRO_ETC_12 = " When HP of party member or my npc <",
   MSI_SKILL_REQUIREMENTS = "777777Requirement:",
-  MSI_ITEM_PRODUCER_11539 = "Athale",
-  MSI_ITEM_PRODUCER_11540 = "Shyai",
+  MSI_ITEM_PRODUCER_11539 = "A Tail",
+  MSI_ITEM_PRODUCER_11540 = "Shy",
   MSI_ITEM_PRODUCER_11541 = "Mid",
   MSI_ITEM_PRODUCER_11542 = "Zonda",
-  MSI_ITEM_PRODUCER_11543 = "Thief",	--Maybe its Goedo
-  MSI_ITEM_PRODUCER_11544 = "Huike",
+  MSI_ITEM_PRODUCER_11543 = "Danger",
+  MSI_ITEM_PRODUCER_11544 = "Whike",
   MSI_ITEM_PRODUCER_11545 = "Rune",
   MSI_ITEM_PRODUCER_11546 = "Pope"
 }
