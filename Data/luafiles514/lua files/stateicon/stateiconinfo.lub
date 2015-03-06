@@ -2350,16 +2350,16 @@ StateIconList[EFST_IDs.EFST_RAISINGDRAGON] = {
       COLOR_TITLE_BUFF
     },
     {
-      "Increase the maximum number of Spirit Sphere"
+      "Increase maximum number of Spirit Sphere"
     },
     {
-      "Increase the maximum HP and SP"
+      "Increase maximum HP and SP"
     },
     {
       "Increase ASPD"
     },
     {
-      "Keeps Fury status"
+      "Keeps Explosion spirit status"
     },
     {
       "Consume certain amount of HP in every sec"
