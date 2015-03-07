@@ -31097,8 +31097,6 @@ Jobs: ^777777All^000000
 #
 5390#
 A double-pommed Blue Christmas Cap
-During the Holiday Season of December 20 through January 6, 2012.
-On Monster Kill has chance to drop a Xmas Gift!
 Location: ^777777Upper^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
@@ -31717,14 +31715,9 @@ Jobs: ^777777All Job except Novice^000000
 #
 5451#
 Gold Dragonhelm is specially constructed to offer the utmost in protection and offense against Dragon Type Monsters.
-The Gold Dragonhelm is the epitome of Dragonhelm technology, making it a wonderful showpiece, as such it is a Costume item.
-Available by quest until February 7, 2012 in celebration of the Year of the Dragon.
-12% tolerance to Dragon Race monsters
-8% damage to Dragon Race monsters
-5% bonus XP when fighting Dragons.
 ^770000Cannot be upgraded
 Account Bound^000000
-Class: ^777777Costume Headgear^000000
+Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
@@ -31733,11 +31726,6 @@ Jobs: ^777777All^000000
 #
 5452#
 Silver Dragonhelm is specially constructed to offer the utmost in protection and offense against Dragon Type Monsters.
-The Silver Dragonhelm may be upgraded by Dragos in Prontera using special ingredients for higher success.
-Available by quest until February 7, 2012 in celebration of the Year of the Dragon.
-4% tolerance to Dragon Race monsters
-+1% tolerance to Dragon Race monsters per refine level, up to a limit of +8.
-+1% damage to Dragon Race monsters up to a limit of +8
 ^770000Cannot be upgraded
 Account Bound^000000
 Class: ^777777Headgear^000000
@@ -31749,9 +31737,6 @@ Jobs: ^777777All^000000
 #
 5453#
 Copper Dragonhelm is specially constructed to offer the utmost in protection against Dragon Type Monsters.
-The materials used in creating the Copper Dragonhelm work perfectly when used as components to safely upgrade either the Copper or Silver Dragonhelms, talk to Dragos in Prontera for details.
-Available by quest until February 7, 2012 in celebration of the Year of the Dragon.
-+1% tolerance to Dragon Race monsters per refine level, up to a limit of 8%.
 ^770000Cannot be upgraded
 Account Bound^000000
 Class: ^777777Headgear^000000
@@ -39515,7 +39500,6 @@ Weight: ^77777710^000000
 #
 6797#
 11th anniversary coin carved in the center with an angel. Collect many of them to obtain valuable items.
-(^ff0000Attention^000000 ^ff000028^000000 ^ff000008^000000 ^ff00002013^000000 This item will be deleted^000000)
 Weight: ^7777770^000000
 #
 6802#
@@ -40439,9 +40423,7 @@ that certifies that its owner is a Novice.
 Weight: ^7777771^000000
 #
 7040#
-A funnel shaped
-device that is used
-to amplify one's voice.
+A funnel shaped device that is used to amplify one's voice.
 Weight: ^7777771^000000
 #
 7041#
@@ -48591,7 +48573,6 @@ A Red envelope filled with good fortune, given by married couples to friends and
 Weight: ^7777771^000000
 #
 12135#
-^ff0000This items effects will decrease in recovery percentage to 10% on April 9, 2013.^000000
 A wonderfully
 refreshing drink that
 may cause stumbling
@@ -49088,13 +49069,9 @@ you eat it. VIT +10,
 Weight: ^7777771^000000
 #
 12208#
-This well written,
-detailed manual
-explains effective
-battle methods.
+This well written, detailed manual explains effective battle methods.
 ^000088EXP rate increases to^000000
 ^000088150% for 30 minutes.^000000
-^ff0000180% for 30 minutes until 12/13/2011^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -49118,7 +49095,6 @@ Sweet, tasty bubble
 gum. Item drop rate
 increases by 100%
 for 30 minutes.
-^ff0000150% for 30 minutes until 12/13/2011^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -49133,51 +49109,25 @@ the Kafra Service.
 Weight: ^7777771^000000
 #
 12212#
-An enchanted, giant
-wing from an ancient
-creatures. Enables
-instant teleportation
-of many people when^FFFFFF			 ^000000 used by a Party Master.
+An enchanted, giant wing from an ancient creatures.
+Enables instant teleportation of many people when used by a Party Master.
 ^ffffff_^000000
 This item can be traded and put into storage.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 12213#
-Pressing the button
-on this stick will
-flash blinding light
-that seems to cause
-memory loss. Resets
-the Skill Tree and
-gives the corresponding^FFFFFF	 ^000000 number of Skill Points.
-This item can only be
-used in town, and the
-character must carry
-0 weight, and cannot be^FFFFFF	 ^000000 equipped with a Pushcart,
-Falcon, or PecoPeco.
-Cannot be used by
-Novice Class.
+Pressing the button on this stick will flash blinding light that seems to cause memory loss.
+Resets the Skill Tree and gives the corresponding number of Skill Points.
+This item can only be used in town, and the character must carry 0 weight, and cannot be equipped with a Pushcart, Falcon, or PecoPeco.
+Cannot be used by Novice Class.
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
 12214#
-^FF0000This item will be discontinued from sale starting on June 21, 2011^000000
-A clean convex
-mirror that can be
-used to detect the
-appearance of Boss
-Monsters. 10 minute
-duration that is canceled^FFFFFF ^000000 when the player leaves
-the map or logs out.
-Lord of the Dead, and
-Boss Monsters in the
-Bio Lab, Ktullanux,
-Memory of Thanatos,
-and some other event
-MVP monsters cannot
-be detected by
-using this item.
+A clean convex mirror that can be used to detect the appearance of Boss Monsters.
+10 minute duration that is canceled when the player leaves the map or logs out.
+Lord of the Dead, and Boss Monsters in the Bio Lab, Ktullanux, Memory of Thanatos, and some other event MVP monsters cannot be detected by using this item.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -49261,10 +49211,7 @@ the scroll will be consumed with no effect.
 Weight: ^7777771^000000
 #
 12221#
-A suspicious looking
-piece of machinery
-that allows server
-wide broadcasting.
+A suspicious looking piece of machinery that allows server wide broadcasting.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -49655,8 +49602,6 @@ Weight: ^77777720^000000
 A costume box that contains 1 Blue Christmas Cheer
 Description:
 A double-pommed Blue Christmas Cap
-During the Holiday Season of December 20 through January 6, 2012.
-On Monster Kill has chance to drop a Xmas Gift!
 Location: ^777777Upper^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
@@ -52305,7 +52250,7 @@ Weight: ^7777775^000000
 12858#
 #
 12859#
-Available ^ff0000April 11 - April 24th 2012^000000. The Spring Lucky Pack also can be bought at a slight discount via the Spring Lucky Crate which also contains 1 Safe to 10 Certificate.
+The Spring Lucky Pack also can be bought at a slight discount via the Spring Lucky Crate which also contains 1 Safe to 10 Certificate.
 Grandma Boxter is in and surely she would love some of these items too!
 ^ffffff_^000000
 Opening this randomly give you one of the following item sets
@@ -73275,7 +73220,6 @@ Weight: ^7777771^000000
 17078#
 #
 17080#
-^ff0000Available for sale until March 26, 2012.
 Can only be placed in storage.^000000
 May cause unrestrained delight from the receiver of Gift Baskets, Each March and Groove pack contains:
 2 Gift Baskets which have delightful chocolates!
@@ -73311,7 +73255,6 @@ Weight: ^7777771^000000
 Available for a limited time, this hat box contains one of four new costumes based on popular hats.
 Take this box to Alora in the Eden Group and she will allow you to choose which one you want!
 Additionally, if you upgrade a normal/slotted version of the headgear to +8 or higher, Alora will take it and give you a costume version of it.
-The costume versions give +15% EXP when killing monsters until November 13, 2012 and you will lose the normal version of the headgear.
 [Costume] Boy's Cap
 [Costume] Satellite Headband (no +8 tradein)
 [Costume] Tiara
@@ -73320,7 +73263,7 @@ The box can be traded and vended, but the costume headgears are account bound.
 Weight: ^7777771^000000
 #
 17083#
-Available until July 31, 2012 a groovy pack to beat the summer heat that contains the following:
+a groovy pack to beat the summer heat that contains the following:
 1x - Male Game Master Mercenary
 1x - Female Game Master Mercenary
 and will randomly drop:
@@ -74414,7 +74357,6 @@ A box that contains 1 battle manual, premium battle manual is available during 2
 A manual that explains the effective way of the battle. It is a very detailed and well composed manual.
 ^000088During 30 minutes exp rate is increased to 50% and drop rate is increase to 100%.^000000.
 * Caution: Battle manual, bubble gum and other items with the same effect as the effect does not stack.
-(In January 2014 during the last maintenance of month will be eliminated)
 Weight: ^7777771^000000
 #
 17456#
@@ -75720,7 +75662,6 @@ Jobs: ^777777All^000000
 18564#
 #
 18565#
-^ff0000Green Ale's effects will decrease in recovery percentage to 10% on April 9, 2013.^000000
 This is an exact replica of the hat worn by O'Riley the Leprechaun.
 STR +1, INT +1, MDEF +4.
 If refined to +8 or higher, adds a chance of automatically using 1 Green Ale while physically attacking and a low chance of dropping Green Ale with each monster killed.
@@ -78631,7 +78572,7 @@ If refined to +7 MaxHP/MaxSP +4%
 If refined to +8 MaxHP/MaxSP +5%
 If refined to +9 MaxHP/MaxSP +6%
 If refined to +10 MaxHP/MaxSP +7%
-Random chance casting Level 10 Blessing skill effect on yourself while receiving physical damage. ^ff0000Ends March 5, 2013^000000
+Random chance casting Level 10 Blessing skill effect on yourself while receiving physical damage.
 Class: ^777777Headgear^000000
 Defense: ^7777771^000000
 Location: ^777777Upper^000000
@@ -81153,7 +81094,7 @@ Jobs: ^777777All^000000
 19555#
 A gorgeous and strong helm of an east country general.
 VIT +1
-Class: ^777777Costumes Equipment^000000
+Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Mid,Lower^000000
 Weight: ^7777770^000000
@@ -81163,7 +81104,7 @@ Jobs: ^777777All^000000
 19556#
 Traditional art mask from far eastern country.
 INT +1
-Class: ^777777Costumes Equipment^000000
+Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Upper,Mid,Lower^000000
 Weight: ^7777770^000000
@@ -81173,7 +81114,7 @@ Jobs: ^777777All^000000
 19557#
 An ancient helm of Ayothaya's fighter. The braver actually can wear.
 STR +1
-Class: ^777777Costumes Equipment^000000
+Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
@@ -81183,7 +81124,7 @@ Jobs: ^777777All^000000
 19558#
 A black Raven Cap that has black beak and feathers. It is so black.
 VIT +1
-Class: ^777777Costumes Equipment^000000
+Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
@@ -81194,7 +81135,7 @@ Jobs: ^777777All^000000
 A baby dragon who has been trained to help its master.
 Nothing will freeze like this, and to awake appears.
 AGI +1
-Class: ^777777Costumes Equipment^000000
+Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
@@ -81204,7 +81145,7 @@ Jobs: ^777777All^000000
 19560#
 A Cute kwati tail hat, you can feel the scent of the forest and nature of Kwati.
 DEX +1
-Class: ^777777Costumes Equipment^000000
+Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
@@ -81214,7 +81155,7 @@ Jobs: ^777777All^000000
 19561#
 A Tucano with bright yellow beak. It makes you look attractive.
 DEX +1
-Class: ^777777Costumes Equipment^000000
+Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Upper, Mid^000000
 Weight: ^7777770^000000
@@ -81224,7 +81165,7 @@ Jobs: ^777777All^000000
 19562#
 A mask of the king of the amazon Jungle, known as Jaguar. The person who equip it is rumored to receive a blessing of nature.
 STR +1
-Class: ^777777Costumes Equipment^000000
+Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Upper, Mid, Lower^000000
 Weight: ^7777770^000000
@@ -81233,7 +81174,7 @@ Jobs: ^777777All^000000
 #
 19563#
 Mask of Buddhist disciple.
-Class: ^777777Costumes Equipment^000000
+Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Upper, Mid, Lower^000000
 Weight: ^7777770^000000
@@ -81242,7 +81183,7 @@ Jobs: ^777777All^000000
 #
 19564#
 Decoding mask of me.
-Class: ^777777Costumes Equipment^000000
+Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Upper, Mid, Lower^000000
 Weight: ^7777770^000000
@@ -81252,7 +81193,7 @@ Jobs: ^777777All^000000
 19565#
 If you wear this, it feels like you become a fancy Chung aristocrat.
 LUK +1
-Class: ^777777Costumes Equipment^000000
+Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
@@ -81261,7 +81202,7 @@ Jobs: ^777777All^000000
 #
 19566#
 Amatsu warrior Samurai wearing mask during the War time.
-Class: ^777777Costumes Equipment^000000
+Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Lower^000000
 Weight: ^7777770^000000
@@ -81271,7 +81212,7 @@ Jobs: ^777777All^000000
 19567#
 With the fact that comes to make with the soft silk from Arab writes mainly in the head.
 VIT +1
-Class: ^777777Costumes Equipment^000000
+Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Lower^000000
 Weight: ^7777770^000000
@@ -81281,7 +81222,7 @@ Jobs: ^777777All^000000
 19568#
 Soul of the ancients the feather the horn which is listening.
 STR +1
-Class: ^777777Costumes Equipment^000000
+Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
@@ -81291,7 +81232,7 @@ Jobs: ^777777All^000000
 19569#
 The hat of the sprout shape.
 INT +1
-Class: ^777777Costumes Equipment^000000
+Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
@@ -81301,7 +81242,7 @@ Jobs: ^777777All^000000
 19570#
 That govern Mercury's brilliant pitching god Mercury.
 LUK +1
-Class: ^777777Costumes Equipment^000000
+Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
@@ -81311,7 +81252,7 @@ Jobs: ^777777All^000000
 19571#
 The hat worn by white general.
 STR +1
-Class: ^777777Costumes Equipment^000000
+Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
@@ -81321,7 +81262,7 @@ Jobs: ^777777All^000000
 19572#
 The hat is worn by black general.
 INT +1
-Class: ^777777Costumes Equipment^000000
+Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
@@ -81330,7 +81271,7 @@ Jobs: ^777777All^000000
 #
 19573#
 Decorated with tiny hearts and lace wings, headband Young girl wind.
-Class: ^777777Costumes Equipment^000000
+Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
@@ -81347,7 +81288,7 @@ Jobs: ^777777All^000000
 #
 19575#
 Chosen as a reminder of Black Dragon, to ascend a hat made. Time aspect of the Black Dragon will look great in the pitching has been applied, has always been maintained Side...
-Class: ^777777Costumes Equipment^000000
+Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
@@ -82480,7 +82421,6 @@ Jobs: ^777777All^000000
 19707#
 Christmas hat that Raccoon Hooray team 'borrowed' from Santa.
 It is very helpful for the Raccoons to keep warm since they're currently homeless.
-^ff0000Adds 25% EXP bonus for any monster killed until May 7, 2013^000000
 Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
@@ -87931,7 +87871,6 @@ Weight: ^77777710^000000
 22648#
 Angel of the ring-shaped gift package.
 This package contains Angel Ring Balloon, Safe to 7 Armor/Weapon Certificate, Splendid Box, for know that this question and so on, but the rumors of them do not know whether what is packed.
-(^ff0000Attention^000000 ^ff000028^000000 ^ff000008^000000 ^ff00002013^000000 This item will be deleted^000000)
 Weight: ^7777771^000000
 #
 22649#

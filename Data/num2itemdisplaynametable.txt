@@ -6158,7 +6158,7 @@
 12291#Mysterious_PET_Bottle#
 12292#Unripe_Yggdrasilberry#
 12293#Dried_Yggdrasilberry#
-12294#[Costume]_Blue_Christmas_Cheer_Box#
+12294#Blue_Christmas_Cheer_Box#
 12295#Groove_Pack_1#
 12296#Splendid_Spring_Hat_Box#
 12297#PC-Room_Coin_Box#

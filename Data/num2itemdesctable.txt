@@ -20637,7 +20637,6 @@ Weight: ^77777710^000000
 #
 6797#
 11th anniversary coin carved in the center with an angel. Collect many of them to obtain valuable items.
-(^ff0000Attention^000000 ^ff000028^000000 ^ff000008^000000 ^ff00002013^000000 This item will be deleted^000000)
 Weight: ^7777770^000000
 #
 6802#
@@ -21519,9 +21518,7 @@ that certifies that its owner is a Novice.
 Weight: ^7777771^000000
 #
 7040#
-A funnel shaped
-device that is used
-to amplify one's voice.
+A funnel shaped device that is used to amplify one's voice.
 Weight: ^7777771^000000
 #
 7041#
@@ -29927,10 +29924,7 @@ you eat it. VIT +10,
 Weight: ^7777771^000000
 #
 12208#
-This well written,
-detailed manual
-explains effective
-battle methods.
+This well written, detailed manual explains effective battle methods.
 ^000088EXP rate increases to^000000
 ^000088150% for 30 minutes.^000000
 ^ffffff_^000000
@@ -29969,48 +29963,23 @@ the Kafra Service.
 Weight: ^7777771^000000
 #
 12212#
-An enchanted, giant
-wing from an ancient
-creatures. Enables
-instant teleportation
-of many people when^FFFFFF			 ^000000 used by a Party Master.
+An enchanted, giant wing from an ancient creatures.
+Enables instant teleportation of many people when used by a Party Master.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 12213#
-Pressing the button
-on this stick will
-flash blinding light
-that seems to cause
-memory loss. Resets
-the Skill Tree and
-gives the corresponding^FFFFFF	 ^000000 number of Skill Points.
-This item can only be
-used in town, and the
-character must carry
-0 weight, and cannot be^FFFFFF	 ^000000 equipped with a Pushcart,
-Falcon, or PecoPeco.
-Cannot be used by
-Novice Class.
+Pressing the button on this stick will flash blinding light that seems to cause memory loss.
+Resets the Skill Tree and gives the corresponding number of Skill Points.
+This item can only be used in town, and the character must carry 0 weight, and cannot be equipped with a Pushcart, Falcon, or PecoPeco.
+Cannot be used by Novice Class.
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
 12214#
-A clean convex
-mirror that can be
-used to detect the
-appearance of Boss
-Monsters. 10 minute
-duration that is canceled^FFFFFF ^000000 when the player leaves
-the map or logs out.
-Lord of the Dead, and
-Boss Monsters in the
-Bio Lab, Ktullanux,
-Memory of Thanatos,
-and some other event
-MVP monsters cannot
-be detected by
-using this item.
+A clean convex mirror that can be used to detect the appearance of Boss Monsters.
+10 minute duration that is canceled when the player leaves the map or logs out.
+Lord of the Dead, and Boss Monsters in the Bio Lab, Ktullanux, Memory of Thanatos, and some other event MVP monsters cannot be detected by using this item.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -30094,10 +30063,7 @@ the scroll will be consumed with no effect.
 Weight: ^7777771^000000
 #
 12221#
-A suspicious looking
-piece of machinery
-that allows server
-wide broadcasting.
+A suspicious looking piece of machinery that allows server wide broadcasting.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -30488,8 +30454,6 @@ Weight: ^77777720^000000
 A costume box that contains 1 Blue Christmas Cheer
 Description:
 A double-pommed Blue Christmas Cap
-During the Holiday Season of December 20 through January 6, 2012.
-On Monster Kill has chance to drop a Xmas Gift!
 Location: ^777777Upper^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
@@ -50024,7 +49988,6 @@ A box that contains 1 battle manual, premium battle manual is available during 2
 A manual that explains the effective way of the battle. It is a very detailed and well composed manual.
 ^000088During 30 minutes exp rate is increased to 50% and drop rate is increase to 100%.^000000.
 * Caution: Battle manual, bubble gum and other items with the same effect as the effect does not stack.
-(In January 2014 during the last maintenance of month will be eliminated)
 Weight: ^7777771^000000
 #
 17456#
@@ -55628,7 +55591,6 @@ Weight: ^77777710^000000
 22648#
 Angel of the ring-shaped gift package.
 This package contains Angel Ring Balloon, Safe to 7 Armor/Weapon Certificate, Splendid Box, for know that this question and so on, but the rumors of them do not know whether what is packed.
-(^ff0000Attention^000000 ^ff000028^000000 ^ff000008^000000 ^ff00002013^000000 This item will be deleted^000000)
 Weight: ^7777771^000000
 #
 22649#
