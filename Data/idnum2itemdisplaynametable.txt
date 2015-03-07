@@ -7103,12 +7103,12 @@
 13434#Eden_Group_Saber_III#
 13435#Fireblend#
 13436#Ice_Falchion#
-13437#Overhead_Kish_Sword#
+13437#Orcish_Sword#
 13438#Magical_Blade#
 13439#TE_WoE_Sword#
 13440#Ceremonial_Sword#
 13441#Tanos_Sword#
-13442#Old_Yangsan#
+13442#Old_Parasol#
 13444#Pala#
 13449#Gladius_Daemonicus#
 13450#Saber#
@@ -10481,6 +10481,7 @@
 19866#[Costume]_Blue_Pajamas#
 19867#[Costume]_Red_Pajamas#
 19868#[Costume]_Showy_High_Cap#
+19869#[Costume]_Antiquity_Helmet#
 19871#[Costume]_Musical_Decoration#
 19873#[Costume]_Carnival_Hat#
 19874#[Costume]_Carnival_Circlet#

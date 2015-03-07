@@ -56746,25 +56746,93 @@ Attack: ^777777185^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777760^000000
-Jobs: ^777777Swordman / Merchant / Thief Class^000000
+Jobs: ^777777Swordman, Merchant and Thief Class^000000
 #
 13435#
 #
 13436#
 #
 13437#
+A sword used by Orc tribe.
+Indestructible.
+Class: ^777777Sword^000000
+Attack: ^77777790^000000
+Weight: ^77777780^000000
+Weapon Level: ^7777773^000000
+Required Level: ^7777775^000000
+Jobs: ^777777Novice, Swordman, Merchant and Thief Classes^000000
 #
 13438#
+A magical enchanted sword, coveted by the famous witch-warrior Lila Contrary.
+With the power of lunar light, it could be wielded by Sailor Musa.
+Chance to cast a random magic attack while attacking physically.
+Increases the chances every 2 refine
+MATK +110
+Class: ^777777Sword^000000
+Attack: ^777777165^000000
+Weight: ^777777200^000000
+Weapon Level: ^7777774^000000
+Required Level: ^777777105^000000
+Jobs: ^777777Novice, Swordman, Thief and Merchant^000000
 #
 13439#
+^FF0000Cannot be traded^000000
+^000088Rental item^000000
+MATK +100.
+** Extra option available in WoE TE area
+Physical Attack Power +40% against other adventurers.
+Physical attacks have a high Poisoning chance.
+Class: ^777777Sword^000000
+Attack: ^777777120^000000
+Weight: ^7777770^000000
+Weapon Level: ^7777773^000000
+Required Level: ^77777740^000000
+Jobs: ^777777Novice, Swordman, Thief and Merchant^000000
 #
 13440#
+A ceremonial sword for high class nobles.
+Engraving on it says - 'To commemorate the wedding of my sister Nerious.R.Raina'
+Class: ^777777Sword^000000
+Attack: ^77777760^000000
+Weight: ^77777750^000000
+Property: ^777777Holy^000000
+Weapon Level: ^7777771^000000
+Required Level: ^7777771^000000
+Jobs: ^777777Novice, Swordman, Thief and Merchant^000000
 #
 13441#
+INT +6, VIT +6, LUK -6
+Low chance to absorp 5% of attack into SP.
+Drain 1000 HP when unequipped.
+MATK +100
+Class: ^777777Sword^000000
+Attack: ^777777150^000000
+Weight: ^77777770^000000
+Weapon Level: ^7777774^000000
+Required Level: ^777777120^000000
+Jobs: ^777777Swordman^000000
 #
 13442#
+A very old parasol, it's unknown when this parasol was created.
+You can still the magic flowing inside.
+MATK +80, increase MATK for every refine.
+Enable use of lv.10 Soul Strike.
+Class: ^777777Sword^000000
+Attack: ^777777120^000000
+Weight: ^77777750^000000
+Weapon Level: ^7777773^000000
+Required Level: ^77777780^000000
+Jobs: ^777777Swordman, Thief and Merchant^000000
 #
 13444#
+An unusual type of weapon, mainly used for other stuff.
+ASPD +8%.
+Class: ^777777Sword^000000
+Attack: ^777777190^000000
+Weight: ^77777770^000000
+Weapon Level: ^7777773^000000
+Required Level: ^7777771^000000
+Jobs: ^777777Swordman, Thief and Merchant^000000
 #
 13449#
 An infernal sword from hell. Only true demons are able control it's full power. People say that a Prince from Hell used this weapon for his army.
@@ -83673,6 +83741,14 @@ Jobs: ^777777All^000000
 #
 19868#
 Wear this hat to be a show off!
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19869#
+A hat worn by ancient civillian.
 Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
