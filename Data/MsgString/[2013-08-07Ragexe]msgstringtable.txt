@@ -1842,12 +1842,12 @@ Failed to authenticate.#
 User is offline.#
 The age limit from commandment tables cannot connect to this server.#
 Buy#
-Cart is empty.#
+Empty shopping cart#
 First page#
 Last page#
-New#
-Headgears#
-Limited#
+New Items#
+Hot Items#
+Limited Sell#
 Rental Equipment#
 Permanent Equipment#
 Scrolls#
