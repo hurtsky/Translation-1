@@ -19165,7 +19165,7 @@ Required Job : ^7777772nd Jobs^000000
 A necklace from Ettlang the ancestor of ancient Laphine. It shows his will to revive Bifrost.
 MDEF +10.
 Class: ^777777Accessary^000000 
-Def : ^7777770^000000
+Defense: ^7777770^000000
 Weight: ^7777775^000000
 Required Level: ^777777100^000000
 Jobs: ^777777All^000000
@@ -19175,7 +19175,7 @@ Jobs: ^777777All^000000
 A little broach made as the shape of Laphine's wing.
 Provides the ability to return to Eclage.
 Class: ^777777Accessary^000000 
-Def : ^7777770^000000
+Defense: ^7777770^000000
 Weight: ^7777771^000000
 Required Level: ^77777790^000000
 Jobs: ^777777All^000000
@@ -19186,7 +19186,7 @@ MaxHP +100, MaxSP +20
 ATK +1 per 10 points of STR.
 ATK +1% when STR is 110 or higher
 Class: ^777777Accessary^000000 
-Def : ^7777770^000000
+Defense: ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^777777100^000000
 Jobs: ^777777All^000000
@@ -19197,7 +19197,7 @@ MaxHP +100, MaxSP +20
 MATK +1 per 10 points of INT.
 MATK +1% when INT is 110 or higher
 Class: ^777777Accessary^000000 
-Def : ^7777770^000000
+Defense: ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^777777100^000000
 Jobs: ^777777All^000000
@@ -19208,7 +19208,7 @@ MaxHP +100, MaxSP +20
 FLEE+1 per 10 points of AGI.
 Perfect Dodge +1 when AGI is 110 or higher
 Class: ^777777Accessary^000000 
-Def : ^7777770^000000
+Defense: ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^777777100^000000
 Jobs: ^777777All^000000
@@ -19219,7 +19219,7 @@ MaxHP +100, MaxSP +20
 MaxHP +50 per 10 points of VIT
 MaxHP +1% when VIT is 110 or higher. 
 Class: ^777777Accessary^000000 
-Def : ^7777770^000000
+Defense: ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^777777100^000000
 Jobs: ^777777All^000000
@@ -19230,7 +19230,7 @@ MaxHP +100, MaxSP +20
 HIT +1 per 10 points of DEX.
 Range ATK +1% when DEX is 110 or higher.
 Class: ^777777Accessary^000000 
-Def : ^7777770^000000
+Defense: ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^777777100^000000
 Jobs: ^777777All^000000
@@ -19241,7 +19241,7 @@ MaxHP +100, MaxSP +20
 CRIT+1 per 10 points of LUK.
 Critical damage 1% when LUK is 110 or higher.
 Class: ^777777Accessary^000000 
-Def : ^7777770^000000
+Defense: ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^777777100^000000
 Jobs: ^777777All^000000
@@ -19252,7 +19252,7 @@ MaxHP +100, MaxSP +20
 ATK +1 per 10 points of STR.
 ATK +1% when STR is 110 or higher
 Class: ^777777Accessary^000000 
-Def : ^7777770^000000
+Defense: ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^777777100^000000
 Jobs: ^777777All^000000
@@ -19263,7 +19263,7 @@ MaxHP +100, MaxSP +20
 MATK +1 per 10 points of INT.
 MATK +1% when INT is 110 or higher
 Class: ^777777Accessary^000000 
-Def : ^7777770^000000
+Defense: ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^777777100^000000
 Jobs: ^777777All^000000
@@ -19274,7 +19274,7 @@ MaxHP +100, MaxSP +20
 FLEE+1 per 10 points of AGI.
 Perfect Dodge +1 when AGI is 110 or higher
 Class: ^777777Accessary^000000 
-Def : ^7777770^000000
+Defense: ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^777777100^000000
 Jobs: ^777777All^000000
@@ -19285,7 +19285,7 @@ MaxHP +100, MaxSP +20
 MaxHP +50 per 10 points of VIT
 MaxHP +1% when VIT is 110 or higher. 
 Class: ^777777Accessary^000000 
-Def : ^7777770^000000
+Defense: ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^777777100^000000
 Jobs: ^777777All^000000
@@ -19296,7 +19296,7 @@ MaxHP +100, MaxSP +20
 HIT +1 per 10 points of DEX.
 Range ATK +1% when DEX is 110 or higher.
 Class: ^777777Accessary^000000 
-Def : ^7777770^000000
+Defense: ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^777777100^000000
 Jobs: ^777777All^000000
@@ -19307,7 +19307,7 @@ MaxHP +100, MaxSP +20
 CRIT+1 per 10 points of LUK.
 Critical damage 1% when LUK is 110 or higher.
 Class: ^777777Accessary^000000 
-Def : ^7777770^000000
+Defense: ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^777777100^000000
 Jobs: ^777777All^000000
@@ -24420,7 +24420,7 @@ No effect.
 "This card is nothing more then a piece of paper that gives you no advantages. - Valkyrie," it says.
 Collectible card that traders may buy.
 Class: ^777777Card^000000
-Compound on :^777777 Weapon^000000
+Compound on: ^777777 Weapon^000000
 Weight: ^7777771^000000
 #
 4455#
@@ -24428,7 +24428,7 @@ No effect.
 "This card is nothing more then a piece of paper that gives you no advantages. - Valkyrie," it says.
 Collectible card that traders may buy.
 Class: ^777777Card^000000
-Compound on :^777777 Weapon^000000
+Compound on: ^777777 Weapon^000000
 Weight: ^7777771^000000
 #
 4456#
@@ -24692,13 +24692,13 @@ All Stats +1
 Chance to automatically cast [Kyrie Eleison] level 5 when hit
 If refined to level 15 or higher : Kyrie Eleison will be level 8
 Class: ^777777Card^000000
-Compound on :^777777 Shoes^000000
+Compound on: ^777777 Shoes^000000
 Weight: ^7777771^000000
 #
 4496#
 50% damage to small, mid, big monster.
 Class: ^777777Card^000000
-Compound on :^777777 Armor^000000
+Compound on: ^777777 Armor^000000
 Weight: ^7777771^000000
 #
 4497#
@@ -25056,7 +25056,7 @@ Card with no effect.
 What a certificate of after learning to use any disadvantage to the user. - said, says.
 Collectibles dealer may buy.
 Class: ^777777Card^000000
-Compound on:^777777Weapon^000000
+Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4547#
@@ -25064,7 +25064,7 @@ ATK +10%, MATK +10% when equipped by Rogue class.
 MaxHP + 1% for each 2 refines.
 Chance of confusing attack when using body painting.
 Class: ^777777Card^000000
-Compound on:^777777Armor^000000
+Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4548#
@@ -25130,7 +25130,7 @@ Weight: ^7777771^000000
 MATK +50, every refine increase MATK +5.
 Reduce fixed cast time by 70%.
 Class: ^777777Card^000000
-Compound on:^777777Headgear^000000
+Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4557#
@@ -25145,14 +25145,14 @@ Weight: ^7777771^000000
 ASPD +1
 MSP -10%
 Class: ^777777Card^000000
-Compound on:^777777Footgear^000000
+Compound on: ^777777Footgear^000000
 Weight: ^7777771^000000
 #
 4560#
 When compounded on with musical instrument, enables use of Poem of Bragi Lv 10.
 FLEE +20, if VIT is 110 or more, additional FLEE + 20.
 Class: ^777777Card^000000
-Compound on :^777777 Armor^000000
+Compound on: ^777777 Armor^000000
 Weight: ^7777771^000000
 #
 4561#
@@ -25160,42 +25160,42 @@ High probality of auto casting ^008800Level 5 Land Protector^000000 around the u
 When VIT is 110 or more add FLEE + 20.
 MATK + 7%, When DEX is 110 or more add MATK + 7%.
 Class: ^777777Card^000000
-Compound on :^777777 Armor^000000
+Compound on: ^777777 Armor^000000
 Weight: ^7777771^000000
 #
 4562#
 High probality of auto casting ^008800Level 5 Investigate^000000 when the user recives physical attacks.
 ATK + 7%, When AGI is 110 or more add ATK + 7%.
 Class: ^777777Card^000000
-Compound on :^777777 Armor^000000
+Compound on: ^777777 Armor^000000
 Weight: ^7777771^000000
 #
 4563#
 High probality of auto casting ^008800Level 5 Acid Terror^000000 when the user recives physical attacks.
 CRI + 20, When STR is 110 or more add CRI + 20.
 Class: ^777777Card^000000
-Compound on :^777777 Armor^000000
+Compound on: ^777777 Armor^000000
 Weight: ^7777771^000000
 #
 4564#
 High probality of auto casting ^008800Level 1 Full Strip^000000 when the user recives physical attacks.
 HIT + 20, When LUK is 110 or more add HIT + 20.
 Class: ^777777Card^000000
-Compound on :^777777 Armor^000000
+Compound on: ^777777 Armor^000000
 Weight: ^7777771^000000
 #
 4565#
 High probality of auto casting ^008800Level 10 Grand Cross^000000 when the user recives physical attacks.
 MHP + 10%, When INT is 110 or more add MHP + 10%.
 Class: ^777777Card^000000
-Compound on :^777777 Armor^000000
+Compound on: ^777777 Armor^000000
 Weight: ^7777771^000000
 #
 4566#
 Enables use of ^008800Level 10 Fortune's kiss^000000 (if you equipped whip or music instrumentral).
 FLEE + 20. When VIT is 110 or more add FLEE + 20.
 Class: ^777777Card^000000
-Compound on :^777777 Armor^000000
+Compound on: ^777777 Armor^000000
 Weight: ^7777771^000000
 #
 4567#
@@ -25203,42 +25203,42 @@ FLEE +10.
 [^008800Bard Class^000000]
 MaxHP +10%, MaxSP +5%.
 Class: ^777777Card^000000
-Compound on :^777777 Garment^000000
+Compound on: ^777777 Garment^000000
 Weight: ^7777771^000000
 #
 4568#
 FLEE +10.
 Enables use of ^008800Level 1 Abracadabra^000000.
 Class: ^777777Card^000000
-Compound on :^777777 Garment^000000
+Compound on: ^777777 Garment^000000
 Weight: ^7777771^000000
 #
 4569#
 FLEE +10.
 Enables use of ^008800Level 2 Call Spirits^000000.
 Class: ^777777Card^000000
-Compound on :^777777 Garment^000000
+Compound on: ^777777 Garment^000000
 Weight: ^7777771^000000
 #
 4570#
 FLEE +10.
 Increase value of Red, Orange, Yellow and White Potion by 200%.
 Class: ^777777Card^000000
-Compound on :^777777 Garment^000000
+Compound on: ^777777 Garment^000000
 Weight: ^7777771^000000
 #
 4571#
 FLEE +10.
 Enables use of ^008800Level 1 Close Confine^000000.
 Class: ^777777Card^000000
-Compound on :^777777 Garment^000000
+Compound on: ^777777 Garment^000000
 Weight: ^7777771^000000
 #
 4572#
 FLEE +10.
 Enables use of ^008800Level 3 Auto Guard^000000.
 Class: ^777777Card^000000
-Compound on :^777777 Garment^000000
+Compound on: ^777777 Garment^000000
 Weight: ^7777771^000000
 #
 4573#
@@ -25246,14 +25246,14 @@ FLEE +10.
 [^008800Dancer Class^000000]
 MaxHP +10%, MaxSP +5%.
 Class: ^777777Card^000000
-Compound on :^777777 Garment^000000
+Compound on: ^777777 Garment^000000
 Weight: ^7777771^000000
 #
 4574#
 [^000088 + One-Handed Sword ^000000]
 ATK +100.
 Class: ^777777Card^000000
-Compound on :^777777 Weapon^000000
+Compound on: ^777777 Weapon^000000
 Weight: ^7777771^000000
 #
 4575#
@@ -25262,27 +25262,27 @@ ATK + 10.
 If refine to +10 or more add ASPD +1.
 If refine to +14 or more add ASPD +1.
 Class: ^777777Card^000000
-Compound on :^777777 Weapon^000000
+Compound on: ^777777 Weapon^000000
 Weight: ^7777771^000000
 #
 4576#
 Increases damage inflicted with magic ^009900Wind^000000 Property by 100%.
 Decrease resistance to all atribute attacks by 30%.
 Class: ^777777Card^000000
-Compound on :^777777 Garment^000000
+Compound on: ^777777 Garment^000000
 Weight: ^7777771^000000
 #
 4577#
 Increases damage inflicted with magic ^009900Wind^000000 Property by 20%.
 Class: ^777777Card^000000
-Compound on :^777777 Accessory^000000
+Compound on: ^777777 Accessory^000000
 Weight: ^7777771^000000
 #
 4578#
 Increase critial damage by 30%.
 Increases damage from normal monsters and players by 10%.
 Class: ^777777Card^000000
-Compound on :^777777 Weapon^000000
+Compound on: ^777777 Weapon^000000
 Weight: ^7777771^000000
 #
 4579#
@@ -25290,20 +25290,20 @@ Weight: ^7777771^000000
 ATK + 20, CRI + 10.
 Each refine increase ATK + 1, CRI + 1.
 Class: ^777777Card^000000
-Compound on :^777777 Weapon^000000
+Compound on: ^777777 Weapon^000000
 Weight: ^7777771^000000
 #
 4580#
 Increase resistance to Fire, Wind, Water, Earth, Shadow and Undead property attack by 50%
 Receive more damage from Ghost and Holy property by 100%
 Class: ^777777Card^000000
-Compound on :^777777 Garment^000000
+Compound on: ^777777 Garment^000000
 Weight: ^7777771^000000
 #
 4581#
 Physical attacks have a chance to increase movement speed for 3 seconds,AGI +44 but at the same time lose 40 SP.
 Class: ^777777Card^000000
-Compound on :^777777 Garment^000000
+Compound on: ^777777 Garment^000000
 Weight: ^7777771^000000
 #
 4582#
@@ -25379,53 +25379,53 @@ Weight: ^7777771^000000
 4593#
 Each 10 pure DEX points increase damage by 1%.
 Class: ^777777Card^000000
-Compound on :^777777 Garment^000000
+Compound on: ^777777 Garment^000000
 Weight: ^7777771^000000
 #
 4594#
 Each 10 pure LUK points increase critial damage by 2%.
 Class: ^777777Card^000000
-Compound on :^777777 Garment^000000
+Compound on: ^777777 Garment^000000
 Weight: ^7777771^000000
 #
 4595#
 Each 10 pure AGI points increase ASPD 2%.
 Class: ^777777Card^000000
-Compound on :^777777 Garment^000000
+Compound on: ^777777 Garment^000000
 Weight: ^7777771^000000
 #
 4596#
 Each 10 pure INT points add MATK + 5.
 Class: ^777777Card^000000
-Compound on :^777777 Garment^000000
+Compound on: ^777777 Garment^000000
 Weight: ^7777771^000000
 #
 4597#
 MATK + 10, increases damage inflicted with magic ^0000FFWater^000000 Property by 5%.
 If refine to +9 or more increases damage inflicted with magic ^0000FFWater^000000 Property by 5%.
 Class: ^777777Card^000000
-Compound on :^777777 Headgear^000000
+Compound on: ^777777 Headgear^000000
 Weight: ^7777771^000000
 #
 4598#
 MATK + 10, increases damage inflicted with magic ^777777Ghost^000000 Property by 5%.
 If refine to +9 or more increases damage inflicted with magic ^777777Ghost^0000000 Property by 5%.
 Class: ^777777Card^000000
-Compound on :^777777 Headgear^000000
+Compound on: ^777777 Headgear^000000
 Weight: ^7777771^000000
 #
 4599#
 MATK + 10, increases damage inflicted with magic ^FF0000Fire^000000 Property by 5%.
 If refine to +9 or more increases damage inflicted with magic ^FF0000Fire^000000 Property by 5%.
 Class: ^777777Card^000000
-Compound on :^777777 Headgear^000000
+Compound on: ^777777 Headgear^000000
 Weight: ^7777771^000000
 #
 4600#
 MATK + 10, increases damage inflicted with magic ^996600Earth^000000 Property by 5%.
 If refine to +9 or more increases damage inflicted with magic ^996600Earth^000000 Property by 5%.
 Class: ^777777Card^000000
-Compound on :^777777 Headgear^000000
+Compound on: ^777777 Headgear^000000
 Weight: ^7777771^000000
 #
 4601#
@@ -25433,7 +25433,7 @@ ATK + 15%, MATK + 15%.
 Each 4 seconds lost 666 HP and 66 SP.
 Drain 6666 HP and 666 SP as the armor is unequipped.
 Class: ^777777Card^000000
-Compound on :^777777 Armor^000000
+Compound on: ^777777 Armor^000000
 Weight: ^7777771^000000
 #
 4602#
@@ -25441,21 +25441,21 @@ ATK + 20%, MATK + 20%.
 Each 6 seconds lost 666 HP and 66 SP.
 Drain 6666 HP and 666 SP as the armor is unequipped.
 Class: ^777777Card^000000
-Compound on :^777777 Armor^000000
+Compound on: ^777777 Armor^000000
 Weight: ^7777771^000000
 #
 4603#
 ATK + 20.
 High probality of auto casting ^008800Level 1 Dragon Fear^000000 when the user doing physical attacks.
 Class: ^777777Card^000000
-Compound on :^777777 Weapon^000000
+Compound on: ^777777 Weapon^000000
 Weight: ^7777771^000000
 #
 4604#
 ATK + 30.
 High probality of auto casting ^008800Level 2 Dragon Fear^000000 when the user doing physical attacks.
 Class: ^777777Card^000000
-Compound on :^777777 Weapon^000000
+Compound on: ^777777 Weapon^000000
 Weight: ^7777771^000000
 #
 4605#
@@ -25467,7 +25467,7 @@ Increase resistance from ^777777Neutral^000000 Property attacks by 20%. FLEE + 2
 Lost 100 HP each 6 seconds.
 Lost 6 SP each 6 seconds.
 Class: ^777777Card^000000
-Compound on :^777777 Armor^000000
+Compound on: ^777777 Armor^000000
 Weight: ^7777771^000000
 #
 4606#
@@ -25479,7 +25479,7 @@ Increase resistance from ^777777Neutral^000000 Property attacks by 20%. FLEE +20
 Lost 100 HP each 6 seconds.
 Lost 6 SP each 6 seconds.
 Class: ^777777Card^000000
-Compound on :^777777 Garment^000000
+Compound on: ^777777 Garment^000000
 Weight: ^7777771^000000
 #
 4607#
@@ -25488,7 +25488,7 @@ ATK + 5, MATK + 5.
 If refine to +10 or more add ATK + 20, MATK + 20.
 If refine to +14 or more add ATK + 20, MATK + 20.
 Class: ^777777Card^000000
-Compound on :^777777 Weapon^000000
+Compound on: ^777777 Weapon^000000
 Weight: ^7777771^000000
 #
 4608#
@@ -25498,7 +25498,7 @@ Increase damage inflicted on medium and large size monsters by 20%.
 Increase damage inflicted on medium and large size monsters by 15%.
 Receive 5% less damage from medium and large size monsters.
 Class: ^777777Card^000000
-Compound on :^777777 Weapon^000000
+Compound on: ^777777 Weapon^000000
 Weight: ^7777771^000000
 #
 4609#
@@ -25508,14 +25508,14 @@ Receive 25% less damage from medium and large size monsters.
 Increase damage inflicted on medium and large size monsters by 15%.
 Receive 5% less damage from medium and large size monsters.
 Class: ^777777Card^000000
-Compound on :^777777 Shield^000000
+Compound on: ^777777 Shield^000000
 Weight: ^7777771^000000
 #
 4610#
 When the damage taken exceeds the user's Max HP, user will only take the amount that exceeds the user's Max HP
 When the damage is create for skills with fixed damage also apply the reducci?.
 Class: ^777777Card^000000
-Compound on :^777777 Armor^000000
+Compound on: ^777777 Armor^000000
 Weight: ^7777771^000000
 #
 4625#
@@ -55981,7 +55981,7 @@ Weight: ^7777775^000000
 Property: ^777777Neutral^000000
 #
 13285#
-Slightly remodeled Cocktail Warg blood enabled for throwing.
+Slightly remodeled Wug Blood Cocktail enabled for throwing.
 Increases Int.
 Class: ^777777Projectile^000000
 Attack: ^7777770^000000
@@ -56003,14 +56003,14 @@ Weight: ^7777775^000000
 Property: ^777777Neutral^000000
 #
 13288#
-Slightly remodeled Drocera Stew enabled for throwing that increases Agi.
+Slightly remodeled Drocera Herb Stew enabled for throwing that increases Agi.
 Class: ^777777Projectile^000000
 Attack: ^7777770^000000
 Weight: ^7777775^000000
 Property: ^777777Neutral^000000
 #
 13289#
-Slightly remodeled Petti Noodle enabled for throwing that increases Luk.
+Slightly remodeled Petit Tail Noodle enabled for throwing that increases Luk.
 Class: ^777777Projectile^000000
 Attack: ^7777770^000000
 Weight: ^7777775^000000
@@ -56029,37 +56029,45 @@ GIves Stun effect with certain rate when attacking
 Class: ^777777Throwing weapon^000000
 Attack: ^777777110^000000
 Required Level: ^77777750^000000
-Weight: ^7777770.5^000000			Type: ^777777Nothing^000000
+Weight: ^7777770.5^000000
+Property: ^777777Neutral^000000
 #
 13292#
 A squid which dried for so long. Even possible to use for Kunai.
 GIves Blind with certain rate
 Class: ^777777Throwing weapon^000000
 Attack: ^77777750^000000
-Weight: ^7777772^000000 Type: ^777777NothingType^000000
+Weight: ^7777772^000000
+Property: ^777777Neutral^000000
 #
 13293#
 A flying fish. A rumor that it flies with big fin. it is frozen, so even possible to use for Kunai.
 Gives scar with certain rate.
 Class: ^777777Throwing weapon^000000
 Attack: ^77777750^000000
-Weight: ^7777772^000000 Type: ^777777NothingType^000000
+Weight: ^7777772^000000
+Property: ^777777Neutral^000000
 #
 13294#
 Special Kunai designed to hold gunpowder in the handle for explosion on target and surroundings. Careful handling is required!
 Class: ^777777Throwing Weapon^000000
 Attack: ^77777750^000000
 Weight: ^7777773^000000
-Property: ^777777¹«^000000
+Property: ^777777Neutral^000000
 Level Limit: ^777777100^000000
 #
 13295#
+Beginner's Shuriken made for easier handling.
+Class: ^777777Throwing Weapon^000000
+Attack: ^7777775^000000
+Weight: ^7777770.5^000000
+Property: ^777777Neutral^000000
 #
 13300#
 A famous Huuma
 Ninja weapon that
 is shaped like a wing.
-AGI - 1, DEX - 2.
+AGI -1, DEX -2.
 Class: ^777777Huuma^000000
 Attack: ^777777150^000000
 Weight: ^777777300^000000
@@ -75093,7 +75101,7 @@ It will reduce your Def and MDef by 50%.
 Has a chance to inflict Stone Status to enemies in a 11*11 cell area when you are taking physical or magic damage.
 Class: ^777777Headgear^000000
 Location: ^777777Upper, Mid, Lower^000000
-DEF : ^7777770^000000
+Defense: ^7777770^000000
 Weight: ^777777100^000000
 Required Level: ^77777770^000000
 Jobs: ^777777All^000000
@@ -75268,7 +75276,7 @@ Each leaves symbolize
 LUK +1
 MaxSP +20
 Class: ^777777Headgear^000000
-DEF : ^7777770^000000
+Defense: ^7777770^000000
 Location: ^777777Lower^000000
 Weight: ^77777710^000000
 Required Lv : ^77777750^000000
@@ -75357,7 +75365,7 @@ ASPD +3%
 When equipped with [Fish In Mouth],
 autocasts [Greed] in certain percentage during physical attack.
 Class: ^777777Headgear^000000
-DEF : ^7777775^000000
+Defense: ^7777775^000000
 Location: ^777777Upper-Mid^000000
 Weight: ^77777750^000000
 Required Lv : ^77777730^000000
@@ -75649,7 +75657,7 @@ Has certain chance of dropping [Treasure Box]
 when defeating Dragon Class Monsters.
 MDEF +3
 Class: ^777777Headgear^000000
-DEF : ^7777773^000000
+Defense: ^7777773^000000
 Location: ^777777Upper^000000
 Weight: ^77777720^000000
 Required Lv : ^77777710^000000
@@ -76321,7 +76329,7 @@ Jobs: ^777777All^000000
 A dried leaf thinking of hometown.
 Increase 3% damage to plant type of monster.
 Class: ^777777Headgear^000000
-Def : ^7777770^000000
+Defense: ^7777770^000000
 location: ^777777lower ^000000
 Weight: ^7777775^000000
 Req Lv : ^77777710^000000
@@ -76345,7 +76353,7 @@ A celebration hat for Desert Wolves, makes you feel like a member of the pack.
 With a pet desert wolf, additional 5% damage to small-type monsters.
 Adds 5% intimacy if the stat is close friends.
 Class: ^777777headgear^000000
-Def : ^7777770^000000
+Defense: ^7777770^000000
 location: ^777777Upper^000000
 Weight: ^77777730^000000
 Jobs: ^777777All^000000
@@ -77236,7 +77244,7 @@ increase HP recovery +50% when having sushi, raw fish
 if refined is over lv 7 , additional HP recovery +100% with sushi, raw fish
 if euipped with Sea Otter Card, additional HP recovery +50% with sushi, raw fish
 Class: ^777777headgear^000000
-Def : ^77777713^000000
+Defense: ^77777713^000000
 Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Lv : ^77777710^000000
@@ -79183,7 +79191,7 @@ A balloon made afte a small and shy devil.
 All Stats +1.
 Physical and Magic damage +1% to devil type monsters.
 Class: ^777777Headgear^000000
-Def : ^7777775^000000
+Defense: ^7777775^000000
 Location: ^777777Upper^000000
 Weight: ^77777720^000000
 Req LvL : ^7777771^000000
@@ -79194,7 +79202,7 @@ Nothin you need to worry in the World when wearing this on your head.
 MDEF +3, DEX +2, INT +2, FLEE -1, MaxHP +2%, MaxSP +30.
 Skill 'Magnificat' 1LvL available.
 Class: ^777777Headgear^000000
-Def : ^7777772^000000
+Defense: ^7777772^000000
 Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Req LvL : ^77777730^000000
@@ -79204,7 +79212,7 @@ Jobs: ^777777All^000000
 Nothin you need to worry in the World when wearing this on your head.
 MDEF +3, STR +2, LUK +2, FLEE -1, MaxHP +1%, MaxSP +15.
 Class: ^777777Headgear^000000
-Def : ^7777772^000000
+Defense: ^7777772^000000
 Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Req LvL : ^77777730^000000
@@ -79229,7 +79237,7 @@ Jobs: ^777777All^000000
 Colorful sugar sprinkled above on a delicious chocolate.
 Str +1, Int +1, Luk +1
 Class: ^777777Headgear^000000
-Def : ^7777771^000000
+Defense: ^7777771^000000
 Location: ^777777Lower ^000000
 Weight: ^77777710^000000
 Req LvL : ^7777771^000000
@@ -79238,7 +79246,7 @@ Jobs: ^777777All^000000
 18961#
 A hat made after fluffy monster Lunatic.
 Class: ^777777Headgear^000000
-Def : ^7777772^000000
+Defense: ^7777772^000000
 Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Req LvL : ^7777771^000000
@@ -79249,7 +79257,7 @@ Cute panda balloon!
 All State +1, ASPD +1.
 Cannot be enchanted nor destructed.
 Class: ^777777Headgear^000000
-Def : ^7777770^000000
+Defense: ^7777770^000000
 Location: ^777777Lower ^000000
 Weight: ^77777720^000000
 Req LvL : ^7777771^000000
@@ -79259,7 +79267,7 @@ Jobs: ^777777All^000000
 A hat made after pretty mocking bird.
 LUK +1.
 Class: ^777777Headgear^000000
-Def : ^7777775^000000
+Defense: ^7777775^000000
 Location: ^777777Middle ^000000
 Weight: ^77777710^000000
 Req LvL : ^7777771^000000
@@ -79493,7 +79501,7 @@ Each refine increase ranged physical damage by 1%.
 Each 3 refine increase Perfect Dodge + 1.
 Each 2 refine increase MHP, MSP 1%.
 Each 2 refine inflict 15% more damage with ^008800Cluster Bomb^000000.
-Each 2 refine inflict 10% more damage with ^008800Warg Strike^000000.
+Each 2 refine inflict 10% more damage with ^008800Wug Strike^000000.
 Class: ^777777Headgear^000000 
 Defense: ^77777710^000000
 Location: ^777777Upper^000000
@@ -87651,7 +87659,7 @@ Weight: ^7777771^000000
 #
 22539#
 ^ff0000Item cannot be traded with other characters..^000000
-Contains 1 of Savage barbecue,Cocktail Warg Blood,Minor Brisket,Shiroma iced tea,Drosera herb steamed,The petit tail noodles.
+Contains 1 of Savage barbecue,Cocktail Wug Blood,Minor Brisket,Shiroma iced tea,Drosera herb steamed,The petit tail noodles.
 Weight: ^7777770^000000
 #
 22540#
