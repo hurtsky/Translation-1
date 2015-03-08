@@ -3419,48 +3419,48 @@ Removal of 4 porings#
 #
 
 //ep15.1
-4295#방랑 바드#SG_FEEL#QUE_NOIMAGE#
-바드와의 이야기를 모두 마침#
+4295#Wandering Bard#SG_FEEL#QUE_NOIMAGE#
+Complete all story of the Bard#
 #
 
-4296#잠시 휴식#SG_FEEL#QUE_NOIMAGE#
-지금은 해줄 이야기가 없다고 한다. 하루가 지난 뒤에 다시 찾아가보자#
+4296#Brake Time#SG_FEEL#QUE_NOIMAGE#
+No more story to tell for now. Let's back again tomorrow#
 #
 
-4297#바드의 이야기 - 어느 기업#SG_FEEL#QUE_NOIMAGE#
-리히타르젠의 기업에 대한 이야기를 조사한 다음 돌아가보자.#
+4297#Bard's tale - Which Company#SG_FEEL#QUE_NOIMAGE#
+Let's go back and investigate the story of Lighthalzen Company.#
 #
 
-4298#바드의 이야기 - 대통령#SG_FEEL#QUE_NOIMAGE#
-대통령에 대한 일이라니?#
+4298#Bard's tale - President#SG_FEEL#QUE_NOIMAGE#
+Job scandal of the President?#
 #
 
-4299#바드의 이야기 - 유노의 학자#SG_FEEL#QUE_NOIMAGE#
-유노에 유페로스의 물건을 조사하는 학자가 있다고 하니 이야기를 들어보자#
+4299#Bard's tale - Juno Scholar#SG_FEEL#QUE_NOIMAGE#
+Let's hear and investigate the story of Juno Scholar#
 #
 
-4300#바드의 이야기 - 미친 과학자#SG_FEEL#QUE_NOIMAGE#
-유노에 미친 과학자가 있다는데 과연 어느 쪽이 미쳐 있는지 알아볼까?#
+4300#Bard's tale - Mad Scientist#SG_FEEL#QUE_NOIMAGE#
+Let's find out if what Mad Scientist in Juno said is true?#
 #
 
-4301#바드의 이야기 - 휘겔#SG_FEEL#QUE_NOIMAGE#
-휘겔에 도움이 필요한 사람이 있다고 한다. 기력의 다함에는 사연이 존재한다!#
+4301#Bard's tale - Hugel#SG_FEEL#QUE_NOIMAGE#
+There are people in Hugel that need help. The Story of Energy of Daham actually exist!#
 #
 
-4302#바드의 이야기 - 오딘 신전#SG_FEEL#QUE_NOIMAGE#
-오딘 신전 발굴 지원을 하자. 하지만 그것만으로는 끝날 단순한 일은 아닌 것 같은 느낌.#
+4302#Bard's tale - Odin's Temple#SG_FEEL#QUE_NOIMAGE#
+Let's support Odin's Temple excavation. But I feel like this is not the end.#
 #
 
-4303#PC방 이벤트#SG_FEEL#QUE_NOIMAGE#
-첫 번째 선물 수령 완료 2시간 뒤에 다음 선물 수령 가능#
+4303#PC Cafe Event#SG_FEEL#QUE_NOIMAGE#
+The gift can be collected 2 hours after completing the 1st receipt.#
 #
 
-4304#PC방 이벤트#SG_FEEL#QUE_NOIMAGE#
-두 번째 선물 수령 완료 2시간 뒤에 다음 선물 수령 가능#
+4304#PC Cafe Event#SG_FEEL#QUE_NOIMAGE#
+The gift can be collected 2 hours after completing the 2nd receipt.#
 #
 
-4305#PC방 이벤트#SG_FEEL#QUE_NOIMAGE#
-세 번째 선물 수령 완료 내일 다시 찾아가자#
+4305#PC Cafe Event#SG_FEEL#QUE_NOIMAGE#
+The 3rd receipt is complete, come back tomorrow to collect the gift.#
 #
 
 //10003 Raccoon
