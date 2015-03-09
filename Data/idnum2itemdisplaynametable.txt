@@ -1815,7 +1815,7 @@
 2749#Linen_Glove#
 2750#Summer_Night_Dream#
 2751#Academy_Of_Badge#
-2752#Praccsinos#
+2752#Fraxinus#
 2753#Beholder_Ring#
 2754#Hallow_Ring#
 2755#Clamorous_Ring#

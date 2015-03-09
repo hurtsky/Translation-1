@@ -13396,8 +13396,7 @@ A formal suit for males.
 Class: ^777777Armor^000000
 Defense: ^77777740^000000
 Weight: ^77777730^000000
-Jobs: ^777777All
-except Novice^000000
+Jobs: ^777777All except Novice^000000
 #
 2321#
 A finely woven, silk robe that has been enchanted with magic.
@@ -13415,9 +13414,7 @@ MDEF +10
 Class: ^777777Armor^000000
 Defense: ^77777720^000000
 Weight: ^77777740^000000
-Jobs: ^777777Swordman,
-Mage, Acolyte,
-Merchant Classes, and Soul Linker^000000
+Jobs: ^777777Swordman, Mage, Acolyte, Merchant Classes, and Soul Linker^000000
 #
 2323#
 A blessed outer garment worn by clerics for religious ceremonies.
@@ -13672,6 +13669,7 @@ Required Level: ^77777745^000000
 Jobs: ^777777All Jobs except Novice^000000
 #
 2352#
+^FF0000Cannot be traded^000000
 An exclusive armor for new adventurers.
 Impossible to refine this item.
 Class: ^777777Armor^000000
@@ -16482,19 +16480,19 @@ Weight: ^77777710^000000
 Jobs: ^777777All^000000
 #
 2614#
-...
+Reduces damage from undead and demon monsters by 4%.
+Immune to poison status.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^77777750^000000
-Jobs: ^777777All
-except Novice^000000
+Jobs: ^777777All except Novice^000000
 #
 2615#
 A strange ring that
 curiously raises its
 wearer's defense.
-DEF +5 , MDEF +5
+DEF +5, MDEF +5
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -16544,15 +16542,17 @@ Jobs: ^777777Archer Class^000000
 #
 2620#
 An exclusive ring for the Thief and Ninja class.
-Base STR 90 or higher:
+[^6A5ACD Base STR 90 ^000000]
 HIT +10, FLEE +10
-Base AGI 90 or higher:
+[^6A5ACD Base AGI 90 ^000000]
 ATK +10, CRIT +10
-[+^008800Black Cat^000000]
+^ffffff_^000000
+[ +^008800Black Cat^000000 ]
 Increase +8% damage against large sized monsters.
 Increase hit based on weapon refine level.
 Reduce variable cast time based on weapon refine level.
-[+^008800Cold Heart^000000]
+^ffffff_^000000
+[ +^008800Cold Heart^000000 ]
 Increase +8% damage against medium sized monsters.
 Increase ASPD based on weapon refine level.
 Class: ^777777Accessory^000000
@@ -16631,9 +16631,10 @@ Weight: ^77777720^000000
 Jobs: ^777777Novice^000000
 #
 2629#
-A reproduction of the girdle of might that Thor wore to enhance his prodigious strength.
+Legendary Belt rumored to be owned by Thor the god of thunder,which increases its wearer's strength.
 STR +40, MDEF +7
-Not Tradable
+Increase STR depends on the player's Base level.
+When pure STR is 120, gives 10% physical damage to Boss monsters.
 ^ffffff_^000000
 Class: ^777777Accessory^000000
 Defense: ^7777772^000000
@@ -16642,9 +16643,10 @@ Required Level: ^77777794^000000
 Jobs: ^777777All^000000
 #
 2630#
-An imitation of the necklace worn by the beautiful goddess Freya.
-STR +6, AGI +6, INT +6, VIT +6, LUK +10
-Not Tradable
+Legendary necklace worn by Goddess Freija. It is an accessory of Gods that provide multiple abilities to its casters.
+STR +6, AGI +6, VIT +6, INT +10, LUK +10
+MDEF +5
+Increases HP Restoration of [Heal] and [Sanctuary] by 6% when they are cast by the wearer.
 ^ffffff_^000000
 Class: ^777777Accessory^000000
 Defense: ^7777771^000000
@@ -17747,12 +17749,13 @@ Required Level: ^77777790^000000
 Jobs: ^7777772nd Transcendent Class^000000
 #
 2750#
-...
-...
+^FF0000Cannot be traded^000000
+Music box made in the form of a carousel.
+Allows you to use skill Summer Night Dream.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
-Jobs: ^777777Novice Class, Mage Class, Acolyte Class^000000
+Jobs: ^777777All^000000
 #
 2751#
 The first process should be able to complete the first accessories to complete the process of the sign.
@@ -17763,7 +17766,8 @@ Weight: ^77777710^000000
 Jobs: ^777777All^000000
 #
 2752#
-...
+^FF0000Cannot be traded^000000
+Ring created from leaves of grass, which emanates from a mysterious force. It is said that it was created from the shoots of Yggdrasil.
 ATK +5%, MATK +5%.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
@@ -82872,7 +82876,8 @@ Jobs: ^777777All^000000
 19750#
 It looks a neat big white ribbon.
 Class: ^777777Costume^000000
-Location: ^777777Upper^000000 Weight :^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
@@ -82887,7 +82892,8 @@ Jobs: ^777777All^000000
 19752#
 A wing-shaped accessory with purple roses.
 Class: ^777777Costume^000000
-Location: ^777777Middle ^000000Weight: ^7777770^000000
+Location: ^777777Middle^000000
+Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
