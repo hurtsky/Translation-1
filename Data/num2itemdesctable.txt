@@ -2731,10 +2731,10 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 1173#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1174#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1175#
 Unknown Item, can be identified by [Magnifier].
@@ -3070,7 +3070,7 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 1267#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1268#
 Unknown Item, can be identified by [Magnifier].
@@ -3085,13 +3085,13 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 1272#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1273#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1274#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1275#
 Unknown Item, can be identified by [Magnifier].
@@ -3134,7 +3134,7 @@ Unknown Item, can be identified by [Magnifier].
 Weight: ^777777100^000000
 #
 1286#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1287#
 Unknown Item, can be identified by [Magnifier].
@@ -3313,13 +3313,13 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 1372#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1373#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1374#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1375#
 Unknown Item, can be identified by [Magnifier].
@@ -3331,7 +3331,7 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 1378#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1379#
 A terrifying two-handed axe that is said to stimulate the nerves in order to kill Demihumans, once it's in the wearer's hands.
@@ -3387,7 +3387,7 @@ Class: ^777777Two-Handed Axe^000000
 Attack: ^777777220^000000
 #
 1383#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1384#
 Unknown Item, can be identified by [Magnifier].
@@ -3396,13 +3396,13 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 1386#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1387#
 Unknown Item, can be identified by [Magnifier].
 #
 1388#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1391#
 Unknown Item, can be identified by [Magnifier].
@@ -3508,7 +3508,7 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 1419#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1420#
 Unknown Item, can be identified by [Magnifier].
@@ -3520,31 +3520,31 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 1423#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1424#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1425#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1426#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1427#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1428#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1429#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1430#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1431#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1433#
 Unknown Item, can be identified by [Magnifier].
@@ -3553,7 +3553,7 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 1435#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1436#
 Unknown Item, can be identified by [Magnifier].
@@ -3688,7 +3688,7 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 1482#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1483#
 Unknown Item, can be identified by [Magnifier].
@@ -3700,13 +3700,13 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 1486#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1487#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1488#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1489#
 Unknown Item, can be identified by [Magnifier].
@@ -3817,7 +3817,7 @@ Unknown Item, can be identified by [Magnifier].
 Weight: ^77777780^000000
 #
 1521#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1522#
 Unknown Item, can be identified by [Magnifier].
@@ -3860,7 +3860,7 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 1533#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1534#
 Unknown Item, can be identified by [Magnifier].
@@ -3869,10 +3869,10 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 1536#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1537#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1538#
 Unknown Item, can be identified by [Magnifier].
@@ -3902,7 +3902,7 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 1547#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1548#
 Unknown Item, can be identified by [Magnifier].
@@ -3962,10 +3962,10 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 1566#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1567#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1568#
 Unknown Item, can be identified by [Magnifier].
@@ -3998,13 +3998,13 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 1578#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1579#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1580#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1581#
 Unknown Item, can be identified by [Magnifier].
@@ -4221,10 +4221,10 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 1644#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1645#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1646#
 Unknown Item, can be identified by [Magnifier].
@@ -4245,10 +4245,10 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 1652#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1653#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1654#
 Unknown Item, can be identified by [Magnifier].
@@ -4428,7 +4428,7 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 1735#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1736#
 Unknown Item, can be identified by [Magnifier].
@@ -4455,7 +4455,7 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 1744#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1745#
 Unknown Item, can be identified by [Magnifier].
@@ -4470,7 +4470,7 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 1749#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1750#
 Unknown Item, can be identified by [Magnifier].
@@ -4682,10 +4682,10 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 1828#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1829#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1830#
 Unknown Item, can be identified by [Magnifier].
@@ -4789,7 +4789,7 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 1921#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1922#
 Unknown Item, can be identified by [Magnifier].
@@ -4838,10 +4838,10 @@ Required Level: ^77777780^000000
 Jobs: ^777777Bard Jobs^000000
 #
 1928#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1929#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1930#
 Unknown Item, can be identified by [Magnifier].
@@ -4961,7 +4961,7 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 1975#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1976#
 Unknown Item, can be identified by [Magnifier].
@@ -5013,10 +5013,10 @@ Attack: ^77777750^000000
 Weight: ^7777770^000000
 #
 1982#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1983#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 1984#
 Unknown Item, can be identified by [Magnifier].
@@ -5061,7 +5061,7 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 2003#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2004#
 Unknown Item, can be identified by [Magnifier].
@@ -5070,7 +5070,7 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 2006#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2007#
 Unknown Item, can be identified by [Magnifier].
@@ -5169,7 +5169,7 @@ Unknown Item, can be identified by [Magnifier].
 Weight: ^777777100^000000
 #
 2109#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 Weight: ^777777100^000000
 #
 2110#
@@ -5280,7 +5280,7 @@ Unknown Item, can be identified by [Magnifier].
 Weight: ^7777770^000000
 #
 2137#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 Weight: ^7777770^000000
 #
 2138#
@@ -5296,23 +5296,23 @@ Unknown Item, can be identified by [Magnifier].
 Weight: ^7777770^000000
 #
 2141#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 Weight: ^77777730^000000
 #
 2142#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 Weight: ^77777730^000000
 #
 2143#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 Weight: ^77777730^000000
 #
 2144#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 Weight: ^77777730^000000
 #
 2145#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 Weight: ^7777770^000000
 #
 2146#
@@ -5328,19 +5328,19 @@ Unknown Item, can be identified by [Magnifier].
 Weight: ^777777130^000000
 #
 2149#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 Weight: ^77777715^000000
 #
 2150#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 Weight: ^77777730^000000
 #
 2151#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 Weight: ^77777765^000000
 #
 2152#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 Weight: ^7777770^000000
 #
 2153#
@@ -5384,19 +5384,19 @@ Unknown Item, can be identified by [Magnifier].
 Weight: ^777777130^000000
 #
 2164#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 Weight: ^777777130^000000
 #
 2165#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 Weight: ^777777130^000000
 #
 2166#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 Weight: ^77777760^000000
 #
 2167#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 Weight: ^777777130^000000
 #
 2168#
@@ -6023,7 +6023,7 @@ Unknown Item, can be identified by [Magnifier].
 Weight: ^777777280^000000
 #
 2358#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 Weight: ^777777100^000000
 #
 2359#
@@ -6035,15 +6035,15 @@ Unknown Item, can be identified by [Magnifier].
 Weight: ^777777110^000000
 #
 2361#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 Weight: ^77777750^000000
 #
 2362#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 Weight: ^77777750^000000
 #
 2363#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 Weight: ^77777750^000000
 #
 2364#
@@ -6063,15 +6063,15 @@ Unknown Item, can be identified by [Magnifier].
 Weight: ^77777775^000000
 #
 2368#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 Weight: ^777777200^000000
 #
 2369#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 Weight: ^77777750^000000
 #
 2370#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 Weight: ^7777770^000000
 #
 2371#
@@ -6179,11 +6179,11 @@ Unknown Item, can be identified by [Magnifier].
 Weight: ^7777770^000000
 #
 2397#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 Weight: ^77777790^000000
 #
 2398#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 Weight: ^77777775^000000
 #
 2399#
@@ -6295,20 +6295,20 @@ Unknown Item, can be identified by [Magnifier].
 Weight: ^777777200^000000
 #
 2427#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 Weight: ^77777730^000000
 #
 2428#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2429#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2430#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2431#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2432#
 Unknown Item, can be identified by [Magnifier].
@@ -6340,10 +6340,10 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 2441#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2442#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2443#
 Unknown Item, can be identified by [Magnifier].
@@ -6361,28 +6361,28 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 2448#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2449#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2450#
 Unknown Item, can be identified by [Magnifier].
 #
 2451#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2452#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2453#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2454#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2455#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2456#
 Unknown Item, can be identified by [Magnifier].
@@ -6394,22 +6394,22 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 2459#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2460#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2461#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2462#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2463#
 Unknown Item, can be identified by [Magnifier].
 #
 2464#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2465#
 Unknown Item, can be identified by [Magnifier].
@@ -6613,7 +6613,7 @@ Unknown Item, can be identified by [Magnifier].
 Weight: ^77777760^000000
 #
 2526#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 Weight: ^7777771^000000
 #
 2527#
@@ -6684,13 +6684,13 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 2546#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2547#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2548#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2549#
 ^FF0000Cannot be traded^000000
@@ -6700,10 +6700,10 @@ Unidentified item, can be identified with [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 2551#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2552#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2553#
 Unknown Item, can be identified by [Magnifier].
@@ -6714,40 +6714,40 @@ Unknown Item, can be identified by [Magnifier].
 Weight: ^77777740^000000
 #
 2555#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2556#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2557#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2558#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2559#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2560#
 Unknown Item, can be identified by [Magnifier].
 #
 2561#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2562#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2563#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2564#
 Unknown Item, can be identified by [Magnifier].
 #
 2565#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2566#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2568#
 Unknown Item, can be identified by [Magnifier].
@@ -6952,10 +6952,10 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 2632#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2633#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2634#
 A wedding ring for a Groom which symbolizes ever-lasting love.
@@ -6999,18 +6999,7 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 2647#
-An extremely rare
-jewel attached to
-a solid silver chain
-bracelet symbolizing
-strength, growth and
-energy. This bracelet
-was crafted to mark
-iRO's second anniversary. HP +10
-Class: ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^77777710^000000
-Jobs: ^777777All^000000
+Unknown Item, can be identified by [Magnifier].
 #
 2648#
 Unknown Item, can be identified by [Magnifier].
@@ -7062,10 +7051,10 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 2663#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2664#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2665#
 Unknown Item, can be identified by [Magnifier].
@@ -7077,31 +7066,31 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 2668#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2669#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2670#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2671#
 Unknown Item, can be identified by [Magnifier].
 #
 2672#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2673#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2674#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2675#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2676#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2677#
 Unknown Item, can be identified by [Magnifier].
@@ -7116,61 +7105,61 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 2681#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2682#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2683#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2684#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2685#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2686#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2687#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2688#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2689#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2690#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2691#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2692#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2693#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2694#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2695#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2696#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2697#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2698#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2699#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2700#
 Unknown Item, can be identified by [Magnifier].
@@ -7185,37 +7174,37 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 2704#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2705#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2706#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2707#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2708#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2709#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2710#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2711#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2712#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2713#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2714#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2715#
 Unknown Item, can be identified by [Magnifier].
@@ -7323,46 +7312,46 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 2750#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2751#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2752#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2753#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2754#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2755#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2756#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2757#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2758#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2759#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2760#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2761#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2762#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2763#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2764#
 Unknown Item, can be identified by [Magnifier].
@@ -7506,28 +7495,28 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 2811#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2812#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2813#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2814#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2815#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2816#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2817#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2818#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2819#
 A guidebook that enables one to experience basic Swordman skills.
@@ -7593,22 +7582,22 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 2828#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2829#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2830#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2831#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2832#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2833#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2834#
 ^000088Rental Item^000000
@@ -7674,10 +7663,10 @@ Required Level: ^7777771^000000
 Jobs: ^777777Except Novice^000000
 #
 2841#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2842#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2843#
 Unknown Item, can be identified by [Magnifier].
@@ -7686,7 +7675,7 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 2845#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2853#
 Unknown Item, can be identified by [Magnifier].
@@ -7695,13 +7684,13 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 2855#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2856#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2857#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2858#
 Unknown Item, can be identified by [Magnifier].
@@ -7746,25 +7735,25 @@ Unidentified. You can identify it with a Magnifier.
 Use [Magnifying Glass] to Identify this Item..
 #
 2875#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2876#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2877#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2878#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2879#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2880#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2881#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2882#
 Unknown Item, can be identified by [Magnifier].
@@ -7846,7 +7835,7 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier]
 #
 2914#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 2915#
 Unidentified. You can identify it with a Magnifier.
@@ -15092,7 +15081,7 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 5095#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 5096#
 Unknown Item, can be identified by [Magnifier].
@@ -15341,7 +15330,7 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 5178#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 5179#
 Unknown Item, can be identified by [Magnifier].
@@ -15377,7 +15366,7 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 5190#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 5191#
 Unknown Item, can be identified by [Magnifier].
@@ -15410,7 +15399,7 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 5201#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 5202#
 Unknown Item, can be identified by [Magnifier].
@@ -16613,7 +16602,7 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 5602#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 5603#
 Unknown Item, can be identified by [Magnifier].
@@ -16766,7 +16755,7 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 5653#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 5654#
 Unknown Item, can be identified by [Magnifier].
@@ -27620,58 +27609,58 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 10021#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 10022#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 10023#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 10024#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 10025#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 10026#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 10027#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 10028#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 10029#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 10030#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 10031#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 10032#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 10033#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 10034#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 10035#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 10036#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 10037#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 10038#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 10039#
 Backpack flag sticking out the side of the gap, quite unpatriotic.
@@ -34020,7 +34009,7 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 13020#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 13021#
 ^000088Rental Item^000000
@@ -34209,13 +34198,13 @@ Attack: ^777777120^000000
 Weight: ^7777770^000000
 #
 13043#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 13044#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 13045#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 13046#
 Unknown Item, can be identified by [Magnifier].
@@ -34224,10 +34213,10 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 13048#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 13049#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 13050#
 Unknown Item, can be identified by [Magnifier].
@@ -34236,7 +34225,7 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 13052#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 13053#
 ^000088Rental Item^000000
@@ -34400,7 +34389,7 @@ Weapon Level: ^7777773^000000
 Required Level: ^77777780^000000
 #
 13109#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 13110#
 Increases Physical Attack Strength to Demihuman monster by 55%..
@@ -34417,7 +34406,7 @@ Class: ^777777Revolver^000000
 Attack: ^77777780^000000
 #
 13111#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 13112#
 Unknown Item, can be identified by [Magnifier].
@@ -34540,7 +34529,7 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 13175#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 13176#
 Unknown Item, can be identified by [Magnifier].
@@ -35223,10 +35212,10 @@ Required Level: ^77777780^000000
 Jobs: ^777777Ninja Jobs^000000
 #
 13308#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 13309#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 13310#
 Unknown Item, can be identified by [Magnifier].
@@ -35326,16 +35315,16 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 13406#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 13407#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 13408#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 13409#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 13410#
 Unknown Item, can be identified by [Magnifier].
@@ -35399,16 +35388,16 @@ Class: ^777777One-Handed Sword^000000
 Attack: ^777777130^000000
 #
 13419#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 13420#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 13421#
 Unknown Item, can be identified by [Magnifier].
 #
 13422#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 13423#
 Unknown Item, can be identified by [Magnifier].
@@ -35417,7 +35406,7 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 13425#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 13426#
 Unknown Item, can be identified by [Magnifier].
@@ -44389,28 +44378,28 @@ Weight: ^7777771^000000
 Unknown Item, can be identified by [Magnifier].
 #
 15001#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 15002#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 15003#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 15004#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 15005#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 15006#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 15007#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 15008#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 15009#
 Unknown Item, can be identified by [Magnifier].
@@ -44431,31 +44420,31 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 15015#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 15016#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 15017#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 15018#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 15019#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 15020#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 15021#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 15022#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 15023#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 15024#
 Unknown Item, can be identified by [Magnifier].
@@ -44505,10 +44494,10 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 15040#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 15041#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 15042#
 Unknown Item, can be identified by [Magnifier].
@@ -44715,7 +44704,7 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 16002#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 16003#
 Unknown Item, can be identified by [Magnifier].
@@ -44727,7 +44716,7 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 16006#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 16007#
 A facsimile of the
@@ -50283,7 +50272,7 @@ Weight: ^7777771^000000
 Property: ^777777Neutral^000000
 #
 18100#
-Unidentified item, can be identified with [Magnifier].
+Unknown Item, can be identified by [Magnifier].
 #
 18101#
 Unknown Item, can be identified by [Magnifier].

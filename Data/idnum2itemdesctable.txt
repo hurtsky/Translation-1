@@ -16730,28 +16730,35 @@ STR +2
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777770^000000
-Requirement: ^77777750^000000
+Level Requirement: ^77777750^000000
 Jobs: ^777777Merchant^000000
 #
 2642#
 A beautiful golden ring engraved with the words, 'In celebration of Serin's 17th birthday.'
 Class: ^777777Accessory^000000
-Defense: ^7777770^000000			Weight: ^7777770^000000
-Requirement: ^777777N/A^000000
+Defense: ^7777770^000000
+Weight: ^7777770^000000
+Level Requirement: ^777777N/A^000000
 Jobs: ^777777All^000000
 #
 2643#
 A beautiful golden ring engraved with the words, 'In celebration of Serin's 17th birthday.'
 Class: ^777777Accessory^000000
-Defense: ^7777770^000000			Weight: ^7777770^000000
-Requirement: ^777777N/A^000000
+Defense: ^7777770^000000
+Weight: ^7777770^000000
+Level Requirement: ^777777N/A^000000
 Jobs: ^777777All^000000
 #
 2644#
-A captivatingly beautiful artifact rewarded by the gods to a chosen warrior. However, it seems to be more than just a voucher that grants entrance into Valhalla...
+^FF0000Cannot be traded^000000
+This is a token that shows that you will be able to enter Valhalla.
+Those who possess this token is the selected warrior of gods. This is also a symbol of valiant.
+It is said that a powerful and mysterious force is sealed within this item.
+There is a transparent blue glass in the middle of the token which is engraved with silver ancient writing.
+Whoever sees this will be mesmerized by the mysterious look of the item.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
-Requirement: ^777777N/A^000000
+Level Requirement: ^777777N/A^000000
 Jobs: ^777777All^000000
 #
 2645#
@@ -16759,8 +16766,9 @@ An enchanted ring that
 was forged by the dead
 under the moonlight.
 Class: ^777777Accessory^000000
-Defense: ^7777770^000000			Weight: ^77777720^000000
-Requirement: ^77777760^000000
+Defense: ^7777770^000000
+Weight: ^77777720^000000
+Level Requirement: ^77777760^000000
 Jobs: ^777777Thief Classes, Ninja^000000
 #
 2646#
@@ -16768,7 +16776,8 @@ A carnation bouquet
 given as gifts to mothers.
 All Stats +3
 Class: ^777777Accessory^000000
-Defense: ^7777770^000000			Weight: ^77777710^000000
+Defense: ^7777770^000000
+Weight: ^77777710^000000
 Jobs: ^777777All^000000
 #
 2647#
@@ -16882,8 +16891,8 @@ about the mysterious
 Sacrifice Ring...
 #
 2654#
-A sash that is said to have been owned by a renown ninja.
-With its embroidered emblem of nobility, it seems to contain some strange and mysterious power.
+Belt equipped by a famous ninja. The pattern has a mysterious glow and it seems to have certain magical power.
+STR +1, AGI +1, MDEF +1
 [^6A5ACDNinja Shinobi armor set^000000]
 ^008800Ninja Suit^000000
 ^008800Shinobi Sash^000000
@@ -17092,8 +17101,8 @@ INT +2, DEX +1.
 [^6A5ACDSpirtual Wizardry Set^000000]
 ^008800Spiritual Ring^000000
 ^008800Wizardry Staff or Soul Staff^000000
-+2 DEX
-+6% MATK
+DEX +2
+MATK +6%
 Reduce Variable Casting Time by a percentage according to the Staff's upgrade level.
 [^6A5ACDSpiritual Exorcism Set^000000]
 ^008800Spiritual Ring^000000
@@ -17415,16 +17424,52 @@ placeholder
 placeholder
 #
 2710#
-placeholder
+^FF0000Cannot be traded^000000
+^000088Rental item^000000
+A leg iron, long time ago, it used to make don't move of panther prisoner. However, the prisoner used his leg iron as his weapon.
+ATK +30.
+Used with Gold PC Cafe, All Stats +1.
+Class: ^777777Accessory^000000
+Defense: ^7777770^000000
+Weight: ^7777770^000000
+Jobs: ^777777All^000000
 #
 2711#
-placeholder
+^FF0000Cannot be traded^000000
+^000088Rental item^000000
+Beautiful ring that contains the power of the spirit. If the item is fit and fastened with decompensated represents a remarkable amplification effect.
+INT +2, DEX +2
+[^6A5ACDSpirtual Wizardry Set^000000]
+^008800Spiritual Ring^000000
+^008800Wizardry Staff or Soul Staff^000000
+DEX +2
+MATK +6%
+Reduce Variable Casting Time by a percentage according to the Staff's upgrade level.
+[^6A5ACDSpiritual Exorcism Set^000000]
+^008800Spiritual Ring^000000
+^008800Clip or Rosary^000000
+Magnus Exorcismus Damage +30%
++50% Heal damage on Undead monsters
+SP Recovery +9%
+Class: ^777777Accessory^000000
+Defense: ^7777770^000000
+Weight: ^7777770^000000
+Jobs: ^777777All^000000
 #
 2712#
-placeholder
+Collectible comics Ragnarok. There is someone's autograph written in it.
+Dex +3, Vit +3, Luk +3.
+Class: ^777777Accessory^000000
+Defense: ^7777770^000000
+Weight: ^77777730^000000
+Required Level: ^77777730^000000
+Jobs: ^777777All^000000
 #
 2713#
-placeholder
+^FF0000Cannot be traded^000000
+If you carry a sign on assignments, get the job again will not be. Written on paper, crumbling with time.
+^ffffff_^000000
+Weight: ^7777770^000000
 #
 2714#
 placeholder
@@ -17662,7 +17707,14 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 2742#
-placeholder
+^FF0000Cannot be traded^000000
+^000088Rental item^000000
+A legendary clip used as a lucky charm!
+Increase the drop rate by 50%.
+Class: ^777777Accessory^000000
+Defense: ^7777770^000000
+Weight: ^7777770^000000
+Jobs: ^777777All^000000
 #
 2743#
 A ring which bears holy powers that responds to certain abilities and strenthens their potency.
