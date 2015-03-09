@@ -24702,7 +24702,7 @@ Weight: ^7777771^000000
 Weight: ^7777771^000000
 #
 7520#
-...
+The words in the scrolls 'Good fortune'. Will be rewarded Hover those in need.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -24752,7 +24752,7 @@ Weight: ^7777771^000000
 7526#
 A part of Joshua's
 missing manuscript.
-It's full of meaningful^FFFFFF	^000000 content that really
+It's full of meaningful content that really
 touches the soul.
 ^ffffff_^000000
 #
@@ -24911,23 +24911,31 @@ It consists of a green background, a yellow center and a simple blue design.
 Weight: ^7777771^000000
 #
 7550#
-Coupon used by Bunny Corp. for the Upgrading Challenge Event, equivalent to +7.
+^FF0000Cannot be traded^000000
+1st Brazilian Cup Ticket. Location: Brazil Olympic Stadium. Date: 13 June 4 P.M.
+^ffffff_^000000
 Weight: ^7777771^000000
 #
 7551#
-Coupon used by Bunny Corp. for the Upgrading Challenge Event, equivalent to +8.
+^FF0000Cannot be traded^000000
+1st Brazilian Cup Ticket. Location: Brazil Olympic Stadium. Date: 18 June 1 P.M.
+^ffffff_^000000
 Weight: ^7777771^000000
 #
 7552#
-Coupon used by Bunny Corp. for the Upgrading Challenge Event, equivalent to +9.
+^FF0000Cannot be traded^000000
+1st Brazilian Cup Ticket. Location: Brazil Olympic Stadium. Date: 22 June 4 P.M.
+^ffffff_^000000
 Weight: ^7777771^000000
 #
 7553#
 A delicate flower found in the depths of Brasilis.
+^ffffff_^000000
 Weight: ^7777770^000000
 #
 7554#
-...
+^FF0000Cannot be traded^000000
+A red and white striped candle.
 ^ffffff_^000000
 #
 7555#
@@ -24971,15 +24979,12 @@ for some reason.
 Weight: ^7777771^000000
 #
 7563#
-A glowing, blood
-red rune that has a
-symbol engraved on it.
+A glowing, blood red rune that has a symbol engraved on it.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 7564#
-A rotting piece of
-meat that is definitely^FFFFFF	 ^000000 unsafe for you to eat.
+A rotting piece of meat that is definitely unsafe for you to eat.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -25030,10 +25035,8 @@ Cheshrumnir.
 Weight: ^7777771^000000
 #
 7571#
-An effeminate diary
-with the word, ''Bruspetti''^FFFFFF	 ^000000 written on the cover.
-Perhaps that is the
-name of its owner?
+An effeminate diary with the word, ''Bruspetti'' written on the cover.
+Perhaps that is the name of its owner?
 ^ffffff_^000000
 #
 7572#
@@ -25149,12 +25152,24 @@ A Moon Snack which has 'Together' written in the center in Chinese.
 Weight: ^7777771^000000
 #
 7594#
+Sonia's letter for Grandma Emma.
+^ffffff_^000000
+Weight: ^7777771^000000
 #
 7595#
+A sword that was produced by Giancarlo that radiates something unique.
+^ffffff_^000000
+Weight: ^7777771^000000
 #
 7596#
+Solid-looking shield, that radiates something unique.
+^ffffff_^000000
+Weight: ^7777771^000000
 #
 7597#
+A stone with a very special aura.
+^ffffff_^000000
+Weight: ^7777771^000000
 #
 7598#
 A card with the letter "^000088I^000000" printed on it.
@@ -27614,9 +27629,7 @@ Unidentified item, can be identified with [Magnifier].
 Unidentified item, can be identified with [Magnifier].
 #
 10024#
-Red and blue fashionable glasses that aren't suited for everyone.
-Class: ^777777Cute Pet Armor^000000
-Applicable Pet: ^777777Loli Ruri^000000
+Unidentified item, can be identified with [Magnifier].
 #
 10025#
 Unidentified item, can be identified with [Magnifier].
@@ -27628,70 +27641,42 @@ Unidentified item, can be identified with [Magnifier].
 Unidentified item, can be identified with [Magnifier].
 #
 10028#
-A badge that indicates of high rank. Has a symbol of a special flower.
-Class: ^777777Cute Pet Armor^000000
-Weight: ^7777770^000000
-Applicable Pet :^777777 Goblin Leader^000000
+Unidentified item, can be identified with [Magnifier].
 #
 10029#
-Oriental accessory that is made of a mysterious green stone.
-Class: ^777777Cute Pet Armor^000000
-Weight: ^7777770^000000
-Applicable Pet :^777777 Wicked Nymph^000000
+Unidentified item, can be identified with [Magnifier].
 #
 10030#
-Everyone needs this for summer. It has a refreshing drawing.
-Class: ^777777Cute Pet Armor^000000
-Weight: ^7777770^000000
-Applicable Pet :^777777 Miyabi Ningyo^000000
+Unidentified item, can be identified with [Magnifier].
 #
 10031#
-A ring that symbolizes one who surpassed death. It feels like metal and it's cold.
-Class: ^777777Cute Pet Armor^000000
-Weight: ^7777770^000000
-Applicable Pet :^777777 Dullahan^000000
+Unidentified item, can be identified with [Magnifier].
 #
 10032#
-A symbol of authority of high ranked women. Has a regal sense of feeling.
-Class: ^777777Cute Pet Armor^000000
-Weight: ^7777770^000000
-Applicable Pet :^777777 Medusa^000000
+Unidentified item, can be identified with [Magnifier].
 #
 10033#
-Hairstyle that had huge sensation. It's for outstanding.
-Class: ^777777Cute Pet Armor^000000
-Weight: ^7777770^000000
-Applicable Pet :^777777 Stone Shooter^000000
+Unidentified item, can be identified with [Magnifier].
 #
 10034#
-A mask to disguise yourself in a party. Its gorgeously decorated.
-Class: ^777777Cute Pet Armor^000000
-Weight: ^7777770^000000
-Applicable Pet :^777777 Incubus^000000
+Unidentified item, can be identified with [Magnifier].
 #
 10035#
-It imitated a device for exterior power of an ancient toy. It looks kind of cute.
-Class: ^777777Cute Pet Armor^000000
-Weight: ^7777770^000000
-Applicable Pet :^777777 Golem^000000
+Unidentified item, can be identified with [Magnifier].
 #
 10036#
-Horrifying horn from hell. It only has horrifying feeling not like the unicorn's.
-Class: ^777777Cute Pet Armor^000000
-Weight: ^7777770^000000
-Applicable Pet :^777777 Nightmare Terror^000000
+Unidentified item, can be identified with [Magnifier].
 #
 10037#
-A mask that looks like a wing of a huge black butterfly decorated with beautiful symbols.
-Class: ^777777Cute Pet Armor^000000
-Applicable Pet: ^777777Succubus^000000
+Unidentified item, can be identified with [Magnifier].
 #
 10038#
-A protective barrier for an Imp's horn.
-Class: ^777777Cute Pet Armor^000000
-Applicable Pet: ^777777Imp^000000
+Unidentified item, can be identified with [Magnifier].
 #
 10039#
+Backpack flag sticking out the side of the gap, quite unpatriotic.
+Class: ^777777Cute Pet Armor^000000
+Applicable Pet: ^777777Ice Poring^000000
 #
 11000#
 A book documenting the history of Prontera. There's a whole chapter dedicated to Tristam III.

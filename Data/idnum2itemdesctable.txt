@@ -26865,9 +26865,8 @@ Jobs: ^777777All
 except Novice^000000
 #
 5020#
-The most recognizable
-piece of the standard
-Kafra Employee uniform. MDEF +3
+The most recognizable piece of the standard Kafra Employee uniform.
+MDEF +3
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
 Location: ^777777Upper^000000
@@ -34384,10 +34383,26 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 5672#
-placeholder
+A beautiful hairband made from fabric with enchantment, it's 100% handmade.
+INT +1
+Ignore 5% Boss magic defense.
+When refined over +6, give additional ignore boss magic defense.
+Class: ^777777Headgear^000000
+Defense: ^7777773^000000
+Location: ^777777Upper^000000
+Weight: ^77777760^000000
+Required Level: ^77777750^000000
+Jobs: ^777777All^000000
 #
 5673#
-placeholder
+Magic cast is uninterruptible.
+Variable cast time +35%.
+Class: ^777777Headgear^000000
+Defense: ^7777772^000000
+Location: ^777777Upper^000000
+Weight: ^77777710^000000
+Required Level: ^77777730^000000
+Jobs: ^777777All^000000
 #
 5674#
 A good place to store spare change. You never know when you might need zeny here or there for a potion.
@@ -43692,7 +43707,7 @@ Weight: ^7777771^000000
 Weight: ^7777771^000000
 #
 7520#
-...
+The words in the scrolls 'Good fortune'. Will be rewarded Hover those in need.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -43742,7 +43757,7 @@ Weight: ^7777771^000000
 7526#
 A part of Joshua's
 missing manuscript.
-It's full of meaningful^FFFFFF	^000000 content that really
+It's full of meaningful content that really
 touches the soul.
 ^ffffff_^000000
 #
@@ -43901,23 +43916,31 @@ It consists of a green background, a yellow center and a simple blue design.
 Weight: ^7777771^000000
 #
 7550#
-Coupon used by Bunny Corp. for the Upgrading Challenge Event, equivalent to +7.
+^FF0000Cannot be traded^000000
+1st Brazilian Cup Ticket. Location: Brazil Olympic Stadium. Date: 13 June 4 P.M.
+^ffffff_^000000
 Weight: ^7777771^000000
 #
 7551#
-Coupon used by Bunny Corp. for the Upgrading Challenge Event, equivalent to +8.
+^FF0000Cannot be traded^000000
+1st Brazilian Cup Ticket. Location: Brazil Olympic Stadium. Date: 18 June 1 P.M.
+^ffffff_^000000
 Weight: ^7777771^000000
 #
 7552#
-Coupon used by Bunny Corp. for the Upgrading Challenge Event, equivalent to +9.
+^FF0000Cannot be traded^000000
+1st Brazilian Cup Ticket. Location: Brazil Olympic Stadium. Date: 22 June 4 P.M.
+^ffffff_^000000
 Weight: ^7777771^000000
 #
 7553#
 A delicate flower found in the depths of Brasilis.
+^ffffff_^000000
 Weight: ^7777770^000000
 #
 7554#
-...
+^FF0000Cannot be traded^000000
+A red and white striped candle.
 ^ffffff_^000000
 #
 7555#
@@ -43961,15 +43984,12 @@ for some reason.
 Weight: ^7777771^000000
 #
 7563#
-A glowing, blood
-red rune that has a
-symbol engraved on it.
+A glowing, blood red rune that has a symbol engraved on it.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 7564#
-A rotting piece of
-meat that is definitely^FFFFFF	 ^000000 unsafe for you to eat.
+A rotting piece of meat that is definitely unsafe for you to eat.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -44020,10 +44040,8 @@ Cheshrumnir.
 Weight: ^7777771^000000
 #
 7571#
-An effeminate diary
-with the word, ''Bruspetti''^FFFFFF	 ^000000 written on the cover.
-Perhaps that is the
-name of its owner?
+An effeminate diary with the word, ''Bruspetti'' written on the cover.
+Perhaps that is the name of its owner?
 ^ffffff_^000000
 #
 7572#
@@ -44139,12 +44157,24 @@ A Moon Snack which has 'Together' written in the center in Chinese.
 Weight: ^7777771^000000
 #
 7594#
+Sonia's letter for Grandma Emma.
+^ffffff_^000000
+Weight: ^7777771^000000
 #
 7595#
+A sword that was produced by Giancarlo that radiates something unique.
+^ffffff_^000000
+Weight: ^7777771^000000
 #
 7596#
+Solid-looking shield, that radiates something unique.
+^ffffff_^000000
+Weight: ^7777771^000000
 #
 7597#
+A stone with a very special aura.
+^ffffff_^000000
+Weight: ^7777771^000000
 #
 7598#
 A card with the letter "^000088I^000000" printed on it.
@@ -46602,7 +46632,8 @@ Applicable Pet: ^777777Deviruchi^000000
 #
 10005#
 A multi-colored wig
-usually worn by clowns. Class: ^777777Cute Pet Armor^000000
+usually worn by clowns.
+Class: ^777777Cute Pet Armor^000000
 Applicable Pet: ^777777Dokebi^000000
 #
 10006#
@@ -46648,7 +46679,8 @@ Applicable Pet: ^777777Peco Peco^000000
 #
 10011#
 A hairpin decorated
-with cute little stars. Class: ^777777Cute Pet Armor^000000
+with cute little stars.
+Class: ^777777Cute Pet Armor^000000
 Applicable Pet:
 ^777777Green Petite^000000
 #
@@ -46829,6 +46861,9 @@ Class: ^777777Cute Pet Armor^000000
 Applicable Pet: ^777777Imp^000000
 #
 10039#
+Backpack flag sticking out the side of the gap, quite unpatriotic.
+Class: ^777777Cute Pet Armor^000000
+Applicable Pet: ^777777Ice Poring^000000
 #
 11000#
 A book documenting the history of Prontera. There's a whole chapter dedicated to Tristam III.
@@ -75726,7 +75761,7 @@ Jobs: ^777777All^000000
 #
 18563#
 Decorated with tiny hearts and lace wings, headband Young girl wind.
-Reduces all skill's after-cast delay by 5%, Increase SP	consumption when using skill by 10%.
+Reduces all skill's after-cast delay by 5%, Increase SP consumption when using skill by 10%.
 Each 3 refines reduces all skill's after-cast delay and decrease SP consumption when using skills by 3%.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
@@ -82685,9 +82720,16 @@ Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Jobs: ^777777all jobs^000000
+Jobs: ^777777All^000000
 #
 19730#
+The headgear is designed according to the curled of snake.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 19731#
 Headgear made according to the wings on the demon's back.

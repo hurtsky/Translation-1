@@ -5179,7 +5179,7 @@
 7517#Gold_Coin#
 7518#Women's_Medal#
 7519#Handsel#
-7520#Please_Be_Rich#
+7520#Become_Rich#
 7521#Flame_Stone#
 7522#Ice_Stone#
 7523#Wind_Stone#
@@ -5209,9 +5209,9 @@
 7547#Soccer_Ball#
 7548#Soccer_Shoes#
 7549#Brazilian_Flag#
-7550#6.13_Ticket#
-7551#6.18_Ticket#
-7552#6.22_Ticket#
+7550#13_June_Ticket#
+7551#18_June_Ticket#
+7552#22_June_Ticket#
 7553#Water_Lily#
 7554#Striped_Candle#
 7555#Green_Incense#
@@ -5254,8 +5254,8 @@
 7592#Lettered_Moon_Snack_04#
 7593#Lettered_Moon_Snack_05#
 7594#Sonia's_Letter#
-7595#Special_Sword#
-7596#Special_Shield#
+7595#Unique_Sword#
+7596#Unique_Shield#
 7597#Magic_Stone#
 7598#Blue_I_Card#
 7599#Blue_D_Card#
@@ -5725,7 +5725,7 @@
 10036#Horn_Of_Hell#
 10037#Black_Butterfly_Mask#
 10038#Horn_Barrier#
-10039#Tw_Backpack#
+10039#Patriotic_backpack#
 11000#History_book_of_Prontera#
 11001#Adventure_Story_Vol.1#
 11002#Chef_King_Orleans_Vol.1#
@@ -10348,7 +10348,7 @@
 19727#[Costume]_Deviling_Hat#
 19728#[Costume]_Tare_Zonda#
 19729#[Costume]_Neko_Mimi_Kafra#
-19730#C_Snake_Hat#
+19730#[Costume]_Snake_Hat#
 19731#[Costume]_Evil_Wing#
 19732#[Costume]_Goblin_Leader_Mask#
 19733#[Costume]_Panda_Hat#
