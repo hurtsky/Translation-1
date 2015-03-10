@@ -10751,7 +10751,7 @@ SKILL_DESCRIPT = {
   [SKID.ML_DEFENDER] = {
     "Defender",
     "Skill Form: ^777777Supportive^000000",
-    "Description: ^Reduce damage inflicted from long ranged",
+    "Description: ^777777Reduce damage inflicted from long ranged",
     "physical attacks at the cost of decreasing",
     "caster's attack and movement speeds for the",
     "skill's duration. Casting this skill again",
