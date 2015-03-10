@@ -4309,6 +4309,9 @@ Unknown Item, can be identified by [Magnifier].
 1680#
 Unknown Item, can be identified by [Magnifier].
 #
+1682#
+Unknown Item, can be identified by [Magnifier].
+#
 1701#
 Unknown Item, can be identified by [Magnifier].
 Weight: ^77777750^000000
@@ -4868,6 +4871,9 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 1939#
+Unknown Item, can be identified by [Magnifier].
+#
+1940#
 Unknown Item, can be identified by [Magnifier].
 #
 1950#
@@ -43364,6 +43370,12 @@ The effect will disappear after your first KO'.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
+14504#
+Temporarily clock up operating speed part of Madogear.
+When used, cast level 5 Adrenaline Rush on user.
+Weight: ^7777775^000000
+Required Level: ^777777120^000000
+#
 14505#
 ^ff0000Cannot be traded.^000000
 A ticket to enter Aerial Fortress Invasion Memorial Dungeon for 1 hour.
@@ -44835,6 +44847,9 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 16041#
+Unknown Item, can be identified by [Magnifier].
+#
+16043#
 Unknown Item, can be identified by [Magnifier].
 #
 16100#
@@ -54568,6 +54583,9 @@ Unknown Item, can be identified by [Magnifier].
 20186#
 Unknown Item, can be identified by [Magnifier].
 #
+20187#
+Unknown Item, can be identified by [Magnifier].
+#
 20190#
 Unknown Item, can be identified by [Magnifier].
 #
@@ -54992,6 +55010,9 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 21018#
+Unknown Item, can be identified by [Magnifier].
+#
+21019#
 Unknown Item, can be identified by [Magnifier].
 #
 22000#
