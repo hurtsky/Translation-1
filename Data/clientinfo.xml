@@ -5,10 +5,10 @@
 	<servertype>primary</servertype>
 	<connection>
 		<display>Local</display>
-      	<address>127.0.0.1</address>
-      	<port>6900</port>
-      	<version>46</version>
-      	<langtype>1</langtype>
+      		<address>127.0.0.1</address>
+      		<port>6900</port>
+      		<version>46</version>
+      		<langtype>1</langtype>
 		<registrationweb>www.ragnarok.com</registrationweb>
 		<loading>
 			<image>loading00.jpg</image>
