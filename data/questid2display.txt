@@ -9057,7 +9057,7 @@ Participate in the meeting#
 "Ok. I should set up another meeting asap. Could you go see the official instead of me and set up a meeting?"#
 #
 
-// 튜토리얼 퀘스트 : 검사 (tu_sword.sc)
+// Training Qust : Swordman (tu_sword.sc)
 
 8211#Shurank's Lecture#SG_FEEL#QUE_NOIMAGE#
 "Have you been learning the art of using Bash? I fervently believe that the Bash skill is the essense of Swordmanship!"#
@@ -9083,7 +9083,7 @@ Listen to Shurank's Lecture#
 "I wish for you to find a Knight named ^5D478BDequ'ee^000000 in ^5D478BGeffen^000000. Listen carefully, this is the message: ^0000FFWhat happened to the murderer?^000000 ^0000FFDid you find out who he is? If you did, what are we supposed to do now?^000000"#
 Deliver Shurank's message to Dequ'ee in Geffen#
 
-8217#Dequ'ee의 Message#SG_FEEL#QUE_NOIMAGE#
+8217#Dequ'ee's Message#SG_FEEL#QUE_NOIMAGE#
 "So Shurank is asking, 'What happened to the murderer? Did you find out who he is? If you did, what are we supposed to do now?' We haven't found out who the murderer is for sure. However, we have a list of suspects and we'll figure it out soon.?#
 Deliver Dequ'ee's message to Shurank in Izlude#
 
@@ -9131,14 +9131,14 @@ Return to Shurank#
 "This will be my final lecture to you. Please listen carefully as I tell you all about Magnum Break."#
 Listen to Shurank's Lecture#
 
-// 튜토리얼 퀘스트 : 상인 (tu_merchant.sc)
+// Training Qust : Merchant (tu_merchant.sc)
 
 8229#Guarnien's Lecture#SG_FEEL#QUE_NOIMAGE#
 "You can't really be a Merchant if you can't even carry around goods to sell. Increase Weight Limit skill up to Level 4. After that, we can talk more about becoming a true Merchant."#
 Return to Guarnien after mastering the skill, Increase Weight Limit#
 
 8230#Guarnien's Lecture#SG_FEEL#QUE_NOIMAGE#
-"Item Appraisal과 I'll talk about the Mammonite skill, just a basic skill as Item Appraisal. For now, let me take a little bit of a break from all of this arduous lecture."#
+"I'll talk about the Mammonite skill, just a basic skill as Item Appraisal. For now, let me take a little bit of a break from all of this arduous lecture."#
 Listen to Guarnien's Lecture#
 
 8231#Guarnien's Lecture#SG_FEEL#QUE_NOIMAGE#
@@ -9182,7 +9182,7 @@ Listen to Guarnien's Lecture#
 Return to Guarnien after mastering the Vending Skill#
 
 
-// ep13 : 통역기 퀘스트 (ep13_2_rhea.sc)
+// ep13 : Interpreter Quest (ep13_2_rhea.sc)
 
 8241#Collection of Red Jewel#SG_FEEL#QUE_NOIMAGE#
 You collected a Red Jewel from a grave which stores voice on it!#

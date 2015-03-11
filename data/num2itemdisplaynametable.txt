@@ -2316,7 +2316,7 @@
 4260#Wootan_Shooter_Card#
 4261#Wootan_Fighter_Card#
 4262#Cloud_Hermit_Card#
-4263#Samurai_Spector_Card#
+4263#Incantation_Samurai_Card#
 4264#Wind_Ghost_Card#
 4265#Jing_Guai_Card#
 4266#Eclipse_Card#
@@ -2348,7 +2348,7 @@
 4292#Kobold_Archer_Card#
 4293#Cookie_Card#
 4294#Quve_Card#
-4295#Chraben_Card#
+4295#Kraben_Card#
 4296#Cramp_Card#
 4297#Cruiser_Card#
 4298#Creamy_Fear_Card#
@@ -2383,7 +2383,7 @@
 4327#Bloody_Butterfly_Card#
 4328#Yao_Jun_Card#
 4329#Phendark_Card#
-4330#Evil_Snake_Lord_Card#
+4330#Dark_Snake_Lord_Card#
 4331#Heater_Card#
 4332#Waste_Stove_Card#
 4333#Venomous_Card#
@@ -2506,7 +2506,7 @@
 4450#Banshee_Master_Card#
 4451#Entweihen_Crothen_Card#
 4452#Centipede_Larva_Card#
-4453#Hillslion_Card#
+4453#Hilsrion_Card#
 4454#Fake_Valkyrie_Card#
 4455#Fake_Valkyrie_Card#
 4456#Nidhoggur_Shadow_Card#
