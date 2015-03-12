@@ -6281,7 +6281,7 @@ The old man in the village said that there is girl who shows up in the same plac
 #
 
 //-----------2009 A training place for novice
-7117#Your first quest!#SG_FEEL#QUE_NOIMAGE#
+		#Your first quest!#SG_FEEL#QUE_NOIMAGE#
 Cross the bridge to the right. Go through the castle entrance, into the Training Center, and talk to Sprakki inside.#
 #
 
@@ -18459,3 +18459,273 @@ Return to Bori after the timer has expired#
 11393#2015 new year's hat#SG_FEEL#QUE_NOIMAGE#
 Shepherd Boy's latest masterpiece! Try make this warm looking wool hat.#
 Complete Hat manufacture.#
+
+62832#Toucan Hunting#SG_FEEL#QUE_NOIMAGE#
+Hunt the Toucan monsters and return to Gramps at the Eden Group to get your reward.#
+Hunt 400 Toucan monsters.#
+
+62833#Siorava Hunting#SG_FEEL#QUE_NOIMAGE#
+Hunt the Siorava monsters and return to Gramps at the Eden Group to get your reward.#
+Hunt 400 Siorava monsters.#
+
+// 2012 발렌타인화이트 이벤트
+7454#Dessert Class-Handmade Chocolate#SG_FEEL#QUE_NOIMAGE#
+Learn how to make a Handmade Chocolate from the Dessert Class. Ingredient: 5 White Chocolate, 1 Milk for White / 5 Chocolate, 1 Milk for Black#
+#
+
+7455#Dessert Class-Strawberry Chocolate#SG_FEEL#QUE_NOIMAGE#
+Learn how to make a Strawberry Chocolate from the Dessert Class. Preparation: 2 Strawberry, 1 Chocolate, 1 White Chocolate#
+#
+
+7456#Dessert Class-Chocolate Tart#SG_FEEL#QUE_NOIMAGE#
+Learn how to make a Chocolate Tart from the Dessert Class. Preparation: 3 Milk, 1 Egg, 1 Flour, 3 Chocolate#
+#
+
+7457#Dessert Class-Chocolate Drink#SG_FEEL#QUE_NOIMAGE#
+Learn how to make a Chocolate Drink from the Dessert Class. Preparation: 30 Cacao bean, 3 Chocolate, 2 Milk#
+#
+
+7458#Dessert Class-Fierce Cacao 99%#SG_FEEL#QUE_NOIMAGE#
+Learn how to make a Fierce Cacao 99% from the Dessert Class. Preparation: 99 Cacao bean, 1 Milk#
+#
+
+7459#Dessert Class Ticket#SG_FEEL#QUE_NOIMAGE#
+A ticket allows you to attend the next Dessert Class. Check the time on ticket for the next Dessert Class.#
+#
+
+7460#Dessert Class Complete#SG_FEEL#QUE_NOIMAGE#
+You have completed Arles' Dessert Class. Report to Miss Diva Lindt, and receive the recipe book.#
+#
+
+7461#Forever a-loneliness.#SG_FEEL#QUE_NOIMAGE#
+Chocolat asked you to gather stories of lonely people. Prontera Mr. L, Geffen Mr. K, Payon Mr. P, and Lighthalzen Mr. R are famous for their loneliness.#
+#
+
+7462#Lennon the idle Warrior's story#SG_FEEL#QUE_NOIMAGE#
+A knight who became alone just by 1 simple wrong answer.#
+#
+
+7463#Ken the great Wizard's story#SG_FEEL#QUE_NOIMAGE#
+A great wizard who couldn't fit with the rest of World.#
+#
+
+7464#Penn the Stranger's story#SG_FEEL#QUE_NOIMAGE#
+A man with sad family history.#
+#
+
+7465#Richie the young Rich's story#SG_FEEL#QUE_NOIMAGE#
+Rich young man who lives in the rich city's story.#
+#
+
+7466#Montblanc Chocolate delivery#SG_FEEL#QUE_NOIMAGE#
+Chocolat Montblanc gave you some ingredients. Let's deliver them to Serious Lee at Kiel Hyre Academy's Cooking Table.#
+#
+
+7467#Part time Chocolate business#SG_FEEL#QUE_NOIMAGE#
+It seems ingredients are delivered daily. You might get some part time work this time tomorrow...#
+#
+
+7468#Jinha Lee's ingredient delivery#SG_FEEL#QUE_NOIMAGE#
+Jinha gave you some ingredients. Let's deliver them to Serious Lee at Kiel Hyre school Cooking Table.#
+#
+
+7469#Jinha's part time business#SG_FEEL#QUE_NOIMAGE#
+It seems ingredients are delivered daily. You might get some part time work this time tomorrow...#
+#
+
+//2015년 발렌타인 이벤트
+
+2365#2015 Valentine Day#SG_FEEL#QUE_NOIMAGE#
+Bring 15 Handmade Chocolates, 15 White Handmade Chocolates, 15 Chocolate Drinks, 15 Chocolate Tarts, 15 Strawberry Chocolates, 1 Flame Heart, and a Silver Arrow.#
+Deliver the items to Schweddy#
+
+1260#Cursed Swordman#SG_FEEL#QUE_NOIMAGE#
+Enter the Ghost Palace via a secret passage.#
+#
+
+1261#Cursed Swordman#SG_FEEL#QUE_NOIMAGE#
+Entering the Ghost Palace is restricted until the timer has expired.#
+#
+
+1262#Cursed Swordman#SG_FEEL#QUE_NOIMAGE#
+Exploring to the palace of the ghost is stopped#
+Stop exploring to the palace of the ghost#
+
+1263# Cursed Swordman #SG_FEEL#QUE_NOIMAGE#
+It is time to leave the Ghost Palace. All the ghosts seem to have disappeared.#
+#
+
+//--- Tower of a devil
+7568#Explore the tower#SG_FEEL#QUE_NOIMAGE#
+You've been asked to explore the tower of Thanatos through the dimensional gap.#
+#
+
+7569#Treat the injured#SG_FEEL#QUE_NOIMAGE#
+Treat the wounded soldiers with the first-aid kits#
+#
+
+7570#Destroy the demons#SG_FEEL#QUE_NOIMAGE#
+Demons are invading from the upper floor. Get rid of the Evil Shadows that are invading there will be 7 of each kind to destroy.#
+#
+
+7571#Tower Expedition#SG_FEEL#QUE_NOIMAGE#
+The tower was built by a demon tribe headed by one named Thanatos during a war between gods and demons. It was activated by Satan Morocc in an attempt to re-enter Rune Midgard#
+#
+
+7572#Lucile...?#SG_FEEL#QUE_NOIMAGE#
+Lucile, a mysterious girl in the Devil's tower asked to help recover her body.#
+Help Lucile#
+
+7573#Magic Swordman Thanatos#SG_FEEL#QUE_NOIMAGE#
+Magic swordman thanatos has to prevent the Magic Seals of the demon from approaching to successfully seal the demon Morocc.#
+Get rid of the Magic Seals#
+
+7574#Thanatos Tower#SG_FEEL#QUE_NOIMAGE#
+It is called Thanatos Tower because it is where the magic swordsman sealed the power of Satan Morocc hundreds of years ago.#
+#
+
+7575#Evil followers#SG_FEEL#QUE_NOIMAGE#
+Destroy the Evil Followers#
+#
+
+7576#Morocc castle seal#SG_FEEL#QUE_NOIMAGE#
+Years from now, someone will try to awaken Satan Morocc in Morocc castle since Thanatos Tower is sealed.#
+#
+
+7577#Space distortion#SG_FEEL#QUE_NOIMAGE#
+Exploring time and space causes your body to be in flux. You need to take a break or you will lose your mind.#
+Wait for the timer before re-entering.#
+
+// The trace of heroes: "Geffen magic competitions"
+
+9284#Stopping Geffen Gangsters#SG_FEEL#QUE_NOIMAGE#
+Stop the ^0000FFGeffen Gangsters^000000 from bullying ^8B4513Kafra^000000#
+Save the ^8B4513Kafra^000000#
+
+9285#Beating Geffen Gangsters#SG_FEEL#QUE_NOIMAGE#
+You've defeated the ^8B4513Geffen Gangsters^000000 but there might be another encounter soon.#
+Register for the ^8B4513Magic Competition^000000#
+
+9286#Stop Geffen Gangsters#SG_FEEL#QUE_NOIMAGE#
+Stop^0000FF Geffen Gangsters ^000000who is bullying^8B4513A student^000000#
+Let’s save ^8B4513 A student^000000#
+
+9287#defeating Geffen Gangsters#SG_FEEL#QUE_NOIMAGE#
+You've defeated the ^8B4513Geffen Gangsters^000000 but there might be another encounter soon.#
+Register for the ^8B4513Magic Competition^000000#
+
+9288#Catch a Geffen thief#SG_FEEL#QUE_NOIMAGE#
+Catch the ^0000FFGeffen Shoplifter^000000 who stole the money of a ^8B4513Geffen Resident^000000.#
+#
+
+9289#Get things back from the thief#SG_FEEL#QUE_NOIMAGE#
+A salary of a resident was returned from the ^8B4513Geffen Shoplifter^000000 I think I will meet you again.#
+Register for the ^8B4513Magic Competition^000000#
+
+9290#Participate in Magic competitions#SG_FEEL#QUE_NOIMAGE#
+Let’s participate in ^8B4513 Magic Competition^000000 after talking to the Receptionist at the south fountain..#
+#
+
+9291# participate in Magic competitions#SG_FEEL#QUE_NOIMAGE#
+Let’s participate in ^8B4513 Magic Competition^000000 after talking to the Receptionist at the south fountain.#
+#
+
+9292# participate in Magic competitions#SG_FEEL#QUE_NOIMAGE#
+Let’s participate in ^8B4513 Magic Competition^000000 after talking to the Receptionist at the south fountain.#
+#
+
+9293# Register in Magic Competition#SG_FEEL#QUE_NOIMAGE#
+Destroy 1 ^0000FFDesert Wolf^000000 to participatein^8B4513Magic Competition^000000.#
+Hunt ^8B4513Desert Wolf^000000#
+
+9294#Registration Complete#SG_FEEL#QUE_NOIMAGE#
+Enter to^0000FFportal^000000 under the fountain at the southern part of ^8B4513Geffen^000000 to participate in the Magic Competition.#
+Enter ^8B4513portal^000000#
+
+9295# 1st match of the Competition has started#SG_FEEL#QUE_NOIMAGE#
+Defeat your opponent in battle.#
+#
+
+9296#2nd match of the Competition has started#SG_FEEL#QUE_NOIMAGE#
+Defeat your opponent in battle.#
+#
+
+9297#3rd match of the Competition has started#SG_FEEL#QUE_NOIMAGE#
+Defeat your opponent in battle.#
+#
+
+9298#4th match of the Competition has started#SG_FEEL#QUE_NOIMAGE#
+Defeat your opponent in battle.#
+#
+
+9299#5th match of the Competition has started#SG_FEEL#QUE_NOIMAGE#
+Defeat your opponent in battle.#
+#
+
+9300#6th match of the Competition has started#SG_FEEL#QUE_NOIMAGE#
+Defeat your opponent in battle.#
+#
+
+9301#7th match of the Competition has started#SG_FEEL#QUE_NOIMAGE#
+Defeat your opponent in battle.#
+#
+
+9302#8th match of the Competition has started #SG_FEEL#QUE_NOIMAGE#
+Defeat your opponent in battle.#
+#
+
+9303#9th match of the Competition has started#SG_FEEL#QUE_NOIMAGE#
+Defeat your opponent in battle.#
+#
+
+9304#10th match of the Competition has started#SG_FEEL#QUE_NOIMAGE#
+Defeat your opponent in battle.#
+#
+
+9305#11th match of the Competition has started#SG_FEEL#QUE_NOIMAGE#
+Defeat your opponent in battle.#
+#
+
+9306#12th match of the Competition has started#SG_FEEL#QUE_NOIMAGE#
+Defeat your opponent in battle.#
+#
+
+9307# Final match of the Competition has started#SG_FEEL#QUE_NOIMAGE#
+Must defeat the ^8B4513Final match competitor^000000#
+Defeat ^8B45131Fenrir ^000000#
+
+9308# Magic Competition Win~!.#SG_FEEL#QUE_NOIMAGE#
+Win at ^8B4513Magic Competition^^000000 and return to the scholar researching the dimensional gap near the entrance to the tournament.#
+#
+
+9309# Magic competitions^defeat#SG_FEEL#QUE_NOIMAGE#
+Defeated at the ^8B4513Magic competitions^^000000 Return to the scholar researching with what you found.#
+Exploring ^8B4513old Geffen in the crack^000000 is completed#
+
+9310#Encounter Iris#SG_FEEL#QUE_NOIMAGE#
+Speak with^8B4513Iris ^000000. Received a small gift#
+Speak with^8B4513Iris^000000 #
+
+9311#Encounter Chaos#SG_FEEL#QUE_NOIMAGE#
+Speak with^8B4513 Chaos ^000000 to receive a small gift#
+Speak with ^8B4513Chaos^000000#
+
+9312#Encounter Lydia#SG_FEEL#QUE_NOIMAGE#
+Speak with^8B4513Lydia^000000 to receive a small gift#
+Speak with^8B4513Lydia^000000#
+
+9313#Encounter Fenrir#SG_FEEL#QUE_NOIMAGE#
+Speak with^8B4513 Fenrir^000000. I want to meet if there is another chance #
+Speak with^8B4513 Fenrir^000000#
+
+9314# Encounter Loki#SG_FEEL#QUE_NOIMAGE#
+Speak with ^8B4513Loki^000000 to receive a small gift#
+Speak with ^8B4513Loki^000000#
+
+9315#Exploring the dimensional gap#SG_FEEL#QUE_NOIMAGE#
+The message from ^8B4513a scholar who is researching^000000: Please check out the Magic Competitions.#
+Exploring ^8B4513Geffen in the dimensional gap.^000000 #
+
+9316#Re-exploring the crack of spaces#SG_FEEL#QUE_NOIMAGE#
+The message of ^8B4513a scholar who is research the crack of spaces ^000000: Please check out about magic competitions at ^0000FFold Geffen of crack^000000#
+Exploring ^8B4513Geffen in the cracks ^000000 #

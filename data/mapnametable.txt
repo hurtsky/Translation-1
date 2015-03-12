@@ -81,7 +81,7 @@ dali.rsw#Dimensional Crack#
 1@ge_st.rsw#Geffen Magic Tournament#
 1@gef.rsw#Geffen Magic Tournament#
 1@gef_in.rsw#Geffen Magic Tournament#
-1@spa.rsw#Palace of Specter#
+1@spa.rsw#Ghost Palace#
 
 1@def01.rsw#Wave Dungeon - Forest#
 1@def02.rsw#Wave Dungeon - Sky#

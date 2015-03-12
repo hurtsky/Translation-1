@@ -719,23 +719,23 @@ Conversation with the guide Leonie of Izlude shop#
 세 번째 미션 완료. 10003 Raccoon을 위한 '뾰족한 나무 피리'를 3개 구했다. 최종 보고를 위해 알데바란으로 돌아가자.#
 알데바란에 있는 '10003 Raccoon 1호'와 대화.#
 
-//----------Trail of Heroes - Investigation of the cursed 'Palace of Specter' memorial dungeon
+//----------Trail of Heroes - Cursed Swordman 'Ghost Palace' memorial dungeon
 
-1260#Investigation of the cursed#SG_FEEL#QUE_NOIMAGE#
-Enter the Palace of Specter via secret passage.#
-Palace of Specter entrance.#
+1260#Cursed Swordman#SG_FEEL#QUE_NOIMAGE#
+Enter the Ghost Palace via a secret passage.#
+Ghost Palace entrance.#
 
-1261#Investigation of the cursed#SG_FEEL#QUE_NOIMAGE#
-23 hours prohibition to enter Palace of Specter entrance.#
-23 hours to re-enter Palace of Specter entrance.#
+1261#Cursed Swordman#SG_FEEL#QUE_NOIMAGE#
+Entering the Ghost Palace is restricted until the timer has expired.#
+#
 
-1262#Investigation of the cursed#SG_FEEL#QUE_NOIMAGE#
-Exploration of the Palace of Specter was stopped.#
-Exploration of the Palace of Specter interrupted.#
+1262#Cursed Swordman#SG_FEEL#QUE_NOIMAGE#
+Exploring to the palace of the ghost is stopped.#
+Stop exploring the Ghost Palace#
 
-1263#Investigation of the cursed#SG_FEEL#QUE_NOIMAGE#
-It's time to leave Palace of Specter. Once everything is completed, all things will be destroyed.#
-Palace of Specter completed#
+1263#Cursed Swordman#SG_FEEL#QUE_NOIMAGE#
+It is time to leave the Ghost Palace. All the ghosts seem to have disappeared.#
+Ghost Palace completed#
 
 //----------EP14.3 Fire Basin and Destroyed Ruin
 
@@ -7712,46 +7712,46 @@ Conversation with Rayan Moore#
 The dimensional devices are specially manufactured to enter the dimensional gap between space and time.#
 #
 
-//--- 마신의 탑
-7568#마신의 탑 탐사#SG_FEEL#QUE_NOIMAGE#
-자칭 역사학자라는 세피트의 의뢰로 차원의 균열을 통해 과거 타나토스의 타워를 탐사 하기로 했다. 탐사 가능한 시간은 아주 제한적이니 탐사 시간에 주의.#
+//--- Tower of a devil
+7568#Explore the tower#SG_FEEL#QUE_NOIMAGE#
+You've been asked to explore the tower of Thanatos through the dimensional gap.#
 #
 
-7569#부상자 치료#SG_FEEL#QUE_NOIMAGE#
-마신 원정대에 참여후 전투로 부상을 입은 부상병을 치료했습니다.#
+7569#Treat the injured#SG_FEEL#QUE_NOIMAGE#
+Treat the wounded soldiers with the first-aid kits.#
 #
 
-7570#마족을 처치하라!#SG_FEEL#QUE_NOIMAGE#
-부대장 하임으로부터 마신의 탑 최상층에서 내려오는 마족을 처치해 달라는 부탁을 받았습니다.#
-마신의 그림자 처치#
+7570#Destroy the demons!#SG_FEEL#QUE_NOIMAGE#
+Demons are invading from the upper floor. Get rid of the Evil Shadows that are invading there will be 7 of each kind to destroy.#
+Destroy the demons#
 
-7571#정보(1)마신 모로크 원정대#SG_FEEL#QUE_NOIMAGE#
-현재 타나토스 타워라 불리는 탑은 천년전 신마 전쟁 당시 마족이 설치한 마계의 게이트로, 이후 수백년간 사용되지 않다가 마신 모로크가 현계로 내려오기 위해 재가동하였고, 마신을 저지하기 위한 대대적인 전투가 있었다.#
+7571#Tower Expedition#SG_FEEL#QUE_NOIMAGE#
+The tower was built by a demon tribe headed by one named Thanatos during a war between gods and demons. It was activated by Satan Morocc in an attempt to re-enter Rune Midgard#
 #
 
-7572#루실...?#SG_FEEL#QUE_NOIMAGE#
-마신의 탑 탐사 중에 만난 의문의 어쌔신 소녀 루실. 그녀는 자신의 몸을 자가복구 하기 위해 도와달라는데..루실의 몸이 정상화 될때까지 어떻게든 버텨보자.#
-루실의 자가복구 돕기#
+7572#Lucile...?#SG_FEEL#QUE_NOIMAGE#
+Lucile, a mysterious girl in the Devil's tower asked to help recover her body.#
+Help Lucile#
 
-7573#마검사 타나토스#SG_FEEL#QUE_NOIMAGE#
-마검사 타나토스가 마신 모로크를 성공적으로 봉인 시킬 수 있도록 마신의 조각이 다가오지 못하도록 저지해야 합니다.#
-마신의 조각 처치#
+7573#Magic Swordman Thanatos#SG_FEEL#QUE_NOIMAGE#
+Magic swordman thanatos has to prevent the Magic Seals of the demon from approaching to successfully seal the demon Morocc.#
+Get rid of the Magic Seals#
 
-7574#정보(2)타나토스 타워의 정체#SG_FEEL#QUE_NOIMAGE#
-마계의 게이트에 불과한 탑이 타나토스 타워로 불리게 된 연유엔 마신 모로크의 현계 강림을 마검사 타나토스가 맞서 봉인에 성공했기 때문에 그의 이름이 붙은 것이다.#
+7574#Thanatos Tower#SG_FEEL#QUE_NOIMAGE#
+It is called Thanatos Tower because it is where the magic swordsman sealed the power of Satan Morocc hundreds of years ago.#
 #
 
-7575#마신 추종자#SG_FEEL#QUE_NOIMAGE#
-마신추종자 처치#
+7575#Evil followers#SG_FEEL#QUE_NOIMAGE#
+Destroy the Evil Followers#
 #
 
-7576#정보(3)모로크성의 과거#SG_FEEL#QUE_NOIMAGE#
-현재로부터 수십년 전, 타나토스가 봉인한 마신 모로크를 다시 깨우려는 움지임이 모로크 성에서 있었고 이에 맞서 저지한 것은 어쌔신 길드의 어느 길로틴 크로스였다.#
+7576#Morocc castle seal#SG_FEEL#QUE_NOIMAGE#
+Years from now, someone will try to awaken Satan Morocc in Morocc castle since Thanatos Tower is sealed.#
 #
 
-7577#차원탐사의 후유증#SG_FEEL#QUE_NOIMAGE#
-차원의 틈새를 여행하는 것은 몸에 상당한 무리를 줍니다. 탐사도 중요하지만 일단 쉬고 몸을 회복한 뒤 다시 탐사를 도전해야 합니다.#
-하루 쉬어요.#
+7577#Space distortion#SG_FEEL#QUE_NOIMAGE#
+Exploring time and space causes your body to be in flux. You need to take a break or you will lose your mind.#
+Wait for the timer before re-entering.#
 
 //--- 에피소드 14.3
 
@@ -9953,139 +9953,139 @@ Hunt 30 ^0000FF thief worms^000000, 30^0000FF thief real^000000 from the ^8B4513
 ^8B4513코모도^000000에 위치한 ^0000FF쥬스 협회 홍보 직원^000000의 메시지: "^404040덕분에 해변이 점점 살아나고 있습니다. 하지만 아직도 해변가에는 쓰레기가 많기 때문에 걱정입니다. 20시간 후에 찾아 와 주세요. 도와주실 일이 있을 것 같습니다.^000000"#
 20시간이 지난 후 다시 청소 가능.#
 
-// 영웅의 흔적 : "게펜 마법 대회"
+// The trace of heroes: "Geffen magic competitions"
 
-9284#게펜 깡패를 막아라.#SG_FEEL#QUE_NOIMAGE#
-^8B4513카프라^000000를 괴롭히는 ^0000FF게펜 깡패^000000를 막아야 한다.#
-^8B4513카프라^000000를 구하자.#
+9284#Stopping Geffen Gangsters#SG_FEEL#QUE_NOIMAGE#
+Stop the ^0000FFGeffen Gangsters^000000 from bullying ^8B4513Kafra^000000#
+Save the ^8B4513Kafra^000000.#
 
-9285#게펜 깡패를 물리치다.#SG_FEEL#QUE_NOIMAGE#
-^8B4513게펜 깡패^000000를 물리쳤지만 왠지 다시 만날 것 같다.#
-^8B4513마법대회^000000 등록을 하자.#
+9285#Beating Geffen Gangsters#SG_FEEL#QUE_NOIMAGE#
+You've defeated the ^8B4513Geffen Gangsters^000000 but there might be another encounter soon.#
+Register for the ^8B4513Magic Competition^000000#
 
-9286#게펜 불량배를 막아라.#SG_FEEL#QUE_NOIMAGE#
-^8B4513학생^000000을 괴롭히는 ^0000FF게펜 불량배^000000를 막아야 한다.#
-^8B4513학생^000000을 구하자.#
+9286#Stop Geffen Gangsters#SG_FEEL#QUE_NOIMAGE#
+Stop^0000FF Geffen Gangsters ^000000who is bullying^8B4513 A student^000000#
+Let's save ^8B4513 A student^000000#
 
-9287#게펜 불량배를 물리치다.#SG_FEEL#QUE_NOIMAGE#
-^8B4513게펜 불량배^000000를 물리쳤지만 왠지 다시 만날 것 같다.#
-^8B4513마법대회^000000 등록을 하자.#
+9287#defeating Geffen Gangsters#SG_FEEL#QUE_NOIMAGE#
+You've defeated the ^8B4513Geffen Gangsters^000000 but there might be another encounter soon.#
+Register for the ^8B4513Magic Competition^000000#
 
-9288#게펜 도둑을 잡아라.#SG_FEEL#QUE_NOIMAGE#
-^8B4513주민^000000의 돈을 훔친 ^0000FF게펜 좀도둑^000000을 잡아야 한다.#
-^8B4513좀도둑^000000을 잡아라.#
+9288#Catch a Geffen thief#SG_FEEL#QUE_NOIMAGE#
+Catch the ^0000FFGeffen Shoplifter^000000 who stole the money of a ^8B4513Geffen Resident^000000.#
+Catch the ^0000FFGeffen Shoplifter^000000.#
 
-9289#도둑에게 물건을 되찾다.#SG_FEEL#QUE_NOIMAGE#
-^8B4513게펜 도둑^000000에게서 주민의 월급봉투를 되찾았지만, 왠지 다시 만날 것 같다.#
-^8B4513마법대회^000000 등록을 하자.#
+9289#Get things back from the thief#SG_FEEL#QUE_NOIMAGE#
+A salary of a resident was returned from the ^8B4513Geffen Shoplifter^000000 I think I will meet you again.#
+Register for the ^8B4513Magic Competition^000000#
 
-9290#마법대회 참가.#SG_FEEL#QUE_NOIMAGE#
-^8B4513마법대회^000000 접수원과 대화 후 마법대회에 참가하자.#
-^8B4513마법대회^000000 접수원과 대화 후 마법대회에 참가하자.#
+9290#Participate in Magic competition#SG_FEEL#QUE_NOIMAGE#
+Let's participate in ^8B4513 Magic Competition^000000 after talking to the Receptionist at the south fountain.#
+#
 
-9291#마법대회 참가.#SG_FEEL#QUE_NOIMAGE#
-^8B4513마법대회^000000 접수원과 대화 후 마법대회에 참가하자.#
-^8B4513마법대회^000000 접수원과 대화 후 마법대회에 참가하자.#
+9291# participate in Magic competitions#SG_FEEL#QUE_NOIMAGE#
+Let's participate in ^8B4513 Magic Competition^000000 after talking to the Receptionist at the south fountain.#
+#
 
-9292#마법대회 참가.#SG_FEEL#QUE_NOIMAGE#
-^8B4513마법대회^000000 접수원과 대화 후 마법대회에 참가하자.#
-^8B4513마법대회^000000 접수원과 대화 후 마법대회에 참가하자.#
+9292# participate in Magic competitions#SG_FEEL#QUE_NOIMAGE#
+Let's participate in ^8B4513 Magic Competition^000000 after talking to the Receptionist at the south fountain.#
+#
 
-9293#마법대회 참가 등록 시험.#SG_FEEL#QUE_NOIMAGE#
-^8B4513마법대회^000000에 참가하기 위해서 ^0000FF데저트 울프^000000를 잡아야 한다.#
-^8B4513데저트 울프^000000 사냥.#
+9293# Register in Magic Competition#SG_FEEL#QUE_NOIMAGE#
+Eliminate 1 ^0000FFDesert Wolf^000000 to participate in ^8B4513Magic Competition^000000.#
+Hunt ^8B4513Desert Wolf^000000#
 
-9294#마법대회 참가 등록 완료.#SG_FEEL#QUE_NOIMAGE#
-^8B4513게펜^000000 6시에 있는 ^0000FF포탈^000000로 들어가면 마법대회에 참가 할 수 있다.#
-^8B4513포탈^000000로 입장.#
+9294#Registration Complete#SG_FEEL#QUE_NOIMAGE#
+Enter the ^0000FFportal^000000 under the fountain at the southern part of ^8B4513Geffen^000000 to participate in the Magic Competition.#
+Enter the ^8B4513portal^000000#
 
-9295#마법대회 1경기 시작.#SG_FEEL#QUE_NOIMAGE#
-^8B45131경기 대전 상대^000000에게 승리해야 한다.#
-^8B45131대전 상대^000000에게 승리.#
+9295#1st match of the Competition has started#SG_FEEL#QUE_NOIMAGE#
+Defeat your opponent in battle.#
+#
 
-9296#마법대회 2경기 시작.#SG_FEEL#QUE_NOIMAGE#
-^8B45132경기 대전 상대^000000에게 승리해야 한다.#
-^8B45131대전 상대^000000에게 승리.#
+9296#2nd match of the Competition has started#SG_FEEL#QUE_NOIMAGE#
+Defeat your opponent in battle.#
+#
 
-9297#마법대회 3경기 시작.#SG_FEEL#QUE_NOIMAGE#
-^8B45133경기 대전 상대^000000에게 승리해야 한다.#
-^8B45131대전 상대^000000에게 승리.#
+9297#3rd match of the Competition has started#SG_FEEL#QUE_NOIMAGE#
+Defeat your opponent in battle.#
+#
 
-9298#마법대회 4경기 시작.#SG_FEEL#QUE_NOIMAGE#
-^8B45134경기 대전 상대^000000에게 승리해야 한다.#
-^8B45131대전 상대^000000에게 승리.#
+9298#4th match of the Competition has started#SG_FEEL#QUE_NOIMAGE#
+Defeat your opponent in battle.#
+#
 
-9299#마법대회 5경기 시작.#SG_FEEL#QUE_NOIMAGE#
-^8B45135경기 대전 상대^000000에게 승리해야 한다.#
-^8B45131대전 상대^000000에게 승리.#
+9299#5th match of the Competition has started#SG_FEEL#QUE_NOIMAGE#
+Defeat your opponent in battle.#
+#
 
-9300#마법대회 6경기 시작.#SG_FEEL#QUE_NOIMAGE#
-^8B45136경기 대전 상대^000000에게 승리해야 한다.#
-^8B45131대전 상대^000000에게 승리.#
+9300#6th match of the Competition has started#SG_FEEL#QUE_NOIMAGE#
+Defeat your opponent in battle.#
+#
 
-9301#마법대회 7경기 시작.#SG_FEEL#QUE_NOIMAGE#
-^8B45137경기 대전 상대^000000에게 승리해야 한다.#
-^8B45131대전 상대^000000에게 승리.#
+9301#7th match of the Competition has started#SG_FEEL#QUE_NOIMAGE#
+Defeat your opponent in battle.#
+#
 
-9302#마법대회 8경기 시작.#SG_FEEL#QUE_NOIMAGE#
-^8B45138경기 대전 상대^000000에게 승리해야 한다.#
-^8B45131대전 상대^000000에게 승리.#
+9302#8th match of the Competition has started #SG_FEEL#QUE_NOIMAGE#
+Defeat your opponent in battle.#
+#
 
-9303#마법대회 9경기 시작.#SG_FEEL#QUE_NOIMAGE#
-^8B45139경기 대전 상대^000000에게 승리해야 한다.#
-^8B45131대전 상대^000000에게 승리.#
+9303#9th match of the Competition has started#SG_FEEL#QUE_NOIMAGE#
+Defeat your opponent in battle.#
+#
 
-9304#마법대회 10경기 시작.#SG_FEEL#QUE_NOIMAGE#
-^8B451310경기 대전 상대^000000에게 승리해야 한다.#
-^8B45131대전 상대^000000에게 승리.#
+9304#10th match of the Competition has started#SG_FEEL#QUE_NOIMAGE#
+Defeat your opponent in battle.#
+#
 
-9305#마법대회 11경기 시작.#SG_FEEL#QUE_NOIMAGE#
-^8B451311경기 대전 상대^000000에게 승리해야 한다.#
-^8B45131대전 상대^000000에게 승리.#
+9305#11th match of the Competition has started#SG_FEEL#QUE_NOIMAGE#
+Defeat your opponent in battle.#
+#
 
-9306#마법대회 12경기 시작.#SG_FEEL#QUE_NOIMAGE#
-^8B451312경기 대전 상대^000000에게 승리해야 한다.#
-^8B45131대전 상대^000000에게 승리.#
+9306#12th match of the Competition has started#SG_FEEL#QUE_NOIMAGE#
+Defeat your opponent in battle.#
+#
 
-9307#마법대회 결승 시작.#SG_FEEL#QUE_NOIMAGE#
-^8B4513결승전 대전 상대^000000에게 승리해야 한다.#
-^8B45131펜릴^000000에게 승리.#
+9307#Final match of the Competition has started#SG_FEEL#QUE_NOIMAGE#
+Must defeat the ^8B4513Final match competitor^000000#
+Defeat ^8B45131Fenrir^000000#
 
-9308#마법대회 우승~!.#SG_FEEL#QUE_NOIMAGE#
-^8B4513마법대회^000000를 우승했다. 차원의 균열 입구에 있는 차원의 균열 연구 학자에게 돌아가자.#
-^8B4513균열 속 옛 게펜^000000 탐사 완료.#
+9308# Magic Competition Win~!.#SG_FEEL#QUE_NOIMAGE#
+Win at ^8B4513Magic Competition^^000000 and return to the scholar researching the dimensional gap near the entrance to the tournament.#
+#
 
-9309#마법대회 패배.#SG_FEEL#QUE_NOIMAGE#
-^8B4513마법대회^000000에서 패배했다. 차원의 균열 입구에 있는 차원의 균열 연구 학자에게 돌아가자.#
-^8B4513균열 속 옛 게펜^000000 탐사 완료.#
+9309# Magic competitions^defeat#SG_FEEL#QUE_NOIMAGE#
+Defeated at the ^8B4513Magic competitions^^000000 Return to the scholar researching with what you found.#
+Exploring ^8B4513old Geffen in the crack^000000 is completed#
 
-9310#아이리스와의 만남#SG_FEEL#QUE_NOIMAGE#
-^8B4513아이리스^000000와 대화를 했다. 작은 선물도 받았다.#
-^8B4513아이리스^000000와 대화#
+9310#Encounter Iris#SG_FEEL#QUE_NOIMAGE#
+Speak with^8B4513Iris ^000000. Received a small gift#
+Speak with^8B4513Iris^000000 #
 
-9311#케이아스와의 만남#SG_FEEL#QUE_NOIMAGE#
-^8B4513케이아스^000000와 대화를 했다. 작은 선물도 받았다.#
-^8B4513케이아스^000000와 대화#
+9311#Encounter Chaos#SG_FEEL#QUE_NOIMAGE#
+Speak with^8B4513 Chaos ^000000 to receive a small gift#
+Speak with ^8B4513Chaos^000000#
 
-9312#리디아와의 만남.#SG_FEEL#QUE_NOIMAGE#
-^8B4513리디아^000000와 대화를 했다. 작은 선물도 받았다.#
-^8B4513리디아^000000와 대화#
+9312#Encounter Lydia#SG_FEEL#QUE_NOIMAGE#
+Speak with^8B4513Lydia^000000 to receive a small gift#
+Speak with^8B4513Lydia^000000#
 
-9313#펜릴과의 만남.#SG_FEEL#QUE_NOIMAGE#
-^8B4513펜릴^000000과 대화를 했다. 기회가 된다면 꼭 다시 보고 싶다.#
-^8B4513펜릴^000000과 대화#
+9313#Encounter Fenrir#SG_FEEL#QUE_NOIMAGE#
+Speak with^8B4513 Fenrir^000000. I want to meet if there is another chance #
+Speak with^8B4513 Fenrir^000000#
 
-9314#로키와의 만남.#SG_FEEL#QUE_NOIMAGE#
-^8B4513로키^000000와 대화를했다. 작은 선물도 받았다..#
-^8B4513로키^000000와 대화#
+9314# Encounter Loki#SG_FEEL#QUE_NOIMAGE#
+Speak with ^8B4513Loki^000000 to receive a small gift#
+Speak with ^8B4513Loki^000000#
 
-9315#차원의 균열 탐사#SG_FEEL#QUE_NOIMAGE#
-^8B4513차원의 균열 연구 학자^000000의 메세지: ^0000FF균열 속 옛 게펜^000000으로 가서 마법대회에 관해 알아봐 주게.#
-^8B4513균열 속 게펜^000000 탐사.#
+9315#Exploring the dimensional gap#SG_FEEL#QUE_NOIMAGE#
+The message from ^8B4513a scholar who is researching^000000: Please check out the Magic Competitions.#
+Exploring ^8B4513Geffen in the dimensional gap.^000000#
 
-9316#차원의 균열 재 탐사#SG_FEEL#QUE_NOIMAGE#
-^8B4513차원의 균열 연구 학자^000000의 메세지: 내일 다시 와서 ^0000FF균열 속 옛 게펜^000000의 마법대회에 관해 알아봐 주게.#
-^8B4513균열 속 게펜^000000 재 탐사.#
+9316#Re-exploring the crack of spaces#SG_FEEL#QUE_NOIMAGE#
+The message of ^8B4513a scholar who is research the crack of spaces ^000000: Please check out about magic competitions at ^0000FFold Geffen of crack^000000#
+Exploring ^8B4513Geffen in the cracks ^000000#
 
 // EP 14.3 : "모르스의 동굴"
 
