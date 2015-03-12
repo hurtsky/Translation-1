@@ -4663,6 +4663,8 @@
 6960#Sky_Fortress_Key#
 6963#HP_Restoration_Stone_(Garment_Slot)#
 6964#SP_Restoration_Stone_(Garment_Slot)#
+6993#Safe_to_+10_Weapon_Refine_Ticket#
+6994#Safe_to_+10_Armor_Refine_Ticket#
 7001#Mould_Powder#
 7002#Ogre_Tooth#
 7003#Anolian_Skin#

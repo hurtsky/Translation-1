@@ -9285,7 +9285,7 @@ Weight: ^7777771^000000
 #
 4174#
 Increase tolerance against ^777777Neutral^000000 property attack by 50%.
-Reduce tolerance against other property attack by 100%.
+Reduce tolerance against other property attack by 50%.
 Class: ^777777Card^000000
 Slot: ^777777Garment^000000
 Weight: ^7777771^000000
@@ -9412,7 +9412,7 @@ STR +3
 SP +80
 ATK +25
 A chance of casting level 5 Signum Crusis with each physical attack.
-Ashura Strike Damage +10%
+Asura Strike Damage +10%
 Monk Class Bonus:
 Uninterruptable Cast
 SP consumpion -10%.
@@ -10171,7 +10171,7 @@ Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4251#
-Inflict 30% more damage on Guardians during World of Emperium(Guild Siege) hours.
+Inflict 40% more damage on Guardians during World of Emperium(Guild Siege) hours.
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -10668,7 +10668,7 @@ ATT +25
 A chance of casting
 level 5 Signum Crusis with
 each physical attack.
-Guillotine Fist Damage +10%
+Asura Strike Damage +10%
 Monk Class Bonus:
 Uninterruptable Cast
 SP consumpion -10%.
@@ -10922,7 +10922,7 @@ ATT +25
 A chance of casting
 level 5 Signum Crusis with
 each physical attack.
-Guillotine Fist Damage +10%
+Asura Strike Damage +10%
 Monk Class Bonus:
 Uninterruptable Cast
 SP consumpion -10%.
@@ -11118,7 +11118,7 @@ Weight: ^7777771^000000
 #
 4327#
 Spell casting cannot be interrupted.
-Increase spell casting time by 30%.
+Increase casting time by 30%.
 Inflict 5% more damage with Fire Wall skill.
 ^99FF66Sage Card Set^000000
 ^00FF00Yellow Novus Card^000000
@@ -11227,7 +11227,7 @@ ATK +25, STR +3, SP +80
 A chance of casting
 level 5 Signum Crusis with
 each physical attack.
-Guillotine Fist Damage +10%
+Asura Strike Damage +10%
 Monk Class Bonus:
 Uninterruptable Cast
 SP consumpion -10%.
@@ -12219,11 +12219,9 @@ Slot: ^777777Helm^000000
 Weight: ^7777771^000000
 #
 4435#
-Recovers 50 HP each
-time a monster is
-defeated, and also
-increases physical
-and magic damage to Demihuman enemies by 1%.
+Increases physical and magic damage to Demihuman enemies by 1%.
+Recovers 50 HP  time a monster is defeated by melee attack.
+Combined with the Ragged Zombie Card will recover 2 SP each time a demihuman monster is defeated by melee attack.
 Class: ^777777Card^000000
 Slot: ^777777Shoes^000000
 Weight: ^7777771^000000
@@ -12759,7 +12757,7 @@ Weight: ^7777771^000000
 #
 4507#
 Increases damage to scaraba by 30%.
-When killing an enemy there's a chance of obtaining a Scaraba Summoning scroll.(Not implemented)
+When killing an enemy there's a chance of obtaining a Scaraba Summoning scroll.
 Class: ^777777Card ^000000
 Compound: ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -12974,9 +12972,9 @@ Weight: ^7777771^000000
 4539#
 MATK +5%, MaxSP -50%.
 Increases magic damage to Demihuman and Angel monsters by 25%.
-If compounded equipment is refined to +15 and above,
-MATK +3%, MaxSP -50%.
-Increases magic damage to Demihuman and Angel monsters by 8%.
+If compounded shoes is refined to +15 and above,
+MATK +3%
+Increases magic damage on Demihuman and Angel monsters by 8%.
 Class: ^777777Card^000000
 Compound: ^777777Shoes^000000
 Weight: ^7777771^000000
@@ -21060,6 +21058,14 @@ Stone which can absorb SP.
 Give ability to costume garment slot.
 1% chance to absorb 1% physical damage into SP.
 ^ffffff<NAVI>^4D4DFF[레이스 라 자드]^000000<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>^000000
+#
+6993#
+You can refine your weapon to +10 through ^8B4513Prontera^000000's ^0000FFRefining Expert^000000. -1 time limited-
+Weight: ^7777770^000000
+#
+6994#
+You can refine your armor to +10 through ^8B4513Prontera^000000's ^0000FFRefining Expert^000000. -1 time limited-
+Weight: ^7777770^000000
 #
 7001#
 A handful of soft, powdery mold that is strangely silken to the touch.
