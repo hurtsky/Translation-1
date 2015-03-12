@@ -11993,6 +11993,11 @@ SKILL_DESCRIPT = {
     "Max Level: 1",
     "Description: ^777777Minimize Magic item attack rate^000000"
   },
+  [SKID.MER_INVINCIBLEOFF2] = {
+    "Mind Blaster",
+    "Max Level: 1",
+    "Description: ^777777Disconnect the follers and Devil King's connection to invalidate the Blessing of Masin. Shooting range 2 cells^000000"
+  },
   [SKID.RL_D_TAIL] = {
     "Dragon Tail",
     "Max Level: 5",
