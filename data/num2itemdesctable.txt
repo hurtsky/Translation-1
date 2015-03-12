@@ -44336,6 +44336,7 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 15044#
+Unknown Item, can be identified by [Magnifier].
 #
 15046#
 Unknown Item, can be identified by [Magnifier].
@@ -44347,8 +44348,10 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 15049#
+Unknown Item, can be identified by [Magnifier].
 #
 15050#
+Unknown Item, can be identified by [Magnifier].
 #
 15051#
 Unknown Item, can be identified by [Magnifier].
@@ -44378,29 +44381,40 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 15061#
+Unknown Item, can be identified by [Magnifier].
 #
 15062#
+Unknown Item, can be identified by [Magnifier].
 #
 15063#
+Unknown Item, can be identified by [Magnifier].
 #
 15064#
+Unknown Item, can be identified by [Magnifier].
 #
 15065#
+An item that you should not know
 #
 15066#
+Unknown Item, can be identified by [Magnifier].
 #
 15067#
+Unknown Item, can be identified by [Magnifier].
 #
 15068#
+Unknown Item, can be identified by [Magnifier].
 #
 15069#
+Unknown Item, can be identified by [Magnifier].
 #
 15070#
 Unknown Item, can be identified by [Magnifier].
 #
 15071#
+Unknown Item, can be identified by [Magnifier].
 #
 15072#
+Unknown Item, can be identified by [Magnifier].
 #
 15073#
 Unknown Item, can be identified by [Magnifier].
@@ -44409,8 +44423,10 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 15075#
+Unknown Item, can be identified by [Magnifier].
 #
 15076#
+Unknown Item, can be identified by [Magnifier].
 #
 15077#
 #
