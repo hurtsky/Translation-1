@@ -123,10 +123,10 @@ iz_ac02_b.rsw#Academy 2nd Floor#
 iz_ac01_a.rsw#Academy 1st Floor#
 iz_ac02_a.rsw#Academy 2nd Floor#
 
-izlude_d.rsw#Izlude Town#
-izlude_c.rsw#Izlude Town#
-izlude_b.rsw#Izlude Town#
-izlude_a.rsw#Izlude Town#
+izlude_d.rsw#Satellite city Izlude#
+izlude_c.rsw#Satellite city Izlude#
+izlude_b.rsw#Satellite city Izlude#
+izlude_a.rsw#Satellite city Izlude#
 
 iz_int.rsw#Intro#
 iz_int01.rsw#Intro#
@@ -136,25 +136,25 @@ iz_int04.rsw#Intro#
 iz_ac01.rsw#Academy 1st Floor#
 iz_ac02.rsw#Academy 2nd Floor#
 iz_ng01.rsw#Ninja tutorial map#
-treasure_n1.rsw#이즈루드 난파선 1층#
-treasure_n2.rsw#이즈루드 난파선 2층#
+treasure_n1.rsw#Izlude wreck 1st floor#
+treasure_n2.rsw#Izlude wreck 2nd floor#
 
-moc_prydn1.rsw#Morocc Nightmare Pyramids#
-moc_prydn2.rsw#Morocc Nightmare Pyramids#
+moc_prydn1.rsw#Morocc Pyramid Underground 1st Floor - Challenge#
+moc_prydn2.rsw#Morocc Pyramid Underground 2nd Floor - Challenge#
 
 eclage.rsw#Eclage, Forestic Village#
-ecl_fild01.rsw#Eclage Field 01#
-ecl_in01.rsw#Eclage Indoor 01#
-ecl_in02.rsw#Eclage Indoor 02#
-ecl_in03.rsw#Eclage Indoor 03#
-ecl_in04.rsw#Eclage Indoor 04#
-1@ecl.rsw#Eclage Indoor#
-ecl_tdun01.rsw#Eclage Dungeon 01#
-ecl_tdun02.rsw#Eclage Dungeon 02#
-ecl_tdun03.rsw#Eclage Dungeon 03#
-ecl_tdun04.rsw#Eclage Dungeon 04#
-ecl_hub01.rsw#Eclage Hub 01#
-que_avan01.rsw#Eclage Indoor#
+ecl_fild01.rsw#Blooming Flower Land#
+ecl_in01.rsw#Eclage Indoor 1#
+ecl_in02.rsw#Eclage Indoor 2#
+ecl_in03.rsw#Eclage Indoor 3#
+ecl_in04.rsw#Eclage Indoor 4#
+1@ecl.rsw#Eclage Interior#
+ecl_tdun01.rsw#Eclage Floor 1#
+ecl_tdun02.rsw#Eclage Floor 2#
+ecl_tdun03.rsw#Eclage Floor 3#
+ecl_tdun04.rsw#Eclage Floor 4#
+ecl_hub01.rsw#Eclage Perimeter#
+que_avan01.rsw#Avant's Laboratory#
 
 
 malaya.rsw#Port Malaya#
