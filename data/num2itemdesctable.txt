@@ -7738,7 +7738,7 @@ Unidentified. You can identify it with a Magnifier.
 Unidentified. You can identify it with a Magnifier.
 #
 2874#
-Use [Magnifying Glass] to Identify this Item..
+Unknown Item, can be identified by [Magnifier].
 #
 2875#
 Unknown Item, can be identified by [Magnifier].
@@ -12384,7 +12384,7 @@ No effect.
 "This card is nothing more then a piece of paper that gives you no advantages. - Valkyrie," it says.
 Collectible card that traders may buy.
 Class: ^777777Card^000000
-Compound on: ^777777 Weapon^000000
+Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4455#
@@ -12392,7 +12392,7 @@ No effect.
 "This card is nothing more then a piece of paper that gives you no advantages. - Valkyrie," it says.
 Collectible card that traders may buy.
 Class: ^777777Card^000000
-Compound on: ^777777 Weapon^000000
+Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4456#
@@ -13124,51 +13124,51 @@ Compound on: ^777777Footgear^000000
 Weight: ^7777771^000000
 #
 4560#
-When compounded on with musical instrument, enables use of Poem of Bragi Lv 10.
-FLEE +20, if VIT is 110 or more, additional FLEE + 20.
+When compounded on with musical instrument, enables use of Level 10 ^008800Poem of Bragi^000000.
+FLEE +20
+if VIT is 110 or more, additional FLEE +20.
 Class: ^777777Card^000000
 Compound on: ^777777 Armor^000000
 Weight: ^7777771^000000
 #
 4561#
-High probality of auto casting ^008800Level 5 Land Protector^000000 around the user when the user receives Magical attacks.
-When VIT is 110 or more add FLEE + 20.
-MATK + 7%, When DEX is 110 or more add MATK + 7%.
+High probality of auto casting Level 5^008800 Land Protector^000000 around the user when the user receives Magical attacks.
+MATK +7%, When DEX is 110 or more add MATK +7%.
 Class: ^777777Card^000000
 Compound on: ^777777 Armor^000000
 Weight: ^7777771^000000
 #
 4562#
-High probality of auto casting ^008800Level 5 Investigate^000000 when the user recives physical attacks.
-ATK + 7%, When AGI is 110 or more add ATK + 7%.
+High probality of auto casting Level 5^008800 Investigate^000000 when the user recives physical attacks.
+ATK +7%, When AGI is 110 or more add ATK +7%.
 Class: ^777777Card^000000
 Compound on: ^777777 Armor^000000
 Weight: ^7777771^000000
 #
 4563#
-High probality of auto casting ^008800Level 5 Acid Terror^000000 when the user recives physical attacks.
-CRI + 20, When STR is 110 or more add CRI + 20.
+High probality of auto casting Level 5^008800 Acid Terror^000000 when the user recives physical attacks.
+CRIT +20, When STR is 110 or more add CRIT +20.
 Class: ^777777Card^000000
 Compound on: ^777777 Armor^000000
 Weight: ^7777771^000000
 #
 4564#
-High probality of auto casting ^008800Level 1 Full Strip^000000 when the user recives physical attacks.
-HIT + 20, When LUK is 110 or more add HIT + 20.
+High probality of auto casting Level 1^008800 Full Strip^000000 when the user recives physical attacks.
+HIT +20, When LUK is 110 or more add HIT +20.
 Class: ^777777Card^000000
 Compound on: ^777777 Armor^000000
 Weight: ^7777771^000000
 #
 4565#
-High probality of auto casting ^008800Level 10 Grand Cross^000000 when the user recives physical attacks.
-MHP + 10%, When INT is 110 or more add MHP + 10%.
+High probality of auto casting Level 10^008800 Grand Cross^000000 when the user recives physical attacks.
+MaxHP +10%, When INT is 110 or more add MaxHP +10%.
 Class: ^777777Card^000000
 Compound on: ^777777 Armor^000000
 Weight: ^7777771^000000
 #
 4566#
-Enables use of ^008800Level 10 Fortune's kiss^000000 (if you equipped whip or music instrumentral).
-FLEE + 20. When VIT is 110 or more add FLEE + 20.
+Enables use of Level 10^008800 Fortune's kiss^000000 (if you equipped whip or music instrumentral).
+FLEE +20. When VIT is 110 or more add FLEE +20.
 Class: ^777777Card^000000
 Compound on: ^777777 Armor^000000
 Weight: ^7777771^000000
@@ -13178,42 +13178,42 @@ FLEE +10.
 [^008800Bard Class^000000]
 MaxHP +10%, MaxSP +5%.
 Class: ^777777Card^000000
-Compound on: ^777777 Garment^000000
+Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4568#
 FLEE +10.
-Enables use of ^008800Level 1 Abracadabra^000000.
+Enables use of Level 1^008800 Abracadabra^000000.
 Class: ^777777Card^000000
-Compound on: ^777777 Garment^000000
+Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4569#
 FLEE +10.
-Enables use of ^008800Level 2 Call Spirits^000000.
+Enables use of Level 2^008800 Call Spirits^000000.
 Class: ^777777Card^000000
-Compound on: ^777777 Garment^000000
+Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4570#
 FLEE +10.
-Increase value of Red, Orange, Yellow and White Potion by 200%.
+Increase effectiveness of Red, Orange, Yellow and White Potion by 200%.
 Class: ^777777Card^000000
-Compound on: ^777777 Garment^000000
+Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4571#
 FLEE +10.
-Enables use of ^008800Level 1 Close Confine^000000.
+Enables use of Level 1^008800 Close Confine^000000.
 Class: ^777777Card^000000
-Compound on: ^777777 Garment^000000
+Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4572#
 FLEE +10.
-Enables use of ^008800Level 3 Auto Guard^000000.
+Enables use of Level 3^008800 Auto Guard^000000.
 Class: ^777777Card^000000
-Compound on: ^777777 Garment^000000
+Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4573#
@@ -13221,14 +13221,14 @@ FLEE +10.
 [^008800Dancer Class^000000]
 MaxHP +10%, MaxSP +5%.
 Class: ^777777Card^000000
-Compound on: ^777777 Garment^000000
+Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4574#
 [^000088 + One-Handed Sword ^000000]
 ATK +100.
 Class: ^777777Card^000000
-Compound on: ^777777 Weapon^000000
+Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4575#
@@ -13237,35 +13237,35 @@ ATK + 10.
 If refine to +10 or more add ASPD +1.
 If refine to +14 or more add ASPD +1.
 Class: ^777777Card^000000
-Compound on: ^777777 Weapon^000000
+Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4576#
-Increases damage inflicted with magic ^009900Wind^000000 Property by 100%.
+Wind/Ghost Magic damage +100%.
 Decrease resistance to all atribute attacks by 30%.
 Class: ^777777Card^000000
-Compound on: ^777777 Garment^000000
+Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4577#
-Increases damage inflicted with magic ^009900Wind^000000 Property by 20%.
+Wind/Ghost Magic damage +20%.
 Class: ^777777Card^000000
-Compound on: ^777777 Accessory^000000
+Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4578#
 Increase critial damage by 30%.
-Increases damage from normal monsters and players by 10%.
+Increases damage received from all monsters races by 10%.
 Class: ^777777Card^000000
-Compound on: ^777777 Weapon^000000
+Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4579#
 [^000088 + Mace Weapon^000000]
-ATK + 20, CRI + 10.
-Each refine increase ATK + 1, CRI + 1.
+ATK +20, CRIT +10.
+Each refine increase ATK +1, CRIT +1.
 Class: ^777777Card^000000
-Compound on: ^777777 Weapon^000000
+Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4580#
@@ -13276,13 +13276,13 @@ Compound on: ^777777 Garment^000000
 Weight: ^7777771^000000
 #
 4581#
-Physical attacks have a chance to increase movement speed for 3 seconds,AGI +44 but at the same time lose 40 SP.
+Physical attacks have a chance to increase movement speed for 3 seconds, AGI +44 but at the same time lose 40 SP.
 Class: ^777777Card^000000
 Compound on: ^777777 Garment^000000
 Weight: ^7777771^000000
 #
 4582#
-Each 2 refine, MHP + 1%.
+Each 2 refine, MaxHP + 1%.
 Class: ^777777Card^000000
 Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
@@ -13296,57 +13296,60 @@ Weight: ^7777771^000000
 #
 4584#
 Regain 1 SP with each attack.
-MSP - 1%.
+MaxSP -1%.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4585#
-Increases Maximun SP + 10%.
+MaxSP +10%.
 Drain 666 HP each time an enemy is killed.
 Class: ^777777Card^000000
 Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4586#
-MATK + 10, increases damage of wind element magic attacks by 5%.
+MATK +10, increases damage of wind element magic attacks by 5%.
 If the upgrade level is 9 or higher, add an additional 5% wind element magic attacks.
 Class: ^777777Card^000000
 Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4587#
-Add a Critical Rate + 12 on Demi Human, Brute and Fish monsters.
+Add a Critical Rate +12 on Demi Human, Brute and Fish monsters.
 Class: ^777777Card^000000
 Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4588#
-Every 10 base STR, you gain + 5 ATK.
+Every 10 base STR, you gain +5 ATK.
 Class: ^777777Card^000000
 Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4589#
-Every 10 base VIT, you gain + 200 HP.
+Every 10 base VIT, you gain +200 HP.
 Class: ^777777Card^000000
 Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4590#
-INT + 4, Adds a high chance of inflicting the Sleep status to the attacking enemy each time the wearer is magically attacked.
+INT +4
+Magic attacks from enemies create a high chance of casting Sleep on enemies within a 23x23 cell area around you.
 Class: ^777777Card^000000
 Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4591#
-STR + 4, Adds a high chance of inflicting the Bleeding status to the attacking enemy each time the wearer is physically attacked.
+STR +4
+Physical attacks from enemies create a high chance of casting Bleeding on enemies within a 23x23 cell area around you.
 Class: ^777777Card^000000
 Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4592#
-VIT + 4, Adds a high chance of inflicting the Stone Curse status to the attacking enemy each time the wearer is magically attacked.
+VIT +4
+Magic attacks from enemies create a high chance of casting Petrification on enemies within a 23x23 cell area around you.
 Class: ^777777Card^000000
 Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -13364,47 +13367,47 @@ Compound on: ^777777 Garment^000000
 Weight: ^7777771^000000
 #
 4595#
-Each 10 pure AGI points increase ASPD 2%.
+Each 10 pure AGI points increase ASPD by 2%.
 Class: ^777777Card^000000
 Compound on: ^777777 Garment^000000
 Weight: ^7777771^000000
 #
 4596#
-Each 10 pure INT points add MATK + 5.
+Each 10 pure INT points add MATK +5.
 Class: ^777777Card^000000
 Compound on: ^777777 Garment^000000
 Weight: ^7777771^000000
 #
 4597#
-MATK + 10, increases damage inflicted with magic ^0000FFWater^000000 Property by 5%.
+MATK +10, increases damage inflicted with magic ^0000FFWater^000000 Property by 5%.
 If refine to +9 or more increases damage inflicted with magic ^0000FFWater^000000 Property by 5%.
 Class: ^777777Card^000000
 Compound on: ^777777 Headgear^000000
 Weight: ^7777771^000000
 #
 4598#
-MATK + 10, increases damage inflicted with magic ^777777Ghost^000000 Property by 5%.
+MATK +10, increases damage inflicted with magic ^777777Ghost^000000 Property by 5%.
 If refine to +9 or more increases damage inflicted with magic ^777777Ghost^0000000 Property by 5%.
 Class: ^777777Card^000000
 Compound on: ^777777 Headgear^000000
 Weight: ^7777771^000000
 #
 4599#
-MATK + 10, increases damage inflicted with magic ^FF0000Fire^000000 Property by 5%.
+MATK +10, increases damage inflicted with magic ^FF0000Fire^000000 Property by 5%.
 If refine to +9 or more increases damage inflicted with magic ^FF0000Fire^000000 Property by 5%.
 Class: ^777777Card^000000
 Compound on: ^777777 Headgear^000000
 Weight: ^7777771^000000
 #
 4600#
-MATK + 10, increases damage inflicted with magic ^996600Earth^000000 Property by 5%.
+MATK +10, increases damage inflicted with magic ^996600Earth^000000 Property by 5%.
 If refine to +9 or more increases damage inflicted with magic ^996600Earth^000000 Property by 5%.
 Class: ^777777Card^000000
 Compound on: ^777777 Headgear^000000
 Weight: ^7777771^000000
 #
 4601#
-ATK + 15%, MATK + 15%.
+ATK +15%, MATK +15%.
 Each 4 seconds lost 666 HP and 66 SP.
 Drain 6666 HP and 666 SP as the armor is unequipped.
 Class: ^777777Card^000000
@@ -13412,7 +13415,7 @@ Compound on: ^777777 Armor^000000
 Weight: ^7777771^000000
 #
 4602#
-ATK + 20%, MATK + 20%.
+ATK +20%, MATK +20%.
 Each 6 seconds lost 666 HP and 66 SP.
 Drain 6666 HP and 666 SP as the armor is unequipped.
 Class: ^777777Card^000000
@@ -13420,21 +13423,21 @@ Compound on: ^777777 Armor^000000
 Weight: ^7777771^000000
 #
 4603#
-ATK + 20.
-High probality of auto casting ^008800Level 1 Dragon Fear^000000 when the user doing physical attacks.
+ATK +20.
+Melee Physical attacks create a high chance of casting Petrification, Sleep, and Curse on all monsters within a 5x5 cell area around you.
 Class: ^777777Card^000000
-Compound on: ^777777 Weapon^000000
+Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4604#
-ATK + 30.
-High probality of auto casting ^008800Level 2 Dragon Fear^000000 when the user doing physical attacks.
+ATK +30.
+Melee Physical attacks create a high chance of casting Petrification, Sleep, and Curse on all monsters within a 11x11 cell area around you.
 Class: ^777777Card^000000
-Compound on: ^777777 Weapon^000000
+Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4605#
-MHP - 44%.
+MaxHP -44%.
 When kill monster with physical attacks HP recovery 200, (Each refine increase recovery by 10).
 Drain 4444 HP as the armor is unequipped.
 [^000088 + Grudge of Royal Knight Card ^000000]
@@ -13458,12 +13461,12 @@ Compound on: ^777777 Garment^000000
 Weight: ^7777771^000000
 #
 4607#
-ATK + 5, MATK + 5.
+ATK +5, MATK +5.
 [^000088 + Weapons Type Books ^000000]
-If refine to +10 or more add ATK + 20, MATK + 20.
-If refine to +14 or more add ATK + 20, MATK + 20.
+If refine to +10 or more add ATK +20, MATK +20.
+If refine to +14 or more add ATK +20, MATK +20.
 Class: ^777777Card^000000
-Compound on: ^777777 Weapon^000000
+Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4608#
@@ -13473,7 +13476,7 @@ Increase damage inflicted on medium and large size monsters by 20%.
 Increase damage inflicted on medium and large size monsters by 15%.
 Receive 5% less damage from medium and large size monsters.
 Class: ^777777Card^000000
-Compound on: ^777777 Weapon^000000
+Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4609#
@@ -19949,12 +19952,12 @@ Weight: ^7777771^000000
 #
 6671#
 ^FF0000Cannot be traded^000000
-The coins that can be exchanged for goods to give to those who participated in the Geffen Magic tournament
+This coin, given to the participants of the Geffen Magic Competition, can be exchanged for prizes.
 Weight: ^7777770^000000
 #
 6672#
 ^FF0000Cannot be traded^000000
-Remember the old abandoned piece of sakeurayi is contained. The power to stand up to the story of the curse is potential.
+This shard is sustained with Sakray's old, abandoned memories that have the ability to resist the Cursed Knight.
 Weight: ^7777770^000000
 #
 6673#
@@ -25226,6 +25229,7 @@ Weight: ^7777771^000000
 7640#
 #
 7641#
+A first-aid kit. It also comes with a simple, easy-to-follow manual.
 #
 7642#
 #
@@ -44392,7 +44396,7 @@ Unknown Item, can be identified by [Magnifier].
 15069#
 #
 15070#
-Use [Magnifying Glass] to Identify this Item..
+Unknown Item, can be identified by [Magnifier].
 #
 15071#
 #
@@ -44609,26 +44613,22 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 16022#
+Unknown Item, can be identified by [Magnifier].
 #
 16023#
+Unknown Item, can be identified by [Magnifier].
 #
 16024#
+Unknown Item, can be identified by [Magnifier].
 #
 16025#
+Unknown Item, can be identified by [Magnifier].
 #
 16026#
-A mace made of pure gold created for the 2012 RWC (Ragnarok World Championship)
-For every 3 refine levels Increases Atk power x30.
-If refined to +6 or higher, Increases Atk damage to all monsters.
-If refined to +9 or higher, additional Atk increase damage to all monsters and has a chance of auto-casting lvl 1 Weapon Perfection
-Class: ^777777Mace^000000
-Attack: ^777777100^000000
-Weight: ^77777780^000000
-Weapon Level: ^7777773^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Swordman Class/Acolyte Class/Merchant Class^000000
+Unknown Item, can be identified by [Magnifier].
 #
 16027#
+Unknown Item, can be identified by [Magnifier].
 #
 16028#
 Unknown Item, can be identified by [Magnifier].
@@ -52811,7 +52811,7 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 19586#
-Use [Magnifying Glass] to Identify this Item..
+Unknown Item, can be identified by [Magnifier].
 #
 19587#
 Unknown Item, can be identified by [Magnifier].
@@ -56701,7 +56701,7 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 28000#
-Use [Magnifying Glass] to Identify this Item..
+Unknown Item, can be identified by [Magnifier].
 #
 28001#
 Unknown Item, can be identified by [Magnifier].

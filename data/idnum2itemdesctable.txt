@@ -5945,17 +5945,19 @@ Required Level: ^77777740^000000
 Jobs: ^777777Swordsman Class^000000
 #
 1438#
-...
-Chance to drain 5% HP/SP every melee attack.
-INT +6, VIT +6, LUK -6
-Drains 100 HP every 10 seconds
-MATK +100
-Class: ^777777One Hand Spear^000000
+This magic spear, made to counteract the Devil Sword Thanatos, is sculpted out of Gray Shard.
+It offers incredible power and mana at a great cost.
+INT +6. VIT +6. LUK -6.
+Creates a low chance of regaining HP and SP from 5% of your damage dealt while you are Physically attacking.
+Drains 100 HP every 10 seconds.
+Drains 1,000 HP when unequipped.
+MATK +100.
+Class: ^777777One-Handed Spear^000000
 Attack: ^777777150^000000
 Weight: ^777777300^000000
 Weapon Level: ^7777774^000000
 Required Level: ^777777120^000000
-Jobs: ^777777Swordsman Class^000000
+Jobs: ^777777Swordsman Classes^000000
 #
 1441#
 Blue Spear which has destructive power.
@@ -6555,9 +6557,10 @@ Required Level: ^77777740^000000
 Jobs: ^777777Swordsman Class^000000
 #
 1496#
-...
+This two-handed magic spear, made to counteract the Devil Sword Thanatos, is sculpted out of Gray Shard.
+It offers incredible power and mana at a great cost.
 INT +6, VIT +6, LUK -6
-Chance to drain 5% HP/SP on every attack
+Chance to drain 5% HP/SP on every physsical attack
 Drain 100 HP every 10 seconds
 Drain 1000 HP when unequip this item
 MATK +50
@@ -8652,6 +8655,8 @@ Required Level: ^77777780^000000
 Jobs: ^777777Wizard and Soul Linker^000000
 #
 1669#
+This magic staff, made to counteract the Devil Sword Thanatos, is sculpted out of Gray Shard.
+It offers incredible power and mana at a great cost.
 INT +6, VIT +6, LUK -6
 Heal efecienct increased by 15%.
 Magical attacks have a chance to restore HP and SP.
@@ -8663,7 +8668,7 @@ Attack: ^777777100^000000
 Weight: ^777777100^000000
 Weapon Level: ^7777774^000000
 Required Level: ^777777120^000000
-Jobs: ^777777Third Wizard/AcolyteClass^000000
+Jobs: ^777777Third Wizard and Acolyte Class^000000
 #
 1670#
 A staff created for the 2012 RWC (Ragnarok World Championship) infused with pure gold.
@@ -8682,8 +8687,8 @@ Required Level: ^7777771^000000
 Jobs: ^777777Mage, Acolyte Classes, and Soul Linker^000000
 #
 1671#
-Increase magic damage against demon and undead monster by 10%,
-Increase damage received from demon and undead monster by 10%
+This staff was once used for vanquishing an evil slayer and his followers.
++10% ATK/MATK against Demon and Undead monsters.
 Refined to +9, increase MATK by 5%.
 Refined to +12, increase MATK by 7%.
 MATK +155
@@ -9992,10 +9997,12 @@ Jobs: ^777777Priest and Monk Class^000000
 [JRO item]
 #
 1836#
+This magic knuckle, made to counteract the Devil Sword Thanatos, is sculpted out of Gray Shard.
+It offers incredible power and mana at a great cost.
 INT +6, VIT +6, LUK -6.
 Low chance to drain 5% of attack into HP and SP.
-Drain 100 HP every 10 seconds.
-When unequipped drain 1000 HP.
+Drains 100 HP every 10 seconds.
+Drains 1000 HP when unequipped.
 MATK +100
 Class: ^777777Knuckles^000000
 Attack: ^777777160^000000
@@ -10444,11 +10451,13 @@ Required Level: ^77777740^000000
 Jobs: ^777777Bard Only^000000
 #
 1933#
+This magic violin, made to counteract the Devil Sword Thanatos, is sculpted out of Gray Shard.
+It offers incredible power and mana at a great cost.
 INT +6, VIT +6, LUK -6.
 Low chance to drain 5% of attack into HP and SP.
 Increase 20% ranged attack damage.
-Drain 100 HP every 10 seconds.
-Drain 1000 HP when unequipped.
+Drains 100 HP every 10 seconds.
+Drains 1000 HP when unequipped.
 MATK +130
 Class: ^777777Musical Instrument^000000
 Attack: ^777777200^000000
@@ -10992,11 +11001,13 @@ Required Level: ^77777740^000000
 Jobs: ^777777Dancer Only^000000
 #
 1988#
+This whip, made to counteract the Devil Sword Thanatos, is sculpted out of Gray Shard.
+It offers incredible power and mana at a great cost.
 INT +6, VIT +6, LUK -6.
 Low chance to drain 5% of attack into HP and SP.
 Increase 20% ranged attack damage.
-Drain 100 HP every 10 seconds.
-Drain 1000 HP when unequipped.
+Drains 100 HP every 10 seconds.
+Drains 1000 HP when unequipped.
 MATK +130
 Class: ^777777Whip^000000
 Attack: ^777777200^000000
@@ -11400,11 +11411,13 @@ Required Level: ^777777150^000000
 Jobs: ^777777High WizardClass^000000
 #
 2023#
+This magic staff, made to counteract the Devil Sword Thanatos, is sculpted out of Gray Shard.
+It offers incredible power and mana at a great cost.
 INT +6, VIT +6, LUK -6
 Increase Heal eficiency by 18%.
 Magical attack has chance to restore HP and SP.
-Drain 100 HP every 10 seconds.
-Drain 1000 HP as the item is unequipped.
+Drains 100 HP every 10 seconds.
+Drains 1000 HP as the item is unequipped.
 MATK +250
 Class: ^777777Two Handed Staff^000000
 Attack: ^777777120^000000
@@ -12266,7 +12279,7 @@ Jobs: ^777777Novice Class^000000
 [JRO item]
 #
 2185#
-Excellent Shield with ability to reflect magic.
+This anti-magic shield effectively reflects magic.
 MDEF +10.
 3% chance to reflect magic damage.
 Refined to +7, increase reflect chance by 3%.
@@ -12278,11 +12291,9 @@ Required Level: ^77777799^000000
 Jobs: ^777777All^000000
 #
 2186#
-Great Encyclopedia published by famaous Prontera Editor.
-Its hard cover can be used to resist enemy attack.
-MATK +5, INT +3,
-DEX +2, CRI +3
-Refined to +7, increase Crit by 2.
+A revised edition of an encyclopedia that is printed by a Prontera publisher. Thick and sharp-edged, this book is popularly used as a shield.
+MATK +5, INT +3, DEX +2, CRIT +3
+Refined to +7, increase CRIT by 2.
 Refined to +9, increase MATK by 5.
 [+^008800Encyclopedia[2]^000000]
 Every refine of Encyclopedia[2], increase ASPD by 1%.
@@ -12295,7 +12306,7 @@ Required Level: ^77777799^000000
 Jobs: ^777777Priest, Sage and Star Gladiator^000000
 #
 2187#
-Shield with dark aura.
+Shield surrounded by dark aura.
 Has the ability to resist divine power.
 30% Holy resistance
 MDEF +10.
@@ -19654,9 +19665,9 @@ Jobs: ^777777All^000000
 2962#
 #
 2963#
-Geffen developed magic ring, can enhance the body's ability.
+This magic ring, developed in Geffen, enhances its wearer's physical abilities.
 ATK +5%
-When equipped with Anti-magic robe increase ASPD +5%
+When equipped with Anti-magic Suit increase ASPD +5%
 When equipped with Geffen magic robe, reduce after cast delay by 5% and reduce damage received from demi human monster by 5%
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
@@ -19665,7 +19676,9 @@ Required Level: ^77777790^000000
 Jobs: ^777777All^000000
 #
 2964#
+This magic ring developed in Geffen enhances its wearer's magical abilities.
 MATK +5%
+[+^008800Geffen Magic Robe^000000]
 Reduce variable cast time by 5%
 [+^008800Anti-Magic Suits^000000]
 Reduce after cast delay by 5%, reduce damage from demi human monster by 5%.
@@ -24296,7 +24309,7 @@ No effect.
 "This card is nothing more then a piece of paper that gives you no advantages. - Valkyrie," it says.
 Collectible card that traders may buy.
 Class: ^777777Card^000000
-Compound on: ^777777 Weapon^000000
+Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4455#
@@ -24304,7 +24317,7 @@ No effect.
 "This card is nothing more then a piece of paper that gives you no advantages. - Valkyrie," it says.
 Collectible card that traders may buy.
 Class: ^777777Card^000000
-Compound on: ^777777 Weapon^000000
+Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4456#
@@ -25036,51 +25049,51 @@ Compound on: ^777777Footgear^000000
 Weight: ^7777771^000000
 #
 4560#
-When compounded on with musical instrument, enables use of Poem of Bragi Lv 10.
-FLEE +20, if VIT is 110 or more, additional FLEE + 20.
+When compounded on with musical instrument, enables use of Level 10 ^008800Poem of Bragi^000000.
+FLEE +20
+if VIT is 110 or more, additional FLEE +20.
 Class: ^777777Card^000000
 Compound on: ^777777 Armor^000000
 Weight: ^7777771^000000
 #
 4561#
-High probality of auto casting ^008800Level 5 Land Protector^000000 around the user when the user receives Magical attacks.
-When VIT is 110 or more add FLEE + 20.
-MATK + 7%, When DEX is 110 or more add MATK + 7%.
+High probality of auto casting Level 5^008800 Land Protector^000000 around the user when the user receives Magical attacks.
+MATK +7%, When DEX is 110 or more add MATK +7%.
 Class: ^777777Card^000000
 Compound on: ^777777 Armor^000000
 Weight: ^7777771^000000
 #
 4562#
-High probality of auto casting ^008800Level 5 Investigate^000000 when the user recives physical attacks.
-ATK + 7%, When AGI is 110 or more add ATK + 7%.
+High probality of auto casting Level 5^008800 Investigate^000000 when the user recives physical attacks.
+ATK +7%, When AGI is 110 or more add ATK +7%.
 Class: ^777777Card^000000
 Compound on: ^777777 Armor^000000
 Weight: ^7777771^000000
 #
 4563#
-High probality of auto casting ^008800Level 5 Acid Terror^000000 when the user recives physical attacks.
-CRI + 20, When STR is 110 or more add CRI + 20.
+High probality of auto casting Level 5^008800 Acid Terror^000000 when the user recives physical attacks.
+CRIT +20, When STR is 110 or more add CRIT +20.
 Class: ^777777Card^000000
 Compound on: ^777777 Armor^000000
 Weight: ^7777771^000000
 #
 4564#
-High probality of auto casting ^008800Level 1 Full Strip^000000 when the user recives physical attacks.
-HIT + 20, When LUK is 110 or more add HIT + 20.
+High probality of auto casting Level 1^008800 Full Strip^000000 when the user recives physical attacks.
+HIT +20, When LUK is 110 or more add HIT +20.
 Class: ^777777Card^000000
 Compound on: ^777777 Armor^000000
 Weight: ^7777771^000000
 #
 4565#
-High probality of auto casting ^008800Level 10 Grand Cross^000000 when the user recives physical attacks.
-MHP + 10%, When INT is 110 or more add MHP + 10%.
+High probality of auto casting Level 10^008800 Grand Cross^000000 when the user recives physical attacks.
+MaxHP +10%, When INT is 110 or more add MaxHP +10%.
 Class: ^777777Card^000000
 Compound on: ^777777 Armor^000000
 Weight: ^7777771^000000
 #
 4566#
-Enables use of ^008800Level 10 Fortune's kiss^000000 (if you equipped whip or music instrumentral).
-FLEE + 20. When VIT is 110 or more add FLEE + 20.
+Enables use of Level 10^008800 Fortune's kiss^000000 (if you equipped whip or music instrumentral).
+FLEE +20. When VIT is 110 or more add FLEE +20.
 Class: ^777777Card^000000
 Compound on: ^777777 Armor^000000
 Weight: ^7777771^000000
@@ -25090,42 +25103,42 @@ FLEE +10.
 [^008800Bard Class^000000]
 MaxHP +10%, MaxSP +5%.
 Class: ^777777Card^000000
-Compound on: ^777777 Garment^000000
+Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4568#
 FLEE +10.
-Enables use of ^008800Level 1 Abracadabra^000000.
+Enables use of Level 1^008800 Abracadabra^000000.
 Class: ^777777Card^000000
-Compound on: ^777777 Garment^000000
+Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4569#
 FLEE +10.
-Enables use of ^008800Level 2 Call Spirits^000000.
+Enables use of Level 2^008800 Call Spirits^000000.
 Class: ^777777Card^000000
-Compound on: ^777777 Garment^000000
+Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4570#
 FLEE +10.
-Increase value of Red, Orange, Yellow and White Potion by 200%.
+Increase effectiveness of Red, Orange, Yellow and White Potion by 200%.
 Class: ^777777Card^000000
-Compound on: ^777777 Garment^000000
+Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4571#
 FLEE +10.
-Enables use of ^008800Level 1 Close Confine^000000.
+Enables use of Level 1^008800 Close Confine^000000.
 Class: ^777777Card^000000
-Compound on: ^777777 Garment^000000
+Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4572#
 FLEE +10.
-Enables use of ^008800Level 3 Auto Guard^000000.
+Enables use of Level 3^008800 Auto Guard^000000.
 Class: ^777777Card^000000
-Compound on: ^777777 Garment^000000
+Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4573#
@@ -25133,14 +25146,14 @@ FLEE +10.
 [^008800Dancer Class^000000]
 MaxHP +10%, MaxSP +5%.
 Class: ^777777Card^000000
-Compound on: ^777777 Garment^000000
+Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4574#
 [^000088 + One-Handed Sword ^000000]
 ATK +100.
 Class: ^777777Card^000000
-Compound on: ^777777 Weapon^000000
+Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4575#
@@ -25149,35 +25162,35 @@ ATK + 10.
 If refine to +10 or more add ASPD +1.
 If refine to +14 or more add ASPD +1.
 Class: ^777777Card^000000
-Compound on: ^777777 Weapon^000000
+Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4576#
-Increases damage inflicted with magic ^009900Wind^000000 Property by 100%.
+Wind/Ghost Magic damage +100%.
 Decrease resistance to all atribute attacks by 30%.
 Class: ^777777Card^000000
-Compound on: ^777777 Garment^000000
+Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4577#
-Increases damage inflicted with magic ^009900Wind^000000 Property by 20%.
+Wind/Ghost Magic damage +20%.
 Class: ^777777Card^000000
-Compound on: ^777777 Accessory^000000
+Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4578#
 Increase critial damage by 30%.
-Increases damage from normal monsters and players by 10%.
+Increases damage received from all monsters races by 10%.
 Class: ^777777Card^000000
-Compound on: ^777777 Weapon^000000
+Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4579#
 [^000088 + Mace Weapon^000000]
-ATK + 20, CRI + 10.
-Each refine increase ATK + 1, CRI + 1.
+ATK +20, CRIT +10.
+Each refine increase ATK +1, CRIT +1.
 Class: ^777777Card^000000
-Compound on: ^777777 Weapon^000000
+Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4580#
@@ -25188,13 +25201,13 @@ Compound on: ^777777 Garment^000000
 Weight: ^7777771^000000
 #
 4581#
-Physical attacks have a chance to increase movement speed for 3 seconds,AGI +44 but at the same time lose 40 SP.
+Physical attacks have a chance to increase movement speed for 3 seconds, AGI +44 but at the same time lose 40 SP.
 Class: ^777777Card^000000
 Compound on: ^777777 Garment^000000
 Weight: ^7777771^000000
 #
 4582#
-Each 2 refine, MHP + 1%.
+Each 2 refine, MaxHP + 1%.
 Class: ^777777Card^000000
 Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
@@ -25208,57 +25221,60 @@ Weight: ^7777771^000000
 #
 4584#
 Regain 1 SP with each attack.
-MSP - 1%.
+MaxSP -1%.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4585#
-Increases Maximun SP + 10%.
+MaxSP +10%.
 Drain 666 HP each time an enemy is killed.
 Class: ^777777Card^000000
 Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4586#
-MATK + 10, increases damage of wind element magic attacks by 5%.
+MATK +10, increases damage of wind element magic attacks by 5%.
 If the upgrade level is 9 or higher, add an additional 5% wind element magic attacks.
 Class: ^777777Card^000000
 Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4587#
-Add a Critical Rate + 12 on Demi Human, Brute and Fish monsters.
+Add a Critical Rate +12 on Demi Human, Brute and Fish monsters.
 Class: ^777777Card^000000
 Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4588#
-Every 10 base STR, you gain + 5 ATK.
+Every 10 base STR, you gain +5 ATK.
 Class: ^777777Card^000000
 Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4589#
-Every 10 base VIT, you gain + 200 HP.
+Every 10 base VIT, you gain +200 HP.
 Class: ^777777Card^000000
 Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4590#
-INT + 4, Adds a high chance of inflicting the Sleep status to the attacking enemy each time the wearer is magically attacked.
+INT +4
+Magic attacks from enemies create a high chance of casting Sleep on enemies within a 23x23 cell area around you.
 Class: ^777777Card^000000
 Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4591#
-STR + 4, Adds a high chance of inflicting the Bleeding status to the attacking enemy each time the wearer is physically attacked.
+STR +4
+Physical attacks from enemies create a high chance of casting Bleeding on enemies within a 23x23 cell area around you.
 Class: ^777777Card^000000
 Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4592#
-VIT + 4, Adds a high chance of inflicting the Stone Curse status to the attacking enemy each time the wearer is magically attacked.
+VIT +4
+Magic attacks from enemies create a high chance of casting Petrification on enemies within a 23x23 cell area around you.
 Class: ^777777Card^000000
 Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -25276,47 +25292,47 @@ Compound on: ^777777 Garment^000000
 Weight: ^7777771^000000
 #
 4595#
-Each 10 pure AGI points increase ASPD 2%.
+Each 10 pure AGI points increase ASPD by 2%.
 Class: ^777777Card^000000
 Compound on: ^777777 Garment^000000
 Weight: ^7777771^000000
 #
 4596#
-Each 10 pure INT points add MATK + 5.
+Each 10 pure INT points add MATK +5.
 Class: ^777777Card^000000
 Compound on: ^777777 Garment^000000
 Weight: ^7777771^000000
 #
 4597#
-MATK + 10, increases damage inflicted with magic ^0000FFWater^000000 Property by 5%.
+MATK +10, increases damage inflicted with magic ^0000FFWater^000000 Property by 5%.
 If refine to +9 or more increases damage inflicted with magic ^0000FFWater^000000 Property by 5%.
 Class: ^777777Card^000000
 Compound on: ^777777 Headgear^000000
 Weight: ^7777771^000000
 #
 4598#
-MATK + 10, increases damage inflicted with magic ^777777Ghost^000000 Property by 5%.
+MATK +10, increases damage inflicted with magic ^777777Ghost^000000 Property by 5%.
 If refine to +9 or more increases damage inflicted with magic ^777777Ghost^0000000 Property by 5%.
 Class: ^777777Card^000000
 Compound on: ^777777 Headgear^000000
 Weight: ^7777771^000000
 #
 4599#
-MATK + 10, increases damage inflicted with magic ^FF0000Fire^000000 Property by 5%.
+MATK +10, increases damage inflicted with magic ^FF0000Fire^000000 Property by 5%.
 If refine to +9 or more increases damage inflicted with magic ^FF0000Fire^000000 Property by 5%.
 Class: ^777777Card^000000
 Compound on: ^777777 Headgear^000000
 Weight: ^7777771^000000
 #
 4600#
-MATK + 10, increases damage inflicted with magic ^996600Earth^000000 Property by 5%.
+MATK +10, increases damage inflicted with magic ^996600Earth^000000 Property by 5%.
 If refine to +9 or more increases damage inflicted with magic ^996600Earth^000000 Property by 5%.
 Class: ^777777Card^000000
 Compound on: ^777777 Headgear^000000
 Weight: ^7777771^000000
 #
 4601#
-ATK + 15%, MATK + 15%.
+ATK +15%, MATK +15%.
 Each 4 seconds lost 666 HP and 66 SP.
 Drain 6666 HP and 666 SP as the armor is unequipped.
 Class: ^777777Card^000000
@@ -25324,7 +25340,7 @@ Compound on: ^777777 Armor^000000
 Weight: ^7777771^000000
 #
 4602#
-ATK + 20%, MATK + 20%.
+ATK +20%, MATK +20%.
 Each 6 seconds lost 666 HP and 66 SP.
 Drain 6666 HP and 666 SP as the armor is unequipped.
 Class: ^777777Card^000000
@@ -25332,21 +25348,21 @@ Compound on: ^777777 Armor^000000
 Weight: ^7777771^000000
 #
 4603#
-ATK + 20.
-High probality of auto casting ^008800Level 1 Dragon Fear^000000 when the user doing physical attacks.
+ATK +20.
+Melee Physical attacks create a high chance of casting Petrification, Sleep, and Curse on all monsters within a 5x5 cell area around you.
 Class: ^777777Card^000000
-Compound on: ^777777 Weapon^000000
+Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4604#
-ATK + 30.
-High probality of auto casting ^008800Level 2 Dragon Fear^000000 when the user doing physical attacks.
+ATK +30.
+Melee Physical attacks create a high chance of casting Petrification, Sleep, and Curse on all monsters within a 11x11 cell area around you.
 Class: ^777777Card^000000
-Compound on: ^777777 Weapon^000000
+Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4605#
-MHP - 44%.
+MaxHP -44%.
 When kill monster with physical attacks HP recovery 200, (Each refine increase recovery by 10).
 Drain 4444 HP as the armor is unequipped.
 [^000088 + Grudge of Royal Knight Card ^000000]
@@ -25370,12 +25386,12 @@ Compound on: ^777777 Garment^000000
 Weight: ^7777771^000000
 #
 4607#
-ATK + 5, MATK + 5.
+ATK +5, MATK +5.
 [^000088 + Weapons Type Books ^000000]
-If refine to +10 or more add ATK + 20, MATK + 20.
-If refine to +14 or more add ATK + 20, MATK + 20.
+If refine to +10 or more add ATK +20, MATK +20.
+If refine to +14 or more add ATK +20, MATK +20.
 Class: ^777777Card^000000
-Compound on: ^777777 Weapon^000000
+Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4608#
@@ -25385,7 +25401,7 @@ Increase damage inflicted on medium and large size monsters by 20%.
 Increase damage inflicted on medium and large size monsters by 15%.
 Receive 5% less damage from medium and large size monsters.
 Class: ^777777Card^000000
-Compound on: ^777777 Weapon^000000
+Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4609#
@@ -38913,12 +38929,12 @@ Weight: ^7777771^000000
 #
 6671#
 ^FF0000Cannot be traded^000000
-The coins that can be exchanged for goods to give to those who participated in the Geffen Magic tournament
+This coin, given to the participants of the Geffen Magic Competition, can be exchanged for prizes.
 Weight: ^7777770^000000
 #
 6672#
 ^FF0000Cannot be traded^000000
-Remember the old abandoned piece of sakeurayi is contained. The power to stand up to the story of the curse is potential.
+This shard is sustained with Sakray's old, abandoned memories that have the ability to resist the Cursed Knight.
 Weight: ^7777770^000000
 #
 6673#
@@ -44319,6 +44335,7 @@ Weight: ^7777771^000000
 7640#
 #
 7641#
+A first-aid kit. It also comes with a simple, easy-to-follow manual.
 #
 7642#
 #
@@ -54558,8 +54575,8 @@ Required Level: ^7777771^000000
 Jobs: ^777777All except Acolyte Class^000000
 #
 13093#
-Magic dagger of Tanos that has been cursed.
-Altought it has great power, this dagger also contain magic power
+This dagger, made to counteract the Devil Sword Thanatos, is sculpted out of Gray Shard.
+It offers incredible power and mana at a great cost.
 INT +6, VIT +6, LUK -6
 Physical attack has chance to drain 5% of damage into HP and SP.
 Drain 100 HP every 10 seconds.
@@ -54573,7 +54590,7 @@ Required Level: ^777777120^000000
 Jobs: ^777777Swordman, Archer, Merchant and Thief^000000
 #
 13094#
-A dagger that can pierce demons and his legion's defense
+This dagger was once used for vanquishing an evil slayer and his followers.
 Increase damage against Demon and Undead by 10%
 Refine level +9, ATK +5%
 Refine level +12, ATK +7%
@@ -56739,6 +56756,8 @@ Required Level: ^7777771^000000
 Jobs: ^777777Novice, Swordman, Thief and Merchant^000000
 #
 13441#
+This sword, made to counteract the Devil Sword Thanatos, is sculpted out of Gray Shard.
+It offers incredible power and mana at a great cost.
 INT +6, VIT +6, LUK -6
 Low chance to absorp 5% of attack into SP.
 Drain 1000 HP when unequipped.
@@ -67170,15 +67189,21 @@ Class: ^777777Trans Job^000000
 15072#
 #
 15073#
-...
+This suit, developed in Geffen over a long period of time, effectively protects its wearer against potent magic.
+MaxHP +5%, MDEF +10.
+MDEF +5 when upgraded to +7. MaxHP +2% when upgraded to +9.
 Class: ^777777Armor^000000
 Defense: ^77777750^000000
 Weight: ^777777150^000000
 Required Level: ^77777799^000000
-Class: ^777777All^000000
+Jobs: ^777777All^000000
 #
 15074#
-...
+This uniform worn by the Geffen Mages enhances its wearer's concentration while he casts spells.
+10% SP Cost Reduction.
+Increased Variable Cast Time +15%. Casting cannot be interrupted.
+Additional 5% SP Cost Reduction when upgraded to +7.
+Reduce Variable Cast Time 5% when upgraded to +9.
 Class: ^777777Armor^000000
 Defense: ^77777740^000000
 Weight: ^777777100^000000
@@ -67231,8 +67256,24 @@ Required Level: ^77777780^000000
 Class: ^777777All except novice^000000
 #
 15090#
+Sculpted out of Gray Shard and infused with Sakray's old, abandoned memories, this armor protects its wearer against holiness and fear.
+Holy Resistance +10%.
+Additional Holy Resistance +2 % per Upgrade level.
+Class: ^777777Armor^000000
+Defense: ^77777790^000000
+Weight: ^777777240^000000
+Required Level: ^777777120^000000
+Jobs: ^777777Swordsman, Archer, Merchant, and Thief Classes^000000
 #
 15091#
+Sculpted out of Gray Shard and infused with Sakray's old, abandoned memories, this robe protects its wearer against holiness and fear.
+Holy Resistance +10 %.
+Additional Holy Resistance +2 % per Upgrade level.
+Class: ^777777Armor^000000
+Defense: ^77777755^000000
+Weight: ^777777130^000000
+Required Level: ^777777120^000000
+Jobs: ^777777Mage and Acolyte 3rd Classes^000000
 #
 15092#
 #
@@ -67751,8 +67792,31 @@ Required Level: ^7777771^000000
 Jobs: ^777777Swordman Class/Acolyte Class/Merchant Class^000000
 #
 16027#
+This hammer was once used for vanquishing an evil slayer and his followers.
++10% ATK against Demon/Undead monsters.
+ATK +5% when upgraded to +9.
+ATK +7% when upgraded to +12.
+Class: ^777777Mace^000000
+Attack: ^777777125^000000
+Weight: ^777777135^000000
+Weapon Level: ^7777773^000000
+Required Level: ^777777100^000000
+Jobs: ^777777Novice, Swordsman, Acolyte, and Merchant Classes^000000
 #
 16028#
+This hammer, made to counteract the Devil Sword Thanatos, is sculpted out of Gray Shard.
+It offers incredible power and mana at a great cost.
+INT +6. VIT +6. LUK -6.
+Creates a low chance of regaining HP and SP from 5% of your damage dealt while you are Physically attacking.
+Consumes 100 HP every 10 seconds.
+Consumes 1,000 HP when unequipped.
+MATK +120.
+Class: ^777777Blunt Weapon^000000
+Attack: ^777777180^000000
+Weight: ^777777300^000000
+Weapon Level: ^7777774^000000
+Required Level: ^777777120^000000
+Jobs: ^777777Swordsman, Merchant, and Acolyte 3rd Classes^000000
 #
 16029#
 Small chance to cast Turn Undead Level 6.
@@ -74893,8 +74957,8 @@ Required Level: ^77777740^000000
 Jobs: ^777777Archer Class, Thief and Rogue^000000
 #
 18119#
-Cursed bow made from fragment of Tarthanos sword.
-Has high attack and magic power.
+This bow, made to counteract the Devil Sword Thanatos, is sculpted out of Gray Shard.
+It offers incredible power and mana at a great cost.
 INT +6, VIT +6, LUK -6
 Has low chance to drain 5% of damage inflicted into HP and SP.
 Drain 100 HP every 10 second.
@@ -74908,7 +74972,7 @@ Required Level: ^777777120^000000
 Jobs: ^777777Third Archer Class^000000
 #
 18120#
-Pierce the demons and his follower.
+This bow was once used for vanquishing an evil slayer and his followers.
 Increase damage against demon and undead monster by 10%.
 Refined to +9, ATK +5%.
 Refined to +12, ATK +7%.
@@ -78066,7 +78130,7 @@ Level Requirement : ^7777771^000000
 Jobs: ^777777All^000000
 #
 18820#
-Helmet made from piece of earth, make you remember of past memories that protect you from sacred power.
+Sculpted out of Gray Shard and infused with Sakray's old, abandoned memories, this helm protects its wearer against holiness and fear.
 Increase holy resistance by 3%
 Every 2 refine increase holy resistance by 1%.
 Class: ^777777Headgear ^000000
@@ -78074,7 +78138,7 @@ Defense: ^77777735^000000
 Location: ^777777Upper^000000
 Weight: ^77777745^000000
 Required Level: ^777777120^000000
-Jobs: ^777777Third Jobs^000000
+Jobs: ^777777Third classes^000000
 #
 18821#
 A feather decorated with elaborately bright colors to celebrate the 2012 RWC.
@@ -86694,10 +86758,18 @@ Jobs: ^777777All^000000
 20720#
 #
 20721#
-Manteau made from piece of earth, make you remember of past memories that protect you from sacred power.
-Holy resistance +5%.
-Every 2 refine increase holy resistance +1%.
-[unfinished]
+Sculpted out of Gray Shard and infused with Sakray's old, abandoned memories, this manteau protects its wearer against holiness and fear.
+Holy Resistance 5%.
+Additional Holy Resistance +1% per 2 Upgrade levels.
++15% Neutral Resistance when equipped with Armor Of Gray, Gray Helmet, and Boots Of Gray.
+Lets you respond to Melee Physical damage with a chance of casting Level 3 Drain Life.
++15% Neutral Resistance when equipped with Gray Robe, Gray Helmet, and Boots Of Gray. +25% MaxHP/MaxSP. +10% MATK.
+Class: ^777777Armor^000000
+Defense: ^77777745^000000
+Location: ^777777Garment^000000
+Weight: ^77777760^000000
+Required Level: ^777777120^000000
+Job: ^7777773rd Classes^000000
 #
 20722#
 #
@@ -87042,11 +87114,12 @@ Jobs: ^777777Knight/Crusader class^000000
 21008#
 #
 21009#
-Has Great Power of Strength and Speed.
+This great sword, made to counteract the Devil Sword Thanatos, is sculpted out of Gray Shard.
+It offers incredible power and mana at a great cost.
 INT +6, VIT +6, LUK -6
 When Receiving Physical Attack,5% less chance of HP,SP Drain.
-Per 10 Seconds,-100HP.
--1000HP When Unequipped.
+Drains 100 HP every 10 seconds.
+Drains 1,000 HP when unequipped.
 MATK +120
 Class: ^777777Sword^000000
 Attack: ^777777280^000000
@@ -87056,6 +87129,7 @@ Required Level: ^777777120^000000
 Class: ^777777Swordsman Class^000000
 #
 21010#
+This two-handed sword was once used for vanquishing an evil slayer and his followers.
 Increase damage against Demon and Undead monster by 10%.
 Refined to +9, increase ATK by 5%
 Refined to +12, increase ATK by 7%
@@ -87348,14 +87422,14 @@ Jobs: ^777777Novice^000000
 22032#
 #
 22033#
-Increase Holy Resistance by 2%
-[Per 3 Refine]Increases Holy Resistance by 1%
-Class: Armor
-Defense: 25
-Location: Shoes
-Weight: 40
-Required Level: 120
-Class: 3rd Job Only
+Sculpted out of Gray Shard and infused with Sakray's old, abandoned memories, these shoes protect their wearer against holiness and fear.
+Holy Resistance 2%.
+Additional Holy Resistance +1% per 3 Upgrade levels.
+Class: ^777777Footwear^000000
+Defense: ^77777725^000000
+Weight: ^77777740^000000
+Required Level: ^777777120^000000
+Job: ^7777773rd Classes^000000
 #
 22034#
 #
@@ -91685,7 +91759,8 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 28000#
-Has great speed and strength
+This katar, made to counteract the Devil Sword Thanatos, is sculpted out of Gray Shard.
+It offers incredible power and mana at a great cost.
 INT +6, VIT +6, LUK -6
 Has chance of drain 5% of physical attack into HP and SP
 Drain 100 HP every 10 seconds.
@@ -91699,7 +91774,7 @@ Required Level: ^777777120^000000
 Class: ^777777Guillotine Cross^000000
 #
 28001#
-...
+This katar was once used for vanquishing an evil slayer and his followers.
 Increase 10% damage against Demon and Undead monster
 Refined to +9 : Increase 5% ATK
 Refined to +12 : Increase 7% ATK
@@ -91763,12 +91838,12 @@ Required Level: ^777777170^000000
 Jobs: ^777777Assassin^000000
 #
 28100#
-North Equips to combat Equips of Earth.
-Has Great Power of Speed and Strength
+This two-handed axe, made to counteract the Devil Sword Thanatos, is sculpted out of Gray Shard.
+It offers incredible power and mana at a great cost.
 INT +6, VIT +6, LUK -6
-When Receiving Physical Attack,5% Less chance of HP,SP Drain.
-Per 10 Seconds,-100HP.
--1000HP When Unequipped.
+Creates a low chance of regaining HP and SP from 5% of your damage dealt while you are Physically attacking.
+Consumes 100 HP every 10 seconds.
+Consumes 1,000 HP when unequipped.
 MATK +80
 Class: ^777777Two-Handed Axe^000000
 Attack: ^777777300^000000
