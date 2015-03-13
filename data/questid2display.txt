@@ -3607,11 +3607,11 @@ Please wait for 24 hours for quest#
 Please wait for 24 hours for quest#
 #
 
-//Frogs
+// Frog Hat
 
-5000#The Crow of the Fate - 7#SG_FEEL#QUE_NOIMAGE#
-Go back to Benjamin in Morocc and tell him about Oliver Hilpert#
-Benjamin#
+5000#Crisis of Endangered Race#SG_FEEL#QUE_NOIMAGE#
+Our great frog race is now endangered because many travellers came here and take our eggs as a kind of souvenirs. I even heard there are many left on the ground here and there, so I need your help. Please bring back ^FF0000100 Frogspawns^000000#
+Bring ^FF0000100 Frogspawns^000000#
 
 5001#King Froggie VII's revenge#SG_FEEL#QUE_NOIMAGE#
 King Froggie VII asked you to get revenge on the Side Winders that keep killing his frog brethren. Kill 50 Side Winders and return to him.#
