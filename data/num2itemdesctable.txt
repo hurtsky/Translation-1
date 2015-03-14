@@ -861,7 +861,7 @@ Weight: ^7777773^000000
 #
 663#
 This is a popular food in traditional Korean festivals. It's made by filling a woven straw, cone shaped container with rice, and then pine needles are used to cover it.
-Restore 10% of Max HP.
+Restore 10% of MaxHP.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -6497,79 +6497,60 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2601#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777710^000000
 #
 2602#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777710^000000
 #
 2603#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777710^000000
 #
 2604#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777710^000000
 #
 2605#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777710^000000
 #
 2607#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777710^000000
 #
 2608#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777710^000000
 #
 2609#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777710^000000
 #
 2610#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777710^000000
 #
 2611#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777710^000000
 #
 2612#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777710^000000
 #
 2613#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777710^000000
 #
 2614#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777710^000000
 #
 2615#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777710^000000
 #
 2616#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777775^000000
 #
 2617#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777710^000000
 #
 2618#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777710^000000
 #
 2619#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777710^000000
 #
 2620#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777710^000000
 #
 2621#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -7253,67 +7234,25 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2834#
-^000088Rental Item^000000
-A Jewelry Ring that contains a 3 Seal Magic Spell.
-Enables use of Level 1 Heal and Level 1 Teleport. Casting cannot be interrupted.
-All Stats +1. Increases casting time by 10%.
-Class: ^777777Accessory^000000
-Defense: ^7777770^000000			Weight: ^7777770^000000
-Jobs: ^777777All^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2835#
-^000088Rental Item^000000
-An esoteric ring that enables its wearer to amplify his hidden powers.
-CRIT +10%
-Class: ^777777Accessory^000000
-Defense: ^7777770^000000			Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Except Novice^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2836#
-^000088Rental Item^000000
-An ancient glove.
-DEX +4
-Class: ^777777Accessory^000000
-Defense: ^7777770^000000			Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Except Novice^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2837#
-^000088Rental Item^000000
-A strange ring that curiously raises its wearer's defenses.
-DEF +5 , MDEF +5
-Class: ^777777Accessory^000000
-Defense: ^7777770^000000			Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Except Novice^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2838#
-^000088Rental Item^000000
-An ancient necklace.
-VIT +4
-Class: ^777777Accessory^000000
-Defense: ^7777770^000000			Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Except Novice^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2839#
-^000088Rental Item^000000
-An ancient ring.
-STR +4
-Class: ^777777Accessory^000000
-Defense: ^7777770^000000			Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Except Novice^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2840#
-^000088Rental Item^000000
-An ancient rosary.
-LUK +4, MDEF +5
-Class: ^777777Accessory^000000
-Defense: ^7777770^000000			Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Except Novice^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2841#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -7761,13 +7700,13 @@ Weight: ^7777771^000000
 #
 4002#
 VIT +1
-Max HP +100
+MaxHP +100
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4003#
-Max HP +700
+MaxHP +700
 Class: ^777777Card^000000
 Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -7814,33 +7753,33 @@ Compound on: ^777777Footgear^000000
 Weight: ^7777771^000000
 #
 4010#
-Max SP +80
+MaxSP +80
 Class: ^777777Card^000000
 Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4011#
 VIT +1
-Max HP +100
+MaxHP +100
 Class: ^777777Card^000000
 Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4012#
-Max HP +400
+MaxHP +400
 Class: ^777777Card^000000
 Compound on: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4013#
-Max HP +5%
+MaxHP +5%
 Class: ^777777Card^000000
 Compound on: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4014#
-Max HP +400
-Max SP +50
+MaxHP +400
+MaxSP +50
 Class: ^777777Card^000000
 Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -7865,7 +7804,7 @@ Weight: ^7777771^000000
 #
 4018#
 INT +1
-Max SP +10
+MaxSP +10
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -7878,8 +7817,8 @@ Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4020#
-Enable a 5% chance of inflicting the ^880000Blind^000000 status on an enemy with each attack.
 ATK +5
+Enable a 5% chance of inflicting the ^880000Blind^000000 status on an enemy with each attack.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -7911,8 +7850,8 @@ Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4025#
-Enable a 2% chance of inflicting the ^880000Stun^000000 status on an enemy with each attack.
 ATK +10
+Enable a 2% chance of inflicting the ^880000Stun^000000 status on an enemy with each attack.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -7950,7 +7889,7 @@ Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4031#
-Max HP +10%
+MaxHP +10%
 Class: ^777777Card^000000
 Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -7991,7 +7930,7 @@ HP Recovery +10%
 STR +4
 +20% Mammonite Damage
 +1 SP per attack.
-+7% Max HP/SP
++7% MaxHP/SP
 Alchemist Class Bonus:
 A chance of auto casting level 1 Adrenaline Rush when attacking physically.
 A low chance of obtaining Glistening Coat and/or Stem when defeating monsters.
@@ -8000,8 +7939,8 @@ Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4037#
-Enable a 5% chance of inflicting the ^880000Poison^000000 status on an enemy with each attack.
 ATK +5
+Enable a 5% chance of inflicting the ^880000Poison^000000 status on an enemy with each attack.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -8039,15 +7978,15 @@ Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4041#
-Increase resistance to ^880000Sleep^000000 status by 20%.
 DEF +1
+Increase resistance to ^880000Sleep^000000 status by 20%.
 Class: ^777777Card^000000
 Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4042#
-Increase resistance to ^7BCC70Wind^000000 property attacks by 10%.
 DEF +2
+Increase resistance to ^7BCC70Wind^000000 property attacks by 10%.
 Class: ^777777Card^000000
 Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -8404,7 +8343,7 @@ Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4097#
-Max HP +10%
+MaxHP +10%
 AGI +1
 Class: ^777777Card^000000
 Compound on: ^777777Footgear^000000
@@ -8425,7 +8364,7 @@ Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4100#
-Max SP +15%
+MaxSP +15%
 SP Recovery +3%
 Class: ^777777Card^000000
 Compound on: ^777777Footgear^000000
@@ -8470,7 +8409,7 @@ Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4107#
-Max HP/SP +8%
+MaxHP/SP +8%
 Class: ^777777Card^000000
 Compound on: ^777777Footgear^000000
 Weight: ^7777771^000000
@@ -8574,7 +8513,7 @@ Weight: ^7777771^000000
 #
 4123#
 Enable effect of the Endure skill so long as the Footgear to which this card is compounded is equipped.
-Max HP -25%
+MaxHP -25%
 Class: ^777777Card^000000
 Compound on: ^777777Footgear^000000
 Weight: ^7777771^000000
@@ -8819,7 +8758,7 @@ Weight: ^7777771^000000
 #
 4160#
 STR +2.
-Max HP and Max SP +10% if the shoes is upgraded up to +9 or higher.
+MaxHP and MaxSP +10% if the shoes is upgraded up to +9 or higher.
 Class: ^777777Card^000000
 Slot: ^777777Shoes^000000
 Weight: ^7777771^000000
@@ -8877,13 +8816,13 @@ Weight: ^7777771^000000
 #
 4168#
 Add the chance of auto casting level 5 Meteor Storm skill on an enemy when the user receives Physical Damage.
-If the user is equipped with an item compounded to the Dark Illusion card, it adds Max HP, Max SP +20%.
+If the user is equipped with an item compounded to the Dark Illusion card, it adds MaxHP, MaxSP +20%.
 Class: ^777777Card^000000
 Slot: ^777777Shoes^000000
 Weight: ^7777771^000000
 #
 4169#
-Max HP, Max SP -10%.
+MaxHP, MaxSP -10%.
 Reduce spell casting time by 10%.
 If the user is equipped with an item compounded to the Dark Lord card, it reduces Variable Casting Time by 20%.
 Class: ^777777Card^000000
@@ -9093,7 +9032,7 @@ A chance of gaining 'Old Purple Box' each time a monster is killed.
 STR +4
 +20% Mammonite Damage
 +1 SP per attack.
-+7% Max HP/SP
++7% MaxHP/SP
 Alchemist Class Bonus:
 A chance of auto casting level 1 Adrenaline Rush when attacking physically.
 A low chance of obtaining Glistening Coat and/or Stem when defeating monsters.
@@ -9156,7 +9095,7 @@ Weight: ^7777771^000000
 #
 4193#
 Has 20% chance of auto casting Level 1 Endure on Novice or Super Novice when receiving Physical Damage.
-If the user is equipped with an item to the Quve card, it adds +300 Max HP.
+If the user is equipped with an item to the Quve card, it adds +300 MaxHP.
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
@@ -9430,7 +9369,7 @@ Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4218#
-VIT -3, Max HP +1000 and HP natural recovery -20%.
+VIT -3, MaxHP +1000 and HP natural recovery -20%.
 If the user is equipped with an item compounded to the Inccubus card,
 it adds VIT +4 and HP natural recovery +30%.
 Class: ^777777Card^000000
@@ -9455,7 +9394,7 @@ DEF +2, MDEF +2.
 A chance to cast level 1 Weapon Perfection when attacking.
 A chance of gaining 'Red Potion' each time a monster is killed.
 STR +10
-Max HP +20%
+MaxHP +20%
 HP Regen +50%
 Swordman Class:
 +50% HP Restoration when using Red, Yellow, and White Potions.
@@ -9611,7 +9550,7 @@ a monster is killed.
 STR +4
 +20% Mammonite Damage
 +1 SP per attack.
-+7% Max HP/SP
++7% MaxHP/SP
 Alchemist Class Bonus:
 A chance of auto casting
 level 1 Adrenaline Rush
@@ -9714,7 +9653,7 @@ Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4241#
-Max HP +300.
+MaxHP +300.
 Increase HP/SP Recovery by 100%, if the user has 77 or more LUK points.
 Class: ^777777Card^000000
 Slot: ^777777Helmet^000000
@@ -9722,7 +9661,7 @@ Weight: ^7777771^000000
 #
 4242#
 VIT +2.
-Max HP +800 if the armor is upgraded up to +9 or higher.
+MaxHP +800 if the armor is upgraded up to +9 or higher.
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -9738,7 +9677,7 @@ Add the chance of auto
 casting level 1 Sight
 around the user when
 receiving Physical Damage.
-Max HP +300, VIT +1.
+MaxHP +300, VIT +1.
 ^6A5ACDClocktower Card Set^000000
 ^3CB371Tower Keeper Card^000000
 ^3CB371Punk Card^000000
@@ -9933,7 +9872,7 @@ Slot: ^777777Shoes^000000
 Weight: ^7777771^000000
 #
 4258#
-INT +1, Max SP +50.
+INT +1, MaxSP +50.
 ^99FF66Sage Card Set^000000
 ^00FF00Yellow Novus Card^000000
 ^00FF00Evil Nymph Card^000000
@@ -10042,7 +9981,7 @@ Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4269#
-INT -3, Max SP +150 and SP natural recovery -20%.
+INT -3, MaxSP +150 and SP natural recovery -20%.
 If the user is equipped with an item compounded to the Succubus card,
 it adds INT +4 and SP natural recovery +30%.
 Class: ^777777Card^000000
@@ -10199,7 +10138,7 @@ a monster is killed.
 STR +4
 +20% Mammonite Damage
 +1 SP per attack.
-+7% Max HP/SP
++7% MaxHP/SP
 Alchemist Class Bonus:
 A chance of auto casting
 level 1 Adrenaline Rush
@@ -10252,7 +10191,7 @@ Weight: ^7777771^000000
 #
 4288#
 INT +2.
-Increase Max SP by
+Increase MaxSP by
 an amount equal to
 triple the number of the character's Job Level.
 Class: ^777777Card^000000
@@ -10325,7 +10264,7 @@ Weight: ^7777771^000000
 #
 4294#
 Add the chance of auto casting Level 1 Increase AGI on Novice or Super Novice when physical damage is received.
-If the user is equipped with an item which is compounded to the Lude card, it adds +60 Max SP.
+If the user is equipped with an item which is compounded to the Lude card, it adds +60 MaxSP.
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
@@ -10631,7 +10570,7 @@ Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4319#
-Max HP +300.
+MaxHP +300.
 Inflict 10% more damage
 with Bash skill
 if the shoes is upgraded
@@ -10978,7 +10917,7 @@ LUK +2
 STR +4
 +20% Mammonite Damage
 +1 SP per attack.
-+7% Max HP/SP
++7% MaxHP/SP
 Alchemist Class Bonus:
 A chance of auto casting
 level 1 Adrenaline Rush
@@ -11093,8 +11032,8 @@ Weight: ^7777771^000000
 Restores 50 HP
 and 10 SP every
 10 seconds, and
-increases Max HP
-and Max SP by 10%.
+increases MaxHP
+and MaxSP by 10%.
 Class: ^777777Card^000000
 Compound on: ^777777Shoes^000000
 #
@@ -11315,9 +11254,9 @@ Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4376#
-Increases Max SP
+Increases MaxSP
 by 50%, but reduces
-Max HP by 40%.
+MaxHP by 40%.
 Adds a low chance of
 dropping Bananas when
 defeating monsters.
@@ -11337,14 +11276,14 @@ Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4378#
-Increases Max HP
-and Max SP by 4%.
+Increases MaxHP
+and MaxSP by 4%.
 When the compounded
 shoes's upgrade level
 is no greater than 4,
 these bonuses are
-increased to Max HP
-+8% and Max SP +8%,
+increased to MaxHP
++8% and MaxSP +8%,
 and adds SP and
 HP Recovery +5%.
 Class: ^777777Card^000000
@@ -11593,11 +11532,11 @@ Swordman, Merchant,
 and Thief class
 characters, this card
 adds STR +2 and
-Max HP +5%. When
+MaxHP +5%. When
 equipped by Archer
 class characters, this
 card adds INT +2
-and Max SP +5%.
+and MaxSP +5%.
 Class: ^777777Card^000000
 Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
@@ -11647,7 +11586,7 @@ Weight: ^7777771^000000
 4409#
 MATK +5%, DEF -10,
 [^6A5ACDMage Class^000000]
-Max SP +100
+MaxSP +100
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 #
@@ -11867,7 +11806,7 @@ Weight: ^7777771^000000
 #
 4435#
 Increases physical and magic damage to Demihuman enemies by 1%.
-Recovers 50 HP  time a monster is defeated by melee attack.
+Recovers 50 HP time a monster is defeated by melee attack.
 Combined with the Ragged Zombie Card will recover 2 SP each time a demihuman monster is defeated by melee attack.
 Class: ^777777Card^000000
 Slot: ^777777Shoes^000000
@@ -11905,8 +11844,8 @@ Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4438#
-Max SP +100 and
-Max HP -100 if the
+MaxSP +100 and
+MaxHP -100 if the
 wearer is a Mage
 class character.
 Increases damage of
@@ -13186,7 +13125,7 @@ Weight: ^7777771^000000
 4631#
 Increase Attack Speed (After-attack delay reduces by 3%).
 Class: ^777777Card^000000
-Compound on: ^777777Accesory^000000
+Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4632#
@@ -13194,7 +13133,7 @@ Add a chance of auto casting level 1 Whirlwind when dealing physical attack.
 If the user has mastered the skill at level 5, it will cast level 5 instead.
 If the user is equipped with an accessory compounded to ^008800Owl Viscount Card^000000, add a chance of auto casting level 1 Lord of Vermilion when dealing physical attack.
 Class: ^777777Card^000000
-Compound on: ^777777Accesory^000000
+Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4633#
@@ -13244,13 +13183,13 @@ Weight: ^7777771^000000
 4639#
 ATK +1%
 Class: ^777777Card^000000
-Compound on: ^777777Accesory^000000
+Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4640#
 MATK +1%
 Class: ^777777Card^000000
-Compound on: ^777777Accesory^000000
+Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4641#
@@ -20651,7 +20590,7 @@ Weight: ^77777710^000000
 6951#
 A power stone.
 Increase a stat in costume's lower slot.
-Max HP +1%.
+MaxHP +1%.
 ^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
@@ -28002,7 +27941,7 @@ Weight: ^77777720^000000
 12027#
 Restores an amount
 of HP equal to 9% of
-the user's Max HP, but
+the user's MaxHP, but
 each use has a 30%
 chance of inflicting the^FFFFFF ^000000 Curse status on the
 user for 30 seconds.
@@ -28050,7 +27989,7 @@ Weight: ^77777720^000000
 12034#
 Restores an amount
 of SP equal to 9% of
-the user's Max SP, but
+the user's MaxSP, but
 each use has a 30%
 chance of inflicting
 the Mute effect on the
@@ -28884,7 +28823,7 @@ and regrettably hazy
 memories of the night
 before when drank in
 excess. Recovers 50%
-of Max HP and SP, but
+of MaxHP and SP, but
 has a 10% chance of
 casting the Chaos
 effect on its user.
@@ -30785,7 +30724,7 @@ Weight: ^7777771^000000
 #
 12459#
 A sizeable bottle of Yggdrasil Tree Sap that is effective in healing wounds.
-Restores an amount of HP equal of 7% of your Max HP every 4 seconds for a 10 minute duration.
+Restores an amount of HP equal of 7% of your MaxHP every 4 seconds for a 10 minute duration.
 The effect is not active at the state of berserk.
 When a character is incapable of combat, the effect of item disappears.
 ^ffffff_^000000
@@ -30793,7 +30732,7 @@ Weight: ^7777771^000000
 #
 12460#
 A sizeable bottle of Yggdrasil Tree Sap that is effective in healing wounds.
-Restores an amount of HP equal of 5% of your Max HP every 5 seconds for a 10 minute duration.
+Restores an amount of HP equal of 5% of your MaxHP every 5 seconds for a 10 minute duration.
 The effect is not active at the state of berserk.
 When a character is incapable of combat, the effect of item disappears.
 ^ffffff_^000000
@@ -32755,7 +32694,7 @@ A military combat knife designed for killing humanoids.
 Ignores Demihuman monster physical defense.
 Reduces damage from Demihuman monsters by 10%, but increases damage inflicted by Devil monsters by 10%.
 Restores 3 SP when hitting a monster.
-Max SP +10%.
+MaxSP +10%.
 This item cannot be Dropped or Traded.
 Class: ^777777Dagger^000000
 Attack: ^777777129^000000
@@ -32896,7 +32835,8 @@ Class: ^777777Helmet^000000
 Defense: ^7777777^000000
 Head Position: ^777777Upper^000000
 Weight: ^7777771^000000
-Required Level: ^7777771^000000^FFFFFF				 ^000000 Jobs: ^777777All Except Novice^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All Except Novice^000000
 #
 12948#
 A box that contains:
@@ -32944,9 +32884,12 @@ For some, it is an
 incredible turn-on.
 INT +1
 This item cannot be Dropped or Traded.
-Class: ^777777Helmet^000000		Defense: ^7777772^000000
-Head Position: ^777777Mid^000000		Weight: ^7777771^000000
-Required Level: ^7777771^000000^FFFFFF				 ^000000 Jobs: ^777777All Except Novice^000000
+Class: ^777777Helmet^000000
+Defense: ^7777772^000000
+Head Position: ^777777Mid^000000
+Weight: ^7777771^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All Except Novice^000000
 #
 12952#
 A box that contains:
@@ -32956,12 +32899,13 @@ Duration: 7 Days after opening
 A small flower made
 of steel. Has a low
 chance to cast Lvl 1
-Recovery when its wearer^FFFFFF	^000000 receives physical damage.
+Recovery when its wearer receives physical damage.
 This item cannot be Dropped or Traded.
 Class: ^777777Helmet^000000
 Defense: ^7777771^000000
 Head Position: ^777777Lower^000000
-Weight: ^7777770^000000^FFFFFF								 ^000000 Jobs: ^777777All Except Novice^000000
+Weight: ^7777770^000000
+Jobs: ^777777All Except Novice^000000
 #
 12953#
 A box that contains:
@@ -32969,13 +32913,14 @@ A box that contains:
 ^6A5ACD1 Critical Ring^000000
 Duration: 7 Days after opening
 An esoteric ring that
-enables its wearer to^FFFFFF		 ^000000 amplify his hidden powers.
+enables its wearer to amplify his hidden powers.
 CRIT +10%
 This item cannot be Dropped or Traded.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777771^000000
-Required Level: ^7777771^000000^FFFFFF				 ^000000 Jobs: ^777777All Except Novice^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All Except Novice^000000
 #
 12954#
 A box that contains:
@@ -32988,7 +32933,8 @@ This item cannot be Dropped or Traded.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777771^000000
-Required Level: ^7777771^000000^FFFFFF				 ^000000 Jobs: ^777777All Except Novice^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All Except Novice^000000
 #
 12955#
 A box that contains:
@@ -33001,7 +32947,8 @@ This item cannot be Dropped or Traded.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777771^000000
-Required Level: ^7777771^000000^FFFFFF				 ^000000 Jobs: ^777777All Except Novice^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All Except Novice^000000
 #
 12956#
 A box that contains:
@@ -33014,7 +32961,8 @@ This item cannot be Dropped or Traded.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777771^000000
-Required Level: ^7777771^000000^FFFFFF				 ^000000 Jobs: ^777777All Except Novice^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All Except Novice^000000
 #
 12957#
 A box that contains:
@@ -33025,8 +32973,10 @@ An ancient glove.
 DEX +4
 This item cannot be Dropped or Traded.
 Class: ^777777Accessory^000000
-Defense: ^7777770^000000			Weight: ^7777771^000000
-Required Level: ^7777771^000000^FFFFFF				 ^000000 Jobs: ^777777All Except Novice^000000
+Defense: ^7777770^000000
+Weight: ^7777771^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All Except Novice^000000
 #
 12958#
 A box that contains:
@@ -33037,8 +32987,10 @@ An ancient brooch.
 AGI +4
 This item cannot be Dropped or Traded.
 Class: ^777777Accessory^000000
-Defense: ^7777770^000000			Weight: ^7777771^000000
-Required Level: ^7777771^000000^FFFFFF				 ^000000 Jobs: ^777777All Except Novice^000000
+Defense: ^7777770^000000
+Weight: ^7777771^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All Except Novice^000000
 #
 12959#
 A box that contains:
@@ -33049,8 +33001,10 @@ An ancient rosary.
 LUK +4, MDEF +5
 This item cannot be Dropped or Traded.
 Class: ^777777Accessory^000000
-Defense: ^7777770^000000			Weight: ^7777771^000000
-Required Level: ^7777771^000000^FFFFFF				 ^000000 Jobs: ^777777All Except Novice^000000
+Defense: ^7777770^000000
+Weight: ^7777771^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All Except Novice^000000
 #
 12960#
 A box that contains:
@@ -33065,7 +33019,8 @@ This item cannot be Dropped or Traded.
 Class: ^777777Accessory^000000
 Defense: ^7777775^000000
 Weight: ^7777771^000000
-Required Level: ^7777771^000000^FFFFFF				 ^000000 Jobs: ^777777All Except Novice^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All Except Novice^000000
 #
 12961#
 A box that contains 1 Vesper Core 01. Handle with care.
@@ -33495,7 +33450,7 @@ damage inflicted by
 Devil monsters by 10%.
 Restores 3 SP when
 hitting a monster.
-Max SP +10%.
+MaxSP +10%.
 Class: ^777777Dagger^000000
 Attack: ^777777129^000000
 Weight: ^7777770^000000
@@ -33559,7 +33514,7 @@ A dagger imbued with
 lunar spirit and the power to drain an enemy's soul.
 Regain 3 SP
 with each attack.
-Max SP +10%
+MaxSP +10%
 This item cannot be Dropped or Traded.
 Class: ^777777Dagger^000000
 Attack: ^77777785^000000
@@ -35121,7 +35076,7 @@ A dagger imbued with
 lunar spirit and the power to drain an enemy's soul.
 Regain 3 SP
 with each attack.
-Max SP +10%
+MaxSP +10%
 This item cannot be Dropped or Traded.
 Class: ^777777Dagger^000000
 Attack: ^77777785^000000
@@ -36786,7 +36741,7 @@ A box that contains
 10 Small Life Potions.
 These potions restore
 an amount of HP equal
-to 5% of your Max HP
+to 5% of your MaxHP
 every 5 seconds for
 a 10 minute duration.
 ^ffffff_^000000
@@ -36797,7 +36752,7 @@ A box that contains
 30 Small Life Potions.
 These potions restore
 an amount of HP equal
-to 5% of your Max HP
+to 5% of your MaxHP
 every 5 seconds for
 a 10 minute duration.
 ^ffffff_^000000
@@ -36808,7 +36763,7 @@ A box that contains
 50 Small Life Potions.
 These potions restore
 an amount of HP equal
-to 5% of your Max HP
+to 5% of your MaxHP
 every 5 seconds for
 a 10 minute duration.
 ^ffffff_^000000
@@ -36818,7 +36773,7 @@ Weight: ^7777771^000000
 A box that contains
 10 Medium Life Potions.^FFFFFF	 ^000000 These potions restore
 an amount of HP equal
-to 7% of your Max HP
+to 7% of your MaxHP
 every 4 seconds for
 a 10 minute duration.
 ^ffffff_^000000
@@ -36828,7 +36783,7 @@ Weight: ^7777771^000000
 A box that contains
 30 Medium Life Potions.^FFFFFF	 ^000000 These potions restore
 an amount of HP equal
-to 7% of your Max HP
+to 7% of your MaxHP
 every 4 seconds for
 a 10 minute duration.
 ^ffffff_^000000
@@ -36838,7 +36793,7 @@ Weight: ^7777771^000000
 A box that contains
 50 Medium Life Potions.^FFFFFF	 ^000000 These potions restore
 an amount of HP equal
-to 7% of your Max HP
+to 7% of your MaxHP
 every 4 seconds for
 a 10 minute duration.
 ^ffffff_^000000
@@ -38753,7 +38708,8 @@ This item cannot be Dropped or Traded.
 Class: ^777777Accessory^000000
 Defense: ^7777771^000000
 Weight: ^7777771^000000
-Required Level: ^7777771^000000^FFFFFF				 ^000000 Jobs: ^777777All^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 13954#
 A box which contains 1 Spiritual Tunic. Rental period for a week.
@@ -39873,7 +39829,7 @@ Weight: ^7777771^000000
 #
 14104#
 A box that contains 10 Small Life Potions.
-These potions restore an amount of HP equal to 5% of your Max HP every 5 seconds for a 10 minute duration.
+These potions restore an amount of HP equal to 5% of your MaxHP every 5 seconds for a 10 minute duration.
 The effect is not active at the state of berserk.
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 When a character is incapable of combat, the effect of item disappears.
@@ -39896,7 +39852,7 @@ Weight: ^7777771^000000
 #
 14107#
 A box that contains 10 Medium Life Potions.
-These potions restore an amount of HP equal to 7% of your Max HP every 4 seconds for a 10 minute duration.
+These potions restore an amount of HP equal to 7% of your MaxHP every 4 seconds for a 10 minute duration.
 The effect is not active at the state of berserk.
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 When a character is incapable of combat, the effect of item disappears.
@@ -40146,7 +40102,8 @@ A small flower made of steel.
 Has a low chance to cast Lvl 1 Recovery when its wearer receives physical damage.
 Class: ^777777Headgear^000000
 Defense: ^7777771^000000
-Location: ^777777Lower^000000		Weight: ^7777770^000000
+Location: ^777777Lower^000000
+Weight: ^7777770^000000
 Jobs: ^777777Except Novice^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
@@ -40158,7 +40115,8 @@ A box that contains:Critical Ring. Extremely fragile!
 An esoteric ring that enables its wearer to amplify his hidden powers.
 CRIT +10%
 Class: ^777777Accessory^000000
-Defense: ^7777770^000000			Weight: ^7777770^000000
+Defense: ^7777770^000000
+Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Except Novice^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
@@ -40176,7 +40134,8 @@ This item cannot be Dropped or Traded.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777771^000000
-Required Level: ^7777771^000000^FFFFFF				 ^000000 Jobs: ^777777All Except Novice^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All Except Novice^000000
 #
 14134#
 A box that contains: Earring. Extremely fragile!
@@ -40184,7 +40143,8 @@ A box that contains: Earring. Extremely fragile!
 An ancient earring.
 STR +4
 Class: ^777777Accessory^000000
-Defense: ^7777770^000000			Weight: ^7777770^000000
+Defense: ^7777770^000000
+Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Except Novice^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
@@ -40197,7 +40157,8 @@ A box that contains:Necklace. Extremely fragile!
 An ancient necklace.
 VIT +4
 Class: ^777777Accessory^000000
-Defense: ^7777770^000000			Weight: ^7777770^000000
+Defense: ^7777770^000000
+Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Except Novice^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
@@ -40210,7 +40171,8 @@ A box that contains:Glove. Extremely fragile!
 An ancient glove.
 DEX +4
 Class: ^777777Accessory^000000
-Defense: ^7777770^000000			Weight: ^7777770^000000
+Defense: ^7777770^000000
+Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Except Novice^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
@@ -40222,7 +40184,8 @@ A box that contains:Brooch. Extremely fragile!
 An ancient brooch.
 AGI +4
 Class: ^777777Accessory^000000
-Defense: ^7777770^000000			Weight: ^7777770^000000
+Defense: ^7777770^000000
+Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Except Novice^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
@@ -40247,7 +40210,8 @@ A box that contains: Safety Ring. Extremely fragile!
 A strange ring that curiously raises its wearer's defenses.
 DEF +5 , MDEF +5
 Class: ^777777Accessory^000000
-Defense: ^7777775^000000			Weight: ^7777770^000000
+Defense: ^7777775^000000
+Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Except Novice^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
@@ -42860,25 +42824,20 @@ A scroll which gives you a random of amount zeny.
 Weight: ^7777771^000000
 #
 14509#
-A potent medicine that
-stimulates concentration. Temporarily increases
-ASPD.^FFFFFF						^000000 Job: ^777777All^000000
+A potent medicine that stimulates concentration. Temporarily increases ASPD.
+Job: ^777777All^000000
 Weight: ^77777710^000000
 #
 14510#
-A special tonic that
-combats the effects of
-drowsiness. Temporarily increases ASPD.
+A special tonic that combats the effects of drowsiness. Temporarily increases ASPD.
 Required level: ^77777740^000000
 Jobs: ^777777All
 except Acolyte, Priest, Bard and Dancer^000000
 Weight: ^77777715^000000
 #
 14511#
-Remarkably powerful
-medicine that stimulates circulation and amplifies
-quickness. Temporarily
-increases ASPD. Required level: ^77777785^000000
+Remarkably powerful medicine that stimulates circulation and amplifies quickness. Temporarily increases ASPD.
+Required level: ^77777785^000000
 Jobs: ^777777Swordman Class, Merchant Class,
 Rogue, Mage, Wizard^000000
 Weight: ^77777720^000000
@@ -43035,7 +42994,7 @@ that is effective in
 healing wounds.
 Restores an amount of
 HP equal of 5% of your
-Max HP every 5 seconds^FFFFFF		^000000 for a 10 minute duration.
+MaxHP every 5 seconds^FFFFFF		^000000 for a 10 minute duration.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -43046,7 +43005,7 @@ that is effective in
 healing wounds.
 Restores an amount of
 HP equal of 7% of your
-Max HP every 4 seconds^FFFFFF		^000000 for a 10 minute duration.
+MaxHP every 4 seconds^FFFFFF		^000000 for a 10 minute duration.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -51278,7 +51237,7 @@ damage inflicted by
 Devil monsters by 10%.
 Restores 3 SP when
 hitting a monster.
-Max SP +10%.
+MaxSP +10%.
 Class: ^777777Dagger^000000
 Attack: ^777777129^000000
 Weight: ^7777770^000000
@@ -51746,7 +51705,7 @@ that is effective in
 healing wounds.
 Restores an amount of
 HP equal of 5% of your
-Max HP every 5 seconds for a 10 minute duration.
+MaxHP every 5 seconds for a 10 minute duration.
 If you are incapacitated,
 the item effect will disappear.
 ^ffffff_^000000
@@ -51979,7 +51938,7 @@ Demihuman and Animal
 Class monsters. Cannot
 be upgraded. Enables
 Lv. 2 Double Attack.
-Max HP and SP +50
+MaxHP and SP +50
 Cannot be Dropped,
 or Tradable
 Can be placed in Kafra Storage

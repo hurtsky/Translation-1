@@ -863,7 +863,7 @@ Weight: ^7777773^000000
 #
 663#
 This is a popular food in traditional Korean festivals. It's made by filling a woven straw, cone shaped container with rice, and then pine needles are used to cover it.
-Restore 10% of Max HP.
+Restore 10% of MaxHP.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -3910,8 +3910,8 @@ Jobs: ^777777Swordman, Mage, Archer, Merchant, Thief, Soul Linker and Ninja^0000
 #
 1232#
 A dagger commonly used by Assassins.
-Max HP +20%
-Max SP +15%
+MaxHP +20%
+MaxSP +15%
 Increases ASPD.
 Class: ^777777Dagger^000000
 Attack: ^777777140^000000
@@ -3937,7 +3937,7 @@ Thief Classes, Soul Linker, and Ninja^000000
 1234#
 A dagger imbued with lunar spirit and the power to drain an enemy's soul.
 Regain 3 SP with each attack.
-Max SP +10%
+MaxSP +10%
 Class: ^777777Dagger^000000
 Attack: ^77777750^000000
 Weight: ^77777770^000000
@@ -4565,7 +4565,7 @@ Required Level: ^777777140^000000
 Jobs: ^777777Guillotine Cross^000000
 #
 1292#
-Katar made from golden oridicon.
+Katar made from golden oridecon.
 Every refine increase ATK +10, Critical Damage +2%
 Base Level 70: every 10 base level increase ATK +10
 Class: ^777777Katar^000000
@@ -5631,7 +5631,7 @@ Jobs: ^777777Swordman Class^000000
 #
 1414#
 A special spear imbued with the ^cc5500Earth^000000 property.
-Max HP +800, MaxSP -50
+MaxHP +800, MaxSP -50
 Class: ^777777Spear^000000
 Attack: ^777777145^000000
 Weight: ^77777770^000000
@@ -6501,7 +6501,7 @@ Jobs: ^777777SwordsmanClass^000000
 #
 1494#
 A beautiful spear-shaped wave. She was blessed by the spirits of the water.
-Max HP +1% every refine
+MaxHP +1% every refine
 Class: ^777777Two-Handed Spear^000000
 Attack: ^777777190^000000
 Weight: ^777777380^000000
@@ -7552,7 +7552,7 @@ Jobs: ^777777Priest / Sage / Taekwon Master^000000
 ^000088Rental Item^000000
 Book Of Prayer.
 VIT +2, MDEF +10
-Max SP +10%.
+MaxSP +10%.
 Class: ^777777Book^000000
 Attack: ^777777140^000000
 Weight: ^7777770^000000
@@ -8080,7 +8080,7 @@ physically attacking; this chance can be
 raised by increasing
 this weapon's Upgrade
 Level. Additional
-MATK +3% and Max SP
+MATK +3% and MaxSP
 +300 bonus if Upgrade
 Level is 9 or greater.
 Undead property.
@@ -8271,8 +8271,8 @@ Jobs: ^777777Transcendent Mage, Acolyte^000000
 A staff that causes enemy mental distraction.
 MATK +170, INT +3, DEX +2
 SP Recovery increase by 8%.
-When doing magic attacks, takes away 20% Max SP of all enemies within 11*11 cells around itself.
-If Refining Level is over 9, takes away 60% Max SP of all enemies within 19*19 cells around itself.
+When doing magic attacks, takes away 20% MaxSP of all enemies within 11*11 cells around itself.
+If Refining Level is over 9, takes away 60% MaxSP of all enemies within 19*19 cells around itself.
 Class: ^777777One-Handed Staff^000000
 Attack: ^77777780^000000
 Weight: ^77777750^000000
@@ -12018,7 +12018,7 @@ Jobs: ^7777773rd Swordman class^000000
 2161#
 One of Geffenia's secret treasures. There are not many people who can use this shield's magic.
 INT +1, MDEF +2
-If base INT is 120, MATK +10 and Max HP +800.
+If base INT is 120, MATK +10 and MaxHP +800.
 [+^008800Lacryma Stick^000000]
 Reduce variable cast time of Jack Frost, Frost Misty, and Storm Gust by (4*Shield refine level)%.
 Class: ^777777Shield^000000
@@ -12072,7 +12072,7 @@ Jobs: ^777777All^000000
 Sturdy yet light, practical shield made from rattan.
 Every 3 refine reduce 1% damage taken from boss monsters.
 [+^008800Buwaya Sack Cloth, Bakonawa Scale Armor and Bangungot Boots of Nightmare^000000]
-Max HP +20%, Max SP +10%
+MaxHP +20%, MaxSP +10%
 Damage taken decreased by 30% from all monsters within Philippine localizing.
 Class: ^777777Shield^000000
 Defense: ^77777740^000000
@@ -12271,7 +12271,7 @@ Jobs: ^7777773rd Class only^000000
 2188#
 The name of this shield surrounded by chilling cold energy means ''freeze''
 +10% resistance against Water attacks.
-Every 3 upgrade levels increase Max HP by 1% and Water Resistance by 5%.
+Every 3 upgrade levels increase MaxHP by 1% and Water Resistance by 5%.
 MDEF +5.
 Class: ^777777Shield^000000
 Defense: ^777777780^000000
@@ -12756,7 +12756,7 @@ except Novice^000000
 #
 2250#
 A small, decorative ribbon for the head.
-Max SP +20
+MaxSP +20
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
 Location: ^777777Upper^000000
@@ -12775,7 +12775,7 @@ Jobs: ^777777Acolyte Class^000000
 #
 2252#
 A mystic hat, made specifically for wizards, which amplifies pyschic power.
-Max SP +100
+MaxSP +100
 Class: ^777777Headgear^000000
 Defense: ^7777777^000000
 Location: ^777777Upper^000000
@@ -13525,7 +13525,7 @@ AGI +1, MDEF +3
 [^6A5ACDNinja Shinobi armor set^000000]
 ^008800Ninja Suit^000000
 ^008800Shinobi Sash^000000
-Max HP +300
+MaxHP +300
 -20% SP consumption
 Class: ^777777Armor^000000
 Defense: ^77777758^000000
@@ -13693,7 +13693,7 @@ If Base Dex is 70 or higher:
 ^3CB371Falcon Muffler^000000
 ^3CB371Odin's Blessing^000000
 AGI +3
-Max HP/SP +5%
+MaxHP/SP +5%
 [^6A5ACDOdin's Armor Set^000000]
 ^3CB371Vali's Manteau^000000
 ^3CB371Vidar's Boots^000000
@@ -13709,15 +13709,15 @@ Novice Class^000000
 #
 2354#
 An armor that was accidentally enchanted by Goibne the blacksmith when he spilled the mystic ale of life all over it.
-VIT +2, Max HP +10%.
+VIT +2, MaxHP +10%.
 [^6A5ACDGoibne's Armor Set^000000]
 ^3CB371Goibne's Spaulders^000000
 ^3CB371Goibne's Greaves^000000
 ^3CB371Goibne's Armor^000000
 ^3CB371Goibne's Helm^000000
 VIT +5
-Max HP +15%
-Max SP +5%
+MaxHP +15%
+MaxSP +5%
 DEF +5
 MDEF +5
 +10% Resistance to Water, Wind, Earth, and Fire property
@@ -13793,7 +13793,7 @@ AGI +1, MDEF +3
 [^6A5ACDNinja Shinobi armor set^000000]
 ^008800Ninja Suit^000000
 ^008800Shinobi Sash^000000
-Max HP +300
+MaxHP +300
 -20% SP consumption
 Class: ^777777Armor^000000
 Defense: ^77777740^000000
@@ -13897,7 +13897,7 @@ Reduce damage from demi-human monster by 10%.
 Cannot be upgraded.
 Indestructible.
 [+^008800Freya's Crown, Freyja Boots, Freyja Cape^000000]
-Immune to frozen status, Max HP +20%, Reduce 10% damage from Demi-human monster, Enable use level 10 Frost Nova.
+Immune to frozen status, MaxHP +20%, Reduce 10% damage from Demi-human monster, Enable use level 10 Frost Nova.
 Class: ^777777Armor^000000
 Defense: ^77777712^000000
 Weight: ^77777750^000000
@@ -13947,7 +13947,7 @@ Jobs: ^777777Acolyte Class^000000
 A robe which is decorated with unknown letters. The wearer feels like they're learning a new language.
 Reduces cast delay by 10%
 Increases effectiveness of ^008800Heal^000000 skill by 6%.
-Max SP +150, MDEF +5
+MaxSP +150, MDEF +5
 [+^008800Diabolus Ring^000000]
 MATK +3% and ATK +3%.
 Class: ^777777Armor^000000
@@ -13959,7 +13959,7 @@ Jobs: ^777777Transcendent Archer, Mage, Acolyte^000000
 2375#
 An Armor which is made of an unknown metal in the human-world. Mysterious power is hidden in the armor.
 STR +2, DEX +1,
-Max HP +150.
+MaxHP +150.
 Tolerance to ^FF0000Stun^000000 and ^FF0000Stone Curse^000000 +5%.
 [+^008800Diabolus Ring^000000]
 MATK +3% and ATK +3%.
@@ -13976,7 +13976,7 @@ MaxHP +150, MDEF +2.
 ^ffffff000000^000000
 [+^008800Battle Greaves and Captain's Manteau^000000]
 Increases damage received from all non-Demihuman monsters by 300%.
-VIT +3, Max HP +12%.
+VIT +3, MaxHP +12%.
 ^FF0000Heal^000000 skill and recovery item effect increase by 10%.
 When the wearer receives physical damage, has a chance of restoring 6,000 HP for 10 seconds.
 Class: ^777777Armor^000000
@@ -14085,9 +14085,9 @@ Jobs: ^777777Gunslinger^000000
 #
 2383#
 Brynhild is one of the valiant valkyries, meaning 'the warrior's armor'.
-Increase Max HP by
+Increase MaxHP by
 20*Base level.
-Increase Max SP by
+Increase MaxSP by
 5*Base Level.
 Physical Attack +10%
 Magical Attack +10%
@@ -14105,7 +14105,7 @@ Class: ^777777All^000000
 ^FF0000Cannot be traded^000000
 ^000088Rental item^000000
 A magic tunic that protect from various properties.
-Max HP +800
+MaxHP +800
 Immune to frozen
 Reduces by 20% the damage of all properties except Neutral and Water.
 MDEF +5
@@ -14152,7 +14152,7 @@ Improves the effectiveness of receiving Heals and Recovery items by 3%
 ^3CB371Sprint Mail^000000
 ^3CB371Sprint Shoes^000000
 ^3CB371Sprint Ring^000000
-Max HP/SP +7%
+MaxHP/SP +7%
 Reduce variable casting time by 3%
 Reduce after skill delay by 15%
 Class: ^777777Armor^000000
@@ -14349,7 +14349,7 @@ except Novice^000000
 Named after Odin's trusty steed, these shoes also mimic Sleipnir's powers.
 Increase movement speed.
 SP Recovery +15%
-Max HP/SP +10%
+MaxHP/SP +10%
 MDEF +10
 Class: ^777777Footgear^000000
 Defense: ^77777740^000000
@@ -14423,7 +14423,7 @@ AGI +2.
 ^3CB371Falcon Muffler^000000
 ^3CB371Odin's Blessing^000000
 AGI +3
-Max HP/SP +5%
+MaxHP/SP +5%
 Class: ^777777Footgear^000000
 Defense: ^77777712^000000
 Weight: ^77777750^000000
@@ -14434,7 +14434,7 @@ Novice Class^000000
 2418#
 The boots worn by Vidar, son of Odin, when he killed the Fenrir Wolf.
 These represent the great physical and mental strength Vidar displayed in that epic final battle.
-Max HP/Max SP +9%.
+MaxHP/MaxSP +9%.
 [^6A5ACDOdin's Armor Set^000000]
 ^3CB371Vali's Manteau^000000
 ^3CB371Vidar's Boots^000000
@@ -14450,15 +14450,15 @@ Novice^000000
 #
 2419#
 A pair of shoes rumored to be forged by Goibne in response to competition from his rival, Dulb.
-Max HP/Max SP +5%.
+MaxHP/MaxSP +5%.
 MDEF +3.
 [^6A5ACDGoibne's Armor Set^000000]
 ^3CB371Goibne's Spaulders^000000
 ^3CB371Goibne's Greaves^000000
 ^3CB371Goibne's Armor^000000
 ^3CB371Goibne's Helm^000000
-Max HP +15%
-Max SP +5%
+MaxHP +15%
+MaxSP +5%
 VIT +5
 DEF +5
 MDEF +5
@@ -14472,7 +14472,7 @@ Novice Class^000000
 #
 2420#
 Heavenly sandals worn by the Guardian Angel of Super Novices.
-Max HP +100.
+MaxHP +100.
 [^6A5ACDAngel's Protection Set^000000]
 ^3CB371Angel's Kiss^000000
 ^3CB371Angelic Protection^000000
@@ -14492,10 +14492,10 @@ Jobs: ^777777Novice Class^000000
 A pair of shoes worn by the Valkyries, Odin's battle maidens. These
 shoes grow more powerful as the wearer improves his own abilities.
 [^6A5ACDMage,Archer,Acolyte^000000]
-Increases Max HP by
+Increases MaxHP by
 (Base Level*5).
 [^6A5ACDSwordman,Merchant,Thief^000000]
-Increases Max SP by
+Increases MaxSP by
 (Job Level*2)
 Indestructible.
 [^6A5ACDValkyrian Armor Set^000000]
@@ -14523,7 +14523,7 @@ Soul Linker Job^000000
 #
 2423#
 Although it seems that whoever made these shoes tried to fix his mistakes, he didn't make these as well as he hoped.
-Max HP/SP +20%
+MaxHP/SP +20%
 Increasing the upgrade level will reduce max SP and HP bonus, but will increase DEF bonus.
 Class: ^777777Footgear^000000
 Defense: ^77777713^000000
@@ -14537,7 +14537,7 @@ This pair of shoes was designed with a waterproof coating that prevents slippage
 Adds 5% tolerance to Water property attacks,
 +5% HP Recovery.
 [+^008800Woolf Scarf^000000]
-Max HP +10%
+MaxHP +10%
 Class: ^777777Footgear^000000
 Defense: ^77777713^000000
 Weight: ^77777730^000000
@@ -14583,7 +14583,7 @@ Jobs: ^777777All^000000
 The boots of the queen 'Freiya',surrounded by mysterious hints of mist.
 Reduces damage from Demi-Human monster by 5%.
 [+^008800Freya's Crown, Freyja Boots, Freyja Cape^000000]
-Immune to frozen status, Max HP+20%, Reduce 10% damage from Demi-human monster, Enable use level 10 Frost Nova.
+Immune to frozen status, MaxHP+20%, Reduce 10% damage from Demi-human monster, Enable use level 10 Frost Nova.
 Impossible to refine this item.
 Class: ^777777Footgear^000000
 Defense: ^77777722^000000
@@ -14606,7 +14606,7 @@ Jobs: ^777777All^000000
 #
 2431#
 Shoes from Guild of Traveler.
-Max HP and SP +7%.
+MaxHP and SP +7%.
 Class: ^777777Footgear^000000
 Defense: ^77777710^000000
 Weight: ^7777770^000000
@@ -14623,7 +14623,7 @@ except Novice^000000
 #
 2433#
 Mysterious boots that automatically adjust their size to the wearer's size. They seem alive.
-Increases Max HP by Base Level*10.
+Increases MaxHP by Base Level*10.
 [+^008800Diabolus Manteau^000000]
 MaxHP +6%.
 Class: ^777777Footgear^000000
@@ -14704,7 +14704,7 @@ SP Recovery +5%
 ^3CB371Sprint Mail^000000
 ^3CB371Sprint Shoes^000000
 ^3CB371Sprint Ring^000000
-Max HP/SP +7%
+MaxHP/SP +7%
 Reduce variable casting time by 3%
 Reduce after skill delay by 15%
 Class: ^777777Footgear^000000
@@ -14935,7 +14935,7 @@ Jobs: ^777777Knight, Crusader^000000
 Named after Odin's trusty steed, these shoes also
 mimic Sleipnir's powers. Increase Movement Speed.
 SP Recovery +15%
-Max HP/SP +10%
+MaxHP/SP +10%
 MDEF +10
 ^ffffff_^000000
 ^FF0000This is a 30 Day version, and is tradable, it will disappear when it expires.^000000
@@ -15238,9 +15238,9 @@ Jobs: ^777777All^000000
 Egir's shoes , it looks suppporting your capacity
 can not be destroyed
 [Magician, Archer, Acolyte]
-Increase Max HP by 5*base level
+Increase MaxHP by 5*base level
 [Swordman, Merchant, Thief]
-Increase Max SP by 2*base level
+Increase MaxSP by 2*base level
 Class: ^777777Shoes^000000
 Defense: ^77777713^000000
 Weight: ^77777730^000000
@@ -15251,7 +15251,7 @@ Jobs: ^777777All^000000
 ^ff0000You cannot Trade this item.^000000
 ^000088Rental Items^000000
 ** Extra option available in WoE TE area
-Max HP +150, Max SP +150.
+MaxHP +150, MaxSP +150.
 Physical/Magic Attack Power +5% against other adventurers.
 Frost Resistance +25%.
 Class: ^777777Shoes^000000
@@ -15264,7 +15264,7 @@ Jobs: ^777777All^000000
 ^ff0000You cannot Trade this item.^000000
 ^000088Rental Items^000000
 ** Extra option available in WoE TE area
-Max HP +200, Max SP +100.
+MaxHP +200, MaxSP +100.
 Physical Attack Power 10% against other adventurers.
 Frost Resistance +25%
 Class: ^777777Shoes^000000
@@ -15278,7 +15278,7 @@ Jobs: ^777777Swordsman and Merchant Class^000000
 ^000088Rental Items^000000
 MDEF +5.
 ** Extra option available in WoE TE area
-Max HP +100, Max SP +200.
+MaxHP +100, MaxSP +200.
 Magic Attack Power +5% against other adventurers.
 Frost Resistance +25%.
 Class: ^777777Shoes^000000
@@ -15289,8 +15289,8 @@ Jobs: ^777777Novice, Wizard, Acolyte and Soul Linker^000000
 #
 2499#
 These boots are obviously old but they show no signs of wear and tear.
-Max HP +300, Max SP +30.
-For every 3 refine level, Max HP +100, Max SP +10
+MaxHP +300, MaxSP +30.
+For every 3 refine level, MaxHP +100, MaxSP +10
 Class: ^777777Shoes^000000
 Defense: ^77777720^000000
 Weight: ^77777760^000000
@@ -15446,7 +15446,7 @@ Flee +15.
 ^3CB371Falcon Muffler^000000
 ^3CB371Odin's Blessing^000000
 AGI +3
-Max HP/SP +5%
+MaxHP/SP +5%
 Class: ^777777Garment^000000
 Defense: ^7777778^000000
 Weight: ^77777740^000000
@@ -15473,7 +15473,7 @@ Novice Class^000000
 #
 2518#
 A shawl marked with ancient conjuration patterns that is one of the three keys for releasing the seal that binds Morpheus.
-MDEF +3, Max SP +10%
+MDEF +3, MaxSP +10%
 [^6A5ACDMorpheus's Set^000000]
 ^3CB371Morpheus's Hood^000000
 ^3CB371Morpheus's Shawl^000000
@@ -15521,8 +15521,8 @@ VIT +1, MDEF +2
 ^3CB371Goibne's Armor^000000
 ^3CB371Goibne's Helm^000000
 VIT +5
-Max HP +15%
-Max SP +5%
+MaxHP +15%
+MaxSP +5%
 DEF +5
 MDEF +5
 +10% Resistance to Water, Wind, Earth and Fire property
@@ -15627,7 +15627,7 @@ Jobs except Novice^000000
 A scarf made from the highest quality wool that feels so comforting and cozy when you're exhausted.
 MDEF +4.
 [+^008800Tidal Shoes^000000]
-Max HP +10%
+MaxHP +10%
 Increase HP recovery rate by 5%
 Class: ^777777Garment^000000
 Defense: ^77777711^000000
@@ -15690,7 +15690,7 @@ Manteau of Freyja, thin like a feather.
 Reduces damage from Demi-human monsters by 15%.
 [+^008800Freya's Crown, Freyja Boots, Freyja Cape^000000]
 Immune to frozen status
-Max HP+20%
+MaxHP+20%
 Reduce 10% damage from Demi-human monster
 Enable use level 10 Frost Nova.
 Impossible to refine this item.
@@ -15740,7 +15740,7 @@ MaxHP +100
 Decreases ^777777Neutral^000000 property damage by 5%.
 Increases Physical Damage to Satan Morocc by 10%.
 [+^008800Diabolus Boots^000000]
-Max HP +6%.
+MaxHP +6%.
 Class: ^777777Garment^000000
 Defense: ^77777715^000000
 Weight: ^77777725^000000
@@ -15919,7 +15919,7 @@ Jobs: ^777777All Transcendent Job Classes except Novice Classes^000000
 Made from a scale of Nidhoggur's Shadow, it still possesses its strong power.
 MDEF +3,
 Increases resistance to all elements by 7%.
-Max SP increases by
+MaxSP increases by
 (Base lvl/3)+(refine lvl*10)
 Has 1% chance to recover 1% amount of inflicted damage to SP.
 Class: ^777777Garment^000000
@@ -16783,7 +16783,7 @@ Jobs: ^777777All^000000
 #
 2648#
 A ring, enchanted with the power of the Fate Stone, that is one of the three keys for theseal which binds Morpheus.
-INT +1, Max SP +5%
+INT +1, MaxSP +5%
 [^6A5ACDMorpheus's Set^000000]
 ^008800Morpheus's Hood^000000
 ^008800Morpheus's Shawl^000000
@@ -16803,7 +16803,7 @@ Novice Class^000000
 #
 2649#
 A bracelet, rumored to be a memento of Morpheus's beloved, that is one of the three keys for the seal which binds Morpheus.
-INT +1, Max SP +5%
+INT +1, MaxSP +5%
 [^6A5ACDMorpheus's Set^000000]
 ^008800Morpheus's Hood^000000
 ^008800Morpheus's Shawl^000000
@@ -16883,7 +16883,7 @@ STR +1, AGI +1, MDEF +1
 [^6A5ACDNinja Shinobi armor set^000000]
 ^008800Ninja Suit^000000
 ^008800Shinobi Sash^000000
-Max HP +300
+MaxHP +300
 -20% SP consumption
 Class: ^777777Accessory^000000
 Defense: ^7777771^000000
@@ -16905,9 +16905,9 @@ Novice Class^000000
 #
 2656#
 A mysterious, ancient artifact that can endow normal armor with great defensive power, although it does make the wearer feel very sluggish.
-Max HP +50
+MaxHP +50
 [+^008800Padded Armor^000000]
-DEF +5, Max HP +150.
+DEF +5, MaxHP +150.
 Class: ^777777Accessory^000000
 Defense: ^7777771^000000
 Weight: ^777777100^000000
@@ -16930,7 +16930,7 @@ Jobs: ^777777All^000000
 #
 2659#
 An object which seems to be part of the Vesper. Possesses a mysterious power that enables its owner to clear his mind.
-MDEF +3, INT +2, Max SP +5%.
+MDEF +3, INT +2, MaxSP +5%.
 Class: ^777777Accessory^000000
 Defense: ^7777771^000000
 Weight: ^77777710^000000
@@ -17721,7 +17721,7 @@ Reduces Variable Casting Tiime of skills by 10%, but increases after skill delay
 ^008800Sprint Mail^000000
 ^008800Sprint Shoes^000000
 ^008800Sprint Ring^000000
-Max HP/SP +7%
+MaxHP/SP +7%
 Reduce variable casting time by 3%
 Reduce after skill delay by 15%
 Class: ^777777Accessory^000000
@@ -18636,18 +18636,20 @@ This item cannot be Dropped or Traded.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
-Required Level: ^7777771^000000^FFFFFF				 ^000000 Jobs: ^777777All^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 2835#
 ^000088Rental Item^000000
 An esoteric ring that
-enables its wearer to^FFFFFF		 ^000000 amplify his hidden powers.
+enables its wearer to amplify his hidden powers.
 CRIT +10%
 This item cannot be Dropped or Traded.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
-Required Level: ^7777771^000000^FFFFFF				 ^000000 Jobs: ^777777All Except Novice^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All Except Novice^000000
 #
 2836#
 ^000088Rental Item^000000
@@ -18655,8 +18657,10 @@ An ancient glove.
 DEX +4
 This item cannot be Dropped or Traded.
 Class: ^777777Accessory^000000
-Defense: ^7777770^000000			Weight: ^7777770^000000
-Required Level: ^7777771^000000^FFFFFF				 ^000000 Jobs: ^777777All Except Novice^000000
+Defense: ^7777770^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All Except Novice^000000
 #
 2837#
 ^000088Rental Item^000000
@@ -18668,7 +18672,8 @@ This item cannot be Dropped or Traded.
 Class: ^777777Accessory^000000
 Defense: ^7777775^000000
 Weight: ^7777770^000000
-Required Level: ^7777771^000000^FFFFFF				 ^000000 Jobs: ^777777All Except Novice^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All Except Novice^000000
 #
 2838#
 ^000088Rental Item^000000
@@ -18678,7 +18683,8 @@ This item cannot be Dropped or Traded.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
-Required Level: ^7777771^000000^FFFFFF				 ^000000 Jobs: ^777777All Except Novice^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All Except Novice^000000
 #
 2839#
 ^000088Rental Item^000000
@@ -18688,7 +18694,8 @@ This item cannot be Dropped or Traded.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
-Required Level: ^7777771^000000^FFFFFF				 ^000000 Jobs: ^777777All Except Novice^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All Except Novice^000000
 #
 2840#
 ^000088Rental Item^000000
@@ -18696,8 +18703,10 @@ An ancient rosary.
 LUK +4, MDEF +5
 This item cannot be Dropped or Traded.
 Class: ^777777Accessory^000000
-Defense: ^7777770^000000			Weight: ^7777770^000000
-Required Level: ^7777771^000000^FFFFFF				 ^000000 Jobs: ^777777All Except Novice^000000
+Defense: ^7777770^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All Except Novice^000000
 #
 2841#
 ^000088Rental Items^000000
@@ -18814,7 +18823,7 @@ Required Level: ^77777747^000000
 Jobs: ^777777All^000000
 #
 2858#
-^ff0000This item cannot be traded.^000000
+^ff0000Cannot be traded.^000000
 A pendant with black wings. It possesses mysterious power.
 Allows the user to use the skill [Call of Guardian].
 Class: ^777777Accessory^000000
@@ -19375,11 +19384,11 @@ Reduce after cast delay by 1%
 Reduce skill cast time by 4%
 Reduce after cast delay by 4%
 [+^008800Sprint Shoes^000000]
-Max SP +3%
-Sprint Shoes refined to +7, Max HP +2%
+MaxSP +3%
+Sprint Shoes refined to +7, MaxHP +2%
 [+^008800Sprint Mail^000000]
-Max HP +3%
-Sprint Shoes refined to +7, Max SP +2%
+MaxHP +3%
+Sprint Shoes refined to +7, MaxSP +2%
 [^6A5ACDSprint Set^000000]
 ^008800Sprint Ring^000000
 ^008800Sprint Shoes^000000
@@ -19394,7 +19403,7 @@ Jobs: ^7777772nd Jobs only^000000
 #
 2936#
 Ring Specialized for Recovery of Health.You feel the physiscal strength when worn.
-VIT +1, Max HP +250, MaxHP +5%.
+VIT +1, MaxHP +250, MaxHP +5%.
 Heal Skill +5% Effective.
 Class: ^777777Accessory^000000
 Defense: ^7777775^000000
@@ -19713,7 +19722,7 @@ Jobs: ^777777Mage Jobs/Soul Linker^000000
 #
 2976#
 Lantern with red light
-Max SP -300
+MaxSP -300
 Enable use of lv.1 Sight
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
@@ -19723,7 +19732,7 @@ Jobs: ^777777All^000000
 #
 2977#
 Heart shaped broken glass, contain weird magic
-Max SP +200
+MaxSP +200
 Enable use of lv.3 Scream
 When equipped with a Gentle Heart, abandoned doll will start agitation.
 Class: ^777777Accessory^000000
@@ -19734,7 +19743,7 @@ Jobs: ^777777All^000000
 #
 2978#
 Jewelry soaked with warm light. Cozy and warm power is embedded.
-Max HP +500, recover 300hp every 10 seconds.
+MaxHP +500, recover 300hp every 10 seconds.
 Enable use of lv.3 Scream
 When equipped with a Broken Heart, abandoned doll will start agitation.
 Class: ^777777Accessory^000000
@@ -19787,7 +19796,7 @@ Lost HP -10 each 5 seconds.
 Increase effect to incubus card x2.
 [^000088+ Succubus Card^000000]
 Increase effect to succubus card x2.
-[^000088+ Incubus Card +Succubus Card set ^000000]
+[^000088Incubus + Succubus Card set^000000]
 Increase set effect x2.
 Class: ^777777Accessory^000000 
 Defense: ^7777770^000000
@@ -19962,13 +19971,13 @@ Weight: ^7777771^000000
 #
 4002#
 VIT +1
-Max HP +100
+MaxHP +100
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4003#
-Max HP +700
+MaxHP +700
 Class: ^777777Card^000000
 Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -20015,33 +20024,33 @@ Compound on: ^777777Footgear^000000
 Weight: ^7777771^000000
 #
 4010#
-Max SP +80
+MaxSP +80
 Class: ^777777Card^000000
 Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4011#
 VIT +1
-Max HP +100
+MaxHP +100
 Class: ^777777Card^000000
 Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4012#
-Max HP +400
+MaxHP +400
 Class: ^777777Card^000000
 Compound on: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4013#
-Max HP +5%
+MaxHP +5%
 Class: ^777777Card^000000
 Compound on: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4014#
-Max HP +400
-Max SP +50
+MaxHP +400
+MaxSP +50
 Class: ^777777Card^000000
 Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -20066,7 +20075,7 @@ Weight: ^7777771^000000
 #
 4018#
 INT +1
-Max SP +10
+MaxSP +10
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -20079,8 +20088,8 @@ Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4020#
-Enable a 5% chance of inflicting the ^880000Blind^000000 status on an enemy with each attack.
 ATK +5
+Enable a 5% chance of inflicting the ^880000Blind^000000 status on an enemy with each attack.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -20112,8 +20121,8 @@ Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4025#
-Enable a 2% chance of inflicting the ^880000Stun^000000 status on an enemy with each attack.
 ATK +10
+Enable a 2% chance of inflicting the ^880000Stun^000000 status on an enemy with each attack.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -20151,7 +20160,7 @@ Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4031#
-Max HP +10%
+MaxHP +10%
 Class: ^777777Card^000000
 Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -20193,7 +20202,7 @@ HP Recovery +10%
 STR +4
 +20% Mammonite Damage
 +1 SP per attack.
-+7% Max HP/SP
++7% MaxHP/SP
 Alchemist Class Bonus:
 A chance of auto casting level 1 Adrenaline Rush when attacking physically.
 A low chance of obtaining Glistening Coat and/or Stem when defeating monsters.
@@ -20202,8 +20211,8 @@ Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4037#
-Enable a 5% chance of inflicting the ^880000Poison^000000 status on an enemy with each attack.
 ATK +5
+Enable a 5% chance of inflicting the ^880000Poison^000000 status on an enemy with each attack.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -20241,15 +20250,15 @@ Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4041#
-Increase resistance to ^880000Sleep^000000 status by 20%.
 DEF +1
+Increase resistance to ^880000Sleep^000000 status by 20%.
 Class: ^777777Card^000000
 Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4042#
-Increase resistance to ^7BCC70Wind^000000 property attacks by 10%.
 DEF +2
+Increase resistance to ^7BCC70Wind^000000 property attacks by 10%.
 Class: ^777777Card^000000
 Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -20606,7 +20615,7 @@ Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4097#
-Max HP +10%
+MaxHP +10%
 AGI +1
 Class: ^777777Card^000000
 Compound on: ^777777Footgear^000000
@@ -20627,7 +20636,7 @@ Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4100#
-Max SP +15%
+MaxSP +15%
 SP Recovery +3%
 Class: ^777777Card^000000
 Compound on: ^777777Footgear^000000
@@ -20672,7 +20681,7 @@ Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4107#
-Max HP/SP +8%
+MaxHP/SP +8%
 Class: ^777777Card^000000
 Compound on: ^777777Footgear^000000
 Weight: ^7777771^000000
@@ -20776,7 +20785,7 @@ Weight: ^7777771^000000
 #
 4123#
 Enable effect of the Endure skill so long as the Footgear to which this card is compounded is equipped.
-Max HP -25%
+MaxHP -25%
 Class: ^777777Card^000000
 Compound on: ^777777Footgear^000000
 Weight: ^7777771^000000
@@ -21021,7 +21030,7 @@ Weight: ^7777771^000000
 #
 4160#
 STR +2.
-Max HP and Max SP +10% if the shoes is upgraded up to +9 or higher.
+MaxHP and MaxSP +10% if the shoes is upgraded up to +9 or higher.
 Class: ^777777Card^000000
 Compound on: ^777777Footgear^000000
 Weight: ^7777771^000000
@@ -21079,13 +21088,13 @@ Weight: ^7777771^000000
 #
 4168#
 Add the chance of auto casting level 5 Meteor Storm skill on an enemy when the user receives Physical Damage.
-If the user is equipped with an item compounded to the Dark Illusion card, it adds Max HP, Max SP +20%.
+If the user is equipped with an item compounded to the Dark Illusion card, it adds MaxHP, MaxSP +20%.
 Class: ^777777Card^000000
 Compound on: ^777777Footgear^000000
 Weight: ^7777771^000000
 #
 4169#
-Max HP, Max SP -10%.
+MaxHP, MaxSP -10%.
 Reduce spell Variable Casting Time by 10%.
 If the user is equipped with an item compounded to the Dark Lord card, it reduces Variable Casting Time by 20%.
 Class: ^777777Card^000000
@@ -21295,7 +21304,7 @@ A chance of gaining 'Old Purple Box' each time a monster is killed.
 STR +4
 +20% Mammonite Damage
 +1 SP per attack.
-+7% Max HP/SP
++7% MaxHP/SP
 Alchemist Class Bonus:
 A chance of auto casting level 1 Adrenaline Rush when attacking physically.
 A low chance of obtaining Glistening Coat and/or Stem when defeating monsters.
@@ -21359,7 +21368,7 @@ Weight: ^7777771^000000
 #
 4193#
 Has 20% chance of auto casting Level 1 Endure on Novice or Super Novice when receiving Physical Damage.
-If the user is equipped with an item to the Quve card, it adds +300 Max HP.
+If the user is equipped with an item to the Quve card, it adds +300 MaxHP.
 Class: ^777777Card^000000
 Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
@@ -21633,7 +21642,7 @@ Compound on: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4218#
-VIT -3, Max HP +1000 and HP natural recovery -20%.
+VIT -3, MaxHP +1000 and HP natural recovery -20%.
 If the user is equipped with an item compounded to the Inccubus card,
 it adds VIT +4 and HP natural recovery +30%.
 Class: ^777777Card^000000
@@ -21658,7 +21667,7 @@ DEF +2, MDEF +2.
 A chance to cast level 1 Weapon Perfection when attacking.
 A chance of gaining 'Red Potion' each time a monster is killed.
 STR +10
-Max HP +20%
+MaxHP +20%
 HP Regen +50%
 Swordman Class:
 +50% HP Restoration when using Red, Yellow, and White Potions.
@@ -21814,7 +21823,7 @@ a monster is killed.
 STR +4
 +20% Mammonite Damage
 +1 SP per attack.
-+7% Max HP/SP
++7% MaxHP/SP
 Alchemist Class Bonus:
 A chance of auto casting
 level 1 Adrenaline Rush
@@ -21917,7 +21926,7 @@ Compound on: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4241#
-Max HP +300.
+MaxHP +300.
 Increase HP/SP Recovery by 100%, if the user has 77 or more LUK points.
 Class: ^777777Card^000000
 Compound on: ^777777Headgear^000000
@@ -21925,7 +21934,7 @@ Weight: ^7777771^000000
 #
 4242#
 VIT +2.
-Max HP +800 if the armor is upgraded up to +9 or higher.
+MaxHP +800 if the armor is upgraded up to +9 or higher.
 Class: ^777777Card^000000
 Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -21941,7 +21950,7 @@ Add the chance of auto
 casting level 1 Sight
 around the user when
 receiving Physical Damage.
-Max HP +300, VIT +1.
+MaxHP +300, VIT +1.
 ^6A5ACDClocktower Card Set^000000
 ^3CB371Tower Keeper Card^000000
 ^3CB371Punk Card^000000
@@ -22137,7 +22146,7 @@ Compound on: ^777777Footgear^000000
 Weight: ^7777771^000000
 #
 4258#
-INT +1, Max SP +50.
+INT +1, MaxSP +50.
 ^99FF66Sage Card Set^000000
 ^00FF00Yellow Novus Card^000000
 ^00FF00Evil Nymph Card^000000
@@ -22246,7 +22255,7 @@ Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4269#
-INT -3, Max SP +150 and SP natural recovery -20%.
+INT -3, MaxSP +150 and SP natural recovery -20%.
 If the user is equipped with an item compounded to the Succubus card,
 it adds INT +4 and SP natural recovery +30%.
 Class: ^777777Card^000000
@@ -22403,7 +22412,7 @@ a monster is killed.
 STR +4
 +20% Mammonite Damage
 +1 SP per attack.
-+7% Max HP/SP
++7% MaxHP/SP
 Alchemist Class Bonus:
 A chance of auto casting
 level 1 Adrenaline Rush
@@ -22458,7 +22467,7 @@ Weight: ^7777771^000000
 INT +2.
 This card also adds
 an additional +150
-Max SP bonus if the
+MaxSP bonus if the
 headgear to which
 the Carat Card is
 compounded has been
@@ -22534,7 +22543,7 @@ Weight: ^7777771^000000
 #
 4294#
 Add the chance of auto casting Level 1 Increase AGI on Novice or Super Novice when physical damage is received.
-If the user is equipped with an item which is compounded to the Lude card, it adds +60 Max SP.
+If the user is equipped with an item which is compounded to the Lude card, it adds +60 MaxSP.
 Class: ^777777Card^000000
 Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
@@ -22841,7 +22850,7 @@ Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4319#
-Max HP +300.
+MaxHP +300.
 Inflict 10% more damage
 with Bash skill
 if the shoes is upgraded
@@ -23189,7 +23198,7 @@ LUK +2
 STR +4
 +20% Mammonite Damage
 +1 SP per attack.
-+7% Max HP/SP
++7% MaxHP/SP
 Alchemist Class Bonus:
 A chance of auto casting
 level 1 Adrenaline Rush
@@ -23304,8 +23313,8 @@ Weight: ^7777771^000000
 Restores 50 HP
 and 10 SP every
 10 seconds, and
-increases Max HP
-and Max SP by 10%.
+increases MaxHP
+and MaxSP by 10%.
 Class: ^777777Card^000000
 Compound on: ^777777Footgear^000000
 Weight: ^7777771^000000
@@ -23528,9 +23537,9 @@ Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4376#
-Increases Max SP
+Increases MaxSP
 by 50%, but reduces
-Max HP by 40%.
+MaxHP by 40%.
 Adds a low chance of
 dropping Bananas when
 defeating monsters.
@@ -23550,14 +23559,14 @@ Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4378#
-Increases Max HP
-and Max SP by 4%.
+Increases MaxHP
+and MaxSP by 4%.
 When the compounded
 shoes's upgrade level
 is no greater than 4,
 these bonuses are
-increased to Max HP
-+8% and Max SP +8%,
+increased to MaxHP
++8% and MaxSP +8%,
 and adds SP and
 HP Recovery +5%.
 Class: ^777777Card^000000
@@ -23808,12 +23817,12 @@ Swordman, Merchant,
 and Thief class
 characters, this card
 adds STR +2 and
-Max HP +5%. When
+MaxHP +5%. When
 equipped by Archer,
 Acolyte, and Mage
 class characters, this
 card adds INT +2
-and Max SP +5%.
+and MaxSP +5%.
 Class: ^777777Card^000000
 Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
@@ -23866,7 +23875,7 @@ Weight: ^7777771^000000
 4409#
 MATK +5%, DEF -10,
 [^6A5ACDMage Class^000000]
-Max SP +100
+MaxSP +100
 Class: ^777777Card^000000
 Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -24092,7 +24101,7 @@ Weight: ^7777771^000000
 #
 4435#
 Increases physical and magic damage to Demihuman enemies by 1%.
-Recovers 50 HP  time a monster is defeated by melee attack.
+Recovers 50 HP time a monster is defeated by melee attack.
 Combined with the Ragged Zombie Card will recover 2 SP each time a demihuman monster is defeated by melee attack.
 Class: ^777777Card^000000
 Compound on: ^777777Footgear^000000
@@ -24952,7 +24961,7 @@ Weight: ^7777771^000000
 Ice Age 4 memorial card.
 MaxHP +10
 Class: ^777777Card^000000
-Compound on: ^777777Accesory^000000
+Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4553#
@@ -25365,7 +25374,7 @@ Compound on: ^777777 Shield^000000
 Weight: ^7777771^000000
 #
 4610#
-When the damage taken exceeds the user's Max HP, user will only take the amount that exceeds the user's Max HP
+When the damage taken exceeds the user's MaxHP, user will only take the amount that exceeds the user's MaxHP
 When the damage is create for skills with fixed damage also apply the reducci?.
 Class: ^777777Card^000000
 Compound on: ^777777 Armor^000000
@@ -25418,7 +25427,7 @@ Weight: ^7777771^000000
 4631#
 Increase Attack Speed (After-attack delay reduces by 3%).
 Class: ^777777Card^000000
-Compound on: ^777777Accesory^000000
+Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4632#
@@ -25426,7 +25435,7 @@ Add a chance of auto casting level 1 Whirlwind when dealing physical attack.
 If the user has mastered the skill at level 5, it will cast level 5 instead.
 If the user is equipped with an accessory compounded to ^008800Owl Viscount Card^000000, add a chance of auto casting level 1 Lord of Vermilion when dealing physical attack.
 Class: ^777777Card^000000
-Compound on: ^777777Accesory^000000
+Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4633#
@@ -25476,13 +25485,13 @@ Weight: ^7777771^000000
 4639#
 ATK +1%
 Class: ^777777Card^000000
-Compound on: ^777777Accesory^000000
+Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4640#
 MATK +1%
 Class: ^777777Card^000000
-Compound on: ^777777Accesory^000000
+Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4641#
@@ -27852,7 +27861,7 @@ A circlet blessed by
 Freyja, mother of Baldur.
 MDEF +10
 INT +2
-Max SP +50
+MaxSP +50
 ^99FF66Frigg's Set^000000
 ^00FF00Fricca's Circlet^000000
 ^00FF00Valkyrja's Shield^000000
@@ -27954,8 +27963,8 @@ VIT +3, MDEF +3.
 ^3CB371Goibne's Armor^000000
 ^3CB371Goibne's Helm^000000
 VIT +5
-Max HP +15%
-Max SP +5%
+MaxHP +15%
+MaxSP +5%
 DEF +5
 MDEF +15
 +10% Resistance to Water,
@@ -28861,7 +28870,7 @@ Jobs: ^777777All^000000
 #
 5212#
 It seems like one can receive the signal from another planet when you are wearing it. However, it's just merely a feel. The vision of wearer seems to be wider with it.
-Max HP +50, Max SP +10
+MaxHP +50, MaxSP +10
 Enables use of Level 1 Ruwach.
 Class: 777777Headgear^000000
 Defense: ^7777776^000000
@@ -29469,7 +29478,7 @@ Increases MATK bonus according to the wearer's JOB LEVEL.
 [Acolyte]
 Decreases SP Consumption according to the wearer's JOB LEVEL.
 [Archer]
-Increases Max SP according to the wearer's JOB LEVEL.
+Increases MaxSP according to the wearer's JOB LEVEL.
 Class: ^777777Head Gear^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
@@ -29730,7 +29739,7 @@ Demihuman and Animal
 Class monsters. Cannot
 be upgraded. Enables
 Lv. 2 Double Attack.
-Max HP and SP +50
+MaxHP and SP +50
 Cannot be Dropped,
 or Tradable
 Can be placed in Kafra Storage
@@ -29983,7 +29992,7 @@ Jobs: ^777777All^000000
 #
 5300#
 Fighter hat of legend that was decorated with an emerald.Only the truly brave can wear it.
-Max HP +100
+MaxHP +100
 Class: ^777777Head Gear^000000
 Defense: ^7777772^000000
 Slot: ^777777Upper^000000
@@ -33603,7 +33612,7 @@ Demihuman and Animal
 Class monsters. Cannot
 be upgraded. Enables
 Lv. 2 Double Attack.
-Max HP and SP +50
+MaxHP and SP +50
 Cannot be Dropped,
 or Tradable
 Can be placed in Kafra Storage
@@ -35771,7 +35780,7 @@ Jobs: ^777777All^000000
 #
 5897#
 All Stats +10
-Max HP/SP +15%
+MaxHP/SP +15%
 ATK/MATK +15%
 Hit/Flee/Crit +20
 Perfect Dodge +10
@@ -39970,7 +39979,7 @@ Weight: ^77777710^000000
 6951#
 A power stone.
 Increase a stat in costume's lower slot.
-Max HP +1%.
+MaxHP +1%.
 ^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
@@ -47593,7 +47602,7 @@ Weight: ^77777720^000000
 12027#
 Restores an amount
 of HP equal to 9% of
-the user's Max HP, but
+the user's MaxHP, but
 each use has a 30%
 chance of inflicting the^FFFFFF ^000000 Curse status on the
 user for 30 seconds.
@@ -47641,7 +47650,7 @@ Weight: ^77777720^000000
 12034#
 Restores an amount
 of SP equal to 9% of
-the user's Max SP, but
+the user's MaxSP, but
 each use has a 30%
 chance of inflicting
 the Mute effect on the
@@ -48477,7 +48486,7 @@ and regrettably hazy
 memories of the night
 before when drank in
 excess. Recovers 50%
-of Max HP and SP, but
+of MaxHP and SP, but
 has a 10% chance of
 casting the Chaos
 effect on its user.
@@ -50532,7 +50541,7 @@ that is effective in
 healing wounds.
 Restores an amount of
 HP equal of 7% of your
-Max HP every 4 seconds^FFFFFF		^000000 for a 10 minute duration.
+MaxHP every 4 seconds^FFFFFF		^000000 for a 10 minute duration.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -50543,7 +50552,7 @@ that is effective in
 healing wounds.
 Restores an amount of
 HP equal of 7% of your
-Max HP every 4 seconds^FFFFFF		^000000 for a 10 minute duration.
+MaxHP every 4 seconds^FFFFFF		^000000 for a 10 minute duration.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -52732,7 +52741,7 @@ A military combat knife designed for killing humanoids.
 Ignores Demihuman monster physical defense.
 Reduces damage from Demihuman monsters by 10%, but increases damage inflicted by Devil monsters by 10%.
 Restores 3 SP when hitting a monster.
-Max SP +10%.
+MaxSP +10%.
 This item cannot be Dropped or Traded.
 Class: ^777777Dagger^000000
 Attack: ^777777129^000000
@@ -52922,9 +52931,12 @@ For some, it is an
 incredible turn-on.
 INT +1
 This item cannot be Dropped or Traded.
-Class: ^777777Headgear^000000		Defense: ^7777772^000000
-Location: ^777777Middle^000000		Weight: ^7777771^000000
-Required Level: ^7777771^000000^FFFFFF				 ^000000 Jobs: ^777777All Except Novice^000000
+Class: ^777777Headgear^000000
+Defense: ^7777772^000000
+Location: ^777777Middle^000000
+Weight: ^7777771^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All Except Novice^000000
 #
 12952#
 A box that contains:
@@ -52934,7 +52946,7 @@ Duration: 7 Days after opening
 A small flower made
 of steel. Has a low
 chance to cast Lvl 1
-Recovery when its wearer^FFFFFF	^000000 receives physical damage.
+Recovery when its wearer receives physical damage.
 This item cannot be Dropped or Traded.
 Class: ^777777Headgear^000000
 Defense: ^7777771^000000
@@ -52948,7 +52960,7 @@ A box that contains:
 ^6A5ACD1 Critical Ring^000000
 Duration: 7 Days after opening
 An esoteric ring that
-enables its wearer to^FFFFFF		 ^000000 amplify his hidden powers.
+enables its wearer to amplify his hidden powers.
 CRIT +10%
 This item cannot be Dropped or Traded.
 Class: ^777777Accessory^000000
@@ -52968,7 +52980,8 @@ This item cannot be Dropped or Traded.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777771^000000
-Required Level: ^7777771^000000^FFFFFF				 ^000000 Jobs: ^777777All Except Novice^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All Except Novice^000000
 #
 12955#
 A box that contains:
@@ -52981,7 +52994,8 @@ This item cannot be Dropped or Traded.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777771^000000
-Required Level: ^7777771^000000^FFFFFF				 ^000000 Jobs: ^777777All Except Novice^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All Except Novice^000000
 #
 12956#
 A box that contains:
@@ -52994,7 +53008,8 @@ This item cannot be Dropped or Traded.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777771^000000
-Required Level: ^7777771^000000^FFFFFF				 ^000000 Jobs: ^777777All Except Novice^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All Except Novice^000000
 #
 12957#
 A box that contains:
@@ -53005,8 +53020,10 @@ An ancient glove.
 DEX +4
 This item cannot be Dropped or Traded.
 Class: ^777777Accessory^000000
-Defense: ^7777770^000000			Weight: ^7777771^000000
-Required Level: ^7777771^000000^FFFFFF				 ^000000 Jobs: ^777777All Except Novice^000000
+Defense: ^7777770^000000
+Weight: ^7777771^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All Except Novice^000000
 #
 12958#
 A box that contains:
@@ -53017,8 +53034,10 @@ An ancient brooch.
 AGI +4
 This item cannot be Dropped or Traded.
 Class: ^777777Accessory^000000
-Defense: ^7777770^000000			Weight: ^7777771^000000
-Required Level: ^7777771^000000^FFFFFF				 ^000000 Jobs: ^777777All Except Novice^000000
+Defense: ^7777770^000000
+Weight: ^7777771^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All Except Novice^000000
 #
 12959#
 A box that contains:
@@ -53029,8 +53048,10 @@ An ancient rosary.
 LUK +4, MDEF +5
 This item cannot be Dropped or Traded.
 Class: ^777777Accessory^000000
-Defense: ^7777770^000000			Weight: ^7777771^000000
-Required Level: ^7777771^000000^FFFFFF				 ^000000 Jobs: ^777777All Except Novice^000000
+Defense: ^7777770^000000
+Weight: ^7777771^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All Except Novice^000000
 #
 12960#
 A box that contains:
@@ -53045,7 +53066,8 @@ This item cannot be Dropped or Traded.
 Class: ^777777Accessory^000000
 Defense: ^7777775^000000
 Weight: ^7777771^000000
-Required Level: ^7777771^000000^FFFFFF				 ^000000 Jobs: ^777777All Except Novice^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All Except Novice^000000
 #
 12961#
 A box that contains 1 Vesper Core 01. Handle with care.
@@ -53806,7 +53828,7 @@ damage inflicted by
 Devil monsters by 10%.
 Restores 3 SP when
 hitting a monster.
-Max SP +10%.
+MaxSP +10%.
 Class: ^777777Dagger^000000
 Attack: ^777777129^000000
 Weight: ^7777770^000000
@@ -53871,7 +53893,7 @@ A dagger imbued with
 lunar spirit and the power to drain an enemy's soul.
 Regain 3 SP
 with each attack.
-Max SP +10%
+MaxSP +10%
 This item cannot be Dropped or Traded.
 Class: ^777777Dagger^000000
 Attack: ^77777785^000000
@@ -53985,8 +54007,8 @@ A dagger commonly
 used by Assassins.
 Slightly increases
 ASPD.
-Max SP +15%
-Max HP +20%
+MaxSP +15%
+MaxHP +20%
 Class: ^777777Dagger^000000
 Attack: ^777777140^000000
 Weight: ^77777760^000000
@@ -54238,7 +54260,7 @@ A dagger imbued with
 lunar spirit and the power to drain an enemy's soul.
 Regain 3 SP
 with each attack.
-Max SP +10%
+MaxSP +10%
 This item cannot be Dropped or Traded.
 Class: ^777777Dagger^000000
 Attack: ^77777785^000000
@@ -54260,7 +54282,7 @@ damage inflicted by
 Devil monsters by 10%.
 Restores 3 SP when
 hitting a monster.
-Max SP +10%.
+MaxSP +10%.
 Class: ^777777Dagger^000000
 Attack: ^777777129^000000
 Weight: ^7777770^000000
@@ -56978,7 +57000,7 @@ A dagger imbued with
 lunar spirit and the power to drain an enemy's soul.
 Regain 3 SP
 with each attack.
-Max SP +10%
+MaxSP +10%
 This item cannot be Dropped or Traded.
 Class: ^777777Dagger^000000
 Attack: ^77777785^000000
@@ -58668,7 +58690,7 @@ A box that contains
 10 Small Life Potions.
 These potions restore
 an amount of HP equal
-to 5% of your Max HP
+to 5% of your MaxHP
 every 5 seconds for
 a 10 minute duration.
 Not effective in Berserk status.
@@ -58682,7 +58704,7 @@ A box that contains
 30 Small Life Potions.
 These potions restore
 an amount of HP equal
-to 5% of your Max HP
+to 5% of your MaxHP
 every 5 seconds for
 a 10 minute duration.
 Not effective in Berserk status.
@@ -58696,7 +58718,7 @@ A box that contains
 50 Small Life Potions.
 These potions restore
 an amount of HP equal
-to 5% of your Max HP
+to 5% of your MaxHP
 every 5 seconds for
 a 10 minute duration.
 Not effective in Berserk status.
@@ -58709,7 +58731,7 @@ Weight: ^7777771^000000
 A box that contains
 10 Medium Life Potions.^FFFFFF	 ^000000 These potions restore
 an amount of HP equal
-to 7% of your Max HP
+to 7% of your MaxHP
 every 4 seconds for
 a 10 minute duration.
 Not effective in Berserk status.
@@ -58722,7 +58744,7 @@ Weight: ^7777771^000000
 A box that contains
 30 Medium Life Potions.^FFFFFF	 ^000000 These potions restore
 an amount of HP equal
-to 7% of your Max HP
+to 7% of your MaxHP
 every 4 seconds for
 a 10 minute duration.
 Not effective in Berserk status.
@@ -58735,7 +58757,7 @@ Weight: ^7777771^000000
 A box that contains
 50 Medium Life Potions.^FFFFFF	 ^000000 These potions restore
 an amount of HP equal
-to 7% of your Max HP
+to 7% of your MaxHP
 every 4 seconds for
 a 10 minute duration.
 Not effective in Berserk status.
@@ -60107,7 +60129,7 @@ Demihuman and Animal
 Class monsters. Cannot
 be upgraded. Enables
 Lv. 2 Double Attack.
-Max HP and SP +50
+MaxHP and SP +50
 Cannot be Dropped,
 or Tradable
 Can be placed in Kafra Storage
@@ -60909,7 +60931,8 @@ This item cannot be Dropped or Traded.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777771^000000
-Required Level: ^7777771^000000^FFFFFF				 ^000000 Jobs: ^777777All^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 13954#
 A box which contains 1 Spiritual Tunic. Rental period for a week.
@@ -61511,7 +61534,8 @@ This item cannot be Dropped or Traded.
 Class: ^777777Accessory^000000
 Defense: ^7777771^000000
 Weight: ^7777771^000000
-Required Level: ^7777771^000000^FFFFFF				 ^000000 Jobs: ^777777All^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 14018#
 A box which contains 1 Spiritual Tunic. Rental period for a week.
@@ -62131,7 +62155,7 @@ Demihuman and Animal
 Class monsters. Cannot
 be upgraded. Enables
 Lv. 2 Double Attack.
-Max HP and SP +50
+MaxHP and SP +50
 Cannot be Dropped,
 or Tradable
 Can be placed in Kafra Storage
@@ -62255,7 +62279,7 @@ Weight: ^7777771^000000
 #
 14104#
 A box that contains 10 Small Life Potions.
-These potions restore an amount of HP equal to 5% of your Max HP every 5 seconds for a 10 minute duration.
+These potions restore an amount of HP equal to 5% of your MaxHP every 5 seconds for a 10 minute duration.
 The effect is not active at the state of berserk.
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 When a character is incapable of combat, the effect of item disappears.
@@ -62278,7 +62302,7 @@ Weight: ^7777771^000000
 #
 14107#
 A box that contains 10 Medium Life Potions.
-These potions restore an amount of HP equal to 7% of your Max HP every 4 seconds for a 10 minute duration.
+These potions restore an amount of HP equal to 7% of your MaxHP every 4 seconds for a 10 minute duration.
 The effect is not active at the state of berserk.
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 When a character is incapable of combat, the effect of item disappears.
@@ -62404,7 +62428,7 @@ damage inflicted by
 Devil monsters by 10%.
 Restores 3 SP when
 hitting a monster.
-Max SP +10%.
+MaxSP +10%.
 This item cannot be Dropped or Traded.
 Class: ^777777Dagger^000000
 Attack: ^777777129^000000
@@ -62580,9 +62604,12 @@ For some, it is an
 incredible turn-on.
 INT +1
 This item cannot be Dropped or Traded.
-Class: ^777777Headgear^000000		Defense: ^7777772^000000
-Location: ^777777Middle^000000		Weight: ^7777771^000000
-Required Level: ^7777771^000000^FFFFFF				 ^000000 Jobs: ^777777All Except Novice^000000
+Class: ^777777Headgear^000000
+Defense: ^7777772^000000
+Location: ^777777Middle^000000
+Weight: ^7777771^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All Except Novice^000000
 #
 14131#
 A box that contains:
@@ -62592,7 +62619,7 @@ Duration: 7 Days after opening
 A small flower made
 of steel. Has a low
 chance to cast Lvl 1
-Recovery when its wearer^FFFFFF	^000000 receives physical damage.
+Recovery when its wearer receives physical damage.
 This item cannot be Dropped or Traded.
 Class: ^777777Headgear^000000
 Defense: ^7777771^000000
@@ -62606,7 +62633,7 @@ A box that contains:
 ^6A5ACD1 Critical Ring^000000
 Duration: 7 Days after opening
 An esoteric ring that
-enables its wearer to^FFFFFF		 ^000000 amplify his hidden powers.
+enables its wearer to amplify his hidden powers.
 CRIT +10%
 This item cannot be Dropped or Traded.
 Class: ^777777Accessory^000000
@@ -62626,7 +62653,8 @@ This item cannot be Dropped or Traded.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777771^000000
-Required Level: ^7777771^000000^FFFFFF				 ^000000 Jobs: ^777777All Except Novice^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All Except Novice^000000
 #
 14134#
 A box that contains:
@@ -62639,7 +62667,8 @@ This item cannot be Dropped or Traded.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777771^000000
-Required Level: ^7777771^000000^FFFFFF				 ^000000 Jobs: ^777777All Except Novice^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All Except Novice^000000
 #
 14135#
 A box that contains:
@@ -62652,7 +62681,8 @@ This item cannot be Dropped or Traded.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777771^000000
-Required Level: ^7777771^000000^FFFFFF				 ^000000 Jobs: ^777777All Except Novice^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All Except Novice^000000
 #
 14136#
 A box that contains:
@@ -62663,8 +62693,10 @@ An ancient glove.
 DEX +4
 This item cannot be Dropped or Traded.
 Class: ^777777Accessory^000000
-Defense: ^7777770^000000			Weight: ^7777771^000000
-Required Level: ^7777771^000000^FFFFFF				 ^000000 Jobs: ^777777All Except Novice^000000
+Defense: ^7777770^000000
+Weight: ^7777771^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All Except Novice^000000
 #
 14137#
 A box that contains:
@@ -62675,8 +62707,10 @@ An ancient brooch.
 AGI +4
 This item cannot be Dropped or Traded.
 Class: ^777777Accessory^000000
-Defense: ^7777770^000000			Weight: ^7777771^000000
-Required Level: ^7777771^000000^FFFFFF				 ^000000 Jobs: ^777777All Except Novice^000000
+Defense: ^7777770^000000
+Weight: ^7777771^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All Except Novice^000000
 #
 14138#
 A box that contains:
@@ -62705,7 +62739,8 @@ This item cannot be Dropped or Traded.
 Class: ^777777Accessory^000000
 Defense: ^7777775^000000
 Weight: ^7777771^000000
-Required Level: ^7777771^000000^FFFFFF				 ^000000 Jobs: ^777777All Except Novice^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All Except Novice^000000
 #
 14140#
 A box containing 1 Refined Vesper Core 01.
@@ -65434,25 +65469,20 @@ A scroll which gives you a random of amount zeny.
 Weight: ^7777771^000000
 #
 14509#
-A potent medicine that
-stimulates concentration. Temporarily increases
-ASPD.^FFFFFF						^000000 Job: ^777777All^000000
+A potent medicine that stimulates concentration. Temporarily increases ASPD.
+Job: ^777777All^000000
 Weight: ^77777710^000000
 #
 14510#
-A special tonic that
-combats the effects of
-drowsiness. Temporarily increases ASPD.
+A special tonic that combats the effects of drowsiness. Temporarily increases ASPD.
 Required Level: ^77777740^000000
 Jobs: ^777777All
 except Acolyte, Priest, Bard and Dancer^000000
 Weight: ^77777715^000000
 #
 14511#
-Remarkably powerful
-medicine that stimulates circulation and amplifies
-quickness. Temporarily
-increases ASPD. Required Level: ^77777785^000000
+Remarkably powerful medicine that stimulates circulation and amplifies quickness. Temporarily increases ASPD.
+Required Level: ^77777785^000000
 Jobs: ^777777Swordman Class, Merchant Class,
 Rogue, Mage, Wizard^000000
 Weight: ^77777720^000000
@@ -65609,7 +65639,7 @@ that is effective in
 healing wounds.
 Restores an amount of
 HP equal of 5% of your
-Max HP every 5 seconds^FFFFFF		^000000 for a 10 minute duration.
+MaxHP every 5 seconds^FFFFFF		^000000 for a 10 minute duration.
 If you are incapacitated,
 the item effect will disappear.
 ^ffffff_^000000
@@ -65622,7 +65652,7 @@ that is effective in
 healing wounds.
 Restores an amount of
 HP equal of 7% of your
-Max HP every 4 seconds^FFFFFF		^000000 for a 10 minute duration.
+MaxHP every 4 seconds^FFFFFF		^000000 for a 10 minute duration.
 If you are incapacitated,
 the item effect will disappear.
 ^ffffff_^000000
@@ -66720,9 +66750,9 @@ Jobs: ^777777All^000000
 #
 15023#
 Brynhild is one of the valiant valkyries, meaning 'the warrior's armor'.
-Increase Max HP by
+Increase MaxHP by
 20*Base level.
-Increase Max SP by
+Increase MaxSP by
 5*Base Level.
 Physical Attack +5%
 Magical Attack +5%
@@ -67263,8 +67293,8 @@ Class: ^777777All^000000
 15088#
 Japannese school uniform
 AGI +1, LUK +1
-Increase Max HP by (Base level*3)
-Increase Max SP by (Base level/2)
+Increase MaxHP by (Base level*3)
+Increase MaxSP by (Base level/2)
 Class: ^777777Armor^000000
 Defense: ^77777725^000000
 Weight: ^77777750^000000
@@ -70158,7 +70188,7 @@ A dagger imbued with
 lunar spirit and the power to drain an enemy's soul.
 Regain 3 SP
 with each attack.
-Max SP +10%
+MaxSP +10%
 This item cannot be Dropped or Traded.
 Class: ^777777Dagger^000000
 Attack: ^77777785^000000
@@ -79664,7 +79694,7 @@ damage inflicted by
 Devil monsters by 10%.
 Restores 3 SP when
 hitting a monster.
-Max SP +10%.
+MaxSP +10%.
 Class: ^777777Dagger^000000
 Attack: ^777777129^000000
 Weight: ^7777770^000000
@@ -80252,7 +80282,7 @@ that is effective in
 healing wounds.
 Restores an amount of
 HP equal of 5% of your
-Max HP every 5 seconds for a 10 minute duration.
+MaxHP every 5 seconds for a 10 minute duration.
 If you are incapacitated,
 the item effect will disappear.
 ^ffffff_^000000
@@ -80485,7 +80515,7 @@ Demihuman and Animal
 Class monsters. Cannot
 be upgraded. Enables
 Lv. 2 Double Attack.
-Max HP and SP +50
+MaxHP and SP +50
 Cannot be Dropped,
 or Tradable
 Can be placed in Kafra Storage
@@ -87345,8 +87375,8 @@ Jobs: ^777777Only 3rd class^000000
 #
 22009#
 These boots are obviously old but they show no signs of wear and tear.
-Max HP +300, Max SP +30.
-For every 3 refine level, Max HP + 100, Max SP +10, MATK +10.
+MaxHP +300, MaxSP +30.
+For every 3 refine level, MaxHP + 100, MaxSP +10, MATK +10.
 In case the original INT is more than 120 MATK +60 
 MDEF + 5.
 Class: ^777777Shoes^000000
@@ -87357,8 +87387,8 @@ Jobs: ^777777Only 3rd class^000000
 #
 22010#
 These boots are obviously old but they show no signs of wear and tear.
-Max HP + 300, Max SP + 30.
-For every 3 refine level, Max HP +100, Max SP +10, attack speed 3%(attack delay 3% decrease).
+MaxHP + 300, MaxSP + 30.
+For every 3 refine level, MaxHP +100, MaxSP +10, attack speed 3%(attack delay 3% decrease).
 In case the original AGI is more than 120, ASPD +1.
 Class: ^777777Shoes^000000
 Defense: ^77777725^000000
@@ -87368,7 +87398,7 @@ Jobs: ^777777Only 3rd class^000000
 #
 22011#
 These boots are obviously old but they show no signs of wear and tear.
-Max HP +300, Max SP +30.
+MaxHP +300, MaxSP +30.
 For every 3 refine level, MHP + 100, MSP + 10, critical damage2%.
 In case the original LUK is more than 120, critical damage + 30%.
 MDEF +5.
@@ -88678,7 +88708,7 @@ Jobs: ^777777All^000000
 24004#
 VIT +1
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -88686,7 +88716,7 @@ Jobs: ^777777All^000000
 24005#
 INT +1
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -88726,7 +88756,7 @@ Jobs: ^777777All^000000
 24010#
 VIT +2.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -88734,7 +88764,7 @@ Jobs: ^777777All^000000
 24011#
 INT +2.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -88779,7 +88809,7 @@ Jobs: ^777777All^000000
 An earring with Intelligence enhance.
 Int +1
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -88788,7 +88818,7 @@ Jobs: ^777777All^000000
 A pendant with strength enhance.
 Str +1
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -88803,7 +88833,7 @@ If refined to +7 or higher, ASPD +2%
 ^008800Physical Shadow Pendant^000000
 If the total combined refine levels of items is +23 or higher, increase ATK +1%
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -88825,15 +88855,15 @@ Jobs: ^777777All^000000
 #
 24020#
 A sacred necklace which is belived to protect its wearer. It also draws the wearer's potential abilities.
-Max HP +100
-Refined to +7 or higher, increase Max HP +1%
+MaxHP +100
+Refined to +7 or higher, increase MaxHP +1%
 [^6A5ACDPhysical Shadow Set^000000]
 ^008800Physical Shadow Weapon^000000
 ^008800Physical Shadow Earring^000000
 ^008800Physical Shadow Pendant^000000
 If the total combined refine levels of items is +23 or higher, increase ATK +1%
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -88848,7 +88878,7 @@ Refined to +7 or higher, reduce variable cast time by 2%
 ^008800Magical Shadow Pendant^000000
 If the total combined refine levels of items is +23 or higher, increase MATK +1%
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -88870,15 +88900,15 @@ Jobs: ^777777All^000000
 #
 24023#
 A sacred necklace which is belived to protect its wearer. It also draws the wearer's potential abilities.
-Max SP +50
-Refined to +7 or higher, increases Max SP +1%.
+MaxSP +50
+Refined to +7 or higher, increases MaxSP +1%.
 [^6A5ACDMagical Shadow Set^000000]
 ^008800Magical Shadow Weapon^000000
 ^008800Magical Shadow Earring^000000
 ^008800Magical Shadow Pendant^000000
 If the total combined refine levels of items is +23 or higher, increase MATK +1%
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -89012,7 +89042,7 @@ When Refined to +7, STR +1.
 When Refined to +9, STR +1.
 When equipped with ^008800Power Shadow Pendant^000000, STR +1.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -89023,7 +89053,7 @@ When Refined to +7, INT +1.
 When Refined to +9, INT +1.
 When equipped with ^008800Intelligent Shadow Earring^000000, INT +1.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -89084,7 +89114,7 @@ Increase ATK +1 per 1 refine Level.
 When equipped with ^008800Power Shadow Earring^000000
 STR +1.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -89141,7 +89171,7 @@ If refine to +7 or more add MDEF +3.
 Increases 1% of tolerance against Neutral attack.
 If the amount is 15 or more, Increases 1% of tolerance against Neutral attack.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -89152,7 +89182,7 @@ Increased Attack Speed (reduce the delay by 1% after attacking).
 Refined to +7: reduce the delay by 1% after attacking.
 Refined to +9: reduce the delay by 2% after attacking.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -89163,7 +89193,7 @@ Decrease variable cast time by 1%.
 Refined to +7: Decrease variable cast time by 1%.
 Refined to +9: Decrease variable cast time by 2%.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -89171,10 +89201,10 @@ Jobs: ^777777All^000000
 24049#
 Sacred earring protecting the owner. Enables user's potential ability.
 HP +100.
-Refined to +7: Max HP +1%.
-Refined to +9: Max HP +1%
+Refined to +7: MaxHP +1%.
+Refined to +9: MaxHP +1%
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -89182,10 +89212,10 @@ Jobs: ^777777All^000000
 24050#
 Sacred earring protecting the owner. Enables user's potential ability.
 SP +50.
-Refined to +7: Max SP +1%.
-Refined to +9: Max SP +1%
+Refined to +7: MaxSP +1%.
+Refined to +9: MaxSP +1%
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -89198,7 +89228,7 @@ Refined to +7: DEF +10.
 increase Neutral resistance by 1%.
 When total refine rate is 15 , increase Neutral resistance by 1%.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -89563,7 +89593,7 @@ When equipped with ^32CD32 spiritual shadow set (weapon, earring, pendant)^00000
 1% chance to absorb 1% SP damage do on Physical attack.
 If the amount of the entire set of refine is equal or superior 10 additional 1% of the damage absorbed by SP.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -89576,7 +89606,7 @@ When equipped with ^32CD32 spiritual shadow set (weapon, earring, pendant)^00000
 1% chance to absorb 1% SP damage do on Physical attack.
 If the amount of the entire set of refine is equal or superior 10 additional 1% of the damage absorbed by SP.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -89685,7 +89715,7 @@ All State + 1.
 If the amount of the entire set of refine is equal or superior 45 removes gemstone from the requirement of skills. increase in 100% the SP cost of skills.
 When refine total is superior to + 45 reduce % the sp cost of skills.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -89699,7 +89729,7 @@ All State + 1.
 If the amount of the entire set of refine is equal or superior 45 removes gemstone from the requirement of skills. increase in 100% the SP cost of skills.
 When refine total is superior to + 45 reduce % the sp cost of skills.
 Class: ^777777Costume^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -89872,7 +89902,7 @@ When equipped with ^32CD32Stability shadow shield + freezing frozen shadow set (
 DEF + 4.
 If the amount of the entire set of refine is equal or superior 30 gain protection from the ^880000Freeze^000000 status.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -89885,7 +89915,7 @@ When equipped with ^32CD32Stability shadow shield + freezing frozen shadow set (
 DEF + 4.
 If the amount of the entire set of refine is equal or superior 30 gain protection from the ^880000Freeze^000000 status.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -89898,7 +89928,7 @@ When equipped with ^32CD32 Stability shadow shield + vitality shadow set(earring
 DEF + 5.
 If the amount of the entire set of refine is equal or superior 20 gain protection from the ^880000Bledding^000000 status.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -89911,7 +89941,7 @@ When equipped with ^32CD32 Stability shadow shield + vitality shadow set(earring
 DEF + 5.
 If the amount of the entire set of refine is equal or superior 20 gain protection from the ^880000Bledding^000000 status.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -89937,7 +89967,7 @@ When equipped with ^32CD32Stability shadow shield + neutral shadow set (weapon, 
 DEF + 4.
 If the amount of the entire set of refine is equal or superior 30 gain protection from the ^880000stun^000000 status.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -89950,7 +89980,7 @@ When equipped with ^32CD32Stability shadow shield + neutral shadow set (weapon, 
 DEF + 4.
 If the amount of the entire set of refine is equal or superior 30 gain protection from the ^880000stun^000000 status.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -89963,7 +89993,7 @@ When equipped with ^32CD32Stability shadow shield + curse shadow set (weapon, ea
 DEF + 5.
 If the amount of the entire set of refine is equal or superior 20 gain protection from the ^880000Curse^000000 status.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -89976,7 +90006,7 @@ When equipped with ^32CD32Stability shadow shield + curse shadow set (weapon, ea
 DEF + 5.
 If the amount of the entire set of refine is equal or superior 20 gain protection from the ^880000Curse^000000 status.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -89988,7 +90018,7 @@ Refined to +7 or more additional decrease variable cast by 1%.
 When equipped ^32CD32 caster shadow set (weapon, earring, pendant)^000000 prevents skill casts from being interupted and increase variable cast by 40%.
 Each refine of complete set decrease variable cast.
 Class: ^777777Costume^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -90088,7 +90118,7 @@ Said to protect the wearer that the sacred ring. Leads to the potential ability 
 Enables use of ^008800Level 1 Greed^000000.
 Increases SP consumption of ^008800greed^000000 by 100. Each refine decrease SP consumption of skill by 10.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -90098,7 +90128,7 @@ Said to protect the wearer that the sacred ring. Leads to the potential ability 
 Enables use of ^008800Level 1 Greed^000000.
 Increases SP consumption of ^008800greed^000000 by 100. Each refine decrease SP consumption of skill by 10.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -90148,7 +90178,7 @@ Said to protect the wearer that the sacred ring. Leads to the potential ability 
 Enables use of ^008800Level 1 Heal^000000.
 Increases SP consumption of ^008800heal^000000 by 50. Each refine decrease SP consumption of skill by 5.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -90158,7 +90188,7 @@ Said to protect the wearer that the sacred ring. Leads to the potential ability 
 Enables use of ^008800Level 1 Heal^000000.
 Increases SP consumption of ^008800heal^000000 by 50. Each refine decrease SP consumption of skill by 5.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -90208,7 +90238,7 @@ Said to protect the wearer that the sacred ring. Leads to the potential ability 
 Enables use of ^008800Level 1 Hiding^000000.
 Increases SP consumption of ^008800hiding^000000 by 50. Each refine decrease SP consumption of skill by 5.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -90218,7 +90248,7 @@ Said to protect the wearer that the sacred ring. Leads to the potential ability 
 Enables use of ^008800Level 1 Hiding^000000.
 Increases SP consumption of ^008800hiding^000000 by 50. Each refine decrease SP consumption of skill by 5.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -90268,7 +90298,7 @@ Said to protect the wearer that the sacred ring. Leads to the potential ability 
 Enables use of ^008800Level 1 Cloaking^000000.
 Increases SP consumption of ^008800cloaking^000000 by 50. Each refine decrease SP consumption of skill by 5.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -90278,7 +90308,7 @@ Said to protect the wearer that the sacred ring. Leads to the potential ability 
 Enables use of ^008800Level 1 Cloaking^000000.
 Increases SP consumption of ^008800cloaking^000000 by 50. Each refine decrease SP consumption of skill by 5.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -90328,7 +90358,7 @@ Said to protect the wearer that the sacred ring. Leads to the potential ability 
 Enables use of ^008800Level 1 Teleport^000000.
 Increases SP consumption of ^008800teleport^000000 by 50. Each refine decrease SP consumption of skill by 5.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -90338,7 +90368,7 @@ Said to protect the wearer that the sacred ring. Leads to the potential ability 
 Enables use of ^008800Level 1 Teleport^000000.
 Increases SP consumption of ^008800teleport^000000 by 50. Each refine decrease SP consumption of skill by 5.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -90398,7 +90428,7 @@ Said to protect the wearer that the sacred ring. Leads to the potential ability 
 Enables use of ^008800Level 1 Steal^000000.
 Increases SP consumption of ^008800steal^000000 by 50. Each refine decrease SP consumption of skill by 5.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -90412,7 +90442,7 @@ Refined to +9 or more additional reduces damage from Small, Medium, and Large ty
 ATK + 1%.
 If the amount of the entire set of refine is equal or superior 15, does delete weapon size monster penalty.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -90426,7 +90456,7 @@ Refined to +9 or more additional reduces damage from Small, Medium, and Large ty
 ATK + 1%.
 If the amount of the entire set of refine is equal or superior 15, does delete weapon size monster penalty.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -90450,7 +90480,7 @@ HIT + 5. Each 2 refines increase HIT by 1.
 ATK increase each refine.
 If the amount of the entire set of refine is equal or superior 15, does the weapon indestructible (except in upgrade attempts).
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -90474,7 +90504,7 @@ MDEF + 1. Each 2 refines increase MDEF by 1.
 DEF increase each refine.
 If the amount of the entire set of refine is equal or superior 15, does the armor indestructible (except in upgrade attempts).
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -90614,7 +90644,7 @@ Said to protect the wearer that the sacred ring. Leads to the potential ability 
 Adds 5% physical defense bypassing on all monsters.
 Each 2 refines increase physical defense bypassing on all monsters by 1%.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -90624,7 +90654,7 @@ Said to protect the wearer that the sacred ring. Leads to the potential ability 
 Adds 5% physical defense bypassing on all monsters.
 Each 2 refines increase physical defense bypassing on all monsters by 1%.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -90634,7 +90664,7 @@ Said to protect the wearer that the sacred ring. Leads to the potential ability 
 Adds 5% magical defense bypassing on normal monsters.
 Each 2 refines increase magical defense bypassing on normal monsters by 1%.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -90644,7 +90674,7 @@ Said to protect the wearer that the sacred ring. Leads to the potential ability 
 Adds 5% magical defense bypassing on normal monsters.
 Each 2 refines increase magical defense bypassing on normal monsters by 1%.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -90794,7 +90824,7 @@ Each 2 refines increase MDEF +1.
 All stats +1.
 If the amount of the entire set of refine is 45 or higher, enable unlimited effect of endure.
 MaxHP -60%
-Each refines of the entire set increase % Max HP.
+Each refines of the entire set increase % MaxHP.
 Class: ^777777Shadow Equipment^000000
 Location: ^777777Armor^000000
 Weight: ^7777770^000000
@@ -90815,7 +90845,7 @@ Each 2 refines increase SP +5.
 All stats +1.
 If the amount of the entire set of refine is 45 or higher, enable unlimited effect of endure.
 MaxHP -60%
-Each refines of the entire set increase % Max HP.
+Each refines of the entire set increase % MaxHP.
 Class: ^777777Shadow Equipment^000000
 Location: ^777777Shoes^000000
 Weight: ^7777770^000000
@@ -90836,7 +90866,7 @@ Each 2 refines increase DEF +1.
 All stats +1.
 If the amount of the entire set of refine is 45 or higher, enable unlimited effect of endure.
 MaxHP -60%
-Each refines of the entire set increase % Max HP.
+Each refines of the entire set increase % MaxHP.
 Class: ^777777Shadow Equipment^000000
 Location: ^777777Shield^000000
 Weight: ^7777770^000000
@@ -90857,7 +90887,7 @@ Each 2 refines increase HP + 10.
 All stats +1.
 If the amount of the entire set of refine is 45 or higher, enable unlimited effect of endure.
 MaxHP -60%
-Each refines of the entire set increase % Max HP.
+Each refines of the entire set increase % MaxHP.
 Class: ^777777Shadow Equipment^000000
 Location: ^777777Weapon^000000
 Weight: ^7777770^000000
@@ -90878,9 +90908,9 @@ Each 2 refines increase MATK +1.
 All stats +1.
 If the amount of the entire set of refine is 45 or higher, enable unlimited effect of endure.
 MaxHP -60%
-Each refines of the entire set increase % Max HP.
+Each refines of the entire set increase % MaxHP.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777all^000000
@@ -90899,9 +90929,9 @@ Each 2 refines increase ATK +1.
 All stats +1.
 If the amount of the entire set of refine is 45 or higher, enable unlimited effect of endure.
 MaxHP -60%
-Each refines of the entire set increase % Max HP.
+Each refines of the entire set increase % MaxHP.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777all^000000
@@ -91349,7 +91379,7 @@ Refined to +7, increase ASPD +1.
 Increase ATK for each refine of entire set.
 If the amount of the entire set of refine is equal or superior 15, add ASPD +1.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777all^000000
@@ -91363,7 +91393,7 @@ Refined to +7, increase ASPD +1.
 Increase ATK for each refine of entire set.
 If the amount of the entire set of refine is equal or superior 15, add ASPD +1.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777all^000000
@@ -91457,7 +91487,7 @@ ATK +10.
 If the total amount of refine set is 20, increase ATK by 1%.
 If the total amount of refine set is 25, increase ATK by 1%.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^77777770^000000
 Jobs: ^777777All^000000
@@ -91476,7 +91506,7 @@ ATK +10.
 If the total amount of refine set is 20, increase ATK by 1%.
 If the total amount of refine set is 25, increase ATK by 1%.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^77777770^000000
 Jobs: ^777777All^000000
@@ -91530,7 +91560,7 @@ MATK +10
 If the total amount of refine set is 20, increase MATK by 1%.
 If the total amount of refine set is 25, increase MATK by 1%.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^77777770^000000
 Jobs: ^777777All^000000
@@ -91549,7 +91579,7 @@ MATK +10
 If the total amount of refine set is 20, increase MATK by 1%.
 If the total amount of refine set is 25, increase MATK by 1%.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^77777770^000000
 Jobs: ^777777All^000000
@@ -91605,7 +91635,7 @@ When equipped with ^32CD32Titan shadow set (pendant and earring)^000000
 ATK +5
 If the total of entire set's refine is equal or higher than +15, increase 2% more damage to large monsters.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -91619,7 +91649,7 @@ When equipped with ^32CD32Titan shadow set (pendant and earring)^000000
 ATK +5
 If the total of entire set's refine is equal or higher than +15, increase 2% more damage to large monsters.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -91633,7 +91663,7 @@ When equipped with ^32CD32boned shadow set (pendant and earring)^000000
 ATK +5
 If the total of entire set's refine is equal or higher than +15, increase 2% more damage to medium monsters.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -91647,7 +91677,7 @@ When equipped with ^32CD32Boned shadow set (pendant and earring)^000000
 ATK +5
 If the total of entire set's refine is equal or higher than +15, increase 2% more damage to medium monsters.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -91661,7 +91691,7 @@ When equipped with ^32CD32Gigantic shadow set (pendant and earring)^000000
 ATK +5
 If the total of entire set's refine is equal or higher than +15, increase 2% more damage to small monsters.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -91675,7 +91705,7 @@ When equipped with ^32CD32Gigantic shadow set (pendant and earring)^000000
 ATK +5
 If the total of entire set's refine is equal or higher than +15, increase 2% more damage to small monsters.
 Class: ^777777Shadow Equipment^000000
-Location: ^777777Accesory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
