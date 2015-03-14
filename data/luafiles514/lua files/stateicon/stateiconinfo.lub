@@ -864,15 +864,15 @@ StateIconList[EFST_IDs.EFST_ILLUSION] = {
   posTimeLimitStr = 2,
   descript = {
     {
-      "Dark Illusion",
+      "Hallucination",
       COLOR_TITLE_DEBUFF
     },
     {"%s", COLOR_TIME},
     {
-      "Sight distorted"
+      "Screen distortion"
     },
     {
-      "Error in damage sign"
+      "Error in damage display"
     },
     {
       "Casting pause"
@@ -2075,7 +2075,7 @@ StateIconList[EFST_IDs.EFST_WEAPONPROPERTY] = {
   haveTimeLimit = 0,
   descript = {
     {
-      "Give property to the weapon"
+      "Grant property to the weapon"
     }
   }
 }
@@ -2346,7 +2346,7 @@ StateIconList[EFST_IDs.EFST_TOXIN] = {
 StateIconList[EFST_IDs.EFST_RAISINGDRAGON] = {
   descript = {
     {
-      "Rising Dragon",
+      "Raising Dragon",
       COLOR_TITLE_BUFF
     },
     {
