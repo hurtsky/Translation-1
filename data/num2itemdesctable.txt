@@ -4143,22 +4143,7 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 1623#
-^000088Rental Item^000000
-A rare staff that can
-convert psychic energy
-into brute strength.
-Consumes 1 SP with
-each physical attack.
-STR +10, INT +4,
-MATK +20%
-Class: ^777777Staff^000000
-Attack: ^777777165^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777773^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Mage Class,
-Acolyte Class,
-Soul Linker Job^000000
+Unknown Item, can be identified by [Magnifier].
 #
 1624#
 Unknown Item, can be identified by [Magnifier].
@@ -4299,6 +4284,7 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 1672#
+Unknown Item, can be identified by [Magnifier].
 #
 1676#
 Unknown Item, can be identified by [Magnifier].
@@ -4973,30 +4959,10 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 1977#
-An especially made whip for battling against Demihumans; this whip is strong enough to cut their flesh.
-DEX +2
-Increases Physical Attack Strength towards Demihuman monsters by 95%.
-Ignores Physical Defense from Demihuman monsters by 20%.
-Indestructible.
-Class: ^777777Whip^000000
-Attack: ^77777750^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777773^000000
-Required Level: ^77777780^000000
-Jobs: ^777777Dancer^000000
+Unknown Item, can be identified by [Magnifier].
 #
 1978#
-An especially made whip for battling against Demihumans; this whip is strong enough to cut their flesh.
-DEX +2
-Increases Physical Attack Strength towards Demihuman monsters by 95%.
-Increase Arrow Vulcan Damage by 20%.
-Indestructible.
-Class: ^777777Whip^000000
-Attack: ^77777750^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777773^000000
-Required Level: ^77777780^000000
-Jobs: ^777777Dancer^000000
+Unknown Item, can be identified by [Magnifier].
 #
 1979#
 Unknown Item, can be identified by [Magnifier].
@@ -5005,18 +4971,7 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 1981#
-Increases Physical Attack Strength to Demihuman monster by 95%..
-Ignores physical defense from Demihuman monster by 20%.
-Indestructible.
-¡Ø Additional Weapon Refining Level Option
-+6 Refining
-5% increase in ignoring Physical Attack Defense of Demihuman monsters
-^ff0000[Slaughter]^000000 Lv 1(but,increase in damage by slaughter option applies refinement up to +14)
-+9 Refining
-When using [Arrow Vulcan] skill, inflicts an auto-spell of [Tarot Card of Fate] Lv.5 to the enemy at a certain rate.
-Class: ^777777Whip^000000
-Attack: ^77777750^000000
-Weight: ^7777770^000000
+Unknown Item, can be identified by [Magnifier].
 #
 1982#
 Unknown Item, can be identified by [Magnifier].

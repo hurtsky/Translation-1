@@ -6269,7 +6269,6 @@ Inflicts 10% more damage on Boss monsters.
 Class: ^777777Two Handed Spear^000000
 Attack: ^777777160^000000
 Weight: ^777777200^000000
-Property: ^777777Neutral^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777760^000000
 Jobs: ^777777Swordman Class^000000
@@ -6928,7 +6927,6 @@ mighty hammer wielded
 by Thor, god of thunder. Increases ASPD.
 DEX +50 , STR +20
 ^ffffff_^000000
-^FF0000This can be made 30 Day version, and tradable by talking with the Godly Item Confiscator in Prontera Castle.^000000
 Not Tradable
 ^ffffff_^000000
 Class: ^777777Mace^000000
@@ -7776,7 +7774,7 @@ INT +5, MATK +120.
 Increase MATK by (refine*refine).
 (up to +15 refine level)
 Indestructible.
-Class: ^777777Rod^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777760^000000
 Weight: ^77777760^000000
 Weapon Level: ^7777774^000000
@@ -7787,7 +7785,7 @@ Acolyte Classes, and Soul Linker^000000
 1601#
 A simple magic wand.
 MATK +30
-Class: ^777777Rod^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777715^000000
 Weight: ^77777740^000000
 Weapon Level: ^7777771^000000
@@ -7798,7 +7796,7 @@ Acolyte Classes, and Soul Linker^000000
 1602#
 A simple magic wand.
 MATK +30
-Class: ^777777Rod^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777715^000000
 Weight: ^77777740^000000
 Weapon Level: ^7777771^000000
@@ -7809,7 +7807,7 @@ Acolyte Classes, and Soul Linker^000000
 1603#
 A simple magic wand.
 MATK +30
-Class: ^777777Rod^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777715^000000
 Weight: ^77777740^000000
 Weapon Level: ^7777771^000000
@@ -7820,7 +7818,7 @@ Acolyte Classes, and Soul Linker^000000
 1604#
 A rough-hewn wand that's effective enough for the casting of magic spells.
 INT +1 , MATK +45
-Class: ^777777Rod^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777725^000000
 Weight: ^77777740^000000
 Weapon Level: ^7777772^000000
@@ -7831,7 +7829,7 @@ Acolyte Classes, and Soul Linker^000000
 1605#
 A rough-hewn wand that's effective enough for the casting of magic spells.
 INT +1 , MATK +45
-Class: ^777777Rod^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777725^000000
 Weight: ^77777740^000000
 Weapon Level: ^7777772^000000
@@ -7842,7 +7840,7 @@ Acolyte Classes, and Soul Linker^000000
 1606#
 A rough-hewn wand that's effective enough for the casting of magic spells.
 INT +1 , MATK +45
-Class: ^777777Rod^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777725^000000
 Weight: ^77777740^000000
 Weapon Level: ^7777772^000000
@@ -7854,7 +7852,7 @@ Acolyte Classes, and Soul Linker^000000
 A wooden staff adorned with an enchanted jewel.
 MATK +70
 INT +2
-Class: ^777777Rod^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777740^000000
 Weight: ^77777740^000000
 Weapon Level: ^7777772^000000
@@ -7866,7 +7864,7 @@ Acolyte Classes, and Soul Linker^000000
 A wooden staff adorned with an enchanted jewel.
 MATK +70
 INT +2
-Class: ^777777Rod^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777740^000000
 Weight: ^77777740^000000
 Weapon Level: ^7777772^000000
@@ -7878,7 +7876,7 @@ Acolyte Classes, and Soul Linker^000000
 A wooden staff adorned with an enchanted jewel.
 MATK +70
 INT +2
-Class: ^777777Rod^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777740^000000
 Weight: ^77777740^000000
 Weapon Level: ^7777772^000000
@@ -7890,7 +7888,7 @@ Acolyte Classes, and Soul Linker^000000
 An ornate, elegantly crafted wand that grants powerful magical energy.
 MATK +95
 INT +3
-Class: ^777777Rod^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777760^000000
 Weight: ^77777740^000000
 Weapon Level: ^7777773^000000
@@ -7902,7 +7900,7 @@ Acolyte Classes, and Soul Linker^000000
 An ornate, elegantly crafted wand that grants powerful magical energy.
 MATK +95
 INT +3
-Class: ^777777Rod^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777760^000000
 Weight: ^77777740^000000
 Weapon Level: ^7777773^000000
@@ -7913,7 +7911,7 @@ Acolyte Classes, and Soul Linker^000000
 1612#
 An ornate, elegantly crafted wand that grants powerful magical energy.
 INT +3 , MATK +95
-Class: ^777777Rod^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777760^000000
 Weight: ^77777740^000000
 Weapon Level: ^7777773^000000
@@ -7926,7 +7924,7 @@ A rare staff that can convert psychic energy into brute strength.
 Consumes 2 SP with
 each physical attack.
 STR +10 , MATK +100
-Class: ^777777Rod^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^777777130^000000
 Weight: ^77777770^000000
 Weapon Level: ^7777773^000000
@@ -7940,7 +7938,7 @@ topped with a goat's
 skull that enhances
 magic attack power.
 INT +3 , MATK +105
-Class: ^777777Rod^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777775^000000
 Weight: ^77777770^000000
 Weapon Level: ^7777773^000000
@@ -7952,7 +7950,7 @@ Acolyte Classes, and Soul Linker^000000
 Since evil spirits possess this wand of human bone, its suffocatingly accursed aura can be sensed by
 those who wield it.
 INT +4 , MATK +110
-Class: ^777777Rod^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777740^000000
 Weight: ^77777770^000000
 Property: ^777777Undead^000000
@@ -7968,7 +7966,7 @@ grants its user the
 essense of speed.
 Reduces variable casting
 time by 5%. MATK +115
-Class: ^777777Staff^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777760^000000
 Weight: ^77777750^000000
 Property: ^777777Wind^000000
@@ -7986,10 +7984,9 @@ two different versions
 of this staff intended
 to help new trainees.
 DEX +2, MATK +120, HP +300.
-Class: ^777777Staff^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777750^000000
 Weight: ^777777100^000000
-Property: ^777777Neutral^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777724^000000
 Jobs: ^777777Mage Class and Soul Linker^000000
@@ -8014,10 +8011,9 @@ of Survivor's Rod
 Resist ^777777Neutral^000000 property by
 3 times the upgrade level
 of Survivor's Manteau.
-Class: ^777777Staff^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777750^000000
 Weight: ^777777100^000000
-Property: ^777777Neutral^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777724^000000
 Jobs: ^777777Mage Class and Soul Linker^000000
@@ -8032,10 +8028,9 @@ two different versions
 of this staff intended
 to help new trainees.
 INT +2, MATK +120, HP +300.
-Class: ^777777Staff^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777750^000000
 Weight: ^777777100^000000
-Property: ^777777Neutral^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777724^000000
 Jobs: ^777777Mage Class and Soul Linker^000000
@@ -8060,10 +8055,9 @@ of Survivor's Rod
 Resist ^777777Neutral^000000 property by
 3 times the upgrade level
 of Survivor's Manteau.
-Class: ^777777Staff^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777750^000000
 Weight: ^777777100^000000
-Property: ^777777Neutral^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777724^000000
 Jobs: ^777777Mage Class and Soul Linker^000000
@@ -8074,10 +8068,9 @@ hynpotizing effect
 that can even make
 a Novice feel just like a High Wizard. Sort of.
 INT +1, MATK +120
-Class: ^777777Staff^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777770^000000
 Weight: ^77777750^000000
-Property: ^777777Neutral^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777730^000000
 Jobs: ^777777Novice Class^000000
@@ -8088,10 +8081,9 @@ hynpotizing effect
 that can even make
 a Novice feel just like a High Wizard. Sort of.
 INT +1, MATK +120
-Class: ^777777Staff^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777770^000000
 Weight: ^77777750^000000
-Property: ^777777Neutral^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777730^000000
 Jobs: ^777777Novice Class^000000
@@ -8132,7 +8124,7 @@ MATK +3% and Max SP
 +300 bonus if Upgrade
 Level is 9 or greater.
 Undead property.
-Class: ^777777Staff^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777760^000000
 Weight: ^77777780^000000
 Weapon Level: ^7777773^000000
@@ -8155,7 +8147,7 @@ skills depending on
 this weapons'
 Upgrade Level.
 Holy property.
-Class: ^777777Staff^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777710^000000
 Weight: ^77777740^000000
 Weapon Level: ^7777773^000000
@@ -8174,7 +8166,7 @@ performing magic
 attacks; this percentage is raised by increasing
 this weapon's Upgrade
 Level.
-Class: ^777777Staff^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777780^000000
 Weight: ^77777750^000000
 Weapon Level: ^7777773^000000
@@ -8185,7 +8177,7 @@ Jobs: ^777777Trascendent Mage and Acolyte Classes^000000
 ^ff0000You cannot Trade this item.^000000
 A gift for a brave traveler.
 INT + 4 , MATK + 120.
-Class: ^777777Staff^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777740^000000
 Weight: ^7777770^000000
 WeaponLevel : ^7777771^000000
@@ -8198,7 +8190,7 @@ MATK +20%
 [+^008800Rental Survivor's Manteau^000000]
 +25% resistance to ^777777Neutral^000000 property attacks
 MATK +5%
-Class: ^777777Rod^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777771^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
@@ -8214,7 +8206,7 @@ MATK +125. DEX +1.
 DEX +2, INT +2,
 SP Recovery Rate +5%.
 Magical Attack increases depending on the degree of refining.
-Class: ^777777Staff^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777740^000000
 Weight: ^77777750^000000
 Property: ^777777Neutral^000000
@@ -8228,10 +8220,9 @@ This staff can also help the holder recover from damage.
 MATK +125, INT +3.
 5% increase to Recovery skills.
 Has a low chance of restoring an amount of HP & SP when Magically attacking.
-Class: ^777777Staff^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777730^000000
 Weight: ^77777750^000000
-Property: ^777777Neutral^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777750^000000
 Jobs: ^777777Mage only^000000
@@ -8240,7 +8231,7 @@ Jobs: ^777777Mage only^000000
 A holy stick which is made of Rune of Odin, specialized for exorcisms.
 MATK +140
 Reduction of Variable Casting Time for ^FF0000Holy Light^000000, ^FF0000Turn Undead^000000, and ^FF0000Magnus Exorcismus^000000 by 25%.
-Class: ^777777Rod^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777750^000000
 Weight: ^77777750^000000
 Property: ^777777Holy^000000
@@ -8255,7 +8246,7 @@ MATK +125, INT +4, DEX +3
 Ignores Magic Defense from Demihuman monsters by 25%.
 Enables a 5% chance to inflict the Stun effect when using magical attacks.
 Indestructible.
-Class: ^777777Rod^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777770^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
@@ -8269,7 +8260,7 @@ MATK +125, INT +3, DEX +3
 Increases Magic Damage against Demihuman monsters by 15%.
 Enables a 5% chance to inflict the Stun effect when using magical attacks.
 Indestructible.
-Class: ^777777Rod^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777770^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
@@ -8283,7 +8274,7 @@ MATK +125
 Increases the Recovery Rate of Heal, Sanctuary by 14% when they are cast by the wearer.
 Restores 5 SP every 10 sec.
 Indestructible.
-Class: ^777777Rod^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777770^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
@@ -8297,7 +8288,7 @@ MATK +125, INT +3, DEX +2
 Reduces Cast Delay by 15%.
 Restores 5 SP every 10 sec.
 Indestructible.
-Class: ^777777Rod^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777770^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
@@ -8308,7 +8299,7 @@ Jobs: ^777777Mage, Acolyte, Soul Linker^000000
 A staff which is covered with thorns, containing strong meanings of sorcery.
 MATK +160, INT +3, DEX +3
 Each upgrade level adds magic defense bypassing to your magic attacks and reduces cast delay of all skills.
-Class: ^777777Rod^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777760^000000
 Weight: ^77777770^000000
 Property: ^777777Shadow^000000
@@ -8322,7 +8313,7 @@ MATK +170, INT +3, DEX +2
 SP Recovery increase by 8%.
 When doing magic attacks, takes away 20% Max SP of all enemies within 11*11 cells around itself.
 If Refining Level is over 9, takes away 60% Max SP of all enemies within 19*19 cells around itself.
-Class: ^777777Staff^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777780^000000
 Weight: ^77777750^000000
 Weapon Level: ^7777774^000000
@@ -8333,7 +8324,7 @@ Jobs: ^777777Transcendent Wizard / Acolyte Class^000000
 A staff made with a branch from the tree Yggdrasil, created with the sole purpose to heal. The staff has something inscribed in ancient language, saying "Mubeungjangsugiwon", or "Forever free of disease, and have a long life".
 MATK +125
 Increases 15% chance to yourself by ^008800Heal and Sanctuary^000000 skill.
-Class: ^777777Rod^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777710^000000
 Weight: ^7777770^000000
 Weapon Level: ^777777 3^000000
@@ -8344,7 +8335,7 @@ Jobs: ^777777Acolyte Class^000000
 A simple magic wand.
 MATK +32
 Impossible to refine.
-Class: ^777777Rod^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777715^000000
 Weight: ^77777740^000000
 Weapon Level: ^7777771^000000
@@ -8361,7 +8352,7 @@ Indestructible
 +6 Upgrade: Ignore Mdef of Demihuman monsters +5%.
 +9 Upgrade: MATK +5%, Variable Casting Time reduces by 5%,
 Cast delay reduces by 5%
-Class: ^777777One handed Staff^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777770^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
@@ -8376,7 +8367,7 @@ Delay reduces by 10% after using skills.
 +6 Upgrade: Ignore Mdef of Demihuman monsters +5%, HP Recovery +5%, ^0000ff[Bless]^000000 Lv 1
 +9 Upgrade: When using [Heal], has a chance of casting Lv. 10 [Heal].
 +10 Upgrade: HP Recovery +10%.
-Class: ^777777Staff^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777770^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
@@ -8388,7 +8379,7 @@ Jobs: ^777777Mage Class / Acolyte Class / Soul Linker^000000
 Staff Of Darkness.
 Decreases casting time by 5%.
 MATK +15%, INT +2
-Class: ^777777Rod^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^777777100^000000
 Weight: ^7777770^000000
 Weapon Level: ^777777 2^000000
@@ -8399,7 +8390,7 @@ A staff made out of magical wood. It possesses huge magical power, but it will m
 INT +4
 If refined to +6 or higher, Int increases by 1 per level, and	MaxHP -200, MaxSP -100.
 MATK +155
-Class: ^777777Staff^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^777777100^000000
 Weight: ^77777710^000000
 Weapon Level: ^7777774^000000
@@ -8410,10 +8401,9 @@ Jobs: ^777777Mage Class / Acolyte Class / Soul Linker^000000
 A staff with a jewel in it that causes shockwave every once in a while. The shockwave sometimes nullifies enemy's magic defense.
 MATK +15%, INT +4
 When you attack using magical ability, it will ignore 10% of their MDEF and deals damage accordingly. The amount ignored will increase depending on the refinement rate of this weapon.
-Class: ^777777Rod^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777780^000000
 Weight: ^77777750^000000
-Property: ^777777Neutral^000000
 Weapon Level: ^777777 3^000000
 Required Level: ^77777770^000000
 Jobs: ^777777Trans Mage Class, Trans Acolyte Class^000000
@@ -8424,7 +8414,7 @@ MATK +20%, INT +1, DEX +1
 Whenever you take a Physical Damage, small chance to cause ^880000Curse^000000 status ailment to every enemies in the screen. This chance is increased depending on the refinement rate of this weapon.
 [^333399Refine Rate 9~10^000000]
 You will receive bonus MATK +3%, MaxSP +300.
-Class: ^777777Rod^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777760^000000
 Weight: ^77777780^000000
 Property: ^777777Undead^000000
@@ -8471,42 +8461,42 @@ Jobs: ^777777Transcendent Mage Classes^000000
 A staff which is crafted by a stone that is often used when Laphines put magic power into it.
 Fixed Casting decreases by 1% for every upgrade level. (This effect does not stack with card's or other parts' decreasing effect.)
 MATK +180.
-Class: ^777777Staff^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777730^000000
 Weight: ^77777750^000000
 Weapon Level: ^7777773^000000
 Required Level: ^777777100^000000
-Jobs: ^777777Third Mage/Acolyte Class^000000
+Jobs: ^777777Third Mage and Acolyte Class^000000
 #
 1650#
 A staff that is made by the Eden Group. A basic item for a beginning Mage.
 INT +2 , MATK +125
 Cannot be upgraded.
-Class: ^777777Staff^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777760^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777772^000000
 Required Level: ^77777726^000000
-Jobs: ^777777Mage / Acolyte Class^000000
+Jobs: ^777777Mage and Acolyte Class^000000
 #
 1651#
 A staff that is made by the Eden Group. A basic item for an intermediate Mage.
 INT +3 , MATK +150
 Cannot be upgraded.
-Class: ^777777Staff^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777760^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777772^000000
 Required Level: ^77777740^000000
-Jobs: ^777777Mage / Acolyte Class^000000
+Jobs: ^777777Mage and Acolyte Class^000000
 #
 1652#
 ...
 MATK +15%, INT +2, AGI +1
-Class: ^777777Rod^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777735^000000
 Weight: ^77777750^000000
-Weapon Level: ^777777 1^000000
+Weapon Level: ^7777771^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Novice, Mage Class, Acolyte Class, Soul Linker^000000
 #
@@ -8519,11 +8509,11 @@ Increases effectiveness of Heal and Sanctuary skills by 18%.
 [+^6A5ACDGold PC Cafe^000000]
 Low chance of automatically use Heal when casting Heal.
 Increase effectiveness of Heal and Sanctuary skills by 5%
-Class: ^777777Rod^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777710^000000
 Weight: ^7777770^000000
 Property: ^777777Holy^000000
-Weapon Level: ^777777 3^000000
+Weapon Level: ^7777773^000000
 Jobs: ^777777Acolyte Class^000000
 #
 1654#
@@ -8532,12 +8522,12 @@ Fluctuate casting time of Psychic Wave decreased by 3 secs. Increases SP of Psyc
 ATK increased by 2% and MHP decreased by 2% for every upgrade above level 6.
 Loses SP 100 upon disrobement.
 MATK +170
-Class: ^777777One-Hand Staff^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777740^000000
 Weight: ^77777750^000000
 Weapon Level: ^7777773^000000
 Required Level: ^777777102^000000
-Jobs: ^777777Sorcerer Only^000000
+Jobs: ^777777Sorcerer^000000
 #
 1657#
 A Staff that radiates concern for the welfare of others.
@@ -8545,18 +8535,18 @@ Adds 10% Heal Bonus.
 MATK +160, INT +2
 If worn with Robes, Shoes, and Robe of Mercy Increase Heal Bonus by an additional 25% and SP consumption of 'Heal' by 20.
 Subtract 2 seconds from the reuse delay of Sacrement, Lauda Agnus and Lauda Ramus.
-Class: ^777777Staff^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777730^000000
 Weight: ^77777750^000000
 Weapon Level: ^7777774^000000
 Required Level: ^777777100^000000
-Jobs: ^777777"Archbishop^000000
+Jobs: ^777777Archbishop^000000
 #
 1658#
 A staff that is made by the Eden Group. An advanced item for an experienced magic practitioner.
 INT +4 , MATK +170
 Cannot be upgraded.
-Class: ^777777Staff^000000
+Class: ^777777One-handed Staff^000000
 Attack: ^77777760^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
@@ -8567,7 +8557,7 @@ Jobs: ^777777Mage Class/Acolyte Class^000000
 A staff that increases the potency of Heal and Archbishop Healing skills while increasing SP consumption depending on refine level.
 MATK +160.
 Indestructible.
-Class: ^777777One-handed Staff^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777730^000000
 Weight: ^77777740^000000
 Property: ^777777Holy^000000
@@ -8581,7 +8571,7 @@ Adds 20% Heal Bonus.
 MATK +180, INT +4.
 If worn with Robes, Shoes, and Robe of Mercy Increase Heal Bonus by an additional 45% and SP consumption of 'Heal' by 50.
 Subtract 3 seconds from the reuse delay of Sacrement, Lauda Agnus and Lauda Ramus.
-Class: ^777777Staff^000000
+Class: ^777777One-handed Staff^000000
 Attack: ^77777730^000000
 Weight: ^77777750^000000
 Weapon Level: ^7777774^000000
@@ -8611,10 +8601,10 @@ Thorn Surrounded by Strong Magical Sticks.
 MATK +160, INT +3, DEX +3
 Ignor opponent's magic defense, depend on refine level.
 After-cast delay reduced, depend on refine level.
-Class: ^777777Wand^000000
+Class: ^777777One-handed Staff^000000
 Attack: ^77777760^000000
 Weight: ^77777770^000000
-Sex: ^777777Female^000000
+Property: ^777777Darkness^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777775^000000
 Class: ^777777Wizard Class^000000
@@ -8633,7 +8623,7 @@ MATK + 100.
 Magic Attack Power +10% against other adventurers.
 Magic attacks have a high Blinding chance.
 Heal Amount +5%.
-Class: ^777777One Hand Staff^000000
+Class: ^777777One-handed Staff^000000
 Attack: ^77777750^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
@@ -8663,7 +8653,7 @@ Magical attacks have a chance to restore HP and SP.
 Drain 100 HP every 10 seconds.
 When unequipped, drain 1000 HP.
 MATK +200
-Class: ^777777Staff^000000
+Class: ^777777One-handed Staff^000000
 Attack: ^777777100^000000
 Weight: ^777777100^000000
 Weapon Level: ^7777774^000000
@@ -8679,7 +8669,7 @@ Refined to +9 or higher, additional Matk increase damage to all monsters and has
 ^008800RWC 2012 Pendant^000000
 Grants +5 MATK for every upgrade level
 ^ff0000These set bonuses do not work with the card-slotted RWC accessories^000000
-Class: ^777777One-handed Staff^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777725^000000
 Weight: ^77777750^000000
 Weapon Level: ^7777773^000000
@@ -8692,7 +8682,7 @@ This staff was once used for vanquishing an evil slayer and his followers.
 Refined to +9, increase MATK by 5%.
 Refined to +12, increase MATK by 7%.
 MATK +155
-Class: ^777777Staff^000000
+Class: ^777777One-handed Staff^000000
 Attack: ^77777730^000000
 Weight: ^77777780^000000
 Weapon Level: ^7777773^000000
@@ -8707,7 +8697,7 @@ Decrease aftercast delay 10%.
 With more than Base LV 100, MATK +30.
 With more than 9 refine level, Blind can be activated by a certain chance. SP consumption will be decreasd 10% when using skills.
 MATK + 150
-Class: ^777777One handed Staff^000000
+Class: ^777777One-handed Staff^000000
 Attack: ^77777760^000000
 Weight: ^777777120^000000
 Weapon Level: ^7777774^000000
@@ -8721,7 +8711,7 @@ MATK + 200
 Premium
 MAtk+ 20%
 Reduce 10% cast time.
-Class: ^777777Onehand Staff^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777750^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
@@ -8733,7 +8723,7 @@ Rod with red light radiance.
 INT +4, MATK +70.
 MATK increased by (Refine*Refine), up to +15 refine.
 Level 70 or higher:Per 10 BaseLevel,MATK +5.
-Class: ^777777One-handed Staff^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^77777760^000000
 Weight: ^77777760^000000
 Weapon Level: ^7777773^000000
@@ -8746,7 +8736,7 @@ Matk +130
 Enable use of level 5 Hell Inferno.
 Hell Inferno gives 100% damage.
 Every 1 refine of Shadow Staff give additional Hell Inferno damage by 10% and ignore 5% MDEF of enemy.
-Class: ^777777One-handed Staff^000000
+Class: ^777777One-Handed Staff^000000
 Attack: ^7777770^000000
 Weight: ^77777730^000000
 Weapon Level: ^7777774^000000
@@ -9282,7 +9272,7 @@ Attack: ^777777160^000000
 Weight: ^777777150^000000
 Weapon Level: ^7777773^000000
 Required Level: ^777777100^000000
-Jobs: ^777777Ranger, Minstrel, and Wanderer^000000
+Jobs: ^777777Third Archer Class^000000
 #
 1747#
 A bow that is made by the Eden Group. It's been remodeled for beginning Archers.
@@ -9292,7 +9282,7 @@ Attack: ^77777782^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777772^000000
 Required Level: ^77777726^000000
-Jobs: ^777777Archer Class/Thief/Rogue^000000
+Jobs: ^777777Archer Class, Thief and Rogue^000000
 #
 1748#
 A rich bow that is made by the Eden Group. It is suitable for intermediates who have handled a bow before.
@@ -9302,7 +9292,7 @@ Attack: ^777777120^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777772^000000
 Required Level: ^77777740^000000
-Jobs: ^777777Archer Class/Thief/Rogue^000000
+Jobs: ^777777Archer Class, Thief and Rogue^000000
 #
 1749#
 ...
@@ -10605,7 +10595,7 @@ Required Level: ^77777716^000000
 Jobs: ^777777Dancer^000000
 #
 1956#
-A whip with a spiked^FFFFFF		 ^000000 ball attached at the end.
+A whip with a spiked ball attached at the end.
 Class: ^777777Whip^000000
 Attack: ^777777135^000000
 Weight: ^77777790^000000
@@ -10614,7 +10604,7 @@ Required Level: ^77777730^000000
 Jobs: ^777777Dancer^000000
 #
 1957#
-A whip with a spiked^FFFFFF		 ^000000 ball attached at the end.
+A whip with a spiked ball attached at the end.
 Class: ^777777Whip^000000
 Attack: ^777777135^000000
 Weight: ^77777790^000000
@@ -11109,12 +11099,12 @@ Jupitel Thunder with
 each enemy attack;
 this chance can be
 increased by raising the weapon's Upgrade Level.
-Class: ^777777Staff^000000
+Class: ^777777Two-Handed Staff^000000
 Attack: ^777777130^000000
 Weight: ^777777250^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777780^000000
-Jobs: ^777777High Wizard Job^000000
+Jobs: ^777777High Wizard^000000
 #
 2001#
 This staff is made
@@ -11132,13 +11122,12 @@ reduction from Undead
 and Demon monsters
 when worn with
 Spiritual Ring.
-Class: ^777777Staff^000000
+Class: ^777777Two-Handed Staff^000000
 Attack: ^777777120^000000
 Weight: ^777777150^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777770^000000
-Jobs: ^777777Priest and
-Monk Classes^000000
+Jobs: ^777777Priest and Monk Classes^000000
 #
 2002#
 MATK +210
@@ -11147,13 +11136,13 @@ Ignore 25% of Magic Defense of Demihuman monsters.
 ***Additional Weapon Refining Level Option***
 +6 Upgrade: Ignore Magic Defense of Demihumans +5%, ^ff8027[Destruction]^000000 Lv 1 (Damage bonus of Destruction increases up to the upgrade level 14.)
 +9 Upgrade: When using Lv. 10 [Lord of Vermilion], Lv. 10 [Meteor Storm] or Lv. 10 [Storm Gust],
-		has a chance of casting Lv. 10 [Safety wall].
+has a chance of casting Lv. 10 [Safety wall].
 Class: ^777777Two-handed Staff^000000
 Attack: ^77777770^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777780^000000
-Jobs: ^777777Mage Class / Acolyte Class / Soul Linker^000000
+Jobs: ^777777Mage, Acolyte Class and Soul Linker^000000
 #
 2003#
 Two handed staff that seems to be possesing a tremendous power. The owner of the staff has to have a strong spiritual strength to use this staff properly.
@@ -11165,7 +11154,6 @@ Small chance to cast ^008800Level 5 Jupitel Thunder^000000 whenever you are atta
 Class: ^777777Two-handed Staff^000000
 Attack: ^777777130^000000
 Weight: ^777777250^000000
-Property: ^777777Neutral^000000
 Weapon Level: ^777777 4^000000
 Required Level: ^77777780^000000
 Jobs: ^777777High Wizard^000000
@@ -11198,7 +11186,7 @@ Jobs: ^777777Transcendent Acolyte Classes^000000
 A staff that possesses holy force and holds bright sunshine in it.
 INT +6.
 SP +150, MATK +18%
-Class: ^777777Rod^000000
+Class: ^777777Two-Handed Staff^000000
 Attack: ^77777780^000000
 Weight: ^777777190^000000
 Required Level: ^77777760^000000
@@ -11316,7 +11304,7 @@ MATK +70.
 [Sage] MATK +20
 [Per Refine] MATK +10, healing rate +1%
 Level 70 or Higher : MATK+10 for Every 10 BaseLevel
-Class: ^777777Two hand staff^000000
+Class: ^777777Two-Handed Staff^000000
 Attack: ^77777750^000000
 Weight: ^777777100^000000
 Weapon Level: ^7777773^000000
@@ -11329,7 +11317,7 @@ MATK +220
 Increases magic attack damage to enemy players by 25% and bypasses 25% Mdef.
 If refined to +6 or higher, increases magic attack damage done to enemy players by 15%.
 If refined to +9 or higher, reduces variable cast time by 20% and fixed cast time by 0.2 second.
-Class: ^777777Rod^000000
+Class: ^777777Two-Handed Staff^000000
 Attack: ^777777110^000000
 Weight: ^77777780^000000
 Weapon Level: ^7777774^000000
@@ -11349,7 +11337,7 @@ MATK +10
 Every refine increase MATK by 5.
 Base level 20: +5 MATK every 10 base level
 (Increase applies up to BaseLv 120)
-Class: ^777777Two Handed Staff^000000
+Class: ^777777Two-Handed Staff^000000
 Attack: ^77777750^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
@@ -11364,7 +11352,7 @@ MATK +130.
 Magic Attack Power 20% against other adventurers.
 Magic attacks have a high Stunning chance.
 Heal Amount +5%.
-Class: ^777777Two Handed Staff^000000
+Class: ^777777Two-Handed Staff^000000
 Attack: ^77777750^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
@@ -11378,7 +11366,7 @@ Magical attacks have a chance of causing Poison on the enemy.
 Melee Physical attacks have a chance of casting Deadly Poison on the enemy.
 Cannot be Upgraded.
 Indestructible.
-Class: ^777777Two Handed Staff^000000
+Class: ^777777Two-Handed Staff^000000
 Attack: ^777777200^000000
 Weight: ^777777300^000000
 Property: ^702180Poison^000000
@@ -11393,7 +11381,7 @@ Magic attacks have a chance of Poisoning the enemy or casting Level 1 Silentium.
 When you receive Melee Physical damage, this item creates a chance of causing Silence on your attacker.
 Cannot be Upgraded.
 Indestructible.
-Class: ^777777Two Handed Staff^000000
+Class: ^777777Two-Handed Staff^000000
 Attack: ^777777100^000000
 Weight: ^777777200^000000
 Weapon Level: ^7777774^000000
@@ -11403,7 +11391,7 @@ Jobs: ^777777Warlock^000000
 2022#
 It seems to be old because of how dusty it is. An ancient language is carved into the wood of the handle.
 INT +20, MATK +300.
-Class: ^777777Two Handed Staff^000000
+Class: ^777777Two-Handed Staff^000000
 Attack: ^777777100^000000
 Weight: ^777777100^000000
 Weapon Level: ^7777771^000000
@@ -11419,7 +11407,7 @@ Magical attack has chance to restore HP and SP.
 Drains 100 HP every 10 seconds.
 Drains 1000 HP as the item is unequipped.
 MATK +250
-Class: ^777777Two Handed Staff^000000
+Class: ^777777Two-Handed Staff^000000
 Attack: ^777777120^000000
 Weight: ^777777140^000000
 Weapon Level: ^7777774^000000
@@ -11444,7 +11432,7 @@ INT +5, MATK +150.
 MATK increased by (Refine*Refine), up to +15 refine.
 Level 70 or higher:Per 10 BaseLevel,MATK +5.
 Indestructible.
-Class: ^777777Two-handed staff^000000
+Class: ^777777Two-Handed staff^000000
 Attack: ^777777100^000000
 Weight: ^777777100^000000
 Weapon Level: ^7777773^000000
@@ -11457,7 +11445,7 @@ INT +6, MATK +200.
 Increase MATK by (refine*refine).
 (up to +15 refine level)
 Indestructible.
-Class: ^777777Two-handed staff^000000
+Class: ^777777Two-Handed staff^000000
 Attack: ^777777100^000000
 Weight: ^777777100^000000
 Weapon Level: ^7777774^000000
