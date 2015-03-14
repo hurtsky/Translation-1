@@ -492,9 +492,9 @@
 1154#Bastard_Sword#
 1155#Bastard_Sword#
 1156#Bastard_Sword#
-1157#Two-handed_Sword#
-1158#Two-handed_Sword#
-1159#Two-handed_Sword#
+1157#Two-Handed_Sword#
+1158#Two-Handed_Sword#
+1159#Two-Handed_Sword#
 1160#Broad_Sword#
 1161#Balmung#
 1162#Broad_Sword#
@@ -531,7 +531,7 @@
 1193#Eden_Slayer_II#
 1194#Rental_Executioner#
 1196#Two-Handed_Chrome_Metal_Sword#
-1197#Eden_Group_Slayer_III#
+1197#Eden_Slayer_III#
 1198#Hairtail#
 1201#Knife#
 1202#Knife#
@@ -621,7 +621,7 @@
 1286#Jamadhar#
 1287#Durga#
 1288#Bloody_Fear#
-1289#Eden_Group_Katar_I#
+1289#Eden_Katar_I#
 1290#Agent_Katar#
 1291#Guillotine_Katar#
 1292#Upgrade_Katar#
@@ -688,7 +688,7 @@
 1386#Doom_Slayer#
 1387#Giant_Axe#
 1388#Two-Handed_Axe#
-1391#Eden_Group_Two_Handed_Axe_I#
+1391#Eden_Two-Handed_Axe_I#
 1392#Ygnus_Stale#
 1393#End_Sektura#
 1394#Upgrade_Two-Handed_Axe#
@@ -730,7 +730,7 @@
 1430#Pike#
 1431#Rental_Pole_Axe#
 1433#Imperial_Spear#
-1434#Eden_Group_Spear_I#
+1434#Eden_Spear_I#
 1435#Cannon_Spear#
 1436#Vellum_Spear#
 1437#TE_WoE_Pike#
@@ -867,7 +867,7 @@
 1580#Giant_Encyclopedia#
 1581#Diary_Of_Great_Sage#
 1582#E_Diary_Of_Great_Sage_C#
-1583#Eden_Group_Dictionary_I#
+1583#Eden_Dictionary_I#
 1584#Chilly_Spell_Book#
 1585#Upgrade_Book#
 1586#Vellum_Bible#
@@ -938,7 +938,7 @@
 1653#Staff_Of_Healing#
 1654#Mental_Stick#
 1657#Wand_Of_Affection#
-1658#Eden_Group_Staff_III#
+1658#Eden_Staff_III#
 1659#Light_of_Recovery#
 1660#Protection_Staff_II#
 1661#Mental_Destroyer#
@@ -1063,7 +1063,7 @@
 1828#Monk_Knuckle#
 1829#Fist#
 1830#Sura's_Rampage#
-1831#Eden_Group_Knuckle_I#
+1831#Eden_Knuckle_I#
 1832#Vellum_Claw#
 1833#Claw_of_Flash#
 1834#TE_WoE_Fist#
@@ -1102,7 +1102,7 @@
 1928#Spirited_Guitar#
 1929#Guitar#
 1930#Green_Whistle#
-1931#Eden_Group_Guitar_I#
+1931#Eden_Guitar_I#
 1932#TE_WoE_Guitar#
 1933#Thanatos_Violin#
 1934#Double_Bass#
@@ -1147,7 +1147,7 @@
 1983#Rante_Whip#
 1984#Stem_Whip#
 1985#Rosevine#
-1986#Eden_Group_Whip_I#
+1986#Eden_Whip_I#
 1987#TE_WoE_Rope#
 1988#Thanatos_Whip#
 1989#Rhythmic_Gymnastics_Ribbon#
@@ -1179,7 +1179,7 @@
 2020#Jormungand#
 2021#Ganbantein#
 2022#Staff_of_Geffen#
-2023#Thanatos_Two-handed_Staff#
+2023#Thanatos_Two-Handed_Staff#
 2024#Infinity_Staff#
 2025#Crimson_Staff#
 2026#Staff_of_Evil_Spirit#
@@ -6872,7 +6872,7 @@
 13056#Counter_Dagger#
 13061#Black_Wing#
 13062#Ancient_Dagger#
-13066#Eden_Group_Dagger_III#
+13066#Eden_Dagger_III#
 13067#Keris#
 13068#Saurel#
 13069#Aztoe_Nail#
@@ -6917,7 +6917,7 @@
 13111#Sharpshooter_Revolver#
 13112#Eden_Revolver_I#
 13113#Eden_Revolver_II#
-13114#Eden_Group_Revolver_III#
+13114#Eden_Revolver_III#
 13115#Upgrade_Revolver#
 13116#Beginner_Revolver#
 13117#TE_WoE_Gun#
@@ -7061,7 +7061,7 @@
 13307#Glorious_Shuriken#
 13308#Huuma_Blaze_Shuriken#
 13309#Huuma_Giant_Wheel_Shuriken#
-13310#Eden_Group_Huuma_Shuriken_I#
+13310#Eden_Huuma_Shuriken_I#
 13311#Huuma_Shadow#
 13312#Huuma_Job_Test#
 13313#Huuma_Swirling_Petal#
@@ -7096,15 +7096,15 @@
 13420#Honglyun's_Sword#
 13421#Ruber#
 13422#Flamberge#
-13423#Eden_Sabre_I#
-13424#Eden_Sabre_II#
+13423#Eden_Saber_I#
+13424#Eden_Saber_II#
 13425#Traveler's_Sword#
 13426#Rental_Cutlas#
 13427#Rental_Solar_Sword#
 13428#Priest_Sword#
 13431#Chrome_Metal_Sword#
 13433#Academy_Sword#
-13434#Eden_Group_Saber_III#
+13434#Eden_Saber_III#
 13435#Fireblend#
 13436#Ice_Falchion#
 13437#Orcish_Sword#
@@ -8413,7 +8413,7 @@
 16008#Rental_Wrench#
 16010#Red_Ether_Bag#
 16013#Mace_Of_Judgement#
-16014#Eden_Group_Mace3#
+16014#Eden_Group_Mace_III#
 16015#Cat_Club#
 16016#Tuna#
 16017#Bloody_Cross#
@@ -9561,7 +9561,7 @@
 18100#Shooting_Star#
 18101#Rental_Bow_Of_Rudra#
 18103#Mystic_Bow#
-18106#Eden_Group_Bow3#
+18106#Eden_Bow_III#
 18107#Malang_Snow_Crab#
 18108#Brindle_Eel#
 18109#Catapult#
@@ -9586,9 +9586,9 @@
 18130#Crimson_Bow#
 18500#Cheering_scarf_VI#
 18501#Cheering_scarf_VIII#
-18502#Cheering_scarf_X#
+18502#Cheering_Scarf_X#
 18503#Small_Devil_Horns#
-18504#Anubis_Helm_J#
+18504#Anubis_Helm#
 18505#Umbala_Spirit#
 18506#Hatta_Black#
 18507#Elven_Ears#
@@ -9691,7 +9691,7 @@
 18606#Tear_drop#
 18607#Blush#
 18608#Small_Ribbons#
-18609#Dark_Blinder#
+18609#Dark_Blinker#
 18610#7th_Anni_Hat_B#
 18611#Black_Frame_Glasses#
 18612#White_Musang_Hat#
@@ -9704,9 +9704,9 @@
 18619#Thief_Bandana#
 18620#Heart_Eyepatch#
 18621#Mobster's_Disguise#
-18622#Rocket_Helm1#
-18623#Rocket_Helm2#
-18624#Rocket_Helm3#
+18622#Rocket_Helm#
+18623#Rocket_Helm#
+18624#Rocket_Helm#
 18625#Rocket_Helm#
 18626#Gelato_Hat#
 18627#Dried_Leaf#
@@ -10881,8 +10881,8 @@
 21009#Thanatos_Great_Sword#
 21010#Evil_Slayer_Slasher_Sword#
 21011#Gigantic_Blade#
-21014#Infinity_Two-handed_Sword#
-21015#Crimson_Two-handed_Sword#
+21014#Infinity_Two-Handed_Sword#
+21015#Crimson_Two-Handed_Sword#
 21016#Two_Handed_Sword_of_Evil_Spirit#
 21018#Lindy_hop#
 21019#Onimaru#

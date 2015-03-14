@@ -2461,7 +2461,7 @@ Weight: ^7777771^000000
 #
 1101#
 A basic one-handed sword.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^77777725^000000
 Weight: ^77777750^000000
 Weapon Level: ^7777771^000000
@@ -2472,7 +2472,7 @@ and Thief Classes^000000
 #
 1102#
 A basic one-handed sword.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^77777725^000000
 Weight: ^77777750^000000
 Weapon Level: ^7777771^000000
@@ -2483,7 +2483,7 @@ and Thief Classes^000000
 #
 1103#
 A basic one-handed sword.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^77777725^000000
 Weight: ^77777750^000000
 Weapon Level: ^7777771^000000
@@ -2494,7 +2494,7 @@ and Thief Classes^000000
 #
 1104#
 A one-handed sword with a rounded blade.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^77777739^000000
 Weight: ^77777760^000000
 Weapon Level: ^7777771^000000
@@ -2505,7 +2505,7 @@ and Thief Classes^000000
 #
 1105#
 A one-handed sword with a rounded blade.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^77777739^000000
 Weight: ^77777760^000000
 Weapon Level: ^7777771^000000
@@ -2516,7 +2516,7 @@ and Thief Classes^000000
 #
 1106#
 A one-handed sword with a rounded blade.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^77777739^000000
 Weight: ^77777760^000000
 Weapon Level: ^7777771^000000
@@ -2527,7 +2527,7 @@ and Thief Classes^000000
 #
 1107#
 A one-handed sword with a thick, flat blade.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^77777753^000000
 Weight: ^77777770^000000
 Weapon Level: ^7777771^000000
@@ -2538,7 +2538,7 @@ and Thief Classes^000000
 #
 1108#
 A one-handed sword with a thick, flat blade.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^77777753^000000
 Weight: ^77777770^000000
 Weapon Level: ^7777771^000000
@@ -2549,7 +2549,7 @@ and Thief Classes^000000
 #
 1109#
 A one-handed sword with a thick, flat blade.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^77777753^000000
 Weight: ^77777770^000000
 Weapon Level: ^7777771^000000
@@ -2560,7 +2560,7 @@ and Thief Classes^000000
 #
 1110#
 A one-handed sword with an elegant blade and crossguard.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^77777770^000000
 Weight: ^77777750^000000
 Weapon Level: ^7777772^000000
@@ -2571,7 +2571,7 @@ and Thief Classes^000000
 #
 1111#
 A one-handed sword with an elegant blade and crossguard.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^77777770^000000
 Weight: ^77777750^000000
 Weapon Level: ^7777772^000000
@@ -2582,7 +2582,7 @@ and Thief Classes^000000
 #
 1112#
 A one-handed sword with an elegant blade and crossguard.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^77777770^000000
 Weight: ^77777750^000000
 Weapon Level: ^7777772^000000
@@ -2593,7 +2593,7 @@ and Thief Classes^000000
 #
 1113#
 A strong, swift one-handed sword with a curved blade.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^77777785^000000
 Weight: ^77777770^000000
 Weapon Level: ^7777772^000000
@@ -2604,7 +2604,7 @@ and Thief Classes^000000
 #
 1114#
 A strong, swift one-handed sword with a curved blade.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^77777785^000000
 Weight: ^77777770^000000
 Weapon Level: ^7777772^000000
@@ -2615,7 +2615,7 @@ and Thief Classes^000000
 #
 1115#
 A strong, swift one-handed sword with a curved blade.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^77777785^000000
 Weight: ^77777770^000000
 Weapon Level: ^7777772^000000
@@ -2626,7 +2626,7 @@ and Thief Classes^000000
 #
 1116#
 A straight bladed sword that the Japanese samurai depended on during battle.
-Class: ^777777Two-handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^77777760^000000
 Weight: ^777777100^000000
 Weapon Level: ^7777771^000000
@@ -2635,7 +2635,7 @@ Jobs: ^777777Swordman Class^000000
 #
 1117#
 A straight bladed sword that the Japanese samurai depended on during battle.
-Class: ^777777Two-handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^77777760^000000
 Weight: ^777777100^000000
 Weapon Level: ^7777771^000000
@@ -2644,7 +2644,7 @@ Jobs: ^777777Swordman Class^000000
 #
 1118#
 A straight bladed sword that the Japanese samurai depended on during battle.
-Class: ^777777Two-handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^77777760^000000
 Weight: ^777777100^000000
 Weapon Level: ^7777771^000000
@@ -2653,7 +2653,7 @@ Jobs: ^777777Swordman Class^000000
 #
 1119#
 One of the most powerful one-handed swords, the Tsurugi was favored by the Japanese samurai.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777130^000000
 Weight: ^777777120^000000
 Weapon Level: ^7777773^000000
@@ -2664,7 +2664,7 @@ Thief Classes^000000
 #
 1120#
 One of the most powerful one-handed swords, the Tsurugi was favored by the Japanese samurai.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777130^000000
 Weight: ^777777120^000000
 Weapon Level: ^7777773^000000
@@ -2675,7 +2675,7 @@ Thief Classes^000000
 #
 1121#
 One of the most powerful one-handed swords, the Tsurugi was favored by the Japanese samurai.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777130^000000
 Weight: ^777777120^000000
 Weapon Level: ^7777773^000000
@@ -2686,7 +2686,7 @@ Thief Classes^000000
 #
 1122#
 A one-handed sword with an elaborately designed hilt.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777100^000000
 Weight: ^77777790^000000
 Weapon Level: ^7777772^000000
@@ -2698,7 +2698,7 @@ Thief Classes^000000
 1123#
 A one-handed, ancient Korean sword that is said to have the mysterious power to control minds.
 INT +3
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777120^000000
 Weight: ^77777790^000000
 Weapon Level: ^7777773^000000
@@ -2713,7 +2713,7 @@ and used by Orc Warriors,
 this one-handed sword is
 symbolic to the Orc tribe.
 Indestructible.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^77777790^000000
 Weight: ^77777780^000000
 Weapon Level: ^7777773^000000
@@ -2724,7 +2724,7 @@ and Thief Classes^000000
 #
 1125#
 A one-handed sword with an elaborately designed hilt.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777100^000000
 Weight: ^77777790^000000
 Weapon Level: ^7777772^000000
@@ -2735,7 +2735,7 @@ Thief Classes^000000
 #
 1126#
 A heavy one-handed cavalry sword with a slightly curved blade.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777115^000000
 Weight: ^777777100^000000
 Weapon Level: ^7777773^000000
@@ -2746,7 +2746,7 @@ Thief Classes^000000
 #
 1127#
 A heavy one-handed cavalry sword with a slightly curved blade.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777115^000000
 Weight: ^777777100^000000
 Weapon Level: ^7777773^000000
@@ -2758,7 +2758,7 @@ Thief Classes^000000
 1128#
 A one-handed, ancient Korean sword that is said to have the mysterious power to control minds.
 INT +3
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777120^000000
 Weight: ^77777790^000000
 Weapon Level: ^7777773^000000
@@ -2768,9 +2768,8 @@ Merchant, and
 Thief Classes^000000
 #
 1129#
-A powerful one-handed
-sword with a decoratively wavy, flame-like blade.
-Class: ^777777Sword^000000
+A powerful one-handed sword with a decoratively wavy, flame-like blade.
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777150^000000
 Weight: ^777777150^000000
 Weapon Level: ^7777773^000000
@@ -2782,7 +2781,7 @@ A one-handed sword
 topped with several extra edges for making wounds deeper and more unsightly.
 Increases damage against Demihuman monsters by 5%
 Enables use of ^008800Level 5 Double Attack^000000.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777120^000000
 Weight: ^77777750^000000
 Weapon Level: ^7777774^000000
@@ -2802,7 +2801,7 @@ Freeze monsters by
 5% chance when hit.
 Freeze its owner by
 1% chance when used.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777100^000000
 Weight: ^77777760^000000
 Property: ^6996ADWater^000000
@@ -2815,7 +2814,7 @@ Thief Classes^000000
 1132#
 A one-handed sword
 with an extremely sharp blade that can cause the Coma effect by low chance. Places Curse effect on its target by a 3% chance.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777115^000000
 Weight: ^77777770^000000
 Weapon Level: ^7777774^000000
@@ -2831,7 +2830,7 @@ with the ^FF0000Fire^000000 property. Automatically casts
 ^008800Level 3 Fire Bolt^000000 by
 chance. Enables use
 of ^008800Level 3 Fire Bolt^000000.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777100^000000
 Weight: ^77777750^000000
 Property: ^FF0000Fire^000000
@@ -2848,7 +2847,7 @@ a pair of scissors.
 Increase damage inflicted on Plant monsters by 25%.
 Pierces Defense
 of Plant monsters.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777140^000000
 Weight: ^77777770^000000
 Weapon Level: ^7777774^000000
@@ -2865,7 +2864,7 @@ Enables use of
 ^008800Level 5 Bash^000000.
 STR +2
 Def +1
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777150^000000
 Weight: ^77777790^000000
 Weapon Level: ^7777774^000000
@@ -2881,7 +2880,7 @@ Regains 1% of damage inflicted on its target as as HP with each attack.
 Regains 1 % of the damage inflicted on its target as HP with each attack.
 Drains 15 SP from its
 owner every 10 seconds.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^77777785^000000
 Weight: ^777777120^000000
 Property: ^FF0000Fire^000000
@@ -2897,7 +2896,7 @@ of Arthurian legend, it supposedly selects its owner by its own will to wield it
 INT +5
 LUK +10
 DEX -1
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777150^000000
 Weight: ^777777120^000000
 Property: ^777777Holy^000000
@@ -2916,7 +2915,7 @@ effect by low chance.
 Increase damage inflicted
 on ^777777Ghost^000000 property by 15%.
 DEX +3
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777170^000000
 Weight: ^777777100^000000
 Property: ^777777Shadow^000000
@@ -2931,7 +2930,7 @@ A one-handed sword
 said to bring a horrific fate to whoever wields it.
 Drains 35 HP
 every 10 seconds.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777200^000000
 Weight: ^777777100^000000
 Property: ^777777Shadow^000000
@@ -2948,7 +2947,7 @@ Korean war generals.
 Increase damage inflicted on boss monsters by 5%.
 Increase damage received by normal monsters by 10%.
 All Stats +2
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777150^000000
 Weight: ^77777790^000000
 Weapon Level: ^7777774^000000
@@ -2964,7 +2963,7 @@ SP by a low chance.
 Each attack drains
 1 SP from owner.
 Indestructible.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777140^000000
 Weight: ^77777790^000000
 Property: ^777777Ghost^000000
@@ -2978,7 +2977,7 @@ Thief Classes^000000
 A sword that has a
 beautiful, transparent
 blade and a hilt adorned with a princely jewel.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777104^000000
 Weight: ^777777220^000000
 Weapon Level: ^7777773^000000
@@ -2988,17 +2987,13 @@ Merchant, and
 Thief Classes^000000
 #
 1143#
-An enchanted sword
-that draws ore out
-from fallen monsters.
-Class: ^777777Sword^000000
+An enchanted sword that draws ore out from fallen monsters.
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777115^000000
 Weight: ^777777250^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777774^000000
-Jobs: ^777777Swordman,
-Merchant, and
-Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief Classes^000000
 #
 1144#
 An extremely sharp,
@@ -3009,20 +3004,18 @@ Japanese cuisine.
 Increases Sushi drop
 chance when killing
 Fish monsters by 40%.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^77777775^000000
 Weight: ^777777140^000000
 Property: ^777777Wind^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777748^000000
-Jobs: ^777777Swordman,
-Merchant, and
-Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief Classes^000000
 #
 1145#
 A sword that symbolizes the Lord's holy retribution.
 Enchanted with Holy Property.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777125^000000
 Weight: ^777777135^000000
 Weapon Level: ^7777773^000000
@@ -3034,7 +3027,7 @@ A common, humbly
 made sword that is
 intended for the use
 of those without any special sword expertise.
-Class: ^777777One Handed Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777100^000000
 Weight: ^77777780^000000
 Weapon Level: ^7777773^000000
@@ -3046,7 +3039,7 @@ A common, humbly
 made sword that is
 intended for the use
 of those without any special sword expertise.
-Class: ^777777One Handed Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777100^000000
 Weight: ^77777780^000000
 Weapon Level: ^7777773^000000
@@ -3061,7 +3054,7 @@ of causing Stun effect
 on enemies with each
 attack. Cannot be
 destroyed in battle.
-Class: ^777777One Handed Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777140^000000
 Weight: ^777777100^000000
 Weapon Level: ^7777774^000000
@@ -3073,7 +3066,7 @@ A beautiful, wavy
 bladed dagger that
 inflicts especially
 excruciating pain.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777150^000000
 Weight: ^777777150^000000
 Weapon Level: ^7777773^000000
@@ -3084,7 +3077,7 @@ Jobs: ^777777Knight, Crusader^000000
 A fearsome sword
 that has slain many
 a warrior in battle.
-Class: ^777777Two-handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^77777790^000000
 Weight: ^777777130^000000
 Weapon Level: ^7777772^000000
@@ -3095,7 +3088,7 @@ Jobs: ^777777Swordman Class^000000
 A fearsome sword
 that has slain many
 a warrior in battle.
-Class: ^777777Two-handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^77777790^000000
 Weight: ^777777130^000000
 Weapon Level: ^7777772^000000
@@ -3106,7 +3099,7 @@ Jobs: ^777777Swordman Class^000000
 A fearsome sword
 that has slain many
 a warrior in battle.
-Class: ^777777Two-handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^77777790^000000
 Weight: ^777777130^000000
 Weapon Level: ^7777772^000000
@@ -3115,7 +3108,7 @@ Jobs: ^777777Swordman Class^000000
 #
 1154#
 A straight bladed sword that can be brutally swung just like a baseball bat.
-Class: ^777777Two-handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777115^000000
 Weight: ^777777160^000000
 Weapon Level: ^7777772^000000
@@ -3124,7 +3117,7 @@ Jobs: ^777777Swordman Class^000000
 #
 1155#
 A straight bladed sword that can be brutally swung just like a baseball bat.
-Class: ^777777Two-handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777115^000000
 Weight: ^777777160^000000
 Weapon Level: ^7777772^000000
@@ -3133,7 +3126,7 @@ Jobs: ^777777Swordman Class^000000
 #
 1156#
 A straight bladed sword that can be brutally swung just like a baseball bat.
-Class: ^777777Two-handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777115^000000
 Weight: ^777777160^000000
 Weapon Level: ^7777772^000000
@@ -3141,8 +3134,8 @@ Required Level: ^77777718^000000
 Jobs: ^777777Swordman Class^000000
 #
 1157#
-A mighty, yet awfully basic, two-handed sword.
-Class: ^777777Two-handed Sword^000000
+A mighty, yet awfully basic, Two-Handed Sword.
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777160^000000
 Weight: ^777777220^000000
 Weapon Level: ^7777773^000000
@@ -3150,8 +3143,8 @@ Required Level: ^77777733^000000
 Jobs: ^777777Swordman Class^000000
 #
 1158#
-A mighty, yet awfully basic, two-handed sword.
-Class: ^777777Two-handed Sword^000000
+A mighty, yet awfully basic, Two-Handed Sword.
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777160^000000
 Weight: ^777777220^000000
 Weapon Level: ^7777773^000000
@@ -3159,8 +3152,8 @@ Required Level: ^77777733^000000
 Jobs: ^777777Swordman Class^000000
 #
 1159#
-A mighty, yet awfully basic, two-handed sword.
-Class: ^777777Two-handed Sword^000000
+A mighty, yet awfully basic, Two-Handed Sword.
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777160^000000
 Weight: ^777777220^000000
 Weapon Level: ^7777773^000000
@@ -3170,7 +3163,7 @@ Jobs: ^777777Swordman Class^000000
 1160#
 A sword with a wide, double sided blade.
 DEF +5
-Class: ^777777Two-handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777140^000000
 Weight: ^777777200^000000
 Weapon Level: ^7777773^000000
@@ -3182,7 +3175,7 @@ Sword wielded by
 mighty ^333366GOD-POING^000000,
 the lawless heroine.
 INT +20 , LUK +20
-Class: ^777777Two-handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777250^000000
 Weight: ^777777100^000000
 Weapon Level: ^7777774^000000
@@ -3192,7 +3185,7 @@ Jobs: ^777777All^000000
 1162#
 A sword with a wide, double sided blade.
 DEF +5
-Class: ^777777Two-handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777140^000000
 Weight: ^777777200^000000
 Weapon Level: ^7777773^000000
@@ -3201,7 +3194,7 @@ Jobs: ^777777Swordman Class^000000
 #
 1163#
 Large, double-edged broad sword that was used by the Scottish highlanders.
-Class: ^777777Two-handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777180^000000
 Weight: ^777777250^000000
 Weapon Level: ^7777773^000000
@@ -3209,13 +3202,11 @@ Required Level: ^77777733^000000
 Jobs: ^777777Knight, Crusader^000000
 #
 1164#
-An oriental sword
-named after a legendary Japanese swordsmith.
-Curses its owner
-by a low chance.
+An oriental sword named after a legendary Japanese swordsmith.
+Curses its owner by a low chance.
 CRIT +30%
 ASPD +8%
-Class: ^777777Two-handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777155^000000
 Weight: ^777777100^000000
 Weapon Level: ^7777774^000000
@@ -3223,12 +3214,11 @@ Required Level: ^77777748^000000
 Jobs: ^777777Swordman Class^000000
 #
 1165#
-An oriental sword that
-is the masterpiece of an ancient Japanese smith.
+An oriental sword that is the masterpiece of an ancient Japanese smith.
 Decreases all Defense applied on owner by half.
 ASPD +2
 STR -5
-Class: ^777777Two-handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777200^000000
 Weight: ^777777100^000000
 Weapon Level: ^7777774^000000
@@ -3240,7 +3230,7 @@ A giant sword, rumored to be made from a dragon's tooth, that can easily cut thr
 Increases damage inflicted on Dragon monsters by 15%.
 Pierces defense of
 Dragon monsters.
-Class: ^777777Two-handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777150^000000
 Weight: ^777777130^000000
 Weapon Level: ^7777774^000000
@@ -3248,12 +3238,10 @@ Required Level: ^77777748^000000
 Jobs: ^777777Swordman Class^000000
 #
 1167#
-A two-handed, formal
-dress sword imbued
-with the ^7BCC70Wind^000000 property. Automatically casts
-^008800Level 3 Lightning Bolt^000000 by chance.
+A two-handed, formal dress sword imbued with the ^7BCC70Wind^000000 property.
+Automatically casts ^008800Level 3 Lightning Bolt^000000 by chance.
 DEF +1
-Class: ^777777Two-handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777160^000000
 Weight: ^777777160^000000
 Property: ^7BCC70Wind^000000
@@ -3263,10 +3251,10 @@ Jobs: ^777777Swordman Class^000000
 #
 1168#
 An enormous,
-two-handed sword.
+Two-Handed Sword.
 Indestructible (except
 in upgrade attempts).
-Class: ^777777Two-handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777200^000000
 Weight: ^777777220^000000
 Weapon Level: ^7777774^000000
@@ -3279,7 +3267,7 @@ to behead criminals judged with the death penalty.
 Pierces Defense of
 Demihuman monsters.
 Increases damage inflicted on Demihuman monsters by 20%, but increases damage received by Demihuman monsters by 10%.
-Class: ^777777Two-handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777155^000000
 Weight: ^777777220^000000
 Property: ^777777Shadow^000000
@@ -3288,11 +3276,9 @@ Required Level: ^77777748^000000
 Jobs: ^777777Swordman Class^000000
 #
 1170#
-A sword with
-a unique, ''S''
-shaped hilt.
-VIT +5 , DEF +10
-Class: ^777777Two-handed Sword^000000
+A sword with a unique, ''S'' shaped hilt.
+VIT +5, DEF +10
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777175^000000
 Weight: ^777777200^000000
 Weapon Level: ^7777774^000000
@@ -3300,11 +3286,9 @@ Required Level: ^77777748^000000
 Jobs: ^777777Swordman Class^000000
 #
 1171#
-An enormous sword
-that can only be swung
-using both hands.
-Indestructible in battle.
-Class: ^777777Two-handed Sword^000000
+An enormous sword that can only be swung using both hands.
+Indestructible.
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777200^000000
 Weight: ^777777220^000000
 Weapon Level: ^7777774^000000
@@ -3312,10 +3296,8 @@ Required Level: ^77777748^000000
 Jobs: ^777777Swordman Class^000000
 #
 1172#
-A simple, two-handed
-sword adorned with a
-cross shaped hilt.
-Class: ^777777Two-handed Sword^000000
+A simple, two-handed sword adorned with a cross shaped hilt.
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777180^000000
 Weight: ^777777250^000000
 Weapon Level: ^7777773^000000
@@ -3343,7 +3325,7 @@ Pierces Defense of
 Demihuman monsters.
 Increases damage inflicted on Demihuman monsters by 20%, but increases damage received by Demihuman monsters by 10%.
 This item cannot be Dropped or Traded.
-Class: ^777777Two-handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777190^000000
 Weight: ^7777770^000000
 Property: ^777777Shadow^000000
@@ -3352,15 +3334,9 @@ Required Level: ^7777771^000000
 Jobs: ^777777Swordman Class^000000
 #
 1175#
-A massive sword
-wielded by Atroce
-that is much too
-large to be handled
-by ordinary warriors.
-CRI +10%. Destroys
-enemy armor if the
-wearer's STR is 80
-or greater.
+A massive sword wielded by Atroce that is much too large to be handled by ordinary warriors.
+CRIT +10%
+Destroys enemy armor if the wearer's STR is 80 or greater.
 Class: ^777777Two-Handed Sword^000000
 Attack: ^777777200^000000
 Weight: ^777777350^000000
@@ -3392,19 +3368,17 @@ Swordman Classes^000000
 ^ff0000Item cannot be traded with other characters.^000000
 Item For Brave Guild Adventurers.
 +50% Damage.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777120^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777771^000000
 Jobs: ^777777Swordsman Class Only^000000
 #
 1178#
-A two-handed, formal
-dress sword imbued
-with the ^7BCC70Wind^000000 property. Automatically casts
-^008800Level 3 Lightning Bolt^000000 by chance.
+A two-handed, formal dress sword imbued with the ^7BCC70Wind^000000 property.
+Automatically casts ^008800Level 3 Lightning Bolt^000000 by chance.
 DEF +1
-Class: ^777777Two-handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777160^000000
 Weight: ^777777160^000000
 Property: ^7BCC70Wind^000000
@@ -3413,12 +3387,10 @@ Required Level: ^77777748^000000
 Jobs: ^777777Swordman Class^000000
 #
 1179#
-A gruesome sword used
-to behead criminals judged with the death penalty.
-Pierces Defense of
-Demihuman monsters.
+A gruesome sword used to behead criminals judged with the death penalty.
+Pierces Defense of Demihuman monsters.
 Increases damage inflicted on Demihuman monsters by 20%, but increases damage received by Demihuman monsters by 10%.
-Class: ^777777Two-handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777155^000000
 Weight: ^777777220^000000
 Property: ^777777Shadow^000000
@@ -3429,9 +3401,8 @@ Jobs: ^777777Swordman Class^000000
 1180#
 A giant sword, rumored to be made from a dragon's tooth, that can easily cut through dragon scales.
 Increases damage inflicted on Dragon monsters by 15%.
-Pierces defense of
-Dragon monsters.
-Class: ^777777Two-handed Sword^000000
+Pierces defense of Dragon monsters.
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777150^000000
 Weight: ^777777130^000000
 Weapon Level: ^7777774^000000
@@ -3443,7 +3414,7 @@ This is known as the sword of a brave man from the orient.
 Perfect Dodge +10.
 If player is Job Level 70 (If player is a Rune Knight job level needs to be 50) has a chance of receiving ATK +50 for 10 seconds when physically attacked.
 If upgrade level is +9, skill cast time and after-casting delay decreases by 20%.
-Class: ^777777Two-handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777250^000000
 Weight: ^777777200^000000
 Property: ^777777Neutral^000000
@@ -3455,7 +3426,7 @@ Jobs: ^777777Transcendent Swordman only^000000
 A magical sword which releases a dismal black aura.
 When dealing physical damage, has a low chance of gaining CRIT +100 and ATK +50 for 5 seconds.
 Recover 100 HP when killing an enemy.
-Class: ^777777Two-handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777200^000000
 Weight: ^777777120^000000
 Property: ^777777Ghost^000000
@@ -3464,12 +3435,12 @@ Required Level: ^77777780^000000
 Jobs: ^777777Transcendent Swordman Class^000000
 #
 1183#
-A Two-handed Sword made to rush at the enemy's position, especially designed for battles against Demihumans.
+A Two-Handed Sword made to rush at the enemy's position, especially designed for battles against Demihumans.
 STR +2
 Increases Physical Attack Strength towards Demihuman monsters by 55%.
 Ignores Physical Defense from Demihuman monsters by 20%.
 Indestructible.
-Class: ^777777Two-handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777200^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
@@ -3477,12 +3448,12 @@ Required Level: ^77777780^000000
 Jobs: ^777777Swordman Class^000000
 #
 1184#
-A Two-handed Sword made to rush at the enemy's position, especially designed for battles against Demihumans.
+A Two-Handed Sword made to rush at the enemy's position, especially designed for battles against Demihumans.
 CRI +20
 Increases Physical Attack Strength to Demihuman monsters by 55%.
 Increases Critical damage by 20%.
 Indestructible.
-Class: ^777777Two-handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777200^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
@@ -3493,7 +3464,7 @@ Jobs: ^777777Swordman Class^000000
 A huge violet Two-Handed Sword that's made from the Twin Swords of Naght Sieger.
 When attacking there is a chance that for 5 seconds you will completely disregard the defense of the opponent.
 Has a chance of autocasting ^FF0000Lv. 3 Meteor Storm^000000 and/or ^FF0000Lv. 5 Frost Nova^000000 with each physical attack.
-Class: ^777777Two-handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777275^000000
 Weight: ^777777220^000000
 Weapon Level: ^7777774^000000
@@ -3520,8 +3491,8 @@ Ignore 25% of Physical Defense of Demihuman monsters.
 ***Additional Weapon Refining Level Option***
 +6 Upgrade: Ignore Defense of Demihuman monsters +5%, ^ff0000[Slaughter]^000000 Lv 2 (Damage bonus of Slaughter increases up to the upgrade level 14.)
 +9 Upgrade: When physically attacking, has a chance of casting
-		Lv. 1 [Spear Dynamo] and Lv. 1[Aura Blade].
-		*If a higher level of either spell has been learned, the corresponding level is activated.
+Lv. 1 [Spear Dynamo] and Lv. 1[Aura Blade].
+*If a higher level of either spell has been learned, the corresponding level is activated.
 Class: ^777777Twohand Sword^000000
 Attack: ^777777220^000000
 Weight: ^7777770^000000
@@ -3558,16 +3529,16 @@ Large, double-edged broad sword that was used by the Scottish highlanders.
 Increases damage against small, medium, large size monsters by 40%.
 [+^6A5ACDGold PC Cafe^000000]
 ATK +10, MATK +10
-Class: ^777777Two-handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777220^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Knight, Crusader^000000
 #
 1191#
-A reddish wide two-handed sword.
+A reddish wide Two-Handed Sword.
 Increases ASPD by 1 for every 2 upgrade levels.
-Class: ^777777Two-handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777280^000000
 Weight: ^777777340^000000
 Weapon Level: ^7777773^000000
@@ -3575,9 +3546,9 @@ Required Level: ^777777100^000000
 Jobs: ^777777Rune Knight^000000
 #
 1192#
-A two-handed sword that is made by the Eden Group for a beginner Swordman.
+A Two-Handed Sword that is made by the Eden Group for a beginner Swordman.
 Cannot be upgraded.
-Class: ^777777Two-handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777162^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777772^000000
@@ -3585,9 +3556,9 @@ Required Level: ^77777726^000000
 Jobs: ^777777Swordman Class^000000
 #
 1193#
-A two-handed sword that is made by the Eden Group. It is suitable for intermediates who have more experience handling two-handed swords.
+A Two-Handed Sword that is made by the Eden Group. It is suitable for intermediates who have more experience handling Two-Handed Swords.
 Cannot be upgraded.
-Class: ^777777Two-handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777185^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777772^000000
@@ -3600,7 +3571,7 @@ A gruesome sword used to behead criminals judged with the death penalty.
 Pierces Defense of Demihuman monsters.
 Increases damage inflicted on Demihuman monsters by 20%, but increases damage received by Demihuman monsters by 10%.
 This item cannot be Dropped or Traded.
-Class: ^777777Two-handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777190^000000
 Weight: ^7777770^000000
 Property: ^777777Shadow^000000
@@ -3620,9 +3591,9 @@ Required Level: ^777777110^000000
 Jobs: ^777777Swordman Class Type^000000
 #
 1197#
-A two-handed sword that is made by the Eden Group. It is suitable for those who have more advanced experience handling two-handed swords.
+A Two-Handed Sword that is made by the Eden Group. It is suitable for those who have more advanced experience handling Two-Handed Swords.
 Cannot be upgraded.
-Class: ^777777Two-handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777200^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
@@ -4085,7 +4056,6 @@ A wide bladed short sword that was crafted in a western country.
 Class: ^777777Dagger^000000
 Attack: ^777777110^000000
 Weight: ^77777770^000000
-Property: ^777777Neutral^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777730^000000
 Jobs: ^777777Novice Class^000000
@@ -4095,7 +4065,6 @@ A wide bladed short sword that was crafted in a western country.
 Class: ^777777Dagger^000000
 Attack: ^777777110^000000
 Weight: ^77777770^000000
-Property: ^777777Neutral^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777730^000000
 Jobs: ^777777Novice Class^000000
@@ -4105,7 +4074,7 @@ A dagger that can be effectively used to start a fire.
 Class: ^777777Dagger^000000
 Attack: ^77777739^000000
 Weight: ^77777760^000000
-Property: ^777777Fire^000000
+Property: ^FF0000Fire^000000
 Weapon Level: ^7777771^000000
 Jobs: ^777777All except
 Acolyte Class^000000
@@ -4115,7 +4084,7 @@ An extremely sharp dagger made from pure obsidian glass that shines eerily.
 Class: ^777777Dagger^000000
 Attack: ^77777739^000000
 Weight: ^77777760^000000
-Property: ^777777Earth^000000
+Property: ^cc5500Earth^000000
 Weapon Level: ^7777771^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All except
@@ -4126,7 +4095,7 @@ A dagger used by fishermen to catch shellfish and oysters from the ocean.
 Class: ^777777Dagger^000000
 Attack: ^77777739^000000
 Weight: ^77777760^000000
-Property: ^6996ADWater^000000
+Property: ^0000BBWater^000000
 Weapon Level: ^7777771^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All except
@@ -4195,7 +4164,7 @@ A Katar fashioned from a cold, sharp icicle. Inflict the ^880000Frozen^000000 st
 Class: ^777777Katar^000000
 Attack: ^777777105^000000
 Weight: ^777777120^000000
-Property: ^6996ADWater^000000
+Property: ^0000BBWater^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777755^000000
 Jobs: ^777777Assassin^000000
@@ -4405,7 +4374,7 @@ A Katar fashioned from a cold, sharp icicle. Inflict the ^880000Frozen^000000 st
 Class: ^777777Katar^000000
 Attack: ^777777105^000000
 Weight: ^777777120^000000
-Property: ^6996ADWater^000000
+Property: ^0000BBWater^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777755^000000
 Jobs: ^777777Assassin^000000
@@ -4529,7 +4498,6 @@ Required Level: ^77777750^000000
 Jobs: ^777777Assassin Cross^000000
 #
 1286#
-^ff0000Item cannot be traded with other characters.^000000
 ^000088Rental Items^000000
 A specially made katar with two blades that move like scissors to reveal a third blade from within.
 Increases damage against small, medium, large size monsters by 40%.
@@ -4551,7 +4519,6 @@ Required Level: ^777777100^000000
 Jobs: ^777777Guillotine Cross^000000
 #
 1288#
-^ff0000Item cannot be traded with other characters.^000000
 ^000088Rental Item^000000
 Sensitive Dark Demi-Human having ability as of Katar.
 Ignores Demi-Human Defense,Low Probability of Bleeding.
@@ -4640,7 +4607,7 @@ Required Level: ^77777755^000000
 Jobs: ^777777Assassin Cross^000000
 #
 1296#
-^ff0000Item cannot be traded with other character.^000000
+^ff0000Cannot be traded.^000000
 Katar Made up of Metal.
 [Per Refine]ATK +5 and Critical Damage+1%.
 [Level 20 or more]Per 10 BaseLevel,ATK +5.
@@ -5200,7 +5167,7 @@ Impossible to refine this item.
 Class: ^777777Axe^000000
 Attack: ^777777205^000000
 Weight: ^7777770^000000
-Weapon Level: ^777777 4^000000
+Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Swordman Class, Merchant Class^000000
 #
@@ -5302,7 +5269,7 @@ Impossible to refine this item.
 Class: ^777777Axe^000000
 Attack: ^777777215^000000
 Weight: ^7777770^000000
-Weapon Level: ^777777 4^000000
+Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Swordman Class, Merchant Class^000000
 #
@@ -5364,7 +5331,7 @@ Add a chance of auto casting ^008800Level 5 Blessing^000000 on the enemy when at
 Class: ^777777Two Handed Axe^000000
 Attack: ^777777200^000000
 Weight: ^777777150^000000
-Weapon Level: ^777777 4^000000
+Weapon Level: ^7777774^000000
 Required Level: ^77777760^000000
 Jobs: ^777777Merchant Class^000000
 #
@@ -5400,7 +5367,7 @@ Jobs: ^777777Mastersmith^000000
 #
 1386#
 A gigantic and ridiculously heavy axe that requires great strength to use it properly.
-[^008800Base Strength >= 95^000000]
+[^008800Base STR >= 95^000000]
 ATK +400
 Causes ^880000Stun^000000 effect to enemies by 30% chance when receiving damage.
 Decreases ASPD by 25%. SP cost of All Skills is doubled.
@@ -5408,7 +5375,7 @@ Add a 5% chance of breaking the enemy's armor when attacking.
 Class: ^777777Axe^000000
 Attack: ^77777720^000000
 Weight: ^7777770^000000
-Weapon Level: ^777777 4^000000
+Weapon Level: ^7777774^000000
 Required Level: ^7777770^000000
 Jobs: ^777777Swordman Class, Merchant Class^000000
 #
@@ -5776,7 +5743,7 @@ Impossible to refine this item.
 Class: ^777777Spear^000000
 Attack: ^777777120^000000
 Weight: ^7777770^000000
-Weapon Level: ^777777 1^000000
+Weapon Level: ^7777771^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Swordman Class^000000
 #
@@ -5789,7 +5756,7 @@ Impossible to refine this item.
 Class: ^777777Spear^000000
 Attack: ^777777149^000000
 Weight: ^7777770^000000
-Weapon Level: ^777777 4^000000
+Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Swordman Class^000000
 #
@@ -5830,7 +5797,7 @@ STR +2
 Class: ^777777Spear^000000
 Attack: ^777777160^000000
 Weight: ^7777770^000000
-Weapon Level: ^777777 3^000000
+Weapon Level: ^7777773^000000
 Jobs: ^777777Swordman Class^000000
 #
 1428#
@@ -5844,7 +5811,7 @@ Class: ^777777Spear^000000
 Attack: ^777777150^000000
 Weight: ^777777100^000000
 Property: ^777777Holy^000000
-Weapon Level: ^777777 4^000000
+Weapon Level: ^7777774^000000
 Required Level: ^77777765^000000
 Jobs: ^777777Trans Swordman Class^000000
 #
@@ -5857,7 +5824,7 @@ Class: ^777777Spear^000000
 Attack: ^777777180^000000
 Weight: ^777777420^000000
 Property: ^777777Neutral^000000
-Weapon Level: ^777777 4^000000
+Weapon Level: ^7777774^000000
 Required Level: ^77777760^000000
 Jobs: ^777777Trans Swordman Class^000000
 #
@@ -6467,7 +6434,7 @@ Increase damage against demi-human by 5%
 Class: ^777777Spear^000000
 Attack: ^777777135^000000
 Weight: ^7777770^000000
-Weapon Level: ^777777 4^000000
+Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Knight, Crusader^000000
 #
@@ -6810,7 +6777,7 @@ A simple flail that consists of a thin mace attached to a chain of iron links.
 Class: ^777777Mace^000000
 Attack: ^77777784^000000
 Weight: ^77777780^000000
-Weapon Level: ^777777 2^000000
+Weapon Level: ^7777772^000000
 Required Level: ^77777714^000000
 Jobs: ^777777Swordman Class, Acolyte Class, Merchant Class^000000
 #
@@ -6922,9 +6889,8 @@ Jobs: ^777777Priest
 and Monk Jobs^000000
 #
 1530#
-A facsimile of the
-mighty hammer wielded
-by Thor, god of thunder. Increases ASPD.
+A facsimile of the mighty hammer wielded by Thor, god of thunder.
+Increases ASPD.
 DEX +50 , STR +20
 ^ffffff_^000000
 Not Tradable
@@ -6940,10 +6906,7 @@ Merchant Classes^000000
 #
 1531#
 A heavy tool with many practical applications.
-Enable a chance of
-randomly inflicting the ^880000Stun^000000, ^880000Blind^000000, ^880000Poison^000000
-or ^880000Frozen^000000 statuses with
-each attack.
+Enable a chance of randomly inflicting the ^880000Stun^000000, ^880000Blind^000000, ^880000Poison^000000 or ^880000Frozen^000000 statuses with each attack.
 Class: ^777777Mace^000000
 Attack: ^777777115^000000
 Weight: ^777777250^000000
@@ -6952,10 +6915,7 @@ Required Level: ^77777755^000000
 Jobs: ^777777Acolyte Class^000000
 #
 1532#
-A blow from this hefty
-mace can cause someone
-to black out. Each strike has a 10% chance to
-inflict the Stun effect.
+A blow from this hefty mace can cause someone to black out. Each strike has a 10% chance to inflict the Stun effect.
 Class: ^777777Mace^000000
 Attack: ^777777140^000000
 Weight: ^777777200^000000
@@ -6966,10 +6926,10 @@ Jobs: ^777777Acolyte Class^000000
 1533#
 Any man holding the Warrior's Balmung will gather new inner strength.
 All Stats +5
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777170^000000
 Weight: ^777777100^000000
-Weapon Level: ^777777 4^000000
+Weapon Level: ^7777774^000000
 Required Level: ^77777748^000000
 Jobs: ^777777All^000000
 #
@@ -7009,7 +6969,7 @@ Impossible to refine this item.
 Class: ^777777Mace^000000
 Attack: ^777777120^000000
 Weight: ^7777770^000000
-Weapon Level: ^777777 1^000000
+Weapon Level: ^7777771^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Swordman Class, Acolyte Class, Merchant Class^000000
 #
@@ -7023,7 +6983,7 @@ Impossible to refine this item.
 Class: ^777777Mace^000000
 Attack: ^777777193^000000
 Weight: ^7777770^000000
-Weapon Level: ^777777 4^000000
+Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Acolyte Class^000000
 #
@@ -7157,7 +7117,7 @@ STR +2.
 Class: ^777777Mace^000000
 Attack: ^777777150^000000
 Weight: ^7777770^000000
-Weapon Level: ^777777 3^000000
+Weapon Level: ^7777773^000000
 Jobs: ^777777Swordman Class, Merchant Class^000000
 #
 1548#
@@ -7434,7 +7394,7 @@ Impossible to refine this item.
 Class: ^777777Book^000000
 Attack: ^777777120^000000
 Weight: ^7777770^000000
-Weapon Level: ^777777 1^000000
+Weapon Level: ^7777771^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Priest, Sage, Star Gladiator^000000
 #
@@ -7446,7 +7406,7 @@ Impossible to refine this item.
 Class: ^777777Book^000000
 Attack: ^777777168^000000
 Weight: ^7777770^000000
-Weapon Level: ^777777 4^000000
+Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Priest, Sage, Star Gladiator^000000
 #
@@ -7596,7 +7556,7 @@ Max SP +10%.
 Class: ^777777Book^000000
 Attack: ^777777140^000000
 Weight: ^7777770^000000
-Weapon Level: ^777777 3^000000
+Weapon Level: ^7777773^000000
 Jobs: ^777777Priest, Sage, Star Gladiator^000000
 #
 1579#
@@ -7610,7 +7570,7 @@ Class: ^777777Book^000000
 Attack: ^777777137^000000
 Weight: ^777777100^000000
 Property: ^777777Neutral^000000
-Weapon Level: ^777777 4^000000
+Weapon Level: ^7777774^000000
 Required Level: ^77777785^000000
 Jobs: ^777777Priest, Sage, Star Gladiator^000000
 #
@@ -7969,7 +7929,7 @@ time by 5%. MATK +115
 Class: ^777777One-Handed Staff^000000
 Attack: ^77777760^000000
 Weight: ^77777750^000000
-Property: ^777777Wind^000000
+Property: ^4cbb17Wind^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777740^000000
 Jobs: ^777777Mage Class and Soul Linker^000000
@@ -8327,7 +8287,7 @@ Increases 15% chance to yourself by ^008800Heal and Sanctuary^000000 skill.
 Class: ^777777One-Handed Staff^000000
 Attack: ^77777710^000000
 Weight: ^7777770^000000
-Weapon Level: ^777777 3^000000
+Weapon Level: ^7777773^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Acolyte Class^000000
 #
@@ -8382,7 +8342,7 @@ MATK +15%, INT +2
 Class: ^777777One-Handed Staff^000000
 Attack: ^777777100^000000
 Weight: ^7777770^000000
-Weapon Level: ^777777 2^000000
+Weapon Level: ^7777772^000000
 Jobs: ^777777Mage Class, Acolyte Class, Soul Linker^000000
 #
 1643#
@@ -8404,7 +8364,7 @@ When you attack using magical ability, it will ignore 10% of their MDEF and deal
 Class: ^777777One-Handed Staff^000000
 Attack: ^77777780^000000
 Weight: ^77777750^000000
-Weapon Level: ^777777 3^000000
+Weapon Level: ^7777773^000000
 Required Level: ^77777770^000000
 Jobs: ^777777Trans Mage Class, Trans Acolyte Class^000000
 #
@@ -8418,7 +8378,7 @@ Class: ^777777One-Handed Staff^000000
 Attack: ^77777760^000000
 Weight: ^77777780^000000
 Property: ^777777Undead^000000
-Weapon Level: ^777777 3^000000
+Weapon Level: ^7777773^000000
 Required Level: ^77777770^000000
 Jobs: ^777777Trans Mage Class, Trans Acolyte Class^000000
 #
@@ -9142,7 +9102,7 @@ Impossible to refine this item.
 Class: ^777777Bow^000000
 Attack: ^777777120^000000
 Weight: ^7777770^000000
-Weapon Level: ^777777 1^000000
+Weapon Level: ^7777771^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Archer Class, Thief, Rogue^000000
 #
@@ -9249,7 +9209,7 @@ DEX +2
 Class: ^777777Bow^000000
 Attack: ^777777170^000000
 Weight: ^7777770^000000
-Weapon Level: ^777777 4^000000
+Weapon Level: ^7777774^000000
 Jobs: ^777777Archer Class, Thief, Rogue^000000
 #
 1745#
@@ -9300,7 +9260,7 @@ DEX +2
 Class: ^777777Bow^000000
 Attack: ^77777740^000000
 Weight: ^77777750^000000
-Weapon Level: ^777777 1^000000
+Weapon Level: ^7777771^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Archer Class, Thief Class, Rogue^000000
 #
@@ -9691,7 +9651,8 @@ and Monk Jobs^000000
 1814#
 A claw imbued with the
 essense of madness.
-Increases ASPD.^FFFFFF	^000000 Class: ^777777Claw^000000
+Increases ASPD.
+Class: ^777777Claw^000000
 Attack: ^777777120^000000
 Weight: ^77777750^000000
 Weapon Level: ^7777774^000000
@@ -9720,7 +9681,8 @@ Jobs: ^777777Priest, Monk^000000
 A pair of fierce claws
 that possesses its wearer, compelling him to draw
 fresh blood. Greatly
-increases ASPD.^FFFFFF	 ^000000 Class: ^777777Claw^000000
+increases ASPD.
+Class: ^777777Claw^000000
 Attack: ^777777120^000000
 Weight: ^77777750^000000
 Weapon Level: ^7777774^000000
@@ -9914,7 +9876,7 @@ INT +2
 Class: ^777777Claw^000000
 Attack: ^777777150^000000
 Weight: ^7777770^000000
-Weapon Level: ^777777 4^000000
+Weapon Level: ^7777774^000000
 Jobs: ^777777Priest, Monk^000000
 #
 1829#
@@ -10302,7 +10264,7 @@ Impossible to refine this item.
 Class: ^777777Musical Instrument^000000
 Attack: ^777777120^000000
 Weight: ^7777770^000000
-Weapon Level: ^777777 1^000000
+Weapon Level: ^7777771^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Clown^000000
 #
@@ -10393,7 +10355,7 @@ When equipped, Attack Speed is fixed at 100. Reduces natural HP regeneration rat
 Class: ^777777Musical Instrument^000000
 Attack: ^77777740^000000
 Weight: ^7777770^000000
-Weapon Level: ^777777 4^000000
+Weapon Level: ^7777774^000000
 Required Level: ^7777770^000000
 Jobs: ^777777Clown^000000
 #
@@ -10500,7 +10462,7 @@ I feel that one of its benefits were sealed with a high cost.
 Class: ^777777Musical Instrument^000000
 Attack: ^777777150^000000
 Weight: ^77777750^000000
-Weapon Level: ^777777 4^000000
+Weapon Level: ^7777774^000000
 Required Level: ^777777100^000000
 Jobs: ^777777Minstrel Class^000000
 #
@@ -10849,7 +10811,7 @@ Impossible to refine this item.
 Class: ^777777Whip^000000
 Attack: ^777777120^000000
 Weight: ^7777770^000000
-Weapon Level: ^777777 1^000000
+Weapon Level: ^7777771^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Gypsy^000000
 #
@@ -10933,7 +10895,7 @@ DEX +2
 Class: ^777777Whip^000000
 Attack: ^777777160^000000
 Weight: ^7777770^000000
-Weapon Level: ^777777 4^000000
+Weapon Level: ^7777774^000000
 Jobs: ^777777Dancer^000000
 #
 1983#
@@ -11048,7 +11010,7 @@ I feel that one of its benefits were sealed with a high cost.
 Class: ^777777Whip^000000
 Attack: ^777777150^000000
 Weight: ^77777750^000000
-Weapon Level: ^777777 4^000000
+Weapon Level: ^7777774^000000
 Required Level: ^777777100^000000
 Jobs: ^777777Wanderer Class^000000
 #
@@ -11137,7 +11099,7 @@ Ignore 25% of Magic Defense of Demihuman monsters.
 +6 Upgrade: Ignore Magic Defense of Demihumans +5%, ^ff8027[Destruction]^000000 Lv 1 (Damage bonus of Destruction increases up to the upgrade level 14.)
 +9 Upgrade: When using Lv. 10 [Lord of Vermilion], Lv. 10 [Meteor Storm] or Lv. 10 [Storm Gust],
 has a chance of casting Lv. 10 [Safety wall].
-Class: ^777777Two-handed Staff^000000
+Class: ^777777Two-Handed_Staff^000000
 Attack: ^77777770^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
@@ -11151,10 +11113,10 @@ Reduces casting time of Amplify Magic by 50%.
 Refinement in multiples of 2 (+2, +4, +6, +8, +10) increases MATK by 1%.
 SP taken by all skills will increase depending on the refinement rate of this weapon.
 Small chance to cast ^008800Level 5 Jupitel Thunder^000000 whenever you are attacked physically. This chance depends on the refinement rate of this weapon.
-Class: ^777777Two-handed Staff^000000
+Class: ^777777Two-Handed_Staff^000000
 Attack: ^777777130^000000
 Weight: ^777777250^000000
-Weapon Level: ^777777 4^000000
+Weapon Level: ^7777774^000000
 Required Level: ^77777780^000000
 Jobs: ^777777High Wizard^000000
 #
@@ -11197,7 +11159,7 @@ A magic staff charged with whirling power of wind.
 Increases the effectiveness of Jupitel Thunder by 12%.
 INT +3, MATK +230
 When you equip a whole set of Golden Rod items - the staff, the robe, the shoes, and the orb, the effectiveness of all the wind spells is increased by 40%, the effectiveness of all the earth spells is decreased by 30%, and resistance to earth attacks is decreased by 50%.
-Class: ^777777Two-handed Staff^000000
+Class: ^777777Two-Handed_Staff^000000
 Attack: ^77777730^000000
 Weight: ^77777790^000000
 Property: ^7BCC70Wind^000000
@@ -11210,7 +11172,7 @@ A magic staff charged with freezing power of water.
 Increases the effectiveness of Cold Bolt and Frost Diver by 10%.
 INT +3, MATK +230
 When you equip a whole set of Aqua items - the staff, the robe, the shoes, and the orb, the effectiveness of all the water spells is increased by 40%, the effectiveness of all the wind spells is decreased by 30%, and resistance to wind attacks is decreased by 50%.
-Class: ^777777Two-handed Staff^000000
+Class: ^777777Two-Handed_Staff^000000
 Attack: ^77777730^000000
 Weight: ^77777790^000000
 Property: ^6996ADWater^000000
@@ -11223,7 +11185,7 @@ A magic staff charged with blazing power of fire.
 Increases the effectiveness of Fire Bolt and Fire Ball by 10%.
 INT +3, MATK +230
 When you equip a whole set of Crimson items - the staff, the robe, the shoes, and the orb, the effectiveness of all the fire spells is increased by 40%, the effectiveness of all the water spells is decreased by 30%, and resistance to water attacks is decreased by 50%.
-Class: ^777777Two-handed Staff^000000
+Class: ^777777Two-Handed_Staff^000000
 Attack: ^77777730^000000
 Weight: ^77777790^000000
 Property: ^FF0000Fire^000000
@@ -11236,7 +11198,7 @@ A magic staff charged with massive power of earth.
 Increases the effectiveness of Earth Spike and Heaven's Drive by 10%.
 INT +3, MATK +230
 When you equip a whole set of Forest items - the staff, the robe, the shoes, and the orb, the effectiveness of all the earth spells is increased by 40%, the effectiveness of all the fire spells is decreased by 30%, and resistance to fire attacks is decreased by 50%.
-Class: ^777777Two-handed Staff^000000
+Class: ^777777Two-Handed_Staff^000000
 Attack: ^77777730^000000
 Weight: ^77777790^000000
 Property: ^cc5500Earth^000000
@@ -11250,7 +11212,7 @@ Increase Jupitel Thunder damage by 30%.
 INT +5, MATK +270
 If worn with Golden Robe, Golden Shoes, and Golden Orb Increase Wind Magic damage by 60%.
 Lower Earth Magic damage by 60% and resistance to Earth by 50%.
-Class: ^777777Two-handed Staff^000000
+Class: ^777777Two-Handed_Staff^000000
 Attack: ^77777730^000000
 Weight: ^77777790^000000
 Property: ^7BCC70Wind^000000
@@ -11263,7 +11225,7 @@ A magic staff charged with freezing power of water.
 Increases the effectiveness of Cold Bolt and Frost Diver by 30%.
 INT +5, MATK +270
 When you equip a whole set of Aqua items - the staff, the robe, the shoes, and the orb, the effectiveness of all the water spells is increased by 60%, the effectiveness of all the wind spells is decreased by 60%, and resistance to wind attacks is decreased by 50%.
-Class: ^777777Two-handed Staff^000000
+Class: ^777777Two-Handed_Staff^000000
 Attack: ^77777730^000000
 Weight: ^77777790^000000
 Property: ^6996ADWater^000000
@@ -11276,7 +11238,7 @@ A magic staff charged with blazing power of fire.
 Increases the effectiveness of Fire Bolt and Fire Ball by 30%.
 INT +5, MATK +270
 When you equip a whole set of Crimson items - the staff, the robe, the shoes, and the orb, the effectiveness of all the fire spells is increased by 60%, the effectiveness of all the water spells is decreased by 60%, and resistance to water attacks is decreased by 50%.
-Class: ^777777Two-handed Staff^000000
+Class: ^777777Two-Handed_Staff^000000
 Attack: ^77777730^000000
 Weight: ^77777790^000000
 Property: ^FF0000Fire^000000
@@ -11289,7 +11251,7 @@ A magic staff charged with massive power of earth.
 Increases the effectiveness of Earth Spike and Heaven's Drive by 30%.
 INT +5, MATK +270
 When you equip a whole set of Forest items - the staff, the robe, the shoes, and the orb, the effectiveness of all the earth spells is increased by 60%, the effectiveness of all the fire spells is decreased by 60%, and resistance to fire attacks is decreased by 50%.
-Class: ^777777Two-handed Staff^000000
+Class: ^777777Two-Handed_Staff^000000
 Attack: ^77777730^000000
 Weight: ^77777790^000000
 Property: ^cc5500Earth^000000
@@ -11422,7 +11384,7 @@ MATK +170
 Class: ^777777Two-Handed Staff^000000
 Attack: ^77777730^000000
 Weight: ^77777750^000000
-Weapon Level: ^777777 4^000000
+Weapon Level: ^7777774^000000
 Required Level: ^777777100^000000
 Jobs: ^7777773rd Wizard and Sage Class^000000
 #
@@ -51205,7 +51167,7 @@ Jobs: ^777777All^000000
 Box Weight: ^7777771^000000
 #
 12596#
-Unknown Item, can be identified by [Magnifier].
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 12599#
 A special fruit that usually eaten in Ramadhan.
@@ -53825,7 +53787,7 @@ Acolyte Class^000000
 ^ff0000Item cannot be traded with other characters..^000000
 Character Equipping the Balmung gets Incredible Power.
 Allstats +5.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777170^000000
 Weight: ^777777100^000000
 Weapon Level: ^7777774^000000
@@ -54266,7 +54228,7 @@ AGI + 2
 Class: ^777777Dagger^000000
 Attack: ^77777751^000000
 Weight: ^77777750^000000
-Weapon Level: ^777777 1^000000
+Weapon Level: ^7777771^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Novice, Swordman Class, Mage Class, Archer Class, Merchant Class, Thief Class, Soul Linker, Ninja^000000
 #
@@ -54767,7 +54729,7 @@ Increases HIT and Attack Speed depending on the AGI of the player. Adds 40% dama
 Class: ^777777Revolver^000000
 Attack: ^777777100^000000
 Weight: ^7777770^000000
-Weapon Level: ^777777 3^000000
+Weapon Level: ^7777773^000000
 Jobs: ^777777Gunslinger^000000
 #
 13110#
@@ -54792,7 +54754,7 @@ DEX + 2.
 Class: ^777777Revolver^000000
 Attack: ^777777105^000000
 Weight: ^7777770^000000
-Weapon Level: ^777777 4^000000
+Weapon Level: ^7777774^000000
 Jobs: ^777777Gunslinger^000000
 #
 13112#
@@ -54867,7 +54829,7 @@ Workmanship is immature. Only just that.
 Class: ^777777Revolver^000000
 Attack: ^7777770^000000
 Weight: ^77777710^000000
-Weapon Level: ^777777 1^000000
+Weapon Level: ^7777771^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Gunslinker^000000
 #
@@ -54877,7 +54839,7 @@ Unskilled workmanship, but with all the energy used to mount fusing the best mat
 Class: ^777777Revolver^000000
 Attack: ^777777100^000000
 Weight: ^77777710^000000
-Weapon Level: ^777777 3^000000
+Weapon Level: ^7777773^000000
 Required Level: ^77777799^000000
 Jobs: ^777777Gunslinker^000000
 #
@@ -54888,7 +54850,7 @@ Inflicts buring status at a small chance when physically attacking.
 Class: ^777777Revolver^000000
 Attack: ^777777150^000000
 Weight: ^77777780^000000
-Weapon Level: ^777777 3^000000
+Weapon Level: ^7777773^000000
 Required Level: ^77777799^000000
 Jobs: ^777777Gunslinker, Rebellion Class^000000
 #
@@ -54899,7 +54861,7 @@ Increase ranged damage by 30%.
 Class: ^777777Revolver^000000
 Attack: ^777777200^000000
 Weight: ^777777100^000000
-Weapon Level: ^777777 3^000000
+Weapon Level: ^7777773^000000
 Required Level: ^777777140^000000
 Jobs: ^777777Rebellion Class^000000
 #
@@ -54910,7 +54872,7 @@ Increase ranged damage by 30%.
 Class: ^777777Revolver^000000
 Attack: ^777777200^000000
 Weight: ^777777100^000000
-Weapon Level: ^777777 3^000000
+Weapon Level: ^7777773^000000
 Required Level: ^777777140^000000
 Jobs: ^777777Rebellion Class^000000
 #
@@ -54923,7 +54885,7 @@ ATK + 3 for each 10 Base Levels above 20
 Class: ^777777Revolver^000000
 Attack: ^77777730^000000
 Weight: ^7777770^000000
-Weapon Level: ^777777 3^000000
+Weapon Level: ^7777773^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Gunslinker^000000
 #
@@ -54934,7 +54896,7 @@ I feel that one of its benefits were sealed with a high cost.
 Class: ^777777Pistol^000000
 Attack: ^777777175^000000
 Weight: ^77777750^000000
-Weapon Level: ^777777 4^000000
+Weapon Level: ^7777774^000000
 Required Level: ^777777100^000000
 Jobs: ^777777Gunslinger Class^000000
 #
@@ -55252,7 +55214,7 @@ HIT+ 20, Cri+ 50, Adds 40% damage to the monster.
 Class: ^777777Rifle^000000
 Attack: ^777777170^000000
 Weight: ^7777770^000000
-Weapon Level: ^777777 3^000000
+Weapon Level: ^7777773^000000
 Jobs: ^777777Gunslinger^000000
 #
 13176#
@@ -55350,7 +55312,7 @@ Add a low chance of auto casting ^008800Level 1 Decrease Agility^000000 myself w
 Class: ^777777Rifle^000000
 Attack: ^777777260^000000
 Weight: ^777777130^000000
-Weapon Level: ^777777 3^000000
+Weapon Level: ^7777773^000000
 Required Level: ^777777140^000000
 Jobs: ^777777Rebellion Only^000000
 #
@@ -55360,7 +55322,7 @@ Range Attack + 5/ HIT - 50/ Delay After Attack - 10%.
 Class: ^777777Shotgun^000000
 Attack: ^777777400^000000
 Weight: ^777777200^000000
-Weapon Level: ^777777 3^000000
+Weapon Level: ^7777773^000000
 Required Level: ^777777108^000000
 Jobs: ^777777Rebellion Only^000000
 #
@@ -55371,7 +55333,7 @@ HIT - 10/ Delay After Attack - 10%.
 Class: ^777777Shotgun^000000
 Attack: ^777777280^000000
 Weight: ^777777180^000000
-Weapon Level: ^777777 3^000000
+Weapon Level: ^7777773^000000
 Required Level: ^777777120^000000
 Jobs: ^777777Rebellion Only^000000
 #
@@ -55382,7 +55344,7 @@ HIT - 25/ Speed Attack + 25%.
 Class: ^777777Shotgun^000000
 Attack: ^777777250^000000
 Weight: ^777777140^000000
-Weapon Level: ^777777 3^000000
+Weapon Level: ^7777773^000000
 Required Level: ^777777140^000000
 Jobs: ^777777Rebellion Only^000000
 #
@@ -55393,7 +55355,7 @@ Add a low chance of auto casting ^008800Level 1 Decrease Agility^000000 myself w
 Class: ^777777Rifle^000000
 Attack: ^777777260^000000
 Weight: ^777777130^000000
-Weapon Level: ^777777 3^000000
+Weapon Level: ^7777773^000000
 Required Level: ^777777140^000000
 Jobs: ^777777Rebellion Only^000000
 #
@@ -55404,7 +55366,7 @@ HIT - 25/ Speed Attack + 25%.
 Class: ^777777Shotgun^000000
 Attack: ^777777250^000000
 Weight: ^777777140^000000
-Weapon Level: ^777777 3^000000
+Weapon Level: ^7777773^000000
 Required Level: ^777777140^000000
 Jobs: ^777777Rebellion Only^000000
 #
@@ -55413,7 +55375,7 @@ A modified version of mass-produced gatling gun. It's quite useful considering i
 Class: ^777777Gatling Gun^000000
 Attack: ^777777220^000000
 Weight: ^777777250^000000
-Weapon Level: ^777777 2^000000
+Weapon Level: ^7777772^000000
 Required Level: ^777777106^000000
 Jobs: ^777777Rebellion Only^000000
 #
@@ -55423,7 +55385,7 @@ HIT: - 25/ CRIT + 10/ Increase ranged damage by 20%.
 Class: ^777777Gatling Gun^000000
 Attack: ^777777250^000000
 Weight: ^777777250^000000
-Weapon Level: ^777777 4^000000
+Weapon Level: ^7777774^000000
 Required Level: ^777777140^000000
 Jobs: ^777777Rebellion Only^000000
 #
@@ -55433,7 +55395,7 @@ HIT: - 25/ CRIT + 10/ Increase ranged damage by 20%.
 Class: ^777777Gatling Gun^000000
 Attack: ^777777250^000000
 Weight: ^777777250^000000
-Weapon Level: ^777777 4^000000
+Weapon Level: ^7777774^000000
 Required Level: ^777777140^000000
 Jobs: ^777777Rebellion Only^000000
 #
@@ -56129,7 +56091,7 @@ Class: ^777777Huuma^000000
 Attack: ^777777230^000000
 Weight: ^7777770^000000
 Property: ^FF0000 Fire^000000
-Weapon Level: ^777777 4^000000
+Weapon Level: ^7777774^000000
 Required Level: ^7777770^000000
 Jobs: ^777777Ninja^000000
 #
@@ -56235,7 +56197,7 @@ ATK + 3 for each 10 Base Levels above 20
 Class: ^777777Huuma^000000
 Attack: ^77777750^000000
 Weight: ^7777770^000000
-Weapon Level: ^777777 3^000000
+Weapon Level: ^7777773^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Ninja^000000
 #
@@ -56247,7 +56209,7 @@ MATK + 40
 Class: ^777777Huuma Shuriken^000000
 Attack: ^777777150^000000
 Weight: ^77777750^000000
-Weapon Level: ^777777 4^000000
+Weapon Level: ^7777774^000000
 Required Level: ^777777100^000000
 Jobs: ^777777Ninja Class^000000
 #
@@ -56286,7 +56248,7 @@ used by sailors.
 Enables use of
 Level 5 Bash.
 STR +2, DEF +1
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777150^000000
 Weight: ^77777790^000000
 Weapon Level: ^7777774^000000
@@ -56302,7 +56264,7 @@ of Arthurian legend that^FFFFFF	^000000 supposedly chooses
 its owner to wield its
 holy powers.
 INT +10, LUK +10
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777199^000000
 Weight: ^7777770^000000
 Property: ^777777Holy^000000
@@ -56320,7 +56282,7 @@ Enables use of
 STR +2
 DEF +1
 This item cannot be Dropped or Traded.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777185^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
@@ -56337,7 +56299,7 @@ Regains 1% of the damage inflicted on its target as HP with each attack.
 Drains 15 SP from its
 owner every 10 seconds.
 This item cannot be Dropped or Traded.
-Class: ^777777One-handed Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777120^000000
 Weight: ^7777770^000000
 Property: ^777777Fire^000000
@@ -56352,7 +56314,7 @@ A fearsome weapon
 with a uniquely
 curved blade.
 CRIT +50%.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777130^000000
 Weight: ^777777150^000000
 Weapon Level: ^7777774^000000
@@ -56371,7 +56333,7 @@ and has a chance
 of inflicting the
 Curse status
 to enemies.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777125^000000
 Weight: ^77777780^000000
 Weapon Level: ^7777774^000000
@@ -56384,10 +56346,10 @@ and Thief Classes^000000
 The adventurers who are brave the item which is provided from the hazard adventurer guild.
 Increases damage by 50%.
 Impossible to refine this item.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777120^000000
 Weight: ^7777770^000000
-Weapon Level: ^777777 1^000000
+Weapon Level: ^7777771^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Swordman Class, Merchant Class, Thief Class^000000
 #
@@ -56397,10 +56359,10 @@ An one-handed sword topped with several extra edges for making wounds deeper and
 Increases damage against DemiHuman monster by 40%
 ...
 Impossible to refine this item.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777148^000000
 Weight: ^7777770^000000
-Weapon Level: ^777777 4^000000
+Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Swordman Class, Merchant Class, Thief Class^000000
 #
@@ -56410,11 +56372,11 @@ An one-handed, formal dress sword imbued with the ^FF0000Fire^000000 Property.
 Enables use of ^008800Level 5 Fire Bolt^000000.
 INT + 2, Add a 10% chance of auto casting ^008800Level 5 Fire Bolt^000000 on the enemy when attacking.
 Impossible to refine this item.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777120^000000
 Weight: ^7777770^000000
 Property: ^FF0000 Fire^000000
-Weapon Level: ^777777 4^000000
+Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Swordman Class, Merchant Class, Thief Class^000000
 #
@@ -56425,11 +56387,11 @@ Drains 45% of target's SP by a low chance.
 ...
 Impossible to refine this item.
 Indestructible.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777160^000000
 Weight: ^7777770^000000
 Property: ^777777Ghost^000000
-Weapon Level: ^777777 4^000000
+Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Swordman Class, Merchant Class, Thief Class^000000
 #
@@ -56439,7 +56401,7 @@ STR +1, DEX +1
 Increases Physical Attack Strength towards Demihuman monsters by 75%.
 Ignores Physical Defense from Demihuman monsters by 20%.
 Indestructible.
-Class: ^777777One Handed Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777115^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
@@ -56452,7 +56414,7 @@ STR +1, DEX +1
 MATK +74
 Increases Physical Attack Strength towards Demihuman monsters by 75%.
 Indestructible.
-Class: ^777777One Handed Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777115^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
@@ -56463,7 +56425,7 @@ Jobs: ^777777Novice, Swordman, Merchant, Thief Classes^000000
 One of the twin swords of Naght Sieger. The blue blade shows the sharpness of this sword.
 When attacking there is a chance that for 5 seconds you will completely disregard the defense of the opponent.
 Enables the use ^FF0000Lv. 5 Frost Diver^000000.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777150^000000
 Weight: ^777777150^000000
 Property: ^777777Water^000000
@@ -56475,7 +56437,7 @@ Jobs: ^777777Transcendent Swordman, Merchant, Thief Classes^000000
 One of the twin swords of Naght Sieger. The red blade shows the destructive power of this sword.
 When attacking there is a chance that for 5 seconds you will completely disregard the defense of the opponent.
 Enables the use of ^FF0000Lv. 3 Meteor Storm^000000.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777160^000000
 Weight: ^777777150^000000
 Property: ^777777Fire^000000
@@ -56489,7 +56451,7 @@ STR +2, INT +4,
 DEX +1, MATK +95
 10% additional damage to Monsters with ^777777Neutral^000000 property.
 When attacking, has a chance of adding an additional elemental magic attack.
-Class: ^777777One Handed Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777105^000000
 Weight: ^777777120^000000
 Weapon Level: ^7777773^000000
@@ -56500,7 +56462,7 @@ Jobs: ^777777Transcendent Swordman / Merchant / Thief Class^000000
 A one-handed sword
 with a rounded blade.
 Impossible to refine.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^77777759^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777771^000000
@@ -56556,16 +56518,16 @@ Increases damage against Undead monster by 40%.
 Class: ^777777One-Hand Sword^000000
 Attack: ^777777160^000000
 Weight: ^7777770^000000
-Weapon Level: ^777777 3^000000
+Weapon Level: ^7777773^000000
 Jobs: ^777777Swordman Class, Merchant Class, Rogue Class^000000
 #
 13420#
 A sword used at rite for the heavenly god.
 STR + 2, INT + 2.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777160^000000
 Weight: ^777777120^000000
-Weapon Level: ^777777 4^000000
+Weapon Level: ^7777774^000000
 Required Level: ^77777770^000000
 Jobs: ^777777Swordman Class, Merchant Class, Thief Class^000000
 #
@@ -56583,7 +56545,7 @@ Jobs: ^777777Transcendent Swordman/Merchant Classes^000000
 ^000088Rental Items^000000
 A powerful one-handed sword with a decoratively wavy, flame-like blade.
 Increases damage against small, medium, large size monsters by 40%.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777185^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -56592,7 +56554,7 @@ Jobs: ^777777Knight, Crusader^000000
 13423#
 A one-handed sword that is made by the Eden Group. A weapon that can be used by anyone easily.
 Cannot be upgraded.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777147^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777772^000000
@@ -56602,7 +56564,7 @@ Jobs: ^777777SwordmanClass/Merchant Class/Thief Class^000000
 13424#
 A one-handed sword that is made by the Eden Group. It's suitable for an intermediate sword handler.
 Cannot be upgraded.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777170^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777772^000000
@@ -56612,10 +56574,10 @@ Jobs: ^777777SwordmanClass/Merchant Class/Thief Class^000000
 13425#
 ...
 STR + 1, DEX + 1.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^77777761^000000
 Weight: ^77777750^000000
-Weapon Level: ^777777 1^000000
+Weapon Level: ^7777771^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Novice, Swordman Class, Merchant Class, Thief Class^000000
 #
@@ -56629,7 +56591,7 @@ Enables use of
 STR +2
 DEF +1
 This item cannot be Dropped or Traded.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777185^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
@@ -56646,7 +56608,7 @@ Regains 1% of the damage inflicted on its target as HP with each attack.
 Drains 15 SP from its
 owner every 10 seconds.
 This item cannot be Dropped or Traded.
-Class: ^777777One-handed Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777120^000000
 Weight: ^7777770^000000
 Property: ^777777Fire^000000
@@ -56663,7 +56625,7 @@ Thief Classes^000000
 A cold etched sword made with refined Bradium, a mineral from the Other World.
 Cannot be destroyed.
 AGI +1, MaxHP -5%.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777180^000000
 Weight: ^777777220^000000
 Weapon Level: ^7777773^000000
@@ -56674,7 +56636,7 @@ Jobs: ^777777Swordman/Merchant Class Types^000000
 Sword that used in academy.
 MaxHP +200, MaxSP +100.
 Every 10 base level, MaxHP -40, MaxSP -20.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777120^000000
 Weight: ^777777120^000000
 Weapon Level: ^7777771^000000
@@ -56684,7 +56646,7 @@ Jobs: ^777777Swordman^000000
 13434#
 A one-handed sword that is made by the Eden Group. It's suitable for an experienced sword handler.
 Cannot be upgraded.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777185^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
@@ -56698,7 +56660,7 @@ Jobs: ^777777Swordman, Merchant and Thief Class^000000
 13437#
 A sword used by Orc tribe.
 Indestructible.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^77777790^000000
 Weight: ^77777780^000000
 Weapon Level: ^7777773^000000
@@ -56711,7 +56673,7 @@ With the power of lunar light, it could be wielded by Sailor Musa.
 Chance to cast a random magic attack while attacking physically.
 Increases the chances every 2 refine
 MATK +110
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777165^000000
 Weight: ^777777200^000000
 Weapon Level: ^7777774^000000
@@ -56725,7 +56687,7 @@ MATK +100.
 ** Extra option available in WoE TE area
 Physical Attack Power +40% against other adventurers.
 Physical attacks have a high Poisoning chance.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777120^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
@@ -56735,7 +56697,7 @@ Jobs: ^777777Novice, Swordman, Thief and Merchant^000000
 13440#
 A ceremonial sword for high class nobles.
 Engraving on it says - 'To commemorate the wedding of my sister Nerious.R.Raina'
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^77777760^000000
 Weight: ^77777750^000000
 Property: ^777777Holy^000000
@@ -56750,7 +56712,7 @@ INT +6, VIT +6, LUK -6
 Low chance to absorp 5% of attack into SP.
 Drain 1000 HP when unequipped.
 MATK +100
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777150^000000
 Weight: ^77777770^000000
 Weapon Level: ^7777774^000000
@@ -56762,7 +56724,7 @@ A very old parasol, it's unknown when this parasol was created.
 You can still the magic flowing inside.
 MATK +80, increase MATK for every refine.
 Enable use of lv.10 Soul Strike.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777120^000000
 Weight: ^77777750^000000
 Weapon Level: ^7777773^000000
@@ -56772,7 +56734,7 @@ Jobs: ^777777Swordman, Thief and Merchant^000000
 13444#
 An unusual type of weapon, mainly used for other stuff.
 ASPD +8%.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777190^000000
 Weight: ^77777770^000000
 Weapon Level: ^7777773^000000
@@ -56783,7 +56745,7 @@ Jobs: ^777777Swordman, Thief and Merchant^000000
 An infernal sword from hell. Only true demons are able control it's full power. People say that a Prince from Hell used this weapon for his army.
 Increase attack speed.(Decrease the aftercast delay 10%).
 With 9 refine level, when attacking physically ASPD + 3 for 5 sec by a certain chance.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777130^000000
 Weight: ^777777120^000000
 Weapon Level: ^7777774^000000
@@ -56792,10 +56754,10 @@ Jobs: ^777777Swordman, Thief, Merchant^000000
 #
 13450#
 One-Handed Sword used by the cavalry. If you are aware know his strength.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777115^000000
 Weight: ^777777100^000000
-Weapon Level: ^777777 3^000000
+Weapon Level: ^7777773^000000
 Required Level: ^77777727^000000
 Jobs: ^777777Swordman Class, Merchant Class, Thief Class^000000
 #
@@ -56807,7 +56769,7 @@ Premium
 Atk +20%
 ASPD +3
 ^777777 ^000000
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777200^000000
 Weight: ^777777120^000000
 Weapon Level: ^7777773^000000
@@ -56893,7 +56855,7 @@ Pierces Defense of
 Demihuman monsters.
 Increases damage inflicted on Demihuman monsters by 20%, but increases damage received by Demihuman monsters by 10%.
 This item cannot be Dropped or Traded.
-Class: ^777777Two-handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777190^000000
 Weight: ^7777771^000000
 Property: ^777777Shadow^000000
@@ -56961,7 +56923,7 @@ Enables use of
 STR +2
 DEF +1
 This item cannot be Dropped or Traded.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777185^000000
 Weight: ^7777771^000000
 Weapon Level: ^7777774^000000
@@ -56981,7 +56943,7 @@ Regains 1% of the damage inflicted on its target as HP with each attack.
 Drains 15 SP from its
 owner every 10 seconds.
 This item cannot be Dropped or Traded.
-Class: ^777777One-handed Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777120^000000
 Weight: ^7777771^000000
 Property: ^777777Fire^000000
@@ -67679,7 +67641,7 @@ INT + 1, AGI + 1.
 Class: ^777777Mace^000000
 Attack: ^77777745^000000
 Weight: ^77777750^000000
-Weapon Level: ^777777 1^000000
+Weapon Level: ^7777771^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Novice, Swordman Class, Merchant Class, Acolyte Class^000000
 #
@@ -67956,7 +67918,7 @@ I feel that one of its benefits were sealed with a high cost.
 Class: ^777777Mace^000000
 Attack: ^777777155^000000
 Weight: ^77777750^000000
-Weapon Level: ^777777 4^000000
+Weapon Level: ^7777774^000000
 Required Level: ^777777100^000000
 Jobs: ^7777773rd Class of Swordman, Acolyte and Merchant Class^000000
 #
@@ -70157,7 +70119,7 @@ Pierces Defense of
 Demihuman monsters.
 Increases damage inflicted on Demihuman monsters by 20%, but increases damage received by Demihuman monsters by 10%.
 This item cannot be Dropped or Traded.
-Class: ^777777Two-handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777190^000000
 Weight: ^7777771^000000
 Property: ^777777Shadow^000000
@@ -70178,7 +70140,7 @@ Enables use of
 STR +2
 DEF +1
 This item cannot be Dropped or Traded.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777185^000000
 Weight: ^7777771^000000
 Weapon Level: ^7777774^000000
@@ -70235,7 +70197,7 @@ Regains 1% of the damage inflicted on its target as HP with each attack.
 Drains 15 SP from its
 owner every 10 seconds.
 This item cannot be Dropped or Traded.
-Class: ^777777One-handed Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777120^000000
 Weight: ^7777771^000000
 Property: ^777777Fire^000000
@@ -72339,7 +72301,7 @@ MATK +100.
 when melee Attacking,	ATK +30 for 7 sec
 when magically	Attacking,	MATK +20 for 7 sec
 if base level is over 100, ATK +10, MATK +10
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777160^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777771^000000
@@ -72356,7 +72318,7 @@ MATK +100.
 when melee Attacking,	ATK +30 for 7 sec
 when magically	Attacking,	MATK +20 for 7 sec
 if base level is over 100, ATK +10, MATK +10
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777160^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777771^000000
@@ -74850,7 +74812,7 @@ Property: ^777777Neutral^000000
 Class: ^777777Bow^000000
 Attack: ^777777190^000000
 Weight: ^7777770^000000
-Weapon Level: ^777777 4^000000
+Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Hunter, Bard, Dancer^000000
 #
@@ -75116,7 +75078,7 @@ I feel that one of its benefits were sealed with a high cost.
 Class: ^777777Bow^000000
 Attack: ^777777160^000000
 Weight: ^77777750^000000
-Weapon Level: ^777777 4^000000
+Weapon Level: ^7777774^000000
 Required Level: ^777777100^000000
 Jobs: ^777777Archer Class, Thief Class, Rogue Class^000000
 #
@@ -76127,7 +76089,7 @@ except Novice^000000
 #
 18593#
 Cute red mini crown.
-MATK +3%, Variable casting time decreased 3%. When using	skill, decrease SP 3%.
+MATK +3%, Variable casting time decreased 3%. When using skill, decrease SP 3%.
 Recovery class skill increased 3%.
 INT +1, MDEF +5.
 If refine over +5, add MATK +1%.
@@ -79755,7 +79717,7 @@ Enables use of
 STR +2
 DEF +1
 This item cannot be Dropped or Traded.
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777185^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
@@ -79807,7 +79769,7 @@ Pierces Defense of
 Demihuman monsters.
 Increases damage inflicted on Demihuman monsters by 20%, but increases damage received by Demihuman monsters by 10%.
 This item cannot be Dropped or Traded.
-Class: ^777777Two-handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777190^000000
 Weight: ^7777770^000000
 Property: ^777777Shadow^000000
@@ -80871,7 +80833,7 @@ Jobs: ^777777All^000000
 #
 19513#
 A simple bird beak. Wearing this won't make you less fearful of things.
-^ff0000This item is account bound^000000
+^ff0000Account bound^000000
 Class: ^777777Lower^000000
 Location: ^777777Upper^000000
 Defense: ^7777770^000000
@@ -80881,9 +80843,9 @@ Jobs: ^777777All^000000
 #
 19514#
 A neatly trimmed mustache reminiscent of the style worn by an 'Old Timey' actor from the past.
-^ff0000This item is account bound^000000
+^ff0000Account bound^000000
 Class: ^777777Costume^000000
-Location: ^777777Upper^000000
+Location: ^777777Lower^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -87098,7 +87060,7 @@ Jobs: ^777777Swordman^000000
 Increases damage to enemy players by 80% and bypasses 30% Def.
 If refined to +6 or higher, increases physical damage to enemy players by an additional 40%.
 If refined to +9 or higher, has a chance of reflecting damage of physical and magic attacks as well as a chance to cast Magic Mirror.
-Class: ^777777Two-handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777260^000000
 Weight: ^777777350^000000
 Weapon Level: ^7777774^000000
@@ -87108,7 +87070,7 @@ Jobs: ^777777Swordman Class^000000
 21002#
 *Stats during WoE & PVP
 Decreases target's HP by 8% per hit. (This effect does not work with skills)
-Class: ^777777Two-handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777100^000000
 Weight: ^777777250^000000
 Weapon Level: ^7777774^000000
@@ -87120,7 +87082,7 @@ An oriental sword named after a legendary Japanese swordsmith.
 Curses its owner by a low chance.
 CRIT +30
 ASPD +8%
-Class: ^777777Two-handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack Strength: ^777777155^000000
 Weight: ^777777100^000000
 Weapon Level: ^7777774^000000
@@ -87128,9 +87090,9 @@ Required Level: ^77777748^000000
 Jobs: ^777777Swordman Class^000000
 #
 21004#
-A reddish wide two-handed sword.
+A reddish wide Two-Handed Sword.
 Increases ASPD by 1 for every 2 upgrade levels.
-Class: ^777777Two-handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777280^000000
 Weight: ^777777340^000000
 Weapon Level: ^7777773^000000
@@ -87142,7 +87104,7 @@ Jobs: ^777777Rune Knight^000000
 Every 1 refine increase 6 ATK and 2 MATK.
 Base level 20 : every 10 level increase ATK by 5.
 (Effect applies up to level 120)
-Class: ^777777Two-handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^77777795^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
@@ -87155,7 +87117,7 @@ Jobs: ^777777SwordsmanClass^000000
 ** Extra option available in WoE TE area
 Physical Attack Power +40% against other adventurers.
 Physical attacks have a high Bleeding chance.
-Class: ^777777Two-handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777150^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
@@ -87183,7 +87145,7 @@ When Receiving Physical Attack,5% less chance of HP,SP Drain.
 Drains 100 HP every 10 seconds.
 Drains 1,000 HP when unequipped.
 MATK +120
-Class: ^777777Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777280^000000
 Weight: ^777777130^000000
 Weapon Level: ^7777774^000000
@@ -87191,7 +87153,7 @@ Required Level: ^777777120^000000
 Class: ^777777Swordsman Class^000000
 #
 21010#
-This two-handed sword was once used for vanquishing an evil slayer and his followers.
+This Two-Handed Sword was once used for vanquishing an evil slayer and his followers.
 Increase damage against Demon and Undead monster by 10%.
 Refined to +9, increase ATK by 5%
 Refined to +12, increase ATK by 7%
@@ -87208,10 +87170,10 @@ ASPD -5%.
 When base STR is below 110, decrease ATK -250.
 Each refine increase CRIT damage by 1%.
 Indestructible.
-Class: ^777777Two-handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777300^000000
 Weight: ^777777500^000000
-Weapon Level: ^777777 4^000000
+Weapon Level: ^7777774^000000
 Required Level: ^777777130^000000
 Jobs: ^7777773rd Swordman class^000000
 #
@@ -87222,16 +87184,16 @@ I feel that one of its benefits were sealed with a high cost.
 Class: ^777777Two-Handed Sword^000000
 Attack: ^777777230^000000
 Weight: ^77777750^000000
-Weapon Level: ^777777 4^000000
+Weapon Level: ^7777774^000000
 Required Level: ^777777100^000000
 Jobs: ^7777773rd Swordman Class^000000
 #
 21015#
-Two-handed sword with red light radiance blade.
+Two-Handed Sword with red light radiance blade.
 ATK increased by (Refine*Refine), up to +15 refine.
 MATK increased by (Refine*Refine)/2, up to +15 refine.
 Level 70 or higher:Per 10 BaseLevel,ATK +5.
-Class: ^777777Two-handed sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777170^000000
 Weight: ^777777170^000000
 Weapon Level: ^7777773^000000
@@ -87239,12 +87201,12 @@ Required Level: ^77777770^000000
 Jobs: ^777777Swordman classes^000000
 #
 21016#
-Two-handed Sword imbued with evil spirit.
+Two-Handed Sword imbued with evil spirit.
 Increase ATK by (refine*refine).
 (up to +15 refine level)
 Increase MATK by (refine*refine)/2.
 (up to +15 refine level)
-Class: ^777777Two-handed sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777220^000000
 Weight: ^777777220^000000
 Weapon Level: ^7777774^000000
@@ -87256,7 +87218,7 @@ Sword once used by berserker Riel. You can feel steady rhythm of enemy movement 
 Every 2 refine ATK +1%.
 Every 1 refine, Increase attack speed (reduce delay after attack by 1%)
 Indestructible.
-Class: ^777777Two-handed sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777340^000000
 Weight: ^777777340^000000
 Weapon Level: ^7777774^000000
@@ -87273,7 +87235,7 @@ When base STR is 120 or higher, add ATK +120.
 When refined to +7 or more, has chance when attacking to curse enemies in 11x11 cells.
 When refined to +9 or more, enable use of level 1 Berserk.
 When level 5 Maximum Power Thrust is activated, consumpt 5000 zeny.
-Class: ^777777Two-handed sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^77777775^000000
 Weight: ^777777420^000000
 Weapon Level: ^7777774^000000
@@ -91921,7 +91883,7 @@ Reduce cooldown of skill axe boomerang by 1 second.
 Class: ^777777Axe^000000
 Attack: ^777777320^000000
 Weight: ^777777400^000000
-Weapon Level: ^777777 4^000000
+Weapon Level: ^7777774^000000
 Required Level: ^777777100^000000
 Jobs: ^7777773rd Swordman class/Merchant Class^000000
 #
@@ -91945,7 +91907,7 @@ I feel that one of its benefits were sealed with a high cost.
 Class: ^777777Two-Handed Axe^000000
 Attack: ^777777265^000000
 Weight: ^77777750^000000
-Weapon Level: ^777777 4^000000
+Weapon Level: ^7777774^000000
 Required Level: ^777777100^000000
 Jobs: ^777777Swordman Class, Merchant Class^000000
 #
@@ -91978,7 +91940,7 @@ You'll see far beyond his death, as exceeds the limits of firepower with this gr
 Class: ^777777Grenade Launcher^000000
 Attack: ^777777410^000000
 Weight: ^777777240^000000
-Weapon Level: ^777777 3^000000
+Weapon Level: ^7777773^000000
 Required Level: ^777777110^000000
 Jobs: ^777777Rebellion Only^000000
 #
@@ -91989,7 +91951,7 @@ Add low chance inflict ^880000Curse^000000 on the enemy when attacking.
 Class: ^777777Grenade Launcher^000000
 Attack: ^777777480^000000
 Weight: ^777777200^000000
-Weapon Level: ^777777 3^000000
+Weapon Level: ^7777773^000000
 Required Level: ^777777141^000000
 Jobs: ^777777Rebellion Class^000000
 #
@@ -92000,7 +91962,7 @@ Add low chance inflict ^880000Curse^000000 on the enemy when attacking.
 Class: ^777777Grenade Launcher^000000
 Attack: ^777777480^000000
 Weight: ^777777200^000000
-Weapon Level: ^777777 3^000000
+Weapon Level: ^7777773^000000
 Required Level: ^777777141^000000
 Jobs: ^777777Rebellion Class^000000
 #
@@ -92157,7 +92119,7 @@ MATK + 100.
 Class: ^777777Dagger^000000
 Attack: ^777777125^000000
 Weight: ^77777750^000000
-Weapon Level: ^777777 4^000000
+Weapon Level: ^7777774^000000
 Required Level: ^777777100^000000
 Jobs: ^777777Swordman , Archer , Novice , Ninja , Thief , Wizard , Merchant and Soul Linker Class ^000000
 #
