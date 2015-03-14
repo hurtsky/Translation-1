@@ -1458,7 +1458,7 @@ Please equipped with a Barrier Generator.#
 Please equipped with a Optical Camouflage Generator.#
 Please equipped with a Repair Kit.#
 Monkey Wrench is required.#
-[%s] Cannot use the skills due to cooldown delay.#
+Cannot use [%s] due to cooldown delay.#
 Deletion is impossible for over level %d#
 Can't be used while on Magic Gear.#
 Dismount Dragon#
