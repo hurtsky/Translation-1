@@ -1797,7 +1797,7 @@ A Red Ore of ^FF0000Fire^000000 property which can be refined into the elemental
 Weight: ^7777775^000000
 #
 991#
-A Blue Ore of ^6996ADWater^000000 property which can be refined into the elemental stone 'Crystal Blue'.
+A Blue Ore of ^0000BBWater^000000 property which can be refined into the elemental stone 'Crystal Blue'.
 ^ffffff_^000000
 Weight: ^7777775^000000
 #
@@ -1817,7 +1817,7 @@ A red stone with ^FF0000Fire^000000 property.
 Weight: ^77777730^000000
 #
 995#
-A blue stone with ^6996ADWater^000000 property.
+A blue stone with ^0000BBWater^000000 property.
 ^ffffff_^000000
 Weight: ^77777730^000000
 #
@@ -2658,9 +2658,7 @@ Attack: ^777777130^000000
 Weight: ^777777120^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777727^000000
-Jobs: ^777777Swordman,
-Merchant, and
-Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief Classes^000000
 #
 1120#
 One of the most powerful one-handed swords, the Tsurugi was favored by the Japanese samurai.
@@ -2669,9 +2667,7 @@ Attack: ^777777130^000000
 Weight: ^777777120^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777727^000000
-Jobs: ^777777Swordman,
-Merchant, and
-Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief Classes^000000
 #
 1121#
 One of the most powerful one-handed swords, the Tsurugi was favored by the Japanese samurai.
@@ -2680,9 +2676,7 @@ Attack: ^777777130^000000
 Weight: ^777777120^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777727^000000
-Jobs: ^777777Swordman,
-Merchant, and
-Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief Classes^000000
 #
 1122#
 A one-handed sword with an elaborately designed hilt.
@@ -2691,9 +2685,7 @@ Attack: ^777777100^000000
 Weight: ^77777790^000000
 Weapon Level: ^7777772^000000
 Required Level: ^77777714^000000
-Jobs: ^777777Swordman,
-Merchant, and
-Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief Classes^000000
 #
 1123#
 A one-handed, ancient Korean sword that is said to have the mysterious power to control minds.
@@ -2703,24 +2695,17 @@ Attack: ^777777120^000000
 Weight: ^77777790^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777727^000000
-Jobs: ^777777Swordman,
-Merchant, and
-Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief Classes^000000
 #
 1124#
-Crafted by Orcish smiths
-and used by Orc Warriors,
-this one-handed sword is
-symbolic to the Orc tribe.
+Crafted by Orcish smiths and used by Orc Warriors, this one-handed sword is symbolic to the Orc tribe.
 Indestructible.
 Class: ^777777One-Handed Sword^000000
 Attack: ^77777790^000000
 Weight: ^77777780^000000
 Weapon Level: ^7777773^000000
 Required Level: ^7777775^000000
-Jobs: ^777777Novice,
-Swordman, Merchant
-and Thief Classes^000000
+Jobs: ^777777Novice, Swordman, Merchant and Thief Classes^000000
 #
 1125#
 A one-handed sword with an elaborately designed hilt.
@@ -2729,9 +2714,7 @@ Attack: ^777777100^000000
 Weight: ^77777790^000000
 Weapon Level: ^7777772^000000
 Required Level: ^77777714^000000
-Jobs: ^777777Swordman,
-Merchant, and
-Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief Classes^000000
 #
 1126#
 A heavy one-handed cavalry sword with a slightly curved blade.
@@ -2740,9 +2723,7 @@ Attack: ^777777115^000000
 Weight: ^777777100^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777727^000000
-Jobs: ^777777Swordman,
-Merchant, and
-Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief Classes^000000
 #
 1127#
 A heavy one-handed cavalry sword with a slightly curved blade.
@@ -2751,9 +2732,7 @@ Attack: ^777777115^000000
 Weight: ^777777100^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777727^000000
-Jobs: ^777777Swordman,
-Merchant, and
-Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief Classes^000000
 #
 1128#
 A one-handed, ancient Korean sword that is said to have the mysterious power to control minds.
@@ -2763,9 +2742,7 @@ Attack: ^777777120^000000
 Weight: ^77777790^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777727^000000
-Jobs: ^777777Swordman,
-Merchant, and
-Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief Classes^000000
 #
 1129#
 A powerful one-handed sword with a decoratively wavy, flame-like blade.
@@ -2774,11 +2751,10 @@ Attack: ^777777150^000000
 Weight: ^777777150^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777727^000000
-Jobs: ^777777Knight, Crusader^000000
+Jobs: ^777777Knight and Crusader^000000
 #
 1130#
-A one-handed sword
-topped with several extra edges for making wounds deeper and more unsightly.
+A one-handed sword topped with several extra edges for making wounds deeper and more unsightly.
 Increases damage against Demihuman monsters by 5%
 Enables use of ^008800Level 5 Double Attack^000000.
 Class: ^777777One-Handed Sword^000000
@@ -2786,113 +2762,80 @@ Attack: ^777777120^000000
 Weight: ^77777750^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777740^000000
-Jobs: ^777777Swordman,
-Merchant, and
-Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief Classes^000000
 #
 1131#
-A one-handed, formal
-dress sword imbued
-with the ^6996ADWater^000000 property. Automatically casts
-^008800Level 3 Cold Bolt^000000 by
-chance. Enables use
-of ^008800Level 3 Cold Bolt^000000.
-Freeze monsters by
-5% chance when hit.
-Freeze its owner by
-1% chance when used.
+A one-handed, formal dress sword imbued with the ^0000BBWater^000000 property.
+Automatically casts ^008800Level 3 Cold Bolt^000000 by chance.
+Enables use of ^008800Level 3 Cold Bolt^000000.
+5% chance to Freeze monsters when attacking.
+1% chance to Freeze its owner when attacking.
 Class: ^777777One-Handed Sword^000000
 Attack: ^777777100^000000
 Weight: ^77777760^000000
-Property: ^6996ADWater^000000
+Property: ^0000BBWater^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777740^000000
-Jobs: ^777777Swordman,
-Merchant, and
-Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief Classes^000000
 #
 1132#
-A one-handed sword
-with an extremely sharp blade that can cause the Coma effect by low chance. Places Curse effect on its target by a 3% chance.
+A one-handed sword with an extremely sharp blade that can cause the Coma effect by low chance. Places Curse effect on its target by a 3% chance.
 Class: ^777777One-Handed Sword^000000
 Attack: ^777777115^000000
 Weight: ^77777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777740^000000
-Jobs: ^777777Swordman,
-Merchant, and
-Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief Classes^000000
 #
 1133#
-A one-handed, formal
-dress sword imbued
-with the ^FF0000Fire^000000 property. Automatically casts
-^008800Level 3 Fire Bolt^000000 by
-chance. Enables use
-of ^008800Level 3 Fire Bolt^000000.
+A one-handed, formal dress sword imbued with the ^FF0000Fire^000000 property.
+Automatically casts ^008800Level 3 Fire Bolt^000000 by chance.
+Enables use of ^008800Level 3 Fire Bolt^000000.
 Class: ^777777One-Handed Sword^000000
 Attack: ^777777100^000000
 Weight: ^77777750^000000
 Property: ^FF0000Fire^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777740^000000
-Jobs: ^777777Swordman,
-Merchant, and
-Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief Classes^000000
 #
 1134#
-A one-handed sword
-which looks just like
-a pair of scissors.
+A one-handed sword which looks just like a pair of scissors.
 Increase damage inflicted on Plant monsters by 25%.
-Pierces Defense
-of Plant monsters.
+Pierces Defense of Plant monsters.
 Class: ^777777One-Handed Sword^000000
 Attack: ^777777140^000000
 Weight: ^77777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777740^000000
-Jobs: ^777777Swordman,
-Merchant, and
-Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief Classes^000000
 #
 1135#
-A one-handed sword
-popularized by its use
-by sea adventurers.
-Enables use of
-^008800Level 5 Bash^000000.
+A one-handed sword popularized by its use by sea adventurers.
+Enables use of ^008800Level 5 Bash^000000.
 STR +2
-Def +1
+DEF +1
 Class: ^777777One-Handed Sword^000000
 Attack: ^777777150^000000
 Weight: ^77777790^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777740^000000
-Jobs: ^777777Swordman,
-Merchant, and
-Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief Classes^000000
 #
 1136#
-A one-handed sword
-adorned with an engraving of the sun, symbolizing battle spirit and vigor.
-Regains 1% of damage inflicted on its target as as HP with each attack.
-Regains 1 % of the damage inflicted on its target as HP with each attack.
-Drains 15 SP from its
-owner every 10 seconds.
+A one-handed sword adorned with an engraving of the sun, symbolizing battle spirit and vigor.
+Drains 1% of damage inflicted on its target as HP with each attack.
+Drains 15 SP from its owner every 10 seconds.
 Class: ^777777One-Handed Sword^000000
 Attack: ^77777785^000000
 Weight: ^777777120^000000
 Property: ^FF0000Fire^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777740^000000
-Jobs: ^777777Swordman,
-Merchant, and
-Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief Classes^000000
 #
 1137#
-The one-handed sword
-of Arthurian legend, it supposedly selects its owner by its own will to wield its holy powers.
+The one-handed sword of Arthurian legend, it supposedly selects its owner by its own will to wield its holy powers.
 INT +5
 LUK +10
 DEX -1
@@ -2902,18 +2845,12 @@ Weight: ^777777120^000000
 Property: ^777777Holy^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777740^000000
-Jobs: ^777777Swordman,
-Merchant, and
-Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief Classes^000000
 #
 1138#
-A one-handed sword
-inspired by the legendary twig said to have killed Baldur, god of light.
-similar to the legendary twig which was rumored to have murdered Baldur, the God of Light.
-Causes Stone Curse
-effect by low chance.
-Increase damage inflicted
-on ^777777Ghost^000000 property by 15%.
+A sword inspired by the legendary twig said to have killed Baldur, god of light.
+Causes Stone Curse effect by low chance.
+Increase damage inflicted on ^777777Ghost^000000 property by 15%.
 DEX +3
 Class: ^777777One-Handed Sword^000000
 Attack: ^777777170^000000
@@ -2921,47 +2858,35 @@ Weight: ^777777100^000000
 Property: ^777777Shadow^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777740^000000
-Jobs: ^777777Swordman,
-Merchant, and
-Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief Classes^000000
 #
 1139#
-A one-handed sword
-said to bring a horrific fate to whoever wields it.
-Drains 35 HP
-every 10 seconds.
+A one-handed sword said to bring a horrific fate to whoever wields it.
+Drains 35 HP every 10 seconds.
 Class: ^777777One-Handed Sword^000000
 Attack: ^777777200^000000
 Weight: ^777777100^000000
 Property: ^777777Shadow^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777740^000000
-Jobs: ^777777Swordman,
-Merchant, and
-Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief Classes^000000
 #
 1140#
-A giant one-handed
-sword used by ancient
-Korean war generals.
+A giant one-handed sword used by ancient Korean war generals.
 Increase damage inflicted on boss monsters by 5%.
-Increase damage received by normal monsters by 10%.
+Increase damage received from normal monsters by 10%.
 All Stats +2
 Class: ^777777One-Handed Sword^000000
 Attack: ^777777150^000000
 Weight: ^77777790^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777740^000000
-Jobs: ^777777Swordman,
-Merchant, and
-Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief Classes^000000
 #
 1141#
 A one-handed, formless sword imbued with the ^777777Ghost^000000 property that can derange the enemy's mind.
-Drains 30% of target's
-SP by a low chance.
-Each attack drains
-1 SP from owner.
+Drains 30% of target's SP by a low chance.
+Each attack drains 1 SP from owner.
 Indestructible.
 Class: ^777777One-Handed Sword^000000
 Attack: ^777777140^000000
@@ -2969,22 +2894,16 @@ Weight: ^77777790^000000
 Property: ^777777Ghost^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777740^000000
-Jobs: ^777777Swordman,
-Merchant, and
-Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief Classes^000000
 #
 1142#
-A sword that has a
-beautiful, transparent
-blade and a hilt adorned with a princely jewel.
+A sword that has a beautiful, transparent blade and a hilt adorned with a princely jewel.
 Class: ^777777One-Handed Sword^000000
 Attack: ^777777104^000000
 Weight: ^777777220^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777768^000000
-Jobs: ^777777Swordman,
-Merchant, and
-Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief Classes^000000
 #
 1143#
 An enchanted sword that draws ore out from fallen monsters.
@@ -2996,37 +2915,28 @@ Required Level: ^77777774^000000
 Jobs: ^777777Swordman, Merchant and Thief Classes^000000
 #
 1144#
-An extremely sharp,
-thin bladed sword that
-is very efficient when
-slicing fish to make
-Japanese cuisine.
-Increases Sushi drop
-chance when killing
-Fish monsters by 40%.
+An extremely sharp, thin bladed sword that is very efficient when slicing fish to make Japanese cuisine.
+Adds Sushi drop chance when killing Fish monsters by 40%.
 Class: ^777777One-Handed Sword^000000
 Attack: ^77777775^000000
 Weight: ^777777140^000000
-Property: ^777777Wind^000000
+Property: ^7BCC70Wind^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777748^000000
 Jobs: ^777777Swordman, Merchant and Thief Classes^000000
 #
 1145#
 A sword that symbolizes the Lord's holy retribution.
-Enchanted with Holy Property.
 Class: ^777777One-Handed Sword^000000
 Attack: ^777777125^000000
 Weight: ^777777135^000000
+Property: ^777777Holy^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777775^000000
 Jobs: ^777777Crusader^000000
 #
 1146#
-A common, humbly
-made sword that is
-intended for the use
-of those without any special sword expertise.
+A common, humbly made sword that is intended for the use of those without any special sword expertise.
 Class: ^777777One-Handed Sword^000000
 Attack: ^777777100^000000
 Weight: ^77777780^000000
@@ -3035,10 +2945,7 @@ Required Level: ^77777730^000000
 Jobs: ^777777Novice Class^000000
 #
 1147#
-A common, humbly
-made sword that is
-intended for the use
-of those without any special sword expertise.
+A common, humbly made sword that is intended for the use of those without any special sword expertise.
 Class: ^777777One-Handed Sword^000000
 Attack: ^777777100^000000
 Weight: ^77777780^000000
@@ -3047,13 +2954,9 @@ Required Level: ^77777730^000000
 Jobs: ^777777Novice Class^000000
 #
 1148#
-A spectacular sword with a blade forged out
-of meteorite that shines with starlight during the
-night. Has a 5% chance
-of causing Stun effect
-on enemies with each
-attack. Cannot be
-destroyed in battle.
+A spectacular sword with a blade forged out of meteorite that shines with starlight during the night.
+Has a 5% chance of causing Stun effect on enemies with each attack.
+Indestructible
 Class: ^777777One-Handed Sword^000000
 Attack: ^777777140^000000
 Weight: ^777777100^000000
@@ -3062,21 +2965,16 @@ Required Level: ^77777745^000000
 Jobs: ^777777Novice Class^000000
 #
 1149#
-A beautiful, wavy
-bladed dagger that
-inflicts especially
-excruciating pain.
+A beautiful, wavy bladed dagger that inflicts especially excruciating pain.
 Class: ^777777One-Handed Sword^000000
 Attack: ^777777150^000000
 Weight: ^777777150^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777727^000000
-Jobs: ^777777Knight, Crusader^000000
+Jobs: ^777777Knight and Crusader^000000
 #
 1151#
-A fearsome sword
-that has slain many
-a warrior in battle.
+A fearsome sword that has slain many a warrior in battle.
 Class: ^777777Two-Handed Sword^000000
 Attack: ^77777790^000000
 Weight: ^777777130^000000
@@ -3085,9 +2983,7 @@ Required Level: ^77777718^000000
 Jobs: ^777777Swordman Class^000000
 #
 1152#
-A fearsome sword
-that has slain many
-a warrior in battle.
+A fearsome sword that has slain many a warrior in battle.
 Class: ^777777Two-Handed Sword^000000
 Attack: ^77777790^000000
 Weight: ^777777130^000000
@@ -3096,9 +2992,7 @@ Required Level: ^77777718^000000
 Jobs: ^777777Swordman Class^000000
 #
 1153#
-A fearsome sword
-that has slain many
-a warrior in battle.
+A fearsome sword that has slain many a warrior in battle.
 Class: ^777777Two-Handed Sword^000000
 Attack: ^77777790^000000
 Weight: ^777777130^000000
@@ -3171,10 +3065,8 @@ Required Level: ^77777733^000000
 Jobs: ^777777Swordman Class^000000
 #
 1161#
-Sword wielded by
-mighty ^333366GOD-POING^000000,
-the lawless heroine.
-INT +20 , LUK +20
+A gigantic Two-Handed sword used by a legendary hero, Siegfried.
+INT +20, LUK +20
 Class: ^777777Two-Handed Sword^000000
 Attack: ^777777250^000000
 Weight: ^777777100^000000
@@ -3228,8 +3120,7 @@ Jobs: ^777777Swordman Class^000000
 1166#
 A giant sword, rumored to be made from a dragon's tooth, that can easily cut through dragon scales.
 Increases damage inflicted on Dragon monsters by 15%.
-Pierces defense of
-Dragon monsters.
+Pierces defense of Dragon monsters.
 Class: ^777777Two-Handed Sword^000000
 Attack: ^777777150^000000
 Weight: ^777777130^000000
@@ -3250,10 +3141,8 @@ Required Level: ^77777748^000000
 Jobs: ^777777Swordman Class^000000
 #
 1168#
-An enormous,
-Two-Handed Sword.
-Indestructible (except
-in upgrade attempts).
+An enormous, Two-Handed Sword.
+Indestructible.
 Class: ^777777Two-Handed Sword^000000
 Attack: ^777777200^000000
 Weight: ^777777220^000000
@@ -3262,10 +3151,8 @@ Required Level: ^77777748^000000
 Jobs: ^777777Swordman Class^000000
 #
 1169#
-A gruesome sword used
-to behead criminals judged with the death penalty.
-Pierces Defense of
-Demihuman monsters.
+A gruesome sword used to behead criminals judged with the death penalty.
+Pierces Defense of Demihuman monsters.
 Increases damage inflicted on Demihuman monsters by 20%, but increases damage received by Demihuman monsters by 10%.
 Class: ^777777Two-Handed Sword^000000
 Attack: ^777777155^000000
@@ -3319,12 +3206,10 @@ Jobs: ^777777Swordman Class^000000
 #
 1174#
 ^000088Rental Item^000000
-A gruesome sword used
-to behead criminals judged with the death penalty.
-Pierces Defense of
-Demihuman monsters.
+A gruesome sword used to behead criminals judged with the death penalty.
+Pierces Defense of Demihuman monsters.
 Increases damage inflicted on Demihuman monsters by 20%, but increases damage received by Demihuman monsters by 10%.
-This item cannot be Dropped or Traded.
+Cannot be Dropped or Traded.
 Class: ^777777Two-Handed Sword^000000
 Attack: ^777777190^000000
 Weight: ^7777770^000000
@@ -3335,34 +3220,24 @@ Jobs: ^777777Swordman Class^000000
 #
 1175#
 A massive sword wielded by Atroce that is much too large to be handled by ordinary warriors.
-CRIT +10%
+CRIT +10
 Destroys enemy armor if the wearer's STR is 80 or greater.
 Class: ^777777Two-Handed Sword^000000
 Attack: ^777777200^000000
 Weight: ^777777350^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777755^000000
-Jobs: ^777777Transcendent
-Swordman Classes^000000
+Jobs: ^777777Transcendent Swordman Classes^000000
 #
 1176#
-A weapon that is
-designed to easily
-slice the muscles
-of monsters. Each
-attack has a chance
-of inflicting the
-Bleeding Status and
-auto casting Decrease
-AGI Lv.1 on the
-targeted enemy.
+A weapon that is designed to easily slice the muscles of monsters.
+Each attack has a chance of inflicting the Bleeding Status and auto casting Decrease AGI Lv.1 on the targeted enemy.
 Class: ^777777Two-Handed Sword^000000
 Attack: ^777777160^000000
 Weight: ^777777220^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777755^000000
-Jobs: ^777777Transcendent
-Swordman Classes^000000
+Jobs: ^777777Transcendent Swordman Classes^000000
 #
 1177#
 ^ff0000Item cannot be traded with other characters.^000000
@@ -3372,7 +3247,7 @@ Class: ^777777One-Handed Sword^000000
 Attack: ^777777120^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777771^000000
-Jobs: ^777777Swordsman Class Only^000000
+Jobs: ^777777Swordsman Class^000000
 #
 1178#
 A two-handed, formal dress sword imbued with the ^7BCC70Wind^000000 property.
@@ -3420,7 +3295,7 @@ Weight: ^777777200^000000
 Property: ^777777Neutral^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777790^000000
-Jobs: ^777777Transcendent Swordman only^000000
+Jobs: ^777777Transcendent Swordman^000000
 #
 1182#
 A magical sword which releases a dismal black aura.
@@ -3432,7 +3307,7 @@ Weight: ^777777120^000000
 Property: ^777777Ghost^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777780^000000
-Jobs: ^777777Transcendent Swordman Class^000000
+Jobs: ^777777Transcendent Swordman^000000
 #
 1183#
 A Two-Handed Sword made to rush at the enemy's position, especially designed for battles against Demihumans.
@@ -3469,7 +3344,7 @@ Attack: ^777777275^000000
 Weight: ^777777220^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777780^000000
-Jobs: ^777777Transcendent Swordman Class^000000
+Jobs: ^777777Transcendent Swordman^000000
 #
 1186#
 It is a cursed weapon exists only for the destruction of all living being. The curse of this sword event affects the owner that it leads the person to misery.
@@ -3483,7 +3358,7 @@ Attack: ^777777200^000000
 Weight: ^777777200^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777770^000000
-Jobs: ^777777Transcendent Swordman Class^000000
+Jobs: ^777777Transcendent Swordman^000000
 #
 1187#
 Physical Attack Strength to Demihuman monsters +70%.
@@ -3510,7 +3385,7 @@ Attack: ^777777180^000000
 Weight: ^777777200^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777780^000000
-Jobs: ^777777Swordman Class Only^000000
+Jobs: ^777777Swordman Class^000000
 #
 1189#
 A strong-looking sword which resembles the shape of a Claymore. Its handgrip is decorated with red colors from the High Class Knights.
@@ -3520,7 +3395,7 @@ Attack: ^777777200^000000
 Weight: ^777777380^000000
 Weapon Level: ^7777772^000000
 Required Level: ^77777750^000000
-Jobs: ^777777Transcendent Swordman Classes^000000
+Jobs: ^777777Transcendent Swordman^000000
 #
 1190#
 ^ff0000Item cannot be traded with other characters.^000000
@@ -3533,7 +3408,7 @@ Class: ^777777Two-Handed Sword^000000
 Attack: ^777777220^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Knight, Crusader^000000
+Jobs: ^777777Knight and Crusader^000000
 #
 1191#
 A reddish wide Two-Handed Sword.
@@ -3588,7 +3463,7 @@ Attack: ^777777280^000000
 Weight: ^77777740^000000
 Weapon Level: ^7777773^000000
 Required Level: ^777777110^000000
-Jobs: ^777777Swordman Class Type^000000
+Jobs: ^777777Swordman Class^000000
 #
 1197#
 A Two-Handed Sword that is made by the Eden Group. It is suitable for those who have more advanced experience handling Two-Handed Swords.
@@ -3606,12 +3481,12 @@ A fish used as a cutlass for its long knife-like shape. It is cold to the touch.
 CRI +20, increase critical damage by 50%.
 when attacking causes freeze at regular rate.
 if base level is over 100, ATK +50
-Class: ^777777Both Hands Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777220^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777771^000000
 Required Level: ^77777750^000000
-Jobs: ^777777SwordmanClass^000000
+Jobs: ^777777Swordman Class^000000
 #
 1201#
 A simple knife.
@@ -7171,11 +7046,11 @@ Jobs: ^777777Priest, Sage, Taekwon Master^000000
 A hefty book with
 a hard cover that has
 been enchanted with
-the ^6996ADWater^000000 property.
+the ^0000BBWater^000000 property.
 Class: ^777777Book^000000
 Attack: ^77777790^000000
 Weight: ^77777775^000000
-Property: ^6996ADWater^000000
+Property: ^0000BBWater^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777727^000000
 Jobs: ^777777Priest
@@ -7409,11 +7284,11 @@ Jobs: ^777777Priest, Sage, Star Gladiator^000000
 A hefty book with
 a hard cover that has
 been enchanted with
-the ^6996ADWater^000000 property.
+the ^0000BBWater^000000 property.
 Class: ^777777Book^000000
 Attack: ^77777790^000000
 Weight: ^77777775^000000
-Property: ^6996ADWater^000000
+Property: ^0000BBWater^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777727^000000
 Jobs: ^777777Priest
@@ -9292,7 +9167,7 @@ An arrow made of blue crystal imbued with the power of Water.
 Class: ^777777Arrow^000000
 Attack: ^77777730^000000
 Weight: ^7777770.2^000000
-Property: ^6996ADWater^000000
+Property: ^0000BBWater^000000
 #
 1755#
 An arrow enchanted by the power of the Wind.
@@ -9334,7 +9209,7 @@ by a low chance.
 Class: ^777777Arrow^000000
 Attack: ^7777771^000000
 Weight: ^7777770.3^000000
-Property: ^6996ADWater^000000
+Property: ^0000BBWater^000000
 #
 1760#
 An arrow that explodes with a flash of light upon impact.
@@ -10158,7 +10033,7 @@ who spend his entire life in complete loneliness.
 Class: ^777777Musical Instrument^000000
 Attack: ^777777110^000000
 Weight: ^77777790^000000
-Property: ^6996ADWater^000000
+Property: ^0000BBWater^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777727^000000
 Jobs: ^777777Bard^000000
@@ -10667,7 +10542,7 @@ are eternally frozen.
 Class: ^777777Whip^000000
 Attack: ^777777110^000000
 Weight: ^77777770^000000
-Property: ^6996ADWater^000000
+Property: ^0000BBWater^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777730^000000
 Jobs: ^777777Dancer^000000
@@ -11170,7 +11045,7 @@ When you equip a whole set of Aqua items - the staff, the robe, the shoes, and t
 Class: ^777777Two-Handed_Staff^000000
 Attack: ^77777730^000000
 Weight: ^77777790^000000
-Property: ^6996ADWater^000000
+Property: ^0000BBWater^000000
 Weapon Level: ^7777774^000000
 Required Level: ^777777100^000000
 Jobs: ^777777Warlock^000000
@@ -11223,7 +11098,7 @@ When you equip a whole set of Aqua items - the staff, the robe, the shoes, and t
 Class: ^777777Two-Handed_Staff^000000
 Attack: ^77777730^000000
 Weight: ^77777790^000000
-Property: ^6996ADWater^000000
+Property: ^0000BBWater^000000
 Weapon Level: ^7777774^000000
 Required Level: ^777777130^000000
 Jobs: ^777777Warlock^000000
@@ -13600,7 +13475,7 @@ Required Level: ^77777745^000000
 Jobs: ^777777All Jobs except Novice^000000
 #
 2346#
-An armor that is enchanted with the ^6996ADWater^000000 Property.
+An armor that is enchanted with the ^0000BBWater^000000 Property.
 Class: ^777777Armor^000000
 Defense: ^77777725^000000
 Weight: ^777777220^000000
@@ -13609,7 +13484,7 @@ Jobs: ^777777Swordman and
 Merchant Classes^000000
 #
 2347#
-An armor that is enchanted with the ^6996ADWater^000000 Property.
+An armor that is enchanted with the ^0000BBWater^000000 Property.
 Class: ^777777Armor^000000
 Defense: ^77777725^000000
 Weight: ^777777220^000000
@@ -15810,7 +15685,7 @@ Jobs: ^777777All Except Novice^000000
 #
 2544#
 Leather of a Tendrilion with plant stems sticking out of it.
-Resistance to Earth and ^6996ADWater^000000 property +5%
+Resistance to Earth and ^0000BBWater^000000 property +5%
 Resistance to animal or plant monsters +5%
 Class: ^777777Garment^000000
 Defense: ^77777714^000000
@@ -17986,7 +17861,7 @@ Weight: ^7777770^000000
 Jobs: ^777777All^000000
 #
 2772#
-HP +300. Resistance to attacks with ^6996ADWater^000000, ^7BCC70Wind^000000, ^cc5500Earth^000000, and ^FF0000Fire^000000 properties +10%.
+HP +300. Resistance to attacks with ^0000BBWater^000000, ^7BCC70Wind^000000, ^cc5500Earth^000000, and ^FF0000Fire^000000 properties +10%.
 ASPD +5%. Variable Casting Speed reduces by 3%
 HP recovery +5% when using [Heal], [Sanctuary], or [Potion Pitcher].
 When equipped with a Medal of Honor, Attack power against all enemies +5%, MATK +3%,
@@ -18159,7 +18034,7 @@ Jobs: ^777777All^000000
 #
 2787#
 A brooch made out of tear drops of the Aqua Elemental.
-Increases resistance to ^6996ADWater^000000 property by 5%.
+Increases resistance to ^0000BBWater^000000 property by 5%.
 MaxHP +80, MDEF +2
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
@@ -20423,7 +20298,7 @@ Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4069#
-Increase physical damage inflicted on ^6996ADWater^000000 property monsters by 20%.
+Increase physical damage inflicted on ^0000BBWater^000000 property monsters by 20%.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -20551,7 +20426,7 @@ Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4089#
-Enchant an Armor with the ^6996ADWater^000000 property.
+Enchant an Armor with the ^0000BBWater^000000 property.
 DEF +1
 Class: ^777777Card^000000
 Compound on: ^777777Armor^000000
@@ -20596,7 +20471,7 @@ Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4095#
-Increase resistance against ^6996ADWater^000000 property by 30%.
+Increase resistance against ^0000BBWater^000000 property by 30%.
 Flee +5
 Class: ^777777Card^000000
 Compound on: ^777777Garment^000000
@@ -20664,7 +20539,7 @@ Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4105#
-Gain immunity from the ^880000Frozen^000000 status and increase resistance to ^6996ADWater^000000 property by 5%.
+Gain immunity from the ^880000Frozen^000000 status and increase resistance to ^0000BBWater^000000 property by 5%.
 Class: ^777777Card^000000
 Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -20977,7 +20852,7 @@ Inflict 30% more physical damage on Aster.
 ^3CB371Crab Card^000000
 ^3CB371Aster Card^000000
 Has chance of Gaining 'Raw Fish' each time a Fish Monster is killed.
-+30% damage on ^6996ADWater^000000 Property monsters
++30% damage on ^0000BBWater^000000 Property monsters
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -21377,7 +21252,7 @@ Weight: ^7777771^000000
 #
 4195#
 Add the chance of gaining 'Crystal Blue' item each time a Fish or Shellfish monster is killed.
-Add 10% more tolerance against ^6996ADWater^000000 Property Attack.
+Add 10% more tolerance against ^0000BBWater^000000 Property Attack.
 Class: ^777777Card^000000
 Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
@@ -21994,7 +21869,7 @@ Inflict 30% more damage on Shell Fishes.
 ^3CB371Shell Fish Card^000000
 ^3CB371Crab Card^000000
 ^3CB371Aster Card^000000
-+30% damage on ^6996ADWater^000000
++30% damage on ^0000BBWater^000000
 Property monsters
 30% chance of Gaining
 'Raw Fish'	each time
@@ -22299,7 +22174,7 @@ Inflict 30% more damage on Crabs.
 ^3CB371Shell Fish Card^000000
 ^3CB371Crab Card^000000
 ^3CB371Aster Card^000000
-+30% damage on ^6996ADWater^000000
++30% damage on ^0000BBWater^000000
 Property monsters
 30% chance of Gaining
 'Raw Fish'	each time
@@ -24185,8 +24060,8 @@ Compound on: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4443#
-Decreases damage from ^6996ADWater^000000 property by 20%.
-Increases damage dealt to ^6996ADWater^000000 property by 5%.
+Decreases damage from ^0000BBWater^000000 property by 20%.
+Increases damage dealt to ^0000BBWater^000000 property by 5%.
 Class: ^777777Card^000000
 Compound on: ^777777Shield^000000
 Weight: ^7777771^000000
@@ -24738,7 +24613,7 @@ Compound: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4523#
-Changes armor to ^6996ADWater^000000 property.
+Changes armor to ^0000BBWater^000000 property.
 Reduces damage from fish type enemies by 10%.
 Class: ^777777Card ^000000
 Compound: ^777777Armor^000000
@@ -30147,7 +30022,7 @@ Jobs: ^777777All except Novice^000000
 #
 5316#
 A fancy umbrella that doesn't need a hand and is very handy during monsoon. It prevents you getting wet and also gives you a festival mood.
-Reduces getting 3% damage from ^6996ADWater^000000 property Attack.
+Reduces getting 3% damage from ^0000BBWater^000000 property Attack.
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
 Location: ^777777Upper^000000
@@ -31028,7 +30903,7 @@ Jobs: ^777777All^000000
 Scuba Glasses meant for Divers.
 If you wear this on the Ground, people will think you are a person
 not taking outside views seriously.
-Resistance against ^6996ADWater^000000 property by 10%.
+Resistance against ^0000BBWater^000000 property by 10%.
 Class: ^777777Head Gear^000000
 Defense: ^7777770^000000
 Location: ^777777Middle^000000
@@ -31266,7 +31141,7 @@ Jobs: ^777777All^000000
 A mask of Ifrit, the spiritual owner of fire.
 STR +1, INT +1, MDEF +5
 Increases resistence against ^FF0000Fire^000000 property attacks by 10%
-Decreases resistence against ^6996ADWater^000000 property attacks 10%.
+Decreases resistence against ^0000BBWater^000000 property attacks 10%.
 Enables use of Lv.1 Sight.
 Has a chance of auto-casting Lv. 3 Meteor Storm when receiving physical attack.
 Has a chance of auto-casting Lv. 3 Fire Bolt Lv.3 dealing physical damage.
@@ -31284,7 +31159,7 @@ STR +1, MDEF +3
 Increase damage of Fire Bolt, Fire Pillar, and Meteor Storm skill by 2%.
 Increase damage of Bash, Pierce, and Magnum Break skill by 2%.
 Increases resistence against ^FF0000Fire^000000 property attacks by 5%.
-Decreases resistence against ^6996ADWater^000000 property attacks by 5%.
+Decreases resistence against ^0000BBWater^000000 property attacks by 5%.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Middle^000000
@@ -32188,8 +32063,8 @@ Jobs: ^777777All^000000
 Sharks are amazingly gentle creatures if you stay away from their food supply.
 STR +1, AGI +2,
 MDEF +1
-Increases Damage to ^6996ADWater^000000 property by 5%.
-Increases Damage taken by ^6996ADWater^000000 property monsters by 10%.
+Increases Damage to ^0000BBWater^000000 property by 5%.
+Increases Damage taken by ^0000BBWater^000000 property monsters by 10%.
 Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
 Defense: ^7777773^000000
@@ -33006,7 +32881,7 @@ job: ^777777All^000000
 5581#
 A magnificent diadem created to pay tribute to the 4th sign of the zodiac, Cancer the Crab. Attached to the crown is a Ruby gemstone, the birthstone for those born under this sign.
 INT +2,
-Increases Resistance to ^6996ADWater^000000 property by 5%.
+Increases Resistance to ^0000BBWater^000000 property by 5%.
 If refined to 7 or higher,
 MDEF +1, MATK +2,
 Increase effectiveness of Heal & recovery items by 3%.
@@ -33020,7 +32895,7 @@ Jobs: ^777777All^000000
 5582#
 A magnificent crown created to pay tribute to the 4th sign of the zodiac, Cancer the Crab. Attached to the crown is a Ruby gemstone, the birthstone for those born under this sign.
 STR +2,
-Increase Resistance to ^6996ADWater^000000 property by 5%.
+Increase Resistance to ^0000BBWater^000000 property by 5%.
 If refined to 7 or higher,
 Def +1, Attack +15,
 Flee +10
@@ -34277,7 +34152,7 @@ placeholder
 5676#
 A magnificent crown created to pay tribute to the 8th sign of the zodiac, Scorpio the Scorpion. Attached to the crown is a Topaz gemstone, the birthstone for those born under this sign.
 ATK +5. ASPD +3% (Attack after delay 3%)
-Increases resistance against ^6996ADWater^000000 property by 5%.
+Increases resistance against ^0000BBWater^000000 property by 5%.
 If refined to 7, when attacking, has a chance of autocasting Lv 3 Mild Wind.
 If refined to 8, ASPD +2%. (Attack after delay 2%)
 If refined to 9, has a chance of autocasting Lv 5 Frost Nova.
@@ -34498,7 +34373,7 @@ Jobs: ^777777All^000000
 5738#
 A hat that is a constant reminder of the Winter season.
 STR +1, INT +1, MDEF +3,
-Increases resistance to ^6996ADWater^000000 property by 7%.
+Increases resistance to ^0000BBWater^000000 property by 7%.
 When killing monsters, has a low chance of dropping Buche De Noel or Candy Canes.
 When dealing physical or magical damage, has a low chance of activating Lv 1 Frost Joker.
 If refined to	8, activates Lv 5 Frost Joker.
@@ -36959,7 +36834,7 @@ Weight: ^7777770^000000
 6190#
 An essential magic book for the Warlock Skill [Reading Spell Book]
 Magic Power can be drawn out by reading the words written in this book.
-It's written about the ^6996ADWater^000000 property magic, Cold Bolt.
+It's written about the ^0000BBWater^000000 property magic, Cold Bolt.
 Weight: ^7777770^000000
 #
 6191#
@@ -36971,7 +36846,7 @@ Weight: ^7777770^000000
 6192#
 An essential magic book for the Warlock Skill [Reading Spell Book]
 Magic Power can be drawn out by reading the words written in this book.
-It's written about the ^6996ADWater^000000 property magic, Storm Gust.
+It's written about the ^0000BBWater^000000 property magic, Storm Gust.
 Weight: ^7777770^000000
 #
 6193#
@@ -37013,7 +36888,7 @@ Weight: ^7777770^000000
 6199#
 An essential magic book for the Warlock Skill [Reading Spell Book]
 Magic Power can be drawn out by reading the words written in this book.
-It's written about the ^6996ADWater^000000 property magic, Water Ball.
+It's written about the ^0000BBWater^000000 property magic, Water Ball.
 Weight: ^7777770^000000
 #
 6200#
@@ -37753,7 +37628,7 @@ Gemstone with ^FF0000Fire^000000 property, a small piece split from Red Blood.
 Weight: ^7777770.5^000000
 #
 6361#
-Gemstone with ^6996ADWater^000000 property, a small piece split from Crystal Blue.
+Gemstone with ^0000BBWater^000000 property, a small piece split from Crystal Blue.
 Weight: ^7777770.5^000000
 #
 6362#
@@ -43591,7 +43466,7 @@ Weight: ^7777771^000000
 #
 7522#
 A bead, imbued with
-the ^6996ADWater^000000 property,
+the ^0000BBWater^000000 property,
 that is used as a
 catalyst by Ninjas
 when performing
@@ -47635,7 +47510,7 @@ Weight: ^77777720^000000
 #
 12032#
 Imbues the user's
-weapon with the ^6996ADWater^000000 property for 3 minutes.
+weapon with the ^0000BBWater^000000 property for 3 minutes.
 ^ffffff_^000000
 Weight: ^77777720^000000
 #
@@ -48320,7 +48195,7 @@ Weight: ^7777771^000000
 12115#
 Temporarily enchant
 the user's weapon with
-the ^6996ADWater^000000 property.
+the ^0000BBWater^000000 property.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -48343,7 +48218,7 @@ A potion that will
 temporarily increase
 the user's resistance
 to the ^FF0000Fire^000000 property at^FFFFFF	^000000 the cost of increasing
-damage from the ^6996ADWater^000000
+damage from the ^0000BBWater^000000
 property for the potion's active duration.
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -48352,7 +48227,7 @@ Weight: ^7777771^000000
 A potion that will
 temporarily increase
 the user's resistance
-to the ^6996ADWater^000000 property at^FFFFFF ^000000 the cost of increasing
+to the ^0000BBWater^000000 property at^FFFFFF ^000000 the cost of increasing
 damage from the ^7BCC70Wind^000000
 property for the potion's active duration.
 ^ffffff_^000000
@@ -55488,7 +55363,7 @@ Property: ^777777Shadow^000000
 13207#
 A grenade launcher
 bullet imbued with
-the ^6996ADWater^000000 property.
+the ^0000BBWater^000000 property.
 Class: ^777777Bullet^000000
 Attack: ^77777750^000000
 Weight: ^7777770.5^000000
@@ -56169,7 +56044,7 @@ Require Level: ^777777110^000000
 Jobs: ^777777Ninja Class^000000
 #
 13314#
-Shuriken with ^6996ADWater^000000 property. Snowstorm occurs when in use.
+Shuriken with ^0000BBWater^000000 property. Snowstorm occurs when in use.
 MATK +50.
 Auto-spell Snow Flake Draft 1Lv is activated by a low rate in close range physical attacks. (at the level learned)
 Class: ^777777Huuma Shuriken^000000
@@ -64170,7 +64045,7 @@ Description:
 A mask of Ifrit, the spiritual owner of fire.
 STR +1, INT +1, MDEF +5
 Increases resistence against ^FF0000Fire^000000 property attacks by 10%
-Decreases resistence against ^6996ADWater^000000 property attacks 10%.
+Decreases resistence against ^0000BBWater^000000 property attacks 10%.
 Enables use of Lv.1 Sight.
 Has a chance of auto-casting Lv. 3 Meteor Storm when receiving physical attack.
 Has a chance of auto-casting Lv. 3 Fire Bolt Lv.3 dealing physical damage.
@@ -64194,7 +64069,7 @@ STR +1, MDEF +3
 Increase damage of Fire Bolt, Fire Pillar, and Meteor Storm skill by 2%.
 Increase damage of Bash, Pierce, and Magnum Break skill by 2%.
 Increases resistence against ^FF0000Fire^000000 property attacks by 5%.
-Decreases resistence against ^6996ADWater^000000 property attacks by 5%.
+Decreases resistence against ^0000BBWater^000000 property attacks by 5%.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Middle^000000
@@ -70426,7 +70301,7 @@ Weight: ^7777771^000000
 A box that contains 1 Scorpio Crown.
 A magnificent crown created to pay tribute to the 8th sign of the zodiac, Scorpio the Scorpion. Attached to the crown is a Topaz gemstone, the birthstone for those born under this sign.
 ATK +5. ASPD +3% (Attck after delay 3%)
-Increases resistance against ^6996ADWater^000000 property by 5%.
+Increases resistance against ^0000BBWater^000000 property by 5%.
 If refined to 7, when attacking, has a chance of autocasting Lv 3 Mild Wind.
 If refined to 8, ASPD +2%. (Attack after delay 2%)
 If refined to 9, has a chance of autocasting Lv 5 Frost Nova.
@@ -70458,7 +70333,7 @@ Weight: ^7777771^000000
 A box that contains 1 Scorpio Crown.
 A magnificent crown created to pay tribute to the 8th sign of the zodiac, Scorpio the Scorpion. Attached to the crown is a Topaz gemstone, the birthstone for those born under this sign.
 ATK +5. ASPD +3% (Attck after delay 3%)
-Increases resistance against ^6996ADWater^000000 property by 5%.
+Increases resistance against ^0000BBWater^000000 property by 5%.
 If refined to 7, when attacking, has a chance of autocasting Lv 3 Mild Wind.
 If refined to 8, ASPD +2%. (Attack after delay 2%)
 If refined to 9, has a chance of autocasting Lv 5 Frost Nova.
@@ -70721,7 +70596,7 @@ Weight: ^7777771^000000
 A box containing 1 snow man hat.
 A hat that is a constant reminder of the Winter season.
 STR +1, INT +1, MDEF +3,
-Increases resistance to ^6996ADWater^000000 property by 7%.
+Increases resistance to ^0000BBWater^000000 property by 7%.
 When killing monsters, has a low chance of dropping Buche De Noel or Candy Canes.
 When dealing physical or magical damage, has a low chance of activating Lv 1 Frost Joker.
 If refined to	8, activates Lv 5 Frost Joker.
@@ -70738,7 +70613,7 @@ Weight: ^7777771^000000
 A box containing 1 snow man hat.
 A hat that is a constant reminder of the Winter season.
 STR +1, INT +1, MDEF +3,
-Increases resistance to ^6996ADWater^000000 property by 7%.
+Increases resistance to ^0000BBWater^000000 property by 7%.
 When killing monsters, has a low chance of dropping Buche De Noel or Candy Canes.
 When dealing physical or magical damage, has a low chance of activating Lv 1 Frost Joker.
 If refined to	8, activates Lv 5 Frost Joker.
@@ -76504,7 +76379,7 @@ Location: ^777777All except Novice^000000
 18639#
 A hat only for officers who passed hard training from the NAVY. White, Blue and Yellow color is the symbol of a sailor's providence.
 LUK +3
-Gives 10% more damage to ^6996ADWater^000000 property monsters.
+Gives 10% more damage to ^0000BBWater^000000 property monsters.
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
 Location: ^777777Upper^000000
@@ -77089,7 +76964,7 @@ Jobs: ^777777All Jobs except Novice^000000
 #
 18699#
 Hat that looks like a starving big fish eats man 
-Receive 15% less damage from ^6996ADWater^000000 property monster. When hunting monsters, dropped Fresh Fish with low chance.
+Receive 15% less damage from ^0000BBWater^000000 property monster. When hunting monsters, dropped Fresh Fish with low chance.
 Refine unavailable.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
@@ -78915,7 +78790,7 @@ Jobs: ^777777All^000000
 18897#
 "Humans are like teabags. We don't know our true strength
 until we are in hot water! - Eleanor Roosevelt"
-Increases resistance from ^6996ADWater^000000 property by 8%
+Increases resistance from ^0000BBWater^000000 property by 8%
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
 Location: ^777777Mid ^000000
@@ -90949,12 +90824,12 @@ Jobs: ^777777all^000000
 #
 24188#
 The protective effect of the reinforcement can be obtained in combination with other Armors. Also your power protection is available as a single, but its protective effect is smaller.
-Increase physical and magic damage against ^6996ADWater^000000 property monsters by 1%.
-Each 2 refine increase physical and magic damage against ^6996ADWater^000000 property monsters by 1%.
+Increase physical and magic damage against ^0000BBWater^000000 property monsters by 1%.
+Each 2 refine increase physical and magic damage against ^0000BBWater^000000 property monsters by 1%.
 [^6A5ACDSaharic Shadow Set^000000]
 ^008800Saharic Shadow Armor^000000
 ^008800Saharic Shadow Shield^000000
-Reduces physical and magical damage receive from ^6996ADWater^000000 property monsters by 2%.
+Reduces physical and magical damage receive from ^0000BBWater^000000 property monsters by 2%.
 Class: ^777777Shadow Equipment^000000
 Location: ^777777Armor^000000
 Weight: ^7777770^000000
@@ -91121,13 +90996,13 @@ Jobs: ^777777all^000000
 #
 24200#
 Additional protective effect with a small shield that can be mounted on the arm can be obtained. Also available as a single, but the protective effect is small.
-Reduces physical and magical damage receive from ^6996ADWater^000000 property monsters by 1%.
-Refined to +7, reduces physical and magical damage receive from ^6996ADWater^000000 property monsters by 1%.
-Refined to +9, reduces physical and magical damage receive from ^6996ADWater^000000 property monsters by 1%.
+Reduces physical and magical damage receive from ^0000BBWater^000000 property monsters by 1%.
+Refined to +7, reduces physical and magical damage receive from ^0000BBWater^000000 property monsters by 1%.
+Refined to +9, reduces physical and magical damage receive from ^0000BBWater^000000 property monsters by 1%.
 [^6A5ACDSaharic Shadow Set^000000]
 ^008800Saharic Shadow Armor^000000
 ^008800Saharic Shadow Shield^000000
-Reduces physical and magical damage receive from ^6996ADWater^000000 property monsters by 2%.
+Reduces physical and magical damage receive from ^0000BBWater^000000 property monsters by 2%.
 Class: ^777777Shadow Equipment^000000
 Location: ^777777Shield^000000
 Weight: ^7777770^000000

@@ -1795,7 +1795,7 @@ A Red Ore of ^FF0000Fire^000000 property which can be refined into the elemental
 Weight: ^7777775^000000
 #
 991#
-A Blue Ore of ^6996ADWater^000000 property which can be refined into the elemental stone 'Crystal Blue'.
+A Blue Ore of ^0000BBWater^000000 property which can be refined into the elemental stone 'Crystal Blue'.
 ^ffffff_^000000
 Weight: ^7777775^000000
 #
@@ -1815,7 +1815,7 @@ A red stone with ^FF0000Fire^000000 property.
 Weight: ^77777730^000000
 #
 995#
-A blue stone with ^6996ADWater^000000 property.
+A blue stone with ^0000BBWater^000000 property.
 ^ffffff_^000000
 Weight: ^77777730^000000
 #
@@ -8154,7 +8154,7 @@ Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4069#
-Increase physical damage inflicted on ^6996ADWater^000000 property monsters by 20%.
+Increase physical damage inflicted on ^0000BBWater^000000 property monsters by 20%.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -8281,7 +8281,7 @@ Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4089#
-Enchant an Armor with the ^6996ADWater^000000 property.
+Enchant an Armor with the ^0000BBWater^000000 property.
 DEF +1
 Class: ^777777Card^000000
 Compound on: ^777777Armor^000000
@@ -8326,7 +8326,7 @@ Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4095#
-Increase resistance against ^6996ADWater^000000 property by 30%.
+Increase resistance against ^0000BBWater^000000 property by 30%.
 Flee +5
 Class: ^777777Card^000000
 Compound on: ^777777Garment^000000
@@ -8394,7 +8394,7 @@ Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4105#
-Gain immunity from the ^880000Frozen^000000 status and increase resistance to ^6996ADWater^000000 property by 5%.
+Gain immunity from the ^880000Frozen^000000 status and increase resistance to ^0000BBWater^000000 property by 5%.
 Class: ^777777Card^000000
 Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -8707,7 +8707,7 @@ Inflict 30% more physical damage on Aster.
 ^3CB371Crab Card^000000
 ^3CB371Aster Card^000000
 Has chance of Gaining 'Raw Fish' each time a Fish Monster is killed.
-+30% damage on ^6996ADWater^000000 Property monsters
++30% damage on ^0000BBWater^000000 Property monsters
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -9106,7 +9106,7 @@ Weight: ^7777771^000000
 #
 4195#
 Add the chance of gaining 'Crystal Blue' item each time a Fish or Shellfish monster is killed.
-Add 10% more tolerance against ^6996ADWater^000000 property Attack.
+Add 10% more tolerance against ^0000BBWater^000000 property Attack.
 Class: ^777777Card^000000
 Slot: ^777777Helmet^000000
 Weight: ^7777771^000000
@@ -9722,7 +9722,7 @@ Inflict 30% more damage on Shell Fishes.
 ^3CB371Shell Fish Card^000000
 ^3CB371Crab Card^000000
 ^3CB371Aster Card^000000
-+30% damage on ^6996ADWater^000000
++30% damage on ^0000BBWater^000000
 Property monsters
 30% chance of Gaining
 'Raw Fish'	each time
@@ -10027,7 +10027,7 @@ Inflict 30% more damage on Crabs.
 ^3CB371Shell Fish Card^000000
 ^3CB371Crab Card^000000
 ^3CB371Aster Card^000000
-+30% damage on ^6996ADWater^000000
++30% damage on ^0000BBWater^000000
 Property monsters
 30% chance of Gaining
 'Raw Fish'	each time
@@ -11889,8 +11889,8 @@ Compound on: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4443#
-Decreases damage from ^6996ADWater^000000 property by 20%.
-Increases damage dealt to ^6996ADWater^000000 property by 5%.
+Decreases damage from ^0000BBWater^000000 property by 20%.
+Increases damage dealt to ^0000BBWater^000000 property by 5%.
 Class: ^777777Card^000000
 Compound on: ^777777Shield^000000
 Weight: ^7777771^000000
@@ -12442,7 +12442,7 @@ Compound: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4523#
-Changes armor to ^6996ADWater^000000 property.
+Changes armor to ^0000BBWater^000000 property.
 Reduces damage from fish type enemies by 10%.
 Class: ^777777Card ^000000
 Compound: ^777777Armor^000000
@@ -17695,7 +17695,7 @@ Weight: ^7777770^000000
 6190#
 An essential magic book for the Warlock Skill Read Spell Book.
 Magic Power can be drawn out by reading a word written in this book.
-It's written about ^6996ADWater^000000 property magic, Cold Bolt.
+It's written about ^0000BBWater^000000 property magic, Cold Bolt.
 Weight: ^7777770^000000
 #
 6191#
@@ -17707,7 +17707,7 @@ Weight: ^7777770^000000
 6192#
 An essential magic book for the Warlock Skill Read Spell Book.
 Magic Power can be drawn out by reading a word written in this book.
-It's written about ^6996ADWater^000000 property magic, Storm Gust.
+It's written about ^0000BBWater^000000 property magic, Storm Gust.
 Weight: ^7777770^000000
 #
 6193#
@@ -17749,7 +17749,7 @@ Weight: ^7777770^000000
 6199#
 An essential magic book for the Warlock Skill Reading Spell Book.
 Magic Power can be drawn out by reading a word written in this book.
-It's written about ^6996ADWater^000000 property magic, Water Ball.
+It's written about ^0000BBWater^000000 property magic, Water Ball.
 Weight: ^7777770^000000
 #
 6200#
@@ -18431,7 +18431,7 @@ Gemstone with ^FF0000Fire^000000 property, a small piece split from Red Blood.
 Weight: ^7777770.5^000000
 #
 6361#
-Gemstone with ^6996ADWater^000000 property, a small piece split from Crystal Blue.
+Gemstone with ^0000BBWater^000000 property, a small piece split from Crystal Blue.
 Weight: ^7777770.5^000000
 #
 6362#
@@ -24116,7 +24116,7 @@ Weight: ^7777771^000000
 #
 7522#
 A bead, imbued with
-the ^6996ADWater^000000 property,
+the ^0000BBWater^000000 property,
 that is used as a
 catalyst by Ninjas
 when performing
@@ -27976,7 +27976,7 @@ Weight: ^77777720^000000
 #
 12032#
 Imbues the user's
-weapon with the ^6996ADWater^000000 property for 3 minutes.
+weapon with the ^0000BBWater^000000 property for 3 minutes.
 ^ffffff_^000000
 Weight: ^77777720^000000
 #
@@ -28659,7 +28659,7 @@ Weight: ^7777771^000000
 12115#
 Temporarily enchant
 the user's weapon with
-the ^6996ADWater^000000 property.
+the ^0000BBWater^000000 property.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -28682,7 +28682,7 @@ A potion that will
 temporarily increase
 the user's resistance
 to the ^FF0000Fire^000000 property at^FFFFFF	^000000 the cost of increasing
-damage from the ^6996ADWater^000000
+damage from the ^0000BBWater^000000
 property for the potion's active duration.
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -28691,7 +28691,7 @@ Weight: ^7777771^000000
 A potion that will
 temporarily increase
 the user's resistance
-to the ^6996ADWater^000000 property at^FFFFFF ^000000 the cost of increasing
+to the ^0000BBWater^000000 property at^FFFFFF ^000000 the cost of increasing
 damage from the ^7BCC70Wind^000000
 property for the potion's active duration.
 ^ffffff_^000000
@@ -34084,7 +34084,7 @@ Property: ^777777Shadow^000000
 13207#
 A grenade launcher
 bullet imbued with
-the ^6996ADWater^000000 property.
+the ^0000BBWater^000000 property.
 Class: ^777777Bullet^000000
 Attack: ^77777750^000000
 Weight: ^7777770.5^000000
@@ -41470,7 +41470,7 @@ A box that contains 1 'Mask of Ifrit' in it.
 Mask of Ifrit, the spiritual owner of fire. Rumored to rule a power of the fire.
 STR +1, INT +1, MDEF +5
 Increase 10% resistence against ^FF0000Fire^000000 property attacks.
-Decrease 10% resistence against ^6996ADWater^000000 property attacks.
+Decrease 10% resistence against ^0000BBWater^000000 property attacks.
 Enables use of Lv.1 Sight.
 Autospell Meteor Storm Lv.3 by a certain chance when receiving physical attack.
 Autospell Fire Bolt Lv.3 by a certain chance when dealing physical damage.
@@ -41491,7 +41491,7 @@ STR +1, MDEF +3
 Increase damage of Fire Bolt, Fire Pillar, Meteor Storm skill by 2%.
 Increase damage of Bash, Pierce, Magnum Break skill by 2%.
 Increase 5% resistence against ^FF0000Fire^000000 property attacks.
-Reduce 5% resistence against ^6996ADWater^000000 property attacks.
+Reduce 5% resistence against ^0000BBWater^000000 property attacks.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Mid^000000		Weight: ^7777770^000000
@@ -46403,7 +46403,7 @@ Weight: ^7777771^000000
 A box that contains 1 Scorpio Crown.
 A magnificent crown created to pay tribute to the 8th sign of the zodiac, Scorpio the Scorpion. Attached to the crown is a Topaz gemstone, the birthstone for those born under this sign.
 ATK +5. ASPD +3% (Attck after delay 3%)
-Increases resistance against ^6996ADWater^000000 property by 5%.
+Increases resistance against ^0000BBWater^000000 property by 5%.
 If refined to 7, when attacking, has a chance of autocasting Lv 3 Mild Wind.
 If refined to 8, ASPD +2%. (Attack after delay 2%)
 If refined to 9, has a chance of autocasting Lv 5 Frost Nova.
@@ -46435,7 +46435,7 @@ Weight: ^7777771^000000
 A box that contains 1 Scorpio Crown.
 A magnificent crown created to pay tribute to the 8th sign of the zodiac, Scorpio the Scorpion. Attached to the crown is a Topaz gemstone, the birthstone for those born under this sign.
 ATK +5. ASPD +3% (Attck after delay 3%)
-Increases resistance against ^6996ADWater^000000 property by 5%.
+Increases resistance against ^0000BBWater^000000 property by 5%.
 If refined to 7, when attacking, has a chance of autocasting Lv 3 Mild Wind.
 If refined to 8, ASPD +2%. (Attack after delay 2%)
 If refined to 9, has a chance of autocasting Lv 5 Frost Nova.
@@ -46699,7 +46699,7 @@ Weight: ^7777771^000000
 A box containing 1 snow man hat.
 A hat that is a constant reminder of the Winter season.
 STR +1, INT +1, MDEF +3,
-Increases resistance to ^6996ADWater^000000 property by 7%.
+Increases resistance to ^0000BBWater^000000 property by 7%.
 When killing monsters, has a low chance of dropping Buche De Noel or Candy Canes.
 When dealing physical or magical damage, has a low chance of activating Lv 1 Frost Joker.
 If refined to	8, activates Lv 5 Frost Joker.
@@ -46716,7 +46716,7 @@ Weight: ^7777771^000000
 A box containing 1 snow man hat.
 A hat that is a constant reminder of the Winter season.
 STR +1, INT +1, MDEF +3,
-Increases resistance to ^6996ADWater^000000 property by 7%.
+Increases resistance to ^0000BBWater^000000 property by 7%.
 When killing monsters, has a low chance of dropping Buche De Noel or Candy Canes.
 When dealing physical or magical damage, has a low chance of activating Lv 1 Frost Joker.
 If refined to	8, activates Lv 5 Frost Joker.
