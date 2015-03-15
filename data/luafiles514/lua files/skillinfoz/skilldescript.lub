@@ -11321,9 +11321,9 @@ SKILL_DESCRIPT = {
   [SKID.MH_GRANITIC_ARMOR] = {
     "Granitic Armor",
     "Max Level: 5",
-    "Description: ^777777Create a granite based strong armour, temporarily increase Homunculs and master's defense",
-    "for reducing damage. But, certain amount of HP after the skill duration",
-    "Duration is for60 Seconds. ^000000",
+    "Description: ^777777Create a granite based strong armor, temporarily increase Homunculus and master's defense",
+    "for reducing damage. Consume certain amount of HP after the skill duration.",
+    "Duration is 60 Seconds. ^000000",
     "[Lv 1]: ^777777Damage 2% Reduce / HP 6% Loss ^000000",
     "[Lv 2]: ^777777Damage 4% Reduce / HP 12% Loss ^000000",
     "[Lv 3]: ^777777Damage 6% Reduce / HP 18% Loss^000000",

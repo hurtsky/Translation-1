@@ -3088,12 +3088,12 @@ StateIconList[EFST_IDs.EFST_PLUSAVOIDVALUE] = {
   posTimeLimitStr = 2,
   descript = {
     {
-      "Welcome Glass",
+      "Cup of Welcome",
       COLOR_TITLE_BUFF
     },
     {"%s", COLOR_TIME},
     {
-      "Increase Full Flee"
+      "Increase Perfect Flee"
     }
   }
 }
@@ -3267,7 +3267,7 @@ StateIconList[EFST_IDs.EFST_PROPERTYDARK] = {
   descript = {
     {"%s", COLOR_TIME},
     {
-      "Give dark property to the target"
+      "Grant Shadow property to the target"
     }
   }
 }
@@ -3276,7 +3276,7 @@ StateIconList[EFST_IDs.EFST_REFLECTSHIELD] = {
   posTimeLimitStr = 2,
   descript = {
     {
-      "Shield Reflect",
+      "Reflect Shield",
       COLOR_TITLE_BUFF
     },
     {"%s", COLOR_TIME},
@@ -3291,7 +3291,7 @@ StateIconList[EFST_IDs.EFST_REFLECTSHIELD] = {
 StateIconList[EFST_IDs.EFST_RIDING] = {
   descript = {
     {
-      "Riding Vehicle",
+      "Riding",
       COLOR_TITLE_TOGGLE
     }
   }
@@ -3309,7 +3309,7 @@ StateIconList[EFST_IDs.EFST_LIGHTNINGWALK] = {
       "Have chance to avoid long distance"
     },
     {
-      "physical, magical attack"
+      "physical and magical attack"
     },
     {
       "and move right before the enemy"
@@ -3338,15 +3338,24 @@ StateIconList[EFST_IDs.EFST_COLD] = {
   posTimeLimitStr = 2,
   descript = {
     {
-      "Cold Slower",
+      "Crystallization State",
       COLOR_TITLE_DEBUFF
     },
     {"%s", COLOR_TIME},
     {
-      "Give water property damage"
+      "Cannot move, attack, use skills and items"
     },
     {
-      "Give freezing status"
+      "Gradually decrease HP and SP"
+    },
+    {
+      "Increase damage from Axes and Maces"
+    },
+    {
+      "Increase damage Wind property magic"
+    },
+    {
+      "Reduce damage from Swords and Arrows"
     }
   }
 }
@@ -3393,7 +3402,7 @@ StateIconList[EFST_IDs.EFST_COCKTAIL_WARG_BLOOD] = {
   posTimeLimitStr = 2,
   descript = {
     {
-      "Warg Blood Cocktail",
+      "Wug Blood Cocktail",
       COLOR_TITLE_BUFF
     },
     {"%s", COLOR_TIME},
@@ -3608,7 +3617,7 @@ StateIconList[EFST_IDs.EFST_MAGMA_FLOW] = {
   posTimeLimitStr = 2,
   descript = {
     {
-      "Magma Floor",
+      "Magma Flow",
       COLOR_TITLE_BUFF
     },
     {"%s", COLOR_TIME},
@@ -3630,10 +3639,10 @@ StateIconList[EFST_IDs.EFST_GRANITIC_ARMOR] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Reduction of damage for deeter and owner"
+      "Reduce Dieter and Master's damage received"
     },
     {
-      "HP Consumed at end of duration"
+      "Consume certain HP at the end of duration"
     }
   }
 }
@@ -3647,7 +3656,7 @@ StateIconList[EFST_IDs.EFST_PYROCLASTIC] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Weapon of Deeter and Owner"
+      "Weapon of Dieter and Master"
     },
     {
       "Change to Fire Property"
