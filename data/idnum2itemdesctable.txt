@@ -4307,10 +4307,10 @@ Jobs: ^777777Assassin Cross^000000
 1269#
 A Katar made from a dragon's scale.
 Inflicts abnormal status to enemies within a 5*5 cell when attacking.
-Holy property.
 Class: ^777777Katar^000000
 Attack: ^777777140^000000
 Weight: ^777777150^000000
+Property: ^777777Holy^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777755^000000
 Jobs: ^777777Assassin Cross^000000
@@ -4318,7 +4318,7 @@ Jobs: ^777777Assassin Cross^000000
 1270#
 A Katar fitted with spinning drills instead of blades, making it ideal for destroying armor.
 HIT +30.
-Has a chance of autocast full divest.
+Has a chance of autocast full strip.
 Class: ^777777Katar^000000
 Attack: ^777777110^000000
 Weight: ^777777140^000000
@@ -4609,8 +4609,8 @@ Jobs: ^777777Assassin Cross^000000
 1296#
 ^ff0000Cannot be traded.^000000
 Katar Made up of Metal.
-[Per Refine]ATK +5 and Critical Damage+1%.
-[Level 20 or more]Per 10 BaseLevel,ATK +5.
+[Per Refine]ATK +5 and Critical Damage +1%.
+[Level 20 or more]Per 10 BaseLevel, ATK +5.
 (Applies up to level 120.)
 Class: ^777777Katar^000000
 Attack: ^77777775^000000
@@ -4651,7 +4651,7 @@ Jobs: ^777777Assassin^000000
 #
 1301#
 A common axe.
-Class: ^777777Axe^000000
+Class: ^777777One-Handed Axe^000000
 Attack: ^77777738^000000
 Weight: ^77777780^000000
 Weapon Level: ^7777771^000000
@@ -4662,7 +4662,7 @@ and Thief Classes^000000
 #
 1302#
 A common axe.
-Class: ^777777Axe^000000
+Class: ^777777One-Handed Axe^000000
 Attack: ^77777738^000000
 Weight: ^77777780^000000
 Weapon Level: ^7777771^000000
@@ -4673,7 +4673,7 @@ and Thief Classes^000000
 #
 1303#
 A common axe.
-Class: ^777777Axe^000000
+Class: ^777777One-Handed Axe^000000
 Attack: ^77777738^000000
 Weight: ^77777780^000000
 Weapon Level: ^7777771^000000
@@ -4686,7 +4686,7 @@ and Thief Classes^000000
 An axe crafted by
 Orcish smiths for
 Orcish warriors.
-Class: ^777777Axe^000000
+Class: ^777777One-Handed Axe^000000
 Attack: ^77777775^000000
 Weight: ^777777150^000000
 Weapon Level: ^7777773^000000
@@ -4698,7 +4698,7 @@ Assassin Job^000000
 A heavy, broad bladed hatchet used by butchers.
 Increases damage against Demihuman monsters by 5%.
 Adds 30% additional chance of dropping Meat each time a Brute monster is killed.
-Class: ^777777Axe^000000
+Class: ^777777One-Handed Axe^000000
 Attack: ^777777140^000000
 Weight: ^777777120^000000
 Weapon Level: ^7777774^000000
@@ -4711,7 +4711,7 @@ A bloodthirsty axe
 that has aided many
 warriors in battle.
 DEX +2 , LUK +2
-Class: ^777777Axe^000000
+Class: ^777777One-Handed Axe^000000
 Attack: ^777777140^000000
 Weight: ^777777420^000000
 Weapon Level: ^7777773^000000
@@ -4720,11 +4720,8 @@ Jobs: ^777777Blacksmith
 and Alchemist Jobs^000000
 #
 1307#
-An axe that summons
-winds around its user, giving it unprecedented
-ASPD. Increases ASPD by 5%.
-daly after attacking reduces by 5%
-Class: ^777777One Handed Axe^000000
+An axe that summons winds around its user, giving it unprecedented ASPD. Increases ASPD by 5%.
+Class: ^777777One-Handed Axe^000000
 Attack: ^777777115^000000
 Weight: ^777777150^000000
 Weapon Level: ^7777772^000000
@@ -4741,7 +4738,7 @@ Golden Axe...
 An axe crafted by
 Orcish smiths for
 Orcish warriors.
-Class: ^777777Axe^000000
+Class: ^777777One-Handed Axe^000000
 Attack: ^77777775^000000
 Weight: ^777777150^000000
 Weapon Level: ^7777773^000000
@@ -4781,8 +4778,8 @@ Jobs: ^777777Transcendent Swordman/Merchant Classes^000000
 ^000088Rental Items^000000
 An axe crafted by Orcish smiths for Orcish warriors.
 Increases damage against small, medium, large size monsters by 70%.
-[Equipped in Gold PC Cafe]ATK +10,MATK +10
-Class: ^777777Axe^000000
+[Equipped in Gold PC Cafe]ATK +10, MATK +10
+Class: ^777777One-Handed Axe^000000
 Attack: ^777777110^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -4792,7 +4789,7 @@ Jobs: ^777777Novice, Swordman Class, Merchant Class, Assassin^000000
 ^ff0000Item cannot be traded with other characters.^000000
 Axe Travellers who travelled all around the world.
 STR +2.
-Class: ^777777Axe^000000
+Class: ^777777One-Handed Axe^000000
 Attack: ^77777777^000000
 Weight: ^77777750^000000
 Weapon Level: ^7777771^000000
@@ -4805,10 +4802,10 @@ A light axe imbued with the ^7BCC70Wind^000000 property which can be hurled at e
 Enables use of
 ^008800Tomahawk Throwing^000000.
 This item cannot be Dropped or Traded.
-Class: ^777777Axe^000000
+Class: ^777777One-Handed Axe^000000
 Attack: ^777777200^000000
 Weight: ^7777770^000000
-Property: ^777777Wind^000000
+Property: ^4cbb17Wind^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Swordman
@@ -4823,7 +4820,7 @@ STR +10, Holy property,
 Enables use of Lvl 3 Heal Increases damage inflicted
 on Devil monsters by 3%. Increases Movement Speed.
 This item cannot be Dropped or Traded.
-Class: ^777777Axe^000000
+Class: ^777777Two-Handed Axe^000000
 Attack: ^777777229^000000
 Weight: ^7777770^000000
 Property: ^777777Holy^000000
@@ -4842,7 +4839,7 @@ Indestructible
 ** Extra option available in WoE TE area
 +40% Physical Damage to Players
 Physical attacks have a high Freezing chance.
-Class: ^777777Axe^000000
+Class: ^777777One-Handed Axe^000000
 Attack: ^777777100^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
@@ -4855,7 +4852,7 @@ STR +5, INT +5.
 Premium:
 Long Range Atk + 20%
 ASPD +3
-Class: ^777777Onehand Axe^000000
+Class: ^777777One-Handed Axe^000000
 Attack: ^777777200^000000
 Weight: ^777777180^000000
 Weapon Level: ^7777773^000000
@@ -4864,7 +4861,7 @@ Jobs: ^777777Genetic^000000
 #
 1351#
 A sturdy two-handed axe useful for defeating many foes.
-Class: ^777777Axe^000000
+Class: ^777777Two-Handed Axe^000000
 Attack: ^77777780^000000
 Weight: ^777777150^000000
 Weapon Level: ^7777771^000000
@@ -4875,7 +4872,7 @@ and Merchant Classes^000000
 1352#
 A sturdy, two-handed
 axe created for fighting multiple enemies at once.
-Class: ^777777Axe^000000
+Class: ^777777Two-Handed Axe^000000
 Attack: ^77777780^000000
 Weight: ^777777150^000000
 Weapon Level: ^7777771^000000
@@ -4886,7 +4883,7 @@ and Merchant Classes^000000
 1353#
 A sturdy, two-handed
 axe created for fighting multiple enemies at once.
-Class: ^777777Axe^000000
+Class: ^777777Two-Handed Axe^000000
 Attack: ^77777780^000000
 Weight: ^777777150^000000
 Weapon Level: ^7777771^000000
@@ -4896,7 +4893,7 @@ and Merchant Classes^000000
 #
 1354#
 A really big hammer.
-Class: ^777777Axe^000000
+Class: ^777777Two-Handed Axe^000000
 Attack: ^777777120^000000
 Weight: ^777777200^000000
 Weapon Level: ^7777772^000000
@@ -4906,7 +4903,7 @@ and Merchant Classes^000000
 #
 1355#
 A really big hammer.
-Class: ^777777Axe^000000
+Class: ^777777Two-Handed Axe^000000
 Attack: ^777777120^000000
 Weight: ^777777200^000000
 Weapon Level: ^7777772^000000
@@ -4916,7 +4913,7 @@ and Merchant Classes^000000
 #
 1356#
 A really big hammer.
-Class: ^777777Axe^000000
+Class: ^777777Two-Handed Axe^000000
 Attack: ^777777120^000000
 Weight: ^777777200^000000
 Weapon Level: ^7777772^000000
@@ -4928,7 +4925,7 @@ and Merchant Classes^000000
 A powerful axe
 that lives up to its
 mighty appearance.
-Class: ^777777Axe^000000
+Class: ^777777Two-Handed Axe^000000
 Attack: ^777777155^000000
 Weight: ^777777220^000000
 Weapon Level: ^7777773^000000
@@ -4940,7 +4937,7 @@ and Merchant Classes^000000
 A powerful axe
 that lives up to its
 mighty appearance.
-Class: ^777777Axe^000000
+Class: ^777777Two-Handed Axe^000000
 Attack: ^777777155^000000
 Weight: ^777777220^000000
 Weapon Level: ^7777773^000000
@@ -4952,7 +4949,7 @@ and Merchant Classes^000000
 A powerful axe
 that lives up to its
 mighty appearance.
-Class: ^777777Axe^000000
+Class: ^777777Two-Handed Axe^000000
 Attack: ^777777155^000000
 Weight: ^777777220^000000
 Weapon Level: ^7777773^000000
@@ -4963,7 +4960,7 @@ and Merchant Classes^000000
 1360#
 A two-handed,
 double bladed axe.
-Class: ^777777Axe^000000
+Class: ^777777Two-Handed Axe^000000
 Attack: ^777777185^000000
 Weight: ^777777250^000000
 Weapon Level: ^7777773^000000
@@ -4974,7 +4971,7 @@ and Merchant Classes^000000
 1361#
 A two-handed,
 double bladed axe.
-Class: ^777777Axe^000000
+Class: ^777777Two-Handed Axe^000000
 Attack: ^777777185^000000
 Weight: ^777777250^000000
 Weapon Level: ^7777773^000000
@@ -4985,7 +4982,7 @@ and Merchant Classes^000000
 1362#
 A two-handed,
 double bladed axe.
-Class: ^777777Axe^000000
+Class: ^777777Two-Handed Axe^000000
 Attack: ^777777185^000000
 Weight: ^777777250^000000
 Weapon Level: ^7777773^000000
@@ -4997,7 +4994,7 @@ and Merchant Classes^000000
 A terrifying axe that is said to fill the entire battlefield with blood once it cuts flesh.
 Increases movement speed.
 STR +10
-Class: ^777777Axe^000000
+Class: ^777777Two-Handed Axe^000000
 Attack: ^777777170^000000
 Weight: ^777777400^000000
 Weapon Level: ^7777774^000000
@@ -5008,7 +5005,7 @@ Jobs: ^777777Swordman and Merchant Class^000000
 A humongous, double bladed axe.
 Mammonite skill will shove its target 5 cells backward.
 Stun inflict chance +15%
-Class: ^777777Axe^000000
+Class: ^777777Two-Handed Axe^000000
 Attack: ^777777187^000000
 Weight: ^777777180^000000
 Weapon Level: ^7777774^000000
@@ -5026,7 +5023,7 @@ on Undead monsters by 50%.
 Causes Coma effect
 on Demon monsters
 by a low chance.
-Class: ^777777Axe^000000
+Class: ^777777Two-Handed Axe^000000
 Attack: ^777777120^000000
 Weight: ^777777230^000000
 Property: ^777777Shadow^000000
@@ -5036,13 +5033,10 @@ Jobs: ^777777Swordman
 and Merchant Classes^000000
 #
 1366#
-A Greek ceremonial
-axe that possesses
-the power of holiness.
+A Greek ceremonial axe that possesses the power of holiness.
 Increases damage inflicted on Demon monsters by 3%.
-Enables use
-of ^008800Level 3 Heal^000000.
-Class: ^777777Axe^000000
+Enables use of ^008800Level 3 Heal^000000.
+Class: ^777777Two-Handed Axe^000000
 Attack: ^777777180^000000
 Weight: ^777777230^000000
 Property: ^777777Holy^000000
@@ -5058,10 +5052,10 @@ of Brute monsters.
 Causes Coma effect
 on Brute monsters
 by a low chance.
-Class: ^777777Axe^000000
+Class: ^777777Two-Handed Axe^000000
 Attack: ^777777120^000000
 Weight: ^777777250^000000
-Property: ^777777Earth^000000
+Property: ^cc5500Earth^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777744^000000
 Jobs: ^777777Swordman
@@ -5071,10 +5065,10 @@ and Merchant Classes^000000
 A light axe imbued with the ^7BCC70Wind^000000 property which can be hurled at enemies.
 Enables use of
 ^008800Tomahawk Throwing^000000.
-Class: ^777777Axe^000000
+Class: ^777777Two-Handed Axe^000000
 Attack: ^777777165^000000
 Weight: ^777777250^000000
-Property: ^777777Wind^000000
+Property: ^4cbb17Wind^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777744^000000
 Jobs: ^777777Swordman
@@ -5085,7 +5079,7 @@ A huge guillotine blade welded to a handle for active decapitation.
 Causes Coma effect
 on Demi-Human monsters.
 Regain 2 SP for each attack on a Demihuman monster and 20 SP for each killed Demihuman monster.
-Class: ^777777Axe^000000
+Class: ^777777Two-Handed Axe^000000
 Attack: ^777777215^000000
 Weight: ^777777300^000000
 Weapon Level: ^7777774^000000
@@ -5109,7 +5103,7 @@ a 30% chance of inflicting the Stun status and a
 low chance of destroying the enemy's armor with
 each physical attack.
 ^ffffff_^000000
-Class: ^777777Axe^000000
+Class: ^777777Two-Handed Axe^000000
 Attack Strength ^77777710^000000
 Weight: ^777777600^000000
 Weapon Level: ^7777774^000000
@@ -5133,7 +5127,7 @@ a 30% chance of inflicting the Stun status and a
 low chance of destroying the enemy's armor with
 each physical attack.
 ^ffffff_^000000
-Class: ^777777Axe^000000
+Class: ^777777Two-Handed Axe^000000
 Attack Strength ^77777710^000000
 Weight: ^777777600^000000
 Weapon Level: ^7777774^000000
@@ -5150,7 +5144,7 @@ STR +10, Holy property,
 Enables use of Lvl 3 Heal. Increases damage inflicted
 on Devil monsters by 3%. Increases Movement Speed.
 This item cannot be Dropped or Traded.
-Class: ^777777Axe^000000
+Class: ^777777Two-Handed Axe^000000
 Attack: ^777777229^000000
 Weight: ^7777770^000000
 Property: ^777777Holy^000000
@@ -5164,7 +5158,7 @@ and Merchant Classes^000000
 A terrifying axe that is said to fill the entire battlefield with blood once it cuts flesh.
 MATK +20%, ASPD +5%
 Impossible to refine this item.
-Class: ^777777Axe^000000
+Class: ^777777Two-Handed Axe^000000
 Attack: ^777777205^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
@@ -5194,7 +5188,7 @@ Reduces damage from
 Mid size monsters by
 13% and Large size
 monsters by 15%.
-Class: ^777777Axe^000000
+Class: ^777777Two-Handed Axe^000000
 Attack: ^777777200^000000
 Weight: ^777777250^000000
 Weapon Level: ^7777773^000000
@@ -5220,7 +5214,7 @@ auto casting Lv.3
 Hammerfall when
 worn by Mastersmiths
 and Biochemists.
-Class: ^777777Axe^000000
+Class: ^777777Two-Handed Axe^000000
 Attack: ^777777175^000000
 Weight: ^777777200^000000
 Weapon Level: ^7777774^000000
@@ -5250,7 +5244,7 @@ damage to all enemies
 within a 15*15 cell
 area, and knock them
 7 cells backward.
-Class: ^777777Axe^000000
+Class: ^777777Two-Handed Axe^000000
 Attack: ^777777332^000000
 Weight: ^777777350^000000
 Weapon Level: ^7777774^000000
@@ -5266,7 +5260,7 @@ STR +5, HIT +20
 Inflict the ^880000Stun^000000 status on targets by a high chance.
 ^008800Mammonite^000000 damage increased by 20%.
 Impossible to refine this item.
-Class: ^777777Axe^000000
+Class: ^777777Two-Handed Axe^000000
 Attack: ^777777215^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
@@ -5279,7 +5273,7 @@ STR +3
 Increases Physical Attack Strength towards Demihuman monsters by 55%.
 Ignores physical defense from Demihuman monsters by 20%.
 Indestructible.
-Class: ^777777Axe^000000
+Class: ^777777Two-Handed Axe^000000
 Attack: ^777777200^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
@@ -5292,7 +5286,7 @@ STR +3
 Increases Physical Attack Strength towards Demihuman monsters by 55%.
 When attacking, has a chance to destroy your enemy's armor by 100% for 3 seconds.
 Indestructible.
-Class: ^777777Axe^000000
+Class: ^777777Two-Handed Axe^000000
 Attack: ^777777200^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
@@ -5302,7 +5296,7 @@ Jobs: ^777777Swordman,Merchant^000000
 1381#
 A sturdy two-handed axe useful for defeating many foes.
 Impossible to refine.
-Class: ^777777Axe^000000
+Class: ^777777Two-Handed Axe^000000
 Attack: ^77777780^000000
 Weight: ^777777150^000000
 Weapon Level: ^7777771^000000
@@ -5318,7 +5312,7 @@ Ignore 25% of Physical Defense of Demihuman monsters.
 		When attacking, has a chance of casting Lv. 1 [Fatal Wound].
 +9 Upgrade: When attacking, the chance of casting Lv. 1 [Fatal Wound] +5%
 		Using [Mammonite] or [High Speed Cart Ram], has a chance of casting Lv. 2 [Fatal Wound]
-Class: ^777777Twohand Axe^000000
+Class: ^777777Two-Handed Axe^000000
 Attack: ^777777220^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
@@ -5328,7 +5322,7 @@ Jobs: ^777777Swordman Class / Merchant Class^000000
 1383#
 Increases damage against Undead monster by 10%.
 Add a chance of auto casting ^008800Level 5 Blessing^000000 on the enemy when attacking.
-Class: ^777777Two Handed Axe^000000
+Class: ^777777Two-Handed Axe^000000
 Attack: ^777777200^000000
 Weight: ^777777150^000000
 Weapon Level: ^7777774^000000
@@ -5372,7 +5366,7 @@ ATK +400
 Causes ^880000Stun^000000 effect to enemies by 30% chance when receiving damage.
 Decreases ASPD by 25%. SP cost of All Skills is doubled.
 Add a 5% chance of breaking the enemy's armor when attacking.
-Class: ^777777Axe^000000
+Class: ^777777Two-Handed Axe^000000
 Attack: ^77777720^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
@@ -5394,7 +5388,7 @@ Jobs: ^777777Transcendent Swordman/Merchant Classes^000000
 ^000088Rental Items^000000
 A two-handed, double bladed axe.
 Increases damage against small, medium, large size monsters by 40%.
-Class: ^777777Two Handed Axe^000000
+Class: ^777777Two-Handed Axe^000000
 Attack: ^777777220^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -5413,11 +5407,11 @@ Jobs: ^777777Swordman Class / Merchant Class^000000
 1392#
 A large axe made by a blacksmith from the fires of a volcano.
 Adds Ignition status while attacking physically while risking being burned as well.
-Not possible to destroy.
-Class: ^777777Axe^000000
+Indestructible.
+Class: ^777777Two-Handed Axe^000000
 Attack: ^777777250^000000
 Weight: ^777777190^000000
-Property: ^777777Fire^000000
+Property: ^FF0000Fire^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777795^000000
 Jobs: ^777777Transcendent Swordman and Merchant Classes^000000
@@ -5425,11 +5419,11 @@ Jobs: ^777777Transcendent Swordman and Merchant Classes^000000
 1393#
 An axe made of arctic ice.
 While physically attacking at a short distance, casts ice to yourself and enemies.
-Not possible to destroy.
-Class: ^777777Axe^000000
+Indestructible.
+Class: ^777777Two-Handed Axe^000000
 Attack: ^777777250^000000
 Weight: ^777777190^000000
-Property: ^777777Water^000000
+Property: ^0000BBWater^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777795^000000
 Jobs: ^777777Transcendent Swordman and Merchant Classes^000000
@@ -5449,7 +5443,7 @@ Jobs: ^777777Swordsman and Merchant class^000000
 1395#
 *Stats during WoE & PVP
 Reduces the target's SP by 10% on successful hit. (Skill attacks are not affected by this.)
-Class: ^777777Two-handed Axe^000000
+Class: ^777777Two-Handed Axe^000000
 Attack: ^77777750^000000
 Weight: ^777777250^000000
 Weapon Level: ^7777774^000000
@@ -5461,7 +5455,7 @@ Jobs: ^777777Swordman and Merchant Classes^000000
 Increases physical damage to enemy players by 40% bypasses 30% Def.
 If refined to +6 or higher, increases Axe Boomerang and Power Swing damage by 80%
 If refined to +9 or higher, increases damage to enemy players by additional 60%.
-Class: ^777777Two-handed Axe^000000
+Class: ^777777Two-Handed Axe^000000
 Attack: ^777777300^000000
 Weight: ^777777550^000000
 Weapon Level: ^7777774^000000
@@ -5469,6 +5463,7 @@ Required Level: ^77777795^000000
 Jobs: ^777777Swordman and Merchant Classes^000000
 #
 1397#
+[JRO item]
 #
 1398#
 ^ff0000You cannot Trade this item.^000000
@@ -38494,6 +38489,9 @@ High class Laphine wing piece. It looks like it will take you to somewhere. But 
 Weight: ^7777770^000000
 #
 6549#
+^ff0000Cannot be tradable with other accounts.^000000
+Paper coupon which has a cute painting and letters on it given as a reward for requests taken from Gelkah in Eden Group. Give these to Gelkah in Eden Group Headquarters and exchange them for prizes.
+Weight: ^7777770^000000
 #
 6550#
 #

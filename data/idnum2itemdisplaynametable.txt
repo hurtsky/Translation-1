@@ -588,8 +588,8 @@
 1253#Katar#
 1254#Jamadhar#
 1255#Jamadhar#
-1256#Katar_of_Frozen_Icicle#
-1257#Katar_of_Quaking#
+1256#Katar_of_Cold_Icicle#
+1257#Katar_of_Dusty_Thornbush#
 1258#Katar_of_Raging_Blaze#
 1259#Katar_of_Piercing_Wind#
 1260#Sharpened_Legbone_of_Ghoul#
@@ -607,8 +607,8 @@
 1272#Scratcher#
 1273#Bloody_Roar#
 1274#Unholy_Touch#
-1275#Katar_of_Frozen_Icicle#
-1276#Katar_of_Quaking#
+1275#Katar_of_Cold_Icicle#
+1276#Katar_of_Dusty_Thornbush#
 1277#Katar_of_Raging_Blaze#
 1278#Katar_of_Piercing_Wind#
 1279#Brave_Carnage_Katar#
@@ -659,8 +659,8 @@
 1357#Buster#
 1358#Buster#
 1359#Buster#
-1360#Two-handed_Axe#
-1361#Two-handed_Axe#
+1360#Two-Handed_Axe#
+1361#Two-Handed_Axe#
 1362#Two-handed_Axe#
 1363#Bloody_Axe#
 1364#Great_Axe#
@@ -681,7 +681,7 @@
 1379#Valorous_Insane_Battle_Axe#
 1380#Brave_Insane_Battle_Axe#
 1381#Novice_Battle_Axe#
-1382#Glorious_Twohanded_Axe#
+1382#Glorious_Two-Handed_Axe#
 1383#Holy_Celestial_Axe#
 1384#Veteran_Axe#
 1385#Bradium_Stonehammer#
@@ -714,9 +714,9 @@
 1414#Gelerdria#
 1415#Brocca#
 1416#Tjungkuletti#
-1417#Poll_Axe#
+1417#Pole_Axe#
 1418#Gungnir#
-1419#Poll_Axe#
+1419#Pole_Axe#
 1420#Long_Horn#
 1421#Battle_Hook#
 1422#Hunting_Spear#
@@ -4329,7 +4329,7 @@
 6546#Younger_Brother_Letter#
 6547#Stained_Research_Book#
 6548#Piece_Of_Lapine_Wing#
-6549#Pass_kindly#
+6549#Courtesy_Ticket#
 6550#Brownie_Ticket#
 6551#Black_Devil_Auger#
 6552#Mail_Package#

@@ -3216,15 +3216,12 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 1392#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777190^000000
 #
 1393#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777190^000000
 #
 1394#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777200^000000
 #
 1395#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -19144,6 +19141,9 @@ High class Laphine wing piece. It looks like it will take you to somewhere.. But
 Weight: ^7777770^000000
 #
 6549#
+^ff0000Cannot be tradable with other accounts.^000000
+Paper coupon which has a cute painting and letters on it given as a reward for requests taken from Gelkah in Eden Group. Give these to Gelkah in Eden Group Headquarters and exchange them for prizes.
+Weight: ^7777770^000000
 #
 6550#
 #
