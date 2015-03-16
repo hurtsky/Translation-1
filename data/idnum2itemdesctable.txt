@@ -75723,7 +75723,7 @@ Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^777777100^000000
-Required Levelel: ^7777771^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 18572#
@@ -75747,7 +75747,7 @@ Class: ^777777Headgear^000000
 Defense: ^7777772^000000
 Location: ^777777Upper^000000
 Weight: ^77777730^000000
-Required Levelel: ^7777771^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 18573#
@@ -75986,7 +75986,7 @@ Class: ^777777Headgear^000000
 Defense: ^7777772^000000
 Location: ^777777Upper^000000
 Weight: ^77777710^000000
-Required Levelel: ^77777730^000000
+Required Level: ^77777730^000000
 Jobs: ^777777All^000000
 #
 18594#
@@ -76274,7 +76274,7 @@ Class: ^777777headgear^000000
 Defense: ^7777775^000000
 Location: ^777777Upper^000000
 Weight: ^77777750^000000
-Required Levelel : ^77777750^000000
+Required Level: ^77777750^000000
 Jobs: ^777777All^000000
 #
 18629#
@@ -76363,7 +76363,7 @@ Class: ^777777headgear^000000
 Defense: ^7777774^000000
 Location: ^777777upper-mid ^000000
 Weight: ^77777770^000000
-Required Levelel : ^7777771^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 18638#
@@ -76490,7 +76490,7 @@ Class: ^777777headgear^000000
 Defense: ^7777770^000000
 Location: ^777777low ^000000
 Weight: ^7777775^000000
-Required Levelel : ^7777771^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 18651#
@@ -76502,7 +76502,7 @@ Class: ^777777Headgear^000000
 Defense: ^7777778^000000
 Location: ^777777Upper^000000
 Weight: ^77777780^000000
-Required Levelel : ^77777740^000000
+Required Level: ^77777740^000000
 Jobs: ^777777All^000000
 #
 18652#
@@ -76529,7 +76529,7 @@ Class: ^777777Headgear^000000
 Defense: ^7777778^000000
 Location: ^777777Upper^000000
 Weight: ^77777720^000000
-Required Levelel : ^77777730^000000
+Required Level: ^77777730^000000
 Jobs: ^777777All^000000
 #
 18654#
@@ -76541,7 +76541,7 @@ Class: ^777777Headgear^000000
 Defense: ^77777710^000000
 Location: ^777777Upper-Mid-Low^000000
 Weight: ^77777720^000000
-Required Levelel : ^77777720^000000
+Required Level: ^77777720^000000
 Jobs: ^777777All jobs Jobs°¡´É^000000
 #
 18655#
@@ -76553,7 +76553,7 @@ Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Mid^000000
 Weight: ^77777710^000000
-Required Levelel : ^77777750^000000
+Required Level: ^77777750^000000
 Jobs: ^777777All jobs ^000000
 #
 18656#
@@ -76593,7 +76593,7 @@ Class: ^777777headgear^000000
 Defense: ^7777770^000000
 Location: ^777777low ^000000
 Weight: ^77777710^000000
-Required Levelel : ^7777771^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 18659#
@@ -76703,7 +76703,7 @@ Class: ^777777Headgear^000000
 Defense: ^7777773^000000
 Location: ^777777Upper^000000
 Weight: ^77777720^000000
-Required Levelel: ^777777none^000000
+Required Level: ^777777none^000000
 Jobs: ^777777All except Novice^000000
 #
 18670#
@@ -76752,7 +76752,7 @@ Class: ^777777Headgear^000000
 Defense: ^7777773^000000
 Location: ^777777Upper^000000
 Weight: ^77777720^000000
-Required Levelel: ^777777none^000000
+Required Level: ^777777none^000000
 Jobs: ^777777All except Novice^000000
 #
 18675#
@@ -76762,7 +76762,7 @@ Class: ^777777Headgear^000000
 Defense: ^7777773^000000
 Location: ^777777Upper^000000
 Weight: ^77777720^000000
-Required Levelel: ^77777720^000000
+Required Level: ^77777720^000000
 Jobs: ^777777All except Novice^000000
 #
 18676#
@@ -76773,7 +76773,7 @@ Class: ^777777Headgear^000000
 Defense: ^7777773^000000
 Location: ^777777Mid^000000
 Weight: ^77777740^000000
-Required Levelel: ^77777720^000000
+Required Level: ^77777720^000000
 Jobs: ^777777All except Novice^000000
 #
 18677#
@@ -76784,7 +76784,7 @@ Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Lower^000000
 Weight: ^77777720^000000
-Required Levelel: ^77777720^000000
+Required Level: ^77777720^000000
 Jobs: ^777777All except Novice^000000
 #
 18678#
@@ -76795,7 +76795,7 @@ Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Lower^000000
 Weight: ^77777720^000000
-Required Levelel: ^77777720^000000
+Required Level: ^77777720^000000
 Jobs: ^777777All except Novice^000000
 #
 18679#
@@ -76806,7 +76806,7 @@ Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Lower^000000
 Weight: ^77777720^000000
-Required Levelel: ^77777720^000000
+Required Level: ^77777720^000000
 Jobs: ^777777All except Novice^000000
 #
 18680#
@@ -76818,7 +76818,7 @@ Class: ^777777Headgear^000000
 Defense: ^7777772^000000
 Location: ^777777Upper^000000
 Weight: ^77777720^000000
-Required Levelel: ^77777735^000000
+Required Level: ^77777735^000000
 Jobs: ^777777All^000000
 #
 18681#
@@ -76828,7 +76828,7 @@ Class: ^777777Headgear^000000
 Defense: ^7777772^000000
 Location: ^777777Upper^000000
 Weight: ^77777720^000000
-Required Levelel: ^777777none^000000
+Required Level: ^777777none^000000
 Jobs: ^777777All^000000
 #
 18682#
@@ -76837,7 +76837,7 @@ Class: ^777777Headgear^000000
 Defense: ^7777771^000000
 Location: ^777777Mid^000000
 Weight: ^77777710^000000
-Required Levelel: ^777777none^000000
+Required Level: ^777777none^000000
 Jobs: ^777777All^000000
 #
 18683#
@@ -76849,7 +76849,7 @@ Class: ^777777Headgear^000000
 Defense: ^7777771^000000
 Location: ^777777Lower^000000
 Weight: ^77777720^000000
-Required Levelel: ^777777none^000000
+Required Level: ^777777none^000000
 Jobs: ^777777All^000000
 #
 18684#
@@ -76859,7 +76859,7 @@ Class: ^777777Headgear^000000
 Defense: ^7777773^000000
 Location: ^777777Upper^000000
 Weight: ^77777720^000000
-Required Levelel: ^777777none^000000
+Required Level: ^777777none^000000
 Jobs: ^777777All except Novice^000000
 #
 18685#
@@ -76869,7 +76869,7 @@ Class: ^777777headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^777777100^000000
-Required Levelel : ^77777710^000000
+Required Level: ^77777710^000000
 Jobs: ^777777All^000000
 #
 18690#
@@ -76879,7 +76879,7 @@ Class: ^777777headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Mid^000000
 Weight: ^77777740^000000
-Required Levelel : ^77777750^000000
+Required Level: ^77777750^000000
 Jobs: ^777777all jobs jobs^000000
 #
 18691#
@@ -78450,7 +78450,7 @@ Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^77777710^000000
-Required Levelel : ^77777750^000000
+Required Level: ^77777750^000000
 Jobs: ^777777All^000000
 #
 18862#
@@ -79211,7 +79211,7 @@ Class: ^777777Headgear^000000
 Defense: ^7777775^000000
 Location: ^777777Upper^000000
 Weight: ^77777710^000000
-Required Levelel: ^7777771^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 18969#
@@ -80894,7 +80894,7 @@ FLEE +1
 Class: ^777777Costume^000000
 Location: ^777777Middle,Lower ^000000
 Weight: ^7777770^000000
-Required Levelel : ^7777771^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19532#
@@ -80904,7 +80904,7 @@ DEX +1
 Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
-Required Levelel : ^7777771^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19533#
@@ -80914,7 +80914,7 @@ Experience gain +1%
 Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
-Required Levelel : ^7777771^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19534#
@@ -80923,7 +80923,7 @@ ATK +1%, MATK +1%, Heal effectiveness +1%
 Class: ^777777Costume^000000
 Location: ^777777Middle,Lower ^000000
 Weight: ^7777770^000000
-Required Levelel : ^7777771^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19535#
@@ -80933,7 +80933,7 @@ Experience gain +1%
 Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
-Required Levelel : ^7777771^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19536#
@@ -80943,7 +80943,7 @@ Experience gain +1%
 Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
-Required Levelel : ^7777771^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19537#
@@ -80965,22 +80965,25 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19539#
-Valkyrie Randgris named this headgear. She said this is a gift from the body of the god.
-Class: ^777777Costume Headgear^000000
-Location: ^777777Top^000000
+Hair ornament took the name of Valkyrie 'Reginleif'. Those who wear it, and receive the gift of God.
+All stats +1.
+Class: ^777777Costume^000000
+Location: ^777777Upper, Middle^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19540#
-Ear plugs in the form of a white rabbit small and cute.
+Celebrate the year of the rabbit and keep your ears warm at the same time.
 AGI +1, FLEE +2
 Class: ^777777Costume^000000
-Location: ^777777Upper-Mid ^000000
+Location: ^777777Upper, Middle^000000
 Weight: ^7777770^000000
-Required Levelel : ^7777771^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19541#
-A white little petal.
+A cute and romantic white flower that is fashionable and functional at the same time.
 HIT +1
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
@@ -81001,7 +81004,7 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19543#
-Wolf face shaped fluffy hood. Useful when you cannot sleep well. 
+Wolf face shaped fluffy hood. Useful when you cannot sleep well.
 Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^77777730^000000
@@ -81060,7 +81063,7 @@ Jobs: ^777777All^000000
 19550#
 Wear this when you want to look cute for your beloved.
 Class: ^777777Costume^000000
-Location: ^777777Middle ^000000 
+Location: ^777777Middle^000000
 Weight: ^77777710^000000
 Required Level: ^777777100^000000
 Jobs: ^777777All^000000
@@ -81068,7 +81071,7 @@ Jobs: ^777777All^000000
 19551#
 Modeled after the long ears of a fairy, when worn you can hear fairys playing in the blue forest.
 Class: ^777777Costume^000000
-Location: ^777777Middle ^000000 
+Location: ^777777Middle^000000
 Weight: ^77777710^000000
 Required Level: ^777777100^000000
 Jobs: ^777777All^000000
@@ -81092,7 +81095,7 @@ Jobs: ^777777All^000000
 19554#
 A smily face mask eastern style, sculpted carefully. Makes you feel like home.
 Class: ^777777Costume^000000
-Location: ^777777Middle Low^000000
+Location: ^777777Middle, Lower^000000
 Weight: ^77777710^000000
 Required Level: ^777777100^000000
 Jobs: ^777777All^000000
@@ -81220,7 +81223,7 @@ With the fact that comes to make with the soft silk from Arab writes mainly in t
 VIT +1
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
-Location: ^777777Lower^000000
+Location: ^777777Upper, Middle, Lower^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -81285,7 +81288,7 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19574#
-Lord of the dead, to have made bontta wearing a helmet.
+The Helm of the Lord of Death
 Defense: ^7777770^000000
 Location: ^777777Upper, Middle^000000
 Weight: ^7777770^000000
@@ -81409,7 +81412,14 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19588#
-[JRO item]
+A cute cat-looking hat which enhances its wearer's look.
+Has a cat tail which emphasises the appearance.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 19589#
 A beatiful helm shaped as a rising angel's wing.
@@ -81458,7 +81468,7 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19594#
-A special decoration geographer designed to rest nicely on your head.
+A special geographer costume designed to rest nicely on your head.
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
@@ -82157,6 +82167,7 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19674#
+A mask worn by an ancient Rune Midgardian race that worshipped demons.
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Middle, Lower^000000
@@ -82165,6 +82176,7 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19675#
+A Poring hat that feels like hopping on top of your head. It brings fortune to the wearer.
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
@@ -82173,6 +82185,7 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19676#
+Colorful Poring hat, make all people love it.
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
@@ -82217,8 +82230,10 @@ Jobs: ^777777All^000000
 #
 19681#
 A silver shining hair accessory with a star at the center.
-Class: ^777777Costume^000000 Defense: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
