@@ -14155,6 +14155,11 @@ Why can't this soul rest in peace? Bring any bracelets you find at the Faceworm'
 오즈오그로부터 무한의공간 메모리얼에 대한 추가의뢰를 받았습니다.#
 30층의 보스 몬스터 처치#
 
+// ep15.2 compensation
+12368#Operate the old robot#SG_FEEL#QUE_NOIMAGE#
+Let's obtain Old Fuel Tank to activate the old robot.#
+Obtain 1 Old Fuel Tank#
+
 //---------yj 퀘스트필드 13000 ~ 13999
 13000#RWC 2011Card Gathering#SG_FEEL#QUE_NOIMAGE#
 Kill the Gold Porings that are randomly around Rune Midgard and collect enough Blue Cards to spell out 'RWC 2011'#
@@ -16742,6 +16747,16 @@ Bring Chocoins to Bitta in Einbroch#
 14517#야식 배달#SG_FEEL#QUE_NOIMAGE#
 야식을 배달했다#
 야식배달#
+
+// 30일의 요정
+
+14518#Bubblegum reuse delay#SG_FEEL#QUE_NOIMAGE#
+You can get twice effect of bubblegum for 24 hours.#
+#
+
+14519#Job Battle Manual reuse delay#SG_FEEL#QUE_NOIMAGE#
+You can get twice effect of Job Battle Manual for 24 hours.#
+#
 
 //-1
 15000#Experiencing abnormal statuses#SG_FEEL#QUE_NOIMAGE#
