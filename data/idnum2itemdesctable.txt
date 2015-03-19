@@ -25235,10 +25235,10 @@ Weight: ^7777771^000000
 #
 4609#
 DEF +20.
-Receive 25% less damage from medium and large size monsters.
+Receive 25% less physical damage from medium and large size monsters.
 [^000088+ White Knight Card^000000]
-Increase damage inflicted on medium and large size monsters by 15%.
-Receive 5% less damage from medium and large size monsters.
+Reduce physical and magical damage received from medium and large size monsters by 5%.
+Inflict 15% more physical damage to large size monsters.
 Class: ^777777Card^000000
 Compound on: ^777777 Shield^000000
 Weight: ^7777771^000000
@@ -26356,13 +26356,81 @@ Delay After-Cast by -4%.
 4950#
 Delay After-Cast by -6%.
 #
+4970#
+Grant armor with Fire property.
+#
+4971#
+Grant armor with Water property.
+#
+4972#
+Grant armor with Earth property.
+#
+4973#
+Grant armor with Wind property.
+#
+4974#
+Increase resistance to Fire property attacks by 25%.
+Reduce resistance to Water property attacks by 25%.
+#
+4975#
+Increase resistance to Water property attacks by 25%.
+Reduce resistance to Wind property attacks by 25%.
+#
+4976#
+Increase resistance to Earth property attacks by 25%.
+Reduce resistance to Fire property attacks by 25%.
+#
+4977#
+Increase resistance to Wind property attacks by 25%.
+Reduce resistance to Earth property attacks by 25%.
+#
+4978#
+Restore 50 HP every 5 seconds.
+Refined to +7, additional 50 HP restoration.
+#
+4979#
+Restore 3 SP every 5 seconds.
+Refined to +7, additional 2 SP restoration.
+#
+4980#
+Increase HP recovery by 50%.
+Refined to +7, additional 50% HP recovery.
+#
+4981#
+Increase SP recovery by 50%.
+Refined to +7, additional 50% SP recovery.
+#
+4982#
+Every 10 base STR, add +5 ATK.
+Refined to +7, additional +10 ATK.
+#
+4983#
+Every 10 base INT, add +5 MATK.
+Refined to +7, additional +10 MATK.
+#
+4984#
+DEF +100.
+#
+4985#
+Perfect Dodge +3.
+#
+4986#
+ATK +20.
+#
+4987#
+MATK +20.
+#
+4988#
+MaxHP +5%.
+#
+4989#
+MaxSP +3%.
+#
+4990#
+Immune to Frozen.
+#
 4991#
-Adventurers can feel carefree exploring dangerous lands knowing that Kafra gal Blossom is supporting them back in town.
-10% Resistance to fire/wind/water/earth/holy/shadow elements
-2% chance to increase resistance to fire/wind/water/earth/holy/shadow elements by 10% for 10 seconds when receiving magic damage
-Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
-Weight: ^7777771^000000
+ASPD +1.
 #
 4992#
 1% chance to absorb 1% physical damage into HP.
@@ -39898,6 +39966,14 @@ Weight: ^7777770^000000
 A key used to enter fortress somewhere in the sky.
 Weight: ^7777771^000000
 #
+6961#
+Look like it can be used somewhere. Can be placed in desired place.
+Weight: ^777777100^000000
+#
+6962#
+An old fuel tank with some fuels left inside it. Seem useless.
+Weight: ^77777710^000000
+#
 6963#
 Stone which can absorb HP
 Give ability to costume garment slot.
@@ -39911,6 +39987,116 @@ Give ability to costume garment slot.
 1% chance to absorb 1% physical damage into SP.
 ^ffffff<NAVI>^4D4DFF[레이스 라 자드]^000000<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
+#
+6965#
+A reactor designed to grant armor with Fire property.
+MARS_01 hover on it you might learn something.
+Weight: ^7777771^000000
+#
+6966#
+A reactor designed to grant armor with Water property.
+MARS_01 hover on it you might learn something.
+Weight: ^7777771^000000
+#
+6967#
+A reactor designed to grant armor with Earth property.
+MARS_01 hover on it you might learn something.
+Weight: ^7777771^000000
+#
+6968#
+A reactor designed to grant armor with Wind property.
+MARS_01 hover on it you might learn something.
+Weight: ^7777771^000000
+#
+6969#
+A reactor designed to resist Fire property.
+MARS_01 hover on it you might learn something.
+Weight: ^7777771^000000
+#
+6970#
+A reactor designed to resist Water property.
+MARS_01 hover on it you might learn something.
+Weight: ^7777771^000000
+#
+6971#
+A reactor designed to resist Earth property.
+MARS_01 hover on it you might learn something.
+Weight: ^7777771^000000
+#
+6972#
+A reactor designed to resist Wind property.
+MARS_01 hover on it you might learn something.
+Weight: ^7777771^000000
+#
+6973#
+A reactor designed to help HP restoration at time interval.
+MARS_01 hover on it you might learn something.
+Weight: ^7777771^000000
+#
+6974#
+A reactor designed to help SP restoration at time interval.
+MARS_01 hover on it you might learn something.
+Weight: ^7777771^000000
+#
+6975#
+A reactor designed to help natural HP recovery at time interval.
+MARS_01 hover on it you might learn something.
+Weight: ^7777771^000000
+#
+6976#
+A reactor designed to help natural SP recovery at time interval.
+MARS_01 hover on it you might learn something.
+Weight: ^7777771^000000
+#
+6977#
+A reactor designed to increase damage done by STR.
+MARS_01 hover on it you might learn something.
+Weight: ^7777771^000000
+#
+6978#
+A reactor designed to increase damage done by INT.
+MARS_01 hover on it you might learn something.
+Weight: ^7777771^000000
+#
+6979#
+A reactor designed to increase defense.
+MARS_01 hover on it you might learn something.
+Weight: ^7777771^000000
+#
+6980#
+A reactor designed to increase perfect dodge.
+MARS_01 hover on it you might learn something.
+Weight: ^7777771^000000
+#
+6981#
+A reactor designed to increase physical damage.
+MARS_01 hover on it you might learn something.
+Weight: ^7777771^000000
+#
+6982#
+A reactor designed to increase magic damage.
+MARS_01 hover on it you might learn something.
+Weight: ^7777771^000000
+#
+6983#
+A reactor designed to increase MaxHP.
+MARS_01 hover on it you might learn something.
+Weight: ^7777771^000000
+#
+6984#
+A reactor designed to increase MaxSP.
+MARS_01 hover on it you might learn something.
+Weight: ^7777771^000000
+#
+6985#
+A reactor designed to resist Frozen state.
+MARS_01 hover on it you might learn something.
+Weight: ^7777771^000000
+#
+6986#
+A reactor designed to increase ASPD.
+MARS_01 hover on it you might learn something.
+Weight: ^7777771^000000
 #
 6993#
 You can refine your weapon to +10 through ^8B4513Prontera^000000's ^0000FFRefining Expert^000000. -1 time limited-
@@ -67395,6 +67581,21 @@ Weight: ^77777780^000000
 Required Level: ^777777145^000000
 Jobs: ^777777all jobs^000000
 #
+15128#
+A Suit which made from the lost technology in Research Building.
+VIT +6.
+If base level over 130, add VIT +4.
+Every 3 refine, increase MaxHP +4%.
+[+^6A5ACDExcellent Wing^000000]
+Reduce after cast delay by 10%.
+If base level over 130, additional after cast delay reduced by 10%.
+Perfect Dodge +6.
+Class: ^777777Armor^000000
+Defense: ^777777100^000000
+Weight: ^777777100^000000
+Required Level: ^77777799^000000
+Jobs: ^777777All^000000
+#
 15138#
 Egir, the God of Sea's Armor. It has a shape of a beautiful mermaid and seems to enable wearer swim in the water.
 MaxHP +500
@@ -86947,6 +87148,21 @@ Weight: ^77777720^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
+20773#
+A wing which made from the lost technology in Research Building.
+Perfect Dodge +8.
+If base level over 130, add Perfect Dodge +2.
+Every refine increase Flee +2.
+[+^6A5ACDExcellent Suit^000000]
+Reduce after cast delay by 10%.
+If base level over 130, additional after cast delay reduced by 10%.
+Perfect Dodge +6.
+Class: ^777777Garment^000000
+Defense: ^77777740^000000
+Weight: ^77777790^000000
+Required Level: ^77777799^000000
+Jobs: ^777777All^000000
+#
 21000#
 TwoHanded Sword that is coated by Oridecon and Gold with perfect level.
 [Per Refine]ATK +12, MATK +5
@@ -88544,6 +88760,42 @@ Weight: ^7777771^000000
 22901#
 ^ff0000Cannot be traded.^000000
 People know what this box is, but the content is quite different.
+Weight: ^7777770^000000
+#
+22905#
+A box which contain Stones that can enchant costume on spesific slot.
+HP Absorption Ston(Garment), SP Absorpgtion Stone(Garment) has been added to this box, its also contain old enchantment stones.
+Weight: ^7777771^000000
+#
+22907#
+^ff0000Cannot be traded.^000000
+A bell to call Edward the butler. The owner seems use this anywhere anytime
+^ffffff_^000000
+30 minutes Bubble Gum, Job Battle Manual can be twice effective.
+^ff0000Caution! - Possessing any number will not duplicate the benefits.^000000
+^ffffff_^000000
+냥다래를 소비하는 서비스 이용 시 풍선껌, 잡 전투교범 24시간 효과 그리고 스킬 트리 초기화, 스텟 초기화를 이용할 수 있다.
+^ffffff_^000000
+Weight: ^7777770^000000
+#
+22908#
+^ff0000Cannot be traded.^000000
+A bell to call Alice the maid. The owner seems use this anywhere anytime
+^ffffff_^000000
+30 minutes Bubble Gum, Job Battle Manual can be twice effective.
+^ff0000Caution! - Possessing any number will not duplicate the benefits.^000000
+^ffffff_^000000
+냥다래를 소비하는 서비스 이용 시 풍선껌, 잡 전투교범 24시간 효과 그리고 스킬 트리 초기화, 스텟 초기화를 이용할 수 있다.
+^ffffff_^000000
+Weight: ^7777770^000000
+#
+22914#
+Bubblegum 24h
+Weight: ^7777770^000000
+#
+22929#
+Job Battle Manual25_24h
+^ff0000Cannot be traded.^000000
 Weight: ^7777770^000000
 #
 24000#

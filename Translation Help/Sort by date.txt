@@ -1018,3 +1018,55 @@
 		slotCount = 0,
 		ClassNum = 0
 	},
+
+// ------------------KRO 2015-03-18------------------
+
+	[17575] = {
+		unidentifiedDisplayName = "에드워드 오너라 상자",
+		unidentifiedResourceName = "오래된보라상자",
+		unidentifiedDescriptionName = {
+			"에드워드 오너라가 1개 들어있는 상자. ",
+			"^ffffff_^000000",
+			"에드워드 오너라 - 풍선껌, 잡 전투 교범 효과를 받을 수 있다.",
+			"^ff0000본 아이템을 개봉하시면 청약철회 및 환불 대상에서 제외 됩니다.^000000",
+			"^ffffff_^000000"
+		},
+		identifiedDisplayName = "에드워드 오너라 상자",
+		identifiedResourceName = "오래된보라상자",
+		identifiedDescriptionName = {
+			"에드워드 오너라가 1개 들어있는 상자. ",
+			"^ffffff_^000000",
+			"에드워드 오너라 - 풍선껌, 잡 전투 교범 효과를 받을 수 있다.",
+			"^ff0000본 아이템을 개봉하시면 청약철회 및 환불 대상에서 제외 됩니다.^000000",
+			"^ffffff_^000000",
+			"",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[17576] = {
+		unidentifiedDisplayName = "엘리제 오너라 상자",
+		unidentifiedResourceName = "오래된보라상자",
+		unidentifiedDescriptionName = {
+			"엘리제 오너라가 1개 들어있는 상자. ",
+			"^ffffff_^000000",
+			"엘리제 오너라 - 풍선껌, 잡 전투 교범 효과를 받을 수 있다.",
+			"^ff0000본 아이템을 개봉하시면 청약철회 및 환불 대상에서 제외 됩니다.^000000",
+			"^ffffff_^000000"
+		},
+		identifiedDisplayName = "엘리제 오너라 상자",
+		identifiedResourceName = "오래된보라상자",
+		identifiedDescriptionName = {
+			"엘리제 오너라가 1개 들어있는 상자. ",
+			"^ffffff_^000000",
+			"엘리제 오너라 - 풍선껌, 잡 전투 교범 효과를 받을 수 있다.",
+			"^ff0000본 아이템을 개봉하시면 청약철회 및 환불 대상에서 제외 됩니다.^000000",
+			"^ffffff_^000000",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
