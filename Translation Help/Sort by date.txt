@@ -999,26 +999,6 @@
 
 // ------------------KRO 2015-03-04------------------
 
-	[22905] = {
-		unidentifiedDisplayName = "의상 인챈트 스톤 상자6",
-		unidentifiedResourceName = "초록상자",
-		unidentifiedDescriptionName = {
-			"부위별 의상 장비에 인챈트를 할 수 있는 스톤이 들어 있는 상자. ",
-			"HP회복스톤(걸칠것), SP회복스톤(걸칠것)이 새롭게 추가되었으며, ",
-			"기존의 의상 인챈트 스톤도 포함되어 있다."
-		},
-		identifiedDisplayName = "의상 인챈트 스톤 상자6",
-		identifiedResourceName = "초록상자",
-		identifiedDescriptionName = {
-			"부위별 의상 장비에 인챈트를 할 수 있는 스톤이 들어 있는 상자. ",
-			"HP회복스톤(걸칠것), SP회복스톤(걸칠것)이 새롭게 추가되었으며, ",
-			"기존의 의상 인챈트 스톤도 포함되어 있다.",
-			"무게 : ^7777771^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-
 	[22906] = {
 		unidentifiedDisplayName = "봉인된인장 스크롤Ⅲ",
 		unidentifiedResourceName = "지혜스크롤",
