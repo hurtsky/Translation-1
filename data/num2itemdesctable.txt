@@ -4513,7 +4513,7 @@ Attack: ^77777750^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777780^000000
-Jobs: ^777777Bard Jobs^000000
+Jobs: ^777777Bard^000000
 #
 1928#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -4788,290 +4788,219 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2101#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777730^000000
 #
 2102#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777730^000000
 #
 2103#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777760^000000
 #
 2104#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777760^000000
 #
 2105#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777130^000000
 #
 2106#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777130^000000
 #
 2107#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777100^000000
 #
 2108#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777100^000000
 #
 2109#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777100^000000
 #
 2110#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777140^000000
 #
 2111#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777160^000000
 #
 2112#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.1^000000
 #
 2113#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777100^000000
 #
 2114#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2115#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777750^000000
 #
 2116#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777750^000000
 #
 2117#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777715^000000
 #
 2118#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777715^000000
 #
 2119#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777715^000000
 #
 2120#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777715^000000
 #
 2121#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777100^000000
 #
 2122#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777120^000000
 #
 2123#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777100^000000
 #
 2124#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777100^000000
 #
 2125#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777250^000000
 #
 2126#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777770^000000
 #
 2127#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770^000000
 #
 2128#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777160^000000
 #
 2129#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777760^000000
 #
 2130#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777200^000000
 #
 2131#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777100^000000
 #
 2132#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770^000000
 #
 2133#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777100^000000
 #
 2134#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777750^000000
 #
 2135#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777780^000000
 #
 2136#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770^000000
 #
 2137#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770^000000
 #
 2138#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777180^000000
 #
 2139#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777200^000000
 #
 2140#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770^000000
 #
 2141#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777730^000000
 #
 2142#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777730^000000
 #
 2143#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777730^000000
 #
 2144#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777730^000000
 #
 2145#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770^000000
 #
 2146#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777730^000000
 #
 2147#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777760^000000
 #
 2148#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777130^000000
 #
 2149#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777715^000000
 #
 2150#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777730^000000
 #
 2151#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777765^000000
 #
 2152#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770^000000
 #
 2153#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777250^000000
 #
 2154#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777750^000000
 #
 2156#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777750^000000
 #
 2157#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777710^000000
 #
 2158#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777130^000000
 #
 2159#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777130^000000
 #
 2160#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777280^000000
 #
 2161#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777100^000000
 #
 2162#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777750^000000
 #
 2163#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777130^000000
 #
 2164#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777130^000000
 #
 2165#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777130^000000
 #
 2166#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777760^000000
 #
 2167#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777130^000000
 #
 2168#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777770^000000
 #
 2169#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777740^000000
 #
 2170#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777740^000000
 #
 2171#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777720^000000
 #
 2172#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777725^000000
 #
 2173#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777725^000000
 #
 2174#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -5081,58 +5010,45 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2176#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777750^000000
 #
 2177#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777200^000000
 #
 2178#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770^000000
 #
 2179#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770^000000
 #
 2180#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770^000000
 #
 2181#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777150^000000
 #
 2182#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777300^000000
 #
 2183#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777740^000000
 #
 2184#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2185#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777100^000000
 #
 2186#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777720^000000
 #
 2187#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777200^000000
 #
 2188#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777750^000000
 #
 2189#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777710^000000
 #
 2190#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -5142,31 +5058,24 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2201#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777710^000000
 #
 2202#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777710^000000
 #
 2203#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777710^000000
 #
 2204#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777710^000000
 #
 2205#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777710^000000
 #
 2206#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777710^000000
 #
 2207#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777710^000000
 #
 2208#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -5446,507 +5355,381 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2301#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777710^000000
 #
 2302#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777710^000000
 #
 2303#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777720^000000
 #
 2304#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777720^000000
 #
 2305#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777730^000000
 #
 2306#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777730^000000
 #
 2307#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777760^000000
 #
 2308#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777760^000000
 #
 2309#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777120^000000
 #
 2310#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777120^000000
 #
 2311#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777230^000000
 #
 2312#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777280^000000
 #
 2313#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777280^000000
 #
 2314#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777330^000000
 #
 2315#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777330^000000
 #
 2316#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777450^000000
 #
 2317#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777450^000000
 #
 2318#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777250^000000
 #
 2319#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777250^000000
 #
 2320#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777730^000000
 #
 2321#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777740^000000
 #
 2322#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777740^000000
 #
 2323#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777740^000000
 #
 2324#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777740^000000
 #
 2325#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777760^000000
 #
 2326#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777760^000000
 #
 2327#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777170^000000
 #
 2328#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777100^000000
 #
 2329#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777100^000000
 #
 2330#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777750^000000
 #
 2331#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777750^000000
 #
 2332#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777770^000000
 #
 2333#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777770^000000
 #
 2334#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777760^000000
 #
 2335#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777710^000000
 #
 2336#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777710^000000
 #
 2337#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777150^000000
 #
 2338#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777750^000000
 #
 2339#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777710^000000
 #
 2340#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777750^000000
 #
 2341#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777550^000000
 #
 2342#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777550^000000
 #
 2343#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777110^000000
 #
 2344#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777220^000000
 #
 2345#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777220^000000
 #
 2346#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777220^000000
 #
 2347#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777220^000000
 #
 2348#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777220^000000
 #
 2349#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777220^000000
 #
 2350#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777220^000000
 #
 2351#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777220^000000
 #
 2352#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.1^000000
 #
 2353#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777250^000000
 #
 2354#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777350^000000
 #
 2355#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777760^000000
 #
 2356#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777250^000000
 #
 2357#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777280^000000
 #
 2358#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777100^000000
 #
 2359#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777150^000000
 #
 2360#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777110^000000
 #
 2361#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777750^000000
 #
 2362#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777750^000000
 #
 2363#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777750^000000
 #
 2364#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777300^000000
 #
 2365#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777730^000000
 #
 2366#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777150^000000
 #
 2367#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777775^000000
 #
 2368#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777200^000000
 #
 2369#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777750^000000
 #
 2370#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770^000000
 #
 2371#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777710^000000
 #
 2372#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777760^000000
 #
 2373#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777170^000000
 #
 2374#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777730^000000
 #
 2375#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777760^000000
 #
 2376#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770^000000
 #
 2377#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770^000000
 #
 2378#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770^000000
 #
 2379#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770^000000
 #
 2380#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770^000000
 #
 2381#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770^000000
 #
 2382#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770^000000
 #
 2383#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777740^000000
 #
 2384#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770^000000
 #
 2385#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770^000000
 #
 2386#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777170^000000
 #
 2387#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777100^000000
 #
 2388#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777730^000000
 #
 2389#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777100^000000
 #
 2390#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777740^000000
 #
 2391#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777350^000000
 #
 2392#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770^000000
 #
 2393#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770^000000
 #
 2394#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770^000000
 #
 2395#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770^000000
 #
 2396#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770^000000
 #
 2397#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777790^000000
 #
 2398#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777775^000000
 #
 2399#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777750^000000
 #
 2401#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777720^000000
 #
 2402#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777720^000000
 #
 2403#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777740^000000
 #
 2404#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777740^000000
 #
 2405#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777760^000000
 #
 2406#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777760^000000
 #
 2407#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777710^000000
 #
 2408#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777300^000000
 #
 2409#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777760^000000
 #
 2410#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777350^000000
 #
 2411#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777775^000000
 #
 2412#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777775^000000
 #
 2413#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777735^000000
 #
 2414#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.1^000000
 #
 2415#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777730^000000
 #
 2416#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777750^000000
 #
 2417#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777750^000000
 #
 2418#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777765^000000
 #
 2419#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777770^000000
 #
 2420#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777770^000000
 #
 2421#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777750^000000
 #
 2422#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777720^000000
 #
 2423#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777750^000000
 #
 2424#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777730^000000
 #
 2425#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777750^000000
 #
 2426#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777200^000000
 #
 2427#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777730^000000
 #
 2428#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -5962,14 +5745,12 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2432#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777760^000000
 #
 2433#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2434#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777750^000000
 #
 2435#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -6164,149 +5945,114 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2501#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777720^000000
 #
 2502#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777720^000000
 #
 2503#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777740^000000
 #
 2504#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777740^000000
 #
 2505#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777760^000000
 #
 2506#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777760^000000
 #
 2507#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777760^000000
 #
 2508#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777750^000000
 #
 2509#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777755^000000
 #
 2510#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.1^000000
 #
 2511#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777770^000000
 #
 2512#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777750^000000
 #
 2513#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777750^000000
 #
 2514#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777780^000000
 #
 2515#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777730^000000
 #
 2516#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777740^000000
 #
 2517#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777760^000000
 #
 2518#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777760^000000
 #
 2519#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777760^000000
 #
 2520#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777770^000000
 #
 2521#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777740^000000
 #
 2522#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777715^000000
 #
 2523#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777715^000000
 #
 2524#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777750^000000
 #
 2525#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777760^000000
 #
 2526#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777771^000000
 #
 2527#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2528#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777750^000000
 #
 2529#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777750^000000
 #
 2530#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2531#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777770^000000
 #
 2532#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777740^000000
 #
 2533#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777720^000000
 #
 2534#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770^000000
 #
 2535#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770^000000
 #
 2536#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777725^000000
 #
 2537#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777725^000000
 #
 2538#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -6319,7 +6065,6 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2541#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777740^000000
 #
 2542#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -6357,11 +6102,9 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2553#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777100^000000
 #
 2554#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777740^000000
 #
 2555#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -11595,7 +11338,7 @@ Slot: ^777777Armor^000000
 4411#
 STR +2. Each attack
 has a chance of adding
-a CRI +100 bonus for
+a CRIT +100 bonus for
 5 seconds.
 Class: ^777777Card^000000
 Slot: ^777777Helm^000000
@@ -11813,7 +11556,7 @@ Weight: ^7777771^000000
 Increases physical
 and magic damage to
 Demihuman enemies
-by 1% with a CRI +5
+by 1% with a CRIT +5
 bonus. Adds a low
 chance of inflicting
 the Bleeding status
@@ -12477,14 +12220,14 @@ Weight: ^7777771^000000
 #
 4528#
 MATK +2%
-For each 2 refine, MATK +1%, MaxHP - 1%.
+For each 2 refine, MATK +1%, MaxHP -1%.
 Class: ^777777Card ^000000
 Compound: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4529#
 ATK +2%
-For each 2 refine, ATK +1%, MaxSP - 1%
+For each 2 refine, ATK +1%, MaxSP -1%
 Class: ^777777Card ^000000
 Compound: ^777777Headgear^000000
 Weight: ^7777771^000000
@@ -12603,8 +12346,8 @@ Compound: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4545#
-LUK + 1
-Gives extra ATK + 5, MATK + 5 when equipping with Criatura Academy Hat.
+LUK +1
+Gives extra ATK +5, MATK +5 when equipping with Criatura Academy Hat.
 Class: ^777777Card^000000
 Compound: ^777777Headgear^000000
 Weight: ^7777771^000000
@@ -12619,7 +12362,7 @@ Weight: ^7777771^000000
 #
 4547#
 ATK +10%, MATK +10% when equipped by Rogue class.
-MaxHP + 1% for each 2 refines.
+MaxHP +1% for each 2 refines.
 Chance of confusing attack when using body painting.
 Class: ^777777Card^000000
 Compound on: ^777777Armor^000000
@@ -12701,7 +12444,7 @@ Weight: ^7777771^000000
 #
 4559#
 ASPD +1
-MSP -10%
+MaxSP -10%
 Class: ^777777Card^000000
 Compound on: ^777777Footgear^000000
 Weight: ^7777771^000000
@@ -12808,15 +12551,15 @@ Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4574#
-[^000088 + One-Handed Sword ^000000]
+[^000088 +One-Handed Sword ^000000]
 ATK +100.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4575#
-ATK + 10.
-[^000088 + Dagger Weapon^000000]
+ATK +10.
+[^000088 +Dagger Weapon^000000]
 If refine to +10 or more add ASPD +1.
 If refine to +14 or more add ASPD +1.
 Class: ^777777Card^000000
@@ -12844,7 +12587,7 @@ Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4579#
-[^000088 + Mace Weapon^000000]
+[^000088 +Mace Weapon^000000]
 ATK +20, CRIT +10.
 Each refine increase ATK +1, CRIT +1.
 Class: ^777777Card^000000
@@ -12865,7 +12608,7 @@ Compound on: ^777777 Garment^000000
 Weight: ^7777771^000000
 #
 4582#
-Each 2 refine, MaxHP + 1%.
+Each 2 refine, MaxHP +1%.
 Class: ^777777Card^000000
 Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
@@ -13023,8 +12766,8 @@ Weight: ^7777771^000000
 MaxHP -44%.
 When kill monster with physical attacks HP recovery 200, (Each refine increase recovery by 10).
 Drain 4444 HP as the armor is unequipped.
-[^000088 + Grudge of Royal Knight Card ^000000]
-Increase resistance from ^777777Neutral^000000 Property attacks by 20%. FLEE + 20.
+[^000088 +Grudge of Royal Knight Card ^000000]
+Increase resistance from ^777777Neutral^000000 Property attacks by 20%. FLEE +20.
 Lost 100 HP each 6 seconds.
 Lost 6 SP each 6 seconds.
 Class: ^777777Card^000000
@@ -13045,7 +12788,7 @@ Weight: ^7777771^000000
 #
 4607#
 ATK +5, MATK +5.
-[^000088 + Weapons Type Books ^000000]
+[^000088 +Weapons Type Books ^000000]
 If refine to +10 or more add ATK +20, MATK +20.
 If refine to +14 or more add ATK +20, MATK +20.
 Class: ^777777Card^000000
@@ -13577,7 +13320,7 @@ Decreases SP cost of Coluseo Heal by 30.
 Increases the effectiveness of healing skills by 3%.
 #
 4806#
-MATK + 3%
+MATK +3%
 Reduce Fixed Cast Time by 1%.
 #
 4807#
@@ -13792,10 +13535,10 @@ Evasion1
 Evasion3
 #
 4861#
-MHP + 1%.
+MaxHP +1%.
 #
 4862#
-MHP + 2%.
+MaxHP +2%.
 #
 4863#
 Critical damage +4%, CRIT +1.
@@ -13810,10 +13553,10 @@ Critical damage +8%, CRIT +3.
 Critical damage +10%, CRIT +4.
 #
 4867#
-MHP + 3%.
+MaxHP +3%.
 #
 4868#
-MHP + 4%.
+MaxHP +4%.
 #
 4869#
 Increase Attacking speed.(Decrease Delay after attacking by 4%)
@@ -17454,7 +17197,7 @@ Weight: ^7777771^000000
 ^FF0000This item can only be opened until Feb. 10, 2009^000000
 #
 6127#
-A purity stone that can remove the aftereffect of the Endless Tower at a time. 
+A purity stone that can remove the aftereffect of the Endless Tower at a time.
 You can enter the Endless Tower without any restriction with this item.
 ^ffffff_^000000
 Weight: ^7777770^000000
@@ -17749,7 +17492,7 @@ Weight: ^7777771^000000
 Only special pens can write on it.
 #
 6188#
-^CC0000May 19 - June 2^000000 Troy in Payon is going to do the safe slotting attempts for the price of this coupon. No Zeny, no Elunium, just this ad + the gear you are trying to slot!
+^CC0000May 19 - June 2^000000 Troy in Payon is going to do the safe slotting attempts for the price of this coupon. No Zeny, no Elunium, just this ad +the gear you are trying to slot!
 Now is the time to use up all these coupons to get the gear you wanted slotted!
 Come visit us in Payon as we amaze you with our Brand new service of adding a Card slot to normal equipment!
 You've never seen something so amazing; Watch as Troy adds a slow with his eyes closed, it is an adventure for the whole family!
@@ -18195,27 +17938,27 @@ Weight: ^7777770^000000
 #
 6279#
 Can make an Apple bomb.
-Material: ^000088Apple + Cell + Gun Powder + Detonator^000000
+Material: ^000088Apple +Cell +Gun Powder +Detonator^000000
 Weight: ^7777771^000000
 #
 6280#
 Can make a Pineapple bomb.
-Material: ^000088Pineapple + Cactus Needle + 3 Gun Powder + Detonator^000000
+Material: ^000088Pineapple +Cactus Needle +3 Gun Powder +Detonator^000000
 Weight: ^7777771^000000
 #
 6281#
 Can make a Coconut bomb.
-Material: ^000088Coconut + 2 Gun Powder + Detonator^000000
+Material: ^000088Coconut +2 Gun Powder +Detonator^000000
 Weight: ^7777771^000000
 #
 6282#
 Can make a Melon bomb.
-Material: ^000088Melon + Sticky Mucus + 2 Gun Powder + Detonator^000000
+Material: ^000088Melon +Sticky Mucus +2 Gun Powder +Detonator^000000
 Weight: ^7777771^000000
 #
 6283#
 Can make a Banana bomb.
-Material: ^000088Banana + Mould Powder + 4 Gun Powder	+ Detonator^000000
+Material: ^000088Banana +Mould Powder +4 Gun Powder	+ Detonator^000000
 Weight: ^7777771^000000
 #
 6284#
@@ -18228,15 +17971,14 @@ Weight:: ^7777771^000000
 6285#
 This is the manual book for producing Enrich_White_PotionZ, vitata500, Enriched cell juice.
 Enriched white potionZ: ^000088Cylinder 10	+ white potion 20	+ white herb 10	+ alchol 1 ^000000
-vitata 500: ^000088cylinder 10	+ grape 10 + honey 10 + Blue Herb 10^000000
-Concentrated Juice: ^000088test tubes 10 + Awakening Potion 5 + Intensive Potion 5 + Hot Sauce 5^000000
-Cure Landscape: ^000088test tubes 10 + elixir 5 + Green Herbs 20 + Mastela Fruit 1 + Yggdrasil Leaf 1^000000
+vitata 500: ^000088cylinder 10	+ grape 10 +honey 10 +Blue Herb 10^000000
+Concentrated Juice: ^000088test tubes 10 +Awakening Potion 5 +Intensive Potion 5 +Hot Sauce 5^000000
+Cure Landscape: ^000088test tubes 10 +elixir 5 +Green Herbs 20 +Mastela Fruit 1 +Yggdrasil Leaf 1^000000
 Weight: ^7777771^000000
 #
 6286#
-A Gym Pass that can be given to a special NPC
-to learn a skill that will increase your Maximum Weight Capacity by 200 for
-each skill level, This special skill can only be learned up to Level 10.
+A Gym Pass that can be given to a special NPC to learn a skill that will increase your Maximum Weight Capacity by 200 for each skill level.
+This special skill can only be learned up to Level 10.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -18878,12 +18620,12 @@ Santa Bag
 #
 6456#
 ^ff0000you cannot trade this item.^000000
-You can refine your weapon to + 5 through ^0000FFRefine Master^000000 in ^8B4513Prontera^000000. - 1 time limited -
+You can refine your weapon to +5 through ^0000FFRefine Master^000000 in ^8B4513Prontera^000000. -1 time limited -
 Weight: ^7777770^000000
 #
 6457#
 ^ff0000you cannot trade this item.^000000
-You can refine your armor to + 5 through ^0000FFRefine Master^000000 in ^8B4513Prontera^000000. - 1 time limited -
+You can refine your armor to +5 through ^0000FFRefine Master^000000 in ^8B4513Prontera^000000. -1 time limited -
 Weight: ^7777770^000000
 #
 6458#
@@ -19859,7 +19601,7 @@ Weight: ^7777770^000000
 6740#
 Stone to increase the amount of recovery.
 Costumes in the top slot grants the following abilities.
-Increase item recovery effect + 2%.
+Increase item recovery effect +2%.
 ^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
@@ -19880,14 +19622,14 @@ Weight: ^77777710^000000
 6743#
 Stone to increase health.
 Costumes in the middle slot grants the following abilities.
-MaxHP + 1%.
+MaxHP +1%.
 ^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6744#
 Stone to increase magic power.
 Costumes in the middle slot grants the following abilities.
-MaxSP + 1%.
+MaxSP +1%.
 ^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
@@ -21494,7 +21236,7 @@ An empty pot that carried honey once upon a time, but contains sweet goodness no
 Weight: ^7777771^000000
 #
 7122#
-Tussled red hair that^FFFFFF		^000000 looks like it's on fire.
+Tussled red hair that looks like it's on fire.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -23164,14 +22906,14 @@ A well written letter
 of recommendation
 that is recognized by
 the Assassin Guild.
-^FFFFFF ^000000
+
 #
 7417#
 A written request
 from the Dandelion
 Organization, asking
 you to capture Raiyan
-Moore, who is suspected^FFFFFF	^000000 of kidnapping children
+Moore, who is suspected of kidnapping children
 from the Dandelion
 daycare center.
 ^ffffff_^000000
@@ -23187,7 +22929,7 @@ help in finding the
 children missing
 from Morroc.
 Request Reward: 1 Jewelry Box
-^FFFFFF ^000000
+
 #
 7419#
 A reference for
@@ -23207,71 +22949,71 @@ Weight: ^7777771^000000
 7421#
 A thin, transparent,
 and shining red key.
-^FFFFFF ^000000
+
 #
 7422#
 A thin, transparent,
-and shining yellow key. ^FFFFFF		 ^000000
+and shining yellow key.
 #
 7423#
 A thin, transparent,
 and shining blue key.
-^FFFFFF ^000000
+
 #
 7424#
 A thin, transparent,
 and shining green key.
-^FFFFFF ^000000
+
 #
 7425#
 A thin, transparent,
 and shining black key.
-^FFFFFF ^000000
+
 #
 7426#
 A mysterious red
 colored charm stone
 in which fantastic
 powers are stored.
-^FFFFFF ^000000
+
 #
 7427#
 A mysterious yellow
 colored charm stone
 in which fantastic
 powers are stored.
-^FFFFFF ^000000
+
 #
 7428#
 A mysterious blue
 colored charm stone
 in which fantastic
 powers are stored.
-^FFFFFF ^000000
+
 #
 7429#
 A mysterious green
 colored charm stone
 in which fantastic
 powers are stored.
-^FFFFFF ^000000
+
 #
 7430#
 A mysterious black
 colored charm stone
 in which fantastic
 powers are stored.
-^FFFFFF ^000000
+
 #
 7431#
 A heavy pile of books.
-^FFFFFF ^000000
+
 #
 7432#
 A sturdy, leather
 pouch used to
 contain goods.
-^FFFFFF ^000000
+
 #
 7433#
 A blank scroll on
@@ -23367,7 +23109,7 @@ Weight: ^7777771^000000
 7443#
 The head from a
 fearsome three-headed
-dragon that still looks^FFFFFF	^000000 very threatening.
+dragon that still looks very threatening.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -23574,7 +23316,7 @@ Weight: ^7777771^000000
 7472#
 Level 1 Recipes
 ''Don't panic if you're alone in the wilderness.
-This book will help you^FFFFFF	^000000 to survive on your own.''
+This book will help you to survive on your own.''
 ^ff0000Fried Grasshopper Legs^000000
 5 Grasshopper Legs
 1 Old Frying Pan
@@ -23605,7 +23347,7 @@ Weight: ^7777771^000000
 Level 2 Recipes
 ''Anyone can make tasty, homestyle cooking
 with these recipes.''
-^ff0000Seasoned Sticky Webfoot^FFFFFF	^000000 20 Sticky Webfoots
+^ff0000Seasoned Sticky Webfoot 20 Sticky Webfoots
 10 Green Herbs
 10 Yellow Herbs
 1 Savory Sauce
@@ -23677,7 +23419,7 @@ Weight: ^7777771^000000
 Level 4 Recipes
 ''This book is not
 for beginners. Prepare
-irresistable dishes that^FFFFFF ^000000are fit for nobility!''
+irresistable dishes thatare fit for nobility!''
 ^ff0000Herb Marinade Beef^000000
 5 Meats
 3 Red Herbs
@@ -23765,7 +23507,7 @@ Weight: ^7777771^000000
 #
 7477#
 Level 6 Recipes
-''The secrets of cooking^FFFFFF ^000000 in any circumstance are
+''The secrets of cooking in any circumstance are
 contained in this book. Use them wisely...''
 ^ff0000Shiny Marinade Beef^000000
 10 Meats
@@ -23857,7 +23599,7 @@ Weight: ^7777771^000000
 7479#
 Level 8 Recipes
 ''The recipes within
-should only be attempted^FFFFFF ^000000 by an experienced chef.''
+should only be attempted by an experienced chef.''
 ^ff0000Bearfoot Special^000000
 20 Bear's Footskins
 10 Carrots
@@ -23948,7 +23690,7 @@ following recipes.''
 6 Royal Jellys
 1 Spicy Sauce
 1 Red Spice
-1 Fatty Chubby Earthworm ^FFFFFF			 ^000000
+1 Fatty Chubby Earthworm 
 ^400080Blood Flavored Soda^000000
 1 Animal Gore
 2 Anodynes
@@ -23989,10 +23731,10 @@ True masters only.''
 10 Ice Cubics
 10 Bacilluses
 4 Royal Jellys
-3 Concentration Potions^FFFFFF	^000000 5 Alcohols
+3 Concentration Potions 5 Alcohols
 2 Prickly Fruits
 1 Illusion Flower
-^008040Steamed Desert Scorpions^FFFFFF ^000000 20 Scorpion Tails
+^008040Steamed Desert Scorpions 20 Scorpion Tails
 20 Scorpion Claws
 2 Aloe Veras
 3 Yggdrasil Leaves
@@ -24009,7 +23751,7 @@ True masters only.''
 2 Spicy Sauces
 10 Amulets
 2 Bitter Herbs
-^400080Cooked Nine Tail's Tails^FFFFFF ^000000 10 Nine Tails
+^400080Cooked Nine Tail's Tails 10 Nine Tails
 2 Four Leaf Cloves
 10 Maneater Roots
 10 Sharp Leaves
@@ -24022,7 +23764,7 @@ Weight: ^7777771^000000
 7482#
 A round, fairly deep
 cooking vessel covered
-by a lid with a handle. ^FFFFFF		^000000
+by a lid with a handle.
 Weight: ^7777771^000000
 #
 7483#
@@ -24066,7 +23808,7 @@ very carefully.
 7489#
 A extra key for
 Kyel Hyre's Cottage
-that will let you enter^FFFFFF	^000000 through the back door,
+that will let you enter through the back door,
 allowing you to avoid
 the cottage keeper.
 ^ffffff_^000000
@@ -24417,13 +24159,13 @@ Don't leave Ayothaya without sampling the dishes there.
 Upon seeing all the sites and sights in Amatsu the Rune-Midgard Tour Agency has stamped this photo album with their official seal.
 #
 7535#
-Upon seeing all the sites and sights in Kunlun the Rune-Midgard Tour Agency has stamped this photo album with their official seal. 
+Upon seeing all the sites and sights in Kunlun the Rune-Midgard Tour Agency has stamped this photo album with their official seal.
 #
 7536#
-Upon seeing all the sites and sights in Louyang the Rune-Midgard Tour Agency has stamped this photo album with their official seal. 
+Upon seeing all the sites and sights in Louyang the Rune-Midgard Tour Agency has stamped this photo album with their official seal.
 #
 7537#
-Upon seeing all the sites and sights in Ayothaya the Rune-Midgard Tour Agency has stamped this	photo album with their official seal. 
+Upon seeing all the sites and sights in Ayothaya the Rune-Midgard Tour Agency has stamped this	photo album with their official seal.
 #
 7538#
 Fine sand of higher level of process which is filtered from the normal sand. It is used for the patching up of buildings.
@@ -24436,49 +24178,49 @@ A small coin with a monster Poring engraved in it.
 7540#
 The number ''^FF000039^000000''
 is written on this
-Lotto Ball. 
+Lotto Ball.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 7541#
 The number ''^FF000040^000000''
 is written on this
-Lotto Ball. 
+Lotto Ball.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 7542#
 The number ''^FF000041^000000''
 is written on this
-Lotto Ball. 
+Lotto Ball.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 7543#
 The number ''^FF000042^000000''
 is written on this
-Lotto Ball. 
+Lotto Ball.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 7544#
 The number ''^FF000043^000000''
 is written on this
-Lotto Ball. 
+Lotto Ball.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 7545#
 The number ''^FF000044^000000''
 is written on this
-Lotto Ball. 
+Lotto Ball.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 7546#
 The number ''^FF000045^000000''
 is written on this
-Lotto Ball. 
+Lotto Ball.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -25250,7 +24992,7 @@ Weight: ^7777770^000000
 A book that contains
 forbidden secrets of
 alchemy and magic
-that is usually kept^FFFFFF		 ^000000 safe in Prontera Library.
+that is usually kept safe in Prontera Library.
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
@@ -25598,17 +25340,11 @@ Written with big letters as 'You win 'Spring Rabbit Egg'!! Please come and get i
 Weight: ^7777771^000000
 #
 7776#
-A Gym Membership
-card that can be
-given to a special
-NPC to learn a skill
-that will increase your^FFFFFF	 ^000000 Maximum Weight
-Capacity by 200 for
-each skill level.
-This special skill
-can only be learned
-up to Level 10.
+A Gym Pass that can be given to a special NPC to learn a skill that will increase your Maximum Weight Capacity by 200 for each skill level.
+This special skill can only be learned up to Level 10.
+Find ^ffffff<NAVI>^4D4DFF[Ripped Cabus]^000000<INFO>payon,173,141,0,100,0,0</INFO></NAVI>^000000 in Payon
 ^ffffff_^000000
+Weight: ^7777771^000000
 #
 7777#
 ...
@@ -25958,7 +25694,7 @@ The pieces are painted something. Although you don't know further reply.
 Weight: ^7777770^000000
 #
 7848#
-The pieces are painted something. Although you don't know further reply. 
+The pieces are painted something. Although you don't know further reply.
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
@@ -26183,7 +25919,7 @@ It's also used to make a gun powder.
 Weight: ^7777771^000000
 #
 7893#
-A yellow crystalline solid that is also known for the distinctive smell. 
+A yellow crystalline solid that is also known for the distinctive smell.
 It is also used to make a gun powder.
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -26391,7 +26127,7 @@ Weight: ^7777771^000000
 Weight: ^7777771^000000
 #
 7930#
-Very large ring. Stink behind him. Everyone can be have this item. 
+Very large ring. Stink behind him. Everyone can be have this item.
 ^ffffff_^000000
 Weight: ^777777100^000000
 #
@@ -26454,7 +26190,7 @@ Weight: ^7777770^000000
 #
 7942#
 ...
-... 
+...
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
@@ -26640,7 +26376,7 @@ This Geffen Magic Coin can be used with zeny to buy magic items from Geffen Magi
 Weight: ^7777770^000000
 #
 7977#
-Mercenary Badge given out during the Midgard Crowd Control Event. 
+Mercenary Badge given out during the Midgard Crowd Control Event.
 Save this up to trade for headgears with the quest NPC.
 Weight: ^7777770^000000
 #
@@ -26777,8 +26513,8 @@ Class: ^777777Monster Egg^000000
 9010#
 An egg in which a Baby Desert Wolf Cute Pet rests.
 Can be hatched by using a ^33CC33Pet Incubator^000000.
-If pet intimacy is is Cordial, INT +1, MSP +50.
-If pet intimacy is is Loyal, INT +2, MSP +75.
+If pet intimacy is is Cordial, INT +1, MaxSP +50.
+If pet intimacy is is Loyal, INT +2, MaxSP +75.
 Class: ^777777Monster Egg^000000
 #
 9011#
@@ -27119,7 +26855,7 @@ Can be hatched by using a ^33CC33Pet Incubator^000000.
 When intimacy is Awkward, LUK +2, CRIT +1.
 When intimacy is Neutral, LUK +3, CRIT +1.
 When intimacy is Cordial, LUK +3, CRIT +2.
-When intimacy is Loyal, LUK + 3, CRIT + 3.
+When intimacy is Loyal, LUK +3, CRIT +3.
 Class: ^777777Monster Egg^000000
 #
 9070#
@@ -27280,7 +27016,7 @@ Weight: ^7777771^000000
 11002#
 A famous novel by
 a kRO player that was
-published in Monthly RO^FFFFFF	 ^000000 that's entitled ''Genius
+published in Monthly RO that's entitled ''Genius
 Chef Orleans Takes
 on the World!''
 ^ffffff_^000000
@@ -27298,7 +27034,7 @@ Weight: ^7777771^000000
 11004#
 A worn-out, dusty, and
 badly damaged book
-that's missing its cover.^FFFFFF ^000000 ^ffffff_^000000
+that's missing its cover. ^ffffff_^000000
 Weight: ^7777771^000000
 #
 11005#
@@ -27306,7 +27042,7 @@ A suspicious book
 stamped with the seal
 of the Rune-Midgarts
 Kingdom. The page with
-information about the^FFFFFF		 ^000000 author has been torn out.
+information about the author has been torn out.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -27316,7 +27052,7 @@ in Arunafeltz, the
 country that worships
 the goddess Freya.
 This story used to be
-of mouth, but has been^FFFFFF		^000000 religiously embellished
+of mouth, but has been religiously embellished
 in printed form.
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -27327,7 +27063,7 @@ in Arunafeltz, the
 country that worships
 the goddess Freya.
 This story used to be
-of mouth, but has been^FFFFFF		^000000 religiously embellished
+of mouth, but has been religiously embellished
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -27579,7 +27315,7 @@ A potion that has a special effect.
 Weight: ^77777710^000000
 #
 11518#
-A potion that recovers a large amount of HP. 
+A potion that recovers a large amount of HP.
 Cursed Silence, Bleeding, and Curse status effects.
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -27906,7 +27642,7 @@ Well-designed bouquet. Feel the heat of the one who packed.
 Weight: ^7777775^000000
 #
 11702#
-Candy made according to the shape of mmon. If you stare at it, it will remind you of someone. 
+Candy made according to the shape of mmon. If you stare at it, it will remind you of someone.
 ^000088Cures every abnormal status^000000. Provide effect of ^008800Level 7 Blessing^000000 when used.
 ^008800Blessing^000000 will not be activated after the event period has ended.
 ^ffffff_^000000
@@ -27926,7 +27662,7 @@ It's not for being full up the stomach, but eating slowly and making strengthen 
 Weight: ^7777771^000000
 #
 11705#
-It is a special potion for children made by a man who likes children so much. 
+It is a special potion for children made by a man who likes children so much.
 Recovering HP, it's better than others.
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -28134,14 +27870,14 @@ Restores an amount
 of HP equal to 9% of
 the user's MaxHP, but
 each use has a 30%
-chance of inflicting the^FFFFFF ^000000 Curse status on the
+chance of inflicting the Curse status on the
 user for 30 seconds.
 ^ffffff_^000000
 Weight: ^77777720^000000
 #
 12028#
 Increases the user's
-Movement Speed by 100%^FFFFFF	 ^000000 for a 20 second duration.
+Movement Speed by 100% for a 20 second duration.
 ^ffffff_^000000
 Weight: ^77777720^000000
 #
@@ -28173,7 +27909,7 @@ Weight: ^77777720^000000
 #
 12033#
 Enables the user to
-to detect any hidden^FFFFFF		 ^000000 enemies for 30 seconds.
+to detect any hidden enemies for 30 seconds.
 ^ffffff_^000000
 Weight: ^77777720^000000
 #
@@ -28240,7 +27976,7 @@ Weight: ^7777776^000000
 12042#
 A dish that looks
 slightly unappetizing,
-but its taste and scent^FFFFFF	^000000 are quite pleasant.
+but its taste and scent are quite pleasant.
 STR +2
 ^ffffff_^000000
 Weight: ^77777750^000000
@@ -28257,7 +27993,7 @@ Weight: ^77777750^000000
 12044#
 Tender beef that has
 been marinated with
-herbs and sauces, using^FFFFFF	^000000 a secret Payon recipe.
+herbs and sauces, using a secret Payon recipe.
 STR +4
 ^ffffff_^000000
 Weight: ^77777750^000000
@@ -28341,7 +28077,7 @@ Weight: ^77777730^000000
 Steamed tenacles
 flavored with herbs
 and squid ink dressing
-that, weirdly enough, is^FFFFFF ^000000 a delicious health food.
+that, weirdly enough, is a delicious health food.
 VIT +4
 ^ffffff_^000000
 Weight: ^77777750^000000
@@ -28350,7 +28086,7 @@ Weight: ^77777750^000000
 A bao that is fried
 and seasoned with
 spicy sauce. If you're
-not used to spicy food,^FFFFFF	^000000 it's not a good idea to
+not used to spicy food, it's not a good idea to
 eat too many. VIT +5
 ^ffffff_^000000
 Weight: ^77777780^000000
@@ -28407,7 +28143,7 @@ Weight: ^77777710^000000
 #
 12062#
 A special chocolate
-mousse cake with a^FFFFFF			 ^000000 smooth luxurious flavor
+mousse cake with a smooth luxurious flavor
 that even Charles Orleans would be proud of. DEX +2
 ^ffffff_^000000
 Weight: ^77777720^000000
@@ -28563,7 +28299,7 @@ Weight: ^777777100^000000
 12080#
 A cocktail with an
 unforgettable flavor
-as impressive as a^FFFFFF			 ^000000 dragon's breath. INT +10
+as impressive as a dragon's breath. INT +10
 ^ffffff_^000000
 Weight: ^777777100^000000
 #
@@ -28728,7 +28464,7 @@ the aftertaste is pretty gross. LUK +9
 Weight: ^777777100^000000
 #
 12100#
-A rare specialty dish^FFFFFF		^000000 from Payon that bestows
+A rare specialty dish from Payon that bestows
 luck on those fortunate enough to eat it. LUK +10
 ^ffffff_^000000
 Weight: ^77777750^000000
@@ -28799,7 +28535,7 @@ Magic Scroll item.^000000
 Weight: ^77777720^000000
 #
 12109#
-A wrapped box stamped^FFFFFF		^000000 with the Poring seal. You
+A wrapped box stamped with the Poring seal. You
 can faintly hear rustling coming from inside of it.
 ^ffffff_^000000
 Weight: ^77777720^000000
@@ -28836,7 +28572,7 @@ Weight: ^77777710^000000
 A scarlet colored
 cocktail, favored by
 the ladies, that gives
-the drinker the feeling^FFFFFF	^000000 of lounging on the beach.
+the drinker the feeling of lounging on the beach.
 ^ffffff_^000000
 Weight: ^77777710^000000
 #
@@ -28872,7 +28608,7 @@ Weight: ^7777771^000000
 A potion that will
 temporarily increase
 the user's resistance
-to the ^FF0000Fire^000000 property at^FFFFFF	^000000 the cost of increasing
+to the ^FF0000Fire^000000 property at the cost of increasing
 damage from the ^0000BBWater^000000
 property for the potion's active duration.
 ^ffffff_^000000
@@ -28882,7 +28618,7 @@ Weight: ^7777771^000000
 A potion that will
 temporarily increase
 the user's resistance
-to the ^0000BBWater^000000 property at^FFFFFF ^000000 the cost of increasing
+to the ^0000BBWater^000000 property at the cost of increasing
 damage from the ^7BCC70Wind^000000
 property for the potion's active duration.
 ^ffffff_^000000
@@ -28892,7 +28628,7 @@ Weight: ^7777771^000000
 A potion that will
 temporarily increase
 the user's resistance
-to the ^cc5500Earth^000000 property at^FFFFFF ^000000 the cost of increasing
+to the ^cc5500Earth^000000 property at the cost of increasing
 damage from the ^FF0000Fire^000000
 property for the potion's active duration.
 ^ffffff_^000000
@@ -28902,7 +28638,7 @@ Weight: ^7777771^000000
 A potion that will
 temporarily increase
 the user's resistance
-to the ^7BCC70Wind^000000 property at^FFFFFF	^000000 the cost of increasing
+to the ^7BCC70Wind^000000 property at the cost of increasing
 damage from the ^cc5500Earth^000000
 property for the potion's active duration.
 ^ffffff_^000000
@@ -28941,7 +28677,7 @@ Weight: ^7777772^000000
 12126#
 A cooking kit designed
 for use in the home. It's sophisticated enough for
-you to craft meals with^FFFFFF	^000000 that homemade quality.
+you to craft meals with that homemade quality.
 ^ffffff_^000000
 Weight: ^7777773^000000
 #
@@ -29115,7 +28851,7 @@ Silver Bullets.
 Weight: ^77777725^000000
 #
 12152#
-A box which contains a gift. 
+A box which contains a gift.
 ^ffffff_^000000
 Weight: ^77777710^000000
 #
@@ -29475,14 +29211,14 @@ legendary spring
 that is believed to
 be the source of the
 world's rivers, and
-is famous for its pure,^FFFFFF	 ^000000 amazing taste. DEX +10,
+is famous for its pure, amazing taste. DEX +10,
 30 minute duration.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 12206#
 A rare, specialty
-Payon dish that bestows^FFFFFF	 ^000000 luck to those fortunate
+Payon dish that bestows luck to those fortunate
 enough to eat it. LUK +10, 30 minute duration.
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -29668,7 +29404,7 @@ Weight: ^77777720^000000
 A chocolate bar
 whose content is
 99% Cacao: it tastes
-more bitter than sweet,^FFFFFF	 ^000000 but chocolate aficionados
+more bitter than sweet, but chocolate aficionados
 love it for its rugged
 flavor and various
 health benefits.
@@ -29691,7 +29427,7 @@ Weight: ^77777710^000000
 12237#
 This chocolate has
 obviously been cooked
-too long, and its burnt^FFFFFF	 ^000000 stench can be smelled
+too long, and its burnt stench can be smelled
 from a distance.
 Weight: ^77777710^000000
 #
@@ -29719,8 +29455,7 @@ ASPD.
 Weight: ^77777710^000000
 #
 12242#
-An Awakening Potion
-for Mercenaries that increases ASPD.
+An Awakening Potion for Mercenaries that increases ASPD.
 ^ffffff_^000000
 Weight: ^77777715^000000
 #
@@ -29769,37 +29504,37 @@ Weight: ^7777771^000000
 #
 12250#
 The epitome of Louyang cuisine. It's ingredients may be hard to find, but culinarily speaking, it's a masterpiece.
-STR + 10 for 1 hours.
+STR +10 for 1 hours.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 12251#
 One of the four best dishes in the Sograt Desert, this scorpion dish is cooked using the heat of the desert sands.
-AGI + 10 for 1 hours.
+AGI +10 for 1 hours.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 12252#
 A cocktail with an unforgettable flavor as impressive as a dragon's breath.
-INT + 10 for 1 hours.
+INT +10 for 1 hours.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 12253#
 Named after the legendary spring believed to be the source of the world's rivers, this beverage is famous for its amazing taste.
-DEX + 10 for 1 hours.
+DEX +10 for 1 hours.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 12254#
 A rare specialty dish from Payon that bestows luck on those fortunate enough to eat it.
-LUK + 10 for 1 hours.
+LUK +10 for 1 hours.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 12255#
 A stew with a funky smell that looks quite suspicious, but it really does give the feeling of immortality.
-VIT + 10 for 1 hour.
+VIT +10 for 1 hour.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -29877,13 +29612,13 @@ Weight: ^7777777^000000
 #
 12267#
 These traditional crackers from a nation in the far East are made of mixed flour, honey and sweet liquor.
-Temporarily adds + 30 to Flee Rate.
+Temporarily adds +30 to Flee Rate.
 ^ffffff_^000000
 Weight: ^7777777^000000
 #
 12268#
 A colorful rice cake that is used as a party food in the far East.
-Temporarily adds + 10 ATK and MATK.
+Temporarily adds +10 ATK and MATK.
 ^ffffff_^000000
 Weight: ^7777777^000000
 #
@@ -29920,14 +29655,14 @@ Weight: ^7777777^000000
 12274#
 ...
 Only one of Eastern religious groups can be created.
-Increases Maximum HP + 5% for 1 hour. Increases HP + 10%.
+Increases Maximum HP +5% for 1 hour. Increases HP +10%.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 12275#
 Created as a vision of the various magic herb pills.
 ...
-Increases Maximum SP + 5% for 1 hour. Increases SP + 10%.
+Increases Maximum SP +5% for 1 hour. Increases SP +10%.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -29980,25 +29715,25 @@ A box contains fancy ball ornament.
 Weight: ^7777771^000000
 #
 12287#
-An item which when you breathe in this powder, your font becomes cute. 
-To make the best use of it, its best used when you want to express your love, or when you want to say that you're sorry after making a big mistake. 
+An item which when you breathe in this powder, your font becomes cute.
+To make the best use of it, its best used when you want to express your love, or when you want to say that you're sorry after making a big mistake.
 When double clicked, your font changes, and when used again, your font goes back to normal.
 Works only for chats said above your head and for vend names.
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
 12288#
-An item which when you breathe in this powder, your font becomes a bit evil. 
-To make the best use of it, its best used when you have something you want to complain about, or when you want to do something awful. 
+An item which when you breathe in this powder, your font becomes a bit evil.
+To make the best use of it, its best used when you have something you want to complain about, or when you want to do something awful.
 When double clicked, your font changes, and when used again, your font goes back to normal
 Works only for chats said above your head and for vend names.
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
 12289#
-An item which when you breathe in this powder, your font becomes humorous. 
-To make the best use of it, its best used when you have something you want to talk about thats funny. 
-When double clicked, your font changes, and when used again, your font goes back to normal. 
+An item which when you breathe in this powder, your font becomes humorous.
+To make the best use of it, its best used when you have something you want to talk about thats funny.
+When double clicked, your font changes, and when used again, your font goes back to normal.
 Works only for chats said above your head and for vend names.
 ^ffffff_^000000
 Weight: ^7777770^000000
@@ -30006,13 +29741,13 @@ Weight: ^7777770^000000
 12290#
 When double clicked, your font changes, and when used again, your font goes back to normal.
 Works only for chats said above your head and for vend names.
-^000088HP Recovery + 5%, Enables use of Level 5 Blessing^000000.
+^000088HP Recovery +5%, Enables use of Level 5 Blessing^000000.
 ^ffffff_^000000
 Weight: ^77777710^000000
 #
 12291#
 ...
-^000088SP Recovery + 5%, Increases Agility Level 5^000000.
+^000088SP Recovery +5%, Increases Agility Level 5^000000.
 ^ffffff_^000000
 Weight: ^77777710^000000
 #
@@ -30096,7 +29831,7 @@ Weight: ^7777770^000000
 #
 12303#
 Have some fun pouring the water on you during the Water event!
-LUK + 5 for 1 minute.
+LUK +5 for 1 minute.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -30231,13 +29966,13 @@ Weight: ^7777772^000000
 #
 12327#
 ...
-LUK + 20 for 1 hour.
+LUK +20 for 1 hour.
 ^ffffff_^000000
 Weight: ^7777775^000000
 #
 12328#
 ...
-Adds + 10 stat every 20 seconds.
+Adds +10 stat every 20 seconds.
 ^ffffff_^000000
 Weight: ^77777710^000000
 #
@@ -30295,7 +30030,7 @@ Weight: ^77777720^000000
 #
 12338#
 The golden corn is really beautiful.
-STR + 2, INT + 2, AGI + 2 for 3 minutes.
+STR +2, INT +2, AGI +2 for 3 minutes.
 ^ffffff_^000000
 Weight: ^77777710^000000
 #
@@ -30468,7 +30203,7 @@ Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 12375#
-Attack rate + 10% & HIT + 5 for 20 minutes.
+Attack rate +10% & HIT +5 for 20 minutes.
 Effect disappear upon death.
 ^ffffff_^000000
 Weight: ^7777778^000000
@@ -30487,7 +30222,7 @@ Weight: ^77777710^000000
 #
 12378#
 ...
-^000088^000088Recovery HP & SP + 50%^000000.
+^000088^000088Recovery HP & SP +50%^000000.
 ^ffffff_^000000
 Weight: ^77777710^000000
 #
@@ -30603,7 +30338,7 @@ Weight: ^7777771^000000
 #
 12404#
 ...
-ATK, MATK + 2% for 2 minutes.
+ATK, MATK +2% for 2 minutes.
 Increases recovery from the heal skill and recovery items by 10%.
 Effect disappear upon death.
 ^ffffff_^000000
@@ -31155,7 +30890,7 @@ Weight: ^7777771^000000
 12502#
 ^ff0000This item is impossible to deal with another account.^00000
 One of the four best dishes in the Sograt Desert, this scorpion dish is cooked using the heat of the desert sands.
-AGI + 10 during 30 minutes
+AGI +10 during 30 minutes
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -31220,7 +30955,7 @@ Weight: ^7777771^000000
 ^ff0000This item is impossible to deal with another account.^000000
 ^800080Event paid item.^000000
 A small bottle of Yggdrasil Tree Sap that is effective in healing wounds.
-For 10 minutes, you regenerate 5% of your Maximum HP every 5 seconds. 
+For 10 minutes, you regenerate 5% of your Maximum HP every 5 seconds.
 Can not be used while in Frenzy.
 If you die don't lost the effect!!
 ^ffffff_^000000
@@ -31561,7 +31296,7 @@ Weight: ^7777771^000000
 #
 12622#
 ^ff0000Cannot be traded.^000000
-A mysterious halter that summon creature to ride on. 
+A mysterious halter that summon creature to ride on.
 Weight: ^7777770^000000
 #
 12623#
@@ -31750,7 +31485,7 @@ Weight: ^77777720^000000
 12684#
 ^ff0000You cannot Trade this item.^000000
 the Bonus ASPD is affected by character's AGI point^000000
-If this potion is used with those other ASPD up potion, the effect will be maximized. 
+If this potion is used with those other ASPD up potion, the effect will be maximized.
 Increases ASPD for 15 minutes.
 Weight: ^7777771^000000
 #
@@ -31906,7 +31641,7 @@ Weight: ^7777771^000000
 #
 12717#
 A poison that paralyzes senses.
-It continues for 300 seconds and decreases ASPD(After attack delay increases for 10%), - 10% Dodge, movement speed cuts in half.
+It continues for 300 seconds and decreases ASPD(After attack delay increases for 10%), -10% Dodge, movement speed cuts in half.
 ^ffffff_^000000
 Weight: ^7777772^000000
 #
@@ -32106,7 +31841,7 @@ Use this item to increase your physical damage by 5% and increase ASPD by 5% for
 Weight: ^7777771^000000
 #
 12751#
-Use this item to increase your Def by 5 and Flee by 10 for 30 minutes. This effect persists through death. 
+Use this item to increase your Def by 5 and Flee by 10 for 30 minutes. This effect persists through death.
 Weight: ^7777771^000000
 #
 12752#
@@ -32547,7 +32282,7 @@ Weight: ^7777770^000000
 A box that contains
 10 Battle Manuals.
 ^ffffff_^000000
-Battle Manual - Increases^FFFFFF	^000000 EXP rate to 150% for
+Battle Manual - Increases EXP rate to 150% for
 a 30 minute duration.
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -32559,7 +32294,7 @@ certificates.
 ^ffffff_^000000
 Life Insurance -
 Nullifies EXP penalty
-if user is killed within^FFFFFF	^000000 30 minutes of this
+if user is killed within 30 minutes of this
 item's use. Each
 certificate is valid
 for a one time use.
@@ -32695,7 +32430,7 @@ Weight: ^7777771^000000
 #
 12917#
 A box containing
-20 Wind Walker Scrolls.^FFFFFF	 ^000000 (Lvl 10 Wind Walker Scrolls)
+20 Wind Walker Scrolls. (Lvl 10 Wind Walker Scrolls)
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -32893,7 +32628,7 @@ Weight: ^7777771^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Swordman, Merchant, Thief Classes; Soul
-Linker and Ninja Jobs^000000
+Linker and Ninja^000000
 #
 12939#
 A box that contains:
@@ -32917,7 +32652,7 @@ Soul Linker Job^000000
 12940#
 A box that contains
 1 Kaiser Knuckle.
-Please handle with care.^FFFFFF	^000000 ^ffffff_^000000
+Please handle with care. ^ffffff_^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -32938,7 +32673,7 @@ Attack: ^777777195^000000
 Weight: ^7777771^000000
 Weapon Level: ^7777773^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Swordman Class^000000
+Jobs: ^777777Swordman^000000
 #
 12942#
 A box that contains
@@ -32956,8 +32691,8 @@ A Greek ceremonial
 axe that possesses
 the power of holiness.
 STR +10, Holy property,
-Enables use of Lvl 3 Heal^FFFFFF ^000000 Increases damage inflicted
-on Devil monsters by 3%.^FFFFFF	^000000 Increases Movement Speed.
+Enables use of Lvl 3 Heal Increases damage inflicted
+on Devil monsters by 3%. Increases Movement Speed.
 This item cannot be Dropped or Traded.
 Class: ^777777Axe^000000
 Attack: ^777777229^000000
@@ -32981,7 +32716,7 @@ A box that contains:
 ^6A5ACD1 Sage's Diary^000000
 Duration: 7 Days after opening
 The diary of a great
-sage that was published^FFFFFF	 ^000000 without him ever knowing.
+sage that was published without him ever knowing.
 MATK +20%, Increases
 ASPD by 5%
 This item cannot be Dropped or Traded.
@@ -33000,7 +32735,7 @@ A box that contains:
 Duration: 7 Days after opening
 A legendary dagger
 that is said to have
-been given to mankind^FFFFFF		 ^000000 by the gods.
+been given to mankind by the gods.
 MATK +15%.
 This item cannot be Dropped or Traded.
 Class: ^777777Dagger^000000
@@ -33017,7 +32752,7 @@ A box that contains:
 Duration: 7 Days after opening
 A headgear made in
 honor of the legendary
-archer known for shooting^FFFFFF ^000000 an apple perched on
+archer known for shooting an apple perched on
 a friend's head from
 a great distance.
 DEX +4
@@ -33077,7 +32812,7 @@ INT +1
 This item cannot be Dropped or Traded.
 Class: ^777777Helmet^000000
 Defense: ^7777772^000000
-Head Position: ^777777Mid^000000
+Head Position: ^777777Middle^000000
 Weight: ^7777771^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All Except Novice^000000
@@ -33634,7 +33369,7 @@ A military combat
 knife designed for
 killing humanoids.
 Ignores Demihuman
-monster physical defense.^FFFFFF ^000000 Reduces damage from
+monster physical defense. Reduces damage from
 Demihuman monsters
 by 10%, but increases
 damage inflicted by
@@ -33669,7 +33404,7 @@ Soul Linker Job^000000
 ^000088Rental Item^000000
 A legendary dagger
 that is said to have
-been given to mankind^FFFFFF		 ^000000 by the gods.
+been given to mankind by the gods.
 MATK +15%.
 This item cannot be Dropped or Traded.
 Class: ^777777Dagger^000000
@@ -34161,20 +33896,28 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 13180#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 13181#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 13182#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 13183#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 13184#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 13185#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 13186#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 13187#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 13189#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -34208,14 +33951,14 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 13200#
 A small metal bullet
-that can be fired from^FFFFFF	 ^000000 a gun to damage enemies.
+that can be fired from a gun to damage enemies.
 Class: ^777777Bullet^000000
 Attack: ^77777710^000000
 Weight: ^7777770.2^000000
 Property: ^777777Neutral^000000
 #
 13201#
-A small silver bullet^FFFFFF		^000000 imbued with holy power.
+A small silver bullet imbued with holy power.
 Class: ^777777Bullet^000000
 Attack: ^77777715^000000
 Weight: ^7777770.2^000000
@@ -34253,7 +33996,7 @@ Property: ^777777Wind^000000
 A grenade launcher
 bullet that contains
 deadly poison; has a
-low chance of inflicting^FFFFFF ^000000 the Poison status
+low chance of inflicting the Poison status
 on enemies.
 Class: ^777777Bullet^000000
 Attack: ^77777750^000000
@@ -34406,7 +34149,7 @@ Weight: ^7777770.5^000000 Property : ^0000FFWater^000000
 #
 13250#
 A cross shaped dagger
-that is small enough to^FFFFFF	^000000 conceal in your hand.
+that is small enough to conceal in your hand.
 Class: ^777777Throwing Weapon^000000
 Attack: ^77777710^000000
 Weight: ^7777770.5^000000
@@ -34474,7 +34217,7 @@ Weight: ^7777772^000000
 Property: ^777777Earth^000000
 #
 13257#
-A ^7BCC70Wind^000000 property kunai^FFFFFF		^000000 that is especially sharp.
+A ^7BCC70Wind^000000 property kunai that is especially sharp.
 Class: ^777777Throwing Weapon^000000
 Attack: ^77777730^000000
 Weight: ^7777772^000000
@@ -34826,7 +34569,7 @@ Attack: ^77777755^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777780^000000
-Jobs: ^777777Ninja Jobs^000000
+Jobs: ^777777Ninja^000000
 #
 13308#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -35073,7 +34816,7 @@ Weight: ^7777771^000000
 Property: ^777777Shadow^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Swordman Class^000000
+Jobs: ^777777Swordman^000000
 #
 13506#
 A box containing 1 Refined Bloody Axe. Please take a care because is fragile.
@@ -35216,7 +34959,7 @@ Attack: ^777777150^000000
 Weight: ^7777771^000000
 Weapon Level: ^7777773^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Acolyte Class^000000
+Jobs: ^777777Acolyte^000000
 #
 13515#
 A box containing 10 Grapes. It's good for your skin.
@@ -35333,26 +35076,26 @@ Weight: ^7777771^000000
 13531#
 A box containing
 50 Slim Red Potions.
-Double click this item^FFFFFF		^000000 to access its contents.
+Double click this item to access its contents.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 13532#
 A box containing
-50 Slim Orange Potions.^FFFFFF	 ^000000 Double click this item
-to access its contents.^FFFFFF	 ^000000 ^FFFFFF_^000000
+50 Slim Orange Potions. Double click this item
+to access its contents. ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
 13533#
 A box containing
-50 Slim Yellow Potions.^FFFFFF	 ^000000 Double click this item
-to access its contents.^FFFFFF	 ^000000 ^FFFFFF_^000000
+50 Slim Yellow Potions. Double click this item
+to access its contents. ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
 13534#
 A box containing
-50 Slim White Potions.^FFFFFF		^000000 Double click this item
-to access its contents.^FFFFFF	 ^000000 ^FFFFFF_^000000
+50 Slim White Potions. Double click this item
+to access its contents. ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
 13535#
@@ -35633,7 +35376,7 @@ legendary spring
 that is believed to
 be the source of the
 world's rivers, and
-is famous for its pure,^FFFFFF	 ^000000 amazing taste. DEX +10,
+is famous for its pure, amazing taste. DEX +10,
 30 minute duration.
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -35647,7 +35390,7 @@ legendary spring
 that is believed to
 be the source of the
 world's rivers, and
-is famous for its pure,^FFFFFF	 ^000000 amazing taste. DEX +10,
+is famous for its pure, amazing taste. DEX +10,
 30 minute duration.
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -35656,7 +35399,7 @@ Weight: ^7777771^000000
 A box containing 30 Cooked Nine Tail's Tails
 ^ffffff_^000000
 A rare, specialty
-Payon dish that bestows^FFFFFF	 ^000000 luck to those fortunate
+Payon dish that bestows luck to those fortunate
 enough to eat it. LUK +10, 30 minute duration.
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -35665,7 +35408,7 @@ Weight: ^7777771^000000
 A box containing 50 Cooked Nine Tail's Tails
 ^ffffff_^000000
 A rare, specialty
-Payon dish that bestows^FFFFFF	 ^000000 luck to those fortunate
+Payon dish that bestows luck to those fortunate
 enough to eat it. LUK +10, 30 minute duration.
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -35926,7 +35669,7 @@ Description:
 A certificate imbued
 with the power of the
 invulnerable Siegfried
-which allows its bearer^FFFFFF	 ^000000 to overcome death.
+which allows its bearer to overcome death.
 Revives the dead
 character.
 ^ffffff_^000000
@@ -36257,7 +36000,7 @@ Weight: ^7777771^000000
 #
 13641#
 A box contains 4 Steamed Tongue, 4 Immortal Stew, 30 Level 10 Blessing Scroll,
-30 Level 10 Increase Agility Scroll, 2 Kafra Card, 2 Token of Ziegfried. 
+30 Level 10 Increase Agility Scroll, 2 Kafra Card, 2 Token of Ziegfried.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
@@ -36842,8 +36585,8 @@ Weight: ^7777771^000000
 A box that contains a
 special Gym Pass that
 can be given to special
-NPC to learn^FFFFFF	 ^000000 a skill that will increase
-Maximum Weight Capacity^FFFFFF	 ^000000 by 200 for each skill
+NPC to learn a skill that will increase
+Maximum Weight Capacity by 200 for each skill
 level, but can only
 be learned up to
 Skill Level 10.
@@ -36885,7 +36628,7 @@ Weight: ^7777771^000000
 #
 13714#
 A box that contains
-10 Medium Life Potions.^FFFFFF	 ^000000 These potions restore
+10 Medium Life Potions. These potions restore
 an amount of HP equal
 to 7% of your MaxHP
 every 4 seconds for
@@ -36895,7 +36638,7 @@ Weight: ^7777771^000000
 #
 13715#
 A box that contains
-30 Medium Life Potions.^FFFFFF	 ^000000 These potions restore
+30 Medium Life Potions. These potions restore
 an amount of HP equal
 to 7% of your MaxHP
 every 4 seconds for
@@ -36905,7 +36648,7 @@ Weight: ^7777771^000000
 #
 13716#
 A box that contains
-50 Medium Life Potions.^FFFFFF	 ^000000 These potions restore
+50 Medium Life Potions. These potions restore
 an amount of HP equal
 to 7% of your MaxHP
 every 4 seconds for
@@ -36917,7 +36660,7 @@ Weight: ^7777771^000000
 A box that contains
 5 Abrasives. Each
 Abrasive increases
-Critical Rate by 30 for^FFFFFF	 ^000000 a 5 minute duration.
+Critical Rate by 30 for a 5 minute duration.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -36925,31 +36668,31 @@ Weight: ^7777771^000000
 A box that contains
 10 Abrasives. Each
 Abrasive increases
-Critical Rate by 30 for^FFFFFF	 ^000000 a 5 minute duration.
+Critical Rate by 30 for a 5 minute duration.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 13719#
 A box that contains
-5 Regeneration Potions.^FFFFFF	 ^000000 Each potion increases
+5 Regeneration Potions. Each potion increases
 the HP recovery effect
 of other potions and
-the Heal skill by 20%^FFFFFF		 ^000000 for a 30 minute duration.
+the Heal skill by 20% for a 30 minute duration.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 13720#
 A box that contains
-10 Regeneration Potions.^FFFFFF	^000000 Each potion increases
+10 Regeneration Potions. Each potion increases
 the HP recovery effect
 of other potions and
-the Heal skill by 20%^FFFFFF		 ^000000 for a 30 minute duration.
+the Heal skill by 20% for a 30 minute duration.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 13721#
 A box that contains
-10 special scrolls that^FFFFFF	 ^000000 can transport you
+10 special scrolls that can transport you
 once to Nogg Road,
 Mjolnir Dead Pit,
 Umbala Dungeon,
@@ -37017,7 +36760,7 @@ Weight: ^7777771^000000
 #
 13730#
 A box containing 1 Silver Key.
-Silver Key - A Silver key to open the box. 
+Silver Key - A Silver key to open the box.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
@@ -37025,7 +36768,7 @@ Weight: ^7777771^000000
 #
 13731#
 A box containing 5 Silver Keys.
-Silver Key - A Silver key to open the box. 
+Silver Key - A Silver key to open the box.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
@@ -37044,7 +36787,7 @@ Weight: ^7777771^000000
 13735#
 A box containing 1 Red Glasses.
 Must-have item for the pretty. Can make users 3 times more beautiful.
-INT + 1
+INT +1
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
@@ -37053,7 +36796,7 @@ Weight: ^7777771^000000
 13736#
 A box containing 1 Whisper Mask.
 Shaped like a whisper. It feels like massaged on a face. No sure that it is good for skin.
-AGI + 3, Increase damage from ^777777Ghost^000000 Property attacks by 10%.
+AGI +3, Increase damage from ^777777Ghost^000000 Property attacks by 10%.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
@@ -37062,7 +36805,7 @@ Weight: ^7777771^000000
 13737#
 A box containing 1 Ramen Hat.
 Noodles put on a head. When hungry, this is portable ration. Be careful not to spoil it.
-DEX + 4
+DEX +4
 Chance of auto casting ^008800Level 1 Concentration^000000 on the enemy when attacking.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
@@ -37090,7 +36833,7 @@ Weight: ^7777771^000000
 #
 13740#
 A box that contains
-5 Shadow Armor Scrolls,^FFFFFF	 ^000000 which can endow
+5 Shadow Armor Scrolls, which can endow
 a character with the
 Shadow property for
 a 30 minute duration.
@@ -37099,7 +36842,7 @@ Weight: ^7777771^000000
 #
 13741#
 A box that contains
-10 Shadow Armor Scrolls,^FFFFFF	^000000 which can endow
+10 Shadow Armor Scrolls, which can endow
 a character with the
 Shadow property for
 a 30 minute duration.
@@ -37108,7 +36851,7 @@ Weight: ^7777771^000000
 #
 13742#
 A box that contains
-30 Shadow Armor Scrolls,^FFFFFF	^000000 which can endow
+30 Shadow Armor Scrolls, which can endow
 a character with the
 Shadow property for
 a 30 minute duration.
@@ -37679,17 +37422,17 @@ A box that contains
 Weight: ^7777771^000000
 #
 13811#
-A box that contains^FFFFFF			 ^000000 6 kinds of Lv.1 Dishes.
+A box that contains 6 kinds of Lv.1 Dishes.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 13812#
-A box that contains^FFFFFF			 ^000000 6 kinds of Lv.2 Dishes.
+A box that contains 6 kinds of Lv.2 Dishes.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 13813#
-A box that contains^FFFFFF			 ^000000 6 kinds of Lv.3 Dishes.
+A box that contains 6 kinds of Lv.3 Dishes.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -37814,28 +37557,28 @@ RIC booster Resist Pack, A box consist of each 3 kinds those are ^000088'Resist 
 Weight: ^7777771^000000
 #
 13830#
-RIC booster Stat, A box consist of each 3 kinds those are ^000088STR + 5, AGI + 5, VIT + 5^000000
+RIC booster Stat, A box consist of each 3 kinds those are ^000088STR +5, AGI +5, VIT +5^000000
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 13831#
-RIC booster Stat, A box consist of each 3 kinds those are ^000088INT + 5, LUK + 5, DEX + 5^000000
+RIC booster Stat, A box consist of each 3 kinds those are ^000088INT +5, LUK +5, DEX +5^000000
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 13832#
-RIC booster Stat, A box consist of each 3 kinds those are ^000088AGI + 5, VIT + 5, DEX + 5^000000
+RIC booster Stat, A box consist of each 3 kinds those are ^000088AGI +5, VIT +5, DEX +5^000000
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 13833#
-RIC booster Stat, A box consist of each 3 kinds those are ^000088INT + 5, VIT + 5, DEX + 5^000000
+RIC booster Stat, A box consist of each 3 kinds those are ^000088INT +5, VIT +5, DEX +5^000000
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
@@ -38005,7 +37748,7 @@ Weight: ^7777771^000000
 #
 13857#
 A box containing 5 Candy which are marvelous bounces.
-1 minute increase ATK + 20, Attack Speed + 25%, and permanent endure.
+1 minute increase ATK +20, Attack Speed +25%, and permanent endure.
 Decreases 100HP per 10 seconds. Cooldown for 3 minutes.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
@@ -38014,7 +37757,7 @@ Weight: ^7777771^000000
 #
 13858#
 A box containing 10 Candy which are marvelous bounces.
-1 minute increase ATK + 20, Attack Speed + 25%, and permanent endure.
+1 minute increase ATK +20, Attack Speed +25%, and permanent endure.
 Decreases 100HP per 10 seconds. Cooldown for 3 minutes.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
@@ -38075,8 +37818,8 @@ A box contains 1 Nekomimi.
 ^ffffff_^000000
 A cute cat-looking hat which enhances its wearer's look.
 Has a cat tail which emphasizes the appearance.
-LUK + 2
-MDEF + 10
+LUK +2
+MDEF +10
 Reduce 5% of damage taken from Brute monster.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
@@ -38091,7 +37834,7 @@ It is said that it uses 30% of Moonlight Flower's fur, and 70% of Nine Tails fur
 Note that you should only use hand washing to clean it.
 Wear this with your Nine Tails scarf for the perfect winter fashion!
 Automatically cast ^008800Level 1 Increase Agility^000000 by chance when struck by Physical attack.
-Dex + 2
+Dex +2
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
@@ -38288,7 +38031,7 @@ A box containing 10 Earth Elemental Converters for your weapon.
 Weight: ^7777771^000000
 #
 13895#
-Beginning packages for the people. To help determine which items are identified for the first fight. 
+Beginning packages for the people. To help determine which items are identified for the first fight.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
@@ -38455,8 +38198,8 @@ Party_Assumptio_10_Box
 #
 13915#
 A box that contains 1 Love Angel Magic Powder. Can be used for 1 week.
-An item which when you breathe in this powder, your font becomes cute. 
-To make the best use of it, its best used when you want to express your love, or when you want to say that you're sorry after making a big mistake. 
+An item which when you breathe in this powder, your font becomes cute.
+To make the best use of it, its best used when you want to express your love, or when you want to say that you're sorry after making a big mistake.
 When double clicked, your font changes, and when used again, your font goes back to normal
 Works only for chats said above your head and for vend names.
 ^ffffff_^000000
@@ -38466,8 +38209,8 @@ Weight: ^7777771^000000
 #
 13916#
 A box that contains 1 Squirrel Magic Powder. Can be used for 1 week.
-An item which when you breathe in this powder, your font becomes a bit evil. 
-To make the best use of it, its best used when you have something you want to complain about, or when you want to do something awful. 
+An item which when you breathe in this powder, your font becomes a bit evil.
+To make the best use of it, its best used when you have something you want to complain about, or when you want to do something awful.
 When double clicked, your font changes, and when used again, your font goes back to normal.
 Works only for chats said above your head and for vend names.
 ^ffffff_^000000
@@ -38477,8 +38220,8 @@ Weight: ^7777771^000000
 #
 13917#
 A box that contains 1 Gogo Magic Powder. Can be used for 1 week.
-An item which when you breathe in this powder, your font becomes humorous. 
-To make the best use of it, its best used when you have something you want to talk about thats funny. 
+An item which when you breathe in this powder, your font becomes humorous.
+To make the best use of it, its best used when you have something you want to talk about thats funny.
 When double clicked, your font changes, and when used again, your font goes back to normal.
 Works only for chats said above your head and for vend names.
 ^ffffff_^000000
@@ -38665,7 +38408,7 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 A box containing 1 Maiden's Twin Ribbon.
 ^ffffff_^000000
 An unidentified object look like eye. It comes from space and can give out light.
-Maximum SP + 30, MDEF + 3. Slot [1]
+Maximum SP +30, MDEF +3. Slot [1]
 Increases physical damage to the monster by 20% for 2 seconds when the user Received physical attack.
 Reduces MDEF by 20% for 2 seconds.
 Increases magical damage to the monster by 20% for 2 seconds when the user Received magical attack.
@@ -38679,7 +38422,7 @@ Weight: ^7777771^000000
 A box containing 1 Diadem.
 ^ffffff_^000000
 A crown decorate with jewel of love. Rumor who wear it will meet real love.
-INT + 1, MATK + 3%, Reduce Casting Time by 3%.
+INT +1, MATK +3%, Reduce Casting Time by 3%.
 A chance uses skill Heal and Sanctuary.
 Increases the effectiveness HP using potion pitcher by 3%.
 ^ffffff_^000000
@@ -38708,8 +38451,8 @@ Weight: ^7777771^000000
 #
 13942#
 A box that contains 1 Love Angel Magic Powder. Can be used for 30 days.
-An item which when you breathe in this powder, your font becomes cute. 
-To make the best use of it, its best used when you want to express your love, or when you want to say that you're sorry after making a big mistake. 
+An item which when you breathe in this powder, your font becomes cute.
+To make the best use of it, its best used when you want to express your love, or when you want to say that you're sorry after making a big mistake.
 When double clicked, your font changes, and when used again, your font goes back to normal.
 Works only for chats said above your head and for vend names.
 ^ffffff_^000000
@@ -38719,8 +38462,8 @@ Weight: ^7777771^000000
 #
 13943#
 A box that contains 1 Squirrel Magic Powder. Can be used for 30 Days.
-An item which when you breathe in this powder, your font becomes a bit evil. 
-To make the best use of it, its best used when you have something you want to complain about, or when you want to do something awful. 
+An item which when you breathe in this powder, your font becomes a bit evil.
+To make the best use of it, its best used when you have something you want to complain about, or when you want to do something awful.
 When double clicked, your font changes, and when used again, your font goes back to normal.
 Works only for chats said above your head and for vend names.
 ^ffffff_^000000
@@ -38730,8 +38473,8 @@ Weight: ^7777771^000000
 #
 13944#
 A box that contains 1 Gogo Magic Powder. Can be used for 30 Days.
-An item which when you breathe in this powder, your font becomes humorous. 
-To make the best use of it, its best used when you have something you want to talk about thats funny. 
+An item which when you breathe in this powder, your font becomes humorous.
+To make the best use of it, its best used when you have something you want to talk about thats funny.
 When double clicked, your font changes, and when used again, your font goes back to normal.
 Works only for chats said above your head and for vend names.
 ^ffffff_^000000
@@ -38757,7 +38500,7 @@ Weight: ^7777771^000000
 #
 13947#
 A gift box contains essential equipment for Acolyte.
-Contains "Saint's Robe [1],Buckler [1],Shoes [1],Muffler [1],a Pupa Card,a Sohee card,2 Clips,Biretta [1]". 
+Contains "Saint's Robe [1],Buckler [1],Shoes [1],Muffler [1],a Pupa Card,a Sohee card,2 Clips,Biretta [1]".
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
@@ -38765,7 +38508,7 @@ Weight: ^7777771^000000
 #
 13948#
 A gift box contains essential equipment for Archer.
-Contains "Tight [1],Gakkung [2],Boots [1],Muffler [1],a Zerom Card,a Whisper Card,2 Clips, a Apple Of Archer". 
+Contains "Tight [1],Gakkung [2],Boots [1],Muffler [1],a Zerom Card,a Whisper Card,2 Clips, a Apple Of Archer".
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
@@ -38829,7 +38572,7 @@ Jobs: ^777777All^000000
 A box which contains 1 Spiritual Tunic. Rental period for a week.
 A Tunic that has been granted additional tolerance against certain properties.
 Decreases 20% damage from ^777777Neutral^000000 and ^777777Water^000000 property.
-MDEF + 5. MHP + 800. Cannot be Frozen.
+MDEF +5. MaxHP +800. Cannot be Frozen.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
@@ -38858,10 +38601,10 @@ Weight: ^7777771^000000
 #
 13957#
 A box which contains 1 Silf Manteau. Rental period for a week.
-A Soft Manteau that has been blessed by a Wind Fairy. 
+A Soft Manteau that has been blessed by a Wind Fairy.
 It is said to allow the wearer to be protected from danger.
-FLEE + 13, Reduce 13% of ^777777Neutral^000000 Property damage.
-Perfect Dodge + 1
+FLEE +13, Reduce 13% of ^777777Neutral^000000 Property damage.
+Perfect Dodge +1
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
@@ -38870,7 +38613,7 @@ Weight: ^7777771^000000
 13958#
 A box which contains 1 Refresh Shoes. Rental period for a week.
 Shoes that were made with complex design and very soft skin to show how fun your legs could be with these.
-MHP + 17% , MSP + 8%.
+MaxHP +17% , MaxSP +8%.
 Every 10 seconds, your HP goes up by 20, SP goes up by 3.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
@@ -38879,9 +38622,9 @@ Weight: ^7777771^000000
 #
 13959#
 A box which contains 1 Crunch Toast. Rental period for a week.
-For a busy morning, it its the best heartwarming friend. 
+For a busy morning, it its the best heartwarming friend.
 When you hold it in your mouth, you feel like you have to quickly rush out.
-MHP + 100.
+MaxHP +100.
 When you defeat a monster, there is a small chance that it drops a "Old Purple Box".
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
@@ -39291,7 +39034,7 @@ A box contains 1 Evolved Rabbits Headband.
 Weight: ^7777771^000000
 #
 14008#
-A box contains 1 Evolved Helmet Of Orc Hero. 
+A box contains 1 Evolved Helmet Of Orc Hero.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
@@ -39571,7 +39314,7 @@ A box that contains:	10 scrolls that is recorded of Rachel. When used, user can 
 Warning: After use, if you don't select any within a minute, it will not be effective anymore.
 #
 14047#
-A box containing 5 Blue Butterfly Wing. 
+A box containing 5 Blue Butterfly Wing.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
@@ -39928,7 +39671,7 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 14102#
-A box containing 10 Dungeon Teleport Scroll. 
+A box containing 10 Dungeon Teleport Scroll.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
@@ -40061,7 +39804,7 @@ Attack: ^777777129^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Swordman, Merchant, Thief Classes; Soul Linker and Ninja Jobs^000000
+Jobs: ^777777Swordman, Merchant, Thief Classes; Soul Linker and Ninja^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -40109,7 +39852,7 @@ Weight: ^7777770^000000
 Property: ^777777성^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Swordman and Merchant Classes^000000
+Jobs: ^777777Swordman and Merchant^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -40202,7 +39945,7 @@ A fashion accessory that gives ears that vaunted, elvish look. For some, it is a
 INT +1
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
-Location: ^777777mid^000000		Weight: ^7777770^000000
+Location: ^777777Middle^000000		Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Except Novice^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
@@ -40446,7 +40189,7 @@ Contains:
 5x Rachel Town Butterfly Wing,
 5x Schwartzwalt Town Butterfly Wing,
 5x Rune-Midgard Town Butterfly Wing, and
-12x Small Life Potions. 
+12x Small Life Potions.
 Cannot be dropped or placed in Cart.
 Weight: ^7777771^000000
 #
@@ -40639,7 +40382,7 @@ legendary spring
 that is believed to
 be the source of the
 world's rivers, and
-is famous for its pure,^FFFFFF	 ^000000 amazing taste. DEX +10,
+is famous for its pure, amazing taste. DEX +10,
 30 minute duration.
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -40653,7 +40396,7 @@ legendary spring
 that is believed to
 be the source of the
 world's rivers, and
-is famous for its pure,^FFFFFF	 ^000000 amazing taste. DEX +10,
+is famous for its pure, amazing taste. DEX +10,
 30 minute duration.
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -40662,7 +40405,7 @@ Weight: ^7777771^000000
 A box containing 30 Cooked Nine Tail's Tails
 ^ffffff_^000000
 A rare, specialty
-Payon dish that bestows^FFFFFF	 ^000000 luck to those fortunate
+Payon dish that bestows luck to those fortunate
 enough to eat it. LUK +10, 30 minute duration.
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -40671,7 +40414,7 @@ Weight: ^7777771^000000
 A box containing 50 Cooked Nine Tail's Tails
 ^ffffff_^000000
 A rare, specialty
-Payon dish that bestows^FFFFFF	 ^000000 luck to those fortunate
+Payon dish that bestows luck to those fortunate
 enough to eat it. LUK +10, 30 minute duration.
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -40900,7 +40643,7 @@ Description:
 A certificate imbued
 with the power of the
 invulnerable Siegfried
-which allows its bearer^FFFFFF	 ^000000 to overcome death.
+which allows its bearer to overcome death.
 Revives the dead
 character.
 ^ffffff_^000000
@@ -41079,7 +40822,7 @@ A box containing 1 Note Headphones.
 A cool looking set of headphones that have earmuffs designed to resemble music notes.
 You can listen to your favorite Ragnarok Online music everywhere!
 Increase resistance to ^880000Stun^000000 and ^880000Freeze^000000 by 10%.
-MDEF + 3. Slot [1].
+MDEF +3. Slot [1].
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
@@ -41122,42 +40865,42 @@ Field Manual : ^000088Exp rate is increased to 1.5% for 30 minutes^000000.
 Weight: ^7777771^000000
 #
 14236#
-A box containing 20 STR + 10 dishes.
+A box containing 20 STR +10 dishes.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 14237#
-A box containing 20 AGI + 10 dishes.
+A box containing 20 AGI +10 dishes.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 14238#
-A box containing 20 VIT + 10 dishes.
+A box containing 20 VIT +10 dishes.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 14239#
-A box containing 20 INT + 10 dishes.
+A box containing 20 INT +10 dishes.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 14240#
-A box containing 20 DEX + 10 dishes.
+A box containing 20 DEX +10 dishes.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 14241#
-A box containing 20 LUK + 10 dishes.
+A box containing 20 LUK +10 dishes.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
@@ -41523,7 +41266,7 @@ Weight: ^7777771^000000
 #
 14281#
 A box containing 1 Praccsinos.
-ATK + 5%, MATK + 5%.
+ATK +5%, MATK +5%.
 Rental period for 7 days.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
@@ -41547,7 +41290,7 @@ Weight: ^7777771^000000
 A box contains 1 "Neo Muffler". Available for one week.
 A warm scarf that is worn around the neck and shoulders.
 Add a 10% resistance against DemiHuman monster.
-MaxHP + 10%
+MaxHP +10%
 Resistance against ^0000FFWater^000000, ^FF0000Fire^000000, ^777777Holy^000000, ^777777Shadow^000000 Property by 5%.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
@@ -41558,7 +41301,7 @@ Weight: ^7777771^000000
 A box contains 1 "Neo Valkyrja's Shield". Available for one week.
 A shield used by Gna, the messanger of Freyja while she served as a Valkyrie.
 Add a 30% resistance against DemiHuman monster.
-MaxHP + 5%
+MaxHP +5%
 Add a 20% resistance against ^FF0000Fire^000000 and ^0000FFWater^000000 Property attacks.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
@@ -41568,8 +41311,8 @@ Weight: ^7777771^000000
 14286#
 A box contains 1 "Neo Skull Ring". Available for one week.
 A weird ring adorned with a skull in which the words, "^990000Forever, until death...^000000" are engraved.
-ATK + 5%, MATK + 5%
-MaxHP + 5%, Reduces after-cast skill delay by 5%.
+ATK +5%, MATK +5%
+MaxHP +5%, Reduces after-cast skill delay by 5%.
 Enables use of ^008800Level 1 Sight^000000.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
@@ -41585,7 +41328,7 @@ It contains 30 Trunks, 10 Steel, 10 Envertacon, 5 Oridecon.
 Weight: ^7777771^000000
 #
 14288#
-A box contains the necessary items to rebuild a destroyed Guardian Stone. 
+A box contains the necessary items to rebuild a destroyed Guardian Stone.
 It contains 1 Oridecon, 1 Elunium, 30 Stones, 5 Blue Gemstones, 5 Yellow Gemstones, 5 Red Gemstones.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
@@ -41685,7 +41428,7 @@ Increase 5% resistence against ^FF0000Fire^000000 property attacks.
 Reduce 5% resistence against ^0000BBWater^000000 property attacks.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
-Location: ^777777Mid^000000		Weight: ^7777770^000000
+Location: ^777777Middle^000000		Weight: ^7777770^000000
 Required Level: ^77777770^000000
 Jobs: ^777777All except Novice Class^000000
 ^ff0000This item is not refundable.^000000
@@ -41764,7 +41507,7 @@ Weight: ^7777771^000000
 14314#
 A box that contains 10 "Phreeoni Scroll".
 Phreeoni Scroll - A Scroll that imbued with great force of Monster Phreeoni.
-HIT + 100 for 3 minutes.
+HIT +100 for 3 minutes.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
@@ -41913,7 +41656,7 @@ A box containing 1 "Girlfriend Hat" inside. Rental periods for 1 week.
 Weight: ^7777771^000000
 #
 14336#
-A box containing 1 "Holy Marcher Hat" inside. 
+A box containing 1 "Holy Marcher Hat" inside.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
@@ -41955,21 +41698,21 @@ A box containing 1 "Girlfriend Hat" inside. Rental periods for 1 week.
 Weight: ^7777771^000000
 #
 14342#
-A box containing 1 "Holy Marcher Hat" inside. 
+A box containing 1 "Holy Marcher Hat" inside.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 14343#
-A box containing 1 "Spiked Scarf" inside. 
+A box containing 1 "Spiked Scarf" inside.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 14344#
-A box containing 1 "Rainbow Scarf" inside. 
+A box containing 1 "Rainbow Scarf" inside.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
@@ -41981,7 +41724,7 @@ Various animals are inside of it! Please handle with care, you might get bit!
 Weight: ^7777771^000000
 #
 14346#
-A box containing 1 "Brazilian Flag Hat" inside. 
+A box containing 1 "Brazilian Flag Hat" inside.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
@@ -42074,7 +41817,7 @@ Weight: ^7777771^000000
 14359#
 A box that contains 10 'Tao Gunka Scroll' in it.
 A Scroll that imbued with great force of Monster Tao Gunka.
-For 3 minutes MaxHP + 100%, DEF -50, MDEF -50.
+For 3 minutes MaxHP +100%, DEF -50, MDEF -50.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
@@ -42694,7 +42437,7 @@ Weight: ^7777771^000000
 A box that contains 1 "Dark Randgris Helm" inside.
 ^ffffff_^000000
 A helm laced with the power of Valkyrie Randgris. It helps its wearer to concentrate better.
-Dex + 3, Mdef + 1
+Dex +3, Mdef +1
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
@@ -42704,7 +42447,7 @@ Weight: ^7777771^000000
 A box that contains 1 "Purple Cowboy Hat" inside.
 ^ffffff_^000000
 A hat, symbolizing western frontiers, made to celebrate the festival.
-INT + 2 , VIT + 2 , SP + 50
+INT +2 , VIT +2 , SP +50
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
@@ -42714,7 +42457,7 @@ Weight: ^7777771^000000
 A box that contains 1 "Dark Randgris Helm" inside.
 ^ffffff_^000000
 A helm laced with the power of Valkyrie Randgris. It helps its wearer to concentrate better.
-Dex + 3, Mdef + 1
+Dex +3, Mdef +1
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
@@ -42724,7 +42467,7 @@ Weight: ^7777771^000000
 A box that contains 1 "Purple Cowboy Hat" inside.
 ^ffffff_^000000
 A hat, symbolizing western frontiers, made to celebrate the festival.
-INT + 2 , VIT + 2 , SP + 50
+INT +2 , VIT +2 , SP +50
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
@@ -43108,7 +42851,7 @@ that is effective in
 healing wounds.
 Restores an amount of
 HP equal of 5% of your
-MaxHP every 5 seconds^FFFFFF		^000000 for a 10 minute duration.
+MaxHP every 5 seconds for a 10 minute duration.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -43119,7 +42862,7 @@ that is effective in
 healing wounds.
 Restores an amount of
 HP equal of 7% of your
-MaxHP every 4 seconds^FFFFFF		^000000 for a 10 minute duration.
+MaxHP every 4 seconds for a 10 minute duration.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -43134,7 +42877,7 @@ Weight: ^7777771^000000
 #
 14537#
 A magic potion made
-with alchemy and magic.^FFFFFF	 ^000000 A Rosary is rumored to
+with alchemy and magic. A Rosary is rumored to
 be one of the secret
 ingredients in making
 this potion. Increases
@@ -43170,7 +42913,7 @@ with Holy Armor Magic
 that can protect your
 body with the power
 of holiness. Endows
-a character with Holy^FFFFFF		 ^000000 property for 30 minutes.
+a character with Holy property for 30 minutes.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -43253,7 +42996,7 @@ Weight: ^7777771^000000
 14552#
 A dish that looks
 slightly unappetizing,
-but its taste and scent^FFFFFF	^000000 are quite pleasant.
+but its taste and scent are quite pleasant.
 STR +2
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -43355,7 +43098,7 @@ Weight: ^7777771^000000
 #
 14564#
 A special chocolate
-mousse cake with a^FFFFFF			 ^000000 smooth luxurious flavor
+mousse cake with a smooth luxurious flavor
 that even Charles Orleans would be proud of. DEX +2
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -43413,37 +43156,37 @@ Weight: ^7777775^000000
 #
 14575#
 A special cake which made by Thachentze, a cookery from Lutie.
-STR + 5
+STR +5
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 14576#
 Wine distilled from Mastela fruit that helps the drinker to maintain clarity of thought.
-INT + 5
+INT +5
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 14577#
 A bao that is fried and seasoned with spicy sauce. If you're not used to spicy food, it's not a good idea to eat too many.
-VIT + 5
+VIT +5
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 14578#
 Steamed pumpkin and Red Bat wings wrapped in a Hinale leaflet that have a combined flavor that is indescribable.
-AGI + 5
+AGI +5
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 14579#
 A trendy green salad that is topped with sweet dressing add passion eat.
-DEX + 5
+DEX +5
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 14580#
 A fried scorpion tail, which is said very dangerous if over eaten.
-LUK + 5
+LUK +5
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -43483,7 +43226,7 @@ Warning: If you don't select any winthin a minute, it will not be effective anym
 14586#
 A hard candy that feels like its jumping in your mouth when you eat it.
 You'll need to remember to brush your teeth after!
-1 minute increase ATK + 20, Attack Speed + 25%, and permanent endure.
+1 minute increase ATK +20, Attack Speed +25%, and permanent endure.
 Decreases 100HP per 10 seconds. Cooldown for 3 minutes.
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -43551,7 +43294,7 @@ Weight: ^77777710^000000
 #
 14597#
 A Scroll that imbued with great force of Monster Phreeoni.
-HIT + 100 for 3 minutes.
+HIT +100 for 3 minutes.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -43573,7 +43316,7 @@ Weight: ^7777771^000000
 #
 14601#
 A potion that possesses the spirit of Tyr, the god of battle.
-Increases ATK & 20 MATK for 5 minutes. HIT + 30, Flee Rate + 30 
+Increases ATK & 20 MATK for 5 minutes. HIT +30, Flee Rate +30 
 Caution!- Item's active duration and ability will not work properly when it is being used with Honey Pastry, Sesame Pastry and Rainbow Cake.
 Item option disappears when its owner has drained all energy.
 ^ffffff_^000000
@@ -43581,7 +43324,7 @@ Weight: ^7777771^000000
 #
 14602#
 A Scroll that imbued with great force of Monster Tao Gunka.
-For 3 minutes MaxHP + 100%, DEF -50, MDEF -50.
+For 3 minutes MaxHP +100%, DEF -50, MDEF -50.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -43611,19 +43354,19 @@ Weight: ^7777771^000000
 #
 14607#
 Sumptuous western food.
-ALL STATUS + 3 for 1 hour.
+ALL STATUS +3 for 1 hour.
 ^ffffff_^000000
 Weight: ^77777760^000000
 #
 14608#
 Grand and sumptuous Manchu-Han Imperial Feast.
-ALL STATUS + 6 for 1 hour.
+ALL STATUS +6 for 1 hour.
 ^ffffff_^000000
 Weight: ^777777120^000000
 #
 14609#
 Process (dishes failed).
-^000088Recovery HP & SP + 10%^000000.
+^000088Recovery HP & SP +10%^000000.
 ^ffffff_^000000
 Weight: ^77777730^000000
 #
@@ -43701,9 +43444,9 @@ Weight: ^7777771^000000
 ^ff0000Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 This Bar was created to remember the day with most fireworks..
 Luck +15 for 30 Minutes.
-+11~33 CRI For 10 Minutes.
++11~33 CRIT For 10 Minutes.
 ^ff0000※ Applies the Highest Stat Amongst All Bonuses.^000000
-^ff0000※ CRI Does not Overlap with other bonus. ^000000
+^ff0000※ CRIT Does not Overlap with other bonus. ^000000
 Weight: ^7777771^000000
 #
 14623#
@@ -43780,7 +43523,7 @@ Weight: ^7777771^000000
 14682#
 ^ff0000This item is account bound.^000000
 Limit edition sealed beelzebu scroll.
-A scroll contains sealed beelzebu card, safety upgrade + 9, Cranial/Brutal/Homer's/Cadi/Requiem/Fire-Proof/Satanic/Dragoon/Gargantua/Safeguard Shadow Shields, Costume_Enchantment stone Box II and other rare items, only can get one.
+A scroll contains sealed beelzebu card, safety upgrade +9, Cranial/Brutal/Homer's/Cadi/Requiem/Fire-Proof/Satanic/Dragoon/Gargantua/Safeguard Shadow Shields, Costume_Enchantment stone Box II and other rare items, only can get one.
 Weight: ^7777771^000000
 #
 14683#
@@ -44288,31 +44031,10 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 16007#
-A facsimile of the
-mighty hammer wielded
-by Thor, god of thunder. Increases ASPD.
-DEX +50 , STR +20
-^ffffff_^000000
-^FF0000This is a 30 Day version, and is tradable, it will disappear when it expires.^000000
-^ffffff_^000000
-Class: ^777777Mace^000000
-Property: ^777777Wind^000000
-Attack: ^777777350^000000
-Weight: ^777777600^000000
-Weapon Level: ^7777774^000000
-Required Level: ^77777795^000000
-Jobs: ^777777Swordman and
-Merchant Classes^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 16008#
-^000088Rental Item^000000
-A heavy tool with many practical applications.
-Enable a chance of randomly inflicting the ^880000Stun^000000, ^880000Blind^000000, ^880000Poison^000000 or ^880000Frozen^000000 statuses with each attack.
-Class: ^777777Mace^000000
-Attack: ^777777150^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777773^000000
-Jobs: ^777777Acolyte Class^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 16010#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -44330,13 +44052,7 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 16017#
-Has a random chance of casting the Warlock skill Hell Inferno while physically attacking for 20 seconds. The duration multiplies by the refine level of the weapon.
-Class: ^777777Mace^000000
-Attack: ^777777170^000000
-Weight: ^777777150^000000
-Weapon Level: ^7777774^000000
-Required Level: ^777777100^000000
-Jobs: ^777777Novice, Swordman, Merchant, Acolyte^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 16018#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -44418,7 +44134,7 @@ A box that contains 1 "Lucky Egg" inside. Available for 7 days.
 Weight: ^7777771^000000
 #
 16102#
-A box that contains 1 "Claymore" inside. Available for 7 days. 
+A box that contains 1 "Claymore" inside. Available for 7 days.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
@@ -44523,7 +44239,7 @@ A box that contains 1 "Lucky" inside. Available for 7 days.
 Weight: ^7777771^000000
 #
 16117#
-A box that contains 1 "Claymore" inside. Available for 7 days. 
+A box that contains 1 "Claymore" inside. Available for 7 days.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
@@ -45154,7 +44870,7 @@ A box that contains 1 "Hairband Of Reginleif" inside.
 Weight: ^7777771^000000
 #
 16233#
-A box that contains 1 "Festival Grand Circlet" inside. 
+A box that contains 1 "Festival Grand Circlet" inside.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -45864,7 +45580,7 @@ Enable to use [Greed] skill.
 Class: ^777777Accessory^000000 DEF: ^7777770^000000
 Weight: ^7777770^000000
 Required Level: ^77777710^000000
-Jobs: ^777777All Jobs except Novice^000000
+Jobs: ^777777All except Novice^000000
 Weight: ^7777771^000000
 #
 16343#
@@ -46337,7 +46053,7 @@ Weight: ^7777771^000000
 A box that contains 1 Chung Hairpin in it.
 ^ffffff_^000000
 If you wear this, it feels like you become a fancy Chung aristocrat.
-LUK + 3, Mdef +4, Def+5
+LUK +3, Mdef +4, Def+5
 When receiving any physical attack, Mammonite Lv5 will be activated at a low rate.
 (If you have no zeny, it won't be activated.)
 Class: ^777777Headgear^000000
@@ -46352,7 +46068,7 @@ Weight: ^7777771^000000
 A box that contains 1 Ice Ear Wing in it.
 ^ffffff_^000000
 Earrings made of ice and other special chemicals. If you wear these, you can beat off the heat by its cool energy!
-LUK + 1.
+LUK +1.
 When receiving any physical attack, Autospell Coldbolt Lv5 will be activated at a low rate.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
@@ -46493,7 +46209,7 @@ Attack: ^777777195^000000
 Weight: ^777777480^000000
 Weapon Level: ^7777773^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Swordman Class^000000
+Jobs: ^777777Swordman^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -46816,7 +46532,7 @@ Weight: ^7777771^000000
 ^ff0000This item is impossible to deal with another account.^000000
 ^800080Event paid item.^000000
 A box containing 10 small life potion.
-For 10 minutes, you regenerate 5% of your Maximum HP every 5 seconds. 
+For 10 minutes, you regenerate 5% of your Maximum HP every 5 seconds.
 Can not be used while in Frenzy.
 If you die don't lost the effect!!
 Weight: ^7777771^000000
@@ -46955,7 +46671,7 @@ Even elves are very cool creatures. So naturally they wear sunglasses.
 Increases resistance to Blind status by 5%.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
-Head Position: ^777777Mid^000000
+Head Position: ^777777Middle^000000
 Weight: ^77777720^000000
 Jobs: ^777777All^000000
 ^ffffff_^000000
@@ -47022,14 +46738,14 @@ Weight: ^77777710^000000
 A box contains 1 2011 Pagdayaw in it.
 ^ffffff_^000000
 An headgear which is made of many kinds of property rings. It looks very luxurious and charming. Reduce all damage from Demi-humans by 10%, 
-Reduce damage from Water, Fire, Wind by 5%, Reduce damage from Ghost property monsters by 10%, Increase damage against Ghost property Demi-humans by 50%. 
+Reduce damage from Water, Fire, Wind by 5%, Reduce damage from Ghost property monsters by 10%, Increase damage against Ghost property Demi-humans by 50%.
 30 days Rental Item.
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
 Location: ^777777Upper,Mid,Lower^000000
 Weight: ^7777770^000000
 Required Level: ^77777720^000000
-Jobs: ^777777All Jobs Except Novice^000000
+Jobs: ^777777All except Novice^000000
 Weight: ^7777771^000000
 #
 16576#
@@ -47798,11 +47514,11 @@ flash blinding light
 that seems to cause
 memory loss. Resets
 the Skill Tree and
-gives the corresponding^FFFFFF	 ^000000 number of Skill Points.
+gives the corresponding number of Skill Points.
 This item can only be
 used in town, and the
 character must carry
-0 weight, and cannot be^FFFFFF	 ^000000 equipped with a Pushcart,
+0 weight, and cannot be equipped with a Pushcart,
 Falcon, or PecoPeco.
 Cannot be used by
 Novice Class.
@@ -47821,11 +47537,11 @@ flash blinding light
 that seems to cause
 memory loss. Resets
 the Skill Tree and
-gives the corresponding^FFFFFF	 ^000000 number of Skill Points.
+gives the corresponding number of Skill Points.
 This item can only be
 used in town, and the
 character must carry
-0 weight, and cannot be^FFFFFF	 ^000000 equipped with a Pushcart,
+0 weight, and cannot be equipped with a Pushcart,
 Falcon, or PecoPeco.
 Cannot be used by
 Novice Class.
@@ -48360,14 +48076,14 @@ If refined to +7 or higher and base stats (without modifiers) is equal to 90 or 
 -VIT -> Tolerance to ^777777Neutral^000000 property +5
 -AGI -> ASPD +8%
 -DEX -> Ranged Attack +5
--LUK -> CRI +10
+-LUK -> CRIT +10
 If refined to +9 or higher and base stats (without modifiers) is equal to 90 or higher,
 -STR -> Attack +30
 -INT -> Magic Attack +50
 -VIT -> Tolerance to ^777777Neutral^000000 property +10
 -AGI -> ASPD +8% & ASPD +1
 -DEX -> Ranged Attack +10
--LUK -> CRI +15
+-LUK -> CRIT +15
 Class: ^777777Garment^000000
 Defense: ^77777720^000000
 Weight: ^77777720^000000
@@ -48672,7 +48388,7 @@ Description:
 A Gym Pass that can be
 given to a special
 NPC to learn a skill
-that will increase your^FFFFFF	 ^000000 Maximum Weight
+that will increase your Maximum Weight
 Capacity by 200 for
 each skill level.
 This special skill
@@ -48857,7 +48573,7 @@ Attack: ^77777755^000000
 Weight: ^777777150^000000
 Weapon lvl: ^7777773^000000
 Require Level: ^7777771^000000
-Jobs: ^777777Ninja Class^000000
+Jobs: ^777777Ninja^000000
 ^ffffff_^000000
 ^ff0000This item will be excluded from refunds once opened.^000000
 Weight: ^7777771^000000
@@ -49183,8 +48899,8 @@ A box contains 20 Sweet Stick Candys Vitality.
 ^ffffff_^000000
 ^ff0000This item is account bound.^000000
 Special candy stick made to commemorate the day the largest number of "1" of the year.
-During 30 Minutes Increase VIT + 15.
-During 10 Minutes Increase MaxHP + 11~33%.
+During 30 Minutes Increase VIT +15.
+During 10 Minutes Increase MaxHP +11~33%.
 ^ff0000※ VIT은 캐시 요리와 중첩되지 않고 가장 높은 옵션으로 적용됩니다.^000000
 ^ffffff_^000000
 ^ff0000Opening This item if you are excluded from the offer withdrawn.^000000
@@ -49239,7 +48955,7 @@ Contains 20 Bars in the box..
 ^ff0000Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 Every Year,We Celebrate 1 day with Special Bar made with sweets.
 LUK +15 For 30 Minutes.
-Gains CRI for 10 minutes,11~33% Addtional Bonus
+Gains CRIT for 10 minutes,11~33% Addtional Bonus
 ^ff0000※ Only Highest Bonus amongs all is applied ^000000.
 ^ffffff_^000000
 ^ff0000Opening this item will withdraw any offers available..^000000
@@ -49396,14 +49112,14 @@ Weight: ^7777771^000000
 ^ff0000This item is account bound.^000000
 A box contains 10 Almighty, Sealed Kiel-D-01 Scroll that contains one.
 The ultimate dish that contain all the various delicate ingredients.
-During 30 Minutes All State + 10, ATK + 30, MATK + 30.
+During 30 Minutes All State +10, ATK +30, MATK +30.
 Weight: ^7777771^000000
 #
 17332#
 ^ff0000This item is account bound.^000000
 A box contains 100 Almighty, Sealed Kiel-D-01 Scroll that contains eleven.
 The ultimate dish that contain all the various delicate ingredients.
-During 30 Minutes All State + 10, ATK + 30, MATK + 30.
+During 30 Minutes All State +10, ATK +30, MATK +30.
 Weight: ^7777771^000000
 #
 17333#
@@ -49503,7 +49219,7 @@ Weight: ^7777771^000000
 A box that contains 1 Reinforcement Buckler.
 ^ffffff_^000000
 Lumiere Elunium mixed and covered with a layer of bright gold about buckler.
-MHP + 3%.
+MaxHP +3%.
 Class: ^777777Shield^000000 
 Defense: ^77777745^000000
 Weight: ^77777730^000000
@@ -49782,8 +49498,8 @@ Weight: ^7777771^000000
 ^ffffff_^000000
 ^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
 ^000088임대 아이템^000000
-기억된 던전을 자유롭게 입장할 수 있는 이용권. 
-기억된 던전으로 바로 이동할 수 있다. 
+기억된 던전을 자유롭게 입장할 수 있는 이용권.
+기억된 던전으로 바로 이동할 수 있다.
 기억된 던전 - "공중요새 침공(145레벨 이상)"
 ^ffffff_^000000
 ^ff0000본 아이템을 개봉하시면 청약철회 대상에서 제외 됩니다. 창고에도 넣을 수 없습니다! ^000000
@@ -51361,7 +51077,7 @@ Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Swordman, Merchant, Thief Classes; Soul
-Linker and Ninja Jobs^000000
+Linker and Ninja^000000
 #
 19007#
 A box that contains 1 Classic Counter Dagger 2 Week Rental
@@ -51465,7 +51181,7 @@ Weight: ^7777770^000000
 Property: ^777777Shadow^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Swordman Class^000000
+Jobs: ^777777Swordman^000000
 #
 19014#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -51540,7 +51256,7 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Shoes that offer similar effect as a Sohee Carded +6 Shoes
 +15% SP +3% SP recovery
 ^CC0000This item is not Refinable^000000
-Class: ^777777Shoes^000000
+Class: ^777777Footgear^000000
 Def ^7777776^000000
 Weight: ^77777740^000000
 Required Level: ^7777771^000000
@@ -52049,7 +51765,7 @@ A box that contains 1 Classic Chick Hat
 Description:
 A hat adorned with a
 cute chick that brings
-feelings of joy to those^FFFFFF	^000000 that see it hopping.
+feelings of joy to those that see it hopping.
 Adds 3% resistance to
 Demihuman and Animal
 Class monsters. Cannot
@@ -52188,7 +51904,7 @@ Defense: ^7777773^000000
 Location: ^777777Upper^000000
 Weight: ^77777715^000000
 Required Level: ^77777750^000000
-Jobs: ^777777Acolyte Class^000000
+Jobs: ^777777Acolyte^000000
 Box Weight: ^7777771^000000
 #
 19410#
@@ -54869,13 +54585,13 @@ Weight: ^77777710^000000
 22543#
 ^ff0000This item is account bound.^000000
 Remarkably powerful medicine that stimulates circulation and amplifies quickness. Temporarily increases Attack Speed.
-Jobs: ^777777Swordman and Merchant Classes; Rogue, Mage, and Wizard Jobs^000000
+Jobs: ^777777Swordman and Merchant Classes; Rogue, Mage, and Wizard^000000
 Weight: ^77777720^000000
 #
 22544#
 ^ff0000This item is account bound.^000000
 A special tonic that combats the effects of drowsiness. Temporarily increases Attack Speed.
-Jobs: ^777777All except Acolyte, Priest, Bard, and Dancer Jobs^000000
+Jobs: ^777777All except Acolyte, Priest, Bard, and Dancer^000000
 Weight: ^77777715^000000
 #
 22545#
@@ -54932,7 +54648,7 @@ Weight: ^7777777^000000
 22553#
 ^ff0000This item is account bound.^000000
 Colorful color plain flavored bread. Seems to be used in the far east of the country to the feast.
-Increase temporarily MATK and ATK by + 10.
+Increase temporarily MATK and ATK by +10.
 ^ffffff_^000000
 Weight: ^7777777^000000
 #
@@ -55201,7 +54917,7 @@ Weight: ^77777710^000000
 #
 22675#
 The world's most mysterious scrolls written with letters.
-During 1 hour INT + 30.
+During 1 hour INT +30.
 ^ff0000Caution! During cooking, this effect is not apply in cooking formula.^000000.
 Weight: ^777777100^000000
 #
@@ -55350,12 +55066,12 @@ Weight: ^77777725^000000
 #
 22750#
 Over a period of time this scroll transforms you into a horn scaraba.
-When you transform increase ASPD + 2, HIT + 10.
+When you transform increase ASPD +2, HIT +10.
 Weight: ^7777771^000000
 #
 22751#
 Over a period of time this scroll transforms you into a wanderer.
-When you transform increase ASPD + 2, HIT + 10.
+When you transform increase ASPD +2, HIT +10.
 Weight: ^7777771^000000
 #
 22752#
@@ -55370,12 +55086,12 @@ Weight: ^7777771^000000
 #
 22754#
 Over a period of time this scroll transforms you into a necromancer.
-When you transform increase MATK + 50.
+When you transform increase MATK +50.
 Weight: ^7777771^000000
 #
 22755#
 Over a period of time this scroll transforms you into a wind ghost.
-When you transform increase MATK + 50.
+When you transform increase MATK +50.
 Weight: ^7777771^000000
 #
 22756#
