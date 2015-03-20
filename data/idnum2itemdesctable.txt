@@ -26636,9 +26636,9 @@ Weight: ^77777750^000000
 Jobs: ^777777All^000000
 #
 5021#
-A unique headgear
-that symbolizes a
-merchant's grief.
+Head Gear telling the sad story of an unfortunate merchant who have lost everything.
+It will make its wearer sad and in a down mood.
+However,it will also increase the wearer urge to find more treasure.
 INT +1 , DEX +1
 Class: ^777777Headgear^000000
 Defense: ^7777778^000000
@@ -26648,16 +26648,14 @@ Required Level: ^77777738^000000
 Jobs: ^777777Merchant^000000
 #
 5022#
-A hat that is said to
-have been worn by
-the god of the sun.
-STR +3 , INT +2
+Hat that is attached with the great wings with the emblem of sun.
+Don't ask or wonder how its wearer could walk or move in this hat.
+STR +3, INT +2
 Class: ^777777Headgear^000000
 Defense: ^7777774^000000
-Location: ^777777Upper/Mid^000000
+Location: ^777777Upper, Midde^000000
 Weight: ^777777240^000000
-Jobs: ^7777772-1 and
-2-2 Classes^000000
+Jobs: ^7777772nd Classes^000000
 #
 5023#
 A large piece of
@@ -26682,18 +26680,14 @@ Weight: ^77777710^000000
 Jobs: ^777777All^000000
 #
 5025#
-A wondrous helmet
-adorned with angel
-wings that was made
-by a smithing genius.
+Wondrous headgear of high defense made of feathers from the wings of angels and constructed by a unknown craftsman.
 AGI +1, LUK +1, MDEF +3
 Class: ^777777Headgear^000000
 Defense: ^77777710^000000
 Location: ^777777Upper^000000
 Weight: ^777777160^000000
 Required Level: ^77777774^000000
-Jobs: ^7777772-1 and
-2-2 Classes^000000
+Jobs: ^7777772nd Classes^000000
 #
 5026#
 A hat designed to
@@ -26705,25 +26699,20 @@ Defense: ^7777773^000000
 Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^77777750^000000
-Jobs: ^777777All
-except Novice^000000
+Jobs: ^777777All except Novice^000000
 #
 5027#
-A stylish formal
-hat that talented
-magicians usually
-wear during a show.
+A hat that is so favorable every talented mage wishes to have one of it.
+Some might feel uncomfortable with its design but it's pretty fresh and vivid in its own way.
 INT +2, SP +150
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
 Location: ^777777Upper^000000
 Weight: ^77777730^000000
-Jobs: ^777777Mage Class and Soul Linker^000000
+Jobs: ^777777Mage and Soul Linker^000000
 #
 5028#
-A large, slightly used
-candlestick that can be worn on the head by via
-a strap attachment.
+A large, slightly used candlestick that can be worn on the head by via a strap attachment.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
@@ -26737,45 +26726,36 @@ Defense: ^7777776^000000
 Location: ^777777Upper^000000
 Weight: ^77777790^000000
 Required Level: ^77777720^000000
-Jobs: ^777777All
-except Novice^000000
+Jobs: ^777777All except Novice^000000
 #
 5030#
-A cute and cuddly
-headgear made in the form of a Panda's head.
+A cute and cuddly headgear made in the form of a Panda's head.
 Class: ^777777Headgear^000000
 Defense: ^7777776^000000
 Location: ^777777Upper^000000
 Weight: ^77777780^000000
 Required Level: ^77777740^000000
-Jobs: ^777777All
-except Novice^000000
+Jobs: ^777777All except Novice^000000
 #
 5031#
-A durable safety
-helmet with a special
-flashlight attachment for exploring dark areas.
+Safety helmet where a headlight is attached on the forehead,for seeing things in the dark.
+It possesses strong durability,which bears most of impact.
 DEX +2
 Class: ^777777Headgear^000000
 Defense: ^7777779^000000
 Location: ^777777Upper^000000
 Weight: ^777777150^000000
 Required Level: ^77777755^000000
-Jobs: ^777777Swordman
-Acolyte, Merchant, and
-Thief Classes^000000
+Jobs: ^777777Swordman, Acolyte, Merchant and Thief^000000
 #
 5032#
-A fashionable, wide
-brimmed hat that's
-perfect for blocking
-the glare of the sun.
+Fashionable hat with a wide brim,which is very efficient to block strong sunrays.
+You might get in trouble with this hat during the rainy days.
 Class: ^777777Headgear^000000
 Defense: ^7777771^000000
 Location: ^777777Upper^000000
 Weight: ^77777780^000000
-Jobs: ^777777All
-except Novice^000000
+Jobs: ^777777All except Novice^000000
 #
 5033#
 A hat created in the form of Smokie the Raccoon Monster.
@@ -26784,8 +26764,7 @@ Defense: ^7777776^000000
 Location: ^777777Upper^000000
 Weight: ^77777790^000000
 Required Level: ^77777750^000000
-Jobs: ^777777All
-except Novice^000000
+Jobs: ^777777All except Novice^000000
 #
 5034#
 A hair band with a light bulb attached to it.
@@ -26793,8 +26772,7 @@ Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^77777750^000000
-Jobs: ^777777All
-except Novice^000000
+Jobs: ^777777All except Novice^000000
 #
 5035#
 A hat created in the form of the Poring monster.
@@ -26803,8 +26781,7 @@ Defense: ^7777773^000000
 Location: ^777777Upper^000000
 Weight: ^77777770^000000
 Required Level: ^77777738^000000
-Jobs: ^777777All
-except Novice^000000
+Jobs: ^777777All except Novice^000000
 #
 5036#
 A hairband with a cross mounted on top.
@@ -26813,12 +26790,11 @@ Defense: ^7777772^000000
 Location: ^777777Upper^000000
 Weight: ^77777725^000000
 Required Level: ^77777710^000000
-Jobs: ^777777All
-except Novice^000000
+Jobs: ^777777All except Novice^000000
 #
 5037#
-A hat made out of half of a nut shell.
-Although it's solid and provides excellent defense, it is very delicate. Therefore it is may easily break when trying to refine this item.
+A hat made out of half of a nut shell. Although it's solid and provides excellent defense, it is very delicate.
+Therefore it is may easily break when trying to refine this item.
 Class: ^777777Headgear^000000
 Defense: ^7777778^000000
 Location: ^777777Upper^000000
@@ -26828,14 +26804,13 @@ Jobs: ^777777All^000000
 #
 5038#
 A hat created in the form of the Deviruchi monster.
-STR +1 , INT +1
+STR +1, INT +1
 Class: ^777777Headgear^000000
 Defense: ^7777774^000000
 Location: ^777777Upper^000000
 Weight: ^77777780^000000
 Required Level: ^77777764^000000
-Jobs: ^777777All
-except Novice^000000
+Jobs: ^777777All except Novice^000000
 #
 5039#
 A mysteriously colorful egg shell.
@@ -26902,14 +26877,13 @@ Defense: ^7777776^000000
 Location: ^777777Upper^000000
 Weight: ^77777750^000000
 Required Level: ^77777750^000000
-Jobs: ^777777Mage,
-Acolyte Classes, and Soul Linker^000000
+Jobs: ^777777Mage, Acolyte and Soul Linker^000000
 #
 5046#
 A hat worn by Bongun the monster. For some reason, there's an amulet which has been torn in half.
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
-Location: ^777777Upper/Mid/Lower^000000
+Location: ^777777Upper, Midde, Lower^000000
 Weight: ^77777730^000000
 Jobs: ^777777All^000000
 #
@@ -26970,7 +26944,7 @@ STR +2.
 Cannot be upgraded.
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
-Location: ^777777Upper/Lower^000000
+Location: ^777777Upper, Lower^000000
 Weight: ^777777300^000000
 Required Level: ^77777765^000000
 Jobs: ^777777Swordman^000000
@@ -27183,7 +27157,7 @@ Jobs: ^777777All
 except Novice^000000
 #
 5074#
-An ear accesory that looks just like white, beautiful angel wings.
+An ear accessory that looks just like white, beautiful angel wings.
 STR +1
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
@@ -27304,7 +27278,7 @@ A mask which resembles the face of an Alarm monster.
 +50% tolerance against Blind
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
-Location: ^777777Mid, Lower^000000
+Location: ^777777Middle, Lower^000000
 Weight: ^77777710^000000
 Required Level: ^777777NA^000000
 Jobs: ^777777All
@@ -27314,7 +27288,7 @@ except Novice^000000
 A mask with a blank expression on it.
 Class: ^777777Headgear^000000
 Defense: ^7777771^000000
-Location: ^777777Mid, Lower^000000
+Location: ^777777Middle, Lower^000000
 Weight: ^77777710^000000
 Required Level: ^777777NA^000000
 Jobs: ^777777All^000000
@@ -27323,7 +27297,7 @@ Jobs: ^777777All^000000
 A mask with a surprised expression on it.
 Class: ^777777Headgear^000000
 Defense: ^7777771^000000
-Location: ^777777Mid, Lower^000000
+Location: ^777777Middle, Lower^000000
 Weight: ^77777710^000000
 Required Level: ^777777NA^000000
 Jobs: ^777777All^000000
@@ -27332,7 +27306,7 @@ Jobs: ^777777All^000000
 A mask with an annoyed expression on it.
 Class: ^777777Headgear^000000
 Defense: ^7777771^000000
-Location: ^777777Mid, Lower^000000
+Location: ^777777Middle, Lower^000000
 Weight: ^77777710^000000
 Required Level: ^777777NA^000000
 Jobs: ^777777All^000000
@@ -27341,7 +27315,7 @@ Jobs: ^777777All^000000
 A mask worn by the Goblin leader. It looks so ferocious, it's ridiculous.
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
-Location: ^777777Mid, Lower^000000
+Location: ^777777Middle, Lower^000000
 Weight: ^77777710^000000
 Required Level: ^777777NA^000000
 Jobs: ^777777All^000000
@@ -27523,10 +27497,7 @@ Required Level: ^777777N/A^000000
 Jobs: ^777777All^000000
 #
 5107#
-A noble headgear
-created in the proud
-image of crunchy toast. Wearing it makes you
-feel just like a part of a balanced breakfast.
+A noble headgear created in the proud image of crunchy toast. Wearing it makes you feel just like a part of a balanced breakfast.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Lower^000000
@@ -28438,7 +28409,7 @@ A forboding helmet that hides part of the face. People wearing this have the app
 STR +2
 Class: ^777777Head Gear^000000
 Defense: ^7777773^000000
-Slot: ^777777Upper/Mid^000000
+Slot: ^777777Upper, Midde^000000
 Weight: ^77777750^000000
 Required Level: ^77777750^000000
 Jobs: ^777777Swordman/Merchant/Thief^000000
@@ -30025,7 +29996,7 @@ INT +1, MATK +3%
 Reduce Casting Time by 3%.
 Class: ^777777Head Gear^000000
 Defense: ^7777773^000000
-Slot: ^777777Upper/Mid^000000
+Slot: ^777777Upper, Midde^000000
 Weight: ^77777710^000000
 Jobs: ^777777All^000000
 #
@@ -30456,7 +30427,7 @@ the god of the sun.
 STR +3 , INT +2
 Class: ^777777Headgear^000000
 Defense: ^7777774^000000
-Location: ^777777Upper/Mid^000000
+Location: ^777777Upper, Midde^000000
 Weight: ^777777240^000000
 Jobs: ^7777772-1 and
 2-2 Classes^000000

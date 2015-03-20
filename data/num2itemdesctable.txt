@@ -13529,10 +13529,10 @@ If refined to +9 or higher, ATK +1 to all monster sizes
 If refined to +12 or higher, ASPD +1% decreases fixed cast time by 7%.
 #
 4859#
-Evasion1
+FLEE +1
 #
 4860#
-Evasion3
+FLEE +3
 #
 4861#
 MaxHP +1%.
