@@ -10495,8 +10495,8 @@ SKILL_INFO_LIST = {
 		}
 	},
 	[SKID.KO_KAHU_ENTEN] = {
-		"Fire Charm",
-		SkillName = "È­ºÎ : ¿°Ãµ",
+		"KO_KAHU_ENTEN",
+		SkillName = "Fire Charm",
 		MaxLv = 1,
 		SpAmount = { 20 },
 		bSeperateLv = false,
