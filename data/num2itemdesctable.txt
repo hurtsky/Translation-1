@@ -316,7 +316,7 @@ Fried and grinded Cacao that is solidified with Milk and cacao paste. Delicious 
 Weight: ^7777772^000000
 #
 559#
-A collection of chocolates that are gathered and arranged to make a beautiful item. This is often used in courtship, and sometimes even used effectively. ^ffffff_^000000
+A collection of chocolates that are gathered and arranged to make a beautiful item. This is often used in courtship, and sometimes even used effectively.
 ^ffffff_^000000
 Weight: ^7777778^000000
 #
@@ -902,7 +902,7 @@ A bag filled with gold coins.
 Weight: ^77777740^000000
 #
 671#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 A coin made of gold.
 When used, add 1 gold points to roulette games.
 If 10 gold points is used, Roulette will start at 3rd line.
@@ -925,7 +925,7 @@ A coin made of mythril.
 Weight: ^7777774^000000
 #
 675#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 A coin made of silver.
 When used, add 1 silver points to roulette games.
 If 10 silver points is used, Roulette will start at 5th line.
@@ -6088,7 +6088,7 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2549#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 ^000088Rental item^000000
 #
 2550#
@@ -8456,7 +8456,7 @@ Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4154#
-Add the chance of gaining 'Candy/Candy Cane' item each time a Demi Human monster is killed.
+Add the chance of gaining 'Candy/Candy Cane' item each time a Demihuman monster is killed.
 Candy and Candy Cane restore 50% more HP.
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
@@ -9430,8 +9430,8 @@ Slot: ^777777Shoes^000000
 Weight: ^7777771^000000
 #
 4245#
-Receive 10% more Experience Points from Demi Human monsters.
-Receive 20% more damage from Demi Human monsters.
+Receive 10% more Experience Points from Demihuman monsters.
+Receive 20% more damage from Demihuman monsters.
 Class: ^777777Card^000000
 Slot: ^777777Shoes^000000
 Weight: ^7777771^000000
@@ -9564,7 +9564,7 @@ Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4256#
-Add the chance of gaining 'Orc's Breath' item each time a Demi Human monster is killed.
+Add the chance of gaining 'Orc's Breath' item each time a Demihuman monster is killed.
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
@@ -10494,7 +10494,7 @@ Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4329#
-Gain 5 SP each time a Demi Human monster is killed by Physical Melee Attack.
+Gain 5 SP each time a Demihuman monster is killed by Physical Melee Attack.
 Drain 5 SP as the weapon is unequipped.
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
@@ -11341,7 +11341,7 @@ has a chance of adding
 a CRIT +100 bonus for
 5 seconds.
 Class: ^777777Card^000000
-Slot: ^777777Helm^000000
+Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4412#
@@ -11541,7 +11541,7 @@ Spirit monsters will
 drop Rough Oridecons
 or Rough Eluniums.
 Class: ^777777Card^000000
-Slot: ^777777Helm^000000
+Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4435#
@@ -11593,7 +11593,7 @@ Soul Strike, Napalm
 Beat, and Napalm
 Vulcan by 20%.
 Class: ^777777Card^000000
-Slot: ^777777Helm^000000
+Slot: ^777777Headgear^000000
 #
 4439#
 Increases tolerance
@@ -11915,7 +11915,7 @@ can use this without consumption for gemstone.
 SP consimption increase 50% if using skill.
 if refined lv is over 15, SP consumption increase 35% with using skill.
 Class: ^777777Card^000000
-Compound on : ^777777Headgear ^000000
+Compound on : ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4485#
@@ -12642,7 +12642,7 @@ Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4587#
-Add a Critical Rate +12 on Demi Human, Brute and Fish monsters.
+Add a Critical Rate +12 on Demihuman, Brute and Fish monsters.
 Class: ^777777Card^000000
 Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
@@ -13194,10 +13194,10 @@ FLEE +6.
 FLEE +12.
 #
 4764#
-CRI +5.
+CRIT +5.
 #
 4765#
-CRI +7.
+CRIT +7.
 #
 4766#
 ATK +2%.
@@ -13889,13 +13889,13 @@ Increases damage against medium size monsters by 1%.
 Increases damage against small size monsters by 1%.
 #
 4939#
-CRI +2
+CRIT +2
 #
 4940#
-CRI +4
+CRIT +4
 #
 4941#
-CRI +6
+CRIT +6
 #
 4942#
 Perfect Dodge +3
@@ -18111,7 +18111,7 @@ A beautiful wing fragment of a large insect. Gorgeous colors are displayed betwe
 Weight: ^7777771^000000
 #
 6327#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 The density and solidity has been heightened by repeated experiments from Rune Midgard's scholars. It seems that it becomes more difficult for weapon upgrade.
 When you fail while upgrading defense weapon whose upgrade level is over +10, it won't be destroyed.
 (When the upgrade fails, upgrade level gets -1)
@@ -18214,7 +18214,7 @@ Filled with loving variegated colors.
 Weight: ^7777770^000000
 #
 6347#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 Weight: ^7777770^000000
 #
 6348#
@@ -19352,12 +19352,12 @@ Collected hard branches of small trees.
 Weight: ^7777771^000000
 #
 6671#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 This coin, given to the participants of the Geffen Magic Competition, can be exchanged for prizes.
 Weight: ^7777770^000000
 #
 6672#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 This shard is sustained with Sakray's old, abandoned memories that have the ability to resist the Cursed Knight.
 Weight: ^7777770^000000
 #
@@ -20156,7 +20156,7 @@ It perfectly suits for bait
 Weight: ^7777771^000000
 #
 6906#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 It has been compressed for such a long time that the density and solidity is heightened. It seems that it becomes more difficult for Defense Weapon Upgrade.
 When you fail while upgrading defense weapon whose upgrade level is over +10, it won't be destroyed.
 (When the upgrade fails, upgrade level gets -1)
@@ -20206,17 +20206,17 @@ The Sheep spirit, one of 12 chinese zodiacs.
 Weight: ^7777770^000000
 #
 6913#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 A blessed Rosary. It can distiguish whether dead and alive. Disappears after event period.
 Weight: ^7777770^000000
 #
 6914#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 A dangerous soul which was captured while escaping from Niflheim. The only place to return is Niflheim, and it goes back to Niflheim after event is over.
 Weight: ^7777770^000000
 #
 6915#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 A freely wandering soul which was captured while escaping from Niflheim. The only place to return is Niflheim, and it goes back to Niflheim after event is over.
 Weight: ^7777770^000000
 #
@@ -20410,7 +20410,7 @@ MaxHP +1%.
 Weight: ^77777710^000000
 #
 6953#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 You can refine Article Controller Mantle Mall to +9.
 Find the NPC to discover the truth
 ^ffffff_^000000
@@ -23244,7 +23244,7 @@ Weight: ^7777771^000000
 An express ticket to
 Niflheim, the realm
 of the dead that is
-forbidden to the living. ^ffffff_^000000
+forbidden to the living.
 Weight: ^7777771^000000
 #
 7461#
@@ -24242,19 +24242,19 @@ It consists of a green background, a yellow center and a simple blue design.
 Weight: ^7777771^000000
 #
 7550#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 1st Brazilian Cup Ticket. Location: Brazil Olympic Stadium. Date: 13 June 4 P.M.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 7551#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 1st Brazilian Cup Ticket. Location: Brazil Olympic Stadium. Date: 18 June 1 P.M.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 7552#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 1st Brazilian Cup Ticket. Location: Brazil Olympic Stadium. Date: 22 June 4 P.M.
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -24265,7 +24265,7 @@ A delicate flower found in the depths of Brasilis.
 Weight: ^7777770^000000
 #
 7554#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 A red and white striped candle.
 ^ffffff_^000000
 #
@@ -26625,15 +26625,15 @@ Class: ^777777Monster Egg^000000
 9026#
 An egg in which a Zealotus Cute Pet rests.
 Can be hatched by using a ^33CC33Pet Incubator^000000.
-If pet intimacy is is Cordial, increase physical and magical damage against demi-human by 2%.
-If pet intimacy is is Loyal, increase physical and magical damage against demi-human by 3%.
+If pet intimacy is is Cordial, increase physical and magical damage against Demihuman by 2%.
+If pet intimacy is is Loyal, increase physical and magical damage against Demihuman by 3%.
 Class: ^777777Monster Egg^000000
 #
 9027#
 An egg in which a Alice Cute Pet rests.
 Can be hatched by using a ^33CC33Pet Incubator^000000.
-If pet intimacy is is Cordial, MDEF +1, reduce damage recived from demi-human by 1%.
-If pet intimacy is is Loyal, MDEF +2, reduce damage recived from demi-human by 2%.
+If pet intimacy is is Cordial, MDEF +1, reduce damage recived from Demihuman by 1%.
+If pet intimacy is is Loyal, MDEF +2, reduce damage recived from Demihuman by 2%.
 Class: ^777777Monster Egg^000000
 #
 9028#
@@ -26653,8 +26653,8 @@ Class: ^777777Monster Egg^000000
 9030#
 An egg in which a Green Maiden Cute Pet rests.
 Can be hatched by using a ^33CC33Pet Incubator^000000.
-If pet intimacy is is Cordial, DEF +1, reduce damage received from demi-human by 1%.
-If pet intimacy is is Loyal, DEF +2, reduce damage received from demi-human by 2%.
+If pet intimacy is is Cordial, DEF +1, reduce damage received from Demihuman by 1%.
+If pet intimacy is is Loyal, DEF +2, reduce damage received from Demihuman by 2%.
 Class: ^777777Monster Egg^000000
 #
 9031#
@@ -26733,8 +26733,8 @@ Class: ^777777Monster Egg^000000
 9046#
 An egg in which a Goblin Leader Cute Pet rests.
 Can be hatched by using a ^33CC33Pet Incubator^000000.
-If pet intimacy is is Cordial, Increases damage to Demi human monsters by 3%.
-If pet intimacy is is Loyal, Increases damage to Demi human monsters by 5%.
+If pet intimacy is is Cordial, Increases damage to Demihuman monsters by 3%.
+If pet intimacy is is Loyal, Increases damage to Demihuman monsters by 5%.
 Class: ^777777Monster Egg^000000
 #
 9047#
@@ -27034,7 +27034,7 @@ Weight: ^7777771^000000
 11004#
 A worn-out, dusty, and
 badly damaged book
-that's missing its cover. ^ffffff_^000000
+that's missing its cover.
 Weight: ^7777771^000000
 #
 11005#
@@ -28711,7 +28711,7 @@ Weight: ^7777777^000000
 A bag, stuffed with
 various snacks, that
 generally coveted by
-those with a sweet tooth. ^ffffff_^000000
+those with a sweet tooth.
 Weight: ^7777777^000000
 #
 12131#
@@ -31199,7 +31199,7 @@ All Stats +2 for 5 minute.
 Weight: ^77777710^000000
 #
 12600#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 You can summon a hideout treasure chest.
 (Can only be used inside City, Village and Quest type map)
 Please note: Use when there are no other character around.
@@ -31245,7 +31245,7 @@ An old and dirty box. When you lift it there are sound of some ores inside it.
 Weight: ^77777710^000000
 #
 12610#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 Mysterious small egg. It's showing color between its crack. Look like it's a single-layer egg.
 Weight: ^7777771^000000
 #
@@ -31309,7 +31309,7 @@ Recover 3% of HP and SP.
 Weight: ^7777775^000000
 #
 12625#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 Bag full of Sapha's Merit
 Weight: ^7777770^000000
 #
@@ -31373,7 +31373,7 @@ Packed neatedly
 Weight: ^77777750^000000
 #
 12641#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 A package with a devil shape, open it will may obtain unexpected surprise!
 Weight: ^7777771^000000
 #
@@ -32018,26 +32018,26 @@ Cures effect of ^000088Stone, Dark, Curse, Poison, Decrease Agility, Reverse Orc
 Weight: ^7777771^000000
 #
 12816#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 An old and dirty box. There are sounds of some ores inside it.
 It's possible to get Old Card Album from it.
 Required Level: ^77777760^0000.
 Weight: ^7777770^0000
 #
 12817#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 An album that contain random card.
 Required Level: ^77777780^0000.
 Weight: ^7777770^0000
 #
 12818#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 A box contain variety of advanced equipments.
 Required Level: ^777777100^0000.
 Weight: ^7777770^0000
 #
 12819#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 A box contain Zherlthsh Exchange Ticket.
 Required Level: ^777777150^0000.
 Weight: ^7777770^0000
@@ -32088,13 +32088,13 @@ You know this day is going to be epic! *wink wink* - Geheimnis
 Weight: ^77777720^000000
 #
 12830#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 A box contain: 50 Dead Branches and 2 Bloody Death Branch.
 ^FF0000Caution!!! if you exceed the weight limit, all items may be lost.^000000
 Weight: ^7777775^000000
 #
 12831#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 A box contain: 100 Red slim potions, 100 Yellow slim potions, 100 White slim potions and 100 Blue potions.
 ^FF0000Caution!!! if you exceed the weight limit, all items may be lost.^000000
 Weight: ^7777775^000000
@@ -32220,7 +32220,7 @@ Weight: ^7777770^000000
 12883#
 #
 12884#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 ^000088Rental item^000000
 Potion that helps to increase the character's agility for a certain period of time. It also increases that attack speed of characters.
 Can be used by all professions.
@@ -32229,7 +32229,7 @@ Can be used by all professions.
 Weight: ^7777770^000000
 #
 12885#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 ^000088Rental item^000000
 Potion that possesses the effect of awakening. It is a mysterious medicine that helps to increase the character's attack speed.
 Can only be used by characters over Lv 40. Acolyte, Priest, Bard and Dancer can't use it.
@@ -32238,7 +32238,7 @@ Can only be used by characters over Lv 40. Acolyte, Priest, Bard and Dancer can'
 Weight: ^7777770^000000
 #
 12886#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 ^000088Rental item^000000
 A very special potion that enrages the character and turns him into a berserker and increases the character's attack speed.
 Can only be used by characters over Lv 85. Only characters with the profession of Swordman Class, Merchant Class, Rogue, Magician and Wizard Class can use it.
@@ -32247,7 +32247,7 @@ Can only be used by characters over Lv 85. Only characters with the profession o
 Weight: ^7777770^000000
 #
 12887#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 ^000088Rental item^000000
 The wings cut from fly to be made into enchanted item.
 ^0033ccEnables character to move to random spot on map.^000000
@@ -32652,7 +32652,7 @@ Soul Linker Job^000000
 12940#
 A box that contains
 1 Kaiser Knuckle.
-Please handle with care. ^ffffff_^000000
+Please handle with care.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -32757,9 +32757,9 @@ a friend's head from
 a great distance.
 DEX +4
 This item cannot be Dropped or Traded.
-Class: ^777777Helmet^000000
+Class: ^777777Headgear^000000
 Defense: ^7777777^000000
-Head Position: ^777777Upper^000000
+Location: ^777777Upper^000000
 Weight: ^7777771^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All Except Novice^000000
@@ -32778,9 +32778,9 @@ Reduces damage from
 Demihuman monsters
 by 10%. MDEF +5
 This item cannot be Dropped or Traded.
-Class: ^777777Helmet^000000
+Class: ^777777Headgear^000000
 Defense: ^7777779^000000
-Head Position: ^777777Upper^000000
+Location: ^777777Upper^000000
 Weight: ^7777771^000000
 Jobs: ^777777All^000000
 #
@@ -32810,9 +32810,9 @@ For some, it is an
 incredible turn-on.
 INT +1
 This item cannot be Dropped or Traded.
-Class: ^777777Helmet^000000
+Class: ^777777Headgear^000000
 Defense: ^7777772^000000
-Head Position: ^777777Middle^000000
+Location: ^777777Middle^000000
 Weight: ^7777771^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All Except Novice^000000
@@ -32827,9 +32827,9 @@ of steel. Has a low
 chance to cast Lvl 1
 Recovery when its wearer receives physical damage.
 This item cannot be Dropped or Traded.
-Class: ^777777Helmet^000000
+Class: ^777777Headgear^000000
 Defense: ^7777771^000000
-Head Position: ^777777Lower^000000
+Location: ^777777Lower^000000
 Weight: ^7777770^000000
 Jobs: ^777777All Except Novice^000000
 #
@@ -34080,37 +34080,37 @@ Property: ^777777Neutral^000000
 Armor piercing ammunition created on request.
 Class: ^777777Bullet^000000 Attack : ^77777750^000000
 Weight: ^7777770.2^000000 Property : ^777777Neutral^000000
-Require Level : ^777777100^000000
+Required Level : ^777777100^000000
 #
 13216#
 Ammunition custom that containing an aura of fire.
 Class: ^777777Bullet^000000 Attack : ^77777740^000000
 Weight: ^7777770.2^000000 Property : ^FF0000Fire^000000
-Require Level : ^777777100^000000
+Required Level : ^777777100^000000
 #
 13217#
 Ammunition custom that containing an aura of ice.
 Class: ^777777Bullet^000000 Attack : ^77777740^000000
 Weight: ^7777770.2^000000 Property : ^0000FFWater^000000
-Require Level : ^777777100^000000
+Required Level : ^777777100^000000
 #
 13218#
 Ammunition custom that containing an aura of lightning.
 Class: ^777777Bullet^000000 Attack : ^77777740^000000
 Weight: ^7777770.2^000000 Property : ^009900Wind^000000
-Require Level : ^777777100^000000
+Required Level : ^777777100^000000
 #
 13219#
 Ammunition custom that containing an aura of earth.
 Class: ^777777Bullet^000000 Attack : ^77777740^000000
 Weight: ^7777770.2^000000 Property : ^996600Earth^000000
-Require Level : ^777777100^000000
+Required Level : ^777777100^000000
 #
 13220#
 Silver ammunition custom, ownership of purifying as holy water
 Class: ^777777Bullet^000000 Attack : ^77777740^000000
 Weight: ^7777770.2^000000 Property : ^777777Holy^000000
-Require Level : ^777777100^000000
+Required Level : ^777777100^000000
 #
 13221#
 Silver Bullets with divine attributes.
@@ -34781,7 +34781,7 @@ A box that contains:
 ^6A5ACD1 Baphomet Horns^000000
 Duration: 7 Days after opening.
 A headgear made from the horns of Baphomet.
-Inflicts 12% more damage to Demi-Humans.
+Inflicts 12% more damage to Demihumans.
 Increases a certain amount of ATK based on the wearer's Job Lvl.
 This item cannot be Dropped or Traded.
 Class: ^777777Headgear^000000
@@ -35083,19 +35083,19 @@ Weight: ^7777771^000000
 13532#
 A box containing
 50 Slim Orange Potions. Double click this item
-to access its contents. ^FFFFFF_^000000
+to access its contents.
 Weight: ^7777771^000000
 #
 13533#
 A box containing
 50 Slim Yellow Potions. Double click this item
-to access its contents. ^FFFFFF_^000000
+to access its contents.
 Weight: ^7777771^000000
 #
 13534#
 A box containing
 50 Slim White Potions. Double click this item
-to access its contents. ^FFFFFF_^000000
+to access its contents.
 Weight: ^7777771^000000
 #
 13535#
@@ -38092,9 +38092,9 @@ of automatically
 casting Lv.1 Endow
 Tsunami with each
 physical attack.
-Class: ^777777Helmet^000000
+Class: ^777777Headgear^000000
 Defense: ^7777771^000000
-Head Position: ^777777Upper^000000
+Location: ^777777Upper^000000
 Weight: ^77777740^000000
 Jobs: ^777777All^000000
 ^ffffff_^000000
@@ -38114,9 +38114,9 @@ property attacks from
 enemies by 3%.
 MDEF +2. Cannot
 be upgraded.
-Class: ^777777Helmet^000000
+Class: ^777777Headgear^000000
 Defense: ^7777772^000000
-Head Position: ^777777Upper^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Jobs: ^777777All^000000
 ^ffffff_^000000
@@ -38129,8 +38129,8 @@ ribbon adorned with
 jingling bells.
 Enables use of
 Lv.1 Angelus. VIT +1.
-Class: ^777777Helmet^000000		Defense: ^7777773^000000
-Head Position: ^777777Upper^000000		Weight: ^77777720^000000
+Class: ^777777Headgear^000000		Defense: ^7777773^000000
+Location: ^777777Upper^000000		Weight: ^77777720^000000
 Jobs: ^777777All^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -38246,7 +38246,7 @@ Weight: ^7777771^000000
 13919#
 A box containing 1 'Baphomet Horns' in it.
 A headgear made from the horns of Baphomet.
-Inflicts 12% more damage to Demi-Humans.
+Inflicts 12% more damage to Demihumans.
 Increases a certain amount of ATK based on the wearer's Job Lvl.
 Class: ^777777Headgear^000000		Defense: ^7777775^000000
 Location: ^777777Upper^000000		Weight: ^77777780^000000
@@ -38269,7 +38269,7 @@ Weight: ^7777771^000000
 13921#
 A box containing 1 'Gentleman's Pipe' in it.
 A long smoking pipe used by gentlemen and nobility.
-Reduce Damage from Demi-Humans by 2%.
+Reduce Damage from Demihumans by 2%.
 Class: ^777777Headgear^000000		Defense: ^7777770^000000
 Location: ^777777Lower^000000		Weight: ^77777710^000000
 Jobs: ^777777All^000000
@@ -38293,7 +38293,7 @@ A box containing 1 'Dark Randgris Helm' in it.
 A helm laced with the power of Valkyrie Randgris. It helps its wearer to concentrate better.
 DEX +3, MDEF +1
 Class: ^777777Headgear^000000		Defense: ^7777772^000000
-Location: ^777777Upper-Mid^000000		Weight: ^77777730^000000
+Location: ^777777Upper, Middle^000000		Weight: ^77777730^000000
 Jobs: ^777777All^000000
 ^ff0000For this item, the cancellation of purchase of refund is now allowed.^000000
 ^ffffff_^000000
@@ -38305,7 +38305,7 @@ A true Orc Hero's headgear. It's so big and heavy that it might hurt your neck.
 STR +2. Slot [1]
 Autocasts Lv3 Weapon Perfection on each attack.
 Class: ^777777Headgear^000000		Defense: ^7777775^000000
-Location: ^777777Upper-Mid^000000		Weight: ^77777790^000000
+Location: ^777777Upper, Middle^000000		Weight: ^77777790^000000
 Jobs: ^777777All^000000
 ^ff0000For this item, the cancellation of purchase of refund is now allowed.^000000
 ^ffffff_^000000
@@ -38647,7 +38647,7 @@ Weight: ^7777771^000000
 #
 13962#
 Contains 1 Defolty Doll Hat, which is non-tradeable.
-Decreases 5% damage from demi-humans. Autocasts Lvl 10 Angelus when physically attacked by melee.
+Decreases 5% damage from Demihumans. Autocasts Lvl 10 Angelus when physically attacked by melee.
 Can't be upgraded, Def 0.
 Lvl 60 requirement. Jobs: All
 This Box can be traded.
@@ -38656,7 +38656,7 @@ Weight: ^7777771^000000
 #
 13963#
 Contains 1 Glaris Doll Hat, which is non-tradeable.
-Decreases 5% damage from demi-humans. Recovers 50 HP when a monster is killed magical attack.
+Decreases 5% damage from Demihumans. Recovers 50 HP when a monster is killed magical attack.
 Can't be upgraded, Def 0.
 Lvl 60 requirement. Jobs: All
 This Box can be traded.
@@ -39254,10 +39254,10 @@ Weight: ^7777771^000000
 14039#
 A box that contains 1 Hockey Mask available for a week.
 ^ffffff_^000000
-If you put on this mask, you feel that you should pick up a weapon. Increase damages infilcted on demi human monsters by 5%.
+If you put on this mask, you feel that you should pick up a weapon. Increase damages infilcted on Demihuman monsters by 5%.
 Class: ^777777Headgear^000000
 Defense: ^7777771^000000
-Head Position: ^777777Mid-Low^000000		Weight: ^77777710^000000
+Location: ^777777Mid-Low^000000		Weight: ^77777710^000000
 Required level: ^77777750^000000
 Jobs: ^777777All^000000
 ^ff0000Cancellation of purchase or refund for this item is not available.^000000
@@ -41408,7 +41408,7 @@ Decrease 10% resistence against ^0000BBWater^000000 property attacks.
 Enables use of Lv.1 Sight.
 Autospell Meteor Storm Lv.3 by a certain chance when receiving physical attack.
 Autospell Fire Bolt Lv.3 by a certain chance when dealing physical damage.
-Unable to refine.
+Unrefineable.
 Class: ^777777Headgear^000000
 Defense: ^7777778^000000
 Location: ^777777Upper,Mid,Lower^000000		Weight: ^7777770^000000
@@ -42631,7 +42631,7 @@ A box that contains an Aquarius Diadem Headgear.
 ^ffffff_^000000
 #
 14496#
-A box that contains an Aquarius Crown Headgaer.
+A box that contains an Aquarius Crown Headgear.
 ^ffffff_^000000
 #
 14497#
@@ -43650,13 +43650,13 @@ Weight: ^7777771^000000
 14739#
 ^ff0000This item is impossible to deal with another account.^000000
 Edition limited sealed general egnigem cenia Scroll.
-sealed general egnigem cenia card, Safe to 9 Weapon Certificate, Safe to 9 Armor Certificate, Demi-Human Shadow Weapon, Costume: Hunting Cap Of Gust, Gold and other rare items, only can get one of the items.
+sealed general egnigem cenia card, Safe to 9 Weapon Certificate, Safe to 9 Armor Certificate, Demihuman Shadow Weapon, Costume: Hunting Cap Of Gust, Gold and other rare items, only can get one of the items.
 Weight: ^7777771^000000
 #
 14740#
 ^ff0000This item is impossible to deal with another account.^000000
 Edition limited sealed vesper Scroll.
-sealed vesper card, Safe to 9 Weapon Certificate, Safe to 9 Armor Certificate, Tempest Shadow Earring, Tempest Shadow Pendant, Magic Demi-Human Shadow Weapon, Costume: Knit Cap Of Water,Infinite Giant Fly Wing Box and other rare items, only can get one of the items.
+sealed vesper card, Safe to 9 Weapon Certificate, Safe to 9 Armor Certificate, Tempest Shadow Earring, Tempest Shadow Pendant, Magic Demihuman Shadow Weapon, Costume: Knit Cap Of Water,Infinite Giant Fly Wing Box and other rare items, only can get one of the items.
 Weight: ^7777771^000000
 #
 14766#
@@ -44624,7 +44624,7 @@ A hat depicting a sleeping baby dragon.
 It has the ability to grant it's wearer 20% more Base experience for each dragon type monster killed.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
-Head Position: ^777777Upper^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level	: ^7777770^000000
 Jobs: ^777777All^000000
@@ -45867,7 +45867,7 @@ Increases the recovery rate of 'Meat' by 25%.
 Has a chance of dropping 'Meat' when defeating monsters.
 Class: ^777777Headgear^000000
 Defense: ^7777771^000000
-Location: ^777777Lower ^000000
+Location: ^777777Lower^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -46072,7 +46072,7 @@ LUK +1.
 When receiving any physical attack, Autospell Coldbolt Lv5 will be activated at a low rate.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
-Location: ^777777Mid ^000000
+Location: ^777777Middle^000000
 Weight: ^77777710^000000
 Required Level: ^77777710^000000
 Jobs: ^777777All^000000
@@ -46320,7 +46320,7 @@ If refined to 9, has a chance of autocasting Lv 5 Frost Nova.
 If refined to 10, ASPD +2%. (Attack after delay 2&), ATK +5.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
-Head Position: ^777777Upper^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -46335,7 +46335,7 @@ DEX +1, Atk	+5.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
 Slot: ^7777771^000000
-Head Position: ^777777Upper^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -46352,7 +46352,7 @@ If refined to 9, has a chance of autocasting Lv 5 Frost Nova.
 If refined to 10, ASPD +2%. (Attack after delay 2&), ATK +5.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
-Head Position: ^777777Upper^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -46367,7 +46367,7 @@ DEX +1, Atk	+5.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
 Slot: ^7777771^000000
-Head Position: ^777777Upper^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -46443,7 +46443,7 @@ If refined to 9, aditional increase Atk and Matk by 2%.
 Slot: ^7777771^000000
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
-Head Position: ^777777Upper^000000
+Location: ^777777Upper^000000
 Weight: ^77777760^000000
 Required level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -46461,7 +46461,7 @@ If refined to 9, aditional increase Atk and Matk by 2%.
 Slot: ^7777771^000000
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
-Head Position: ^777777Upper^000000
+Location: ^777777Upper^000000
 Weight: ^77777760^000000
 Required level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -46613,7 +46613,7 @@ Increases resistance to ^0000BBWater^000000 property by 7%.
 When killing monsters, has a low chance of dropping Buche De Noel or Candy Canes.
 When dealing physical or magical damage, has a low chance of activating Lv 1 Frost Joker.
 If refined to	8, activates Lv 5 Frost Joker.
-Class: ^777777Helmet^000000
+Class: ^777777Headgear^000000
 Defense: ^7777774^000000
 Location: ^777777Upper^000000
 Weight: ^77777730^000000
@@ -46630,7 +46630,7 @@ Increases resistance to ^0000BBWater^000000 property by 7%.
 When killing monsters, has a low chance of dropping Buche De Noel or Candy Canes.
 When dealing physical or magical damage, has a low chance of activating Lv 1 Frost Joker.
 If refined to	8, activates Lv 5 Frost Joker.
-Class: ^777777Helmet^000000
+Class: ^777777Headgear^000000
 Defense: ^7777774^000000
 Location: ^777777Upper^000000
 Weight: ^77777730^000000
@@ -46671,7 +46671,7 @@ Even elves are very cool creatures. So naturally they wear sunglasses.
 Increases resistance to Blind status by 5%.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
-Head Position: ^777777Middle^000000
+Location: ^777777Middle^000000
 Weight: ^77777720^000000
 Jobs: ^777777All^000000
 ^ffffff_^000000
@@ -46737,8 +46737,8 @@ Weight: ^77777710^000000
 16575#
 A box contains 1 2011 Pagdayaw in it.
 ^ffffff_^000000
-An headgear which is made of many kinds of property rings. It looks very luxurious and charming. Reduce all damage from Demi-humans by 10%, 
-Reduce damage from Water, Fire, Wind by 5%, Reduce damage from Ghost property monsters by 10%, Increase damage against Ghost property Demi-humans by 50%.
+An headgear which is made of many kinds of property rings. It looks very luxurious and charming. Reduce all damage from Demihumans by 10%, 
+Reduce damage from Water, Fire, Wind by 5%, Reduce damage from Ghost property monsters by 10%, Increase damage against Ghost property Demihumans by 50%.
 30 days Rental Item.
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
@@ -47226,7 +47226,7 @@ Weight: ^7777771^000000
 a box that has cutlassfish (1 hour rental)
 ^000088rental item^000000
 A frozen fish used as a sword.
-CRI +20, critical damage	50% increase
+CRIT +20, critical damage	50% increase
 when Attacking, it gives the freeze status at regular rate to enemy.
 when Base	LV over 100 , ATK +50 .
 Class: ^777777Both HandsSword^000000
@@ -47242,7 +47242,7 @@ Weight: ^7777771^000000
 a box that has cutlassfish ( 7 day rental)
 ^000088rental item^000000
 A frozen fish used as a sword.
-CRI +20, critical damage	50% increase
+CRIT +20, critical damage	50% increase
 when Attacking, it gives the freeze status at regular rate to enemy.
 when Base	LV over 100 , ATK +50 .
 Class: ^777777Both HandsSword^000000
@@ -48485,7 +48485,7 @@ Weight: ^7777771^000000
 A box containing one Black Devil's Mask
 This is very cute beret with cat ears! You will feel like a cat yourself.
 ATK +5%.
-When the refine level gets +5 or higher, per refine level, increases 1% of Physical damage on Demi-human monsters, and reduces 1% of physical damage from Demi-human monsters.
+When the refine level gets +5 or higher, per refine level, increases 1% of Physical damage on Demihuman monsters, and reduces 1% of physical damage from Demihuman monsters.
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
 Location: ^777777Upper^000000
@@ -48500,7 +48500,7 @@ Weight: ^7777771^000000
 A box containing one Black Devil's Mask
 A lovely red hat for lovely girls.
 MATK +5%, MDEF +5.
-When the refine level gets +5 or higher, per refine level, increases 1% of Magical damage on Demi-human monsters, and reduces 1% of magical damage from Demi-human monsters..
+When the refine level gets +5 or higher, per refine level, increases 1% of Magical damage on Demihuman monsters, and reduces 1% of magical damage from Demihuman monsters..
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
@@ -48572,7 +48572,7 @@ Class: ^777777Huuma Shuriken^000000
 Attack: ^77777755^000000
 Weight: ^777777150^000000
 Weapon lvl: ^7777773^000000
-Require Level: ^7777771^000000
+Required Level: ^7777771^000000
 Jobs: ^777777Ninja^000000
 ^ffffff_^000000
 ^ff0000This item will be excluded from refunds once opened.^000000
@@ -48762,7 +48762,7 @@ Weight: 1
 17245#
 #
 17246#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 Box containing 30 HD Elunium.
 Used as a material to strengthen armor currently from refine levels 7 through 9.
 This item's density ensures that refine attempts will not break the armor and if the attempt fails it will only downgrade by 1.
@@ -48770,7 +48770,7 @@ This item's density ensures that refine attempts will not break the armor and if
 Weight: ^7777771^000000
 #
 17247#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 Box containing 30 HD Oridecon.
 Used as a material to strengthen weapon currently from refine levels 7 through 9.
 This item's density ensures that refine attempts will not break the armor and if the attempt fails it will only downgrade by 1.
@@ -48827,10 +48827,10 @@ For 30 Minutes,Increases Resistance to Physical And Magical Attack by 3%
 Weight: ^7777771^000000
 #
 17263#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 Contain 1 three days Infinite Concentration Potion
 ^ffffff_^000000
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 ^000088Rental item^000000
 Potion that helps to increase the character's agility for a certain period of time. It also increases that attack speed of characters.
 Can be used by all professions.
@@ -48842,10 +48842,10 @@ Weight: ^7777770^000000
 Weight: ^7777771^000000
 #
 17264#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 Contain 1 three days Infinite Awakening Potion
 ^ffffff_^000000
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 ^000088Rental item^000000
 Potion that possesses the effect of awakening. It is a mysterious medicine that helps to increase the character's attack speed.
 Can only be used by characters over Lv 40. Acolyte, Priest, Bard and Dancer can't use it.
@@ -48857,10 +48857,10 @@ Weight: ^7777770^000000
 Weight: ^7777771^000000
 #
 17265#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 Contain 1 three days Infinite Berserk Potion
 ^ffffff_^000000
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 ^000088Rental item^000000
 A very special potion that enrages the character and turns him into a berserker and increases the character's attack speed.
 Can only be used by characters over Lv 85. Only characters with the profession of Swordman Class, Merchant Class, Rogue, Magician and Wizard Class can use it.
@@ -49112,14 +49112,14 @@ Weight: ^7777771^000000
 ^ff0000This item is account bound.^000000
 A box contains 10 Almighty, Sealed Kiel-D-01 Scroll that contains one.
 The ultimate dish that contain all the various delicate ingredients.
-During 30 Minutes All State +10, ATK +30, MATK +30.
+During 30 Minutes All stats +10, ATK +30, MATK +30.
 Weight: ^7777771^000000
 #
 17332#
 ^ff0000This item is account bound.^000000
 A box contains 100 Almighty, Sealed Kiel-D-01 Scroll that contains eleven.
 The ultimate dish that contain all the various delicate ingredients.
-During 30 Minutes All State +10, ATK +30, MATK +30.
+During 30 Minutes All stats +10, ATK +30, MATK +30.
 Weight: ^7777771^000000
 #
 17333#
@@ -49386,7 +49386,7 @@ A ripe silvervine fruit. It tastes awful for humans, but it's a highly valued de
 Weight: ^7777771^000000
 #
 17521#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 The flatter dream life, the legendary master of the three! What it says on the box.
 A box contains 20 Small Life Potions, 20 Large Life Potions, 20 Mysterious Water of Life are incluided.
 In addition you get a 1 sealed dracula scroll II.
@@ -49394,7 +49394,7 @@ In addition you get a 1 sealed dracula scroll II.
 Weight: ^7777771^000000
 #
 17522#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 The flatter dream life, the legendary master of the three! What it says on the box.
 A box contains 200 Small Life Potions, 200 Large Life Potions, 200 Mysterious Water of Life are incluided.
 In addition you get a 11 sealed dracula scroll II.
@@ -49458,7 +49458,7 @@ Reset all status back to 1.
 Weight: ^7777771^000000
 #
 17549#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 Contain 30 (Limited) High Density Bradium
 Weight: ^7777771^000000
 The density and solidity has been heightened by repeated experiments from Rune Midgard's scholars. It seems that it becomes more difficult for weapon upgrade.
@@ -49469,7 +49469,7 @@ Weight: ^7777771^000000
 ^FF0000Not refundable once opened^000000
 #
 17550#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 Contain 30 (Limited) High Density Cranium
 Weight: ^7777771^000000
 It has been compressed for such a long time that the density and solidity is heightened. It seems that it becomes more difficult for Defense Weapon Upgrade.
@@ -51748,7 +51748,7 @@ and has low chance of
 casting Sleep on
 its wearer.
 STR +1.
-Cannot be upgraded.
+Unrefineable.
 Cannot be Dropped,
 or Tradable
 Can be placed in Kafra Storage
@@ -51858,7 +51858,7 @@ is especially scarce.
 There's nothing like
 a good bowl of ramen.
 Nothing. DEX +4.
-Cannot be upgraded.
+Unrefineable.
 Has a chance to
 auto-cast Lv.1 DEX -
 Decrease each
@@ -54675,33 +54675,13 @@ Luxury is worth that you pay at the time of purchase and consumption when HP 5% 
 Weight: ^7777771^000000
 #
 22558#
+The item that contain various celebration item for festival.
+Weight: ^7777771^000000
 #
 22559#
-#
-22564#
-E'tu Randgris?
-March to your destiny strengthened by the contents of this box.
-Randomly gives one of the following:
-1 Heroic Back Pack
-1 Four Leaf Clover in Mouth
-400 KVM Badges
-1 Holy Marching Hat
-1 +20 Basic Food Pack
-1 Rideword Hat
-1 Costume: Wickibaine's Cat Ears
-4 Safe to 7 Armor Certificates
-10 Mental Potions
-1 Heroic Desocketing Book
-1 Evil Marching Hat
-Will also give one of the following Randomly
-10 Lv. 10 Spear Mercenary Scrolls
-10 Lv. 10 Sword Mercenary Scrolls
-10 Lv. 10 Bow Mercenary Scrolls
-1 Party Buff Scroll Pack
-2 Battle Manual X3
-Weight: ^7777770^000000
-#
-22565#
+The common wild berry in the field.
+After used, recover HP & SP by 50%, enable [Endure] Lv3.
+Weight: ^77777710^000000
 #
 22566#
 The beginning of the frost.Was insoluble ever since the world began.
@@ -54754,22 +54734,6 @@ Weight: ^77777710^000000
 22605#
 Jam had spoken by mixing milk, flour, honey and other ingredients into bread. Looks flat and square-shaped hard and the upper surface of the outside is decorated with brown.
 Increase attack speed and movement speed for a certain period of time.
-Weight: ^7777771^000000
-#
-22606#
-^0000CC May Grove Pack^000000, opening this up and get your prize! This item cannot be traded, but can be saved and opened at your leisure!
-^ff0000This box is account bound.^000000
-Description:
-Contains 1 Safe to 7 Change Box and
-Contains one of the following:
-^0000FFBloody Dead Branch x 2^000000
-^0000FFSloting Coupon^000000
-^0000FFHE Battle Manual x 2^000000
-^0000FFKVM Badge x 100^000000
-^0000FFCrown of Deceit^000000
-^0000FFTaurus Crown^000000
-^0000FFTaurus Diadem^000000
-^ffffff_^000000
 Weight: ^7777771^000000
 #
 22607#
@@ -54838,12 +54802,12 @@ A box contains 1 Support Beginners box, Guardian of Time Box, Level up box, the 
 Weight: ^7777771^000000
 #
 22626#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 (Rental Item) A Box that contains a Sigruns Wing, when you open this box the item only available during 7 days.
 Weight: ^77777710^000000
 #
 22627#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 A box that contains a 2 taming gift set.
 Weight: ^77777710^000000
 #
@@ -54896,22 +54860,22 @@ If you break this scroll you suddenly run out of air and your heart will become 
 Weight: ^7777770^000000
 #
 22671#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 A box that contains a 2 lucky eggs.
 Weight: ^77777710^000000
 #
 22672#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 A box that contains a Meginjard(Trial Version), Asprika (Trial Version), Brisingamen (Trial Version), Brynhild (Trial Version), when you open this box the item only available during 14 days.
 Weight: ^77777710^000000
 #
 22673#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 A box that contains a 2 Gift Buff Set.
 Weight: ^77777710^000000
 #
 22674#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 A box that contains a potion box.
 Weight: ^77777710^000000
 #
@@ -54995,7 +54959,7 @@ Sealed moonlight flower card, Safe to 9 Weapon Certificate, Safe to 9 Armor Cert
 Weight: ^7777771^000000
 #
 22736#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 A box that contains a costume: loki & nidhoggur's hat.
 Weight: ^77777710^000000
 #
@@ -55095,7 +55059,7 @@ When you transform increase MATK +50.
 Weight: ^7777771^000000
 #
 22756#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 A box that contains a magic card album.
 Weight: ^77777710^000000
 #
@@ -55180,7 +55144,7 @@ Can be use to store item in warehouse of cat hand service.
 Weight: ^7777771^000000
 #
 22837#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 Reward you get for all the adventurers in their suffered and ferocious battles. When consumed you get five bronze coins.
 Weight: ^7777770^000000
 Required Level: ^77777750^000000
@@ -55190,7 +55154,7 @@ A basket for Halloween candies. When opened, various goodies and old stuffs will
 Weight: ^7777771^000000
 #
 22842#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 Limited edition Sealed Dracula Scroll
 Contains one of:
 Safe to 9 Weapon Certificate, Safe to 9 Armor Certificate, Enhanced Force Shadow Weapon, Enhanced Soul Shadow Weapon, Infinite Giant Fly Wing Box 5, Enchant letter, and other rare items.
@@ -55205,18 +55169,18 @@ When player level up, status windows will not be updated.
 Weight: ^7777771^000000
 #
 22844#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 You can get Sealed Dracula card from this album. Its unknown which card will you get.
 Weight: ^7777775^000000
 #
 22845#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 Contain one 'Sealed' card of:
 Dark Lord , Stormy Knight, beelzebub, Kielh D-01, Gloom Under Night, Fallen Bishop, Ifrit, Turtle General, White Lady, Pharaon, Moonlight Flower, General Egnigem Cenia, Vesper, Dracula
 Weight: ^7777771^000000
 #
 22846#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 The power of Dracula seems to be felt for some time.
 5% chance to restore 5% of the damage deal into SP
 5 minutes duration.
@@ -55238,62 +55202,62 @@ You can return to the past Prontera when there is valkyrie chaos invasion.
 Weight: ^7777771^000000
 #
 22850#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 (Rental Item) A Box that contains a Sigruns Wing, when you open this box the item only available during 7 days.
 Weight: ^77777710^000000
 #
 22851#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 A box that contains a 2 taming gift set.
 Weight: ^77777710^000000
 #
 22852#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 A box that contains a 2 lucky eggs.
 Weight: ^77777710^000000
 #
 22853#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 A box that contains a Meginjard(Trial Version), Asprika (Trial Version), Brisingamen (Trial Version), Brynhild (Trial Version), when you open this box the item only available during 14 days.
 Weight: ^77777710^000000
 #
 22854#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 A box that contains a 2 Gift Buff Set.
 Weight: ^77777710^000000
 #
 22855#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 A box that contains a potion box.
 Weight: ^77777710^000000
 #
 22856#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 A box that contains a costume: loki & nidhoggur's hat.
 Weight: ^77777710^000000
 #
 22857#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 A box that contains a magic card album.
 Weight: ^77777710^000000
 #
 22858#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 A box that contains a 2 lucky eggs.
 Weight: ^77777710^000000
 #
 22859#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 A box that contains a 5 white slim potion box.
 Weight: ^77777710^000000
 #
 22860#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 A box that contains a Meginjard(Trial Version), Asprika (Trial Version), Brisingamen (Trial Version), Brynhild (Trial Version), when you open this box the item only available during 14 days.
 Weight: ^77777710^000000
 #
 22861#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 A box that contains a 10 lucky roulette tickets.
 Weight: ^77777710^000000
 #
@@ -55304,13 +55268,13 @@ Older enchanted stones costumes are also included.
 Weight: ^7777771^000000
 #
 22869#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 When you use this ticket, you add to 10 bronze points in the lucky roulette system.
 Required Level: ^77777750^000000
 Weight: ^77777710^000000
 #
 22870#
-^ff0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 A wonderful package with all the paraphernalia and Christmas atmosphere.
 (This item will be removed when Christmas event ends.)
 Weight: ^7777771^000000
@@ -55323,12 +55287,12 @@ Blitz Shadow Shoes, Blitz Shadow Shield, Infinite Giant Fly Wing Box 5, Blacksmi
 Weight: ^7777771^000000
 #
 22874#
-^ff0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 You can get Sealed beelzebub card at small chance
 Weight: ^7777775^000000
 #
 22875#
-^ff0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 You can come to feel for a time all the power of Beelzebub.
 Reduces the variable cast time of skills by 15%.
 During 5 minutes.
@@ -55341,7 +55305,7 @@ there is noise when you shake it. It seems that does not contain a lot of money.
 Weight: ^7777770^000000
 #
 22881#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 A hunting rope to capture something or someone. Useful for capturing 'Lost Lamb'.
 Weight: ^7777770^000000
 #
@@ -55350,39 +55314,39 @@ Restore 10% of HP and SP.
 Weight: ^77777710^000000
 #
 22883#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 A box that contains a 2 lucky eggs.
 Weight: ^77777710^000000
 #
 22884#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 A box that contains a 5 white slim potion box.
 Weight: ^77777710^000000
 #
 22885#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 A box that contains a 2 lucky eggs.
 Weight: ^77777710^000000
 #
 22886#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 A box that contains a 10 lucky roulette tickets.
 Weight: ^77777710^000000
 #
 22887#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 Contain one of [Sale]Slim Potion 100 Box, Golden sealed card or +7 Refine Ticket
 Weight: ^7777771^000000
 #
 22888#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 Limited New Year scrolls.
 Contains one of:
 Safe to 11 Weapon Certificate, Safe to 11 Armor Certificate, Safe to 9 Weapon Certificate, Safe to 9 Armor Certificate, Caster Shadow Shoes, Caster Shadow Shield, Caster Shadow Armor, Infinite Giant Fly Wing Box 5 and other rare items
 Weight: ^7777771^000000
 #
 22893#
-^FF0000Cannot be traded^000000
+^FF0000Cannot be traded.^000000
 A box that contains one of shadow equipments.
 Weight: ^7777771^000000
 #

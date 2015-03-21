@@ -3687,8 +3687,8 @@
 5765#Pitch_Black_Ribbon#
 5766#Amistr_Hat#
 5767#Samurai_Mask#
-5768#Cherry_Blossom_Crown#
-5769#Estatua_Peque?_Angel_Oro#
+5768#Sakura_Coronet#
+5769#Golden_Statue_of_Angel#
 5770#Splash_Hat#
 5771#Family_Hat#
 5772#Blood_Admiral's_Hat#
@@ -9860,7 +9860,7 @@
 18733#TE_WoE_Bone_Helm#
 18734#TE_WoE_Magic_Eyes#
 18735#Fairy_ears#
-18736#Unknown_request#
+18736#Anonymous_Invitation#
 18737#Fortier_Masque#
 18738#White_Boys_cap#
 18739#Carnation_Hairband#
@@ -9902,7 +9902,7 @@
 18775#Modified_Welding_Mask#
 18776#Modified_Angel's_Kiss#
 18777#Aladdin_Lamp#
-18778#Pink_Bunny_Hair_Band#
+18778#Pink_Bunnyband#
 18779#RWC_Champ_Crown(1st)#
 18780#RWC_Champ_Crown(2nd)#
 18781#RWC_Champ_Crown(3rd)#
@@ -9923,7 +9923,7 @@
 18797#Deep_Angel_Hairband#
 18798#Pink_Angel_Hairband#
 18799#Mask_of_Nero#
-18800#Kamen_of_formic#
+18800#Mask_of_Formic#
 18801#Gold_Hair_Ornament#
 18802#Poring_Fedora_Hat#
 18803#Rose_Cascade#
@@ -9935,8 +9935,8 @@
 18809#7th_Anniversary_Hat#
 18810#Hell_Pumpkin_Hat#
 18811#White_Snake_Hat#
-18812##
-18813##
+18812#Elder_Crown#
+18813#New_Wave_Sunglasses#
 18814#Angel_School_Cap#
 18815#Devil_School_Cap#
 18816#Evoked_Angel_School_Cap#
@@ -9949,7 +9949,7 @@
 18823#Imperial_Feather#
 18824#Mask_Of_Bankrupt#
 18825#Money_Lost_Spirit#
-18826##
+18826#Chun_Tree_Hat#
 18827#Valkyrie_Circlet#
 18828#RMSC2012_Champion_Headgear#
 18829#RMSC2012_1st_Runner_Headgear#
@@ -9958,8 +9958,8 @@
 18832#Rolf_Von_Gigue_666#
 18833#Marin_Crown#
 18834#Sakura_Hairband#
-18835##
-18836##
+18835#RO10th_Anniversary_Cap#
+18836#Limited_RO10th_Anniversary_Cap#
 18837#Cheering_Whistle#
 18838#Angeling_Woolly_Hat#
 18839#Poring_Sunglasses#
@@ -11026,10 +11026,8 @@
 22555#Gourmet_Chocolate#
 22556#Luxury_Chocolate#
 22557#Masterpieces_of_Artisan_Chocolate#
-22558##
-22559##
-22564#Ides_Of_March_Lucky_Box#
-22565##
+22558#Red_Gift_Bag#
+22559#Wild_Snake_Berry#
 22566#Last_Years_Frost#
 22567#Expedition_Award_Box#
 22568#Nidhoggur's_Summon_Written#
@@ -11042,7 +11040,6 @@
 22592#Happy_Call_Box#
 22594#Devoted_Eyes_Box#
 22605#Ginger_Bread#
-22606#May_Groove_Pack#
 22607#Isis_Merc_Scroll#
 22610#New_Beginnings_Box#
 22611#Packed_Envelope#
@@ -11329,7 +11326,7 @@
 24153#Solid_Shadow_Earring#
 24154#Solid_Shadow_Armor#
 24155#Solid_Shadow_Pendant#
-24156#Demi-Human_Shadow_Weapon#
+24156#Demihuman_Shadow_Weapon#
 24157#Exorcist_Shadow_Weapon#
 24158#Hunting_Shadow_Weapon#
 24159#Insect_Shadow_Weapon#
@@ -11343,7 +11340,7 @@
 24167#Penetration_Shadow_Pendant#
 24168#Tempest_Shadow_Earring#
 24169#Tempest_Shadow_Pendant#
-24170#Magic_Demi-Human_Shadow_Weapon#
+24170#Magic_Demihuman_Shadow_Weapon#
 24171#Magic_Exorcist_Shadow_Weapon#
 24172#Magic_Hunting_Shadow_Weapon#
 24173#Magic_Insect_Shadow_Weapon#
