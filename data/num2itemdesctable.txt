@@ -19069,12 +19069,12 @@ Weight: ^7777770^000000
 6583#
 #
 6584#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 Take this certificate, do upgradable ^0000FFWeapon^000000 in ^8B4513prontera hall^000000, If he fails on the ^006400upgrade when the item to +12^000000,the item will not break and it will stay at its current upgrade level. -A Single Use.-
 Weight: ^7777770^000000
 #
 6585#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 Take this certificate, do upgradable ^0000FFArmor^000000 in ^8B4513prontera hall^000000, If he fails on the ^006400upgrade when the item to +12^000000,the item will not break and it will stay at its current upgrade level. -A Single Use.-
 Weight: ^7777770^000000
 #
@@ -19531,6 +19531,9 @@ Smooth and shiny silk.
 Somehow its seems brittle.
 #
 6710#
+^ff0000Cannot be traded.^000000
+Fake bundled octopus 8 legs.
+Weight: ^7777770^000000
 #
 6711#
 #
@@ -19547,16 +19550,52 @@ You can feel demonic aura from it.
 Weight: ^7777771^000000
 #
 6716#
+A stone that increases Critical rate.
+Gives below stats on Costume upper slot
+CRIT +1.
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
+Weight: ^77777710^000000
 #
 6717#
+A stone that increases HP.
+Gives below stats on Costume mid slot.
+MaxHP +50.
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
+Weight: ^77777710^000000
 #
 6718#
+A stone that increases Magic HP.
+Gives below stats on Costume bottom slot.
+MaxSP +10.
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
+Weight: ^77777710^000000
 #
 6719#
+A Teeth of monster piano Jitterbug, it look like piano keyboard.
+Weight: ^77777710^000000
 #
 6720#
+^ff0000Cannot be traded.^000000
+^ffffff_^000000
+Enable 3 retries to reset stats in 1 hour.
+People with this book can reset their stats.
+^ffffff_^000000
+Be sure to have zero weight when using this book.
+And release Cart and Pets, etc.
+^ffffff_^000000
+^ffffff<NAVI>^4D4DFF[Mystic Clown]^000000<INFO>itemmall,35,63,0,100,0,0</INFO></NAVI>^000000
+Weight: ^7777770^000000
 #
 6721#
+^ff0000Cannot be traded.^000000
+^ffffff_^000000
+Enable 3 retries to reset stats in 1 hour.
+People with this book can reset their stats.
+^ffffff_^000000
+Be sure to have zero weight when using this book.
+And release Cart and Pets, etc.
+^ffffff_^000000
+Weight: ^7777770^000000
 #
 6722#
 Clam Flesh A delicious meal for your pet.
@@ -19602,53 +19641,53 @@ Weight: ^7777770^000000
 Stone to increase the amount of recovery.
 Costumes in the top slot grants the following abilities.
 Increase item recovery effect +2%.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6741#
 Stone is a good skill to write Recovery
 Costumes in the top slot grants the following abilities.
 Skills Recovery 3% of the amount of recovery.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6742#
 Improves Regen stone.
 Costumes in the middle slot grants the following abilities.
 Each 10 Seconds restores 10 HP.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6743#
 Stone to increase health.
 Costumes in the middle slot grants the following abilities.
 MaxHP +1%.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6744#
 Stone to increase magic power.
 Costumes in the middle slot grants the following abilities.
 MaxSP +1%.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6745#
 The stone give SP for battle.
 Costumes in the lower slot grants the following abilities.
 When user kill enemy with physically/magically attacking recovery 1 SP.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6746#
 It seems that can be used to prior to the steel workpiece. Standard inspection general without going through other processes.
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 Weight: ^7777770^000000
 #
 6747#
 Iron artifacts that meet the specifications. Will fit in standard
 Is suitable for the production of various firearms.
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 Weight: ^7777770^000000
 #
 6748#
@@ -19664,11 +19703,11 @@ He and his team are calling this device Operation Control Device
 Weight: ^7777770^000000
 #
 6750#
-Failure of the engine. Repairs would not be written up?
+Broken engine. Is this repairable?
 Weight: ^7777771^000000
 #
 6751#
-Distorted by the impact plate. Let's spread suddenly.
+Distorted by the impact plate.
 Weight: ^7777771^000000
 #
 6752#
@@ -19705,23 +19744,23 @@ Weight: ^7777770^000000
 6766#
 Heat to avoid ice express train ticket to go to the country. But really do not ride the train. Tickets will disappear after the summer.
 
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 Weight: ^7777770^000000
 #
 6767#
 Coin used in the summer festival. There is no real value of money. Available only in the summer, and after summer disappears.
 
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 Weight: ^7777770^000000
 #
 6768#
 A boiled sweet red bean. Falling absolute essential ingredient in ice water should not!
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 Weight: ^7777770^000000
 #
 6769#
 It is possible to quell the cold in the mouth if you eat with. Shaved ice sweet rice cake was chewy.
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 Weight: ^7777770^000000
 #
 6770#
@@ -19791,53 +19830,53 @@ Weight: ^7777771^000000
 #
 6784#
 Squid skewers specially designed for barbecuing. Let's take it to Mr. Le.
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 Weight: ^7777770^000000
 #
 6785#
 Mr Kwijeul special sauce ideal to give a special flavor to barbecued squid. Let's take it to Mr. Le.
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 Weight: ^7777770^000000
 #
 6786#
 The latest barbecue fresh squid. No matter you have a little sand. Let's take it to Mr. Le.
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 Weight: ^7777770^000000
 #
 6787#
 Barbecued squid for burning firewood. Let's take it to Mr. Le.
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 Weight: ^7777770^000000
 #
 6788#
 Special knife for barbecued squid. It has a nice rose engraved on the blade. Let's take it to Mr. Le.
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 Weight: ^7777770^000000
 #
 6789#
 Add a custom dish for barbecued squid. Let's take it to Mr. Le.
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 Weight: ^7777770^000000
 #
 6790#
 Stone effective against large size enemies.
 Costumes in the top slot grants the following abilities.
 Increases damage against large size monsters by 1%.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6791#
 Stone effective against medium size enemies.
 Costumes in the top slot grants the following abilities.
 Increases damage against medium size monsters by 1%.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6792#
 Stone effective against small size enemies.
 Costumes in the top slot grants the following abilities.
 Increases damage against small size monsters by 1%.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6797#
@@ -19870,37 +19909,37 @@ A special, one-time use ticket that allows you to use any one of the Kafra Servi
 Weight: ^7777771^000000
 #
 6814#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 I had to look hard in my life to find a shield that was my soul mate in battleground.
 Weight: ^7777771^000000
 #
 6815#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 To understand life, I need to calculate through experimentation and research of the soul.
 Weight: ^7777771^000000
 #
 6816#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 I was in a dark life, to defend my soul had to turn away from the light and shadows.
 Weight: ^7777771^000000
 #
 6817#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 Continued study of magic to try to find the ultimate magic that exalts my soul.
 Weight: ^7777771^000000
 #
 6818#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 Able to use the wind flow in the battlefield is a great reinforcement with its powerful soul.
 Weight: ^7777771^000000
 #
 6819#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 A life of service to others, his path according to the will of God was always a soul in penitence.
 Weight: ^7777771^000000
 #
 6820#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 Concentrated energy. Too small seems to fade away anyway is very powerful.
 Weight: ^7777771^000000
 #
@@ -19908,7 +19947,7 @@ Weight: ^7777771^000000
 Evidence to prove that the troops are solo.
 Born and survived alone.
 The couple is betrayed!
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 Weight: ^7777770^000000
 #
 6824#
@@ -19931,7 +19970,7 @@ Oddly shaped object. It contains a small amount of gold inside. Rumor has it tha
 Weight: ^7777771^000000
 #
 6833#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 A certificate that has the force of invulnerable Ziegfried.
 It has been told that a man who possesses this can overcome death.
 Revives the dead character.
@@ -20005,12 +20044,12 @@ This piece has strong spirit of tiger embedded on it.
 Weight: ^7777770^000000
 #
 6864#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 Take this certificate, do upgradable ^0000FFWeapon^000000 in ^8B4513prontera hall^000000, If he fails on the ^006400upgrade when the item to +19^000000,the item will not break and it will stay at its current upgrade level. -A Single Use.-
 Weight: ^7777770^000000
 #
 6865#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 Take this certificate, do upgradable ^0000FFArmor^000000 in ^8B4513prontera hall^000000, If he fails on the ^006400upgrade when the item to +19^000000,the item will not break and it will stay at its current upgrade level. -A Single Use.-
 Weight: ^7777770^000000
 #
@@ -20032,62 +20071,62 @@ Dust came into the box together with insects.
 (The item disappears after Event Period)
 #
 6870#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 Take this certificate, do upgradable ^0000FFWeapon^000000 in ^8B4513prontera hall^000000, If he fails on the ^006400upgrade when the item to +13^000000,the item will not break and it will stay at its current upgrade level. -A Single Use.-
 Weight: ^7777770^000000
 #
 6871#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 Take this certificate, do upgradable ^0000FFWeapon^000000 in ^8B4513prontera hall^000000, If he fails on the ^006400upgrade when the item to +14^000000,the item will not break and it will stay at its current upgrade level. -A Single Use.-
 Weight: ^7777770^000000
 #
 6872#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 Take this certificate, do upgradable ^0000FFWeapon^000000 in ^8B4513prontera hall^000000, If he fails on the ^006400upgrade when the item to +15^000000,the item will not break and it will stay at its current upgrade level. -A Single Use.-
 Weight: ^7777770^000000
 #
 6873#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 Take this certificate, do upgradable ^0000FFWeapon^000000 in ^8B4513prontera hall^000000, If he fails on the ^006400upgrade when the item to +16^000000,the item will not break and it will stay at its current upgrade level. -A Single Use.-
 Weight: ^7777770^000000
 #
 6874#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 Take this certificate, do upgradable ^0000FFWeapon^000000 in ^8B4513prontera hall^000000, If he fails on the ^006400upgrade when the item to +17^000000,the item will not break and it will stay at its current upgrade level. -A Single Use.-
 Weight: ^7777770^000000
 #
 6875#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 Take this certificate, do upgradable ^0000FFWeapon^000000 in ^8B4513prontera hall^000000, If he fails on the ^006400upgrade when the item to +18^000000,the item will not break and it will stay at its current upgrade level. -A Single Use.-
 Weight: ^7777770^000000
 #
 6876#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 Take this certificate, do upgradable ^0000FFArmor^000000 in ^8B4513prontera hall^000000, If he fails on the ^006400upgrade when the item to +13^000000,the item will not break and it will stay at its current upgrade level. -A Single Use.-
 Weight: ^7777770^000000
 #
 6877#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 Take this certificate, do upgradable ^0000FFArmor^000000 in ^8B4513prontera hall^000000, If he fails on the ^006400upgrade when the item to +14^000000,the item will not break and it will stay at its current upgrade level. -A Single Use.-
 Weight: ^7777770^000000
 #
 6878#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 Take this certificate, do upgradable ^0000FFArmor^000000 in ^8B4513prontera hall^000000, If he fails on the ^006400upgrade when the item to +15^000000,the item will not break and it will stay at its current upgrade level. -A Single Use.-
 Weight: ^7777770^000000
 #
 6879#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 Take this certificate, do upgradable ^0000FFArmor^000000 in ^8B4513prontera hall^000000, If he fails on the ^006400upgrade when the item to +16^000000,the item will not break and it will stay at its current upgrade level. -A Single Use.-
 Weight: ^7777770^000000
 #
 6880#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 Take this certificate, do upgradable ^0000FFArmor^000000 in ^8B4513prontera hall^000000, If he fails on the ^006400upgrade when the item to +17^000000,the item will not break and it will stay at its current upgrade level. -A Single Use.-
 Weight: ^7777770^000000
 #
 6881#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 Take this certificate, do upgradable ^0000FFArmor^000000 in ^8B4513prontera hall^000000, If he fails on the ^006400upgrade when the item to +18^000000,the item will not break and it will stay at its current upgrade level. -A Single Use.-
 Weight: ^7777770^000000
 #
@@ -20350,63 +20389,63 @@ Weight: ^7777771^000000
 A power stone.
 Increase a stat in costume's upper slot.
 ATK +1%.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6944#
 A power stone.
 Increase a stat in costume's upper slot.
 MATK +1%.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6945#
 A power stone.
 Increase a stat in costume's middle slot.
 STR +1.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6946#
 A power stone.
 Increase a stat in costume's middle slot.
 INT +1.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6947#
 A power stone.
 Increase a stat in costume's middle slot.
 AGI +1.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6948#
 A power stone.
 Increase a stat in costume's middle slot.
 DEX +1.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6949#
 A power stone.
 Increase a stat in costume's middle slot.
 VIT +1.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6950#
 A power stone.
 Increase a stat in costume's middle slot.
 LUK +1.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6951#
 A power stone.
 Increase a stat in costume's lower slot.
 MaxHP +1%.
-^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6953#
@@ -22947,73 +22986,74 @@ has been carved.
 Weight: ^7777771^000000
 #
 7421#
+^FF0000Cannot be traded^000000
 A thin, transparent,
 and shining red key.
-
 #
 7422#
+^FF0000Cannot be traded^000000
 A thin, transparent,
 and shining yellow key.
 #
 7423#
+^FF0000Cannot be traded^000000
 A thin, transparent,
 and shining blue key.
-
 #
 7424#
+^FF0000Cannot be traded^000000
 A thin, transparent,
 and shining green key.
-
 #
 7425#
+^FF0000Cannot be traded^000000
 A thin, transparent,
 and shining black key.
-
 #
 7426#
+^FF0000Cannot be traded^000000
 A mysterious red
 colored charm stone
 in which fantastic
 powers are stored.
-
 #
 7427#
+^FF0000Cannot be traded^000000
 A mysterious yellow
 colored charm stone
 in which fantastic
 powers are stored.
-
 #
 7428#
+^FF0000Cannot be traded^000000
 A mysterious blue
 colored charm stone
 in which fantastic
 powers are stored.
-
 #
 7429#
+^FF0000Cannot be traded^000000
 A mysterious green
 colored charm stone
 in which fantastic
 powers are stored.
-
 #
 7430#
+^FF0000Cannot be traded^000000
 A mysterious black
 colored charm stone
 in which fantastic
 powers are stored.
-
 #
 7431#
+^FF0000Cannot be traded^000000
 A heavy pile of books.
-
 #
 7432#
+^FF0000Cannot be traded^000000
 A sturdy, leather
 pouch used to
 contain goods.
-
 #
 7433#
 A blank scroll on
@@ -24825,7 +24865,7 @@ A bag provided for emergencies that looks small but has 7 days worth of food ins
 Weight: ^7777770^000000
 #
 7690#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 Coupon to exchange for a special gift
 Weight: ^7777770^000000
 #
@@ -29897,7 +29937,7 @@ Weight: ^7777771^000000
 Weight: ^77777710^000000
 #
 12314#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 A box containing Steamed Tongue Box(10), Steamed Desert Scorpions Box(10), Dragon Breath Cocktail Box(10), Hwergelmir's Tonic Box(10), Cooked Nine Tail Box(10), Immortal Stew Box(10), Blessing Scroll Box(10), Increase Agility Scroll Box(10), Bubble Gum Box(10), Small Life Potion Box(10),[For Sale]Battle_Manual Box(5).
 Weight: ^7777771^000000
 #
@@ -30871,7 +30911,7 @@ A very cute egg scroll. It feels so fancy that makes you expect something from i
 Weight: ^7777771^000000
 #
 12497#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 ^800080Event paid item.^000000
 Tasty and sweet bubble gum.
 Within the 30 minutes duration after eating it,
@@ -30880,7 +30920,7 @@ Item drop rate increase by 100% for 30 minutes.
 Weight: ^7777771^000000
 #
 12501#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 ^800080Event paid item.^000000
 The epitome of Louyang cuisine. It's ingredients may be hard to find, but culinarily speaking, it's a masterpiece.
 Gives Str +10 for 30 minutes.
@@ -30888,14 +30928,14 @@ Gives Str +10 for 30 minutes.
 Weight: ^7777771^000000
 #
 12502#
-^ff0000This item is impossible to deal with another account.^00000
+^ff0000Cannot be traded.^00000
 One of the four best dishes in the Sograt Desert, this scorpion dish is cooked using the heat of the desert sands.
 AGI +10 during 30 minutes
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 12503#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 ^800080Event paid item.^000000
 A cocktail with an unforgettable flavor as impressive as a dragon's breath.
 Gives INT +10 for 30 minutes.
@@ -30904,7 +30944,7 @@ If you die don't lost the effect!!
 Weight: ^7777771^000000
 #
 12504#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 ^800080Event paid item.^000000
 Named after the legendary spring believed to be the source of the world's rivers, this beverage is famous for its amazing taste.
 Gives DEX +10 for 30 minutes.
@@ -30913,7 +30953,7 @@ If you die don't lost the effect!!
 Weight: ^7777771^000000
 #
 12505#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 ^800080Event paid item.^000000
 A rare specialty dish from Payon that bestows luck on those fortunate enough to eat it.
 Gives LUK +10 for 30 minutes.
@@ -30922,7 +30962,7 @@ If you die don't lost the effect!!
 Weight: ^7777771^000000
 #
 12506#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 ^800080Event paid item.^000000
 A stew with a funky smell that looks quite suspicious, but it really does give the feeling of immortality.
 Gives VIT +10 for 30 minutes.
@@ -30943,7 +30983,7 @@ Weight 1
 12510#
 #
 12514#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 ^800080Event paid item.^000000
 An abrasive that adds sharpness to a weapon.
 Gives CRIT +30 for 5 minutes.
@@ -30952,7 +30992,7 @@ If you die don't lost the effect!!
 Weight: ^7777771^000000
 #
 12516#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 ^800080Event paid item.^000000
 A small bottle of Yggdrasil Tree Sap that is effective in healing wounds.
 For 10 minutes, you regenerate 5% of your Maximum HP every 5 seconds.
@@ -30962,7 +31002,7 @@ If you die don't lost the effect!!
 Weight: ^7777771^000000
 #
 12522#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 ^800080Event paid item.^000000
 A scroll in which a single use of Level 10 Blessing has been recorded.
 Caution!- Casts [Blessing] Lv 10 on the user when used.
@@ -30970,7 +31010,7 @@ Caution!- Casts [Blessing] Lv 10 on the user when used.
 Weight: ^7777771^000000
 #
 12523#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 ^800080Event paid item.^000000
 A scroll in which a single use of Level 10 Increase AGI has been recorded.
 Caution!- Casts [Increase AGI] Lv 10 on the user when used.
@@ -43580,81 +43620,81 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 14723#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 Pressing the button on this stick will flash blinding light that seems to cause memory loss.
 Resets the user's skill tree to an unallocated state while restoring all previously used skill points.
 Can only be used when at 0 weight and with no character attachements, such as a mount or cart, attached.
 Weight: ^7777770^000000
 #
 14724#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 Pressing the button on this stick will flash blinding light that seems to cause memory loss.
 Resets the user's skill tree to an unallocated state while restoring all previously used skill points.
 Can only be used when at 0 weight and with no character attachements, such as a mount or cart, attached.
 Weight: ^7777770^000000
 #
 14725#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 Edition limited sealed bacsojin Scroll.
 Sealed bacsojin card,Safe to 9 Weapon Certificate, Safe to 9 Armor Certificate, Costume: Saint Frill Ribbon, Costume Festival Box II, Infinite Giant Fly Wing Box V, Gold and other rare items, only can get one of the items.
 Weight: ^7777771^000000
 #
 14726#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 A box containing 1 grid shadow equipment.
 You can get a one piece grid shadow set (shield, pendant, earring, weapon, shoes, armor).
 Weight: ^7777771^000000
 #
 14727#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 A box containing 1 heal shadow equipment.
 You can get a one piece heal shadow set (shield, pendant, earring, weapon, shoes, armor).
 Weight: ^7777771^000000
 #
 14728#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 A box containing 1 hiding shadow equipment.
 You can get a one piece hiding shadow set (shield, pendant, earring, weapon, shoes, armor).
 Weight: ^7777771^000000
 #
 14729#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 A box containing 1 cloaking shadow equipment.
 You can get a one piece cloaking shadow set (shield, pendant, earring, weapon, shoes, armor).
 Weight: ^7777771^000000
 #
 14730#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 A box containing variety of costumes equipment.
 Some costumes are only available here.
 Weight: ^7777771^000000
 #
 14731#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 A box containing 1 teleport shadow equipment.
 You can get a one piece grid shadow set (shield, pendant, earring, weapon, shoes, armor).
 Weight: ^7777771^000000
 #
 14732#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 A box containing 1 steal shadow equipment.
 You can get a one piece grid shadow set (shield, pendant, earring, weapon, shoes, armor).
 Weight: ^7777771^000000
 #
 14733#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 Edition limited sealed pharaoh Scroll.
 Sealed pharaoh card, Safe to 9 Weapon Certificate, Safe to 9 Armor Certificate, grid shadow box, Costume: Jack Castle Bat, Infinite Giant Fly Wing Box V, Gold and other rare items, only can get one of the items.
 Weight: ^7777771^000000
 #
 14739#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 Edition limited sealed general egnigem cenia Scroll.
 sealed general egnigem cenia card, Safe to 9 Weapon Certificate, Safe to 9 Armor Certificate, Demihuman Shadow Weapon, Costume: Hunting Cap Of Gust, Gold and other rare items, only can get one of the items.
 Weight: ^7777771^000000
 #
 14740#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 Edition limited sealed vesper Scroll.
 sealed vesper card, Safe to 9 Weapon Certificate, Safe to 9 Armor Certificate, Tempest Shadow Earring, Tempest Shadow Pendant, Magic Demihuman Shadow Weapon, Costume: Knit Cap Of Water,Infinite Giant Fly Wing Box and other rare items, only can get one of the items.
 Weight: ^7777771^000000
@@ -46529,7 +46569,7 @@ A box that contains 1 "Christmas Card" inside. Available for 1 week.
 Weight: ^7777771^000000
 #
 16481#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 ^800080Event paid item.^000000
 A box containing 10 small life potion.
 For 10 minutes, you regenerate 5% of your Maximum HP every 5 seconds.
@@ -46538,7 +46578,7 @@ If you die don't lost the effect!!
 Weight: ^7777771^000000
 #
 16483#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 ^800080Event paid item.^000000
 A box containing 10 abrasive that adds sharpness to a weapon.
 For 5 minutes, the player will recieve +30 Critical Rate.
@@ -46547,7 +46587,7 @@ If you die lost the effect!!
 Weight: ^7777771^000000
 #
 16504#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 ^800080Event paid item.^000000
 A box containing 10 tasty and sweet bubble gum.
 Item drop rate increase by 100% for 30 minutes.
@@ -46555,49 +46595,49 @@ If you die don't lost the effect!!
 Weight: ^7777771^000000
 #
 16505#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 ^800080Event paid item.^000000
 Gives Str +10 for 30 minutes. Do not spoil the dish requires special treatment.
 Weight: ^7777771^000000
 #
 16506#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 ^800080Event paid item.^000000
 Gives Agi +10 for 30 minutes. Do not spoil the dish requires special treatment.
 Weight: ^7777771^000000
 #
 16507#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 ^800080Event paid item.^000000
 Gives Int +10 for 30 minutes. Do not spoil the dish requires special treatment.
 Weight: ^7777771^000000
 #
 16508#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 ^800080Event paid item.^000000
 Gives Dex +10 for 30 minutes. Do not spoil the dish requires special treatment.
 Weight: ^7777771^000000
 #
 16509#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 ^800080Event paid item.^000000
 Gives Luk +10 for 30 minutes. Do not spoil the dish requires special treatment.
 Weight: ^7777771^000000
 #
 16510#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 ^800080Event paid item.^000000
 Gives Vit +10 for 30 minutes. Do not spoil the dish requires special treatment.
 Weight: ^7777771^000000
 #
 16514#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 ^800080Event paid item.^000000
 A box containing 10 blessing scroll Lv 10.
 Weight: ^7777771^000000
 #
 16515#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 ^800080Event paid item.^000000
 A box containing 10 increase agility scroll Lv 10.
 Weight: ^7777771^000000
@@ -48571,7 +48611,7 @@ Character Level 70+: ATK increases additional +5 for every BaseLv increase of 10
 Class: ^777777Huuma Shuriken^000000
 Attack: ^77777755^000000
 Weight: ^777777150^000000
-Weapon lvl: ^7777773^000000
+Weapon Level: ^7777773^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Ninja^000000
 ^ffffff_^000000
@@ -49156,7 +49196,7 @@ Some will get a helmet that is unknown.
 Weight: ^7777771^000000
 #
 17429#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 
 A 11 anniversary shadow box, you can get equipment shadow into shadow box.
 Spiritual shadow (weapon, earrings, pendants), and Mali Sha shadow (shield, armor, shoes) are included and you can only get one of them.
@@ -49164,7 +49204,7 @@ Spiritual shadow (weapon, earrings, pendants), and Mali Sha shadow (shield, armo
 Weight: ^7777771^000000
 #
 17430#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 
 A box that contains a spiritual shadow set and mali shas shadow set.
 Spiritual shadow (weapon, earrings, pendants), and Mali Sha shadow (shield, armor, shoes) are included and you can only get one of them.
@@ -49178,14 +49218,14 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 17438#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 The flatter dream life, the legendary master of the three! What it says on the box.
 A box contains 20 Small Life Potions, 20 Large Life Potions, 20 Mysterious Water of Life ara incluided. In addition you get a one sealed ifrit scrolls.
 ^000088When a character is dead the battle effect item disappears.^000000
 Weight: ^7777771^000000
 #
 17439#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 The flatter dream life, the legendary master of the three! What it says on the box.
 A box contains 200 Small Life Potions, 200 Large Life Potions, 200 Mysterious Water of Life ara incluided. In addition you get a 11 sealed ifrit scrolls.
 ^000088When a character is dead the battle effect item disappears.^000000
@@ -49207,7 +49247,7 @@ Cannot attack while on a mount.
 Weight: ^7777771^000000
 #
 17442#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 A box that contains 1 Emperium G.
 ^ffffff_^000000
 With a gorgeous metallic glare. It all comes down to the old manuscripts that can change the fate of the world to appear before the party that his destiny is with.
@@ -49215,7 +49255,7 @@ With a gorgeous metallic glare. It all comes down to the old manuscripts that ca
 Weight: ^7777771^000000
 #
 17443#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 A box that contains 1 Reinforcement Buckler.
 ^ffffff_^000000
 Lumiere Elunium mixed and covered with a layer of bright gold about buckler.
@@ -49230,7 +49270,7 @@ Jobs: ^777777Swordman Class, Acolyte Class, Merchant Class, Thief Class, Bard, D
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 17455#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 A box that contains 1 battle manual, premium battle manual is available during 24 hours.
 A manual that explains the effective way of the battle. It is a very detailed and well composed manual.
 ^000088During 30 minutes exp rate is increased to 50% and drop rate is increase to 100%.^000000.
@@ -49272,7 +49312,7 @@ Token of Ziegfried - It allows you to resurrect at the same point of your death.
 Weight: ^7777771^000000
 #
 17468#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 A box containing 3 Shining Stick. Extremely fragile!
 ^ffffff_^000000
 Neuralizer - Resets the user's skill tree.
@@ -49280,7 +49320,7 @@ Neuralizer - Resets the user's skill tree.
 Weight: ^7777771^000000
 #
 17469#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 A box containing 1 Shining Stick. Extremely fragile!
 ^ffffff_^000000
 Neuralizer - Resets the user's skill tree.
@@ -49288,31 +49328,31 @@ Neuralizer - Resets the user's skill tree.
 Weight: ^7777771^000000
 #
 17472#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 For an hour you will see a big effect on you!, Contains 1 Support Package.
 The complete box containing 2 battle manuals, 2 Bubble gums, 2 Almighty, 2 Mental Potion and 6 Mysterious Water of Life. 1 Sealed bacsojin scroll can you get.
 ^ff0000Opening This item if you are excluded from the offer withdrawn.^000000
 Weight: ^7777771^000000
 #
 17473#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 For an hour you will see a big effect on you!, Contains 1 Support Package.
 The complete box containing 20 battle manuals, 20 Bubble gums, 20 Almighty, 20 Mental Potion and 60 Mysterious Water of Life. 11 Sealed bacsojin scroll can you get.
 ^ff0000Opening This item if you are excluded from the offer withdrawn.^000000
 Weight: ^7777771^000000
 #
 17474#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 For a day you can use infinite giant fly wing.
 ^ffffff_^000000
 ^000088Rental Items^000000
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 Wings from a giant butterfly.^000088You can come back anytime to your save point.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 17475#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 This box contains 10 GYM membership to increase the weight you can carry.
 ^ffffff_^000000
 If you show the pass to a certain NPC, the NPC will teach specific skills that will increase the weight you can carry.
@@ -49322,33 +49362,33 @@ Each gives you a level of skill can take 200 more extra weight to a maximum of 1
 Weight: ^7777771^000000
 #
 17477#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 A box contains 5 ASPD Enhanced Potion and 10 Red Boost. 1 Sealed pharaoh scroll can you get.
 ^ff0000Opening This item if you are excluded from the offer withdrawn.^000000
 Weight: ^7777771^000000
 #
 17478#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 A box contains 50 ASPD Enhanced Potion and 100 Red Boost. 11 Sealed pharaoh scroll can you get.
 ^ff0000Opening This item if you are excluded from the offer withdrawn.^000000
 Weight: ^7777771^000000
 #
 17483#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 The flatter dream life, the legendary master of the three! What it says on the box.
 A box contains 20 Small Life Potions, 20 Large Life Potions, 20 Mysterious Water of Life ara incluided. In addition you get a one sealed moonlight flower scroll.
 ^ff0000Opening This item if you are excluded from the offer withdrawn.^000000
 Weight: ^7777771^000000
 #
 17484#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 The flatter dream life, the legendary master of the three! What it says on the box.
 A box contains 200 Small Life Potions, 200 Large Life Potions, 200 Mysterious Water of Life ara incluided. In addition you get a 11 sealed moonlight flower scrolls.
 ^ff0000Opening This item if you are excluded from the offer withdrawn.^000000
 Weight: ^7777771^000000
 #
 17491#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 A box contains 5 Enriched Elunium and 5 Enriched Oridecon, Additional contains 1 Sealed General Egnigem cenia Scroll.
 ^ffffff_^000000
 Enriched Elunium - Increases the probability of the smelting armor.
@@ -49358,7 +49398,7 @@ Enriched Oridecon - Increases the probability of the smelting weapon.
 Weight: ^7777771^000000
 #
 17492#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 A box contains 50 Enriched Elunium and 50 Enriched Oridecon, Additional contains 11 Sealed General Egnigem cenia Scroll.
 ^ffffff_^000000
 Enriched Elunium - Increases the probability of the smelting armor.
@@ -49368,7 +49408,7 @@ Enriched Oridecon - Increases the probability of the smelting weapon.
 Weight: ^7777771^000000
 #
 17495#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 A box contains 10 silvervine fruit, As a bonus, you also have a small amount of canned food. 1 Sealed vesper scroll you can get.
 ^ffffff_^000000
 A ripe silvervine fruit. It tastes awful for humans, but it's a highly valued delicacy in Malangdo.
@@ -49377,7 +49417,7 @@ A ripe silvervine fruit. It tastes awful for humans, but it's a highly valued de
 Weight: ^7777771^000000
 #
 17496#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 A box contains 110 silvervine fruit, As a bonus, you also have a big amount of canned food. 11 Sealed vesper scrolls you can get.
 ^ffffff_^000000
 A ripe silvervine fruit. It tastes awful for humans, but it's a highly valued delicacy in Malangdo.
@@ -49402,13 +49442,13 @@ In addition you get a 11 sealed dracula scroll II.
 Weight: ^7777771^000000
 #
 17524#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 A box contains 10 Limited power boosters, In addition you get a 1 sealed beelzebub scroll II.
 ^ff0000This item is not refundable once you open it.^000000
 Weight: ^7777771^000000
 #
 17525#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 A box contains 100 Limited power boosters, In addition you get a 1 sealed beelzebub scroll II.
 ^ff0000This item is not refundable once you open it.^000000
 Weight: ^7777771^000000
@@ -54783,7 +54823,7 @@ Weight: ^7777771^000000
 22619#
 Is there a way to summon the ghost scrolls written.
 Ghost will not really out surely?
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 Weight: ^7777770^000000
 #
 22620#
@@ -54822,7 +54862,7 @@ This package contains Angel Ring Balloon, Safe to 7 Armor/Weapon Certificate, Ol
 Weight: ^7777771^000000
 #
 22652#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 For a hat that is unknown, this packaging has a very colorful box. A sensational hat has written is inside.
 Weight: ^77777720^000000
 #
@@ -54900,7 +54940,7 @@ Weight: ^7777770^000000
 Let's open only when alone.
 I no know it has before opening.
 (When christmas events end, this item will be delete.)
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 Weight: ^7777770^000000
 #
 22686#
@@ -54935,7 +54975,7 @@ Is labeled "Enable bodily functions and temporarily manage to be extremely agile
 Weight: ^7777773^000000
 #
 22700#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 A box containing 1 white slimp potion box, Beginners fly wing box(200), Novice Butterfly Wing(50), and 5 boxes that containing quivers y oridecons.
 "Caution - When you unpack the box, the weight and quantity in excess of possession limit state, the items may be lost!."
 Weight: ^7777770^000000
@@ -54947,13 +54987,13 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 22734#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 Pay per remain in second place in the competition of faster trivial.
 A box contains for example 2 Blacksmith's Blessing, 1 Seagod's Anger, 1 Enchanted Letter Introduction.
 Weight: ^7777771^000000
 #
 22735#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 Edition limited sealed moonlight flower Scroll.
 Sealed moonlight flower card, Safe to 9 Weapon Certificate, Safe to 9 Armor Certificate, Infinity Shadow Earring, Costume: Alive Ten Gallon Hat Of Flame, Infinite Giant Fly Wing Box V, Blacksmith's Blessing, Gold and other rare items, only can get one of the items.
 Weight: ^7777771^000000
@@ -55090,7 +55130,7 @@ A box for Centipede. Go fishing and wish for the biggest boy
 (The item disappears after Event Period)
 #
 22764#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 A box contains 1 pet exchange ticket.
 What type of pet unknown will find inside.
 Weight: ^7777771^000000
@@ -55131,7 +55171,7 @@ Energy of Carp soars to decrease 30% of Magic Damage from all type monsters for 
 Weight: ^7777771^000000
 #
 22777#
-^ff0000This item is impossible to deal with another account.^000000
+^ff0000Cannot be traded.^000000
 Using G-Points sold this gift with a selection of buffs.
 A box contains 5 [No For Sale]Small Life Potion, 10 [No For Sale]Blessing Scrolls Lv 5, 10 [No For Sale] Increase Agi Lv 5.
 Extra, a box contains 2 [No for sale]foods level 10 each group.
