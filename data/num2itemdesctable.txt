@@ -9468,7 +9468,7 @@ Inflict 30% more damage on Shell Fishes.
 +30% damage on ^0000BBWater^000000
 Property monsters
 30% chance of Gaining
-'Raw Fish'	each time
+'Raw Fish' each time
 a Fish Monster is killed.
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
@@ -9773,7 +9773,7 @@ Inflict 30% more damage on Crabs.
 +30% damage on ^0000BBWater^000000
 Property monsters
 30% chance of Gaining
-'Raw Fish'	each time
+'Raw Fish' each time
 a Fish Monster is killed.
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
@@ -27882,7 +27882,7 @@ contain a gift.
 Weight: ^77777720^000000
 #
 12024#
-Most people who see		this pretty red pouch are
+Most people who see this pretty red pouch are
 seized by the urge to open it and see what's inside.
 ^ffffff_^000000
 Weight: ^7777775^000000
@@ -31112,14 +31112,14 @@ Can be traded and put into storage.
 Weight: ^777777100^000000
 #
 12557#
-Contains a permanent Mjolnir,	which is UNTRADABLE, you can trade a permanent Godly Item at the Godly item Confiscator in Prontera Castle.
+Contains a permanent Mjolnir, which is UNTRADABLE, you can trade a permanent Godly Item at the Godly item Confiscator in Prontera Castle.
 Please give this box to the account that is to OWN the God item.
 Can be traded and put into storage.
 ^FF0000WARNING: This box has no contents if opened on the Valkyrie server.^000000
 Weight: ^777777100^000000
 #
 12558#
-Contains a permanent Megingiorde,	which is UNTRADABLE, you can trade a permanent Godly Item at the Godly item Confiscator in Prontera Castle.
+Contains a permanent Megingiorde, which is UNTRADABLE, you can trade a permanent Godly Item at the Godly item Confiscator in Prontera Castle.
 Please give this box to the account that is to OWN the God item.
 Can be traded and put into storage.
 ^FF0000WARNING: This box has no contents if opened on the Valkyrie server.^000000
@@ -31731,7 +31731,7 @@ Weight: ^7777772^000000
 #
 12725#
 Removes all abnormal states and debuffs and prevents any abnormal state or debuff effects for 30 seconds.
-Also you get +25% of recovery and it can be used while stunned, frozen,	and deep sleep.
+Also you get +25% of recovery and it can be used while stunned, frozen, and deep sleep.
 5 minutes of waiting time to reuse.
 Maximum carrying amount:10
 ^ffffff_^000000
@@ -38273,7 +38273,7 @@ Weight: ^7777771^000000
 A box containing 1 'Koneko Hat' in it.
 A magical kitty hat which shows various expressions on its face.
 Reduces Cast Delay of all skills by 3 %.
-MATK +3 %,	MaxSP +3%. MDEF +3
+MATK +3 %, MaxSP +3%. MDEF +3
 Class: ^777777Headgear^000000
 Defense: ^7777771^000000
 Location: ^777777Upper^000000
@@ -39802,8 +39802,8 @@ Weight: ^7777771^000000
 #
 14114#
 A box that contains 10 special scrolls that
-"can transport you once to Nogg Road, Mjolnir Dead Pit,Umbala Dungeon, Einbroch Mine Dungeon, Payon Dungeon, Toy Dungeon, Glast Heim Underprison,	Louyang Dungeon, Hermit's Checkers, Izlude Dungeon, Turtle Island Dungeon, Clock Tower B3F, Clock Tower 3F, Glast Heim Culvert 2F, Sphinx Dungeon 4F,
-Inside Pyramid 4F, Prontera Culvert 3F, Amatsu Dungeon 1F (Tatami Maze),	Somatology Laboratory 1st Floor, or Ayothaya Ancient Shrine 2F."
+"can transport you once to Nogg Road, Mjolnir Dead Pit,Umbala Dungeon, Einbroch Mine Dungeon, Payon Dungeon, Toy Dungeon, Glast Heim Underprison, Louyang Dungeon, Hermit's Checkers, Izlude Dungeon, Turtle Island Dungeon, Clock Tower B3F, Clock Tower 3F, Glast Heim Culvert 2F, Sphinx Dungeon 4F,
+Inside Pyramid 4F, Prontera Culvert 3F, Amatsu Dungeon 1F (Tatami Maze), Somatology Laboratory 1st Floor, or Ayothaya Ancient Shrine 2F."
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
 Warning: After use, if you don't select any within a minute, it will not be effective anymore.
@@ -45859,7 +45859,7 @@ Weight: ^7777771^000000
 16381#
 A box containing 10 teleport scrolls that warp you to the Siege Areas.
 Many castles are indicated in this scroll. When you tear it out you can move to the Siege Areas.
-"Neunschwanstein", "Hohenschwangau", "Nuerenberg", "Wrzburg", "Rothenburg", "Repherion", "Eeyorbriggar", "Yesnelph", "Bergel", "Mersetzdeitz",	"Bright	Arbor", "Sacred Palace", "Holy Shadow", "Scarlet Palace", "Bamboo Grove Hill", "Kriemhild", "Swanhild", "Fadhgridh"", "Skoegul", "Gondul"
+"Neunschwanstein", "Hohenschwangau", "Nuerenberg", "Wrzburg", "Rothenburg", "Repherion", "Eeyorbriggar", "Yesnelph", "Bergel", "Mersetzdeitz", "Bright	Arbor", "Sacred Palace", "Holy Shadow", "Scarlet Palace", "Bamboo Grove Hill", "Kriemhild", "Swanhild", "Fadhgridh"", "Skoegul", "Gondul"
 Weight: ^7777771^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 Weight: ^7777771^000000
@@ -47266,9 +47266,9 @@ Weight: ^7777771^000000
 a box that has cutlassfish (1 hour rental)
 ^000088rental item^000000
 A frozen fish used as a sword.
-CRIT +20, critical damage	50% increase
+CRIT +20, critical damage 50% increase
 when Attacking, it gives the freeze status at regular rate to enemy.
-when Base	LV over 100 , ATK +50 .
+when Base LV over 100 , ATK +50 .
 Class: ^777777Both HandsSword^000000
 Attack: ^777777220^000000
 Weight: ^7777770^000000
@@ -47282,9 +47282,9 @@ Weight: ^7777771^000000
 a box that has cutlassfish ( 7 day rental)
 ^000088rental item^000000
 A frozen fish used as a sword.
-CRIT +20, critical damage	50% increase
+CRIT +20, critical damage 50% increase
 when Attacking, it gives the freeze status at regular rate to enemy.
-when Base	LV over 100 , ATK +50 .
+when Base LV over 100 , ATK +50 .
 Class: ^777777Both HandsSword^000000
 Attack: ^777777220^000000
 Weight: ^7777770^000000
@@ -47331,8 +47331,8 @@ a box that has	a horse mackerel (1 hour rental)
 ^000088rental item^000000
 it is amazingly freezed
 MATK +100.
-when closer physical Attack,	ATK +30 for 7 sec
-when magical	Attack,	MATK +20 for 7 sec
+when closer physical Attack, ATK +30 for 7 sec
+when magical	Attack, MATK +20 for 7 sec
 if base level is over 100 ÀÌ, ATK +10, MATK +10
 Class: ^777777One-Handed Sword^000000
 Attack: ^777777160^000000
@@ -47348,8 +47348,8 @@ a box that has	a horse mackerel (7 days rental)
 ^000088rental item^000000
 it is amazingly freezed
 MATK +100.
-when closer physical Attack,	ATK +30 for 7 sec
-when magical	Attack,	MATK +20 for 7 sec
+when closer physical Attack, ATK +30 for 7 sec
+when magical Attack, MATK +20 for 7 sec
 if base level is over 100, ATK +10, MATK +10
 Class: ^777777One-Handed Sword^000000
 Attack: ^777777160^000000
@@ -47397,7 +47397,7 @@ a box that has snow crab from malang area (1 hour rental)
 ^000088rental item^000000
 usually, lives in sand or mud
 LUK +3, critical damage increase 50%.
-if base LV over100, distance	physical Attack 20% add
+if base LV over100, distance physical Attack 20% add
 Class: ^777777bow^000000
 Attack: ^777777120^000000
 Weight: ^7777770^000000
@@ -47412,7 +47412,7 @@ a box that has snow crab from Malangdo (7 days rental)
 ^000088rental item^000000
 usually, lives in sand or mud
 LUK +3, critical damage increase 50%.
-if base LV over100, distance	physical Attack 20% add
+if base LV over100, distance physical Attack 20% add
 Class: ^777777bow^000000
 Attack: ^777777120^000000
 Weight: ^7777770^000000

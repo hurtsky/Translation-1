@@ -9800,8 +9800,8 @@
 18669#Cowhide_Hat#
 18670#Handkerchief_In_Mouth#
 18671#Rudolf_Hairband#
-18672#Chibi_Pope#
-18673#Chibi_Pope#
+18672#Drooping_Pope#
+18673#Drooping_Pope#
 18674#Planewing_Hat#
 18675#Green_Apple_Hat#
 18676#Hexagon_Spectacles#
@@ -9846,9 +9846,9 @@
 18719#Angel_Stars#
 18720#Magical_Booster#
 18721#Sweet_Valentine_Hat#
-18722#Ear_Featgers_Wings#
+18722#Winged_Feather_Ears#
 18723#AuraQuarts_Crown#
-18724#Baphomet_Horns#
+18724#Large_Majestic_Goat#
 18725#Rabbit_Knit_Hat#
 18726#Sky_Met#
 18727#Sedora_Hat#
@@ -9859,7 +9859,7 @@
 18732#TE_WoE_Cap#
 18733#TE_WoE_Bone_Helm#
 18734#TE_WoE_Magic_Eyes#
-18735#Fairy_ears#
+18735#Fairy_Ears#
 18736#Anonymous_Invitation#
 18737#Fortier_Masque#
 18738#White_Boys_cap#
