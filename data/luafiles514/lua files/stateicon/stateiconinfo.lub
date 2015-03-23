@@ -1011,11 +1011,14 @@ StateIconList[EFST_IDs.EFST_NOEQUIPARMOR] = {
   }
 }
 StateIconList[EFST_IDs.EFST_ENERGYCOAT] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
   descript = {
     {
       "Energy Coat",
       COLOR_TITLE_BUFF
     },
+    {"%s", COLOR_TIME},
     {
       "Reduce the damage from enemy"
     },
