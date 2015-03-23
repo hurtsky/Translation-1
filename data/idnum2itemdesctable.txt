@@ -18847,7 +18847,7 @@ Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Level Limit : ^777777120^000000
+Level Limit: ^777777120^000000
 Jobs: ^777777All^000000
 #
 2886#
@@ -19258,7 +19258,7 @@ Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
-Level Limit : ^77777712^000000
+Level Limit: ^77777712^000000
 Jobs: ^777777Novice Class^000000
 #
 2941#
@@ -19269,7 +19269,7 @@ Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
-Level Limit : ^77777712^000000
+Level Limit: ^77777712^000000
 Jobs: ^777777Novice Class^000000
 #
 2942#
@@ -19280,7 +19280,7 @@ Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
-Level Limit : ^77777712^000000
+Level Limit: ^77777712^000000
 Jobs: ^777777Novice Class^000000
 #
 2943#
@@ -19358,7 +19358,7 @@ Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Level Limit : ^777777100^000000
+Level Limit: ^777777100^000000
 Jobs: ^777777All^000000
 #
 2951#
@@ -67351,7 +67351,7 @@ Class: ^777777Armor^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
 Required level: ^7777771^000000
-Level Limit : ^777777100^000000
+Level Limit: ^777777100^000000
 Jobs: ^777777All^000000
 #
 15068#
@@ -67686,7 +67686,7 @@ Required Level: ^777777145^000000
 Jobs: ^777777All^000000
 #
 15128#
-A Suit which made from the lost technology in Research Building.
+A suit which made from the lost technology in Research Building.
 VIT +6.
 If base level over 130, add VIT +4.
 Every 3 refine, increase MaxHP +4%.
@@ -87040,7 +87040,7 @@ Class: ^777777Garment^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Level Limit : ^777777100^000000
+Level Limit: ^777777100^000000
 Jobs: ^777777All^000000
 #
 20710#
@@ -87355,7 +87355,7 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 20773#
-A wing which made from the lost technology in Research Building.
+A wing which made from the lost technology in Research Building Ruins.
 Perfect Dodge +8.
 If base level over 130, add Perfect Dodge +2.
 Every refine increase Flee +2.
@@ -87458,7 +87458,7 @@ Attack: ^777777330^000000
 Weight: ^777777250^000000
 Weapon Level: ^7777771^000000
 Required Level: ^777777150^000000
-Jobs: ^777777Knight/Crusader class^000000
+Jobs: ^777777Knight and Crusader^000000
 #
 21008#
 #
@@ -87470,24 +87470,24 @@ When Receiving Physical Attack,5% less chance of HP,SP Drain.
 Drains 100 HP every 10 seconds.
 Drains 1,000 HP when unequipped.
 MATK +120
-Class: ^777777One-Handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777280^000000
 Weight: ^777777130^000000
 Weapon Level: ^7777774^000000
 Required Level: ^777777120^000000
-Class: ^777777Swordsman Class^000000
+Class: ^777777Swordsman^000000
 #
 21010#
 This Two-Handed Sword was once used for vanquishing an evil slayer and his followers.
 Increase damage against Demon and Undead monster by 10%.
 Refined to +9, increase ATK by 5%
 Refined to +12, increase ATK by 7%
-Class: ^777777Two Handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777225^000000
 Weight: ^777777200^000000
 Weapon Level: ^7777773^000000
 Required Level: ^777777100^000000
-Jobs: ^777777Knight and Crusader class^000000
+Jobs: ^777777Knight and Crusader^000000
 #
 21011#
 A large knife used to cut something, the handle is missing.
@@ -87576,7 +87576,7 @@ Class: ^777777Footgear^000000
 Defense: ^77777725^000000
 Weight: ^77777760^000000
 Required Level: ^77777799^000000
-Jobs: ^777777Only 3rd class^000000
+Jobs: ^7777773rd Class^000000
 #
 22001#
 These boots are obviously old but they show no signs of wear and tear.
@@ -87588,7 +87588,7 @@ Class: ^777777Footgear^000000
 Defense: ^77777720^000000
 Weight: ^77777760^000000
 Required Level: ^77777799^000000
-Jobs: ^777777Only 3rd class^000000
+Jobs: ^7777773rd Class^000000
 #
 22002#
 These boots are obviously old but they show no signs of wear and tear.
@@ -87599,7 +87599,7 @@ Class: ^777777Footgear^000000
 Defense: ^77777725^000000
 Weight: ^77777760^000000
 Required Level: ^77777799^000000
-Jobs: ^777777Only 3rd class^000000
+Jobs: ^7777773rd Class^000000
 #
 22003#
 These boots are obviously old but they show no signs of wear and tear.
@@ -87610,7 +87610,7 @@ Class: ^777777Footgear^000000
 Defense: ^77777725^000000
 Weight: ^77777760^000000
 Required Level: ^77777799^000000
-Jobs: ^777777Only 3rd class^000000
+Jobs: ^7777773rd Class^000000
 #
 22004#
 These boots are obviously old but they show no signs of wear and tear.
@@ -87621,7 +87621,7 @@ Class: ^777777Footgear^000000
 Defense: ^77777725^000000
 Weight: ^77777760^000000
 Required Level: ^77777799^000000
-Jobs: ^777777Only 3rd class^000000
+Jobs: ^7777773rd Class^000000
 #
 22005#
 These boots are obviously old but they show no signs of wear and tear.
@@ -87633,7 +87633,7 @@ Class: ^777777Footgear^000000
 Defense: ^77777720^000000
 Weight: ^77777760^000000
 Required Level: ^77777799^000000
-Jobs: ^777777Only 3rd class^000000
+Jobs: ^7777773rd Class^000000
 #
 22006#
 These boots are obviously old but they show no signs of wear and tear.
@@ -87644,7 +87644,7 @@ Class: ^777777Footgear^000000
 Defense: ^77777725^000000
 Weight: ^77777760^000000
 Required Level: ^77777799^000000
-Jobs: ^777777Only 3rd class^000000
+Jobs: ^7777773rd Class^000000
 #
 22007#
 These boots are obviously old but they show no signs of wear and tear.
@@ -87655,7 +87655,7 @@ Class: ^777777Footgear^000000
 Defense: ^77777725^000000
 Weight: ^77777760^000000
 Required Level: ^77777799^000000
-Jobs: ^777777Only 3rd class^000000
+Jobs: ^7777773rd Class^000000
 #
 22008#
 These boots are obviously old but they show no signs of wear and tear.
@@ -87666,7 +87666,7 @@ Class: ^777777Footgear^000000
 Defense: ^77777725^000000
 Weight: ^77777760^000000
 Required Level: ^77777799^000000
-Jobs: ^777777Only 3rd class^000000
+Jobs: ^7777773rd Class^000000
 #
 22009#
 These boots are obviously old but they show no signs of wear and tear.
@@ -87678,7 +87678,7 @@ Class: ^777777Footgear^000000
 Defense: ^77777720^000000
 Weight: ^77777760^000000
 Required Level: ^77777799^000000
-Jobs: ^777777Only 3rd class^000000
+Jobs: ^7777773rd Class^000000
 #
 22010#
 These boots are obviously old but they show no signs of wear and tear.
@@ -87689,7 +87689,7 @@ Class: ^777777Footgear^000000
 Defense: ^77777725^000000
 Weight: ^77777760^000000
 Required Level: ^77777799^000000
-Jobs: ^777777Only 3rd class^000000
+Jobs: ^7777773rd Class^000000
 #
 22011#
 These boots are obviously old but they show no signs of wear and tear.
@@ -87701,7 +87701,7 @@ Class: ^777777Footgear^000000
 Defense: ^77777720^000000
 Weight: ^77777760^000000
 Required Level: ^77777799^000000
-Jobs: ^777777Only 3rd class^000000
+Jobs: ^7777773rd Class^000000
 #
 22012#
 ^000088Rental Item^000000
@@ -87711,7 +87711,7 @@ Class: ^777777Footgear^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Level Limit : ^777777100^000000
+Level Limit: ^777777100^000000
 Jobs: ^777777All^000000
 #
 22014#

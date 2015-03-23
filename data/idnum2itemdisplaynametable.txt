@@ -8442,7 +8442,7 @@
 15119#PRO_10th_Robe#
 15120#PRO_10th_Shoes#
 15121#Sarah_Combat_Robe#
-15128#Excellent_Suit#
+15128#Excellion_Suit#
 15138#Aegir_Armor#
 15141#Ancient_Armor_Of_The_Goddess#
 15145#Evil_Dragon_Armor#
@@ -10915,7 +10915,7 @@
 20764#[Costume]_Fallen_Angel_Wing#
 20765#[Costume]_Archangel_Wing#
 20768#Large_Angel_Wings#
-20773#Excellent_Wing#
+20773#Excellion_Wing#
 21000#Upgrade_Two-Handed_Sword#
 21001#Vellum_Claymore#
 21002#Vellum_Katzbalger#
@@ -10924,13 +10924,13 @@
 21005#Metal_Two-Handed_Sword#
 21006#TE_WoE_Two-Handed_Sword#
 21007#Heavy_Sword#
-21008##
+21008#Kogarasu_Maru#
 21009#Thanatos_Great_Sword#
 21010#Evil_Slayer_Slasher_Sword#
 21011#Gigantic_Blade#
 21014#Infinity_Two-Handed_Sword#
 21015#Crimson_Two-Handed_Sword#
-21016#Two_Handed_Sword_of_Evil_Spirit#
+21016#Two-Handed_Sword_of_Evil_Spirit#
 21018#Lindy_hop#
 21019#Onimaru#
 22000#Temporal_Boots_Of_Strength#
