@@ -19085,6 +19085,8 @@ Weight: ^7777770^000000
 6588#
 #
 6589#
+A crystallized fire fragments.
+Weight: ^7777770^000000
 #
 6590#
 #
@@ -19097,22 +19099,45 @@ Weight: ^7777770^000000
 6594#
 #
 6595#
+Blacksmith Velund's hammer.
+It shows a lot of wear and tear.
+Weight: ^77777750^000000
 #
 6596#
+Blacksmith Velund's anvil.
+All the legendary weapons and armor made by Velund were hammered on this anvil.
+Weight: ^777777200^000000
 #
 6597#
+Velund made this exquisite bracelet for his loving wife.
+Weight: ^77777750^000000
 #
 6598#
+This rib extracted from the giant snake, Jormungand, boasts incredible size and durability.
+Weight: ^777777100^000000
 #
 6599#
+The spirit of Hugin, Odin's familiar crow that governs memories, is given shape and form.
+This has the ability to suppress Jormungand's magical force.
+Weight: ^77777710^000000
 #
 6600#
+The spirit of Munin, Odin's familiar crow that governs memories, is given shape and form.
+This has the ability to suppress Jormungand's magical force.
+Weight: ^77777710^000000
 #
 6601#
+This chisel can carve and shape even the strongest rock. It's just too big for hands smaller than a Giant's.
+Weight: ^777777100^000000
 #
 6602#
+This old book is filled with various rune spells that call upon Odin.
+Weight: ^77777710^000000
 #
 6603#
+A scrap of thick fur severed from a monstrous bird.
+This has the ability to suppress Jormungand's magical force.
+Weight: ^77777750^000000
 #
 6604#
 The essence of rune mana that is extracted from rune stones.
