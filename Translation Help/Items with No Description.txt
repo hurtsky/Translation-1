@@ -12338,46 +12338,4 @@ Weight : ^7777771^000000
 Weight : ^7777771^000000
 0
 0
-17306
-스테이터스 초기화권 상자
-^ff0000You cannot Trade this item.^000000
-스테이터스 초기화권이 1개 들어있는 상자.
-^ffffff_^000000
-스테이터스 초기화권 - 스테이터스를 초기화 시켜준다.
-^ff0000For this item, the cancellation of purchase or refund is not allowed..^000000
-^ffffff_^000000
-Weight : ^7777771^000000
-스테이터스 초기화권 상자
-^ff0000You cannot Trade this item.^000000
-스테이터스 초기화권이 1개 들어있는 상자.
-^ffffff_^000000
-스테이터스 초기화권 - 스테이터스를 초기화 시켜준다.
-^ff0000For this item, the cancellation of purchase or refund is not allowed..^000000
-^ffffff_^000000
-Weight : ^7777771^000000
-0
-0
 
-
-// Equipments
-20721
-망토
-Unknown Item, can be identified by [Magnifier]
-흙빛의 망토
-흙빛의 조각들로 빚어진 망토. 사크라이의 버려진 옛 기억들이 성스러운 힘과 허무의 공포로부터 당신을 지킨다.
-
-성Property 내성 5 %
-제련 2 당 성Property 내성 1 % 증가
-
-흙빛의 Armor, 흙빛의 Headgear , 흙빛의 Shoes과 함께 착용 시 무Property 내성 15% 증가, 근접 물리 데미지를 입을 때 일정 확률로 드레인 라이프 3 Level 발동.
-
-흙빛의 로브, 흙빛의 Headgear , 흙빛의 Shoes과 함께 착용 시 무Property 내성 15% 증가, MHP, MSP 25% 증가, MATK 10% 증가.
-
-Class : ^777777Defense구^000000
-Defense : ^77777745^000000
-Location: ^777777Garment ^000000
-Weight : ^77777760^000000
-Required Level : ^777777120^000000
-Jobs : ^777777 ThirdJobs Only^000000
-1
-0

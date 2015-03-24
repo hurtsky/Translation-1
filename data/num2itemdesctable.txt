@@ -49094,8 +49094,17 @@ Weight: ^7777770^000000
 17304#
 #
 17305#
+A collection of Spring headgears. Each egg is guaranteed to contain a costume headgear.
+Weight: ^7777771^000000
 #
 17306#
+^ff0000Cannot be traded.^000000
+Contain 1 Reset Status Book.
+^ffffff_^000000
+Allow player to reset their status.
+^ff0000Withdrawal is impossible once this box is opened.^000000
+^ffffff_^000000
+Weight: ^7777771^000000
 #
 17308#
 #
