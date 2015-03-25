@@ -54436,15 +54436,19 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 22029#
 #
 22030#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 22031#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 22032#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 22033#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 22034#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 22035#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -54456,8 +54460,10 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 22038#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 22039#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 22043#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -54480,8 +54486,6 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 22067#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
-22506#
-#
 22507#
 This old, discolored scroll, sustained with the mana used for maintaining distorted spaces, sends its user to a random space.
 Weight: ^7777771^000000
@@ -54492,8 +54496,6 @@ Emblem only for Eden Group members. It is made to be easy to carry.
 Warps you back to your savepoint when used.
 Reuse waiting time: 120 minutes
 Weight: ^7777770^000000
-#
-22509#
 #
 22510#
 ^ff0000You cannot Trade this item.^000000

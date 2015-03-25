@@ -79089,6 +79089,9 @@ A hat that protect child's head from sunlight.
 MaxHP +500.
 Reduce fire damage by 5%.
 Refined to +6, further reduce fire damage by 5%.
+[+^008800Shoes of Hope^000000]
+Increase the heal amount received from Heal, Sanctuary, Potion Pitcher, Highness Heal, Coluseo Heal and Healing items by 5%.
+When base level below 80, Increase movement speed.
 Class: ^777777Headgear^000000
 Defense: ^7777778^000000
 Location: ^777777Upper^000000
@@ -88059,22 +88062,54 @@ Jobs: ^777777Novice^000000
 22029#
 #
 22030#
+Battle boots, supremacy symbol of Genetic Scholar.
+Every 2 refine, MaxHP +100, MaxSP +1%.
+When equipped with the shawl, increase Cart Tornado damage by 10%, when base INT is 100, increase Blood Sucker damage by 10%.
+Class: ^777777Footgear^000000
+Defense: ^77777720^000000
+Weight: ^7777770^000000
+Required Level: ^77777799^000000
+Jobs: ^777777Scholar^000000
 #
 22031#
+A shoes wore by a man who collects many kind of insects.
+Give 5% more experience when defeating Insect monster.
+Every refine further gives 1% more experience when defeating Insect monster.
+Class: ^777777Footgear^000000
+Defense: ^77777710^000000
+Weight: ^77777730^000000
+Required Level: ^77777730^000000
+Jobs: ^777777All^000000
 #
 22032#
+A shoes wore by a man, all years of his experience has been accumulated in this shoes.
+Give 5% more experience when defeating Demon monster.
+Every refine further gives 1% more experience when defeating Demon monster.
+Class: ^777777Footgear^000000
+Defense: ^77777710^000000
+Weight: ^77777730^000000
+Required Level: ^77777730^000000
+Jobs: ^777777All^000000
 #
 22033#
 Sculpted out of Gray Shard and infused with Sakray's old, abandoned memories, these shoes protect their wearer against holiness and fear.
 Holy Resistance 2%.
 Additional Holy Resistance +1% per 3 Upgrade levels.
-Class: ^777777Footwear^000000
+Class: ^777777Footgear^000000
 Defense: ^77777725^000000
 Weight: ^77777740^000000
 Required Level: ^777777120^000000
 Job: ^7777773rd Classes^000000
 #
 22034#
+Gaiter dyed with the blood of defeated enemies.
+CRIT +2, Critical damage +2%.
+Refined to +7, CRIT +3, Critical damage +3%.
+Class: ^777777Footgear^000000
+Defense: ^77777710^000000
+Weight: ^77777750^000000
+Required Level: ^77777750^000000
+Jobs: ^777777All^000000
 #
 22035#
 This technology will help you to be faster. Made with nepenthes leaves, known for their effect to alleviate muscle tension.
@@ -88108,8 +88143,27 @@ Required Level: ^777777160^000000
 Jobs: ^777777All^000000
 #
 22038#
+A shiny shoes that symbolize a life hope.
+MaxHP/MaxSP +5%.
+Refined to +6, MaxHP/MaxSP +5%.
+[+^008800Kindergarten Hat^000000]
+Increase the heal amount received from Heal, Sanctuary, Potion Pitcher, Highness Heal, Coluseo Heal and Healing items by 5%.
+When base level below 80, Increase movement speed.
+Class: ^777777Footgear^000000
+Defense: ^7777773^000000
+Weight: ^77777710^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 22039#
+Boots contain the power of four major elements.
+Increase damage and reduce cast time of Fire Bolt, Cold Bolt, Lightning Bolt and Earth Spike by 3%.
+Refined to +6, every refine increase damage and reduce cast time of Fire Bolt, Cold Bolt, Lightning Bolt and Earth Spike by 1%.
+Class: ^777777Footgear^000000
+Defense: ^77777710^000000
+Weight: ^77777710^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 22043#
 That whole body gently machine boots. Is heavier than I thought, but is light weight well.
@@ -88189,8 +88243,6 @@ Weight: ^77777740^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All jobs, Except Novice^000000
 #
-22506#
-#
 22507#
 This old, discolored scroll, sustained with the mana used for maintaining distorted spaces, sends its user to a random space.
 Weight: ^7777771^000000
@@ -88201,8 +88253,6 @@ Emblem only for Eden Group members. It is made to be easy to carry.
 Warps you back to your savepoint when used.
 Reuse waiting time: 120 minutes
 Weight: ^7777770^000000
-#
-22509#
 #
 22510#
 ^ff0000You cannot Trade this item.^000000
