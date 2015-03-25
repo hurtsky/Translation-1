@@ -4440,14 +4440,14 @@ Required Level: ^777777140^000000
 Jobs: ^777777Guillotine Cross^000000
 #
 1292#
-Katar made from golden oridecon.
+A katar that is coated with elunium and gold.
 Every refine increase ATK +10, Critical Damage +2%
 Base Level 70: every 10 base level increase ATK +10
 Class: ^777777Katar^000000
 Attack: ^77777780^000000
 Weight: ^777777100^000000
 Weapon Level: ^7777773^000000
-Required Level: ^777777140^000000
+Required Level: ^7777771^000000
 Jobs: ^777777Assassin^000000
 #
 1293#
@@ -4634,7 +4634,7 @@ Attack: ^777777130^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777780^000000
-Jobs: ^777777Swordman Class / Merchant Class^000000
+Jobs: ^777777Swordman and Merchant^000000
 #
 1311#
 A luxurious axe decorated in red. It creates wind with a unique sound when you wave it.
@@ -4646,7 +4646,7 @@ Attack: ^777777140^000000
 Weight: ^777777150^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777750^000000
-Jobs: ^777777Transcendent Swordman/Merchant Classes^000000
+Jobs: ^777777Transcendent Swordman and Merchant^000000
 #
 1312#
 ^ff0000Item cannot be traded with other characters.^000000
@@ -5038,7 +5038,7 @@ Attack: ^777777205^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Swordman Class, Merchant Class^000000
+Jobs: ^777777Swordman and Merchant^000000
 #
 1374#
 ^000088Rental Item^000000
@@ -5140,7 +5140,7 @@ Attack: ^777777215^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Swordman Class, Merchant Class^000000
+Jobs: ^777777Swordman and Merchant^000000
 #
 1379#
 A terrifying two-handed axe that is said to stimulate the nerves in order to kill Demihumans, once it's in the wearer's hands.
@@ -5192,7 +5192,7 @@ Attack: ^777777220^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Lv: ^77777780^000000
-Jobs: ^777777Swordman Class / Merchant Class^000000
+Jobs: ^777777Swordman and Merchant^000000
 #
 1383#
 Increases damage against Undead monster by 10%.
@@ -5246,18 +5246,18 @@ Attack: ^77777720^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777770^000000
-Jobs: ^777777Swordman Class, Merchant Class^000000
+Jobs: ^777777Swordman and Merchant^000000
 #
 1387#
 This giant axe seems like it's impossible to pick up and wave.
-The attack power of 'High Speed Cart Ram' increases by 15%.
-When STR is over 95, HIT +10, ASPD +3% (after-attack delay).
+The attack power of 'Cart Termination' increases by 15%.
+When STR is over 95, HIT +10, ASPD +3%.
 Class: ^777777Two-Handed Axe^000000
 Attack: ^777777330^000000
 Weight: ^777777400^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777750^000000
-Jobs: ^777777Transcendent Swordman/Merchant Classes^000000
+Jobs: ^777777Transcendent Swordman and Merchant^000000
 #
 1388#
 ^000088Rental Items^000000
@@ -5267,7 +5267,7 @@ Class: ^777777Two-Handed Axe^000000
 Attack: ^777777220^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Swordman Class, Merchant Class^000000
+Jobs: ^777777Swordman and Merchant^000000
 #
 1391#
 An axe that is made by the Eden Group. It is suitable for those who have more advanced experience handling two-handed axes.
@@ -5277,7 +5277,7 @@ Attack: ^777777195^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777760^000000
-Jobs: ^777777Swordman Class / Merchant Class^000000
+Jobs: ^777777Swordman and Merchant^000000
 #
 1392#
 A large axe made by a blacksmith from the fires of a volcano.
@@ -5289,7 +5289,7 @@ Weight: ^777777190^000000
 Property: ^FF0000Fire^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777795^000000
-Jobs: ^777777Transcendent Swordman and Merchant Classes^000000
+Jobs: ^777777Transcendent Swordman and Merchant^000000
 #
 1393#
 An axe made of arctic ice.
@@ -5301,7 +5301,7 @@ Weight: ^777777190^000000
 Property: ^0000BBWater^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777795^000000
-Jobs: ^777777Transcendent Swordman and Merchant Classes^000000
+Jobs: ^777777Transcendent Swordman and Merchant^000000
 #
 1394#
 Two-Handed Axe that is coated by Oridecon and Gold with perfect level.
@@ -6988,7 +6988,7 @@ Class: ^777777Mace^000000
 Attack: ^777777150^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
-Jobs: ^777777Swordman Class, Merchant Class^000000
+Jobs: ^777777Swordman and Merchant^000000
 #
 1548#
 A hard hammer made out of the pieces of a meteorite from space.
@@ -14993,7 +14993,7 @@ Class: ^777777Footgear^000000
 Defense: ^77777730^000000
 Weight: ^77777775^000000
 Required Level: ^77777795^000000
-Jobs: ^777777Swordman Class / Merchant Class^000000
+Jobs: ^777777Swordman and Merchant^000000
 #
 2484#
 *Stats during WoE & PVP
@@ -56701,7 +56701,7 @@ Attack: ^777777130^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777780^000000
-Jobs: ^777777Swordman Class / Merchant Class^000000
+Jobs: ^777777Swordman and Merchant^000000
 #
 13419#
 ^000088Rental Item^000000
@@ -56731,7 +56731,7 @@ Attack: ^777777170^000000
 Weight: ^777777150^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777750^000000
-Jobs: ^777777Transcendent Swordman/Merchant Classes^000000
+Jobs: ^777777Transcendent Swordman and Merchant^000000
 #
 13422#
 ^000088Rental Items^000000
@@ -92520,7 +92520,7 @@ Attack: ^777777265^000000
 Weight: ^77777750^000000
 Weapon Level: ^7777774^000000
 Required Level: ^777777100^000000
-Jobs: ^777777Swordman Class, Merchant Class^000000
+Jobs: ^777777Swordman and Merchant^000000
 #
 28106#
 Two-handed axe with red light radiance.
