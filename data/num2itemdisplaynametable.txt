@@ -8473,7 +8473,7 @@
 16025#Mace#
 16026#Mace#
 16027#Mace#
-16028#Axe#
+16028#Mace#
 16029#Mace#
 16030#µÐ±â#
 16031#µÐ±â#
@@ -11071,7 +11071,7 @@
 22679#Death_Bin#
 22685#Lonely_Christmas_Gifts#
 22686#Lonely_Christmas_Cookies#
-22687#Fragments_Vicious_Mind#
+22687#Fragment_of_Vicious_Mind#
 22691#Record_Fragment#
 22692#Record_Fragment#
 22693#Record_Fragment#
@@ -11422,7 +11422,7 @@
 28008#Katar#
 28010#Katar#
 28100#Two-Handed_Axe#
-28101#Axe#
+28101#Two-Handed_Axe#
 28103#Axe#
 28105#Two-handed_Axe#
 28106#Two-handed_Axe#

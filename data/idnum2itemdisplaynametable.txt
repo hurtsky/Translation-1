@@ -697,7 +697,7 @@
 1397#Bradium_Stone_Hammer#
 1398#Metal_Two-Handed_Axe#
 1399#TE_WoE_Two-Handed_Axe#
-1400#Spear_of_Evil_Spirit#
+1400#Spear_of_Vicious_Mind#
 1401#Javelin#
 1402#Javelin#
 1403#Javelin#
@@ -737,7 +737,7 @@
 1438#Thanatos_Spear#
 1441#Blue_Spear#
 1443#Crimson_Spear#
-1450#Lance_of_Evil_Spirit#
+1450#Lance_of_Vicious_Mind#
 1451#Guisarme#
 1452#Guisarme#
 1453#Guisarme#
@@ -882,7 +882,7 @@
 1595#Genealogy_of_Ice_God#
 1596#Earth_Pedigree_Book#
 1599#Angra_manyu#
-1600#Rod_of_Evil_Spirit#
+1600#Rod_of_Vicious_Mind#
 1601#Rod#
 1602#Rod#
 1603#Rod#
@@ -1032,7 +1032,7 @@
 1774#Hunting_Arrow#
 1775#WoE_Arrow_S#
 1776#WoE_Arrow_A#
-1800#Fist_of_Evil_Spirit#
+1800#Fist_of_Vicious_Mind#
 1801#Waghnak#
 1802#Waghnak#
 1803#Knuckle_Dusters#
@@ -1071,7 +1071,7 @@
 1836#Thanatos_Knuckles#
 1837#Iron_Nail#
 1839#Crimson_Knuckle#
-1900#Violin_of_Evil_Spirit#
+1900#Violin_of_Vicious_Mind#
 1901#Violin#
 1902#Violin#
 1903#Mandolin#
@@ -1155,7 +1155,7 @@
 1991#Blue_Whip#
 1994#Infinity_Wire#
 1995#Crimson_Wire#
-1996#Wire_of_Evil_Spirit#
+1996#Wire_of_Vicious_Mind#
 2000#Staff_of_Destruction#
 2001#Divine_Cross#
 2002#Glorious_Destruction_Staff#
@@ -1182,7 +1182,7 @@
 2023#Thanatos_Two-Handed_Staff#
 2024#Infinity_Staff#
 2025#Staff_of_Crimson#
-2026#Staff_of_Evil_Spirit#
+2026#Staff_of_Vicious_Mind#
 2027#Sunflower_Boy#
 2101#Guard#
 2102#Guard#
@@ -6974,7 +6974,7 @@
 13125#Metal_Revolver#
 13126#Infinity_Pistol#
 13127#Crimson_Revolver#
-13128#Revolver_of_Evil_Spirit#
+13128#Revolver_of_Vicious_Mind#
 13150#Branch#
 13151#Cyclone#
 13152#Cyclone#
@@ -7117,7 +7117,7 @@
 13322#Huuma_Metal_Shuriken#
 13323#Infinity_Shuriken#
 13327#Crimson_Huuma_Shuriken#
-13328#Huuma_Shuriken_of_Evil_Spirit#
+13328#Huuma_Shuriken_of_Vicious_Mind#
 13400#Cutlus#
 13401#Excalibur#
 13402#Cutlas#
@@ -7163,7 +7163,7 @@
 13450#Saber#
 13451#Blue_Sword#
 13454#Crimson_Saber#
-13455#Saber_of_Evil_Spirit#
+13455#Saber_of_Vicious_Mind#
 13500#Life_Insurrance_Box#
 13501#Experience_Scroll_Box#
 13502#Refined_Drooping_Cat_Box#
@@ -8483,7 +8483,7 @@
 16038#Infinity_Mace#
 16039#Spoon#
 16040#Crimson_Mace#
-16041#Mace_of_Evil_Spirit#
+16041#Mace_of_Vicious_Mind#
 16043#Meteor_Strike#
 16100#Angry_Mouth_Box#
 16101#Lucky_Box#
@@ -9622,7 +9622,7 @@
 18118#TE_WoE_Bow#
 18119#Thanatos_Bow#
 18120#Evil_Slayer_Piercer_Bow#
-18121#Bow_of_Evil_Spirit#
+18121#Bow_of_Vicious_Mind#
 18122#Giant_Bow#
 18123#Bow_of_Storms#
 18124#Half_BF_Bow#
@@ -10745,7 +10745,7 @@
 20129#[Costume]_Poporing_Cap#
 20130#[Costume]_Whisper_Tall_Hat#
 20131#[Costume]_Clock_Tower_Manager_Incom#
-20132#[Costume]_Evil_Spirit_Aura#
+20132#[Costume]_Vicious_Mind_Aura#
 20133#[Costume]_Poring_Mascot#
 20134#[Costume]_White_Helm_Of_Abyss#
 20135#[Costume]_12th_Anniversary_Crown#
@@ -10930,7 +10930,7 @@
 21011#Gigantic_Blade#
 21014#Infinity_Two-Handed_Sword#
 21015#Crimson_Two-Handed_Sword#
-21016#Two-Handed_Sword_of_Evil_Spirit#
+21016#Two-Handed_Sword_of_Vicious_Mind#
 21018#Lindy_hop#
 21019#Onimaru#
 22000#Temporal_Boots_Of_Strength#
@@ -11071,7 +11071,7 @@
 22679#Death_Bin#
 22685#Lonely_Christmas_Gifts#
 22686#Lonely_Christmas_Cookies#
-22687#Fragments_Vicious_Mind#
+22687#Fragment_of_Vicious_Mind#
 22691#Record_Fragment#
 22692#Record_Fragment#
 22693#Record_Fragment#
@@ -11419,15 +11419,15 @@
 28002#Half_BF_Katar2#
 28005#Blue_Katar#
 28007#Crimson_Katar#
-28008#Katar_of_Evil_Spirit#
+28008#Katar_of_Vicious_Mind#
 28010#Juliette_de_Rachel#
-28100#Axe_from_North#
+28100#Thanatos_Axe#
 28101#Axe_Tornado#
 28103#Blue_Axe#
 28105#Infinity_Two-handed_Axe#
 28106#Crimson_Two-handed_Axe#
-28107#Two-Handed_Axe_of_Evil_Spirit#
-28200#End_Of_The_Horizon#
+28107#Two-Handed_Axe_of_Vicious_Mind#
+28200#End_of_Horizon#
 28201#Southern_Cross#
 28202#Southern_Cross#
 28310#Sarah's_Left_Earring#
@@ -11442,8 +11442,8 @@
 28356#Prontera_Badge#
 28600#Blue_Book#
 28604#Crimson_Bible#
-28605#Book_of_Evil_Spirit#
+28605#Book_of_Vicious_Mind#
 28703#Infinity_Dagger#
 28705#Crimson_Dagger#
-28706#Dagger_of_Evil_Spirit#
+28706#Dagger_of_Vicious_Mind#
 28900#Praetorian_Shield#

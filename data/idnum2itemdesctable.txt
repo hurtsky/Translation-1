@@ -5369,7 +5369,7 @@ Required Level: ^77777740^000000
 Jobs: ^777777Swordsman and Merchant^000000
 #
 1400#
-This one handed spear imbued with Evil Spirit.
+This one handed spear imbued with Vicious Mind.
 Increase ATK by (refine*refine).
 (up to +15 refine level)
 Class: ^777777Spear^000000
@@ -5823,7 +5823,7 @@ Required Level: ^77777770^000000
 Jobs: ^777777Swordman^000000
 #
 1450#
-A lance imbued with evil spirit.
+A lance imbued with Vicious Mind.
 Increase ATK by (refine*refine).
 (up to +15 refine level)
 Class: ^777777Twohanded Spear^000000
@@ -7599,7 +7599,7 @@ Jobs: ^777777Priest, Sage and Taekwon Master^000000
 ''^339999The Real Holy Cross^000000''
 #
 1600#
-A rod imbued with evil spirit.
+A rod imbued with Vicious Mind.
 INT +5, MATK +120.
 Increase MATK by (refine*refine).
 (up to +15 refine level)
@@ -8067,7 +8067,7 @@ Weight: ^77777750^000000
 Property: ^777777Holy^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777770^000000
-Jobs: ^777777Priest, Monk^000000
+Jobs: ^777777Priest and Monk^000000
 #
 1632#
 A Rod that has been modified for brave magicians who face enemies in battle.
@@ -8081,7 +8081,7 @@ Attack: ^77777770^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777780^000000
-Jobs: ^777777Mage, Acolyte, Soul Linker^000000
+Jobs: ^777777Mage, Acolyte and Soul Linker^000000
 #
 1633#
 A Rod that has been modified for brave magicians who face enemies in battle.
@@ -8095,7 +8095,7 @@ Attack: ^77777770^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777780^000000
-Jobs: ^777777Mage, Acolyte, Soul Linker^000000
+Jobs: ^777777Mage, Acolyte and Soul Linker^000000
 #
 1634#
 A Rod that is intended to heal people during battle.
@@ -8109,7 +8109,7 @@ Attack: ^77777770^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777780^000000
-Jobs: ^777777Mage, Acolyte, Soul Linker^000000
+Jobs: ^777777Mage, Acolyte and Soul Linker^000000
 #
 1635#
 A Rod that is intended to heal people during battle.
@@ -8123,7 +8123,7 @@ Attack: ^77777770^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777780^000000
-Jobs: ^777777Mage, Acolyte, Soul Linker^000000
+Jobs: ^777777Mage, Acolyte and Soul Linker^000000
 #
 1636#
 A staff which is covered with thorns, containing strong meanings of sorcery.
@@ -8135,7 +8135,7 @@ Weight: ^77777770^000000
 Property: ^777777Shadow^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777775^000000
-Jobs: ^777777Transcendent Mage, Acolyte^000000
+Jobs: ^777777Transcendent Mage and Acolyte^000000
 #
 1637#
 A staff that causes enemy mental distraction.
@@ -8148,7 +8148,7 @@ Attack: ^77777780^000000
 Weight: ^77777750^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777770^000000
-Jobs: ^777777Transcendent Wizard / Acolyte Class^000000
+Jobs: ^777777Transcendent Mage and Acolyte^000000
 #
 1638#
 A staff made with a branch from the tree Yggdrasil, created with the sole purpose to heal. The staff has something inscribed in ancient language, saying "Mubeungjangsugiwon", or "Forever free of disease, and have a long life".
@@ -8488,7 +8488,7 @@ Attack: ^777777100^000000
 Weight: ^777777100^000000
 Weapon Level: ^7777774^000000
 Required Level: ^777777120^000000
-Jobs: ^777777Third Wizard and Acolyte Class^000000
+Jobs: ^777777Mage and Acolyte^000000
 #
 1670#
 A staff created for the 2012 RWC (Ragnarok World Championship) infused with pure gold.
@@ -9346,7 +9346,7 @@ Property: ^777777Neutral^000000
 Required Level: ^77777795^000000
 #
 1800#
-Fist imbued with evil spirit.
+Fist imbued with Vicious Mind.
 Increase ATK by (refine*refine).
 (up to +15 refine level)
 Class: ^777777Claw^000000
@@ -9860,7 +9860,7 @@ Required Level: ^77777770^000000
 Jobs: ^777777Priest and Monk classes^000000
 #
 1900#
-Violin imbued with evil spirit.
+Violin imbued with Vicious Mind.
 MATK +50.
 Increase ATK by (refine*refine).
 (up to +15 refine level)
@@ -10897,7 +10897,7 @@ Required Level: ^77777770^000000
 Jobs: ^777777Dancer class^000000
 #
 1996#
-Wire imbued with evil spirit.
+Wire imbued with Vicious Mind.
 MATK +50.
 Increase ATK by (refine*refine).
 (up to +15 refine level)
@@ -11245,7 +11245,7 @@ Attack: ^777777120^000000
 Weight: ^777777140^000000
 Weapon Level: ^7777774^000000
 Required Level: ^777777120^000000
-Jobs: ^777777Third Wizard and Acolyte Class^000000
+Jobs: ^777777Mage and Acolyte^000000
 #
 2024#
 ^ff0000Cannot be traded.^000000
@@ -11273,7 +11273,7 @@ Required Level: ^77777770^000000
 Jobs: ^777777Wizard and Soul Linker class^000000
 #
 2026#
-Staff imbued with evil spirit.
+Staff imbued with Vicious Mind.
 INT +6, MATK +200.
 Increase MATK by (refine*refine).
 (up to +15 refine level)
@@ -55048,7 +55048,7 @@ Required Level: ^77777770^000000
 Jobs: ^777777Gunslinger class^000000
 #
 13128#
-Pistol imbued with evil spirit.
+Pistol imbued with Vicious Mind.
 Increase ATK by (refine*refine)
 (up to +15 refine level)
 Class: ^777777Pistol^000000
@@ -56434,7 +56434,7 @@ Required Level: ^77777770^000000
 Jobs: ^777777Ninja^000000
 #
 13328#
-Huuma Shuriken imbued with evil spirit.
+Huuma Shuriken imbued with Vicious Mind.
 MATK +50.
 Increase ATK by (refine*refine).
 (up to +15 refine level)
@@ -56980,7 +56980,7 @@ Required Level: ^77777770^000000
 Jobs: ^777777Novice, Swordman, Merchant and Thief classes^000000
 #
 13455#
-Saber imbued with evil spirit.
+Saber imbued with Vicious Mind.
 Increase ATK by (refine*refine).
 (up to +15 refine level)
 Class: ^777777One-Handed Sword^000000
@@ -68053,7 +68053,7 @@ Creates a low chance of regaining HP and SP from 5% of your damage dealt while y
 Consumes 100 HP every 10 seconds.
 Consumes 1,000 HP when unequipped.
 MATK +120.
-Class: ^777777Blunt Weapon^000000
+Class: ^777777Mace^000000
 Attack: ^777777180^000000
 Weight: ^777777300^000000
 Weapon Level: ^7777774^000000
@@ -68163,7 +68163,7 @@ Required Level: ^77777770^000000
 Jobs: ^777777Novice, Swordman, Merchant and Acolyte classes^000000
 #
 16041#
-Mace imbued with evil spirit.
+Mace imbued with Vicious Mind.
 Increase ATK by (refine*refine).
 (up to +15 refine level)
 Indestructible.
@@ -75234,7 +75234,7 @@ Required Level: ^777777100^000000
 Jobs: ^777777Archer and Rogue Class^000000
 #
 18121#
-Bow imbued with evil spirit.
+Bow imbued with Vicious Mind.
 Increase ATK by (refine*refine).
 (up to +15 refine level)
 Class: ^777777Bow^000000
@@ -87823,7 +87823,7 @@ Required Level: ^77777770^000000
 Jobs: ^777777Swordman classes^000000
 #
 21016#
-Two-Handed Sword imbued with evil spirit.
+Two-Handed Sword imbued with Vicious Mind.
 Increase ATK by (refine*refine).
 (up to +15 refine level)
 Increase MATK by (refine*refine)/2.
@@ -88766,9 +88766,9 @@ Recovery HP SP by 5%.
 Weight: ^7777775^000000
 #
 22687#
-여러명의 강력한 사념이 모여 만들어진 불안정해 보이는 물질. 너무 여러가지 감정이 섞여있어, 함부로 만지다간 큰일 날 것 같다.
-사념의 근원지에서 너무 멀리 떨어지면, 그곳으로 돌아가려는 성향이 있다.
-무게 : ^7777770.1^000000
+Unstable fragment that was came from powerful vicious mind. It can affect your feeling if you do something carelessly.
+There is tendency from this fragment to return to its source if it fall too far.
+Weight: ^7777770.1^000000
 #
 22691#
 They are found in the rubble of experimental east a memory register.
@@ -92500,7 +92500,7 @@ Required Level: ^77777770^000000
 Jobs: ^777777Assassin classes^000000
 #
 28008#
-Katar imbued with evil spirit.
+Katar imbued with Vicious Mind.
 Increase ATK by (refine*refine).
 (up to +15 refine level)
 Class: ^777777Katar^000000
@@ -92541,7 +92541,7 @@ Class: ^777777Swordsman Class/Merchant Class^000000
 Axe with attached blossom shaped like tornado.
 Wind property.
 Reduce cooldown of skill axe boomerang by 1 second.
-Class: ^777777Axe^000000
+Class: ^777777Two-Handed Axe^000000
 Attack: ^777777320^000000
 Weight: ^777777400^000000
 Weapon Level: ^7777774^000000
@@ -92585,7 +92585,7 @@ Required Level: ^77777770^000000
 Jobs: ^777777Swordman and Merchant^000000
 #
 28107#
-Two Handed Axe imbued with evil spirit.
+Two Handed Axe imbued with Vicious Mind.
 Increase ATK by (refine*refine).
 (up to +15 refine level)
 Indestructible.
@@ -92759,7 +92759,7 @@ Required Level: ^77777770^000000
 Jobs: ^777777Priest, Sage and Taekwon master classes^000000
 #
 28605#
-Book imbued with evil spirit.
+Book imbued with Vicious Mind.
 Increase ATK by (refine*refine).
 (up to +15 refine level)
 Increase MATK by (refine*refine).
@@ -92797,7 +92797,7 @@ Required Level: ^77777770^000000
 Jobs: ^777777Novice, Swordman, Magician, Archer, Merchant, Thief, Ninja and Soul Linker classes^000000
 #
 28706#
-Dagger imbued with evil spirit.
+Dagger imbued with Vicious Mind.
 MATK +50.
 Increase ATK by (refine*refine).
 (up to +15 refine level)
