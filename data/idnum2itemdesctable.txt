@@ -35612,47 +35612,47 @@ Jobs: ^777777All^000000
 5873#
 A helmet which has been worn by a legendary dragon slayer. This hat is made of real dragon wings and a piece of dragon skin.
 Wearing this hat makes you feel epic and powerful.
-Increase resistance to Neutral Property attacks by 5%.
-Resistance +5% to dragon enemies.
-Cast [Assumptio] by certain chance when receiving physical damage.
-All Stat +5.
-Impossible to destroy.
++5% resistance against Neutral attacks.
++5% resistance against Dragon monsters.
+Creates a chance of casting Level 5 Assumptio when you receive Physical damage.
+All stats +5. Consumes 600 HP every 4 seconds.
+Indestructible.
 Class: ^777777Headgear^000000
 Defense: ^7777777^000000
 Location: ^777777Upper^000000
 Weight: ^77777760^000000
 Required Level: ^77777760^000000
-Jobs: ^777777Rebirth Swordman and Merchant Class^000000
+Jobs: ^777777Transcendent Swordman and Merchant^000000
 #
 5874#
 The golden falcon is a sign of destiny and will protect its ower from evil forces.
 It has been worn by a brave woman. The power of this circet makes you feel very brave.
-Increase resistance to Neutral Property attacks by 5%.
-Resistance +5% to dragon enemies.
-Cast [Kyrie Eleison] by certain chance when receiving physical damage.
-All Stat +5.
-Impossible to destroy.
++5% resistance against Neutral attacks.
++5% resistance against Dragon monsters.
+Creates a chance of casting Level 9 Kyrie Eleison when you receive Physical damage.
+All stats +5. Consumes 400 HP every 4 seconds.
+Indestructible.
 Class: ^777777Headgear^000000
 Defense: ^7777776^000000
 Location: ^777777Upper^000000
 Weight: ^77777760^000000
 Required Level: ^77777760^000000
-Jobs: ^777777Rebirth Archer/Thief Class^000000
+Jobs: ^777777Transcendent Archer and Thief^000000
 #
 5875#
 This diadem has been worn by a heroic woman. The legend says she had supernatural powers.
 You can feel a strong magic flow when wearing it.
-Increase resistance to Neutral Property attacks by 5%.
-Resistance +5% to dragon enemies.
-Cast [Endure] by certain chance when receiving physical damage.
-All Stat +5.
-Impossible to destroy.
++5% resistance against Neutral attacks.
++5% resistance against Dragon monsters.
+Creates a chance of casting Level 8 Endure when you receive Physical damage.
+All stats +5. Consumes 300 HP every 4 seconds.
+Indestructible.
 Class: ^777777Headgear^000000
 Defense: ^7777776^000000
 Location: ^777777Upper^000000
 Weight: ^77777760^000000
 Required Level: ^77777760^000000
-Jobs: ^777777Rebirth Magician/Acolyte Class^000000
+Jobs: ^777777Transcendent Mage and Acolyte^000000
 #
 5876#
 This stylish bandeezy expresses your patriotic spirit and makes you feel like some kind of professional grappler.
@@ -75288,7 +75288,7 @@ AGI +5, DEX +5.
 ^777777 ^000000
 Premium:
 Long Range Attack +20%
-ASPD+3
+ASPD +3
 ^777777 ^000000
 Class: ^777777Bow^000000
 Attack: ^777777170^000000
@@ -92505,7 +92505,7 @@ Increase ATK by (refine*refine).
 (up to +15 refine level)
 Class: ^777777Katar^000000
 Attack: ^777777180^000000
-Weight: ^777777130^000000
+Weight: ^777777180^000000
 Weapon Level: ^7777774^000000
 Required Level: ^777777160^000000
 Jobs: ^777777Assassin^000000

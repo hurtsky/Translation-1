@@ -630,7 +630,7 @@
 1295#Blood_Tears#
 1296#Metal_Katar#
 1297#Inverse_Scale#
-1298#Katar_Of_Horror#
+1298#Shiver_Katar#
 1299#TE_WoE_Katar#
 1301#Axe#
 1302#Axe#
@@ -1181,7 +1181,7 @@
 2022#Staff_of_Geffen#
 2023#Thanatos_Two-Handed_Staff#
 2024#Infinity_Staff#
-2025#Crimson_Staff#
+2025#Staff_of_Crimson#
 2026#Staff_of_Evil_Spirit#
 2027#Sunflower_Boy#
 2101#Guard#
@@ -11426,7 +11426,7 @@
 28103#Blue_Axe#
 28105#Infinity_Two-handed_Axe#
 28106#Crimson_Two-handed_Axe#
-28107#Two_Handed_Axe_of_Evil_Spirit#
+28107#Two-Handed_Axe_of_Evil_Spirit#
 28200#End_Of_The_Horizon#
 28201#Southern_Cross#
 28202#Southern_Cross#
