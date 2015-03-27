@@ -88165,6 +88165,43 @@ Weight: ^77777710^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
+22040#
+The most popular shoes of this year.
+MaxHP/MaxSP +10%
+Refined to +12, ASDP +2.
+[+Bright Blue Eyes Shadow]
+MaxHP +3%, MATK +4%, INT +3
+Neutral property resistance +5%
+Class: ^777777Footgear^000000
+Defense: ^77777713^000000
+Weight: ^77777750^000000
+Required Level: ^77777730^000000
+Jobs: ^777777All^000000
+#
+22041#
+The most popular shoes of this year.
+MaxHP/MaxSP +10%
+Refined to +12, ASDP +2.
+[+Bright Blue Eyes Shadow]
+MaxHP +3%, MATK +4%, INT +3
+Neutral property resistance +5%
+Class: ^777777Footgear^000000
+Defense: ^77777713^000000
+Weight: ^77777750^000000
+Required Level: ^77777730^000000
+Jobs: ^777777All^000000
+#
+22042#
+A shoes that given by Hermes to prevent magic from Medusa.
+Agi +2
+Aspd +1
+Mdef +5
+Class: ^777777Footgear^000000
+Defense: ^77777715^000000
+Weight: ^77777730^000000
+Required Level: ^77777750^000000
+Jobs: ^777777All^000000
+#
 22043#
 That whole body gently machine boots. Is heavier than I thought, but is light weight well.
 Increased Attack Speed. (After attack delay reduced by 5%)
@@ -88189,7 +88226,7 @@ Jobs: ^777777Mechanic^000000
 #
 22045#
 Advanced sandals summer in a well-ventilated area. Good report is made easily attend.
-FLEE+5
+FLEE +5
 Add chance of auto casting ^008800Level 10 Increase Agility^000000 when physical/magical attacking.
 When the event ends the bonus will be deleted.
 Class: ^777777Footgear^000000
@@ -88199,11 +88236,12 @@ Required Level: ^7777771^000000
 Jobs: ^777777All Job^000000
 #
 22046#
-Armor used by travelers who came and went on board the ariship Tarlock.
-These are goods that were stolen from the monsters that attacked the ariship during the incident
+^FF0000Cannot be traded^000000
+Boots used by travelers who come aboard the ariship Tarlock.
+Stolen from the monsters during the event of airship raid.
 AGI +1.
-Increase in attack speed (delay after attacking 10% decrease)
-No Refinable, trade is impossible.
+Increase attack speed (reduce delay after attack by 10%)
+Unrefineable.
 Class: ^777777Footgear^000000
 Defense: ^77777726^000000
 Weight: ^7777770^000000
@@ -88211,11 +88249,11 @@ Required Level: ^777777125^000000
 Jobs: ^777777All^000000
 #
 22047#
-Goods around the body of the captain of the airship Tarlock.
-I won the loot that solves the airship attack incident.
-AGI +1, increased attack speed (delay after attacking 5% reduction).
-If refine to +7, AGI +1, add 5% reduction in delay after attack.
-If refine to +9, AGI +1, add 5% reduction in delay after attack.
+Shoes of Tarlock, captain of the airship.
+Acquired during the event of airship raid.
+AGI +1, Increase attack speed (reduce delay after attack by 5%).
+If refine to +7, AGI +1, reduce delay after attack by 5%.
+If refine to +9, AGI +1, reduce delay after attack by 5%.
 If refine to +12, ASPD +1.
 Class: ^777777Footgear^000000
 Defense: ^77777713^000000
@@ -88230,7 +88268,8 @@ MaxHP +500.
 MaxSP +50.
 Increases CRIT by 10 at Fish type enemy, when equipping Egir Helm and Egir Shoes together.
 Increases CRIT at Fish type enemy by 1%, per refinement of the Shoes.
-Class: ^777777Shoes^000000 Def : ^77777713^000000
+Class: ^777777Footgear^000000
+Defense: ^77777713^000000
 Weight: ^77777730^000000
 Required Level: ^77777740^000000
 Jobs: ^777777All^000000
@@ -88308,9 +88347,8 @@ Requires Level: 100.
 Weight: ^77777730^000000
 #
 22516#
-Swords so red liquid that hardens seems hardened.
-If you do not look more likely to be mistaken beautiful red gem.
-Felt sinister forces.
+A red liquid that seems hardened. It's easy to mistake this as a beutiful red gem. You can feel something evil deep inside it.
+^ffffff_^000000
 Weight: ^7777771^000000
 #
 22517#

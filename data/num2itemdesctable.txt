@@ -54465,6 +54465,15 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 22039#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
+22040#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+22041#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+22042#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
 22043#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
@@ -54532,9 +54541,8 @@ Requires Level: 100.
 Weight: ^77777730^000000
 #
 22516#
-Swords so red liquid that hardens seems hardened.
-If you do not look more likely to be mistaken beautiful red gem.
-Felt sinister forces.
+A red liquid that seems hardened. It's easy to mistake this as a beutiful red gem. You can feel something evil deep inside it.
+^ffffff_^000000
 Weight: ^7777771^000000
 #
 22517#
