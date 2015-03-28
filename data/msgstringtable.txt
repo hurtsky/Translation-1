@@ -2562,7 +2562,7 @@ Item Purchase History#
 Grenade Launcher should be equipped with bullets.#
 [Heat barrel],[Last Stand],[Platinum Alter] cannot be used while sitting.#
 Cannot use skill in this map.#
-If you are using a guild warehouse warehouse all items will disappear.#
+If you are using a guild storage, all items inside it will disappear.#
 http://ragnarok.gamesamba.com/paytest.html#
 Please enter a password to login.#
 Pet Evolution#
