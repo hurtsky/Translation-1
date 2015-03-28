@@ -403,5 +403,5 @@ MsgStrID = {
 	MSI_EX_MACRO_ETC_10 = " Use butterfly wings item",
 	MSI_EX_MACRO_ETC_11 = " Preemptive attack to nearby enemy",
 	MSI_EX_MACRO_ETC_12 = " When HP of party member or my npc <",
-	MSI_SKILL_REQUIREMENTS = "777777Requirement:"
+	MSI_SKILL_REQUIREMENTS = "CC3399Requirement:"
 }
