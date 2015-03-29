@@ -16176,13 +16176,38 @@ Jobs: ^777777All^000000
 [JRO item]
 #
 2595#
-[JRO item]
+A mysterious manteau with the power of darkness.
+It can reduce attack from particular type monster.
+Reduce damage from Darkness and Undead monster by 5%.
+Class: ^777777Garment^000000
+Defense: ^77777720^000000
+Weight: ^77777770^000000
+Required Level: ^77777765^000000
+Jobs: ^777777All^000000
 #
 2596#
-[JRO item]
+A magical manteau with property resistance in it
+Decrease damage -5% from fire property monster
+Increase damage +5% from Demon type monster
+If equipped with Sharel Shield, decrease damage 1% from Demon type monster per refine.
+If equipped with Sharel Shield, increase damage 1% from fire property monster per refine.
+Class: ^777777Garment^000000
+Defense: ^77777720^000000
+Weight: ^77777770^000000
+Required Level: ^77777765^000000
+Jobs: ^777777All^000000
 #
 2597#
-[JRO item]
+The muffler is full with blood.
+Critical damage +3%.
+If equipped with Critical Ring, critical damage +5%, CRI+10.
+If refined to +5 and above, Critical damage +3%.
+If refined to +7 and above, Critical damage +4%.
+Class: ^777777Garment^000000
+Defense: ^77777710^000000
+Weight: ^77777750^000000
+Required Level: ^77777750^000000
+Jobs: ^777777All^000000
 #
 2598#
 A magical cloak pregnant with the power of immortality.
@@ -18968,12 +18993,12 @@ Jobs: ^777777All^000000
 2899#
 Increases damage of Metallic Sound by 150%.
 Increases SP consumption of Metallic Sound by 60.
-Decreases Fixed Casting time by 50%.
+Decreases variable cast time by 50%.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^77777790^000000
-Jobs: ^777777Hunter / Bard / Dancer^0000007770^000000
+Jobs: ^777777Hunter, Bard and Dancer^000000
 #
 2900#
 #
@@ -24832,6 +24857,11 @@ Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4558#
+Reduce earth property damage by 20%.
+Chance to cast Lv.2 Kyrie Eleison when physically attacked.
+Class: ^777777Card^000000
+Compound on: ^777777Garment^000000
+Weight: ^7777771^000000
 #
 4559#
 ASPD +1
@@ -78313,8 +78343,6 @@ Required Level: ^777777100^000000
 Jobs: ^777777Archbishop^000000
 #
 18793#
-^FF0000Can be obtained from Poring Festival or Item Mall.^000000
-^FF0000This item is Account Bound^000000
 A hat that promotes a sophisticated yet sleepy look. It once belonged to an ancient magician who was well known for her vast knowledge and lazy behaviour, to the point she was nicknamed "The Great Unmoving Library."
 -Adds 50% more damage to all bolts.
 -MDEF +10
@@ -78328,8 +78356,6 @@ Required Level: ^777777100^000000
 Jobs: ^777777Sorcerer^000000
 #
 18794#
-^FF0000Can be obtained from Poring Festival or Item Mall.^000000
-^FF0000This item is Account Bound^000000
 Just an ordinary black magician's hat. For some reason, you feel somewhat extraordinary while wearing it.
 -Increases Crimson Rock, Jack Frost, Earth Strain, and Chain Lightning damage by 5%
 -Magical attacks bypass the defense of normal monsters by 10%
@@ -78344,8 +78370,6 @@ Required Level: ^777777100^000000
 Jobs: ^777777Warlock^000000
 #
 18795#
-^FF0000Can be obtained from Poring Festival or Item Mall.^000000
-^FF0000This item is Account Bound^000000
 A hat named after the mysterious bird that sings at night. It¡¯s song is used to cause night blindness to mask its true form in order to eat humans that stray too deep into the forest.
 -Reduces fixed casting time of all skills by 5% for each level of Voice Lessons learned.
 -If upgraded to +7 or higher, increases Severe Rainstorm damage by 25%.
@@ -78533,7 +78557,7 @@ Crown made from Elder Branch.
 INT +2, MDEF +5.
 Add chance to drops Elder Branch when killing Plant monsters.
 Refined to +6, increase the drops chance of Elder Branch.
-Refined to +6, further increase the drops chance of Elder Branch.
+Refined to +9, further increase the drops chance of Elder Branch.
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
 Location: ^777777Upper^000000
@@ -78666,7 +78690,7 @@ Jobs: ^777777All^000000
 #
 18824#
 Recovery a certain amount of HP and SP with a certain chance when attacking physically or magically.
-When wearing with Bankruptcy Of Heart, increase MaxHP +100, 1% resistance to Nothing property attacks per 1 refine level for Bankruptcy Of Heart.
+When wearing with Bankruptcy Of Heart, increase MaxHP +100, 1% resistance to Neutral property attacks per 1 refine level for Bankruptcy Of Heart.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Middle, lower^000000
@@ -78913,7 +78937,7 @@ When be attacked, Resistance +100% 3 seconds in 1% chance.
 MaxSP +3%.
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
-Location: ^777777bottom ^000000
+Location: ^777777Lower^000000
 Weight: ^77777720^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -92266,7 +92290,6 @@ Class: ^777777Shadow Equipment^000000
 Location: ^777777Shoes^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Limited level: ^77777749^000000
 Jobs: ^777777All^000000
 #
 24232#
@@ -92282,7 +92305,6 @@ Class: ^777777Shadow Equipment^000000
 Location: ^777777Shield^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Limited level: ^77777749^000000
 Jobs: ^777777All^000000
 #
 24233#

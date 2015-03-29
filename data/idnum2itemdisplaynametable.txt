@@ -1662,7 +1662,7 @@
 2592#Cloak_of_Domovoi#
 2593#Furowamanto#
 2594#Furoshiki_Cloak#
-2595#Sonburumanto#
+2595#Sombre_Manteau#
 2596#Sharel_Manteau#
 2597#Bloody_Muffler#
 2598#L’Amour_Manteau#
@@ -2612,7 +2612,7 @@
 4556#Fenrir_Card#
 4557#Weakened_Fenrir_Card#
 4558#Chun_Tree_Card#
-4559#Evil_Morocc_card#
+4559#Devil_Morocc_card#
 4560#Clown_Card#
 4561#Professor_Card#
 4562#Champion_Card#
@@ -8420,7 +8420,7 @@
 15089#Menswear#
 15090#Gray_Armor#
 15091#Gray_Robe#
-15092##
+15092#Armor_of_Basalt#
 15093#Brave_Plate#
 15094#Brave_Magic_Coat#
 15095#Brave_Judgement_Shawl#
@@ -9948,7 +9948,7 @@
 18822#Flame_Wing_Ear#
 18823#Imperial_Feather#
 18824#Mask_Of_Bankrupt#
-18825#Money_Lost_Spirit#
+18825#Bankruptcy_Of_Heart#
 18826#Chun_Tree_Hat#
 18827#Valkyrie_Circlet#
 18828#RMSC2012_Champion_Headgear#
