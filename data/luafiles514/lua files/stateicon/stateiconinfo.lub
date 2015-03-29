@@ -430,16 +430,13 @@ StateIconList[EFST_IDs.EFST_NJ_BUNSINJYUTSU] = {
   }
 }
 StateIconList[EFST_IDs.EFST_WUGRIDER] = {
-  haveTimeLimit = 1,
-  posTimeLimitStr = 2,
   descript = {
-    {"Warg Rider", COLOR_TITLE_BUFF},
-    {"%s", COLOR_TIME},
+    {"Wug Rider", COLOR_TITLE_BUFF},
     {
       "Can't use a bow"
     },
     {
-      "Can use only Warg skills"
+      "Can use only Wug skills"
     }
   }
 }
