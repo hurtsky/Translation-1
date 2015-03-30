@@ -1136,7 +1136,7 @@
 1972#Electric_Eel#
 1973#Sea_Witch's_Foot#
 1974#Carrot_Whip#
-1975#Queen_Is_Whip#
+1975#Whip_of_The_Queen#
 1976#Queen's_Whip#
 1977#Valorous_Battle_Lariat#
 1978#Brave_Battle_Lariat#
