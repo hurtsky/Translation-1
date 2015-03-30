@@ -3227,7 +3227,7 @@ Attack: ^777777200^000000
 Weight: ^777777350^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777755^000000
-Jobs: ^777777Transcendent Swordman Classes^000000
+Jobs: ^777777Transcendent Swordman^000000
 #
 1176#
 A weapon that is designed to easily slice the muscles of monsters.
@@ -3237,7 +3237,7 @@ Attack: ^777777160^000000
 Weight: ^777777220^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777755^000000
-Jobs: ^777777Transcendent Swordman Classes^000000
+Jobs: ^777777Transcendent Swordman^000000
 #
 1177#
 ^ff0000Item cannot be traded with other characters.^000000
@@ -3247,7 +3247,7 @@ Class: ^777777One-Handed Sword^000000
 Attack: ^777777120^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777771^000000
-Jobs: ^777777Swordsman^000000
+Jobs: ^777777Swordman^000000
 #
 1178#
 A two-handed, formal dress sword imbued with the ^7BCC70Wind^000000 property.
@@ -5049,7 +5049,7 @@ This item cannot be Dropped or Traded.
 Class: ^777777Axe^000000
 Attack: ^777777200^000000
 Weight: ^7777770^000000
-Property: ^777777Wind^000000
+Property: ^4cbb17Wind^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Swordman
@@ -5313,7 +5313,7 @@ Attack: ^777777110^000000
 Weight: ^777777200^000000
 Weapon Level: ^7777773^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Swordsman and Merchant^000000
+Jobs: ^777777Swordman and Merchant^000000
 #
 1395#
 *Stats during WoE & PVP
@@ -5352,7 +5352,7 @@ Attack: ^777777105^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Swordsman and Merchant^000000
+Jobs: ^777777Swordman and Merchant^000000
 #
 1399#
 ^ff0000You cannot Trade this item.^000000
@@ -5366,22 +5366,22 @@ Attack: ^777777150^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777740^000000
-Jobs: ^777777Swordsman and Merchant^000000
+Jobs: ^777777Swordman and Merchant^000000
 #
 1400#
 This one handed spear imbued with Vicious Mind.
 Increase ATK by (refine*refine).
 (up to +15 refine level)
-Class: ^777777Spear^000000
+Class: ^777777One-Handed Spear^000000
 Attack: ^777777140^000000
 Weight: ^777777140^000000
 Weapon Level: ^7777774^000000
 Required Level: ^777777160^000000
-Jobs: ^777777Swordsman^000000
+Jobs: ^777777Swordman^000000
 #
 1401#
 A light spear that can be thrown in an attack. It'll probably be safer to keep holding on to it, though.
-Class: ^777777Spear^000000
+Class: ^777777One-Handed Spear^000000
 Attack: ^77777728^000000
 Weight: ^77777770^000000
 Weapon Level: ^7777771^000000
@@ -5390,7 +5390,7 @@ Jobs: ^777777Swordman^000000
 #
 1402#
 A light spear that can be thrown in an attack. It'll probably be safer to keep holding on to it, though.
-Class: ^777777Spear^000000
+Class: ^777777One-Handed Spear^000000
 Attack: ^77777728^000000
 Weight: ^77777770^000000
 Weapon Level: ^7777771^000000
@@ -5399,7 +5399,7 @@ Jobs: ^777777Swordman^000000
 #
 1403#
 A light spear that can be thrown in an attack. It'll probably be safer to keep holding on to it, though.
-Class: ^777777Spear^000000
+Class: ^777777One-Handed Spear^000000
 Attack: ^77777728^000000
 Weight: ^77777770^000000
 Weapon Level: ^7777771^000000
@@ -5408,7 +5408,7 @@ Jobs: ^777777Swordman^000000
 #
 1404#
 A basic spear that allows slightly longer ranged melee attacks.
-Class: ^777777Spear^000000
+Class: ^777777One-Handed Spear^000000
 Attack: ^77777744^000000
 Weight: ^77777785^000000
 Weapon Level: ^7777771^000000
@@ -5417,7 +5417,7 @@ Jobs: ^777777Swordman^000000
 #
 1405#
 A basic spear that allows slightly longer ranged melee attacks.
-Class: ^777777Spear^000000
+Class: ^777777One-Handed Spear^000000
 Attack: ^77777744^000000
 Weight: ^77777785^000000
 Weapon Level: ^7777771^000000
@@ -5426,7 +5426,7 @@ Jobs: ^777777Swordman^000000
 #
 1406#
 A basic spear that allows slightly longer ranged melee attacks.
-Class: ^777777Spear^000000
+Class: ^777777One-Handed Spear^000000
 Attack: ^77777744^000000
 Weight: ^77777785^000000
 Weapon Level: ^7777771^000000
@@ -5435,7 +5435,7 @@ Jobs: ^777777Swordman^000000
 #
 1407#
 A long spear that is generally issued to foot soldiers.
-Class: ^777777Spear^000000
+Class: ^777777One-Handed Spear^000000
 Attack: ^77777760^000000
 Weight: ^777777100^000000
 Weapon Level: ^7777771^000000
@@ -5444,7 +5444,7 @@ Jobs: ^777777Swordman^000000
 #
 1408#
 A long spear that is generally issued to foot soldiers.
-Class: ^777777Spear^000000
+Class: ^777777One-Handed Spear^000000
 Attack: ^77777760^000000
 Weight: ^777777100^000000
 Weapon Level: ^7777771^000000
@@ -5453,7 +5453,7 @@ Jobs: ^777777Swordman^000000
 #
 1409#
 A long spear that is generally issued to foot soldiers.
-Class: ^777777Spear^000000
+Class: ^777777One-Handed Spear^000000
 Attack: ^77777760^000000
 Weight: ^777777100^000000
 Weapon Level: ^7777771^000000
@@ -5462,7 +5462,7 @@ Jobs: ^777777Swordman^000000
 #
 1410#
 A spear that is commonly used by mounted knights.
-Class: ^777777Spear^000000
+Class: ^777777Two-Handed Spear^000000
 Attack: ^777777185^000000
 Weight: ^777777250^000000
 Weapon Level: ^7777773^000000
@@ -5471,7 +5471,7 @@ Jobs: ^777777Swordman^000000
 #
 1411#
 A spear that is commonly used by mounted knights.
-Class: ^777777Spear^000000
+Class: ^777777Two-Handed Spear^000000
 Attack: ^777777185^000000
 Weight: ^777777250^000000
 Weapon Level: ^7777773^000000
@@ -5480,7 +5480,7 @@ Jobs: ^777777Swordman^000000
 #
 1412#
 A spear that is commonly used by mounted knights.
-Class: ^777777Spear^000000
+Class: ^777777Two-Handed Spear^000000
 Attack: ^777777185^000000
 Weight: ^777777250^000000
 Weapon Level: ^7777773^000000
@@ -5491,7 +5491,7 @@ Jobs: ^777777Swordman^000000
 A legendary spear that is known for its ability to never miss its target.
 Has a 25% chance of performing a guided attack that a target can't evade.
 HIT +30
-Class: ^777777Spear^000000
+Class: ^777777One-Handed Spear^000000
 Attack: ^777777120^000000
 Property: ^4cbb17Wind^000000
 Weight: ^77777750^000000
@@ -5502,7 +5502,7 @@ Jobs: ^777777Swordman^000000
 1414#
 A special spear imbued with the ^cc5500Earth^000000 property.
 MaxHP +800, MaxSP -50
-Class: ^777777Spear^000000
+Class: ^777777One-Handed Spear^000000
 Attack: ^777777145^000000
 Weight: ^77777770^000000
 Property: ^cc5500Earth^000000
@@ -5514,7 +5514,7 @@ Jobs: ^777777Swordman^000000
 A spear that has been made to puncture any armor worn by enemies.
 Increases damage inflicted on ^777777Neutral^000000 property by 25%.
 Pierces Defense of its target.
-Class: ^777777Spear^000000
+Class: ^777777One-Handed Spear^000000
 Attack: ^77777785^000000
 Weight: ^77777785^000000
 Weapon Level: ^7777774^000000
@@ -5524,7 +5524,7 @@ Jobs: ^777777Swordman^000000
 1416#
 A spear with the power to drain the souls of enemies it has defeated.
 Regains 1 SP with each attack and 5 SP each time an enemy is killed.
-Class: ^777777Spear^000000
+Class: ^777777One-Handed Spear^000000
 Attack: ^777777100^000000
 Weight: ^777777100^000000
 Weapon Level: ^7777774^000000
@@ -5534,7 +5534,7 @@ Jobs: ^777777Swordman^000000
 1417#
 An axe head mounted on a long pole, this weapon was especially made to break through thick armored plates.
 STR +1, INT +2, DEX +1
-Class: ^777777Spear^000000
+Class: ^777777One-Handed Spear^000000
 Attack: ^777777160^000000
 Weight: ^777777380^000000
 Weapon Level: ^7777773^000000
@@ -5545,7 +5545,7 @@ Jobs: ^777777Swordman^000000
 A legendary spear that is known for its ability to never miss its target.
 Has a 25% chance of performing a guided attack that a target can't evade.
 HIT +30
-Class: ^777777Spear^000000
+Class: ^777777One-Handed Spear^000000
 Attack: ^777777120^000000
 Property: ^4cbb17Wind^000000
 Weight: ^77777750^000000
@@ -5562,7 +5562,7 @@ is designed to break
 through thick armor.
 STR +1, INT +2, DEX +1
 This item cannot be Dropped or Traded.
-Class: ^777777Spear^000000
+Class: ^777777One-Handed Spear^000000
 Attack: ^777777195^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
@@ -5575,42 +5575,41 @@ Has a certain chance of inflicting the Bleeding status to enemies, and neutraliz
 Indestructible.
 [+^008800 Valkyrja Shield^000000]
 Has a low chance of auto casting Lv.2 Assumption on the wearer with each enemy attack.
-Class: ^777777Spear^000000
+Class: ^777777One-Handed Spear^000000
 Attack: ^777777150^000000
 Property: ^777777Holy^000000
 Weight: ^777777100^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777765^000000
-Jobs: ^777777Transcendent Swordman Classes^000000
+Jobs: ^777777Transcendent Swordman^000000
 #
 1421#
 A spear that is tipped with a hook that can push and pull enemies.
 Has a 5% chance of inflicting the Stun status to enemies, and increases damage to Demihuman enemies by 20%.
 Enables use of Lv.3 Pierce.
-Class: ^777777Spear^000000
+Class: ^777777One-Handed Spear^000000
 Attack: ^777777140^000000
 Weight: ^77777790^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777765^000000
-Jobs: ^777777Transcendent Swordman Classes^000000
+Jobs: ^777777Transcendent Swordman^000000
 #
 1422#
 A spear with a leaf shaped point that is designed for hunting, causing damage with its heavy weight instead of stabbing.
 Ignores DEF of Animal monsters, and adds a chance that defeated enemies will drop Meat.
 Each attack has a certain chance of auto casting Lv.3 Joint Beat.
-Class: ^777777Spear^000000
+Class: ^777777One-Handed Spear^000000
 Attack: ^777777180^000000
 Weight: ^777777420^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777760^000000
-Jobs: ^777777Transcendent
-Swordman Classes^000000
+Jobs: ^777777Transcendent Swordman^000000
 #
 1423#
 The adventurers who are brave the item which is provided from the hazard adventurer guild.
 Increases damage by 50%.
 Impossible to refine this item.
-Class: ^777777Spear^000000
+Class: ^777777One-Handed Spear^000000
 Attack: ^777777120^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777771^000000
@@ -5623,7 +5622,7 @@ A spear that has been made to puncture any armor worn by enemies.
 Increase damage inflicted on Medium size monster by 20%.
 Pierces Defense of its target.
 Impossible to refine this item.
-Class: ^777777Spear^000000
+Class: ^777777One-Handed Spear^000000
 Attack: ^777777149^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
@@ -5637,7 +5636,7 @@ Increases Physical Attack Strength towards Demihuman monsters by 95%.
 Ignores Physical Defense from Demihuman monsters by 20%.
 If worn by Crusader or Paladin, Increase in ASPD(Delay after attacking reduces by 20%)
 Indestructible.
-Class: ^777777Spear^000000
+Class: ^777777One-Handed Spear^000000
 Attack: ^77777760^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
@@ -5652,7 +5651,7 @@ Ignore 20% of Physical Defense of Demihuman monsters.
 +9 Upgrade: Knight Class: When using [Pierce], has a chance of inflicting Lv. 2 [Fatal Wound].
 Crusader Class: When attacking normally, has a chance of casting Lv. 5 [Gloria Domini].
 Increase in ASPD(Dealy after attacking reduces by 5%)
-Class: ^777777Onehand Spear^000000
+Class: ^777777One-Handed Spear^000000
 Attack: ^777777130^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
@@ -5664,7 +5663,7 @@ Jobs: ^777777Swordman^000000
 A good long spear.
 Increases 25% damage with Magnum Break skill.
 STR +2
-Class: ^777777Spear^000000
+Class: ^777777One-Handed Spear^000000
 Attack: ^777777160^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
@@ -5676,33 +5675,32 @@ Small chance to cause ^880000External Bleeding^000000 status ailment on the targ
 Enables use of ^008800Level 1 Detoxify^000000.
 Indestructible (except in upgrade attempts).
 [^000088+ Valkyrja's Shield^000000]
-Whenever you take damage, small chance to auto-spell ^008800Level 2 Assumptio^000000 on yourself.
-Class: ^777777Spear^000000
+Whenever you take damage, small chance to auto-cast ^008800Level 2 Assumptio^000000 on yourself.
+Class: ^777777One-Handed Spear^000000
 Attack: ^777777150^000000
 Weight: ^777777100^000000
 Property: ^777777Holy^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777765^000000
-Jobs: ^777777Trans Swordman Class^000000
+Jobs: ^777777Transcendent Swordman^000000
 #
 1429#
 A spear designed specifically to hunt. The end tip looks like a leaf. This spear focused on using its weight to bring damage rather than to piercing the enemy.
 Ignores DEF of Brute type monsters.
 If you kill a Brute type monster, small chance to receive Meat.
 Add a 5% chance of auto casting ^008800Level 3 Joint Beat^000000 on the enemy when attacking.
-Class: ^777777Spear^000000
+Class: ^777777One-Handed Spear^000000
 Attack: ^777777180^000000
 Weight: ^777777420^000000
-Property: ^777777Neutral^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777760^000000
-Jobs: ^777777Trans Swordman Class^000000
+Jobs: ^777777Transcendent Swordman^000000
 #
 1430#
 ^000088Rental Items^000000
 A long spear that is generally issued to foot soldiers.
 Increases damage against small, medium, large size monsters by 70%.
-Class: ^777777Spear^000000
+Class: ^777777One-Handed Spear^000000
 Attack: ^77777774^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -5717,7 +5715,7 @@ is designed to break
 through thick armor.
 STR +1, INT +2, DEX +1
 This item cannot be Dropped or Traded.
-Class: ^777777Spear^000000
+Class: ^777777One-Handed Spear^000000
 Attack: ^777777195^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
@@ -5739,7 +5737,7 @@ Jobs: ^777777Royal Guard^000000
 1434#
 A spear that is made by the Eden Group. It is suitable for those who have more advanced experience handling spears.
 Unrefineable.
-Class: ^777777Spear^000000
+Class: ^777777One-Handed Spear^000000
 Attack: ^777777165^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
@@ -5761,12 +5759,12 @@ Jobs: ^777777Royal Guard^000000
 Increases damage to other players by 60%
 If refined to +6 or higher, increases Pinpoint Attack and Hundred Spears damage by 80%.
 If refined to +9 or higher, increases damage to enemy players by additional 30%.
-Class: ^777777Spear^000000
+Class: ^777777One-Handed Spear^000000
 Attack: ^777777150^000000
 Weight: ^77777785^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777795^000000
-Jobs: ^777777Swordman Classes^000000
+Jobs: ^777777Swordman^000000
 #
 1437#
 ^ff0000You cannot Trade this item.^000000
@@ -5779,7 +5777,7 @@ Attack: ^777777100^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777740^000000
-Jobs: ^777777Swordsman^000000
+Jobs: ^777777Swordman^000000
 #
 1438#
 This magic spear, made to counteract the Devil Sword Thanatos, is sculpted out of Gray Shard.
@@ -5794,7 +5792,7 @@ Attack: ^777777150^000000
 Weight: ^777777300^000000
 Weapon Level: ^7777774^000000
 Required Level: ^777777120^000000
-Jobs: ^777777Swordsman Classes^000000
+Jobs: ^777777Swordman^000000
 #
 1441#
 Blue Spear which has destructive power.
@@ -5804,7 +5802,7 @@ Premium
 Atk+ 20%
 ASPD+ 3
 ^777777 ^000000
-Class: ^777777Spear^000000
+Class: ^777777One-Handed Spear^000000
 Attack: ^777777200^000000
 Weight: ^777777120^000000
 Weapon Level: ^7777773^000000
@@ -5815,7 +5813,7 @@ Jobs: ^777777Royal Guard^000000
 One handed spear with red light radiance.
 ATK increased by (Refine*Refine), up to +15 refine.
 Level 70 or higher: Per 10 BaseLevel, ATK +5.
-Class: ^7777771-handed Spear^000000
+Class: ^777777One-Handed Spear^000000
 Attack: ^77777790^000000
 Weight: ^77777790^000000
 Weapon Level: ^7777773^000000
@@ -5826,7 +5824,7 @@ Jobs: ^777777Swordman^000000
 A lance imbued with Vicious Mind.
 Increase ATK by (refine*refine).
 (up to +15 refine level)
-Class: ^777777Twohanded Spear^000000
+Class: ^777777Two-Handed Spear^000000
 Attack: ^777777225^000000
 Weight: ^777777225^000000
 Weapon Level: ^7777774^000000
@@ -5835,7 +5833,7 @@ Jobs: ^777777Swordman^000000
 #
 1451#
 Topped with a curved blade and puncturing spike, this spear can topple a mounted warrior in the hands of a highly skilled expert.
-Class: ^777777Spear^000000
+Class: ^777777Two-Handed Spear^000000
 Attack: ^77777784^000000
 Weight: ^777777100^000000
 Weapon Level: ^7777772^000000
@@ -5844,7 +5842,7 @@ Jobs: ^777777Swordman^000000
 #
 1452#
 Topped with a curved blade and puncturing spike, this spear can topple a mounted warrior in the hands of a highly skilled expert.
-Class: ^777777Spear^000000
+Class: ^777777Two-Handed Spear^000000
 Attack: ^77777784^000000
 Weight: ^777777100^000000
 Weapon Level: ^7777772^000000
@@ -5853,7 +5851,7 @@ Jobs: ^777777Swordman^000000
 #
 1453#
 Topped with a curved blade and puncturing spike, this spear can topple a mounted warrior in the hands of a highly skilled expert.
-Class: ^777777Spear^000000
+Class: ^777777Two-Handed Spear^000000
 Attack: ^77777784^000000
 Weight: ^777777100^000000
 Weapon Level: ^7777772^000000
@@ -5861,9 +5859,8 @@ Required Level: ^77777718^000000
 Jobs: ^777777Swordman^000000
 #
 1454#
-A spear with a huge
-swordlike spearhead.
-Class: ^777777Spear^000000
+A spear with a huge swordlike spearhead.
+Class: ^777777Two-Handed Spear^000000
 Attack: ^777777104^000000
 Weight: ^777777120^000000
 Weapon Level: ^7777772^000000
@@ -5871,9 +5868,8 @@ Required Level: ^77777718^000000
 Jobs: ^777777Swordman^000000
 #
 1455#
-A spear with a huge
-swordlike spearhead.
-Class: ^777777Spear^000000
+A spear with a huge swordlike spearhead.
+Class: ^777777Two-Handed Spear^000000
 Attack: ^777777104^000000
 Weight: ^777777120^000000
 Weapon Level: ^7777772^000000
@@ -5881,9 +5877,8 @@ Required Level: ^77777718^000000
 Jobs: ^777777Swordman^000000
 #
 1456#
-A spear with a huge
-swordlike spearhead.
-Class: ^777777Spear^000000
+A spear with a huge swordlike spearhead.
+Class: ^777777Two-Handed Spear^000000
 Attack: ^777777104^000000
 Weight: ^777777120^000000
 Weapon Level: ^7777772^000000
@@ -5891,10 +5886,8 @@ Required Level: ^77777718^000000
 Jobs: ^777777Swordman^000000
 #
 1457#
-A spear topped with
-a double edged	blade
-with two side blades.
-Class: ^777777Spear^000000
+A spear topped with a double edged	blade with two side blades.
+Class: ^777777Two-Handed Spear^000000
 Attack: ^777777124^000000
 Weight: ^777777200^000000
 Weapon Level: ^7777772^000000
@@ -5902,10 +5895,8 @@ Required Level: ^77777718^000000
 Jobs: ^777777Swordman^000000
 #
 1458#
-A spear topped with
-a double edged	blade
-with two side blades.
-Class: ^777777Spear^000000
+A spear topped with a double edged	blade with two side blades.
+Class: ^777777Two-Handed Spear^000000
 Attack: ^777777124^000000
 Weight: ^777777200^000000
 Weapon Level: ^7777772^000000
@@ -5913,10 +5904,8 @@ Required Level: ^77777718^000000
 Jobs: ^777777Swordman^000000
 #
 1459#
-A spear topped with
-a double edged	blade
-with two side blades.
-Class: ^777777Spear^000000
+A spear topped with a double edged	blade with two side blades.
+Class: ^777777Two-Handed Spear^000000
 Attack: ^777777124^000000
 Weight: ^777777200^000000
 Weapon Level: ^7777772^000000
@@ -5924,10 +5913,8 @@ Required Level: ^77777718^000000
 Jobs: ^777777Swordman^000000
 #
 1460#
-A triple pronged
-spear that can also
-be used for fishing.
-Class: ^777777Spear^000000
+A triple pronged spear that can also be used for fishing.
+Class: ^777777Two-Handed Spear^000000
 Attack: ^777777150^000000
 Weight: ^777777120^000000
 Weapon Level: ^7777773^000000
@@ -5935,10 +5922,8 @@ Required Level: ^77777733^000000
 Jobs: ^777777Swordman^000000
 #
 1461#
-A triple pronged
-spear that can also
-be used for fishing.
-Class: ^777777Spear^000000
+A triple pronged spear that can also be used for fishing.
+Class: ^777777Two-Handed Spear^000000
 Attack: ^777777150^000000
 Weight: ^777777120^000000
 Weapon Level: ^7777773^000000
@@ -5946,10 +5931,8 @@ Required Level: ^77777733^000000
 Jobs: ^777777Swordman^000000
 #
 1462#
-A triple pronged
-spear that can also
-be used for fishing.
-Class: ^777777Spear^000000
+A triple pronged spear that can also be used for fishing.
+Class: ^777777Two-Handed Spear^000000
 Attack: ^777777150^000000
 Weight: ^777777120^000000
 Weapon Level: ^7777773^000000
@@ -5958,7 +5941,7 @@ Jobs: ^777777Swordman^000000
 #
 1463#
 A spear with a steel spike and axe-blade which enable both piercing and hacking.
-Class: ^777777Spear^000000
+Class: ^777777Two-Handed Spear^000000
 Attack: ^777777165^000000
 Weight: ^777777250^000000
 Weapon Level: ^7777773^000000
@@ -5967,7 +5950,7 @@ Jobs: ^777777Swordman^000000
 #
 1464#
 A spear with a steel spike and axe-blade which enable both piercing and hacking.
-Class: ^777777Spear^000000
+Class: ^777777Two-Handed Spear^000000
 Attack: ^777777165^000000
 Weight: ^777777250^000000
 Weapon Level: ^7777773^000000
@@ -5976,7 +5959,7 @@ Jobs: ^777777Swordman^000000
 #
 1465#
 A spear with a steel spike and axe-blade which enable both piercing and hacking.
-Class: ^777777Spear^000000
+Class: ^777777Two-Handed Spear^000000
 Attack: ^777777165^000000
 Weight: ^777777250^000000
 Weapon Level: ^7777773^000000
@@ -5984,12 +5967,10 @@ Required Level: ^77777733^000000
 Jobs: ^777777Swordman^000000
 #
 1466#
-A heavy scythe that
-is usually carried by
-the Grim Reaper.
+A heavy scythe that is usually carried by the Grim Reaper.
 Critical Rate +30%
 HIT +10
-Class: ^777777Spear^000000
+Class: ^777777Two-Handed Spear^000000
 Attack: ^777777180^000000
 Weight: ^777777250^000000
 Weapon Level: ^7777774^000000
@@ -6001,7 +5982,7 @@ A spear with a hooked
 blade that has proven ^FFFFFFddd^000000 its versatility in battle.
 Increases damage inflicted on Brute monsters by 10%.
 Increases damage against Demihuman monsters by 5%.
-Class: ^777777Spear^000000
+Class: ^777777Two-Handed Spear^000000
 Attack: ^777777183^000000
 Weight: ^777777100^000000
 Weapon Level: ^7777774^000000
@@ -6009,24 +5990,21 @@ Required Level: ^77777748^000000
 Jobs: ^777777Swordman^000000
 #
 1468#
-A spear imbued
-with the ^7BCC70Wind^000000 property. Automatically casts
-^008800Level 3 Thunder Storm^000000 by chance.
-Causes Mute effect to target by a low chance.
-Class: ^777777Spear^000000
+A spear imbued with the ^7BCC70Wind^000000 property.
+Automatically casts ^008800Level 3 Thunder Storm^000000 by chance.
+Causes Silence effect to target by a low chance.
+Class: ^777777Two-Handed Spear^000000
 Attack: ^777777170^000000
 Weight: ^777777200^000000
-Property: ^777777Wind^000000
+Property: ^4cbb17Wind^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777748^000000
 Jobs: ^777777Swordman^000000
 #
 1469#
-A legendary spear
-owned by the tragic
-soldier, Longinus.
+A legendary spear owned by the tragic soldier, Longinus.
 Increases damage inflicted on Demihuman and Angel monsters by 10%.
-Class: ^777777Spear^000000
+Class: ^777777Two-Handed Spear^000000
 Attack: ^777777180^000000
 Weight: ^777777250^000000
 Property: ^777777Shadow^000000
@@ -6035,16 +6013,10 @@ Required Level: ^77777748^000000
 Jobs: ^777777Swordman^000000
 #
 1470#
-A spear that radiates
-with the warm, glowing light of pure holiness.
-Enables use of
-^008800Level 5 Heal^000000.
-Automatically cast
-^008800Level 3 Soul Strike^000000
-by chance.
-Enables use of
-^008800Level 5 Heal^000000.
-Class: ^777777Spear^000000
+A spear that radiates with the warm, glowing light of pure holiness.
+Automatically cast ^008800Level 3 Soul Strike^000000 by chance.
+Enables use of ^008800Level 5 Heal^000000.
+Class: ^777777Two-Handed Spear^000000
 Attack: ^777777190^000000
 Weight: ^777777300^000000
 Property: ^777777Holy^000000
@@ -6059,7 +6031,7 @@ enchanted with the
 power to summon flame.
 STR +3
 Automatically cast ^008800level 5 Fire Ball^000000 by chance.
-Class: ^777777Spear^000000
+Class: ^777777Two-Handed Spear^000000
 Attack: ^777777200^000000
 Weight: ^777777350^000000
 Property: ^777777Fire^000000
@@ -6068,42 +6040,31 @@ Required Level: ^77777748^000000
 Jobs: ^777777Swordman^000000
 #
 1472#
-A high quality,
-two-handed staff
-that amplifies
-psychic power.
-INT +5
-AGI +2
-MATK +200
+A high quality, two-handed staff that amplifies psychic power.
+INT +5, AGI +2, MATK +200
 Class: ^777777Two-Handed Staff^000000
 Attack: ^77777725^000000
 Weight: ^777777140^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777773^000000
-Jobs: ^777777Mage Class and Soul Linker^000000
+Jobs: ^777777Mage and Soul Linker^000000
 #
 1473#
-Rumored to have
-been crafted by an
-ancient wizard, this
-staff contains awesome
-energies.
-INT +6
-DEX +2
-MATK +200
+Rumored to have been crafted by an ancient wizard, this staff contains awesome energies.
+INT +6, DEX +2, MATK +200
 Class: ^777777Two-Handed Staff^000000
 Attack: ^777777120^000000
 Weight: ^777777240^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777790^000000
-Jobs: ^777777Mage Class and Soul Linker^000000
+Jobs: ^777777Mage and Soul Linker^000000
 #
 1474#
 A spear, created from the body of a dead giant
 sea creature, topped with a jagged blade that leaves
 deep wounds. Ignores Dragon monsters' Defense.
 Inflicts 10% more damage on Boss monsters.
-Class: ^777777Two Handed Spear^000000
+Class: ^777777Two-Handed Spear^000000
 Attack: ^777777160^000000
 Weight: ^777777200^000000
 Weapon Level: ^7777774^000000
@@ -6116,13 +6077,10 @@ about the mysterious
 Equestrian's Spear...
 #
 1476#
-A frightening crescent
-shaped scythe that can
-kill a man with but
-a single swing.
+A frightening crescent shaped scythe that can kill a man with but a single swing.
 Critical Rate +30%
 HIT +10
-Class: ^777777Spear^000000
+Class: ^777777Two-Handed Spear^000000
 Attack: ^777777180^000000
 Weight: ^777777250^000000
 Weapon Level: ^7777774^000000
@@ -6130,24 +6088,11 @@ Required Level: ^77777748^000000
 Jobs: ^777777Swordman^000000
 #
 1477#
-The creator of this
-formidable Two-Handed
-Spear sacrificed his
-own life to forge it,
-resulting in a curse
-that will try to dominate the wearer's soul.
-Increases damage to
-Shadow, Demon, and
-Undead monsters by
-20%, and will reduce
-damage from these
-monsters by 10%.
-Absorbs 50 HP upon
-defeating enemies.
-Inflicts the Confuse
-status to the wearer
-by a certain chance.
-Class: ^777777Spear^000000
+The creator of this formidable Two-Handed Spear sacrificed his own life to forge it, resulting in a curse that will try to dominate the wearer's soul.
+Increases damage to Shadow, Demon and Undead monsters by 20%, and reduce damage from these monsters by 10%.
+Gains 50 HP upon defeating enemies.
+Inflicts the Confuse status to the wearer by a certain chance.
+Class: ^777777Two-Handed Spear^000000
 Attack: ^777777170^000000
 Weight: ^777777200^000000
 Weapon Level: ^7777774^000000
@@ -6155,43 +6100,22 @@ Required Level: ^77777775^000000
 Jobs: ^777777Swordman^000000
 #
 1478#
-An auger shaped
-spear that is designed
-for striking the weak
-points of an enemy.
-Ignores physical DEF,
-and has a certain
-chance of auto casting
-Lv.5 Pierce. Inflicts
-10% additional damage
-to Demihuman enemies.
-Class: ^777777Spear^000000
+An auger shaped spear that is designed for striking the weak points of an enemy.
+Ignores physical DEF, and has a certain chance of auto casting Lv.5 Pierce.
+Inflicts 10% additional damage to Demihuman enemies.
+Class: ^777777Two-Handed Spear^000000
 Attack: ^777777120^000000
 Weight: ^777777100^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777765^000000
-Jobs: ^777777Knight and
-Crusader^000000
+Jobs: ^777777Knight and Crusader^000000
 #
 1479#
-The creator of this
-formidable Two-Handed
-Spear sacrificed his
-own life to forge it,
-resulting in a curse
-that will try to dominate the wearer's soul.
-Increases damage to
-Shadow, Demon, and
-Undead monsters by
-20%, and will reduce
-damage from these
-monsters by 10%.
-Absorbs 50 HP upon
-defeating enemies.
-Inflicts the Confuse
-status to the wearer
-by a certain chance.
-Class: ^777777Spear^000000
+The creator of this formidable Two-Handed Spear sacrificed his own life to forge it, resulting in a curse that will try to dominate the wearer's soul.
+Increases damage to Shadow, Demon and Undead monsters by 20%, and reduce damage from these monsters by 10%.
+Gains 50 HP upon defeating enemies.
+Inflicts the Confuse status to the wearer by a certain chance.
+Class: ^777777Two-Handed Spear^000000
 Attack: ^777777170^000000
 Weight: ^777777200^000000
 Weapon Level: ^7777774^000000
@@ -6203,7 +6127,7 @@ A spear, created from the body of a dead giant
 sea creature, topped with a jagged blade that leaves
 deep wounds. Ignores Dragon monsters' Defense.
 Inflicts 10% more damage on Boss monsters.
-Class: ^777777Two Handed Spear^000000
+Class: ^777777Two-Handed Spear^000000
 Attack: ^777777160^000000
 Weight: ^777777200^000000
 Property: ^777777Neutral^000000
@@ -6212,25 +6136,24 @@ Required Level: ^77777760^000000
 Jobs: ^777777Swordman^000000
 #
 1481#
-A spear imbued
-with the ^7BCC70Wind^000000 property. Automatically casts
-^008800Level 3 Thunder Storm^000000 by chance.
-Causes Mute effect to target by a low chance.
-Class: ^777777Spear^000000
+A spear imbued with the ^7BCC70Wind^000000 property.
+Automatically casts ^008800Level 3 Thunder Storm^000000 by chance.
+Causes Silence effect to target by a low chance.
+Class: ^777777Two-Handed Spear^000000
 Attack: ^777777170^000000
 Weight: ^777777200^000000
-Property: ^777777Wind^000000
+Property: ^4cbb17Wind^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777748^000000
 Jobs: ^777777Swordman^000000
 #
 1482#
-A Two-handed Spear made to rush at the enemy's position, especially designed for battles against Demihumans.
+A Two-Handed Spear made to rush at the enemy's position, especially designed for battles against Demihumans.
 STR +2
 Increases Physical Attack Strength to Demihuman monsters by 25%.
 Ignores Physical Defense from Demihuman monsters.
 Indestructible.
-Class: ^777777Two Handed Spear^000000
+Class: ^777777Two-Handed Spear^000000
 Attack: ^777777160^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
@@ -6238,36 +6161,36 @@ Required Level: ^77777780^000000
 Jobs: ^777777Swordman^000000
 #
 1483#
-Two handed spear made of the Ivory of a Mammoth. It is very hard to be processed due to its strength, but its sharp end makes it perfect for stabbing.
+Two-Handed Spear made of the Ivory of a Mammoth. It is very hard to be processed due to its strength, but its sharp end makes it perfect for stabbing.
 AGI +2, ASPD +3%, Increase in ASPD(Delay after attacking reduces by 3%
 Enables the use of Lv.5 Spear Stab
 Has a chance of inflicting Lv.1 Fatal Wound while physically attacking.
-Class: ^777777Spear^000000
+Class: ^777777Two-Handed Spear^000000
 Attack: ^777777160^000000
 Weight: ^777777100^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777750^000000
-Jobs: ^777777Transcendent Swordman Class^000000
+Jobs: ^777777Transcendent Swordman^000000
 #
 1484#
-Two handed spear which looks just like a miniature of a pillar from the ancient temples.
+Two-Handed Spear which looks just like a miniature of a pillar from the ancient temples.
 ASPD -10%, decrease in ASPD(Delay after attacking increases by 10%)
 additional increase in Def according to the Refining Level.
-Class: ^777777Spear^000000
+Class: ^777777Two-Handed Spear^000000
 Attack: ^777777150^000000
 Weight: ^777777560^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777770^000000
-Jobs: ^777777Lord Knight Job^000000
+Jobs: ^777777Lord Knight^000000
 #
 1485#
 Two handed three-pronged fork that doubles as a spear. It is light and very useful despite its size.
-Class: ^777777Spear^000000
+Class: ^777777Two-Handed Spear^000000
 Attack: ^777777112^000000
 Weight: ^77777770^000000
 Weapon Level: ^7777772^000000
 Required Level: ^77777750^000000
-Jobs: ^777777Transcendent Swordman Class^000000
+Jobs: ^777777Transcendent Swordman^000000
 #
 1486#
 Physical Attack Strength to Demihuman monsters +70%.
@@ -6276,7 +6199,7 @@ Ignore 25% of Physical Defense of Demihuman monsters.
 +6 Upgrade: Ignore Defense of Demihuman monsters +5%, ^ff0000[Slaughter]^000000 Lv 1 (Damage bonus of Slaughter increases up to the upgrade level 14.)
 +9 Upgrade: If Crusader/Paladin Class attack, has a chance of casting Lv. 5 [Gloria Domini],
 If Knight/Lord Knight Class use [Pierce], has a chance of casting Lv. 2 [Fatal Wound].
-Class: ^777777Twohand Spear^000000
+Class: ^777777Two-Handed Spear^000000
 Attack: ^777777220^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
@@ -6287,7 +6210,7 @@ Jobs: ^777777Swordman^000000
 ^000088Rental Items^000000
 A spear that is commonly used by mounted knights.
 Increases damage against small, medium, large size monsters by 50%.
-Class: ^777777Spear^000000
+Class: ^777777Two-Handed Spear^000000
 Attack: ^777777220^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -6301,7 +6224,7 @@ Chance to activate level 5 pierce when attacking.
 Increase damage against Demihuman monster by 20%.
 [+^6A5ACDGold PC Cafe^000000]
 Increase damage against Demihuman by 5%
-Class: ^777777Spear^000000
+Class: ^777777Two-Handed Spear^000000
 Attack: ^777777135^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
@@ -6314,7 +6237,7 @@ A spearfish that is well known for delicious meat but this is frozen.
 When using pierce, spiral pierce, it gives critical damage at high rate. And also causes freeze with a low rate.
 Spiral Pierce Attack increase 100% , Inspiration Attack 50% ( Effect of Inspiration will disappear once unequipped)
 If base level is over 100, add ATK +30 .
-Class: ^777777Both Hands Spear^000000
+Class: ^777777Two-Handed Spear^000000
 Attack: ^777777220^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777771^000000
@@ -6326,7 +6249,7 @@ The mini sized version of a spear from the Giants who were guardians in an Ancie
 ASPD -10, when you release the equip SP -600.
 Add 20 sec on delay for reuse of Clashing Spiral.
 When pure STR is over 120, add ATK +300.
-Class: ^777777Two Handed Spear^000000
+Class: ^777777Two-Handed Spear^000000
 Attack: ^77777720^000000
 Weight: ^7777772000^000000
 Weapon Level: ^7777774^000000
@@ -6337,7 +6260,7 @@ Jobs: ^777777Rune Knight^000000
 Two-Handed Spear that is coated by Oridecon and Gold with perfect level.
 Every refine level will increase ATK +12.
 Level 70 or Higher : ATK+10 for every 10 Base Level
-Class: ^777777Two-hand Spear^000000
+Class: ^777777Two-Handed Spear^000000
 Attack: ^777777105^000000
 Weight: ^777777150^000000
 Weapon Level: ^7777773^000000
@@ -6349,12 +6272,12 @@ Jobs: ^777777Swordman^000000
 Increases damage to other players by 80%.
 If refined to +6 or higher, increases Clashing Spiral damage by 100% and Overbrand damage by 50%.
 If refined to +9 or higher, has a chance of reflecting magic and physical attack damage back to the attacking enemy as well as a chance to cast Magic Mirror.
-Class: ^777777Spear^000000
+Class: ^777777Two-Handed Spear^000000
 Attack: ^777777250^000000
 Weight: ^777777450^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777795^000000
-Jobs: ^777777Swordman Classes^000000
+Jobs: ^777777Swordman^000000
 #
 1493#
 ^ff0000You cannot Trade this item.^000000
@@ -6362,12 +6285,12 @@ Spear with strengthened metal
 Each refine increase ATK +6
 Base level 20 or higher: every 10 level add +5 ATK
 (Bonus applies up to level 120)
-Class: ^777777Two Hand Spear^000000
+Class: ^777777Two-Handed Spear^000000
 Attack: ^777777100^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
 Required Level: ^7777771^000000
-Jobs: ^777777SwordsmanClass^000000
+Jobs: ^777777SwordmanClass^000000
 #
 1494#
 A beautiful spear-shaped wave. She was blessed by the spirits of the water.
@@ -6377,7 +6300,7 @@ Attack: ^777777190^000000
 Weight: ^777777380^000000
 Weapon Level: ^7777774^000000
 Required Level: ^777777105^000000
-Jobs: ^777777Swordsman^000000
+Jobs: ^777777Swordman^000000
 #
 1495#
 ^ff0000You cannot Trade this item.^000000
@@ -6390,7 +6313,7 @@ Attack: ^777777150^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777740^000000
-Jobs: ^777777Swordsman^000000
+Jobs: ^777777Swordman^000000
 #
 1496#
 This two-handed magic spear, made to counteract the Devil Sword Thanatos, is sculpted out of Gray Shard.
@@ -6405,13 +6328,13 @@ Attack: ^777777250^000000
 Weight: ^777777375^000000
 Weapon Level: ^7777774^000000
 Required Level: ^777777120^000000
-Jobs: ^777777Swordsman^000000
+Jobs: ^777777Swordman^000000
 #
 1498#
-Two handed spear with red light radiance.
+Two-Handed Spear with red light radiance.
 ATK increased by (Refine*Refine), up to +15 refine.
 Level 70 or higher:Per 10 BaseLevel,ATK +5.
-Class: ^7777772-handed Spear^000000
+Class: ^777777Two-Handed Spear^000000
 Attack: ^777777175^000000
 Weight: ^777777175^000000
 Weapon Level: ^7777773^000000
@@ -6766,7 +6689,7 @@ DEX +50 , STR +20
 Not Tradable
 ^ffffff_^000000
 Class: ^777777Mace^000000
-Property: ^777777Wind^000000
+Property: ^4cbb17Wind^000000
 Attack: ^777777350^000000
 Weight: ^777777600^000000
 Weapon Level: ^7777774^000000
@@ -7092,7 +7015,7 @@ the ^7BCC70Wind^000000 property.
 Class: ^777777Book^000000
 Attack: ^77777790^000000
 Weight: ^77777775^000000
-Property: ^777777Wind^000000
+Property: ^4cbb17Wind^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777727^000000
 Jobs: ^777777Priest
@@ -7330,7 +7253,7 @@ the ^7BCC70Wind^000000 property.
 Class: ^777777Book^000000
 Attack: ^77777790^000000
 Weight: ^77777775^000000
-Property: ^777777Wind^000000
+Property: ^4cbb17Wind^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777727^000000
 Jobs: ^777777Priest
@@ -7802,7 +7725,7 @@ Weight: ^77777750^000000
 Property: ^4cbb17Wind^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777740^000000
-Jobs: ^777777Mage Class and Soul Linker^000000
+Jobs: ^777777Mage and Soul Linker^000000
 #
 1617#
 A staff developed
@@ -7819,7 +7742,7 @@ Attack: ^77777750^000000
 Weight: ^777777100^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777724^000000
-Jobs: ^777777Mage Class and Soul Linker^000000
+Jobs: ^777777Mage and Soul Linker^000000
 #
 1618#
 A staff developed
@@ -7846,7 +7769,7 @@ Attack: ^77777750^000000
 Weight: ^777777100^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777724^000000
-Jobs: ^777777Mage Class and Soul Linker^000000
+Jobs: ^777777Mage and Soul Linker^000000
 #
 1619#
 A staff developed
@@ -7863,7 +7786,7 @@ Attack: ^77777750^000000
 Weight: ^777777100^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777724^000000
-Jobs: ^777777Mage Class and Soul Linker^000000
+Jobs: ^777777Mage and Soul Linker^000000
 #
 1620#
 A staff developed
@@ -7890,7 +7813,7 @@ Attack: ^77777750^000000
 Weight: ^777777100^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777724^000000
-Jobs: ^777777Mage Class and Soul Linker^000000
+Jobs: ^777777Mage and Soul Linker^000000
 #
 1621#
 A staff with a
@@ -10008,7 +9931,7 @@ INT +2, AGI +1
 Class: ^777777Musical Instrument^000000
 Attack: ^777777110^000000
 Weight: ^777777180^000000
-Property: ^777777Wind^000000
+Property: ^4cbb17Wind^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777770^000000
 Jobs: ^777777Bard^000000
@@ -10061,7 +9984,7 @@ desire for traveling.
 Class: ^777777Musical Instrument^000000
 Attack: ^777777110^000000
 Weight: ^77777790^000000
-Property: ^777777Wind^000000
+Property: ^4cbb17Wind^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777727^000000
 Jobs: ^777777Bard^000000
@@ -10603,7 +10526,7 @@ An electric wire. Beware of electrick shock.
 Class: ^777777Whip^000000
 Attack: ^777777110^000000
 Weight: ^77777770^000000
-Property: ^777777Wind^000000
+Property: ^4cbb17Wind^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777730^000000
 Jobs: ^777777Dancer^000000
@@ -11418,7 +11341,7 @@ Reduces damage from Large sized monsters by 5%.
 ^008800Stone Buckler^000000
 ^008800Odin's Blessing^000000
 STR +2, MDEF +5, DEF +5
-Swordsman Class:
+Swordman Class:
 DEF +6
 Class: ^777777Shield^000000
 Defense: ^77777745^000000
@@ -11633,7 +11556,7 @@ Class: ^777777Shield^000000
 Defense: ^777777105^000000
 Weight: ^777777100^000000
 Required Level: ^77777750^000000
-Jobs: ^777777Transcendent Swordman Class^000000
+Jobs: ^777777Transcendent Swordman^000000
 #
 2134#
 A hard, firm-looking shield made from the scales of Naga. The scales are as sharp as blades.
@@ -12040,7 +11963,7 @@ Class: ^777777Shield^000000
 Defense: ^77777725^000000
 Weight: ^7777770^000000
 Required Level: ^77777740^000000
-Jobs: ^777777Swordsman and Merchant^000000
+Jobs: ^777777Swordman and Merchant^000000
 #
 2180#
 ^ff0000You cannot Trade this item.^000000
@@ -12649,7 +12572,7 @@ Class: ^777777Headgear^000000
 Defense: ^7777777^000000
 Location: ^777777Upper^000000
 Weight: ^77777730^000000
-Jobs: ^777777Mage Class and Soul Linker^000000
+Jobs: ^777777Mage and Soul Linker^000000
 #
 2253#
 Peculiar headgear designed to look like a sunflower.
@@ -13334,14 +13257,14 @@ A robe knit out of silver thread.
 Class: ^777777Armor^000000
 Defense: ^77777723^000000
 Weight: ^77777770^000000
-Jobs: ^777777Mage Class and Soul Linker^000000
+Jobs: ^777777Mage and Soul Linker^000000
 #
 2333#
 A robe knit out of silver thread.
 Class: ^777777Armor^000000
 Defense: ^77777723^000000
 Weight: ^77777770^000000
-Jobs: ^777777Mage Class and Soul Linker^000000
+Jobs: ^777777Mage and Soul Linker^000000
 #
 2334#
 An exclusive robe for Mage Class characters that contains magic power.
@@ -13350,7 +13273,7 @@ Class: ^777777Armor^000000
 Defense: ^77777740^000000
 Weight: ^77777760^000000
 Required Level: ^77777750^000000
-Jobs: ^777777Mage Class and Soul Linker^000000
+Jobs: ^777777Mage and Soul Linker^000000
 #
 2335#
 Extremely light clothes outfitted with many pockets, making it handy for stashing stolen goods.
@@ -13517,7 +13440,7 @@ The main component of the Hermod Armor set.
 ^008800Stone Buckler^000000
 ^008800Odin's Blessing^000000
 STR +2, MDEF +5, DEF +5
-Swordsman Class:
+Swordman Class:
 DEF +6
 [^6A5ACDFrigg's Set^000000]
 ^008800Fricca's Circlet^000000
@@ -13769,7 +13692,7 @@ Class: ^777777Armor^000000
 Defense: ^77777740^000000
 Weight: ^77777760^000000
 Required Level: ^77777750^000000
-Jobs: ^777777Mage Class and Soul Linker^000000
+Jobs: ^777777Mage and Soul Linker^000000
 #
 2373#
 A robe that emanates an aura of holiness.
@@ -14036,7 +13959,7 @@ Class: ^777777Armor^000000
 Defense: ^77777775^000000
 Weight: ^777777350^000000
 Required Level: ^77777782^000000
-Jobs: ^777777Transcendent Swordman Class^000000
+Jobs: ^777777Transcendent Swordman^000000
 #
 2392#
 ^FF0000Cannot be traded.^000000
@@ -15104,7 +15027,7 @@ Class: ^777777Footgear^000000
 Defense: ^77777710^000000
 Weight: ^7777770^000000
 Required Level: ^77777740^000000
-Jobs: ^777777Swordsman and Merchant^000000
+Jobs: ^777777Swordman and Merchant^000000
 #
 2498#
 ^ff0000You cannot Trade this item.^000000
@@ -15267,7 +15190,7 @@ Class: ^777777Garment^000000
 Defense: ^77777712^000000
 Weight: ^77777730^000000
 Required Level: ^77777785^000000
-Jobs: ^777777Mage Class and Soul Linker^000000
+Jobs: ^777777Mage and Soul Linker^000000
 #
 2516#
 A muffler owned by Freyja, daughter of Njord, that was often borrowed by Loki.
@@ -24609,7 +24532,7 @@ Weight: ^7777771^000000
 #
 4524#
 STR +2.
-When used by swordsman types, each 3 refine adds STR +1.
+When used by Swordman types, each 3 refine adds STR +1.
 Class: ^777777Card ^000000
 Compound: ^777777Headgear^000000
 Weight: ^7777771^000000
@@ -42816,7 +42739,7 @@ Weight: ^7777771^000000
 7450#
 A broken piece of
 armor that was worn
-by a ghostly swordsman. Weight: ^7777771^000000
+by a ghostly Swordman. Weight: ^7777771^000000
 #
 7451#
 A red dragon's
@@ -53595,7 +53518,7 @@ dagger with its power.
 Class: ^777777Dagger^000000
 Attack: ^77777739^000000
 Weight: ^77777760^000000
-Property: ^777777Wind^000000
+Property: ^4cbb17Wind^000000
 Weapon Level: ^7777771^000000
 Required Level: ^777777N/A^000000
 Jobs: ^777777All except
@@ -53735,7 +53658,7 @@ delay after attacking reduces by 3%
 Class: ^777777Dagger^000000
 Attack: ^777777125^000000
 Weight: ^77777790^000000
-Property: ^777777Wind^000000
+Property: ^4cbb17Wind^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777770^000000
 Jobs: ^777777Ninja^000000
@@ -53975,7 +53898,7 @@ Class: ^777777Dagger^000000
 Attack: ^777777105^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
-Jobs Applicable: ^777777Swordsman/Wizard/Archer/Merchant/Thief/Soul Linker/Ninja^000000
+Jobs Applicable: ^777777Swordman/Wizard/Archer/Merchant/Thief/Soul Linker/Ninja^000000
 #
 13025#
 ^000088Rental Item^000000
@@ -53985,7 +53908,7 @@ Class: ^777777Dagger^000000
 Attack: ^777777105^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
-Jobs Applicable: ^777777Swordsman/Wizard/Archer/Merchant/Thief/Soul Linker/Ninja^000000
+Jobs Applicable: ^777777Swordman/Wizard/Archer/Merchant/Thief/Soul Linker/Ninja^000000
 #
 13026#
 ^000088Rental Item^000000
@@ -54058,7 +53981,7 @@ Class: ^777777Dagger^000000
 Attack: ^777777120^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777771^000000
-Jobs Applicable: ^777777Swordsman/Wizard/Archer/Merchant/Theif/Soul Linker/Ninja^000000
+Jobs Applicable: ^777777Swordman/Wizard/Archer/Merchant/Theif/Soul Linker/Ninja^000000
 #
 13030#
 Crafted from a
@@ -54256,7 +54179,7 @@ Attack: ^777777105^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777770^000000
-Jobs: ^777777Swordsman Class/Mage Class/Archer Class/Merchant Class/Thief Class/Soul Linker/Ninja^000000
+Jobs: ^777777Swordman Class/Mage Class/Archer Class/Merchant Class/Thief Class/Soul Linker/Ninja^000000
 #
 13045#
 It is one of the legendary Weapon,
@@ -54264,7 +54187,7 @@ Critical ATK +10,Increases ASPD(Attack Delay Reduces by 5%)
 Class: ^777777Dagger^000000
 Attack: ^777777155^000000
 Weight: ^7777770^000000
-Property: ^777777Wind^000000
+Property: ^4cbb17Wind^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777770^000000
 Jobs: ^777777Ninja^000000
@@ -54488,7 +54411,7 @@ Has a chance of activating freeze status while physically attacking and increase
 Class: ^777777Dagger^000000
 Attack: ^777777160^000000
 Weight: ^77777750^000000
-Property: ^777777Wind^000000
+Property: ^4cbb17Wind^000000
 Weapon Level: ^7777774^000000
 Required Level: ^777777110^000000
 Jobs: ^777777Transcendent Novice, Swordman, Merchant, Thief Classes^000000
@@ -54644,7 +54567,7 @@ Attack: ^777777110^000000
 Weight: ^77777750^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777730^000000
-Class: ^777777Swordsman Class/Wizard Job/Archer Job/Merchant Job/Thief Job/Soul Linker/Ninja^000000
+Class: ^777777Swordman Class/Wizard Job/Archer Job/Merchant Job/Thief Job/Soul Linker/Ninja^000000
 #
 13089#
 A broken razor-like leg that was severed from a Faceworm.
@@ -54657,7 +54580,7 @@ Weight: ^77777750^000000
 Property: ^702180Poison^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777724^000000
-Jobs: ^777777Novice, Swordsman, Mage, Archer, Merchant, Thief, Soul Linker and Ninja^000000
+Jobs: ^777777Novice, Swordman, Mage, Archer, Merchant, Thief, Soul Linker and Ninja^000000
 #
 13090#
 A broken razor-like leg that was severed from a Faceworm.
@@ -54669,7 +54592,7 @@ Attack: ^777777180^000000
 Weight: ^77777750^000000
 Weapon Level: ^7777774^000000
 Required Level: ^777777100^000000
-Jobs: ^777777Novice, Swordsman, Mage, Archer, Merchant, Thief, Soul Linker and Ninja^000000
+Jobs: ^777777Novice, Swordman, Mage, Archer, Merchant, Thief, Soul Linker and Ninja^000000
 #
 13091#
 [JRO item]
@@ -54715,7 +54638,7 @@ Attack: ^777777120^000000
 Weight: ^77777790^000000
 Weapon Level: ^7777773^000000
 Required Level: ^777777100^000000
-Jobs: ^777777Novice, Swordsman, Mage, Archer, Merchant, Thief, Soul Linker and Ninja^000000
+Jobs: ^777777Novice, Swordman, Mage, Archer, Merchant, Thief, Soul Linker and Ninja^000000
 #
 13097#
 Blue Dagger which has destructive power.
@@ -54728,7 +54651,7 @@ Attack: ^777777180^000000
 Weight: ^777777100^000000
 Weapon Level: ^7777773^000000
 Required Level: ^777777100^000000
-Jobs: ^777777Novice, Swordsman, Mage, Archer, Merchant, Thief, Soul Linker and Ninja^000000
+Jobs: ^777777Novice, Swordman, Mage, Archer, Merchant, Thief, Soul Linker and Ninja^000000
 #
 13098#
 Blue Asura which has destructive power.
@@ -55677,7 +55600,7 @@ the ^7BCC70Wind^000000 property.
 Class: ^777777Bullet^000000
 Attack: ^77777750^000000
 Weight: ^7777770.5^000000
-Property: ^777777Wind^000000
+Property: ^4cbb17Wind^000000
 #
 13205#
 A grenade launcher
@@ -55908,7 +55831,7 @@ A ^7BCC70Wind^000000 property kunai that is especially sharp.
 Class: ^777777Throwing Weapon^000000
 Attack: ^77777730^000000
 Weight: ^7777772^000000
-Property: ^777777Wind^000000
+Property: ^4cbb17Wind^000000
 #
 13258#
 An explosive kunai
@@ -56205,7 +56128,7 @@ AGI -1, DEX -2.
 Class: ^777777Huuma^000000
 Attack: ^777777150^000000
 Weight: ^777777300^000000
-Property: ^777777Wind^000000
+Property: ^4cbb17Wind^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777765^000000
 Jobs: ^777777Ninja^000000
@@ -56404,7 +56327,7 @@ Darkness and auto-spell Lightning Bolt 1Lv is activated by a low rate in close r
 Class: ^777777Huuma Shuriken^000000
 Attack: ^777777200^000000
 Weight: ^777777150^000000
-Property: ^777777Wind^000000
+Property: ^4cbb17Wind^000000
 Weapon Level: ^7777774^000000
 Required Level: ^777777110^000000
 Jobs: ^777777Ninja^000000
@@ -57105,7 +57028,7 @@ This item cannot be Dropped or Traded.
 Class: ^777777Axe^000000
 Attack: ^777777200^000000
 Weight: ^7777771^000000
-Property: ^777777Wind^000000
+Property: ^4cbb17Wind^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Swordman
@@ -66981,7 +66904,7 @@ Decreases the variable casting time of Lord of Vermilion by 3 seconds, INT +1 wh
 Class: ^777777Armor^000000
 Defense: ^77777740^000000
 Weight: ^77777750^000000
-Property: ^777777Wind^000000
+Property: ^4cbb17Wind^000000
 Required Level: ^777777100^000000
 Jobs: ^777777Warlock^000000
 #
@@ -67368,7 +67291,7 @@ Class: ^777777Armor^000000
 Defense: ^77777725^000000
 Weight: ^7777770^000000
 Required level: ^77777740^000000
-Job: ^777777Swordsman Classes/Merchant Classes^000000
+Job: ^777777Swordman Classes/Merchant Classes^000000
 #
 15064#
 ^ff0000Cannot be traded.^000000
@@ -67517,7 +67440,7 @@ Class: ^777777Armor^000000
 Defense: ^77777790^000000
 Weight: ^777777240^000000
 Required Level: ^777777120^000000
-Jobs: ^777777Swordsman, Archer, Merchant, and Thief Classes^000000
+Jobs: ^777777Swordman, Archer, Merchant, and Thief Classes^000000
 #
 15091#
 Sculpted out of Gray Shard and infused with Sakray's old, abandoned memories, this robe protects its wearer against holiness and fear.
@@ -67902,7 +67825,7 @@ DEX +50 , STR +20
 ^FF0000This is a 30 Day version, and is tradable, it will disappear when it expires.^000000
 ^ffffff_^000000
 Class: ^777777Mace^000000
-Property: ^777777Wind^000000
+Property: ^4cbb17Wind^000000
 Attack: ^777777350^000000
 Weight: ^777777600^000000
 Weapon Level: ^7777774^000000
@@ -68073,7 +67996,7 @@ Attack: ^777777125^000000
 Weight: ^777777135^000000
 Weapon Level: ^7777773^000000
 Required Level: ^777777100^000000
-Jobs: ^777777Novice, Swordsman, Acolyte, and Merchant Classes^000000
+Jobs: ^777777Novice, Swordman, Acolyte, and Merchant Classes^000000
 #
 16028#
 This hammer, made to counteract the Devil Sword Thanatos, is sculpted out of Gray Shard.
@@ -68088,7 +68011,7 @@ Attack: ^777777180^000000
 Weight: ^777777300^000000
 Weapon Level: ^7777774^000000
 Required Level: ^777777120^000000
-Jobs: ^777777Swordsman, Merchant, and Acolyte 3rd Classes^000000
+Jobs: ^777777Swordman, Merchant, and Acolyte 3rd Classes^000000
 #
 16029#
 Small chance to cast Turn Undead Level 6.
@@ -70467,7 +70390,7 @@ This item cannot be Dropped or Traded.
 Class: ^777777Axe^000000
 Attack: ^777777200^000000
 Weight: ^7777771^000000
-Property: ^777777Wind^000000
+Property: ^4cbb17Wind^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Swordman
@@ -72515,7 +72438,7 @@ A Spearfish and an Oceanic fish. It is well known for it's delicious meat but is
 when using pierce, spiral pierce, it gives critical damage at high rate and freezes itself by low rate.
 Spiral Pierce Attack increase 100% , Inspiration	Attack 50% . ( Effect of Inspiration will disappear once unequipped)
 If base level is over 100 , add ATK +30 .
-Class: ^777777Two Handed Spear^000000
+Class: ^777777Two-Handed Spear^000000
 Attack: ^777777220^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777771^000000
@@ -72531,7 +72454,7 @@ A Spearfish and an Oceanic fish. It is well known for it's delicious meat but is
 when using pierce, spiral pierce, it gives critical damage at high rate and freezes itself by low rate.
 Spiral Pierce Attack increase 100% , Inspiration	Attack 50% . ( Effect of Inspiration will disappear once unequipped)
 If base level is over 100 , add ATK +30 .
-Class: ^777777Two Handed Spear^000000
+Class: ^777777Two-Handed Spear^000000
 Attack: ^777777220^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777771^000000
@@ -78080,7 +78003,7 @@ Defense: ^77777715^000000
 Location: ^777777Upper^000000
 Weight: ^77777780^000000
 Required Level: ^77777770^000000
-Jobs: ^777777Swordsman and Merchant^000000
+Jobs: ^777777Swordman and Merchant^000000
 #
 18769#
 Monster Munak's hat. Big hat with an anonymous charm attached. It has been remodeled for extra effect.
@@ -78132,7 +78055,7 @@ Defense: ^7777775^000000
 Location: ^777777Middle^000000
 Weight: ^77777730^000000
 Required Level: ^77777765^000000
-Jobs: ^777777Swordsman^000000
+Jobs: ^777777Swordman^000000
 #
 18774#
 Dark mask for famous assassins. Calms you down just by wearing it.
@@ -87314,7 +87237,7 @@ Class: ^777777Garment^000000
 Defense: ^77777710^000000
 Weight: ^7777770^000000
 Required Level: ^77777740^000000
-Jobs: ^777777Swordsman and Merchant^000000
+Jobs: ^777777Swordman and Merchant^000000
 #
 20704#
 ^ff0000Cannot be traded.^000000
@@ -87755,7 +87678,7 @@ Attack: ^77777795^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
 Required Level: ^7777771^000000
-Jobs: ^777777SwordsmanClass^000000
+Jobs: ^777777SwordmanClass^000000
 #
 21006#
 ^ff0000Cannot be traded.^000000
@@ -87796,7 +87719,7 @@ Attack: ^777777280^000000
 Weight: ^777777130^000000
 Weapon Level: ^7777774^000000
 Required Level: ^777777120^000000
-Class: ^777777Swordsman^000000
+Class: ^777777Swordman^000000
 #
 21010#
 This Two-Handed Sword was once used for vanquishing an evil slayer and his followers.
@@ -87844,7 +87767,7 @@ Attack: ^777777170^000000
 Weight: ^777777170^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777770^000000
-Jobs: ^777777Swordman classes^000000
+Jobs: ^777777Swordman^000000
 #
 21016#
 Two-Handed Sword imbued with Vicious Mind.
@@ -92595,7 +92518,7 @@ Attack: ^777777300^000000
 Weight: ^777777400^000000
 Weapon Level: ^7777774^000000
 Required Level: ^777777120^000000
-Class: ^777777Swordsman Class/Merchant Class^000000
+Class: ^777777Swordman Class/Merchant Class^000000
 #
 28101#
 Axe with attached blossom shaped like tornado.

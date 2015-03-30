@@ -3483,7 +3483,6 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 1491#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777150^000000
 #
 1492#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -12193,7 +12192,7 @@ Weight: ^7777771^000000
 #
 4524#
 STR +2.
-When used by swordsman types, each 3 refine adds STR +1.
+When used by Swordman types, each 3 refine adds STR +1.
 Class: ^777777Card ^000000
 Compound: ^777777Headgear^000000
 Weight: ^7777771^000000
@@ -23242,7 +23241,7 @@ Weight: ^7777771^000000
 7450#
 A broken piece of
 armor that was worn
-by a ghostly swordsman. Weight: ^7777771^000000
+by a ghostly Swordman. Weight: ^7777771^000000
 #
 7451#
 A red dragon's
@@ -33492,7 +33491,7 @@ Class: ^777777Dagger^000000
 Attack: ^777777105^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
-Jobs Applicable: ^777777Swordsman/Wizard/Archer/Merchant/Thief/Soul Linker/Ninja^000000
+Jobs Applicable: ^777777Swordman/Wizard/Archer/Merchant/Thief/Soul Linker/Ninja^000000
 #
 13025#
 ^000088Rental Item^000000
@@ -33502,7 +33501,7 @@ Class: ^777777Dagger^000000
 Attack: ^777777105^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
-Jobs Applicable: ^777777Swordsman/Wizard/Archer/Merchant/Thief/Soul Linker/Ninja^000000
+Jobs Applicable: ^777777Swordman/Wizard/Archer/Merchant/Thief/Soul Linker/Ninja^000000
 #
 13026#
 ^000088Rental Item^000000
@@ -34060,7 +34059,7 @@ the ^7BCC70Wind^000000 property.
 Class: ^777777Bullet^000000
 Attack: ^77777750^000000
 Weight: ^7777770.5^000000
-Property: ^777777Wind^000000
+Property: ^4cbb17Wind^000000
 #
 13205#
 A grenade launcher
@@ -34291,7 +34290,7 @@ A ^7BCC70Wind^000000 property kunai that is especially sharp.
 Class: ^777777Throwing Weapon^000000
 Attack: ^77777730^000000
 Weight: ^7777772^000000
-Property: ^777777Wind^000000
+Property: ^4cbb17Wind^000000
 #
 13258#
 An explosive kunai
@@ -34908,7 +34907,7 @@ This item cannot be Dropped or Traded.
 Class: ^777777Axe^000000
 Attack: ^777777200^000000
 Weight: ^7777771^000000
-Property: ^777777Wind^000000
+Property: ^4cbb17Wind^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Swordman

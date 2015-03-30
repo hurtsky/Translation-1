@@ -778,7 +778,7 @@
 1488#Ahlspiess#
 1489#Marlin#
 1490#Giant_Lance#
-1491#Upgrade_Two_Handed_Spear#
+1491#Upgrade_Two-Handed_Spear#
 1492#Vellum_Glaive#
 1493#Metal_Lance#
 1494#Undine_Spear#
@@ -7607,7 +7607,7 @@
 13942#Love_Angel_Magic_Powder_Box_30_Days#
 13943#Squirrel_Magic_Powder_Box_30_Days#
 13944#Gogo_Magic_Powder_Box_30_Days#
-13945#Brazil_Swordsman_Package#
+13945#Brazil_Swordman_Package#
 13946#Brazil_Magician_Package#
 13947#Brazil_Acolyte_Package#
 13948#Brazil_Archer_package#
