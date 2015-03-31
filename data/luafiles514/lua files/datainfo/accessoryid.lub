@@ -1330,5 +1330,9 @@ ACCESSORY_IDs = {
 	ACCESSORY_C_Wing_Ear_Black = 1336,
 	ACCESSORY_C_Evil_Druid_Hat_Black = 1337,
 	ACCESSORY_RAMEN_HAT_BLACK = 1338,
-	ACCESSORY_Rabbit_Ear_Eggshell = 1339
+	ACCESSORY_Rabbit_Ear_Eggshell = 1339,
+	ACCESSORY_C_Happy_Lunatic_Hanging_Ear = 1340,
+	ACCESSORY_C_Face_Crusher = 1341,
+	ACCESSORY_C_Hill_Wind_Mask = 1342,
+	ACCESSORY_C_Beelzebub_Crown = 1343
 }
