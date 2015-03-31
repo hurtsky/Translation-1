@@ -26426,8 +26426,7 @@ Jobs: ^777777All
 except Novice^000000
 #
 5006#
-70's tough guy style
-sunglasses that give its wearer a manly swagger.
+70's tough guy style sunglasses that give its wearer a manly swagger.
 Class: ^777777Headgear^000000
 Defense: ^7777771^000000
 Location: ^777777Middle^000000
@@ -67600,7 +67599,7 @@ If refine to +12 add MaxHP +300, MaxSP +30.
 MaxHP +25%, MaxSP +25%, Increase you walk speed.
 If the amount of the entire set of refine is equal or superior 30, add MaxHP +5%, MaxSP +5%.
 Class: ^777777Armor^000000
-Defense: ^7777770^000000
+Defense: ^77777770^000000
 Weight: ^77777775^000000
 Required Level: ^777777125^000000
 Jobs: ^777777All^000000
@@ -67655,12 +67654,24 @@ Weight: ^77777780^000000
 Required Level: ^777777145^000000
 Jobs: ^777777All^000000
 #
+15123#
+A suit that made from special thread.
+Has chance to activate 'Charmink Wink' when melee attacking.
+Refined to +5, critical damage +4%
+Refined to +7, critical damage +6%
+When equipped with +7 Durga, chance to ignore Normal monster's defense for 3 seconds.
+Class: ^777777Armor^000000
+Defense: ^77777756^000000
+Weight: ^77777790^000000
+Required Level: ^777777105^000000
+Jobs: ^777777Guillotine Cross^000000
+#
 15128#
 A suit which made from the lost technology in Research Building.
 VIT +6.
 If base level over 130, add VIT +4.
 Every 3 refine, increase MaxHP +4%.
-[+^6A5ACDExcellent Wing^000000]
+[+^6A5ACDExcellion Wing^000000]
 Reduce after cast delay by 10%.
 If base level over 130, additional after cast delay reduced by 10%.
 Perfect Dodge +6.
@@ -67960,6 +67971,14 @@ Jobs: ^777777Novice, Swordman, Acolyte, and Merchant Classes^000000
 16023#
 #
 16024#
+A heavy and powerful iron mace with a rounded top.
+Increase damage against Demihuman, Undead and Earth monster by 10%.
+Class: ^777777Mace^000000
+Attack: ^777777165^000000
+Weight: ^77777790^000000
+Weapon Level: ^7777774^000000
+Required Level: ^77777740^000000
+Jobs: ^777777Acolyte^000000
 #
 16025#
 #
@@ -86175,6 +86194,42 @@ Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
+20141#
+A device that can measure opponent's power. Commoners have power level 5. Heroes have a power level over 9,000!
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Middle^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20142#
+70's tough guy style sunglasses that give its wearer a manly swagger.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Middle^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20143#
+A lollipop bitten in the mouth. Make sure to brush your teeth after having it.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Lower^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20144#
+Accessory which makes you feel like a nature-loving fairies in the past.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Middle^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
 20145#
 A weird item that spreads a strange-shaped beam around the eyes. It seems to have been made in outer space.
 Class: ^777777Costume^000000
@@ -86198,6 +86253,41 @@ Cute pegeon bring good fortune to the ownner.
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Middle^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20148#
+''One for all and all for one'' is inscribed on the inside of this extravagant hat.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20149#
+A glasses of famous insect researcher.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Middle^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20150#
+A fan used to enjoy the wind.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Lower^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20151#
+A replica hat of monster Poison Spore.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -86492,6 +86582,14 @@ Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
+20185#
+A pair of fashionable sunglasses.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
 20186#
 Once owned by Magni, son of Thor, the wearer of this cap is supposedly granted a measure of Magni's awesome might.
 Class: ^777777Costume^000000
@@ -86502,6 +86600,14 @@ Jobs: ^777777All^000000
 #
 20187#
 A circlet blessed by Freyja, mother of Baldur.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20189#
+One of the few armors that was forged by Goibe the blacksmith.
 Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
@@ -86829,6 +86935,15 @@ Weight: ^7777770^000000
 Required Level: ^77777710^000000
 Jobs: ^777777All^000000
 #
+20229#
+A special hairpin wear in new year event.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
 20230#
 A mask that showing the deep sorrows for losing everything.
 Class: ^777777Costume^000000
@@ -86872,6 +86987,42 @@ Warm and cozy hat made with top class lamb's wool.
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Upper, middle, lower^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20235#
+An ice rose that made into costume.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Lower^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20236#
+A very soft textured hat which was inspired from Arch Angeling.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20237#
+A hat woven out of yarn that keeps the head warm, but is mostly worn because of its fashionable look.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20238#
+A cat doll that you can carry on your head. If you think you hear it meow or feel it move, it's just an illusion.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -87063,6 +87214,15 @@ Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
+20260#
+A small, star shaped hairclip that makes a great present for ladies.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
 20262#
 A headgear that imitated the ears of fox. When you move the bell will ringing.
 Class: ^777777Costume^000000
@@ -87173,6 +87333,16 @@ Jobs: ^777777All^000000
 #
 20274#
 A lovely 'Bear Hat' costume.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20292#
+A forbidden ramen found in the ruin of Juperos. Those who wish to know the receipt will be doomed.
+^FF0000Warning! You aren't allowed to make noddle.^000000
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
@@ -87595,7 +87765,7 @@ A wing which made from the lost technology in Research Building Ruins.
 Perfect Dodge +8.
 If base level over 130, add Perfect Dodge +2.
 Every refine increase Flee +2.
-[+^6A5ACDExcellent Suit^000000]
+[+^6A5ACDExcellion Suit^000000]
 Reduce after cast delay by 10%.
 If base level over 130, additional after cast delay reduced by 10%.
 Perfect Dodge +6.
@@ -87670,7 +87840,7 @@ Attack: ^77777795^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
 Required Level: ^7777771^000000
-Jobs: ^777777SwordmanClass^000000
+Jobs: ^777777Swordman^000000
 #
 21006#
 ^ff0000Cannot be traded.^000000
@@ -87697,6 +87867,15 @@ Required Level: ^777777150^000000
 Jobs: ^777777Knight and Crusader^000000
 #
 21008#
+A rare japanese sword with doubled edge. The wound caused by it is not easy to heal.
+Every refine increase critical damage by 2%.
+Chance to auto-cast Lv.1 Fatal Wound when attacking.
+Class: ^777777Two-Handed Sword^000000
+Attack: ^777777170^000000
+Weight: ^777777100^000000
+Weapon Level: ^7777774^000000
+Required Level: ^77777750^000000
+Jobs: ^777777Swordman^000000
 #
 21009#
 This great sword, made to counteract the Devil Sword Thanatos, is sculpted out of Gray Shard.
@@ -87737,6 +87916,34 @@ Weight: ^777777500^000000
 Weapon Level: ^7777774^000000
 Required Level: ^777777130^000000
 Jobs: ^7777773rd Swordman class^000000
+#
+21012#
+A sword belong to magic swordman, His magic power poured to this Two-Handed Sword.
+MATK +150
++Death Word Card, when melee attacking chance to auto cast Lv.5 Soul Strike.
++Pitman Card, when melee attacking chance to auto cast Lv.5 Earth Spike.
++Hill Wind Card, when melee attacking chance to auto cast Lv.5 Lightning Bolt.
++Laurell Weinder Card, when melee attacking chance to auto cast Lv.5 Cold Bolt.
++Red Ferus Card, when melee attacking chance to auto cast Lv.5 Fire Bolt.
+Every refine level of weapon increase the chance of triggering magic.
+Class: ^777777Two-Handed Sword^000000
+Attack: ^777777200^000000
+Weight: ^777777220^000000
+Weapon Level: ^7777774^000000
+Required Level: ^777777110^000000
+Jobs: ^777777Rune Knight^000000
+#
+21013#
+Ancient Two-Handed Sword that once used by cavalry.
+Reduce SP consumption skill of Auto Counter by 2.
+Reduce SP consumption skill of Parrying by 25.
++Golem card, reduce damage from small and large monster by 15%.
+Class: ^777777Two-Handed Sword^000000
+Attack: ^777777210^000000
+Weight: ^777777220^000000
+Weapon Level: ^7777774^000000
+Required Level: ^777777110^000000
+Jobs: ^777777Rune Knight^000000
 #
 21014#
 ^ff0000Cannot be traded.^000000
@@ -87817,7 +88024,7 @@ Jobs: ^7777773rd Class^000000
 22001#
 These boots are obviously old but they show no signs of wear and tear.
 MaxHP +300, MaxSP +30.
-For every 3 refine level, MaxHP +100, MaxSP +10, MATK +10 .
+For every 3 refine level, MaxHP +100, MaxSP +10, MATK +10.
 In case the original INT is more than 120 MATK +60 
 MDEF +5.
 Class: ^777777Footgear^000000
@@ -87829,8 +88036,8 @@ Jobs: ^7777773rd Class^000000
 22002#
 These boots are obviously old but they show no signs of wear and tear.
 MaxHP +300, MaxSP +30.
-For every 3 refine level, MaxHP +100, MaxSP +10, attack speed 3%(attack delay decreased 3%) .
-In case the original AGI is more than 120,ASPD +1.
+For every 3 refine level, MaxHP +100, MaxSP +10, attack speed 3%(attack delay decreased 3%).
+In case the original AGI is more than 120, ASPD +1.
 Class: ^777777Footgear^000000
 Defense: ^77777725^000000
 Weight: ^77777760^000000
@@ -87840,8 +88047,8 @@ Jobs: ^7777773rd Class^000000
 22003#
 These boots are obviously old but they show no signs of wear and tear.
 MaxHP +300, MaxSP +30.
-For every 3 refine level, MaxHP +300, MaxSP +10 .
-In case the original VIT is more than 120,MHP +8%.
+For every 3 refine level, MaxHP +300, MaxSP +10.
+In case the original VIT is more than 120, MaxHP +8%.
 Class: ^777777Footgear^000000
 Defense: ^77777725^000000
 Weight: ^77777760^000000
@@ -87851,7 +88058,7 @@ Jobs: ^7777773rd Class^000000
 22004#
 These boots are obviously old but they show no signs of wear and tear.
 MaxHP +300, MaxSP +30.
-For every 3 refine level, MaxHP +100, MaxSP +10, DEX +3 .
+For every 3 refine level, MaxHP +100, MaxSP +10, DEX +3.
 In case the original DEX is more than 120, fixed casting decreased 0.5sec, long distance attack power +5%.
 Class: ^777777Footgear^000000
 Defense: ^77777725^000000
@@ -87862,7 +88069,7 @@ Jobs: ^7777773rd Class^000000
 22005#
 These boots are obviously old but they show no signs of wear and tear.
 MaxHP +300, MaxSP +30.
-For every 3 refine level, MaxHP +100, MaxSP +10, critical damage2% .
+For every 3 refine level, MaxHP +100, MaxSP +10, critical damage by 2%.
 In case the original LUK is more than 120,critical damage30%.
 MDEF +5.
 Class: ^777777Footgear^000000

@@ -43875,6 +43875,9 @@ Unidentified item, can use [Spectacles] from merchant to identify it.
 15121#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
+15123#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
 15128#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
@@ -53634,6 +53637,18 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 20140#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
+20141#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20142#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20143#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20144#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
 20145#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
@@ -53641,6 +53656,18 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 20147#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20148#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20149#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20150#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20151#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 20152#
@@ -53742,10 +53769,16 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 20184#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
+20185#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
 20186#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 20187#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20189#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 20190#
@@ -53865,6 +53898,9 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 20228#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
+20229#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
 20230#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
@@ -53878,6 +53914,18 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 20234#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20235#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20236#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20237#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20238#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 20239#
@@ -53943,6 +53991,9 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 20259#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
+20260#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
 20262#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
@@ -53980,6 +54031,9 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 20274#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20292#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 20500#
@@ -54138,11 +54192,9 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 21003#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777100^000000
 #
 21004#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777340^000000
 #
 21005#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -54163,6 +54215,12 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 21011#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+21012#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+21013#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 21014#
