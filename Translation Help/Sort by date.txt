@@ -1,5 +1,9 @@
-// Untranslated Miscs and Boxs Items
+
+//  Untranslated Miscs and Boxs Items
+
+// --------------------------------------------------
 // ------------------KRO 2014-07-16------------------
+// --------------------------------------------------
 	[6397] = {
 		unidentifiedDisplayName = "GM이벤트 응모권",
 		unidentifiedResourceName = "쿠폰-노멀",
@@ -69,7 +73,9 @@
 		ClassNum = 0
 	},
 
+// --------------------------------------------------
 // ------------------KRO 2014-07-23------------------
+// --------------------------------------------------
 
 	[17501] = {
 		unidentifiedDisplayName = "힘내그라 패키지Ⅳ",
@@ -138,7 +144,9 @@
 		ClassNum = 0
 	},
 
+// --------------------------------------------------
 // ------------------KRO 2014-08-08------------------
+// --------------------------------------------------
 
 	[17507] = {
 		unidentifiedDisplayName = "냥다래 4개 상자",
@@ -216,7 +224,9 @@
 		ClassNum = 0
 	},
 
+// --------------------------------------------------
 // ------------------KRO 2014-08-13------------------
+// --------------------------------------------------
 
 	[22781] = {
 		unidentifiedDisplayName = "PC방 노말박스",
@@ -310,8 +320,9 @@
 		ClassNum = 0
 	},
 
-
+// --------------------------------------------------
 // ------------------KRO 2014-08-20------------------
+// --------------------------------------------------
 
 	[17510] = {
 		unidentifiedDisplayName = "제련용 광석상자Ⅷ",
@@ -430,7 +441,9 @@
 		ClassNum = 0
 	},
 
+// --------------------------------------------------
 // ------------------KRO 2014-09-03------------------
+// --------------------------------------------------
 
 	[17512] = {
 		unidentifiedDisplayName = "(한정)고농축 에르늄 30개 상자",
@@ -486,7 +499,9 @@
 		ClassNum = 0
 	},
 
+// --------------------------------------------------
 // ------------------KRO 2014-09-24------------------
+// --------------------------------------------------
 
 	[14758] = {
 		unidentifiedDisplayName = "안심제련 스크롤",
@@ -550,7 +565,9 @@
 		ClassNum = 0
 	},
 
+// --------------------------------------------------
 // ------------------KRO 2014-10-22------------------
+// --------------------------------------------------
 
 	[6847] = {
 		unidentifiedDisplayName = "아주 작은 상자",
@@ -927,7 +944,9 @@
 		ClassNum = 0
 	},
 
+// --------------------------------------------------
 // ------------------KRO 2015-02-04------------------
+// --------------------------------------------------
 
 	[17567] = {
 		unidentifiedDisplayName = "이벤트 올마이티 상자",
@@ -997,7 +1016,9 @@
 		ClassNum = 0
 	},
 
+// --------------------------------------------------
 // ------------------KRO 2015-03-04------------------
+// --------------------------------------------------
 
 	[22906] = {
 		unidentifiedDisplayName = "봉인된인장 스크롤Ⅲ",
@@ -1019,7 +1040,9 @@
 		ClassNum = 0
 	},
 
+// --------------------------------------------------
 // ------------------KRO 2015-03-18------------------
+// --------------------------------------------------
 
 	[17575] = {
 		unidentifiedDisplayName = "에드워드 오너라 상자",
@@ -1064,6 +1087,1154 @@
 			"엘리제 오너라 - 풍선껌, 잡 전투 교범 효과를 받을 수 있다.",
 			"^ff0000본 아이템을 개봉하시면 청약철회 및 환불 대상에서 제외 됩니다.^000000",
 			"^ffffff_^000000",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+// --------------------------------------------------
+// ------------------KRO 2015-04-01------------------
+// --------------------------------------------------
+
+	[22816] = {
+		unidentifiedDisplayName = "진 신묘한 생명수",
+		unidentifiedResourceName = "우베잼",
+		unidentifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"시중에 퍼진 이런저런 회복포션을 농축하여 만든 생명수. 중형과 소형의 중간적인 맛이 난다.",
+			"복용하면 60분간 3초마다 MHP의 4%를 회복한다.",
+			"버서크 상태에서는 효과가 발동하지 않는다.",
+			"10분간 이동속도도 상승한다.",
+			"^000088캐릭터가 전투불능상태가 되면 아이템 효과도 사라집니다.^000000",
+			"무게 : ^7777771^000000"
+		},
+		identifiedDisplayName = "진 신묘한 생명수",
+		identifiedResourceName = "우베잼",
+		identifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"시중에 퍼진 이런저런 회복포션을 농축하여 만든 생명수. 중형과 소형의 중간적인 맛이 난다.",
+			"복용하면 60분간 3초마다 MHP의 4%를 회복한다.",
+			"버서크 상태에서는 효과가 발동하지 않는다.",
+			"10분간 이동속도도 상승한다.",
+			"^000088캐릭터가 전투불능상태가 되면 아이템 효과도 사라집니다.^000000",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[22817] = {
+		unidentifiedDisplayName = "진 소형 생명수",
+		unidentifiedResourceName = "굴라만",
+		unidentifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"이그드라실 나무에서 나오는 수액을 담아놓은 작은 병. 상처 재생에 효험이 있다고 한다.",
+			"복용하면 60분간 5초마다 MHP의 5%를 회복한다.",
+			"버서크 상태에서는 효과가 발동하지 않는다.",
+			"10분간 이동속도도 상승한다.",
+			"^000088캐릭터가 전투불능상태가 되면 아이템 효과도 사라집니다.^000000",
+			"무게 : ^7777771^000000"
+		},
+		identifiedDisplayName = "진 소형 생명수",
+		identifiedResourceName = "굴라만",
+		identifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"이그드라실 나무에서 나오는 수액을 담아놓은 작은 병. 상처 재생에 효험이 있다고 한다.",
+			"복용하면 60분간 5초마다 MHP의 5%를 회복한다.",
+			"버서크 상태에서는 효과가 발동하지 않는다.",
+			"10분간 이동속도도 상승한다.",
+			"^000088캐릭터가 전투불능상태가 되면 아이템 효과도 사라집니다.^000000",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[22818] = {
+		unidentifiedDisplayName = "진 중형 생명수",
+		unidentifiedResourceName = "싸고",
+		unidentifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"이그드라실 나무에서 나오는 수액을 담아놓은 병. 상처 재생에 효험이 있다고 한다.",
+			"복용하면 60분간 4초마다 MHP의 7%를 회복한다.",
+			"버서크 상태에서는 효과가 발동하지 않는다.",
+			"10분간 이동속도도 상승한다.",
+			"^000088캐릭터가 전투불능상태가 되면 아이템 효과도 사라집니다.^000000",
+			"무게 : ^7777771^000000"
+		},
+		identifiedDisplayName = "진 중형 생명수",
+		identifiedResourceName = "싸고",
+		identifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"이그드라실 나무에서 나오는 수액을 담아놓은 병. 상처 재생에 효험이 있다고 한다.",
+			"복용하면 60분간 4초마다 MHP의 7%를 회복한다.",
+			"버서크 상태에서는 효과가 발동하지 않는다.",
+			"10분간 이동속도도 상승한다.",
+			"^000088캐릭터가 전투불능상태가 되면 아이템 효과도 사라집니다.^000000",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[22819] = {
+		unidentifiedDisplayName = "진 올마이티",
+		unidentifiedResourceName = "마아모울",
+		unidentifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"몸에 좋다고 소문난 요리들을 모두 응축시킨 궁극의 요리.",
+			"60분간 All State + 10, ATK + 30, MATK + 30.",
+			"10분간 이동속도도 상승한다.",
+			"^ff0000주의! 기존의 캐시 요리아이템과 중첩 불가능합니다!.^000000",
+			"무게 : ^7777771^000000"
+		},
+		identifiedDisplayName = "진 올마이티",
+		identifiedResourceName = "마아모울",
+		identifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"몸에 좋다고 소문난 요리들을 모두 응축시킨 궁극의 요리.",
+			"60분간 All State + 10, ATK + 30, MATK + 30.",
+			"10분간 이동속도도 상승한다.",
+			"^ff0000주의! 기존의 캐시 요리아이템과 중첩 불가능합니다!.^000000",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[22820] = {
+		unidentifiedDisplayName = "진 ASPD 강화 포션",
+		unidentifiedResourceName = "태국향수ASPD",
+		unidentifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.",
+			"기존 공격속도 포션과 동일하게 적용되며 AGI에 따라 공속 증가량이 달라질 수 있습니다.^000000",
+			"여타의 공격속도 향상 포션과 함께 사용 시 더 큰 효과가 나타나는 강화 포션.",
+			"복용하면 60분간 공격속도가 조금 더 상승한다. 전직업이 사용할 수 있다.",
+			"10분간 이동속도도 상승한다.",
+			"무게 : ^7777771^000000"
+		},
+		identifiedDisplayName = "진 ASPD 강화 포션",
+		identifiedResourceName = "태국향수ASPD",
+		identifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.",
+			"기존 공격속도 포션과 동일하게 적용되며 AGI에 따라 공속 증가량이 달라질 수 있습니다.^000000",
+			"여타의 공격속도 향상 포션과 함께 사용 시 더 큰 효과가 나타나는 강화 포션.",
+			"복용하면 60분간 공격속도가 조금 더 상승한다. 전직업이 사용할 수 있다.",
+			"10분간 이동속도도 상승한다.",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[22821] = {
+		unidentifiedDisplayName = "진 레드 부스터",
+		unidentifiedResourceName = "태국향수ATK",
+		unidentifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"체내 에너지를 활성화 하여, 전투를 보조해주는 레드 부스터. 체력에 다소 부담이 가니 주의 하자.",
+			"60분간 ATK, MATK + 30, 공격속도 증가(공격 후 딜레이감소 5%), 변동 캐스팅 5% 감소, MHP, MSP - 10%.",
+			"물리, 마법 공격 시 일정확률로 집중력향상 3Lv 발동. (배운레벨이 3Lv보다 높을 시 배운레벨로 발동)",
+			"10분간 이동속도도 상승한다.",
+			"^000088캐릭터가 전투불능상태가 되면 아이템 효과도 사라집니다.^000000",
+			"무게 : ^7777771^000000"
+		},
+		identifiedDisplayName = "진 레드 부스터",
+		identifiedResourceName = "태국향수ATK",
+		identifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"체내 에너지를 활성화 하여, 전투를 보조해주는 레드 부스터. 체력에 다소 부담이 가니 주의 하자.",
+			"60분간 ATK, MATK + 30, 공격속도 증가(공격 후 딜레이감소 5%), 변동 캐스팅 5% 감소, MHP, MSP - 10%.",
+			"물리, 마법 공격 시 일정확률로 집중력향상 3Lv 발동. (배운레벨이 3Lv보다 높을 시 배운레벨로 발동)",
+			"10분간 이동속도도 상승한다.",
+			"^000088캐릭터가 전투불능상태가 되면 아이템 효과도 사라집니다.^000000",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[17582] = {
+		unidentifiedDisplayName = "삼명수 패키지VI",
+		unidentifiedResourceName = "응급처치상자",
+		unidentifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"생명 연장의 꿈, 전설의 삼명수!!! 라고 쓰여져 있는 상자.",
+			"소형 생명수 20개, 중형 생명수 20개, 신묘한 생명수 20개가 들어있다. 추가로 스테이터스 감소 스크롤 1개도 얻을 수 있다.",
+			"^ff0000본 아이템을 개봉하시면 청약철회 대상에서 제외 됩니다.^000000"
+		},
+		identifiedDisplayName = "삼명수 패키지VI",
+		identifiedResourceName = "응급처치상자",
+		identifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"생명 연장의 꿈, 전설의 삼명수!!! 라고 쓰여져 있는 상자.",
+			"소형 생명수 20개, 중형 생명수 20개, 신묘한 생명수 20개가 들어있다. 추가로 스테이터스 감소 스크롤 1개도 얻을 수 있다.",
+			"^ff0000본 아이템을 개봉하시면 청약철회 대상에서 제외 됩니다.^000000",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[17583] = {
+		unidentifiedDisplayName = "삼명수 패키지 10세트VI",
+		unidentifiedResourceName = "응급처치상자",
+		unidentifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"생명 연장의 꿈, 전설의 삼명수!!! 라고 쓰여져 있는 상자 10세트. ",
+			"소형 생명수 200개, 중형 생명수 200개, 신묘한 생명수 200개가 들어있다. 추가로 스테이터스 감소 스크롤 11개도 얻을 수 있다. ",
+			"^ff0000본 아이템을 개봉하시면 청약철회 대상에서 제외 됩니다. ^000000"
+		},
+		identifiedDisplayName = "삼명수 패키지 10세트VI",
+		identifiedResourceName = "응급처치상자",
+		identifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"생명 연장의 꿈, 전설의 삼명수!!! 라고 쓰여져 있는 상자 10세트. ",
+			"소형 생명수 200개, 중형 생명수 200개, 신묘한 생명수 200개가 들어있다. 추가로 스테이터스 감소 스크롤 11개도 얻을 수 있다. ",
+			"^ff0000본 아이템을 개봉하시면 청약철회 대상에서 제외 됩니다. ^000000",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[22946] = {
+		unidentifiedDisplayName = "스테이터스 감소 스크롤",
+		unidentifiedResourceName = "푸른해양스크롤",
+		unidentifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"기간 한정 스테이터스 감소 스크롤. ",
+			"무기 11제련 보장권, 방어구 11제련 보장권, 무기 9제련 보장권, 방어구 9제련 보장권, STR 감소 포션 상자, VIT 감소 포션 상자 등등 여러가지 희귀한 아이템 중 하나를 얻을 수 있다."
+		},
+		identifiedDisplayName = "스테이터스 감소 스크롤",
+		identifiedResourceName = "푸른해양스크롤",
+		identifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"기간 한정 스테이터스 감소 스크롤. ",
+			"무기 11제련 보장권, 방어구 11제련 보장권, 무기 9제련 보장권, 방어구 9제련 보장권, STR 감소 포션 상자, VIT 감소 포션 상자 등등 여러가지 희귀한 아이템 중 하나를 얻을 수 있다.",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[22947] = {
+		unidentifiedDisplayName = "STR 감소 포션 상자",
+		unidentifiedResourceName = "우울한상자",
+		unidentifiedDescriptionName = { "감정되지 않음. [돋보기] 를 사용하여 감정할 수 있다." },
+		identifiedDisplayName = "STR 감소 포션 상자",
+		identifiedResourceName = "우울한상자",
+		identifiedDescriptionName = { "STR 감소 포션이 5개 들어있는 상자.", "무게 : ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[22948] = {
+		unidentifiedDisplayName = "AGI 감소 포션 상자",
+		unidentifiedResourceName = "우울한상자",
+		unidentifiedDescriptionName = { "감정되지 않음. [돋보기] 를 사용하여 감정할 수 있다." },
+		identifiedDisplayName = "AGI 감소 포션 상자",
+		identifiedResourceName = "우울한상자",
+		identifiedDescriptionName = { "AGI 감소 포션이 5개 들어있는 상자.", "무게 : ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[22949] = {
+		unidentifiedDisplayName = "VIT 감소 포션 상자",
+		unidentifiedResourceName = "우울한상자",
+		unidentifiedDescriptionName = { "감정되지 않음. [돋보기] 를 사용하여 감정할 수 있다." },
+		identifiedDisplayName = "VIT 감소 포션 상자",
+		identifiedResourceName = "우울한상자",
+		identifiedDescriptionName = { "VIT 감소 포션이 5개 들어있는 상자.", "무게 : ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[22950] = {
+		unidentifiedDisplayName = "INT 감소 포션 상자",
+		unidentifiedResourceName = "우울한상자",
+		unidentifiedDescriptionName = { "감정되지 않음. [돋보기] 를 사용하여 감정할 수 있다." },
+		identifiedDisplayName = "INT 감소 포션 상자",
+		identifiedResourceName = "우울한상자",
+		identifiedDescriptionName = { "INT 감소 포션이 5개 들어있는 상자.", "무게 : ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[22951] = {
+		unidentifiedDisplayName = "DEX 감소 포션 상자",
+		unidentifiedResourceName = "우울한상자",
+		unidentifiedDescriptionName = { "감정되지 않음. [돋보기] 를 사용하여 감정할 수 있다." },
+		identifiedDisplayName = "DEX 감소 포션 상자",
+		identifiedResourceName = "우울한상자",
+		identifiedDescriptionName = { "DEX 감소 포션이 5개 들어있는 상자.", "무게 : ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[22952] = {
+		unidentifiedDisplayName = "LUK 감소 포션 상자",
+		unidentifiedResourceName = "우울한상자",
+		unidentifiedDescriptionName = { "감정되지 않음. [돋보기] 를 사용하여 감정할 수 있다." },
+		identifiedDisplayName = "LUK 감소 포션 상자",
+		identifiedResourceName = "우울한상자",
+		identifiedDescriptionName = { "LUK 감소 포션이 5개 들어있는 상자.", "무게 : ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[22702] = {
+		unidentifiedDisplayName = "STR 감소 포션",
+		unidentifiedResourceName = "빨간포션",
+		unidentifiedDescriptionName = {
+			"STR을 1만큼 감소시키고, 대신 스테이터스 포인트로 환원 시켜줍니다.",
+			"STR이 1일 때에는 사용할 수 없습니다."
+		},
+		identifiedDisplayName = "STR 감소 포션",
+		identifiedResourceName = "수상한빨간포션",
+		identifiedDescriptionName = {
+			"STR을 1만큼 감소시키고, 대신 스테이터스 포인트로 환원 시켜줍니다.",
+			"STR이 1일 때에는 사용할 수 없습니다.",
+			"무게 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[22703] = {
+		unidentifiedDisplayName = "AGI 감소 포션",
+		unidentifiedResourceName = "주홍포션",
+		unidentifiedDescriptionName = {
+			"AGI를 1만큼 감소시키고, 대신 스테이터스 포인트로 환원 시켜줍니다. ",
+			"AGI가 1일 때에는 사용할 수 없습니다."
+		},
+		identifiedDisplayName = "AGI 감소 포션",
+		identifiedResourceName = "수상한주홍포션",
+		identifiedDescriptionName = {
+			"AGI를 1만큼 감소시키고, 대신 스테이터스 포인트로 환원 시켜줍니다. ",
+			"AGI가 1일 때에는 사용할 수 없습니다.",
+			"무게 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[22704] = {
+		unidentifiedDisplayName = "VIT 감소 포션",
+		unidentifiedResourceName = "노란포션",
+		unidentifiedDescriptionName = {
+			"VIT를 1만큼 감소시키고, 대신 스테이터스 포인트로 환원 시켜줍니다. ",
+			"VIT가 1일 때에는 사용할 수 없습니다."
+		},
+		identifiedDisplayName = "VIT 감소 포션",
+		identifiedResourceName = "수상한노랑포션",
+		identifiedDescriptionName = {
+			"VIT를 1만큼 감소시키고, 대신 스테이터스 포인트로 환원 시켜줍니다. ",
+			"VIT가 1일 때에는 사용할 수 없습니다.",
+			"무게 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[22705] = {
+		unidentifiedDisplayName = "INT 감소 포션",
+		unidentifiedResourceName = "하얀포션",
+		unidentifiedDescriptionName = {
+			"INT를 1만큼 감소시키고, 대신 스테이터스 포인트로 환원 시켜줍니다. ",
+			"INT가 1일 때에는 사용할 수 없습니다."
+		},
+		identifiedDisplayName = "INT 감소 포션",
+		identifiedResourceName = "수상한하얀포션",
+		identifiedDescriptionName = {
+			"INT를 1만큼 감소시키고, 대신 스테이터스 포인트로 환원 시켜줍니다. ",
+			"INT가 1일 때에는 사용할 수 없습니다.",
+			"무게 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[22706] = {
+		unidentifiedDisplayName = "DEX 감소 포션",
+		unidentifiedResourceName = "파란포션",
+		unidentifiedDescriptionName = {
+			"DEX를 1만큼 감소시키고, 대신 스테이터스 포인트로 환원 시켜줍니다. ",
+			"DEX가 1일 때에는 사용할 수 없습니다."
+		},
+		identifiedDisplayName = "DEX 감소 포션",
+		identifiedResourceName = "수상한파란포션",
+		identifiedDescriptionName = {
+			"DEX를 1만큼 감소시키고, 대신 스테이터스 포인트로 환원 시켜줍니다. ",
+			"DEX가 1일 때에는 사용할 수 없습니다.",
+			"무게 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[22707] = {
+		unidentifiedDisplayName = "LUK 감소 포션",
+		unidentifiedResourceName = "초록포션",
+		unidentifiedDescriptionName = {
+			"LUK를 1만큼 감소시키고, 대신 스테이터스 포인트로 환원 시켜줍니다. ",
+			"LUK가 1일 때에는 사용할 수 없습니다."
+		},
+		identifiedDisplayName = "LUK 감소 포션",
+		identifiedResourceName = "수상한초록포션",
+		identifiedDescriptionName = {
+			"LUK를 1만큼 감소시키고, 대신 스테이터스 포인트로 환원 시켜줍니다. ",
+			"LUK가 1일 때에는 사용할 수 없습니다.",
+			"무게 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[15128] = {
+		unidentifiedDisplayName = "옷",
+		unidentifiedResourceName = "코튼셔츠",
+		unidentifiedDescriptionName = { "감정되지 않음. [돋보기] 를 사용하여 감정할 수 있다." },
+		identifiedDisplayName = "엑셀리온 슈츠",
+		identifiedResourceName = "엑셀리온슈츠",
+		identifiedDescriptionName = {
+			"폐허가 되버린 연구동의 소실된 기술로 만들어진 파워슈츠.",
+			"VIT+6.",
+			"Lv 130 이상인 경우 VIT + 4 추가.",
+			"3제련 시 마다, MHP + 4%씩 증가.",
+			"[엑셀리온 윙과 함께 장착 시]",
+			"스킬 후 딜레이 10% 감소.",
+			"Lv 130 이상인 경우 스킬 후 딜레이 10% 추가 감소.",
+			"완전회피 + 6.",
+			"계열 : ^777777갑옷^000000 방어 : ^777777100^000000",
+			"무게 : ^777777100^000000",
+			"요구 레벨 : ^77777799^000000",
+			"장착 : ^777777전 직업^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[20773] = {
+		unidentifiedDisplayName = "걸칠것",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "감정되지 않음. [돋보기] 를 사용하여 감정할 수 있다." },
+		identifiedDisplayName = "엑셀리온 윙",
+		identifiedResourceName = "엑셀리온윙",
+		identifiedDescriptionName = {
+			"폐허가 되버린 연구동의 소실된 기술로 만들어진 파워 윙.",
+			"완전회피 + 8. ",
+			"Lv 130 이상인 경우 완전회피+2 추가.",
+			"1제련 당 FLEE + 2 증가.",
+			"[엑셀리온 슈츠과 함께 장착 시]",
+			"스킬 후 딜레이 10% 감소.",
+			"Lv 130 이상인 경우 스킬 후 딜레이 10% 추가 감소.",
+			"완전회피 + 6.",
+			"계열 : ^777777걸칠것^000000 방어 : ^77777740^000000",
+			"무게 : ^77777790^000000",
+			"요구 레벨 : ^77777799^000000",
+			"장착 : ^777777전 직업^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[4970] = {
+		unidentifiedDisplayName = "리액토 속성 화",
+		unidentifiedResourceName = "리액토_속성",
+		unidentifiedDescriptionName = { "갑옷의 속성을 화속성으로 한다." },
+		identifiedDisplayName = "리액토 속성 화",
+		identifiedResourceName = "리액토_속성",
+		identifiedDescriptionName = { "갑옷의 속성을 화속성으로 한다." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[4971] = {
+		unidentifiedDisplayName = "리액토 속성 수",
+		unidentifiedResourceName = "리액토_속성",
+		unidentifiedDescriptionName = { "갑옷의 속성을 수속성으로 한다." },
+		identifiedDisplayName = "리액토 속성 수",
+		identifiedResourceName = "리액토_속성",
+		identifiedDescriptionName = { "갑옷의 속성을 수속성으로 한다." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[4972] = {
+		unidentifiedDisplayName = "리액토 속성 지",
+		unidentifiedResourceName = "리액토_속성",
+		unidentifiedDescriptionName = { "갑옷의 속성을 지속성으로 한다." },
+		identifiedDisplayName = "리액토 속성 지",
+		identifiedResourceName = "리액토_속성",
+		identifiedDescriptionName = { "갑옷의 속성을 지속성으로 한다." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[4973] = {
+		unidentifiedDisplayName = "리액토 속성 풍",
+		unidentifiedResourceName = "리액토_속성",
+		unidentifiedDescriptionName = { "갑옷의 속성을 풍속성으로 한다." },
+		identifiedDisplayName = "리액토 속성 풍",
+		identifiedResourceName = "리액토_속성",
+		identifiedDescriptionName = { "갑옷의 속성을 풍속성으로 한다." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[4974] = {
+		unidentifiedDisplayName = "리액토 내성 화",
+		unidentifiedResourceName = "리액토_내성",
+		unidentifiedDescriptionName = { "화속성 공격에 대한 내성 25% 증가.", "수속성 공격에 대한 내성 25% 감소." },
+		identifiedDisplayName = "리액토 내성 화",
+		identifiedResourceName = "리액토_내성",
+		identifiedDescriptionName = { "화속성 공격에 대한 내성 25% 증가.", "수속성 공격에 대한 내성 25% 감소." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[4975] = {
+		unidentifiedDisplayName = "리액토 내성 수",
+		unidentifiedResourceName = "리액토_내성",
+		unidentifiedDescriptionName = { "수속성 공격에 대한 내성 25% 증가.", "풍속성 공격에 대한 내성 25% 감소." },
+		identifiedDisplayName = "리액토 내성 수",
+		identifiedResourceName = "리액토_내성",
+		identifiedDescriptionName = { "수속성 공격에 대한 내성 25% 증가.", "풍속성 공격에 대한 내성 25% 감소." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[4976] = {
+		unidentifiedDisplayName = "리액토 내성 지",
+		unidentifiedResourceName = "리액토_내성",
+		unidentifiedDescriptionName = { "지속성 공격에 대한 내성 25% 증가.", "화속성 공격에 대한 내성 25% 감소." },
+		identifiedDisplayName = "리액토 내성 지",
+		identifiedResourceName = "리액토_내성",
+		identifiedDescriptionName = { "지속성 공격에 대한 내성 25% 증가.", "화속성 공격에 대한 내성 25% 감소." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[4977] = {
+		unidentifiedDisplayName = "리액토 내성 풍",
+		unidentifiedResourceName = "리액토_내성",
+		unidentifiedDescriptionName = { "풍속성 공격에 대한 내성 25% 증가.", "지속성 공격에 대한 내성 25% 감소." },
+		identifiedDisplayName = "리액토 내성 풍",
+		identifiedResourceName = "리액토_내성",
+		identifiedDescriptionName = { "풍속성 공격에 대한 내성 25% 증가.", "지속성 공격에 대한 내성 25% 감소." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[4978] = {
+		unidentifiedDisplayName = "리액토 회복 101",
+		unidentifiedResourceName = "리액토_회복",
+		unidentifiedDescriptionName = { "5초마다 HP 50씩 회복.", "7제련 이상 시, 초당 회복량 50 추가 증가." },
+		identifiedDisplayName = "리액토 회복 101",
+		identifiedResourceName = "리액토_회복",
+		identifiedDescriptionName = { "5초마다 HP 50씩 회복.", "7제련 이상 시, 초당 회복량 50 추가 증가." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[4979] = {
+		unidentifiedDisplayName = "리액토 회복 102",
+		unidentifiedResourceName = "리액토_회복",
+		unidentifiedDescriptionName = { "5초마다 SP 3씩 회복.", "7제련 이상 시, 초당 회복량 2 추가 증가." },
+		identifiedDisplayName = "리액토 회복 102",
+		identifiedResourceName = "리액토_회복",
+		identifiedDescriptionName = { "5초마다 SP 3씩 회복.", "7제련 이상 시, 초당 회복량 2 추가 증가." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[4980] = {
+		unidentifiedDisplayName = "리액토 회복 201",
+		unidentifiedResourceName = "리액토_회복",
+		unidentifiedDescriptionName = { "HP회복력 50% 상승.", "7제련 이상 시, HP회복력 50% 추가 상승." },
+		identifiedDisplayName = "리액토 회복 201",
+		identifiedResourceName = "리액토_회복",
+		identifiedDescriptionName = { "HP회복력 50% 상승.", "7제련 이상 시, HP회복력 50% 추가 상승." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[4981] = {
+		unidentifiedDisplayName = "리액토 회복 202",
+		unidentifiedResourceName = "리액토_회복",
+		unidentifiedDescriptionName = { "SP회복력 50% 상승.", "7제련 이상 시, SP회복력 50% 추가 상승." },
+		identifiedDisplayName = "리액토 회복 202",
+		identifiedResourceName = "리액토_회복",
+		identifiedDescriptionName = { "SP회복력 50% 상승.", "7제련 이상 시, SP회복력 50% 추가 상승." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[4982] = {
+		unidentifiedDisplayName = "리액토 보조 STR",
+		unidentifiedResourceName = "리액토_보조",
+		unidentifiedDescriptionName = { "순수 STR 10 당, ATK + 5씩 증가.", "7제련 시, ATK + 10 추가 증가." },
+		identifiedDisplayName = "리액토 보조 STR",
+		identifiedResourceName = "리액토_보조",
+		identifiedDescriptionName = { "순수 STR 10 당, ATK + 5씩 증가.", "7제련 시, ATK + 10 추가 증가." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[4983] = {
+		unidentifiedDisplayName = "리액토 보조 INT",
+		unidentifiedResourceName = "리액토_보조",
+		unidentifiedDescriptionName = { "순수 INT 10 당, MATK + 5씩 증가.", "7제련 시, MATK + 10 추가 증가." },
+		identifiedDisplayName = "리액토 보조 INT",
+		identifiedResourceName = "리액토_보조",
+		identifiedDescriptionName = { "순수 INT 10 당, MATK + 5씩 증가.", "7제련 시, MATK + 10 추가 증가." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[4984] = {
+		unidentifiedDisplayName = "리액토 보조 DEF",
+		unidentifiedResourceName = "리액토_보조",
+		unidentifiedDescriptionName = { "DEF + 100." },
+		identifiedDisplayName = "리액토 보조 DEF",
+		identifiedResourceName = "리액토_보조",
+		identifiedDescriptionName = { "DEF + 100." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[4985] = {
+		unidentifiedDisplayName = "리액토 보조 완회",
+		unidentifiedResourceName = "리액토_보조",
+		unidentifiedDescriptionName = { "완전회피 + 3." },
+		identifiedDisplayName = "리액토 보조 완회",
+		identifiedResourceName = "리액토_보조",
+		identifiedDescriptionName = { "완전회피 + 3." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[4986] = {
+		unidentifiedDisplayName = "리액토 보조 공격",
+		unidentifiedResourceName = "리액토_보조",
+		unidentifiedDescriptionName = { "ATK + 20." },
+		identifiedDisplayName = "리액토 보조 공격",
+		identifiedResourceName = "리액토_보조",
+		identifiedDescriptionName = { "ATK + 20." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[4987] = {
+		unidentifiedDisplayName = "리액토 보조 마법",
+		unidentifiedResourceName = "리액토_보조",
+		unidentifiedDescriptionName = { "MATK + 20." },
+		identifiedDisplayName = "리액토 보조 마법",
+		identifiedResourceName = "리액토_보조",
+		identifiedDescriptionName = { "MATK + 20." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[4988] = {
+		unidentifiedDisplayName = "리액토 보조 MHP",
+		unidentifiedResourceName = "리액토_보조",
+		unidentifiedDescriptionName = { "MHP + 5%." },
+		identifiedDisplayName = "리액토 보조 MHP",
+		identifiedResourceName = "리액토_보조",
+		identifiedDescriptionName = { "MHP + 5%." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[4989] = {
+		unidentifiedDisplayName = "리액토 보조 MSP",
+		unidentifiedResourceName = "리액토_보조",
+		unidentifiedDescriptionName = { "MSP + 3%." },
+		identifiedDisplayName = "리액토 보조 MSP",
+		identifiedResourceName = "리액토_보조",
+		identifiedDescriptionName = { "MSP + 3%." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[4990] = {
+		unidentifiedDisplayName = "리액토 보조 동빙",
+		unidentifiedResourceName = "리액토_보조",
+		unidentifiedDescriptionName = { "절대 동빙에 걸리지 않는다." },
+		identifiedDisplayName = "리액토 보조 동빙",
+		identifiedResourceName = "리액토_보조",
+		identifiedDescriptionName = { "절대 동빙에 걸리지 않는다." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[4991] = {
+		unidentifiedDisplayName = "리액토 보조 ASPD",
+		unidentifiedResourceName = "리액토_보조",
+		unidentifiedDescriptionName = { "ASPD + 1." },
+		identifiedDisplayName = "리액토 보조 ASPD",
+		identifiedResourceName = "리액토_보조",
+		identifiedDescriptionName = { "ASPD + 1." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[6961] = {
+		unidentifiedDisplayName = "커다란 고철",
+		unidentifiedResourceName = "커다란고철",
+		unidentifiedDescriptionName = {
+			"어디엔가 요긴하게 쓰일 곳이 생길 것 같은 고철이다. 이것을 원하는 곳이 있을 것이다.",
+			"무게 : ^777777100^000000"
+		},
+		identifiedDisplayName = "커다란 고철",
+		identifiedResourceName = "커다란고철",
+		identifiedDescriptionName = {
+			"어디엔가 요긴하게 쓰일 곳이 생길 것 같은 고철이다. 이것을 원하는 곳이 있을 것이다.",
+			"무게 : ^777777100^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[6962] = {
+		unidentifiedDisplayName = "낡은 연료통",
+		unidentifiedResourceName = "낡은연료통",
+		unidentifiedDescriptionName = {
+			"연료통 자체는 낡았지만, 안에 약간의 연료가 남아있는 것 같다. 쓸모 있어 보인다.",
+			"무게 : ^77777710^000000"
+		},
+		identifiedDisplayName = "낡은 연료통",
+		identifiedResourceName = "낡은연료통",
+		identifiedDescriptionName = {
+			"연료통 자체는 낡았지만, 안에 약간의 연료가 남아있는 것 같다. 쓸모 있어 보인다.",
+			"무게 : ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[6965] = {
+		unidentifiedDisplayName = "리액토 속성 화",
+		unidentifiedResourceName = "리액토설계도",
+		unidentifiedDescriptionName = {
+			"갑옷에 화속성을 부여하는 리액토의 설계도로 추정된다.",
+			"^ff0000주의 : 이 설계도는 최초의 강화 시에만 사용가능합니다.^000000",
+			"MARS_01 에게 가져가면 뭔가 알아볼지도 모른다.",
+			"무게 : ^7777771^000000"
+		},
+		identifiedDisplayName = "리액토 속성 화",
+		identifiedResourceName = "리액토설계도",
+		identifiedDescriptionName = {
+			"갑옷에 화속성을 부여하는 리액토의 설계도로 추정된다.",
+			"^ff0000주의 : 이 설계도는 최초의 강화 시에만 사용가능합니다.^000000",
+			"MARS_01 에게 가져가면 뭔가 알아볼지도 모른다.",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[6966] = {
+		unidentifiedDisplayName = "리액토 속성 수",
+		unidentifiedResourceName = "리액토설계도",
+		unidentifiedDescriptionName = {
+			"갑옷에 수속성을 부여하는 리액토의 설계도로 추정된다.",
+			"^ff0000주의 : 이 설계도는 최초의 강화 시에만 사용가능합니다.^000000",
+			"MARS_01 에게 가져가면 뭔가 알아볼지도 모른다.",
+			"무게 : ^7777771^000000"
+		},
+		identifiedDisplayName = "리액토 속성 수",
+		identifiedResourceName = "리액토설계도",
+		identifiedDescriptionName = {
+			"갑옷에 수속성을 부여하는 리액토의 설계도로 추정된다.",
+			"^ff0000주의 : 이 설계도는 최초의 강화 시에만 사용가능합니다.^000000",
+			"MARS_01 에게 가져가면 뭔가 알아볼지도 모른다.",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[6967] = {
+		unidentifiedDisplayName = "리액토 속성 지",
+		unidentifiedResourceName = "리액토설계도",
+		unidentifiedDescriptionName = {
+			"갑옷에 지속성을 부여하는 리액토의 설계도로 추정된다.",
+			"^ff0000주의 : 이 설계도는 최초의 강화 시에만 사용가능합니다.^000000",
+			"MARS_01 에게 가져가면 뭔가 알아볼지도 모른다.",
+			"무게 : ^7777771^000000"
+		},
+		identifiedDisplayName = "리액토 속성 지",
+		identifiedResourceName = "리액토설계도",
+		identifiedDescriptionName = {
+			"갑옷에 지속성을 부여하는 리액토의 설계도로 추정된다.",
+			"^ff0000주의 : 이 설계도는 최초의 강화 시에만 사용가능합니다.^000000",
+			"MARS_01 에게 가져가면 뭔가 알아볼지도 모른다.",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[6968] = {
+		unidentifiedDisplayName = "리액토 속성 풍",
+		unidentifiedResourceName = "리액토설계도",
+		unidentifiedDescriptionName = {
+			"갑옷에 풍속성을 부여하는 리액토의 설계도로 추정된다.",
+			"^ff0000주의 : 이 설계도는 최초의 강화 시에만 사용가능합니다.^000000",
+			"MARS_01 에게 가져가면 뭔가 알아볼지도 모른다.",
+			"무게 : ^7777771^000000"
+		},
+		identifiedDisplayName = "리액토 속성 풍",
+		identifiedResourceName = "리액토설계도",
+		identifiedDescriptionName = {
+			"갑옷에 풍속성을 부여하는 리액토의 설계도로 추정된다.",
+			"^ff0000주의 : 이 설계도는 최초의 강화 시에만 사용가능합니다.^000000",
+			"MARS_01 에게 가져가면 뭔가 알아볼지도 모른다.",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[6969] = {
+		unidentifiedDisplayName = "리액토 내성 화",
+		unidentifiedResourceName = "리액토설계도",
+		unidentifiedDescriptionName = {
+			"화속성에 대한 내성을 가진 리액토의 설계도로 추정된다.",
+			"MARS_01 에게 가져가면 뭔가 알아볼지도 모른다.",
+			"무게 : ^7777771^000000"
+		},
+		identifiedDisplayName = "리액토 내성 화",
+		identifiedResourceName = "리액토설계도",
+		identifiedDescriptionName = {
+			"화속성에 대한 내성을 가진 리액토의 설계도로 추정된다.",
+			"MARS_01 에게 가져가면 뭔가 알아볼지도 모른다.",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[6970] = {
+		unidentifiedDisplayName = "리액토 내성 수",
+		unidentifiedResourceName = "리액토설계도",
+		unidentifiedDescriptionName = {
+			"수속성에 대한 내성을 가진 리액토의 설계도로 추정된다.",
+			"MARS_01 에게 가져가면 뭔가 알아볼지도 모른다.",
+			"무게 : ^7777771^000000"
+		},
+		identifiedDisplayName = "리액토 내성 수",
+		identifiedResourceName = "리액토설계도",
+		identifiedDescriptionName = {
+			"수속성에 대한 내성을 가진 리액토의 설계도로 추정된다.",
+			"MARS_01 에게 가져가면 뭔가 알아볼지도 모른다.",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[6971] = {
+		unidentifiedDisplayName = "리액토 내성 지",
+		unidentifiedResourceName = "리액토설계도",
+		unidentifiedDescriptionName = {
+			"지속성에 대한 내성을 가진 리액토의 설계도로 추정된다.",
+			"MARS_01 에게 가져가면 뭔가 알아볼지도 모른다.",
+			"무게 : ^7777771^000000"
+		},
+		identifiedDisplayName = "리액토 내성 지",
+		identifiedResourceName = "리액토설계도",
+		identifiedDescriptionName = {
+			"지속성에 대한 내성을 가진 리액토의 설계도로 추정된다.",
+			"MARS_01 에게 가져가면 뭔가 알아볼지도 모른다.",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[6972] = {
+		unidentifiedDisplayName = "리액토 내성 풍",
+		unidentifiedResourceName = "리액토설계도",
+		unidentifiedDescriptionName = {
+			"풍속성에 대한 내성을 가진 리액토의 설계도로 추정된다.",
+			"MARS_01 에게 가져가면 뭔가 알아볼지도 모른다.",
+			"무게 : ^7777771^000000"
+		},
+		identifiedDisplayName = "리액토 내성 풍",
+		identifiedResourceName = "리액토설계도",
+		identifiedDescriptionName = {
+			"풍속성에 대한 내성을 가진 리액토의 설계도로 추정된다.",
+			"MARS_01 에게 가져가면 뭔가 알아볼지도 모른다.",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[6973] = {
+		unidentifiedDisplayName = "리액토 회복 101",
+		unidentifiedResourceName = "리액토설계도",
+		unidentifiedDescriptionName = {
+			"특정 시간마다의 HP회복을 돕는 리액토의 설계도로 추정된다.",
+			"MARS_01 에게 가져가면 뭔가 알아볼지도 모른다.",
+			"무게 : ^7777771^000000"
+		},
+		identifiedDisplayName = "리액토 회복 101",
+		identifiedResourceName = "리액토설계도",
+		identifiedDescriptionName = {
+			"특정 시간마다의 HP회복을 돕는 리액토의 설계도로 추정된다.",
+			"MARS_01 에게 가져가면 뭔가 알아볼지도 모른다.",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[6974] = {
+		unidentifiedDisplayName = "리액토 회복 102",
+		unidentifiedResourceName = "리액토설계도",
+		unidentifiedDescriptionName = {
+			"특정 시간마다의 SP회복을 돕는 리액토의 설계도로 추정된다.",
+			"MARS_01 에게 가져가면 뭔가 알아볼지도 모른다.",
+			"무게 : ^7777771^000000"
+		},
+		identifiedDisplayName = "리액토 회복 102",
+		identifiedResourceName = "리액토설계도",
+		identifiedDescriptionName = {
+			"특정 시간마다의 SP회복을 돕는 리액토의 설계도로 추정된다.",
+			"MARS_01 에게 가져가면 뭔가 알아볼지도 모른다.",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[6975] = {
+		unidentifiedDisplayName = "리액토 회복 201",
+		unidentifiedResourceName = "리액토설계도",
+		unidentifiedDescriptionName = {
+			"HP 자연회복력을 증가하는 리액토의 설계도로 추정된다.",
+			"MARS_01 에게 가져가면 뭔가 알아볼지도 모른다.",
+			"무게 : ^7777771^000000"
+		},
+		identifiedDisplayName = "리액토 회복 201",
+		identifiedResourceName = "리액토설계도",
+		identifiedDescriptionName = {
+			"HP 자연회복력을 증가하는 리액토의 설계도로 추정된다.",
+			"MARS_01 에게 가져가면 뭔가 알아볼지도 모른다.",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[6976] = {
+		unidentifiedDisplayName = "리액토 회복 202",
+		unidentifiedResourceName = "리액토설계도",
+		unidentifiedDescriptionName = {
+			"SP 자연회복력을 증가하는 리액토의 설계도로 추정된다.",
+			"MARS_01 에게 가져가면 뭔가 알아볼지도 모른다.",
+			"무게 : ^7777771^000000"
+		},
+		identifiedDisplayName = "리액토 회복 202",
+		identifiedResourceName = "리액토설계도",
+		identifiedDescriptionName = {
+			"SP 자연회복력을 증가하는 리액토의 설계도로 추정된다.",
+			"MARS_01 에게 가져가면 뭔가 알아볼지도 모른다.",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[6977] = {
+		unidentifiedDisplayName = "리액토 보조 STR",
+		unidentifiedResourceName = "리액토설계도",
+		unidentifiedDescriptionName = {
+			"STR에 의한 공격력 증가를 돕는 리액토의 설계도로 추정된다.",
+			"MARS_01 에게 가져가면 뭔가 알아볼지도 모른다.",
+			"무게 : ^7777771^000000"
+		},
+		identifiedDisplayName = "리액토 보조 STR",
+		identifiedResourceName = "리액토설계도",
+		identifiedDescriptionName = {
+			"STR에 의한 공격력 증가를 돕는 리액토의 설계도로 추정된다.",
+			"MARS_01 에게 가져가면 뭔가 알아볼지도 모른다.",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[6978] = {
+		unidentifiedDisplayName = "리액토 보조 INT",
+		unidentifiedResourceName = "리액토설계도",
+		unidentifiedDescriptionName = {
+			"INT에 의한 마법공격력 증가를 돕는 리액토의 설계도로 추정된다.",
+			"MARS_01 에게 가져가면 뭔가 알아볼지도 모른다.",
+			"무게 : ^7777771^000000"
+		},
+		identifiedDisplayName = "리액토 보조 INT",
+		identifiedResourceName = "리액토설계도",
+		identifiedDescriptionName = {
+			"INT에 의한 마법공격력 증가를 돕는 리액토의 설계도로 추정된다.",
+			"MARS_01 에게 가져가면 뭔가 알아볼지도 모른다.",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[6979] = {
+		unidentifiedDisplayName = "리액토 보조 DEF",
+		unidentifiedResourceName = "리액토설계도",
+		unidentifiedDescriptionName = {
+			"방어력이 증가하는 리액토의 설계도로 추정된다.",
+			"MARS_01 에게 가져가면 뭔가 알아볼지도 모른다.",
+			"무게 : ^7777771^000000"
+		},
+		identifiedDisplayName = "리액토 보조 DEF",
+		identifiedResourceName = "리액토설계도",
+		identifiedDescriptionName = {
+			"방어력이 증가하는 리액토의 설계도로 추정된다.",
+			"MARS_01 에게 가져가면 뭔가 알아볼지도 모른다.",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[6980] = {
+		unidentifiedDisplayName = "리액토 보조 완회",
+		unidentifiedResourceName = "리액토설계도",
+		unidentifiedDescriptionName = {
+			"완전 회피가 증가하는 리액토의 설계도로 추정된다.",
+			"MARS_01 에게 가져가면 뭔가 알아볼지도 모른다.",
+			"무게 : ^7777771^000000"
+		},
+		identifiedDisplayName = "리액토 보조 완회",
+		identifiedResourceName = "리액토설계도",
+		identifiedDescriptionName = {
+			"완전 회피가 증가하는 리액토의 설계도로 추정된다.",
+			"MARS_01 에게 가져가면 뭔가 알아볼지도 모른다.",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[6981] = {
+		unidentifiedDisplayName = "리액토 보조 공격",
+		unidentifiedResourceName = "리액토설계도",
+		unidentifiedDescriptionName = {
+			"공격력이 증가하는 리액토의 설계도로 추정된다.",
+			"MARS_01 에게 가져가면 뭔가 알아볼지도 모른다.",
+			"무게 : ^7777771^000000"
+		},
+		identifiedDisplayName = "리액토 보조 공격",
+		identifiedResourceName = "리액토설계도",
+		identifiedDescriptionName = {
+			"공격력이 증가하는 리액토의 설계도로 추정된다.",
+			"MARS_01 에게 가져가면 뭔가 알아볼지도 모른다.",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[6982] = {
+		unidentifiedDisplayName = "리액토 보조 마법",
+		unidentifiedResourceName = "리액토설계도",
+		unidentifiedDescriptionName = {
+			"마법공격력이 증가하는 리액토의 설계도로 추정된다.",
+			"MARS_01 에게 가져가면 뭔가 알아볼지도 모른다.",
+			"무게 : ^7777771^000000"
+		},
+		identifiedDisplayName = "리액토 보조 마법",
+		identifiedResourceName = "리액토설계도",
+		identifiedDescriptionName = {
+			"마법공격력이 증가하는 리액토의 설계도로 추정된다.",
+			"MARS_01 에게 가져가면 뭔가 알아볼지도 모른다.",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[6983] = {
+		unidentifiedDisplayName = "리액토 보조 MHP",
+		unidentifiedResourceName = "리액토설계도",
+		unidentifiedDescriptionName = {
+			"MHP를 증가하는 리액토의 설계도로 추정된다.",
+			"MARS_01 에게 가져가면 뭔가 알아볼지도 모른다.",
+			"무게 : ^7777771^000000"
+		},
+		identifiedDisplayName = "리액토 보조 MHP",
+		identifiedResourceName = "리액토설계도",
+		identifiedDescriptionName = {
+			"MHP를 증가하는 리액토의 설계도로 추정된다.",
+			"MARS_01 에게 가져가면 뭔가 알아볼지도 모른다.",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[6984] = {
+		unidentifiedDisplayName = "리액토 보조 MSP",
+		unidentifiedResourceName = "리액토설계도",
+		unidentifiedDescriptionName = {
+			"MSP를 증가하는 리액토의 설계도로 추정된다.",
+			"MARS_01 에게 가져가면 뭔가 알아볼지도 모른다.",
+			"무게 : ^7777771^000000"
+		},
+		identifiedDisplayName = "리액토 보조 MSP",
+		identifiedResourceName = "리액토설계도",
+		identifiedDescriptionName = {
+			"MSP를 증가하는 리액토의 설계도로 추정된다.",
+			"MARS_01 에게 가져가면 뭔가 알아볼지도 모른다.",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[6985] = {
+		unidentifiedDisplayName = "리액토 보조 동빙",
+		unidentifiedResourceName = "리액토설계도",
+		unidentifiedDescriptionName = {
+			"동빙에 대한 내성이 있는 리액토의 설계도로 추정된다.",
+			"MARS_01 에게 가져가면 뭔가 알아볼지도 모른다.",
+			"무게 : ^7777771^000000"
+		},
+		identifiedDisplayName = "리액토 보조 동빙",
+		identifiedResourceName = "리액토설계도",
+		identifiedDescriptionName = {
+			"동빙에 대한 내성이 있는 리액토의 설계도로 추정된다.",
+			"MARS_01 에게 가져가면 뭔가 알아볼지도 모른다.",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[6986] = {
+		unidentifiedDisplayName = "리액토 보조 ASPD",
+		unidentifiedResourceName = "리액토설계도",
+		unidentifiedDescriptionName = {
+			"공격속도를 보완해주는 리액토의 설계도로 추정된다.",
+			"MARS_01 에게 가져가면 뭔가 알아볼지도 모른다.",
+			"무게 : ^7777771^000000"
+		},
+		identifiedDisplayName = "리액토 보조 ASPD",
+		identifiedResourceName = "리액토설계도",
+		identifiedDescriptionName = {
+			"공격속도를 보완해주는 리액토의 설계도로 추정된다.",
+			"MARS_01 에게 가져가면 뭔가 알아볼지도 모른다.",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[17575] = {
+		unidentifiedDisplayName = "에드워드 오너라 상자",
+		unidentifiedResourceName = "오래된보라상자",
+		unidentifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"30일간 사용 가능한 에드워드 오너라가 1개 들어있는 상자. ",
+			"^ffffff_^000000",
+			"임대 아이템",
+			"30분간 풍선껌, 잡 전투교범 효과를 1일에 2번 받을 수 있다. ",
+			"주의! - 아이템 소지 개수와 상관없이 중복 혜택 불가능. ",
+			"",
+			"냥다래를 소비하는 서비스 이용 시 풍선껌, 잡 전투교범 24시간 효과 그리고 스킬 트리 초기화, 스텟 초기화를 이용할 수 있다. ",
+			"^ffffff_^000000",
+			"^ff0000본 아이템을 개봉하시면 청약철회 및 환불 대상에서 제외 됩니다.^000000"
+		},
+		identifiedDisplayName = "에드워드 오너라 상자",
+		identifiedResourceName = "오래된보라상자",
+		identifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"30일간 사용 가능한 에드워드 오너라가 1개 들어있는 상자. ",
+			"^ffffff_^000000",
+			"임대 아이템",
+			"30분간 풍선껌, 잡 전투교범 효과를 1일에 2번 받을 수 있다. ",
+			"주의! - 아이템 소지 개수와 상관없이 중복 혜택 불가능. ",
+			"",
+			"냥다래를 소비하는 서비스 이용 시 풍선껌, 잡 전투교범 24시간 효과 그리고 스킬 트리 초기화, 스텟 초기화를 이용할 수 있다. ",
+			"^ffffff_^000000",
+			"^ff0000본 아이템을 개봉하시면 청약철회 및 환불 대상에서 제외 됩니다.^000000",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[17576] = {
+		unidentifiedDisplayName = "엘리제 오너라 상자",
+		unidentifiedResourceName = "오래된보라상자",
+		unidentifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"30일간 사용 가능한 엘리제 오너라가 1개 들어있는 상자.",
+			"^ffffff_^000000",
+			"임대 아이템",
+			"30분간 풍선껌, 잡 전투교범 효과를 1일에 2번 받을 수 있다. ",
+			"주의! - 아이템 소지 개수와 상관없이 중복 혜택 불가능. ",
+			"",
+			"냥다래를 소비하는 서비스 이용 시 풍선껌, 잡 전투교범 24시간 효과 그리고 스킬 트리 초기화, 스텟 초기화를 이용할 수 있다. ",
+			"^ffffff_^000000",
+			"^ff0000본 아이템을 개봉하시면 청약철회 및 환불 대상에서 제외 됩니다.^000000"
+		},
+		identifiedDisplayName = "엘리제 오너라 상자",
+		identifiedResourceName = "오래된보라상자",
+		identifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"30일간 사용 가능한 엘리제 오너라가 1개 들어있는 상자.",
+			"^ffffff_^000000",
+			"임대 아이템",
+			"30분간 풍선껌, 잡 전투교범 효과를 1일에 2번 받을 수 있다. ",
+			"주의! - 아이템 소지 개수와 상관없이 중복 혜택 불가능. ",
+			"",
+			"냥다래를 소비하는 서비스 이용 시 풍선껌, 잡 전투교범 24시간 효과 그리고 스킬 트리 초기화, 스텟 초기화를 이용할 수 있다. ",
+			"^ffffff_^000000",
+			"^ff0000본 아이템을 개봉하시면 청약철회 및 환불 대상에서 제외 됩니다.^000000",
 			"무게 : ^7777771^000000"
 		},
 		slotCount = 0,
