@@ -86,6 +86,7 @@ MsgStrID = {
 	MSI_HK_SHORTCUTWND_ROTATE = "단축창 회전",
 	MSI_HK_ACHIEVEMENT = "업적 창",
 	MSI_HK_SINGLEMAP_ONOFF = "확장 미니맵",
+	MSI_HK_MAIL_ONOFF = "매일",
 	MSI_HK_MACRO_1 = "매크로 1",
 	MSI_HK_MACRO_2 = "매크로 2",
 	MSI_HK_MACRO_3 = "매크로 3",
