@@ -86,6 +86,7 @@ MsgStrID = {
 	MSI_HK_SHORTCUTWND_ROTATE = "Shortcut Window Rotate",
 	MSI_HK_ACHIEVEMENT = "Achievement window",
 	MSI_HK_SINGLEMAP_ONOFF = "Extended minimap",
+	MSI_HK_MAIL_ONOFF = "Mail",
 	MSI_HK_MACRO_1 = "Macro 1",
 	MSI_HK_MACRO_2 = "Macro 2",
 	MSI_HK_MACRO_3 = "Macro 3",
