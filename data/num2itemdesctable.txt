@@ -12501,7 +12501,7 @@ Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4574#
-[^000088 +One-Handed Sword ^000000]
+[+^000088One/Two-Handed Sword^000000]
 ATK +100.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
@@ -12509,7 +12509,7 @@ Weight: ^7777771^000000
 #
 4575#
 ATK +10.
-[^000088 +Dagger Weapon^000000]
+[+^000088Dagger Weapon^000000]
 If refine to +10 or more add ASPD +1.
 If refine to +14 or more add ASPD +1.
 Class: ^777777Card^000000
@@ -12537,7 +12537,7 @@ Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4579#
-[^000088 +Mace Weapon^000000]
+[+^000088Mace Weapon^000000]
 ATK +20, CRIT +10.
 Each refine increase ATK +1, CRIT +1.
 Class: ^777777Card^000000
@@ -12554,7 +12554,7 @@ Weight: ^7777771^000000
 4581#
 Physical attacks have a chance to increase movement speed for 3 seconds, AGI +44 but at the same time lose 40 SP.
 Class: ^777777Card^000000
-Compound on: ^777777 Garment^000000
+Compound on: ^777777Shoes^000000
 Weight: ^7777771^000000
 #
 4582#
@@ -20265,7 +20265,6 @@ Taken from the great torch lights. Shines brighter than small torch.
 Weight: ^7777771^000000
 #
 6924#
-^ff0000Cannot be traded.^000000
 Shiny red eyes of a monster. Its sparkling favourited by monster.
 Weight: ^7777771^000000
 #
@@ -31977,6 +31976,11 @@ Weight: ^7777770^000000
 12795#
 #
 12796#
+A Magical booster which activates the body energy in order to combat better.
+ATK, MATK +30, Duration 10 mins. ASPD Increased (Delay after Attaking -5% ), Variable Casting - 5%, MaxHP, MaxSP -10%.
+When attacking, Concentration Lv 3 will be casted with a certain chance. (If the character has the skill higher than Lv 3, the skill will be casted with the reached Lv.)
+^000088If the character gets knock down, the item effect will disappear.^000000
+Weight: ^7777771^000000
 #
 12797#
 #
@@ -51089,6 +51093,9 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 19024#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+19025#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 19026#

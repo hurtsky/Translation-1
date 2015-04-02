@@ -24894,7 +24894,7 @@ Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4574#
-[^000088 +One-Handed Sword ^000000]
+[+^000088One/Two-Handed Sword^000000]
 ATK +100.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
@@ -24902,7 +24902,7 @@ Weight: ^7777771^000000
 #
 4575#
 ATK +10.
-[^000088 +Dagger Weapon^000000]
+[+^000088Dagger Weapon^000000]
 If refine to +10 or more add ASPD +1.
 If refine to +14 or more add ASPD +1.
 Class: ^777777Card^000000
@@ -24930,7 +24930,7 @@ Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4579#
-[^000088 +Mace Weapon^000000]
+[+^000088Mace Weapon^000000]
 ATK +20, CRIT +10.
 Each refine increase ATK +1, CRIT +1.
 Class: ^777777Card^000000
@@ -24947,7 +24947,7 @@ Weight: ^7777771^000000
 4581#
 Physical attacks have a chance to increase movement speed for 3 seconds, AGI +44 but at the same time lose 40 SP.
 Class: ^777777Card^000000
-Compound on: ^777777 Garment^000000
+Compound on: ^777777Shoes^000000
 Weight: ^7777771^000000
 #
 4582#
@@ -25262,7 +25262,7 @@ Weight: ^7777771^000000
 #
 4638#
 ATK +30
-When attacked by enemy, drain 5 SP.
+When attacked by enemy, drain 5 SP from user.
 Class: ^777777Card^000000
 Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -34801,7 +34801,21 @@ Required lv: ^7777770^000000
 Jobs: ^777777All^000000
 #
 5782#
-placeholder
+A Helm used in ancient western country
+that was famous for close formation and tight defense.
+MaxHP +3%
+Additional 3% of Physical Damage
+when equipped with [Pike]
+Additional 3% of Physical Damage
+when equipped with [Gradius]
+DEF +2 and additional 5% resistance for all property physical attack
+when equipped with [Strong Shield]
+Class: ^777777Headgear^000000
+Defense: ^7777774^000000
+Location: ^777777Upper, Middle, Lower^000000
+Weight: ^77777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 5783#
 A hairband that attracts men.
@@ -35785,6 +35799,9 @@ Required Level: ^777777100^000000
 Jobs: ^777777Mechanic^000000
 #
 5918#
+A gambler seal that attached to cheek for a lucky charm.
+Crit +3.
+Critical damage +3.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Middle^000000
@@ -39739,7 +39756,6 @@ Taken from the great torch lights. Shines brighter than small torch.
 Weight: ^7777771^000000
 #
 6924#
-^ff0000Cannot be traded.^000000
 Shiny red eyes of a monster. Its sparkling favourited by monster.
 Weight: ^7777771^000000
 #
@@ -51984,6 +52000,11 @@ Weight: ^7777770^000000
 12795#
 #
 12796#
+A Magical booster which activates the body energy in order to combat better.
+ATK, MATK +30, Duration 10 mins. ASPD Increased (Delay after Attaking -5% ), Variable Casting - 5%, MaxHP, MaxSP -10%.
+When attacking, Concentration Lv 3 will be casted with a certain chance. (If the character has the skill higher than Lv 3, the skill will be casted with the reached Lv.)
+^000088If the character gets knock down, the item effect will disappear.^000000
+Weight: ^7777771^000000
 #
 12797#
 #
@@ -67171,6 +67192,15 @@ Required Level: ^77777795^000000
 Jobs: ^777777Novice / Wizard / Acolyte / Soul Linker^000000
 #
 15049#
+Attached with the power of God.
+If equipped with zodiac hat, it will give various effect depend on zodiac type.
+All stats +4.
+Reduce damage from demihuman by 10%.
+Class: ^777777Armor^000000
+Defense: ^7777770^000000
+Weight: ^777777100^000000
+Required Level: ^77777750^000000
+Jobs: ^777777All^000000
 #
 15050#
 #
@@ -67213,7 +67243,8 @@ Required Level: ^777777100^000000
 Jobs: ^777777Ninja^000000
 #
 15055#
-Armor specially made to protect high ranking officials from Ninja assassins. Armor creates a clone of the user when under Atk to trick the enemy.
+Armor specially made to protect high ranking officials from Ninja assassins.
+Armor creates a clone of the user when under Atk to trick the enemy.
 Additional AGI +1.
 Illusion-Shadow Lv 1 activated at a certain rate when under physical attack.
 Additional Total Flee +1, FLEE +10 with Job and Crescent Armguard.
@@ -67224,7 +67255,8 @@ Required Level: ^777777100^000000
 Jobs: ^777777Ninja^000000
 #
 15056#
-Newly improved ninja suit which took into consideration the opinions of skilled ninjas. Lighter and durability of the textile is better than before.
+Newly improved ninja suit which took into consideration the opinions of skilled ninjas.
+Lighter and durability of the textile is better than before.
 AGI +1. Increases AGI 1 per 3 Refine.
 Additional AGI +2 with Job and For Armguard.
 Class: ^777777Armor^000000
@@ -67426,7 +67458,8 @@ Class: ^777777All except novice^000000
 15090#
 Sculpted out of Gray Shard and infused with Sakray's old, abandoned memories, this armor protects its wearer against holiness and fear.
 Holy Resistance +10%.
-Additional Holy Resistance +2 % per Upgrade level.
+Additional Holy Resistance +2% per Upgrade level.
+MDEF +10
 Class: ^777777Armor^000000
 Defense: ^77777790^000000
 Weight: ^777777240^000000
@@ -67435,8 +67468,8 @@ Jobs: ^777777Swordman, Archer, Merchant, and Thief Classes^000000
 #
 15091#
 Sculpted out of Gray Shard and infused with Sakray's old, abandoned memories, this robe protects its wearer against holiness and fear.
-Holy Resistance +10 %.
-Additional Holy Resistance +2 % per Upgrade level.
+Holy Resistance +10%.
+Additional Holy Resistance +2% per Upgrade level.
 Class: ^777777Armor^000000
 Defense: ^77777755^000000
 Weight: ^777777130^000000
@@ -80295,6 +80328,9 @@ Required Level: ^7777771^000000
 Jobs: ^777777Swordman^000000
 #
 19014#
+Wearing this make can feel the world of death.
+Increase damage to Undead monster by 5%.
+Reduce damage from Undead monster by 5%.
 Class: ^777777Headgear^000000
 Defense: ^7777771^000000
 Location: ^777777Middle^000000
@@ -80317,10 +80353,52 @@ Required level: ^77777750^000000
 Jobs: ^777777All^000000
 #
 19023#
-[JRO item]
+An imitation of Queen Scaraba Crown.
+DEF -50%, MDEF -50.
+Every refine decrease damage from insect monster by 1%.
+When physicall or magically attacked, chance to confuse enemies in 11x11 cells, every refine increase the chance.
++Scaraba and Gold Scaraba Card, add chance to cause abnormal state in 11x11 cells, every refine increase the chance.
++Queen Scaraba Card, Increases damage to scaraba by 30%.
++Gold Qeen Scaraba Card, reduce damage from insect monster by 10% and immune to confuse state.
+Class: ^777777Headgear^000000
+Defense: ^7777770^000000
+Location: ^777777Upper and Lower^000000
+Weight: ^77777750^000000
+Required Level: ^77777770^000000
+Jobs: ^777777All^000000
 #
 19024#
-[JRO item]
+A beautiful yet incredible head protector.
+MDEF +2.
+Reduce damage from player by 2%.
+ASPD -5%.
+When base VIT IS 108 or more,
+Reduce damage from player by 2%.
+ASPD -5%.
+When base VIT IS 120 or more,
+MDEF +3, MaxHP +3%.
++Feather Beret, ASPD +5%,
+If Feather Beret refined to +7, ASPD +5%,
+If Feather Beret refined to +9, MaxHP +5%.
+Class: ^777777Headgear^000000
+Defense: ^7777770^000000
+Location: ^777777Middle^000000
+Weight: ^77777750^000000
+Required Level: ^77777770^000000
+Jobs: ^777777All^000000
+#
+19025#
+A cute hat with dog's ears
+MDEF +3.
+Increase magical and physical attack to Brute monster by 5%.
+Reduce damage received from Brute monster by 5%.
+Chance to drop Light Granule when defeating Brute monster.
+Class: ^777777Headgear^000000
+Defense: ^7777773^000000
+Location: ^777777Upper^000000
+Weight: ^77777720^000000
+Required Level: ^77777710^000000
+Jobs: ^777777All^000000
 #
 19026#
 A Helmet from Aegir, god of Ocean. If the whole set of Egir are gathered, it will show the power of the Sea.
@@ -80335,6 +80413,9 @@ Required Level: ^777777110^000000
 Jobs: ^777777All^000000
 #
 19027#
+A glasses for people who like animal hunting.
+Increase magical attack to Brute monster by 4%.
+Reduce damage received from Brute monster by 5%.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Middle^000000
@@ -80343,6 +80424,8 @@ Required Level: ^77777710^000000
 Jobs: ^777777All^000000
 #
 19028#
+A hat resemble servant of devil.
+Enable use of Lv.3 Potion Pitcher.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Middle^000000
@@ -88013,8 +88096,8 @@ Jobs: ^777777Rune Knight^000000
 22000#
 These boots are obviously old but they show no signs of wear and tear.
 MaxHP +300, MaxSP +30.
-For every 3 refine level, MaxHP +100, MaxSP +10, ATK +7 .
-In case the original STR is more than 120,ATK +50.
+For every 3 refine level, MaxHP +100, MaxSP +10, ATK +7.
+If base STR is 120 or higher, ATK +50.
 Class: ^777777Footgear^000000
 Defense: ^77777725^000000
 Weight: ^77777760^000000
@@ -88025,7 +88108,7 @@ Jobs: ^7777773rd Class^000000
 These boots are obviously old but they show no signs of wear and tear.
 MaxHP +300, MaxSP +30.
 For every 3 refine level, MaxHP +100, MaxSP +10, MATK +10.
-In case the original INT is more than 120 MATK +60 
+If base INT is 120 or higher, MATK +60.
 MDEF +5.
 Class: ^777777Footgear^000000
 Defense: ^77777720^000000
@@ -88037,7 +88120,7 @@ Jobs: ^7777773rd Class^000000
 These boots are obviously old but they show no signs of wear and tear.
 MaxHP +300, MaxSP +30.
 For every 3 refine level, MaxHP +100, MaxSP +10, attack speed 3%(attack delay decreased 3%).
-In case the original AGI is more than 120, ASPD +1.
+If base AGI is 120 or higher, ASPD +1.
 Class: ^777777Footgear^000000
 Defense: ^77777725^000000
 Weight: ^77777760^000000
@@ -88048,7 +88131,7 @@ Jobs: ^7777773rd Class^000000
 These boots are obviously old but they show no signs of wear and tear.
 MaxHP +300, MaxSP +30.
 For every 3 refine level, MaxHP +300, MaxSP +10.
-In case the original VIT is more than 120, MaxHP +8%.
+If base VIT is 120 or higher, MaxHP +8%.
 Class: ^777777Footgear^000000
 Defense: ^77777725^000000
 Weight: ^77777760^000000
@@ -88059,7 +88142,7 @@ Jobs: ^7777773rd Class^000000
 These boots are obviously old but they show no signs of wear and tear.
 MaxHP +300, MaxSP +30.
 For every 3 refine level, MaxHP +100, MaxSP +10, DEX +3.
-In case the original DEX is more than 120, fixed casting decreased 0.5sec, long distance attack power +5%.
+If base DEX is 120 or higher, fixed casting decreased 0.5sec, long distance attack power +5%.
 Class: ^777777Footgear^000000
 Defense: ^77777725^000000
 Weight: ^77777760^000000
@@ -88070,7 +88153,7 @@ Jobs: ^7777773rd Class^000000
 These boots are obviously old but they show no signs of wear and tear.
 MaxHP +300, MaxSP +30.
 For every 3 refine level, MaxHP +100, MaxSP +10, critical damage by 2%.
-In case the original LUK is more than 120,critical damage30%.
+If base LUK is 120 or higher, critical damage +30%.
 MDEF +5.
 Class: ^777777Footgear^000000
 Defense: ^77777720^000000
@@ -88081,8 +88164,8 @@ Jobs: ^7777773rd Class^000000
 22006#
 These boots are obviously old but they show no signs of wear and tear.
 MaxHP +300, MaxSP +30.
-For every 3 refine level, MaxHP +100, MaxSP +10, ATK +7 .
-In case the original STR is more than 120,ATK +50 .
+For every 3 refine level, MaxHP +100, MaxSP +10, ATK +7.
+If base STR is 120 or higher, ATK +50.
 Class: ^777777Footgear^000000
 Defense: ^77777725^000000
 Weight: ^77777760^000000
@@ -88092,8 +88175,8 @@ Jobs: ^7777773rd Class^000000
 22007#
 These boots are obviously old but they show no signs of wear and tear.
 MaxHP +300, MaxSP +30.
-For every 3 refine level, MaxHP +300, MaxSP +10 .
-In case the original VIT is more than 120,MHP +8%.
+For every 3 refine level, MaxHP +300, MaxSP +10.
+If base VIT is 120 or higher, MaxHP +8%.
 Class: ^777777Footgear^000000
 Defense: ^77777725^000000
 Weight: ^77777760^000000
@@ -88103,8 +88186,8 @@ Jobs: ^7777773rd Class^000000
 22008#
 These boots are obviously old but they show no signs of wear and tear.
 MaxHP +300, MaxSP +30.
-For every 3 refine level, MaxHP +100, MaxSP +10, DEX +3 .
-In case the originalDEX is more than 120, fixed casting - 0.5 sec, long distance attack power +5%.
+For every 3 refine level, MaxHP +100, MaxSP +10, DEX +3.
+If base DEX is 120 or higher, fixed casting -0.5 sec, long distance attack power +5%.
 Class: ^777777Footgear^000000
 Defense: ^77777725^000000
 Weight: ^77777760^000000
@@ -88115,7 +88198,7 @@ Jobs: ^7777773rd Class^000000
 These boots are obviously old but they show no signs of wear and tear.
 MaxHP +300, MaxSP +30.
 For every 3 refine level, MaxHP +100, MaxSP +10, MATK +10.
-In case the original INT is more than 120 MATK +60 
+If base INT is 120 or higher, MATK +60.
 MDEF +5.
 Class: ^777777Footgear^000000
 Defense: ^77777720^000000
@@ -88127,7 +88210,7 @@ Jobs: ^7777773rd Class^000000
 These boots are obviously old but they show no signs of wear and tear.
 MaxHP +300, MaxSP +30.
 For every 3 refine level, MaxHP +100, MaxSP +10, attack speed 3%(attack delay 3% decrease).
-In case the original AGI is more than 120, ASPD +1.
+If base AGI is 120 or higher, ASPD +1.
 Class: ^777777Footgear^000000
 Defense: ^77777725^000000
 Weight: ^77777760^000000
@@ -88138,7 +88221,7 @@ Jobs: ^7777773rd Class^000000
 These boots are obviously old but they show no signs of wear and tear.
 MaxHP +300, MaxSP +30.
 For every 3 refine level, MaxHP +100, MaxSP +10, critical damage2%.
-In case the original LUK is more than 120, critical damage +30%.
+If base LUK is 120 or higher, critical damage +30%.
 MDEF +5.
 Class: ^777777Footgear^000000
 Defense: ^77777720^000000
@@ -90402,7 +90485,6 @@ Jobs: ^777777All^000000
 24079#
 Said to protect the wearer that the sacred ring. Leads to the potential ability of the wearer.
 SP +50.
-Increase MaxSP 1%.
 Refined to +7 or more additional increase MaxSP +1%.
 When equipped with ^32CD32 spiritual shadow set (weapon, earring, pendant)^000000
 1% chance to absorb 1% SP damage do on Physical attack.
@@ -90555,7 +90637,7 @@ DEF +3.
 Each 2 refine add a 1% resistance to the ^880000Stun^000000, ^880000Freeze^000000, ^880000Curse^000000, ^880000Bleeding^000000 status.
 Each refine add a 1% resistance to the ^880000Stone^000000, ^880000Sleep^000000,^880000Silence^000000, ^880000Blind^000000 status.
 --------------------------
-When equipped with ^32CD32 stability Shadow Shield, Harrods Plaster shadow set (armor, shoes)^000000
+When equipped with ^32CD32 stability Shadow Shield, Plasterus shadow set (armor, shoes)^000000
 DEF +5.
 If the amount of the entire set of refine is equal or superior 20, Gain immunity to the ^880000Stone^000000 status.
 --------------------------
@@ -90596,7 +90678,7 @@ Jobs: ^777777All^000000
 The protective effect of the reinforcement can be obtained in combination with other Armors. Also your power protection is available as a single, but its protective effect is smaller.
 DEF +1.
 Each refine add a 1% resistance to the ^880000Stone^000000 status.
-When equipped with ^32CD32 stability Shadow Shield, Harrods Plaster shadow set (armor, shoes)^000000
+When equipped with ^32CD32 stability Shadow Shield, Plasterus shadow set (armor, shoes)^000000
 DEF +5.
 If the amount of the entire set of refine is equal or superior 20, Gain immunity to the ^880000Stone^000000 status.
 Class: ^777777Shadow Equipment^000000
@@ -90609,7 +90691,7 @@ Jobs: ^777777All^000000
 Wear shoes in addition to shoes. Also available as a single, but the effect is small.
 DEF +1.
 Each refine add a 1% resistance to the ^880000Stone^000000 status.
-When equipped with ^32CD32 stability Shadow Shield, Harrods Plaster shadow set (armor, shoes)^000000
+When equipped with ^32CD32 stability Shadow Shield, Plasterus shadow set (armor, shoes)^000000
 DEF +5.
 If the amount of the entire set of refine is equal or superior 20, Gain immunity to the ^880000Stone^000000 status.
 Class: ^777777Shadow Equipment^000000
@@ -90674,7 +90756,7 @@ Jobs: ^777777All^000000
 The protective effect of the reinforcement can be obtained in combination with other Armors. Also your power protection is available as a single, but its protective effect is smaller.
 DEF +1.
 Each refine add a 1% resistance to the ^880000Blind^000000 status.
-When equipped with ^32CD32 stability Shadow Shield, Andre shadow set (armor, shoes)^000000
+When equipped with ^32CD32 stability Shadow Shield, Adurate shadow set (armor, shoes)^000000
 DEF +5.
 If the amount of the entire set of refine is equal or superior 20, Gain immunity to the ^880000Blind^000000 status.
 Class: ^777777Shadow Equipment^000000
@@ -90687,7 +90769,7 @@ Jobs: ^777777All^000000
 Wear shoes in addition to shoes. Also available as a single, but the effect is small.
 DEF +1.
 Each refine add a 1% resistance to the ^880000Blind^000000 status.
-When equipped with ^32CD32 stability Shadow Shield, Andre shadow set (armor, shoes)^000000
+When equipped with ^32CD32 stability Shadow Shield, Adurate shadow set (armor, shoes)^000000
 DEF +5.
 If the amount of the entire set of refine is equal or superior 20, Gain immunity to the ^880000Blind^000000 status.
 Class: ^777777Shadow Equipment^000000
@@ -90891,7 +90973,7 @@ Jobs: ^777777All^000000
 24114#
 The protective effect of the reinforcement can be obtained in combination with other Armors. Also your power protection is available as a single, but its protective effect is smaller.
 Enables use of ^008800Level 1 Greed^000000.
-Increases SP consumption of ^008800greed^000000 by 100. Each refine decrease SP consumption of skill by 10.
+Increases SP consumption of ^008800Greed^000000 by 100. Each refine decrease SP consumption of skill by 10.
 Class: ^777777Shadow Equipment^000000
 Location: ^777777Armor^000000
 Weight: ^7777770^000000
@@ -90901,7 +90983,7 @@ Jobs: ^777777All^000000
 24115#
 Wear shoes in addition to shoes. Also available as a single, but the effect is small.
 Enables use of ^008800Level 1 Greed^000000.
-Increases SP consumption of ^008800greed^000000 by 100. Each refine decrease SP consumption of skill by 10.
+Increases SP consumption of ^008800Greed^000000 by 100. Each refine decrease SP consumption of skill by 10.
 Class: ^777777Shadow Equipment^000000
 Location: ^777777Shoes^000000
 Weight: ^7777770^000000
@@ -90911,7 +90993,7 @@ Jobs: ^777777All^000000
 24116#
 Additional protective effect with a small shield that can be mounted on the arm can be obtained. Also available as a single, but the protective effect is small.
 Enables use of ^008800Level 1 Greed^000000.
-Increases SP consumption of ^008800greed^000000 by 100. Each refine decrease SP consumption of skill by 10.
+Increases SP consumption of ^008800Greed^000000 by 100. Each refine decrease SP consumption of skill by 10.
 Class: ^777777Shadow Equipment^000000
 Location: ^777777Shield^000000
 Weight: ^7777770^000000
@@ -90921,7 +91003,7 @@ Jobs: ^777777All^000000
 24117#
 It gives you the ability to increase your potential of attack to mount these gloves in your weapon.
 Enables use of ^008800Level 1 Greed^000000.
-Increases SP consumption of ^008800greed^000000 by 100. Each refine decrease SP consumption of skill by 10.
+Increases SP consumption of ^008800Greed^000000 by 100. Each refine decrease SP consumption of skill by 10.
 Class: ^777777Shadow Equipment^000000
 Location: ^777777Weapon^000000
 Weight: ^7777770^000000
@@ -90931,7 +91013,7 @@ Jobs: ^777777All^000000
 24118#
 Said to protect the wearer that the sacred ring. Leads to the potential ability of the wearer.
 Enables use of ^008800Level 1 Greed^000000.
-Increases SP consumption of ^008800greed^000000 by 100. Each refine decrease SP consumption of skill by 10.
+Increases SP consumption of ^008800Greed^000000 by 100. Each refine decrease SP consumption of skill by 10.
 Class: ^777777Shadow Equipment^000000
 Location: ^777777Accessory^000000
 Weight: ^7777770^000000
@@ -90941,7 +91023,7 @@ Jobs: ^777777All^000000
 24119#
 Said to protect the wearer that the sacred ring. Leads to the potential ability of the wearer.
 Enables use of ^008800Level 1 Greed^000000.
-Increases SP consumption of ^008800greed^000000 by 100. Each refine decrease SP consumption of skill by 10.
+Increases SP consumption of ^008800Greed^000000 by 100. Each refine decrease SP consumption of skill by 10.
 Class: ^777777Shadow Equipment^000000
 Location: ^777777Accessory^000000
 Weight: ^7777770^000000
