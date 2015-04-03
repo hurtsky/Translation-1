@@ -23964,29 +23964,29 @@ Compound on: ^777777Footgear^000000
 Weight: ^7777771^000000
 #
 4442#
-Decreases damage from ^777777Neutral^000000 property by 20%.
-Increases damage dealt to ^777777Neutral^000000 property by 5%.
+Decreases damage from ^777777Neutral^000000 property Monster by 20%.
+Increases damage dealt to ^777777Neutral^000000 property Monster by 5%.
 Class: ^777777Card^000000
 Compound on: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4443#
-Decreases damage from ^0000BBWater^000000 property by 20%.
-Increases damage dealt to ^0000BBWater^000000 property by 5%.
+Decreases damage from ^0000BBWater^000000 property Monster by 20%.
+Increases damage dealt to ^0000BBWater^000000 property Monster by 5%.
 Class: ^777777Card^000000
 Compound on: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4444#
-Decreases damage from ^cc5500Earth^000000 property by 20%.
-Increases damage dealt to ^cc5500Earth^000000 property by 5%.
+Decreases damage from ^cc5500Earth^000000 property Monster by 20%.
+Increases damage dealt to ^cc5500Earth^000000 property Monster by 5%.
 Class: ^777777Card^000000
 Compound on: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4445#
-Decreases damage from ^7BCC70Wind^000000 property by 20%.
-Increases damage dealt to ^7BCC70Wind^000000 property by 5%.
+Decreases damage from ^7BCC70Wind^000000 property Monster by 20%.
+Increases damage dealt to ^7BCC70Wind^000000 property Monster by 5%.
 Class: ^777777Card^000000
 Compound on: ^777777Shield^000000
 Weight: ^7777771^000000
@@ -24000,22 +24000,22 @@ Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4447#
-Decreases damage from Poison Property by 20%.
-Increases damage dealt to Poison Property by 5%.
+Decreases damage from Poison Property Monster by 20%.
+Increases damage dealt to Poison Property Monster by 5%.
 Class: ^777777Card^000000
 Compound on: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4448#
-Decreases damage from Holy Property by 20%.
-Increases damage dealt to Holy Property by 5%.
+Decreases damage from Holy Property Monster by 20%.
+Increases damage dealt to Holy Property Monster by 5%.
 Class: ^777777Card^000000
 Compound on: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4449#
-Decreases damage from Shadow Property by 20%.
-Increases damage dealt to Shadow Property by 5%.
+Decreases damage from Shadow Property Monster by 20%.
+Increases damage dealt to Shadow Property Monster by 5%.
 Class: ^777777Card^000000
 Compound on: ^777777Shield^000000
 Weight: ^7777771^000000
@@ -74993,6 +74993,48 @@ It's possible to get 11 sealed scroll III from this box.
 ^ff0000Impossible to withdrawl once opened.^000000
 Weight : ^7777771^000000
 #
+17575#
+^ff0000Cannot be traded.^000000
+Box contain 'Come Edward' for 30 days. 
+^ffffff_^000000
+Rental item
+30 minutes Bubble Gum, Job Battle Manual can be twice effective.
+^ff0000Caution! - Possessing any number will not duplicate the benefits.^000000
+냥다래를 소비하는 서비스 이용 시 풍선껌, 잡 전투교범 24시간 효과 그리고 스킬 트리 초기화, 스텟 초기화를 이용할 수 있다. 
+^ffffff_^000000
+^ff0000Withdrawal is impossible once opened.^000000
+Weight: ^7777771^000000
+#
+17576#
+^ff0000Cannot be traded.^000000
+Box contain 'Come Alice' for 30 days. 
+^ffffff_^000000
+Rental item
+30 minutes Bubble Gum, Job Battle Manual can be twice effective.
+^ff0000Caution! - Possessing any number will not duplicate the benefits.^000000
+냥다래를 소비하는 서비스 이용 시 풍선껌, 잡 전투교범 24시간 효과 그리고 스킬 트리 초기화, 스텟 초기화를 이용할 수 있다. 
+^ffffff_^000000
+^ff0000Withdrawal is impossible once opened.^000000
+Weight: ^7777771^000000
+#
+17582#
+^ff0000Cannot be traded.^000000
+Life Extension's dream, three master of legend!
+Contain:
+20 Mysterious of Life Gin
+20 Small Water of Life Gin
+20 Medium Water of Life Gin
+It's possible to get 1 Status Reduction Scroll.
+^ff0000Withdrawal is impossible once opened.^000000
+Weight: ^7777771^000000
+#
+17583#
+^ff0000Cannot be traded.^000000
+생명 연장의 꿈, 전설의 삼명수!!! 라고 쓰여져 있는 상자 10세트. 
+소형 생명수 200개, 중형 생명수 200개, 신묘한 생명수 200개가 들어있다. 추가로 스테이터스 감소 스크롤 11개도 얻을 수 있다. 
+^ff0000Withdrawal is impossible once opened. ^000000
+Weight: ^7777771^000000
+#
 18000#
 A consumable item to use the Mechanic Magic Gear Skill, Arm's Cannon.
 Class: ^777777Cannonball^000000
@@ -89084,6 +89126,36 @@ A box containing 1 white slimp potion box, Beginners fly wing box(200), Novice B
 "Caution - When you unpack the box, the weight and quantity in excess of possession limit state, the items may be lost!."
 Weight: ^7777770^000000
 #
+22702#
+Decrease STR by 1 and give status points.
+Cannot be used when STR is 1.
+Weight: ^7777770^000000
+#
+22703#
+Decrease AGI by 1 and give status points.
+Cannot be used when AGI is 1.
+Weight: ^7777770^000000
+#
+22704#
+Decrease VIT by 1 and give status points.
+Cannot be used when VIT is 1.
+Weight: ^7777770^000000
+#
+22705#
+Decrease INT by 1 and give status points.
+Cannot be used when INT is 1.
+Weight: ^7777770^000000
+#
+22706#
+Decrease DEX by 1 and give status points.
+Cannot be used when DEX is 1.
+Weight: ^7777770^000000
+#
+22707#
+Decrease LUK by 1 and give status points.
+Cannot be used when LUK is 1.
+Weight: ^7777770^000000
+#
 22708#
 ^ff0000Cannot be traded.^000000
 I don't know the reason why i'm excited about this new box. I have a good feeling that something good will happen, Let's open!
@@ -89293,6 +89365,58 @@ Weight: ^77777710^000000
 A ticket given by leader of cat hand service.
 Cats are expanding their business over the year of service.
 Can be use to store item in warehouse of cat hand service.
+Weight: ^7777771^000000
+#
+22816#
+^ff0000Cannot be traded.^000000
+A concentrate of the water of life which created for recovery purpose.
+For 60 minutes, every 3 seconds recover 4% of MaxHP.
+Cannot be used in Berserk state.
+Increase movement speed for 10 minutes.
+^000088Effect will dissapear when character die.^000000
+Weight: ^7777771^000000
+#
+22817#
+^ff0000Cannot be traded.^000000
+A bottle which contain sap of Yggdrasil tree. Has effect to recover a wound.
+For 60 minutes, every 5 seconds recover 5% of MaxHP.
+Cannot be used in Berserk state.
+Increase movement speed for 10 minutes.
+^000088Effect will dissapear when character die.^000000
+Weight: ^7777771^000000
+#
+22818#
+^ff0000Cannot be traded.^000000
+A bottle which contain sap of Yggdrasil tree. Has effect to recover a wound.
+For 60 minutes, every 4 seconds recover 7% of MaxHP.
+Cannot be used in Berserk state.
+Increase movement speed for 10 minutes.
+^000088Effect will dissapear when character die.^000000
+Weight: ^7777771^000000
+#
+22819#
+^ff0000Cannot be traded.^000000
+A notorious dish which good for body.
+For 60 minutes, All Stats +10, ATK +30, MATK +30.
+Increase movement speed for 10 minutes.
+^ff0000Caution!! Using it twice will not doubled the effect.^000000
+Weight: ^7777771^000000
+#
+22820#
+^ff0000Cannot be traded.
+A potion that has equal effect with normal attack speed potion.^000000
+Its more effective when used in conjunction with any other attack speed potion.
+Increase aspd for 60 minutes, can be used by all jobs.
+Increase movement speed for 10 minutes.
+Weight: ^7777771^000000
+#
+22821#
+^ff0000Cannot be traded.^000000
+A booster that can assist in battle by activate the energy in body. Caution!! it will strain your stamina.
+For 60 minutes: ATK|MATK +30, ASPD +5%, Decrease variable cast time by 5%, MaxHP|MaxSP -10%.
+When attacking (physical or magical), has chance to activate Lv.3 Improve Concentration.
+Increase movement speed for 10 minutes.
+^000088Effect will dissapear when character die.^000000
 Weight: ^7777771^000000
 #
 22837#
@@ -89571,6 +89695,43 @@ Weight: ^7777770^000000
 Job Battle Manual25_24h
 ^ff0000Cannot be traded.^000000
 Weight: ^7777770^000000
+#
+22946#
+^ff0000Cannot be traded.^000000
+Limited Status Reduction Scroll.
+Contain:
+Safe to 11 Weapon Certificate,
+Safe to 11 Armor Certificate,
+Safe to 9 Weapon Certificate,
+Safe to 9 Armor Certificate,
+STR Reduction Potion,
+VIT Reduction Potion
+and many others rare items.
+Weight: ^7777771^000000
+#
+22947#
+Box that contain 5 STR Reduction Potion.
+Weight: ^7777771^000000
+#
+22948#
+Box that contain 5 AGI Reduction Potion.
+Weight: ^7777771^000000
+#
+22949#
+Box that contain 5 VIT Reduction Potion.
+Weight: ^7777771^000000
+#
+22950#
+Box that contain 5 INT Reduction Potion.
+Weight: ^7777771^000000
+#
+22951#
+Box that contain 5 DEX Reduction Potion.
+Weight: ^7777771^000000
+#
+22952#
+Box that contain 5 LUK Reduction Potion.
+Weight: ^7777771^000000
 #
 24000#
 STR +1
