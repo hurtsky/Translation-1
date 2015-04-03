@@ -18755,8 +18755,9 @@ Jobs: ^777777All^000000
 2881#
 a necklace for implmenting best of royal palace food.
 DEX +2, MATK +20.
-"when usign with Orleans globe, can have MATK +20, with Orleans uniform , can have stat casting 15% decrese, when with Orleans server, can have MATK +2 increse for shield 1
-"
++Orleans Glove, MATK +20.
++Orleans Gown, casting time -15%.
++Orleans Server, MATK +2 per refine level of Orleans Server.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -24653,8 +24654,8 @@ Weight: ^7777771^000000
 #
 4541#
 The wearer's attack will ignore the MDEF of regular monsters,
-Increase Floating Casting Time by 150% and reduces SP Recovery by 150%, drains 3000 SP when the compounded headgear is unequipped.
-If compounded equipment is refined to +15 and above, increase Floating Casting Time by 120%, reduces SP Recovery by 120%, drains 2000 SP when the compounded headgear is unequipped.
+Increase Variable Casting Time by 150% and reduces SP Recovery by 150%, drains 3000 SP when the compounded headgear is unequipped.
+If compounded equipment is refined to +15 and above, increase Variable Casting Time by 120%, reduces SP Recovery by 120%, drains 2000 SP when the compounded headgear is unequipped.
 Class: ^777777Card ^000000
 Compound: ^777777Headgear^000000
 Weight: ^7777771^000000
@@ -31037,7 +31038,7 @@ A special hat created to celebrate 5th year anniversary of RO in the Philippines
 (Item feature will disappear after September 30, 2008.)
 MDEF, CRI, FLEE, Perfect Dodge +5
 ASPD +5%
-Reduces floating casting Time by 5%
+Reduces Variable casting Time by 5%
 Skill Delay reduced by 5%
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
@@ -77003,13 +77004,13 @@ Jobs: ^777777All class except novice^000000
 #
 18666#
 Burn away as you hold this CD in our mouth.
-While attacking has a 6% chance of activating for 5 seconds a random level 1-5 [Fire Bolt] [Cold Bolt] [Lightning Bolt] [Earth Spike] or [Soul Strike] on your target.
+Hit +5, ASPD -1%.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Lower^000000
-Weight: ^77777720^000000
-Required Level: ^77777720^000000
-Jobs: ^777777All class except novice^000000
+Weight: ^77777715^000000
+Required Level: ^77777710^000000
+Jobs: ^777777All^000000
 #
 18667#
 Laced hairband decorated with two kitten figures.
@@ -77498,7 +77499,7 @@ Jobs: ^777777All^000000
 #
 18718#
 The white hairband trimmed with red and blue roses.
-Increases ASPD by 3%, reduces Floating Casting Time by 3%.
+Increases ASPD by 3%, reduces Variable Casting Time by 3%.
 VIT +1, INT +1.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
@@ -78827,7 +78828,7 @@ ATK, MATK +2.
 Additional ATK, MATK +2 per 1 refine grade.
 Transform into Angeling for 5 sec by a certain chance when attacking physically or magically.
 When transforming with a phycial attack, ASPD +2 for 5 sec.
-When transforming with a magical attack, decrease Floating Casting time for 5 sec.
+When transforming with a magical attack, decrease Variable Casting time for 5 sec.
 Transformation success chance will be increased per each refine grade.
 #
 18839#
@@ -79135,7 +79136,7 @@ Base Lv 150, ATK +15.
 Sword Mastery Lv 10, HIT +10.
 Two Handed Sword Mastery Lv 10, decrease SP consumption 5%.
 Spear Mastery Lv 10, decrease 10% delay after using skills.
-Axe Mastery Lv 10, decrease 15% floating casting time.
+Axe Mastery Lv 10, decrease 15% Variable casting time.
 Katar Mastery Lv 10, increase 20% critical damage.
 Mace Mastery Lv 10, increase 10% attack speed.
 When equipping with one of Mysteltainn Card, Tirfing Card, Executioner Card, increase 5% damage per each size of monsters.
@@ -79155,7 +79156,7 @@ With wearing One Eyed Glass, the chance to activate Mystical Amplification LV 2 
 With equipping Owl Baron Card, Mystical Amplification LV 4 can be activated with a certain chance.
 With equipping Owl Baron Card and Owl Duke Card, Mystical Amplification LV 6 can be activated with a certain chance.
 With equipping Walking Stick, the chance to activate Mystical Amplification will be increased per each refine Lv.
-With more than 10 refine Lv of Walking Stick, decrease 20% Floating Casting time.
+With more than 10 refine Lv of Walking Stick, decrease 20% Variable Casting time.
 Class: ^777777Headgear^000000
 Defense: ^77777715^000000
 Location: ^777777Upper^000000

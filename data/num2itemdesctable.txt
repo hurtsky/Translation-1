@@ -12260,8 +12260,8 @@ Weight: ^7777771^000000
 #
 4541#
 The wearer's attack will ignore the MDEF of regular monsters,
-Increase Floating Casting Time by 150% and reduces SP Recovery by 150%, drains 3000 SP when the compounded headgear is unequipped.
-If compounded equipment is refined to +15 and above, increase Floating Casting Time by 120%, reduces SP Recovery by 120%, drains 2000 SP when the compounded headgear is unequipped.
+Increase Variable Casting Time by 150% and reduces SP Recovery by 150%, drains 3000 SP when the compounded headgear is unequipped.
+If compounded equipment is refined to +15 and above, increase Variable Casting Time by 120%, reduces SP Recovery by 120%, drains 2000 SP when the compounded headgear is unequipped.
 Class: ^777777Card ^000000
 Compound: ^777777Headgear^000000
 Weight: ^7777771^000000

@@ -8401,7 +8401,7 @@
 15070#Clothes_of_Happiness#
 15071#Valkyrie_Robe#
 15072#Nectar_Suit#
-15073#Anti-Magic_Suits#
+15073#Anti-Magic_Suit#
 15074#Geffen_Magic_Robe#
 15075#Cross_Beheaded_Battle_Armor#
 15076##
