@@ -1731,7 +1731,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NJ_TOBIDOUGU] = {
 		"NJ_TOBIDOUGU",
-		SkillName = "튦hrowing Mastery",
+		SkillName = "Throwing Mastery",
 		MaxLv = 10,
 		SpAmount = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -1818,7 +1818,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NJ_KIRIKAGE] = {
 		"NJ_KIRIKAGE",
-		SkillName = "그림자 베기",
+		SkillName = "Shadow Slash",
 		MaxLv = 5,
 		SpAmount = { 14, 16, 18, 20, 22 },
 		bSeperateLv = true,
@@ -1829,7 +1829,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NJ_UTSUSEMI] = {
 		"NJ_UTSUSEMI",
-		SkillName = "Shadow Slash",
+		SkillName = "Cicada Skin Shed",
 		MaxLv = 5,
 		SpAmount = { 12, 15, 18, 21, 24 },
 		bSeperateLv = true,
@@ -2043,7 +2043,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MB_BODYSTUDY] = {
 		"MB_BODYSTUDY",
-		SkillName = "튎ody Studying",
+		SkillName = "Body Studying",
 		MaxLv = 10,
 		SpAmount = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -7016,7 +7016,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.EL_CURSED_SOIL] = {
 		"EL_CURSED_SOIL",
-		SkillName = "커즈드 소일",
+		SkillName = "Cursed Soil",
 		MaxLv = 1,
 		SpAmount = { 0 },
 		bSeperateLv = false,
@@ -10495,8 +10495,8 @@ SKILL_INFO_LIST = {
 		}
 	},
 	[SKID.KO_KAHU_ENTEN] = {
-		"Fire Charm",
-		SkillName = "화부 : 염천",
+		"KO_KAHU_ENTEN",
+		SkillName = "Fire Charm",
 		MaxLv = 1,
 		SpAmount = { 20 },
 		bSeperateLv = false,
@@ -10831,7 +10831,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GN_ILLUSIONDOPING] = {
 		"GN_ILLUSIONDOPING",
-		SkillName = "Hallucination Drug",
+		SkillName = "Illusion Doping",
 		MaxLv = 5,
 		SpAmount = { 60, 70, 80, 90, 100 },
 		bSeperateLv = true,
