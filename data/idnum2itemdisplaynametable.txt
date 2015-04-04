@@ -849,7 +849,7 @@
 1562#Battlefield_Textbook#
 1563#Rental_Sage's_Diary#
 1564#Encyclopedia#
-1565#Ledger_of_Death#
+1565#Death_Note#
 1566#Diary_Of_Great_Basil#
 1567#Refined_Hardcover_Book#
 1568#Book_of_Billows#
@@ -9602,8 +9602,8 @@
 17574#100_Nyan_Actinidia_Box_of_Fotune#
 17575#Come_Edward_Box#
 17576#Come_Alice_Box#
-17582#Three_master_package_IV#
-17583#Three_master_package_10set_IV#
+17582#Three_Master_Package_IV#
+17583#Three_Master_Package_10set_IV#
 18000#Cannon_Ball#
 18001#Holy_Cannon_Ball#
 18002#Dark_Cannon_Ball#

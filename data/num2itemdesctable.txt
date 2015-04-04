@@ -3756,7 +3756,6 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 1585#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777760^000000
 #
 1586#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -6844,7 +6843,7 @@ Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Novice Class^000000
+Jobs: ^777777Novice^000000
 #
 2820#
 A guidebook that enables one to experience basic Thief skills.
@@ -6853,7 +6852,7 @@ Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Novice Class^000000
+Jobs: ^777777Novice^000000
 #
 2821#
 A guidebook that enables one to experience basic Acolyte skills.
@@ -6862,7 +6861,7 @@ Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Novice Class^000000
+Jobs: ^777777Novice^000000
 #
 2822#
 A guidebook that enables one to experience basic Archer skills.
@@ -6871,7 +6870,7 @@ Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Novice Class^000000
+Jobs: ^777777Novice^000000
 #
 2823#
 A guidebook that enables one to experience basic Merchant skills.
@@ -6880,7 +6879,7 @@ Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Novice Class^000000
+Jobs: ^777777Novice^000000
 #
 2824#
 A guidebook that enables to experience basic Mage skills.
@@ -6889,7 +6888,7 @@ Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Novice Class^000000
+Jobs: ^777777Novice^000000
 #
 2825#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -32745,7 +32744,7 @@ Weight: ^7777771^000000
 Weapon Level: ^7777773^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Priest, Sage,
-Taekwon Master^000000
+Star Gladiator^000000
 #
 12946#
 A box that contains:
@@ -33910,7 +33909,7 @@ the ^0000BBWater^000000 property.
 Class: ^777777Bullet^000000
 Attack: ^77777750^000000
 Weight: ^7777770.5^000000
-Property: ^777777Water^000000
+Property: ^0000BBWater^000000
 #
 13208#
 crustacean and an arthropod type. It is so hard
@@ -34092,7 +34091,7 @@ with freezing cold.
 Class: ^777777Throwing Weapon^000000
 Attack: ^77777730^000000
 Weight: ^7777772^000000
-Property: ^777777Water^000000
+Property: ^0000BBWater^000000
 #
 13256#
 An ^cc5500Earth^000000 property
@@ -38459,7 +38458,7 @@ Jobs: ^777777All^000000
 13954#
 A box which contains 1 Spiritual Tunic. Rental period for a week.
 A Tunic that has been granted additional tolerance against certain properties.
-Decreases 20% damage from ^777777Neutral^000000 and ^777777Water^000000 property.
+Decreases 20% damage from ^777777Neutral^000000 and ^0000BBWater^000000 property.
 MDEF +5. MaxHP +800. Cannot be Frozen.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
@@ -39763,7 +39762,7 @@ Attack: ^777777135^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Priest, Sage, Taekwon Master^000000
+Jobs: ^777777Priest, Sage and Star Gladiator^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -49457,8 +49456,12 @@ Weight: ^7777771^000000
 #
 17583#
 ^ff0000Cannot be traded.^000000
-생명 연장의 꿈, 전설의 삼명수!!! 라고 쓰여져 있는 상자 10세트. 
-소형 생명수 200개, 중형 생명수 200개, 신묘한 생명수 200개가 들어있다. 추가로 스테이터스 감소 스크롤 11개도 얻을 수 있다. 
+10 set of Life Extension's dream, three master of legend!
+Contain:
+200 Mysterious of Life Gin
+200 Small Water of Life Gin
+200 Medium Water of Life Gin
+It's possible to get 11 Status Reduction Scroll.
 ^ff0000Withdrawal is impossible once opened. ^000000
 Weight: ^7777771^000000
 #
@@ -51089,7 +51092,7 @@ Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Priest, Sage,
-Taekwon Master^000000
+Star Gladiator^000000
 #
 19011#
 A box that contains 1 Classic Earring 2 Week Rental

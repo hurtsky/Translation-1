@@ -819,7 +819,7 @@
 1532#Mace#
 1533#One-Handed_Sword#
 1534#Mace#
-1535#Club#
+1535#Mace#
 1536#Mace#
 1537#Mace#
 1538#Mace#
@@ -866,7 +866,7 @@
 1579#Book#
 1580#Book#
 1581#Book#
-1582##
+1582#Book#
 1583#Book#
 1584#Book#
 1585#Book#
@@ -9602,8 +9602,8 @@
 17574#100_Nyan_Actinidia_Box_of_Fotune#
 17575#Come_Edward_Box#
 17576#Come_Alice_Box#
-17582#Three_master_package_IV#
-17583#Three_master_package_10set_IV#
+17582#Three_Master_Package_IV#
+17583#Three_Master_Package_10set_IV#
 18000#Cannon_Ball#
 18001#Holy_Cannon_Ball#
 18002#Dark_Cannon_Ball#
