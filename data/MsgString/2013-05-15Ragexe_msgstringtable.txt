@@ -339,11 +339,11 @@ Tax Point#
 Alliances#
 Antagonists#
 Guild Info#
-Guildsmen Info#
+Member#
 Position#
 Guild Skill#
-Expel History#
-Guild Notice#
+Expel List#
+Announcement#
 Entire Guild List#
 Whispering List#
 Open Whispering Window#
