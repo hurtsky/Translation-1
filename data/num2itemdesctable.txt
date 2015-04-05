@@ -2624,7 +2624,6 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 1157#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777220^000000
 #
 1158#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -4164,87 +4163,66 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 1750#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.1^000000
 #
 1751#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.2^000000
 #
 1752#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.2^000000
 #
 1753#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.2^000000
 #
 1754#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.2^000000
 #
 1755#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.2^000000
 #
 1756#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.2^000000
 #
 1757#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.1^000000
 #
 1758#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.3^000000
 #
 1759#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.3^000000
 #
 1760#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.3^000000
 #
 1761#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.3^000000
 #
 1762#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.2^000000
 #
 1763#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.3^000000
 #
 1764#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.3^000000
 #
 1765#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.3^000000
 #
 1766#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.3^000000
 #
 1767#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.2^000000
 #
 1768#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.3^000000
 #
 1769#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.3^000000
 #
 1770#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.1^000000
 #
 1771#
 A throwing knife laced with toxin that can inflict the Poison effect to enemies.
@@ -4255,23 +4233,18 @@ Property: ^777777Neutral^000000
 #
 1772#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.2^000000
 #
 1773#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.1^000000
 #
 1774#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.1^000000
 #
 1775#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.1^000000
 #
 1776#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.1^000000
 #
 1800#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -4692,7 +4665,6 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2015#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777100^000000
 #
 2016#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -32216,24 +32188,64 @@ Weight: ^7777770^000000
 12872#
 #
 12873#
+^ff0000Cannot be traded.^000000
+Contains 10 TE White Slim Potion.
+^ff0000Warning: The contents can disappear if you exceed the weight limit or item quantity limit at the time this box is opened.^000000
+Weight: ^77777710^000000
 #
 12874#
+Developed by the Alchemy Union of the Three Countries, this new medicine endows superhuman strength, though it's only temporary.
+Instantly consumes 3,000 of your HP and in return, increases your Physical/Magic damage on player enemies by 100% for 10 seconds.
+Weight: ^77777710^000000
+Required level: ^77777780^000000
 #
 12875#
+Developed by the Alchemy Union of the Three Countries, Endows superhuman strength, though it's only temporary.
+Instantly consumes 300 of your SP  and in return, decreases 50% damage received from other adventurers for 10 seconds.
+Weight: ^7777771^000000
+Required level: ^77777780^000000
 #
 12876#
+The first-class pharmacist Vincent has created this potion.
+Endows superhuman strength, though it's only temporary.
+Instantly consumes 3,000 of your HP and in return, immunizes you against Stun for 10 seconds.
+Weight: ^7777771^000000
 #
 12877#
+The first-class pharmacist Vincent has created this potion.
+Endows superhuman strength, though it's only temporary.
+Instantly consumes 3,000 of your HP and in return, immunizes you against Petrification for 10 seconds.
+Weight: ^7777771^000000
 #
 12878#
+The first-class pharmacist Vincent has created this potion.
+Endows superhuman strength, though it's only temporary.
+Instantly consumes 3,000 of your HP and in return, immunizes you against Frost for 10 seconds.
+Weight: ^7777771^000000
 #
 12879#
+The first-class pharmacist Vincent has created this potion.
+Endows superhuman strength, though it's only temporary.
+Instantly consumes 3,000 of your HP and in return, immunizes you against Sleep for 10 seconds.
+Weight: ^7777771^000000
 #
 12880#
+The first-class pharmacist Vincent has created this potion.
+Endows superhuman strength, though it's only temporary.
+Instantly consumes 3,000 of your HP and in return, immunizes you against Curse for 10 seconds.
+Weight: ^7777771^000000
 #
 12881#
+The first-class pharmacist Vincent has created this potion.
+Endows superhuman strength, though it's only temporary.
+Instantly consumes 3,000 of your HP and in return, immunizes you against Silence for 10 seconds.
+Weight: ^7777771^000000
 #
 12882#
+The first-class pharmacist Vincent has created this potion.
+Endows superhuman strength, though it's only temporary.
+Instantly consumes 3,000 of your HP and in return, immunizes you against Blind for 10 seconds.
+Weight: ^7777771^000000
 #
 12883#
 #
@@ -32273,28 +32285,65 @@ The wings cut from fly to be made into enchanted item.
 Weight: ^7777770^000000
 #
 12888#
+^ff0000Cannot be traded.^000000
+This box randomly generates a variety of useful guild supplies.
+^ff0000Warning: The contents can disappear if you exceed the weight limit or item quantity limit at the time this box is opened.^000000
+Weight: ^77777710^000000
 #
 12889#
+One of the oldest known remains of the dwarven weapons craftsmanship.
+Contains a very powerful and is rumored to have a rare weapon.
+Weight: ^77777720^000000
 #
 12890#
+One of the oldest known remains of the dwarven weapons craftsmanship.
+Contains a very powerful and is rumored to have a rare weapon.
+Weight: ^77777720^000000
 #
 12891#
+One of the oldest known remains of the dwarven weapons craftsmanship.
+Contains a very powerful and is rumored to have a rare weapon.
+Weight: ^77777720^000000
 #
 12892#
+One of the oldest known remains of the dwarven weapons craftsmanship.
+Contains a very powerful and is rumored to have a rare weapon.
+Weight: ^77777720^000000
 #
 12893#
+One of the oldest known remains of the dwarven weapons craftsmanship.
+Contains a very powerful and is rumored to have a rare weapon.
+Weight: ^77777720^000000
 #
 12894#
+One of the oldest known remains of the dwarven weapons craftsmanship.
+Contains a very powerful and is rumored to have a rare weapon.
+Weight: ^77777720^000000
 #
 12895#
+One of the oldest known remains of the dwarven weapons craftsmanship.
+Contains a very powerful and is rumored to have a rare weapon.
+Weight: ^77777720^000000
 #
 12896#
+One of the oldest known remains of the dwarven weapons craftsmanship.
+Contains a very powerful and is rumored to have a rare weapon.
+Weight: ^77777720^000000
 #
 12897#
+One of the oldest known remains of the dwarven weapons craftsmanship.
+Contains a very powerful and is rumored to have a rare weapon.
+Weight: ^77777720^000000
 #
 12898#
+One of the oldest known remains of the dwarven weapons craftsmanship.
+Contains a very powerful and is rumored to have a rare weapon.
+Weight: ^77777720^000000
 #
 12899#
+One of the oldest known remains of the dwarven weapons craftsmanship.
+Contains a very powerful and is rumored to have a rare weapon.
+Weight: ^77777720^000000
 #
 12900#
 A box that contains
@@ -33658,7 +33707,6 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 13115#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777750^000000
 #
 13116#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -34413,50 +34461,13 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 13305#
-Huuma Shuriken that holds great strength and brings extraordinary power in battles against Demihumans.
-STR +2, DEX +1
-Increases Physical Attack Strength towards Demihuman monsters by 95%.
-Ignores Physical Defense from Demihuman monsters by 20%.
-Indestructible.
-Class: ^777777Huuma^000000
-Attack: ^77777755^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777773^000000
-Required Level: ^77777780^000000
-Jobs: ^777777Ninja^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 13306#
-Huuma Shuriken that holds great strength and brings extraordinary power in battles against Demihumans.
-STR +2, DEX +1
-Increases Physical Attack Strength towards Demihuman monsters by 95%.
-Increases Attack Strength in Throw Huuma Shuriken skill and Killing Stroke skill by 100% for a 10 sec. duration when attacking and synchronizing the weapon by a certain rate.
-Indestructible.
-Class: ^777777Huuma^000000
-Attack: ^77777755^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777773^000000
-Required Level: ^77777780^000000
-Jobs: ^777777Ninja^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 13307#
-Increases Physical Attack Strength to Demihuman monster by 95%..
-Ignores physical defense from Demihuman monster by 20%.
-MATK +90
-Increase damage by 100% of [Throw Huuma Shuriken] and [Killing Strike] for 10 sec. when attacking and synchronizing the weapon by 5%
-Indestructible.
-¡Ø Additional Weapon Refining Level Option
-+6 Refining
-5% increase in ignoring Defense of Demihuman monster
-^ff0000[Slaughter]^000000 Lv 2(but,increase in damage by slaughter option applies refinement up to +14)
-+9 Refining
-When using [Killing Strike], auto-spell [Heal] Lv.10 is activated to itself
-When using [Throw Huuma Shuriken], [Fatal Wound] Lv.2 is inflicted to the enemay at a certain.
-Class: ^777777Huuma^000000
-Attack: ^77777755^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777774^000000
-Required Level: ^77777780^000000
-Jobs: ^777777Ninja^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 13308#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -43949,7 +43960,6 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 16019#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777780^000000
 #
 16020#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -54234,7 +54244,6 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 21000#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777150^000000
 #
 21001#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
