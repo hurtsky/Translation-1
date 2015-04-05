@@ -329,8 +329,8 @@ You got %s Zeny#
 Guild Name#
 Guild Level#
 Guild Master#
-Guildsmen#
-Avg.lvl of Guildsmen#
+Members#
+Avg.lvl of Members#
 Territory#
 Tendency#
 EXP#
@@ -457,9 +457,9 @@ You are prohibited to log in until %s.#
 6900#
 http://www.ragnarok.co.kr#
 Kill %s#
-Very Strong#
-Very Very Strong#
-Very Very Very Strong#
+Very Strong #
+Very Very Strong #
+Very Very Very Strong #
 The Reason of Expulsion#
 Attack Speed is up.#
 Attack Speed is down.#
