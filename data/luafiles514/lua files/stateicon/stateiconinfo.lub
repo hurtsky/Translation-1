@@ -1238,14 +1238,11 @@ StateIconList[EFST_IDs.EFST_ASSUMPTIO] = {
   }
 }
 StateIconList[EFST_IDs.EFST_MAXIMIZE] = {
-  haveTimeLimit = 1,
-  posTimeLimitStr = 2,
   descript = {
     {
       "Maximize Power",
       COLOR_TITLE_BUFF
     },
-    {"%s", COLOR_TIME},
     {
       "Maximize the power of the weapon"
     },
