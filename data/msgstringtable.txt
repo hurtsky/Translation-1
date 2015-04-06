@@ -1481,9 +1481,9 @@ Brush is required.#
 Waiting time has passed. Please log in again#
 Watch out! Same account is already logged in. Stop mobile verification and log in again after changing your password#
 Watch out! Same account is waiting for mobile verification. Stop mobile verification and log in again after changing your password#
-Game setting window#
-Graphics Settings#
-Sound Settings#
+Game option                                                                                                 #
+Graphic setting#
+Sound setting#
 Press a key to assign. Pressing 'ESC' will remove the assigned key.#
 Unable to specify a single key.#
 Unable to specify the key assigned.#
