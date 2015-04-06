@@ -31096,20 +31096,24 @@ Level Requirement: ^77777720^000000
 Jobs: ^777777All Job except Novice^000000
 #
 5451#
-Gold Dragonhelm is specially constructed to offer the utmost in protection and offense against Dragon Type Monsters.
-^770000Unrefineable
-Account Bound^000000
-Class: ^777777Costume^000000
+^FF0000Cannot be traded.^000000
+A legendary helm, inspired by god of Dragon.
+Increases resistance against Demihuman monsters by 10%.
+Increases damage inflicted against Demihuman monsters by 5%.
+Unrefineable.
+Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
+Defense: ^77777714^000000
+Weight: ^777777150^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 5452#
-Silver Dragonhelm is specially constructed to offer the utmost in protection and offense against Dragon Type Monsters.
-^770000Unrefineable
-Account Bound^000000
+^FF0000Cannot be traded.^000000
+A legendary helm, inspired by god of Dragon.
+Increases resistance against Demihuman monsters by 7%.
+Increases damage inflicted against Demihuman monsters by 3%.
+Unrefineable.
 Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
 Defense: ^77777710^000000
@@ -31118,9 +31122,11 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 5453#
-Copper Dragonhelm is specially constructed to offer the utmost in protection against Dragon Type Monsters.
-^770000Unrefineable
-Account Bound^000000
+^FF0000Cannot be traded.^000000
+A legendary helm, inspired by god of Dragon.
+Increases resistance against Demihuman monsters by 5%.
+Increases damage inflicted against Demihuman monsters by 1%.
+Unrefineable.
 Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
 Defense: ^7777775^000000

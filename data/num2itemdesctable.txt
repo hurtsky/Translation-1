@@ -31518,8 +31518,8 @@ Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 12700#
-Common shirt turned inside out. Used to break Tikbalang¡¯s curse that makes people get lost.
-Can warp back to the ¡®Port Malaya¡¯ village when used directly.
+Common shirt turned inside out. Used to break Tikbalang's curse that makes people get lost.
+Can warp back to the 'Port Malaya' village when used directly.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -33662,36 +33662,13 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 13108#
-A Pistol made for short and medium ranged battles against Demihumans.
-It seems to be capable of doing damage even through a bulletproof vest.
-DEX +2, Accuracy -10
-Increases Physical Attack Strength towards Demihuman monsters by 55%.
-Ignores Physical Defense from Demihuman monsters by 20%.
-Increases ASPD by 100% for 3 secs. Delay after attacking reduces by 100%
-duration when attacking and synchronizing the weapon by a certain rate.
-Indestructible.
-Class: ^777777Pistol^000000
-Attack: ^77777770^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777773^000000
-Required Level: ^77777780^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 13109#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 13110#
-Increases Physical Attack Strength to Demihuman monster by 55%..
-Ignores physical defense from Demihuman monster by 20%.
-Indestructible.
-¡Ø Additional Weapon Refining Level Option
-+6 Refining
-5% increase in ignoring Defense of Demihuman monster
-^ff0000[Slaughter]^000000 Lv 1(but,increase in damage by slaughter option applies refinement up to +14)
-+9 Refining
-When using [Rapid Shower]skill, auto-spell [Flip] is activated.
-Damage increases as much as the value of [Rapid Shower] skill's weapon Refining Degree X 2%
-Class: ^777777Revolver^000000
-Attack: ^77777780^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 13111#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -33712,6 +33689,7 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 13117#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 13118#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.

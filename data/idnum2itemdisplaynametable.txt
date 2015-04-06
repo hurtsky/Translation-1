@@ -3407,9 +3407,9 @@
 5448#Indifferent_Solo_Hat#
 5449#Angry_Solo_Hat#
 5450#Solar_Hat#
-5451#Gold_Dragonhelm#
-5452#Silver_Dragonhelm#
-5453#Copper_Dragonhelm#
+5451#RWC_Winner_Helm#
+5452#RWC_Runner-up_Helm#
+5453#RWC_3rd_Place_Helm#
 5454#Puppy_Hat#
 5455#Decorative_Geographer#
 5456#Summer_Hat#
