@@ -754,7 +754,7 @@ NPX.DLL register error or there is no necessary file to run FindHack. Please dow
 Exceptional Error. Please contact the customer support. Return Value: (%d)#
 Exit button has been clicked.#
 Unable to connect Findhack Update Server. Please try again or contact the customer support.#
-Beloved#
+Beloved #
 /report: Save a chat log file.#
 Chat logs are not accepted as evidence for any ill-mannered violation on account of possible file modifications. However this feature is provided for players' personal reference.#
 I love you.#
