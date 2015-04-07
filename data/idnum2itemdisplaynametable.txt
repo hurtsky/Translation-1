@@ -3338,7 +3338,7 @@
 5376#Flying_Evil_Wings#
 5377#Gentleman's_Pipe#
 5378#Bunny_Top_Hat#
-5379#Tam#
+5379#Balloon_Hat#
 5380#Fish_Head_Hat#
 5381#Santa_Poring_Hat#
 5382#Bell_Ribbon#
@@ -9870,7 +9870,7 @@
 18735#Fairy_Ears#
 18736#Anonymous_Invitation#
 18737#Fortier_Masque#
-18738#White_Boys_cap#
+18738#White_Student_Cap#
 18739#Carnation_Hairband#
 18740#RMSC2012_Special_Costume#
 18741#[Costume]_Will_O_Wisp#
@@ -10844,6 +10844,17 @@
 20272#[Costume]_Unicorn_Horn#
 20273#의상_부드러운_양모자#
 20274#[Costume]_Polar_Bear_Cap#
+20277#[Costume]_Balloon_Hat#
+20278#[Costume]_Man's_Medal#
+20279#[Costume]_Cheering_Whistle#
+20280#[Costume]_Well-Chewed_Pencil#
+20281#[Costume]_Kindergarten_Hat#
+20282#[Costume]_White_Student_Cap#
+20283#[Costume]_Over_Protector#
+20284#[Costume]_Sakura_Hat#
+20285#[Costume]_Dancing_Fallen_Sakura#
+20286#[Costume]_Under_Rim_Glasses(Red)#
+20287#[Costume]_Man's_Medal(Gold)#
 20292#[Costume]_Black_Ramen_Hat#
 20500#[Costume]_Archangel_Wing#
 20700#Aegir_Mantle#

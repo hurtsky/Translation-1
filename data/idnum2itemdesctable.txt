@@ -86395,6 +86395,106 @@ Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
+20277#
+A large knitted hat that can be used to conceal long hair.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20278#
+Look like a hunk o' burnin' love with this retro hairstyle wig.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20279#
+A whistle to cheer you up!
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Lower^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20280#
+A popular snack while taking tests.
+It makes one look more studious but, it's days may be numbered if it stays in somebody's mouth any longer.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Lower^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20281#
+A hat that protect child's head from sunlight.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20282#
+A hat given to standout student.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20283#
+Designed to protect the head tightly.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20284#
+A hat modeled after the shape of sakura petals.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20285#
+A fallen sakura petals that made into costume.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Lower^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20286#
+Only the bottom of glasses attached with frame, its cool and stylish.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Middle^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20287#
+A costume which mimic a man that always fighting his opponent.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
 20292#
 A forbidden ramen found in the ruin of Juperos. Those who wish to know the receipt will be doomed.
 ^FF0000Warning! You aren't allowed to make noddle.^000000

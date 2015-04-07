@@ -3338,7 +3338,7 @@
 5376#Hairband#
 5377#Accessory#
 5378#Hat#
-5379#Balloon_Hat#
+5379#Hat#
 5380#Hat#
 5381#Hat#
 5382#Accessory#
@@ -10844,6 +10844,17 @@
 20272#Headgear#
 20273#Hat#
 20274#Headgear#
+20277#Hat#
+20278#Hat#
+20279#Accessory#
+20280#Accessory#
+20281#Hat#
+20282#Hat#
+20283#Hat#
+20284#Hat#
+20285#Flower#
+20286#Glasses#
+20287#Hat#
 20292#Hat#
 20500#Garment#
 20700#Garment#
