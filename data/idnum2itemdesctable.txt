@@ -26259,8 +26259,8 @@ freshly hatched.
 Class: ^777777Headgear^000000
 Defense: ^7777776^000000
 Location: ^777777Upper^000000
-Weight: ^77777720^FFFFFF
-^000000 Jobs: ^777777All^000000
+Weight: ^77777720^000000
+Jobs: ^777777All^000000
 #
 5016#
 A black cap that is
@@ -75168,7 +75168,6 @@ A hat which is very unique and rare, made from the feathers of a legendary bird 
 Reduces damage from all elements by 5%.
 LUK +5, HIT +10, Reduces casting delay by 5%.
 If refined to +7 or higher, has a chance of getting Mastela Fruit when attacking monsters. Chance to drop increases by 1% for each refine level over 7.
-^ff0000Can be traded, stored, and vended^000000
 Class: ^777777Headgear^000000
 Defense: ^7777774^000000
 Location: ^777777Upper^000000
@@ -75186,7 +75185,7 @@ Defense: ^7777776^000000
 Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^77777715^000000
-Jobs: ^777777All jobs except Novices^000000
+Jobs: ^777777All except Novice^000000
 #
 18510#
 The bloodstained wings of a fallen angel.
@@ -84696,6 +84695,23 @@ Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
+20051#
+A signpost that declares its wearer's desire that people should stop whatever they are doing.
+Causes catastrophes during wedding ceremonies.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20052#
+A sign that says you are Away From your Keyboard. Whether or not you are telling the truth is another story.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
 20053#
 ^ff0000Cannot be traded.^000000
 Hat full of the most intelligent spirit of the white tiger.
@@ -84738,6 +84754,38 @@ Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
+20058#
+A headgear which symbolizes hot-blooded challenge and battle vigor.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20059#
+A durable mask made from a fat metal plate that is usually worn by welders and Blacksmiths.
+Class: ^777777Costume^000000
+Location: ^777777Middle, Lower^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20060#
+A durable safety helmet created to offer some protection from accidents.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20061#
+This mask marked with an ''X'' is a popular fashion item for bonafide street toughs.
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
 20062#
 Great weather phenomenon where light passes through the clouds. Looks like a ladder to angels.
 Class: ^777777Costume^000000
@@ -84764,6 +84812,22 @@ Weight :^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
+20065#
+An elaborate multi-colored headdress made from the feathers of a Grand Peco.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight :^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20066#
+A hairband with PecoPeco wings that lends you a PecoPeco's speed.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight :^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
 20067#
 ^ff0000Cannot be traded.^000000
 Hat full of the zodiac cute rabbit.
@@ -84778,6 +84842,14 @@ Jobs: ^777777All^000000
 ^ff0000Cannot be traded.^000000
 Hat full of the zodiac cute rabbit.
 That beautiful ears have, but doubles the bites of ticks.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20069#
+A costume made from wings of Gryphon.
 Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
@@ -84815,6 +84887,78 @@ Weight :^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
+20075#
+A soft feathered archer's cap that gives you that dash of Errol Flynn flair.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight :^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20076#
+Feather ears of Idun, wife of Bragi.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight :^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20077#
+Sunglasses with Wing frame on its side.
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Weight :^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20078#
+A berret decorated with white feather.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight :^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20079#
+A flapping wing of angel that long forgotten.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight :^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20080#
+A hair ornament with pink feathers of a Shaman.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight :^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20081#
+A costume that mimic the head of Dragon.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight :^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20082#
+Metal dragon that rest on your head.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight :^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20083#
+A hat that resemble Mythlit.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight :^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
 20084#
 Class: ^777777Costume^000000
 Location: ^777777Upper^000000
@@ -84832,7 +84976,7 @@ Jobs: ^777777All^000000
 20086#
 ^ff0000Cannot be traded.^000000
 Dragon is part of 12 chinese zodiacs.
-빛나는 여의주를 품고 있어 소원을 들어줄 것 만 같다.
+A shiny hat that resemble Dragon whose will grant any wish.
 Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
@@ -84842,7 +84986,35 @@ Jobs: ^777777All^000000
 20087#
 ^ff0000Cannot be traded.^000000
 Dragon is part of 12 chinese zodiacs.
-빛나는 여의주를 품고 있어 소원을 들어줄 것 만 같다.
+A shiny hat that resemble Dragon whose will grant any wish.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20088#
+^ff0000Cannot be traded.^000000
+Dragon is part of 12 chinese zodiacs.
+A shiny hat that resemble Dragon whose will grant any wish.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20089#
+^ff0000Cannot be traded.^000000
+Dragon is part of 12 chinese zodiacs.
+A shiny hat that resemble Dragon whose will grant any wish.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20090#
+A peculiar hat that makes it wearer look freshly hatched.
 Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
@@ -84922,6 +85094,14 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 20100#
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20101#
+Feather ear of Bragi, god of poem.
 Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
@@ -85223,6 +85403,24 @@ A fairy ears to celebrate 12 anniversary with sacred aura all over it.
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Middle^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20137#
+A wick-like ornament worn on top of the head for a dangerous look.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20138#
+A hat which looks like the face of a sea-otter.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
