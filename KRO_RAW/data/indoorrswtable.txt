@@ -10,7 +10,7 @@ prt_pri00.rsw#
 un_bunker.rsw#
 un_bk_q.rsw#
 un_myst.rsw#
-1@lab.rsw#
+
 
 //파라마켓 전용 맵
 
