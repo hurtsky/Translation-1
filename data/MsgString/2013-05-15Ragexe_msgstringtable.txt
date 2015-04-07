@@ -329,8 +329,8 @@ You got %s Zeny#
 Guild Name#
 Guild Level#
 Guild Master#
-Guildsmen#
-Avg.lvl of Guildsmen#
+Members#
+Avg.lvl of Members#
 Territory#
 Tendency#
 EXP#
@@ -457,10 +457,10 @@ You are prohibited to log in until %s.#
 6900#
 http://iro.raganrokonline.com#
 Kill %s#
-Very Strong#
-Very Very Strong#
-Very Very Very Strong#
-The Reason of Expulsion#
+Very Strong #
+Very Very Strong #
+Very Very Very Strong #
+The Reason of Expulsion #
 Attack Speed is up.#
 Attack Speed is down.#
 Weapon Damage is improved.#
@@ -754,7 +754,7 @@ NPX.DLL register error or there is no necessary file to run FindHack. Please dow
 Exceptional Error. Please contact the customer support. Return Value: (%d)#
 Exit button has been clicked.#
 Unable to connect Findhack Update Server. Please try again or contact the customer support.#
-Beloved#
+Beloved #
 /report: Save a chat log file.#
 Chat logs are not accepted as evidence for any ill-mannered violation on account of possible file modifications. However this feature is provided for players' personal reference.#
 I love you.#
@@ -1091,7 +1091,7 @@ You have failed to place a bid.#
 You do not have enough zeny.#
 Armor#
 Card#
-Miscs#
+Misc#
 Bid#
 Search#
 You have ended the auction.#
@@ -1376,8 +1376,8 @@ You have received a new quest.#
 ^777777Acquirement conditions:#
 View Skill Info#
 Once used, skill points cannot be re-allocated. Would you like to use the skill points?#
-1st Job#
-2nd Job#
+1stJob#
+2ndJob#
 This account has been used for illegal program or hacking program. Block Time: %s#
 The possibility of exposure to illegal program, PC virus infection or Hacking Tool has been detected. Please execute licensed client. Our team is trying to make a best environment for Ro players.#
 You are currently playing in the best game environment. Please enjoy the Ragnarok.#
@@ -1393,7 +1393,7 @@ RoK Point: %d RoK Point#
 Free Cash: %d Cash#
 An user of this server cannot connect to free server#
 Your password has expired. Please log in again#
-3rd Job#
+3rdJob#
 This skill can't be used on that target.#
 You can't use skill because you have exceeded the number Ancilla possession limit#
 Unable to use the skill to exceed the number of Ancilla.#
@@ -1481,9 +1481,9 @@ Brush is required.#
 Waiting time has passed. Please log in again#
 Watch out! Same account is already logged in. Stop mobile verification and log in again after changing your password#
 Watch out! Same account is waiting for mobile verification. Stop mobile verification and log in again after changing your password#
-Game setting window#
-Graphics Settings#
-Sound Settings#
+Game option                                                                                                 #
+Graphic setting#
+Sound setting#
 Press a key to assign. Pressing 'ESC' will remove the assigned key.#
 Unable to specify a single key.#
 Unable to specify the key assigned.#

@@ -2466,9 +2466,7 @@ Attack: ^77777725^000000
 Weight: ^77777750^000000
 Weapon Level: ^7777771^000000
 Required Level: ^7777772^000000
-Jobs: ^777777Novice,
-Swordman, Merchant
-and Thief Classes^000000
+Jobs: ^777777Novice, Swordman, Merchant and Thief^000000
 #
 1102#
 A basic one-handed sword.
@@ -2477,9 +2475,7 @@ Attack: ^77777725^000000
 Weight: ^77777750^000000
 Weapon Level: ^7777771^000000
 Required Level: ^7777772^000000
-Jobs: ^777777Novice,
-Swordman, Merchant
-and Thief Classes^000000
+Jobs: ^777777Novice, Swordman, Merchant and Thief^000000
 #
 1103#
 A basic one-handed sword.
@@ -2488,9 +2484,7 @@ Attack: ^77777725^000000
 Weight: ^77777750^000000
 Weapon Level: ^7777771^000000
 Required Level: ^7777772^000000
-Jobs: ^777777Novice,
-Swordman, Merchant
-and Thief Classes^000000
+Jobs: ^777777Novice, Swordman, Merchant and Thief^000000
 #
 1104#
 A one-handed sword with a rounded blade.
@@ -2499,9 +2493,7 @@ Attack: ^77777739^000000
 Weight: ^77777760^000000
 Weapon Level: ^7777771^000000
 Required Level: ^7777772^000000
-Jobs: ^777777Novice,
-Swordman, Merchant
-and Thief Classes^000000
+Jobs: ^777777Novice, Swordman, Merchant and Thief^000000
 #
 1105#
 A one-handed sword with a rounded blade.
@@ -2510,9 +2502,7 @@ Attack: ^77777739^000000
 Weight: ^77777760^000000
 Weapon Level: ^7777771^000000
 Required Level: ^7777772^000000
-Jobs: ^777777Novice,
-Swordman, Merchant
-and Thief Classes^000000
+Jobs: ^777777Novice, Swordman, Merchant and Thief^000000
 #
 1106#
 A one-handed sword with a rounded blade.
@@ -2521,9 +2511,7 @@ Attack: ^77777739^000000
 Weight: ^77777760^000000
 Weapon Level: ^7777771^000000
 Required Level: ^7777772^000000
-Jobs: ^777777Novice,
-Swordman, Merchant
-and Thief Classes^000000
+Jobs: ^777777Novice, Swordman, Merchant and Thief^000000
 #
 1107#
 A one-handed sword with a thick, flat blade.
@@ -2532,9 +2520,7 @@ Attack: ^77777753^000000
 Weight: ^77777770^000000
 Weapon Level: ^7777771^000000
 Required Level: ^7777772^000000
-Jobs: ^777777Novice,
-Swordman, Merchant
-and Thief Classes^000000
+Jobs: ^777777Novice, Swordman, Merchant and Thief^000000
 #
 1108#
 A one-handed sword with a thick, flat blade.
@@ -2543,9 +2529,7 @@ Attack: ^77777753^000000
 Weight: ^77777770^000000
 Weapon Level: ^7777771^000000
 Required Level: ^7777772^000000
-Jobs: ^777777Novice,
-Swordman, Merchant
-and Thief Classes^000000
+Jobs: ^777777Novice, Swordman, Merchant and Thief^000000
 #
 1109#
 A one-handed sword with a thick, flat blade.
@@ -2554,9 +2538,7 @@ Attack: ^77777753^000000
 Weight: ^77777770^000000
 Weapon Level: ^7777771^000000
 Required Level: ^7777772^000000
-Jobs: ^777777Novice,
-Swordman, Merchant
-and Thief Classes^000000
+Jobs: ^777777Novice, Swordman, Merchant and Thief^000000
 #
 1110#
 A one-handed sword with an elegant blade and crossguard.
@@ -2565,9 +2547,7 @@ Attack: ^77777770^000000
 Weight: ^77777750^000000
 Weapon Level: ^7777772^000000
 Required Level: ^77777714^000000
-Jobs: ^777777Novice,
-Swordman, Merchant
-and Thief Classes^000000
+Jobs: ^777777Novice, Swordman, Merchant and Thief^000000
 #
 1111#
 A one-handed sword with an elegant blade and crossguard.
@@ -2576,9 +2556,7 @@ Attack: ^77777770^000000
 Weight: ^77777750^000000
 Weapon Level: ^7777772^000000
 Required Level: ^77777714^000000
-Jobs: ^777777Novice,
-Swordman, Merchant
-and Thief Classes^000000
+Jobs: ^777777Novice, Swordman, Merchant and Thief^000000
 #
 1112#
 A one-handed sword with an elegant blade and crossguard.
@@ -2587,9 +2565,7 @@ Attack: ^77777770^000000
 Weight: ^77777750^000000
 Weapon Level: ^7777772^000000
 Required Level: ^77777714^000000
-Jobs: ^777777Novice,
-Swordman, Merchant
-and Thief Classes^000000
+Jobs: ^777777Novice, Swordman, Merchant and Thief^000000
 #
 1113#
 A strong, swift one-handed sword with a curved blade.
@@ -2598,9 +2574,7 @@ Attack: ^77777785^000000
 Weight: ^77777770^000000
 Weapon Level: ^7777772^000000
 Required Level: ^77777714^000000
-Jobs: ^777777Novice,
-Swordman, Merchant
-and Thief Classes^000000
+Jobs: ^777777Novice, Swordman, Merchant and Thief^000000
 #
 1114#
 A strong, swift one-handed sword with a curved blade.
@@ -2609,9 +2583,7 @@ Attack: ^77777785^000000
 Weight: ^77777770^000000
 Weapon Level: ^7777772^000000
 Required Level: ^77777714^000000
-Jobs: ^777777Novice,
-Swordman, Merchant
-and Thief Classes^000000
+Jobs: ^777777Novice, Swordman, Merchant and Thief^000000
 #
 1115#
 A strong, swift one-handed sword with a curved blade.
@@ -2620,9 +2592,7 @@ Attack: ^77777785^000000
 Weight: ^77777770^000000
 Weapon Level: ^7777772^000000
 Required Level: ^77777714^000000
-Jobs: ^777777Novice,
-Swordman, Merchant
-and Thief Classes^000000
+Jobs: ^777777Novice, Swordman, Merchant and Thief^000000
 #
 1116#
 A straight bladed sword that the Japanese samurai depended on during battle.
@@ -2658,7 +2628,7 @@ Attack: ^777777130^000000
 Weight: ^777777120^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777727^000000
-Jobs: ^777777Swordman, Merchant and Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief^000000
 #
 1120#
 One of the most powerful one-handed swords, the Tsurugi was favored by the Japanese samurai.
@@ -2667,7 +2637,7 @@ Attack: ^777777130^000000
 Weight: ^777777120^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777727^000000
-Jobs: ^777777Swordman, Merchant and Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief^000000
 #
 1121#
 One of the most powerful one-handed swords, the Tsurugi was favored by the Japanese samurai.
@@ -2676,7 +2646,7 @@ Attack: ^777777130^000000
 Weight: ^777777120^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777727^000000
-Jobs: ^777777Swordman, Merchant and Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief^000000
 #
 1122#
 A one-handed sword with an elaborately designed hilt.
@@ -2685,7 +2655,7 @@ Attack: ^777777100^000000
 Weight: ^77777790^000000
 Weapon Level: ^7777772^000000
 Required Level: ^77777714^000000
-Jobs: ^777777Swordman, Merchant and Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief^000000
 #
 1123#
 A one-handed, ancient Korean sword that is said to have the mysterious power to control minds.
@@ -2695,7 +2665,7 @@ Attack: ^777777120^000000
 Weight: ^77777790^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777727^000000
-Jobs: ^777777Swordman, Merchant and Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief^000000
 #
 1124#
 Crafted by Orcish smiths and used by Orc Warriors, this one-handed sword is symbolic to the Orc tribe.
@@ -2705,7 +2675,7 @@ Attack: ^77777790^000000
 Weight: ^77777780^000000
 Weapon Level: ^7777773^000000
 Required Level: ^7777775^000000
-Jobs: ^777777Novice, Swordman, Merchant and Thief Classes^000000
+Jobs: ^777777Novice, Swordman, Merchant and Thief^000000
 #
 1125#
 A one-handed sword with an elaborately designed hilt.
@@ -2714,7 +2684,7 @@ Attack: ^777777100^000000
 Weight: ^77777790^000000
 Weapon Level: ^7777772^000000
 Required Level: ^77777714^000000
-Jobs: ^777777Swordman, Merchant and Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief^000000
 #
 1126#
 A heavy one-handed cavalry sword with a slightly curved blade.
@@ -2723,7 +2693,7 @@ Attack: ^777777115^000000
 Weight: ^777777100^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777727^000000
-Jobs: ^777777Swordman, Merchant and Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief^000000
 #
 1127#
 A heavy one-handed cavalry sword with a slightly curved blade.
@@ -2732,7 +2702,7 @@ Attack: ^777777115^000000
 Weight: ^777777100^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777727^000000
-Jobs: ^777777Swordman, Merchant and Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief^000000
 #
 1128#
 A one-handed, ancient Korean sword that is said to have the mysterious power to control minds.
@@ -2742,7 +2712,7 @@ Attack: ^777777120^000000
 Weight: ^77777790^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777727^000000
-Jobs: ^777777Swordman, Merchant and Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief^000000
 #
 1129#
 A powerful one-handed sword with a decoratively wavy, flame-like blade.
@@ -2762,7 +2732,7 @@ Attack: ^777777120^000000
 Weight: ^77777750^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777740^000000
-Jobs: ^777777Swordman, Merchant and Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief^000000
 #
 1131#
 A one-handed, formal dress sword imbued with the ^0000BBWater^000000 property.
@@ -2776,7 +2746,7 @@ Weight: ^77777760^000000
 Property: ^0000BBWater^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777740^000000
-Jobs: ^777777Swordman, Merchant and Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief^000000
 #
 1132#
 A one-handed sword with an extremely sharp blade that can cause the Coma effect by low chance. Places Curse effect on its target by a 3% chance.
@@ -2785,7 +2755,7 @@ Attack: ^777777115^000000
 Weight: ^77777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777740^000000
-Jobs: ^777777Swordman, Merchant and Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief^000000
 #
 1133#
 A one-handed, formal dress sword imbued with the ^FF0000Fire^000000 property.
@@ -2797,7 +2767,7 @@ Weight: ^77777750^000000
 Property: ^FF0000Fire^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777740^000000
-Jobs: ^777777Swordman, Merchant and Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief^000000
 #
 1134#
 A one-handed sword which looks just like a pair of scissors.
@@ -2808,7 +2778,7 @@ Attack: ^777777140^000000
 Weight: ^77777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777740^000000
-Jobs: ^777777Swordman, Merchant and Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief^000000
 #
 1135#
 A one-handed sword popularized by its use by sea adventurers.
@@ -2820,7 +2790,7 @@ Attack: ^777777150^000000
 Weight: ^77777790^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777740^000000
-Jobs: ^777777Swordman, Merchant and Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief^000000
 #
 1136#
 A one-handed sword adorned with an engraving of the sun, symbolizing battle spirit and vigor.
@@ -2832,7 +2802,7 @@ Weight: ^777777120^000000
 Property: ^FF0000Fire^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777740^000000
-Jobs: ^777777Swordman, Merchant and Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief^000000
 #
 1137#
 The one-handed sword of Arthurian legend, it supposedly selects its owner by its own will to wield its holy powers.
@@ -2845,7 +2815,7 @@ Weight: ^777777120^000000
 Property: ^777777Holy^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777740^000000
-Jobs: ^777777Swordman, Merchant and Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief^000000
 #
 1138#
 A sword inspired by the legendary twig said to have killed Baldur, god of light.
@@ -2858,7 +2828,7 @@ Weight: ^777777100^000000
 Property: ^777777Shadow^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777740^000000
-Jobs: ^777777Swordman, Merchant and Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief^000000
 #
 1139#
 A one-handed sword said to bring a horrific fate to whoever wields it.
@@ -2869,7 +2839,7 @@ Weight: ^777777100^000000
 Property: ^777777Shadow^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777740^000000
-Jobs: ^777777Swordman, Merchant and Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief^000000
 #
 1140#
 A giant one-handed sword used by ancient Korean war generals.
@@ -2881,7 +2851,7 @@ Attack: ^777777150^000000
 Weight: ^77777790^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777740^000000
-Jobs: ^777777Swordman, Merchant and Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief^000000
 #
 1141#
 A one-handed, formless sword imbued with the ^777777Ghost^000000 property that can derange the enemy's mind.
@@ -2894,7 +2864,7 @@ Weight: ^77777790^000000
 Property: ^777777Ghost^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777740^000000
-Jobs: ^777777Swordman, Merchant and Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief^000000
 #
 1142#
 A sword that has a beautiful, transparent blade and a hilt adorned with a princely jewel.
@@ -2903,7 +2873,7 @@ Attack: ^777777104^000000
 Weight: ^777777220^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777768^000000
-Jobs: ^777777Swordman, Merchant and Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief^000000
 #
 1143#
 An enchanted sword that draws ore out from fallen monsters.
@@ -2912,7 +2882,7 @@ Attack: ^777777115^000000
 Weight: ^777777250^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777774^000000
-Jobs: ^777777Swordman, Merchant and Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief^000000
 #
 1144#
 An extremely sharp, thin bladed sword that is very efficient when slicing fish to make Japanese cuisine.
@@ -2923,7 +2893,7 @@ Weight: ^777777140^000000
 Property: ^7BCC70Wind^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777748^000000
-Jobs: ^777777Swordman, Merchant and Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief^000000
 #
 1145#
 A sword that symbolizes the Lord's holy retribution.
@@ -3091,7 +3061,7 @@ Attack: ^777777180^000000
 Weight: ^777777250^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777733^000000
-Jobs: ^777777Knight, Crusader^000000
+Jobs: ^777777Knight and Crusader^000000
 #
 1164#
 An oriental sword named after a legendary Japanese swordsmith.
@@ -3189,7 +3159,7 @@ Attack: ^777777180^000000
 Weight: ^777777250^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777733^000000
-Jobs: ^777777Knight, Crusader^000000
+Jobs: ^777777Knight and Crusader^000000
 #
 1173#
 ^000088Rental Item^000000
@@ -3735,8 +3705,7 @@ Attack: ^77777780^000000
 Weight: ^77777740^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777736^000000
-Jobs: ^777777Swordman, Mage, Archer, Merchant,
-Thief Classes, Soul Linker, and Ninja^000000
+Jobs: ^777777Swordman, Mage, Archer, Merchant, Thief, Soul Linker and Ninja^000000
 #
 1228#
 Military combat knife made for battles against Demihuman monsters.
@@ -3759,11 +3728,11 @@ Attack: ^77777775^000000
 Weight: ^77777750^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777736^000000
-Jobs: ^777777Swordman, Mage, Archer, Merchant,
-Thief Classes, Soul Linker, and Ninja^000000
+Jobs: ^777777Swordman, Mage, Archer, Merchant, Thief, Soul Linker and Ninja^000000
 #
 1230#
-An ice pick that's usually used for piercing solid ice or wood. Deals more damage depending on the target's Defense.
+An ice pick that's usually used for piercing solid ice or wood.
+Deals more damage depending on the target's Defense.
 Class: ^777777Dagger^000000
 Attack: ^77777780^000000
 Weight: ^77777760^000000
@@ -3805,8 +3774,7 @@ Attack: ^77777790^000000
 Weight: ^77777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777736^000000
-Jobs: ^777777Swordman, Mage, Archer, Merchant,
-Thief Classes, Soul Linker, and Ninja^000000
+Jobs: ^777777Swordman, Mage, Archer, Merchant, Thief Classes, Soul Linker and Ninja^000000
 #
 1234#
 A dagger imbued with lunar spirit and the power to drain an enemy's soul.
@@ -3860,9 +3828,7 @@ Attack: ^77777764^000000
 Weight: ^777777120^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777770^000000
-Jobs: ^777777Swordman,
-Mage, Archer, Merchant,
-Thief Classes, Soul Linker, and Ninja^000000
+Jobs: ^777777Swordman, Mage, Archer, Merchant, Thief, Soul Linker and Ninja^000000
 #
 1239#
 A dreadful dagger whose blade has been soaked in toxin.
@@ -3882,9 +3848,7 @@ Attack: ^77777784^000000
 Weight: ^77777740^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Swordman,
-Mage, Archer, Merchant,
-Thief Classes, Soul Linker, and Ninja^000000
+Jobs: ^777777Swordman, Mage, Archer, Merchant, Thief, Soul Linker and Ninja^000000
 #
 1241#
 A dagger possessed by evil and given power by hatred and malice.
@@ -3924,7 +3888,7 @@ Weight: ^77777780^000000
 Property: ^777777Holy^000000
 Weapon level: ^7777774^000000
 Requirement: ^77777755^000000
-Jobs: ^777777Thief Class and Ninja^000000
+Jobs: ^777777Thief and Ninja^000000
 #
 1245#
 A wide bladed short sword that was crafted in a western country.
@@ -4732,6 +4696,16 @@ Attack: ^777777200^000000
 Weight: ^777777180^000000
 Weapon Level: ^7777773^000000
 Required Level: ^777777100^000000
+Jobs: ^777777Genetic^000000
+#
+1323#
+A golden axe with brutal power.
+STR +8, INT +8.
+Class: ^777777One-Handed Axe^000000
+Attack: ^777777180^000000
+Weight: ^777777180^000000
+Weapon Level: ^7777773^000000
+Required Level: ^777777120^000000
 Jobs: ^777777Genetic^000000
 #
 1351#
@@ -6227,7 +6201,7 @@ Attack: ^777777135^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Knight, Crusader^000000
+Jobs: ^777777Knight and Crusader^000000
 #
 1489#
 ^000088Rental Item^000000
@@ -9984,6 +9958,16 @@ Weapon Level: ^7777773^000000
 Required Level: ^777777100^000000
 Jobs: ^777777Minstrel^000000
 #
+1937#
+A golden violin with brutal power.
+DEX +8, VIT +8.
+Class: ^777777Musical Instrument^000000
+Attack: ^777777180^000000
+Weight: ^777777150^000000
+Weapon Level: ^7777773^000000
+Required Level: ^777777120^000000
+Jobs: ^777777Minstrel^000000
+#
 1938#
 ^ff0000Cannot be traded.^000000
 This weapon contains a strange energy.
@@ -10530,6 +10514,16 @@ Attack: ^777777200^000000
 Weight: ^777777150^000000
 Weapon Level: ^7777773^000000
 Required Level: ^777777100^000000
+Jobs: ^777777Wanderer^000000
+#
+1992#
+A golden whip with brutal power.
+DEX +8, VIT +8.
+Class: ^777777Whip^000000
+Attack: ^777777150^000000
+Weight: ^777777180^000000
+Weapon Level: ^7777773^000000
+Required Level: ^777777120^000000
 Jobs: ^777777Wanderer^000000
 #
 1994#
@@ -13016,7 +13010,7 @@ AGI +1
 Class: ^777777Armor^000000
 Defense: ^77777740^000000
 Weight: ^77777710^000000
-Jobs: ^777777Thief Class and Ninja^000000
+Jobs: ^777777Thief and Ninja^000000
 #
 2336#
 Extremely light clothes outfitted with many pockets, making it handy for stashing stolen goods.
@@ -13024,7 +13018,7 @@ AGI +1
 Class: ^777777Armor^000000
 Defense: ^77777740^000000
 Weight: ^77777710^000000
-Jobs: ^777777Thief Class and Ninja^000000
+Jobs: ^777777Thief and Ninja^000000
 #
 2337#
 A sneaking suit that enables its wearer to move more quickly and stealthily.
@@ -14420,7 +14414,7 @@ Class: ^777777Footgear^000000
 Defense: ^77777732^000000
 Weight: ^77777740^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Knight, Crusader^000000
+Jobs: ^777777Knight and Crusader^000000
 #
 2462#
 Named after Odin's trusty steed, these shoes also
@@ -14915,7 +14909,7 @@ Class: ^777777Garment^000000
 Defense: ^77777725^000000
 Weight: ^77777780^000000
 Required Level: ^77777780^000000
-Jobs: ^777777Swordman, Merchant and Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief^000000
 #
 2515#
 A robe which once helped the god Odin escape a fatal threat.
@@ -16062,7 +16056,7 @@ Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^77777770^000000
-Jobs: ^777777Thief Class and Ninja^000000
+Jobs: ^777777Thief and Ninja^000000
 #
 2621#
 An ancient ring.
@@ -16405,7 +16399,7 @@ Class: ^777777Accessory^000000
 Defense: ^7777771^000000
 Weight: ^77777730^000000
 Required Level: ^77777730^000000
-Jobs: ^777777Thief Class and Ninja^000000
+Jobs: ^777777Thief and Ninja^000000
 #
 2655#
 A heavy steel ball attached to a shackle that was supposed to keep prisoners from escaping in an earlier era.
@@ -16427,7 +16421,7 @@ DEF +5, MaxHP +150.
 Class: ^777777Accessory^000000
 Defense: ^7777771^000000
 Weight: ^777777100^000000
-Jobs: ^777777Swordman, Merchant and Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief^000000
 #
 2657#
 A pass for Regenschirm Laboratory employees that should allow you access around the lab.
@@ -26265,8 +26259,8 @@ freshly hatched.
 Class: ^777777Headgear^000000
 Defense: ^7777776^000000
 Location: ^777777Upper^000000
-Weight: ^77777720^FFFFFF
-^000000 Jobs: ^777777All^000000
+Weight: ^77777720^000000
+Jobs: ^777777All^000000
 #
 5016#
 A black cap that is
@@ -27841,7 +27835,7 @@ Class: ^777777Headgear^000000
 Defense: ^7777779^000000
 Location: ^777777Upper^000000
 Weight: ^77777750^000000
-Jobs: ^777777Swordman, Merchant and Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief^000000
 #
 5158#
 A flat hat worn by priests and monks that is comfortable and protective.
@@ -31132,20 +31126,24 @@ Level Requirement: ^77777720^000000
 Jobs: ^777777All Job except Novice^000000
 #
 5451#
-Gold Dragonhelm is specially constructed to offer the utmost in protection and offense against Dragon Type Monsters.
-^770000Unrefineable
-Account Bound^000000
-Class: ^777777Costume^000000
+^FF0000Cannot be traded.^000000
+A legendary helm, inspired by god of Dragon.
+Increases resistance against Demihuman monsters by 10%.
+Increases damage inflicted against Demihuman monsters by 5%.
+Unrefineable.
+Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
+Defense: ^77777714^000000
+Weight: ^777777150^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 5452#
-Silver Dragonhelm is specially constructed to offer the utmost in protection and offense against Dragon Type Monsters.
-^770000Unrefineable
-Account Bound^000000
+^FF0000Cannot be traded.^000000
+A legendary helm, inspired by god of Dragon.
+Increases resistance against Demihuman monsters by 7%.
+Increases damage inflicted against Demihuman monsters by 3%.
+Unrefineable.
 Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
 Defense: ^77777710^000000
@@ -31154,9 +31152,11 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 5453#
-Copper Dragonhelm is specially constructed to offer the utmost in protection against Dragon Type Monsters.
-^770000Unrefineable
-Account Bound^000000
+^FF0000Cannot be traded.^000000
+A legendary helm, inspired by god of Dragon.
+Increases resistance against Demihuman monsters by 5%.
+Increases damage inflicted against Demihuman monsters by 1%.
+Unrefineable.
 Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
 Defense: ^7777775^000000
@@ -51979,24 +51979,64 @@ Weight: ^7777770^000000
 12872#
 #
 12873#
+^ff0000Cannot be traded.^000000
+Contains 10 TE White Slim Potion.
+^ff0000Warning: The contents can disappear if you exceed the weight limit or item quantity limit at the time this box is opened.^000000
+Weight: ^77777710^000000
 #
 12874#
+Developed by the Alchemy Union of the Three Countries, this new medicine endows superhuman strength, though it's only temporary.
+Instantly consumes 3,000 of your HP and in return, increases your Physical/Magic damage on player enemies by 100% for 10 seconds.
+Weight: ^77777710^000000
+Required level: ^77777780^000000
 #
 12875#
+Developed by the Alchemy Union of the Three Countries, Endows superhuman strength, though it's only temporary.
+Instantly consumes 300 of your SP  and in return, decreases 50% damage received from other adventurers for 10 seconds.
+Weight: ^7777771^000000
+Required level: ^77777780^000000
 #
 12876#
+The first-class pharmacist Vincent has created this potion.
+Endows superhuman strength, though it's only temporary.
+Instantly consumes 3,000 of your HP and in return, immunizes you against Stun for 10 seconds.
+Weight: ^7777771^000000
 #
 12877#
+The first-class pharmacist Vincent has created this potion.
+Endows superhuman strength, though it's only temporary.
+Instantly consumes 3,000 of your HP and in return, immunizes you against Petrification for 10 seconds.
+Weight: ^7777771^000000
 #
 12878#
+The first-class pharmacist Vincent has created this potion.
+Endows superhuman strength, though it's only temporary.
+Instantly consumes 3,000 of your HP and in return, immunizes you against Frost for 10 seconds.
+Weight: ^7777771^000000
 #
 12879#
+The first-class pharmacist Vincent has created this potion.
+Endows superhuman strength, though it's only temporary.
+Instantly consumes 3,000 of your HP and in return, immunizes you against Sleep for 10 seconds.
+Weight: ^7777771^000000
 #
 12880#
+The first-class pharmacist Vincent has created this potion.
+Endows superhuman strength, though it's only temporary.
+Instantly consumes 3,000 of your HP and in return, immunizes you against Curse for 10 seconds.
+Weight: ^7777771^000000
 #
 12881#
+The first-class pharmacist Vincent has created this potion.
+Endows superhuman strength, though it's only temporary.
+Instantly consumes 3,000 of your HP and in return, immunizes you against Silence for 10 seconds.
+Weight: ^7777771^000000
 #
 12882#
+The first-class pharmacist Vincent has created this potion.
+Endows superhuman strength, though it's only temporary.
+Instantly consumes 3,000 of your HP and in return, immunizes you against Blind for 10 seconds.
+Weight: ^7777771^000000
 #
 12883#
 #
@@ -52036,28 +52076,65 @@ The wings cut from fly to be made into enchanted item.
 Weight: ^7777770^000000
 #
 12888#
+^ff0000Cannot be traded.^000000
+This box randomly generates a variety of useful guild supplies.
+^ff0000Warning: The contents can disappear if you exceed the weight limit or item quantity limit at the time this box is opened.^000000
+Weight: ^77777710^000000
 #
 12889#
+One of the oldest known remains of the dwarven weapons craftsmanship.
+Contains a very powerful and is rumored to have a rare weapon.
+Weight: ^77777720^000000
 #
 12890#
+One of the oldest known remains of the dwarven weapons craftsmanship.
+Contains a very powerful and is rumored to have a rare weapon.
+Weight: ^77777720^000000
 #
 12891#
+One of the oldest known remains of the dwarven weapons craftsmanship.
+Contains a very powerful and is rumored to have a rare weapon.
+Weight: ^77777720^000000
 #
 12892#
+One of the oldest known remains of the dwarven weapons craftsmanship.
+Contains a very powerful and is rumored to have a rare weapon.
+Weight: ^77777720^000000
 #
 12893#
+One of the oldest known remains of the dwarven weapons craftsmanship.
+Contains a very powerful and is rumored to have a rare weapon.
+Weight: ^77777720^000000
 #
 12894#
+One of the oldest known remains of the dwarven weapons craftsmanship.
+Contains a very powerful and is rumored to have a rare weapon.
+Weight: ^77777720^000000
 #
 12895#
+One of the oldest known remains of the dwarven weapons craftsmanship.
+Contains a very powerful and is rumored to have a rare weapon.
+Weight: ^77777720^000000
 #
 12896#
+One of the oldest known remains of the dwarven weapons craftsmanship.
+Contains a very powerful and is rumored to have a rare weapon.
+Weight: ^77777720^000000
 #
 12897#
+One of the oldest known remains of the dwarven weapons craftsmanship.
+Contains a very powerful and is rumored to have a rare weapon.
+Weight: ^77777720^000000
 #
 12898#
+One of the oldest known remains of the dwarven weapons craftsmanship.
+Contains a very powerful and is rumored to have a rare weapon.
+Weight: ^77777720^000000
 #
 12899#
+One of the oldest known remains of the dwarven weapons craftsmanship.
+Contains a very powerful and is rumored to have a rare weapon.
+Weight: ^77777720^000000
 #
 12900#
 A box that contains
@@ -53266,11 +53343,7 @@ dangerous energy.
 Weight: ^7777771^000000
 #
 13000#
-The hilt of this
-dagger is made from
-the wood of a Jujube
-tree struck by lightning, somehow imbuing this
-dagger with its power.
+The hilt of this dagger is made from the wood of a Jujube tree struck by lightning, somehow imbuing this dagger with its power.
 Class: ^777777Dagger^000000
 Attack: ^77777739^000000
 Weight: ^77777760^000000
@@ -53281,16 +53354,8 @@ Jobs: ^777777All except
 Acolyte Class^000000
 #
 13001#
-Crafted from a
-dragon's fang, this
-dagger can easily
-slash through tough
-dragon hide. Ignores
-the Defense of Dragon
-monsters and increases
-experience reward for
-defeating Dragon
-monsters by 10%.
+Crafted from a dragon's fang, this dagger can easily slash through tough dragon hide.
+Ignores the Defense of Dragon monsters and increases experience reward for defeating Dragon monsters by 10%.
 Class: ^777777Dagger^000000
 Attack: ^777777110^000000
 Weight: ^77777790^000000
@@ -53300,15 +53365,9 @@ Jobs: ^777777All except
 Acolyte Class^000000
 #
 13002#
-A dagger with
-an unnaturally
-dark colored blade.
-Those who hold it
-instinctively sense
-the danger and risk
-of wielding this weapon. Has 5% chance of causing
-Blind effect on enemies, as well as a 0.5% chance
-of causing Blind effect on its user, in battle.
+A dagger with an unnaturally dark colored blade.
+Those who hold it instinctively sense the danger and risk of wielding this weapon.
+Has 5% chance of causing Blind effect on enemies, as well as a 0.5% chance of causing Blind effect on its user, in battle.
 Class: ^777777Dagger^000000
 Attack: ^777777148^000000
 Weight: ^77777770^000000
@@ -53319,30 +53378,24 @@ Jobs: ^777777All except
 Acolyte Class^000000
 #
 13003#
-A dagger invented by
-a cowardly Assassin
-who was always held
-resentment about being unable to equip a shield.
+A dagger invented by a cowardly Assassin who was always held resentment about being unable to equip a shield.
 DEF +5.
 Class: ^777777Dagger^000000
 Attack: ^77777780^000000
 Weight: ^77777770^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777755^000000
-Jobs: ^777777Thief Class and Ninja^000000
+Jobs: ^777777Thief and Ninja^000000
 #
 13004#
-A dagger invented by
-a cowardly Assassin
-who was always held
-resentment about being unable to equip a shield.
+A dagger invented by a cowardly Assassin who was always held resentment about being unable to equip a shield.
 DEF +5.
 Class: ^777777Dagger^000000
 Attack: ^77777780^000000
 Weight: ^77777770^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777755^000000
-Jobs: ^777777Thief Class and Ninja^000000
+Jobs: ^777777Thief and Ninja^000000
 #
 13005#
 Not much is known
@@ -53350,14 +53403,8 @@ about the mysterious
 Angelic Wing Dagger...
 #
 13006#
-A dagger whose hilt
-is crafted from black
-dragon scale, a material rumored to possess the
-power of darkness.
-Each short range
-a low chance of
-cursing the target.
-physical attack has
+A dagger whose hilt is crafted from black dragon scale, a material rumored to possess the power of darkness.
+Each melee physical attack has low chance of cursing the target.
 Class: ^777777Dagger^000000
 Attack: ^777777150^000000
 Weight: ^77777760^000000
@@ -53367,16 +53414,8 @@ Required Level: ^77777765^000000
 Jobs: ^777777Ninja^000000
 #
 13007#
-A practical mace
-topped with a hook
-that can be used to
-wrench a weapon out
-of an enemy's hands.
-Each short range
-physical attack has
-a low chance of
-destroying the
-target's weapon.
+A practical mace topped with a hook that can be used to wrench a weapon out of an enemy's hands.
+Each melee physical attack has a low chance of destroying the target's weapon.
 Class: ^777777Dagger^000000
 Attack: ^77777770^000000
 Weight: ^77777740^000000
@@ -53385,16 +53424,8 @@ Required Level: ^77777735^000000
 Jobs: ^777777Ninja^000000
 #
 13008#
-A practical mace
-topped with a hook
-that can be used to
-wrench a weapon out
-of an enemy's hands.
-Each short range
-physical attack has
-a low chance of
-destroying the
-target's weapon.
+A practical mace topped with a hook that can be used to wrench a weapon out of an enemy's hands.
+Each melee physical attack has a low chance of destroying the target's weapon.
 Class: ^777777Dagger^000000
 Attack: ^77777770^000000
 Weight: ^77777740^000000
@@ -53403,11 +53434,9 @@ Required Level: ^77777735^000000
 Jobs: ^777777Ninja^000000
 #
 13009#
-A legendary weapon
-with extremely sharp
-blades. CRIT +3,
-increase ASPD.
-delay after attacking reduces by 3%
+A legendary weapon with extremely sharp blades.
+CRIT +3,
+ASPD +3%
 Class: ^777777Dagger^000000
 Attack: ^777777125^000000
 Weight: ^77777790^000000
@@ -53417,10 +53446,8 @@ Required Level: ^77777770^000000
 Jobs: ^777777Ninja^000000
 #
 13010#
-A legendary dagger
-that is said to have
-been given to mankind
-by the gods. MATK +50
+A legendary dagger that is said to have been given to mankind by the gods.
+MATK +50
 Class: ^777777Dagger^000000
 Attack: ^77777750^000000
 Weight: ^77777760^000000
@@ -53429,10 +53456,8 @@ Required Level: ^77777712^000000
 Jobs: ^777777Ninja^000000
 #
 13011#
-A legendary dagger
-that is said to have
-been given to mankind
-by the gods. MATK +50
+A legendary dagger that is said to have been given to mankind by the gods.
+MATK +50
 Class: ^777777Dagger^000000
 Attack: ^77777750^000000
 Weight: ^77777760^000000
@@ -53441,14 +53466,8 @@ Required Level: ^77777712^000000
 Jobs: ^777777Ninja^000000
 #
 13012#
-A famous sword that
-is said to be sharp
-enough to divide
-oceans or cut
-through the air to
-make it bleed water.
-Add CRIT +10 against Demihuman monsters
-when inflicting short range physical attacks.
+A famous sword that is said to be sharp enough to divide oceans or cut through the air to make it bleed water.
+Add CRIT +10 against Demihuman monsters when inflicting melee physical attacks.
 Class: ^777777Dagger^000000
 Attack: ^77777795^000000
 Weight: ^77777770^000000
@@ -53458,35 +53477,19 @@ Required Level: ^77777724^000000
 Jobs: ^777777Ninja^000000
 #
 13013#
-A famous sword that
-is said to be sharp
-enough to divide
-oceans or cut
-through the air to
-make it bleed water.
-Add CRIT +10 against Demihuman monsters
-when inflicting short range physical attacks.
+A famous sword that is said to be sharp enough to divide oceans or cut through the air to make it bleed water.
+Add CRIT +10 against Demihuman monsters when inflicting melee physical attacks.
 Class: ^777777Dagger^000000
 Attack: ^77777795^000000
 Weight: ^77777770^000000
-Property: ^777777Water000000
+Property: ^0000BBWater^000000
 Weapon Level: ^7777772^000000
 Required Level: ^77777724^000000
 Jobs: ^777777Ninja^000000
 #
 13014#
-A dagger that has a
-shining white blade
-crafted of bone, and
-is designed for
-stabbing, rather
-than slashing.
-Each short range
-physical attack
-has a low chance
-of auto casting
-Level 1 Heal on
-its user.
+A dagger that has a shining white blade crafted of bone, and is designed for stabbing, rather than slashing.
+Each melee physical attack has a low chance of auto casting Level 1 Heal on its user.
 Class: ^777777Dagger^000000
 Attack: ^777777120^000000
 Weight: ^77777780^000000
@@ -53495,18 +53498,8 @@ Required Level: ^77777742^000000
 Jobs: ^777777Ninja^000000
 #
 13015#
-A dagger that has a
-shining white blade
-crafted of bone, and
-is designed for
-stabbing, rather
-than slashing.
-Each short range
-physical attack
-has a low chance
-of auto casting
-Level 1 Heal on
-its user.
+A dagger that has a shining white blade crafted of bone, and is designed for stabbing, rather than slashing.
+Each melee physical attack has a low chance of auto casting Level 1 Heal on its user.
 Class: ^777777Dagger^000000
 Attack: ^777777120^000000
 Weight: ^77777780^000000
@@ -53515,54 +53508,35 @@ Required Level: ^77777742^000000
 Jobs: ^777777Ninja^000000
 #
 13016#
-A fearsome dagger with
-a burgundy blade that
-is coated with potent
-poison. Each physical
-melee attack has a chance to inflict Poison status.
+A fearsome dagger with a burgundy blade that is coated with potent poison.
+Each physical melee attack has a chance to inflict Poison status.
 Class: ^777777Dagger^000000
 Attack: ^77777764^000000
 Weight: ^77777780^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777765^000000
-Jobs: ^777777Swordman, Mage,
-Archer, Merchant, and
-Thief Classes; Soul
-Linker and Ninja^000000
+Jobs: ^777777Swordman, Mage, Archer, Merchant, Thief, Soul Linker and Ninja^000000
 #
 13017#
-A thin, sharp weapon
-that looks capable of
-penetrating armor.
-Inflicts more damage
-depending on the
-target's Defense.
+A thin, sharp weapon that looks capable of penetrating armor.
+Inflicts more damage depending on the target's Defense.
 Class: ^777777Dagger^000000
 Attack: ^77777770^000000
 Weight: ^77777760^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777736^000000
-Jobs: ^777777Swordman, Mage,
-Archer, Merchant, and
-Thief Classes; Soul
-Linker and Ninja^000000
+Jobs: ^777777Swordman, Mage, Archer, Merchant, Thief, Soul Linker and Ninja^000000
 #
 13018#
-A dagger that has been
-crafted in the ancient, traditional ways of
-a small desert tribe.
-Indestructible in battle, and inflicts 10% more
-damage on Earth and
-^7BCC70Wind^000000 property targets.
+A dagger that has been crafted in the ancient, traditional ways of a small desert tribe.
+Indestructible
+Inflicts 10% more damage on ^cc5500Earth^000000 and ^7BCC70Wind^000000 property targets.
 Class: ^777777Dagger^000000
 Attack: ^777777140^000000
 Weight: ^77777780^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777736^000000
-Jobs: ^777777Swordman, Mage,
-Archer, Merchant, and
-Thief Classes; Soul
-Linker and Ninja^000000
+Jobs: ^777777Swordman, Mage, Archer, Merchant, Thief, Soul Linker and Ninja^000000
 #
 13019#
 A black bladed dagger
@@ -53886,12 +53860,11 @@ Thief Classes, Soul Linker, and Ninja^000000
 A French dagger that is usually held in the left hand to parry attacks.
 Unrefineable.
 Class: ^777777Dagger^000000
-Attack: ^77777743^000000
+Attack: ^77777763^000000
 Weight: ^77777760^000000
 Weapon Level: ^7777771^000000
-Required Level: ^777777NA^000000
-Jobs: ^777777Novice, Swordman, Mage, Archer, Merchant,
-Thief Classes, Soul Linker, and Ninja^000000
+Required Level: ^7777771^000000
+Jobs: ^777777Novice, Swordman, Mage, Archer, Merchant, Thief, Soul Linker and Ninja^000000
 #
 13042#
 Physical Attack against Demihuman monsters +75%.
@@ -53905,7 +53878,7 @@ Attack: ^777777120^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777780^000000
-Jobs: ^777777Novice Class / Swordman Class / Mage Class / Archer Class / Merchant Class / Thief Class /Soul Linker/ Ninja Class^000000
+Jobs: ^777777Novice, Swordman, Mage, Archer, Merchant, Thief, Soul Linker and Ninja^000000
 #
 13043#
 ^ff0000Item cannot be traded with other characters..^000000
@@ -53916,7 +53889,7 @@ Attack: ^777777120^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777770^000000
-Jobs: ^777777Swordman Class / Mage Class / Archer Class / Merchant Class / Thief Class /Soul Linker/ Ninja Class^000000
+Jobs: ^777777Swordman, Mage, Archer, Merchant, Thief, Soul Linker and Ninja^000000
 #
 13044#
 ^ff0000Item cannot be traded with other characters.^000000
@@ -53928,7 +53901,7 @@ Attack: ^777777105^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777770^000000
-Jobs: ^777777Swordman Class/Mage Class/Archer Class/Merchant Class/Thief Class/Soul Linker/Ninja^000000
+Jobs: ^777777Swordman, Mage, Archer, Merchant, Thief, Soul Linker and Ninja^000000
 #
 13045#
 It is one of the legendary Weapon,
@@ -55874,7 +55847,7 @@ A famous Huuma
 Ninja weapon that
 is shaped like a wing.
 AGI -1, DEX -2.
-Class: ^777777Huuma^000000
+Class: ^777777Huuma Shuriken^000000
 Attack: ^777777150^000000
 Weight: ^777777300^000000
 Property: ^4cbb17Wind^000000
@@ -55890,7 +55863,7 @@ Each short range
 physical attack has
 a low chance of
 inflicting the Bleeding status on enemies.
-Class: ^777777Huuma^000000
+Class: ^777777Huuma Shuriken^000000
 Attack: ^77777750^000000
 Weight: ^777777250^000000
 Weapon Level: ^7777774^000000
@@ -55905,7 +55878,7 @@ Each short range
 physical attack has
 a low chance of
 inflicting the Bleeding status on enemies.
-Class: ^777777Huuma^000000
+Class: ^777777Huuma Shuriken^000000
 Attack: ^77777750^000000
 Weight: ^777777250^000000
 Weapon Level: ^7777774^000000
@@ -55921,7 +55894,7 @@ physical attack has
 a low chance of auto
 casting Level 5 Fire
 Ball. DEX -2.
-Class: ^777777Huuma^000000
+Class: ^777777Huuma Shuriken^000000
 Attack: ^777777185^000000
 Weight: ^777777150^000000
 Property: ^FF0000Fire^000000
@@ -55939,7 +55912,7 @@ Throw Huuma Shuriken
 skill by 30%, and its
 casting cannot be
 interrupted.
-Class: ^777777Huuma^000000
+Class: ^777777Huuma Shuriken^000000
 Attack: ^777777112^000000
 Weight: ^777777155^000000
 Weapon Level: ^7777773^000000
@@ -55952,7 +55925,7 @@ STR +2, DEX +1
 Increases Physical Attack Strength towards Demihuman monsters by 95%.
 Ignores Physical Defense from Demihuman monsters by 20%.
 Indestructible.
-Class: ^777777Huuma^000000
+Class: ^777777Huuma Shuriken^000000
 Attack: ^77777755^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
@@ -55965,7 +55938,7 @@ STR +2, DEX +1
 Increases Physical Attack Strength towards Demihuman monsters by 95%.
 Has a chance of increasing Attack Strength to ^FF0000Throw Huuma Shuriken^000000 and ^FF0000Killing Stroke^000000 by 100% for 10 seconds.
 Indestructible.
-Class: ^777777Huuma^000000
+Class: ^777777Huuma Shuriken^000000
 Attack: ^77777755^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
@@ -55985,7 +55958,7 @@ Ignore Defense of Demihuman monsters +5%
 +9 Refining
 When using [Killing Strike], auto-spell Lv. 10 [Heal].
 When using [Throw Huuma Shuriken], has a chance of inflicting consistent
-Class: ^777777Huuma^000000
+Class: ^777777Huuma Shuriken^000000
 Attack: ^77777755^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
@@ -55996,7 +55969,7 @@ Jobs: ^777777Ninja^000000
 A ^FF0000Fire^000000 Property Huuma shuriken that sparks like a firecracker when it strikes enemies.
 Add a 3% chance of auto casting ^008800Level 5 Fireball^000000 on the enemy when attacking.
 DEX +2.
-Class: ^777777Huuma^000000
+Class: ^777777Huuma Shuriken^000000
 Attack: ^777777230^000000
 Weight: ^7777770^000000
 Property: ^FF0000 Fire^000000
@@ -56009,7 +55982,7 @@ Jobs: ^777777Ninja^000000
 A heavy, giant shuriken shaped like a bladed wheel.
 ^880000External Bleeding^000000 an enemy when you attack (Success Chance ?%).
 Increases damage against small, medium, large size monsters by 80%.
-Class: ^777777Huuma^000000
+Class: ^777777Huuma Shuriken^000000
 Attack: ^77777799^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -56018,7 +55991,7 @@ Jobs: ^777777Ninja^000000
 13310#
 A Huuma Shuriken that is made by the Eden Group.
 It is suitable for experienced Ninjas only.
-Class: ^777777Huuma^000000
+Class: ^777777Huuma Shuriken^000000
 Attack: ^777777150^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
@@ -56094,6 +56067,18 @@ Required Level: ^7777771^000000
 Jobs: ^777777Ninja^000000
 #
 13317#
+^ff0000Cannot be traded.^000000
+^000088Rental Item^000000
+MATK + 100.
+** Extra option available in WoE TE area
+Physical Attack Power +40% against other adventurers.
+Physical attacks have a high Bleeding chance.
+Class: ^777777Huuma Shuriken^000000
+Attack: ^77777780^000000
+Weight: ^7777770^000000
+Weapon level: ^7777773^000000
+Required level: ^77777740^000000
+Jobs: ^777777Ninja^000000
 #
 13322#
 ^ff0000Cannot be traded.^000000
@@ -56103,7 +56088,7 @@ Each refine increase ATK +5/MATK +3.
 Each 2 refines increase ranged physical attack by 1%.
 ATK +3 for each 10 Base Levels above 20
 (Applied until you reach base lv 120)
-Class: ^777777Huuma^000000
+Class: ^777777Huuma Shuriken^000000
 Attack: ^77777750^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
@@ -56151,20 +56136,15 @@ Required Level: ^777777160^000000
 Jobs: ^777777Ninja^000000
 #
 13400#
-A practical sword
-that is typically
-used by sailors.
-Enables use of
-Level 5 Bash.
+A practical sword that is typically used by sailors.
+Enables use of Level 5 Bash.
 STR +2, DEF +1
 Class: ^777777One-Handed Sword^000000
 Attack: ^777777150^000000
 Weight: ^77777790^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777740^000000
-Jobs: ^777777Swordman,
-Merchant, and
-Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief^000000
 #
 13401#
 ^000088Rental Item^000000
@@ -56193,9 +56173,7 @@ Attack: ^777777185^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Swordman,
-Merchant, and
-Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief^000000
 #
 13403#
 ^000088Rental Item^000000
@@ -56211,9 +56189,7 @@ Weight: ^7777770^000000
 Property: ^FF0000Fire^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Swordman,
-Merchant, and
-Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief^000000
 #
 13404#
 A fearsome weapon with a uniquely curved blade.
@@ -56223,7 +56199,7 @@ Attack: ^777777130^000000
 Weight: ^777777150^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777755^000000
-Jobs: ^777777Transcendent Swordman, Merchant and Thief Classes^000000
+Jobs: ^777777Transcendent Swordman, Merchant and Thief^000000
 #
 13405#
 A thick, flexible sword forged from an elastic alloy.
@@ -56234,7 +56210,7 @@ Attack: ^777777125^000000
 Weight: ^77777780^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777755^000000
-Jobs: ^777777Transcendent Swordman, Merchant and Thief Classes^000000
+Jobs: ^777777Transcendent Swordman, Merchant and Thief^000000
 #
 13406#
 The adventurers who are brave the item which is provided from the hazard adventurer guild.
@@ -56245,7 +56221,7 @@ Attack: ^777777120^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777771^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Swordman Class, Merchant Class, Thief Class^000000
+Jobs: ^777777Swordman, Merchant and Thief^000000
 #
 13407#
 ^000088Rental Items^000000
@@ -56258,7 +56234,7 @@ Attack: ^777777148^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Swordman Class, Merchant Class, Thief Class^000000
+Jobs: ^777777Swordman, Merchant and Thief^000000
 #
 13408#
 ^000088Rental Items^000000
@@ -56272,7 +56248,7 @@ Weight: ^7777770^000000
 Property: ^FF0000 Fire^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Swordman Class, Merchant Class, Thief Class^000000
+Jobs: ^777777Swordman, Merchant and Thief^000000
 #
 13409#
 ^000088Rental Items^000000
@@ -56287,7 +56263,7 @@ Weight: ^7777770^000000
 Property: ^777777Ghost^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Swordman Class, Merchant Class, Thief Class^000000
+Jobs: ^777777Swordman, Merchant and Thief^000000
 #
 13410#
 A sword favored by gladiators, it is especially designed for battles against Demihumans.
@@ -56300,7 +56276,7 @@ Attack: ^777777115^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777780^000000
-Jobs: ^777777Novice, Swordman, Merchant, Thief Classes^000000
+Jobs: ^777777Novice, Swordman, Merchant and Thief^000000
 #
 13411#
 A sword favored by gladiators, it is especially designed for battles against Demihumans.
@@ -56313,7 +56289,7 @@ Attack: ^777777115^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777780^000000
-Jobs: ^777777Novice, Swordman, Merchant, Thief Classes^000000
+Jobs: ^777777Novice, Swordman, Merchant and Thief^000000
 #
 13412#
 One of the twin swords of Naght Sieger. The blue blade shows the sharpness of this sword.
@@ -56325,7 +56301,7 @@ Weight: ^777777150^000000
 Property: ^0000BBWater^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777775^000000
-Jobs: ^777777Transcendent Swordman, Merchant, Thief Classes^000000
+Jobs: ^777777Transcendent Swordman, Merchant and Thief^000000
 #
 13413#
 One of the twin swords of Naght Sieger. The red blade shows the destructive power of this sword.
@@ -56337,7 +56313,7 @@ Weight: ^777777150^000000
 Property: ^FF0000Fire^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777775^000000
-Jobs: ^777777Transcendent Swordman, Merchant, Thief Classes^000000
+Jobs: ^777777Transcendent Swordman, Merchant and Thief^000000
 #
 13414#
 A magical sword that bears 4 different properties of nature. Very effective to enemies without the properties of Water, Wind, Earth and Fire.
@@ -56350,7 +56326,7 @@ Attack: ^777777105^000000
 Weight: ^777777120^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777770^000000
-Jobs: ^777777Transcendent Swordman / Merchant / Thief Class^000000
+Jobs: ^777777Transcendent Swordman, Merchant and Thief^000000
 #
 13415#
 A one-handed sword
@@ -56361,9 +56337,7 @@ Attack: ^77777759^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777771^000000
 Required Level: ^7777772^000000
-Jobs: ^777777Novice,
-Swordman, Merchant
-and Thief Classes^000000
+Jobs: ^777777Novice, Swordman, Merchant and Thief^000000
 #
 13416#
 Physical Attack against Demihuman monsters +75%.
@@ -56373,24 +56347,24 @@ Ignore 20% of Physical Defense of Demihuman monsters.
 +7 Upgrade:
 Increase in ASPD(Delay after attacking reduces by 10%)
 +9 Upgrade: When using [Bash], has a chance of activating Lv. 2 [Fatal Wound].
-Class: ^777777Onehand Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777130^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777780^000000
-Jobs: ^777777Novice Class / Swordman Class / Merchant Class / Thief Class^000000
+Jobs: ^777777Novice, Swordman, Merchant and Thief^000000
 #
 13417#
 INT +6, MATK +80, Increases Int based on refine level.
 ***Additional Weapon Refining Level Option***
 +6 Upgrade: Decrease SP consumption by 10%.
 +9 Upgrade: INT +5
-Class: ^777777Onehand Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777130^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777780^000000
-Jobs: ^777777Novice Class / Swordman Class / Merchant Class / Thief Class^000000
+Jobs: ^777777Novice, Swordman, Merchant and Thief^000000
 #
 13418#
 INT +6, MATK +80, Increases Int based on refine level.
@@ -56398,7 +56372,7 @@ INT +6, MATK +80, Increases Int based on refine level.
 +6 Upgrade: Decrease SP consumption by 10 %
 +9 Upgrade: When using [Gloria Domini], will also cast Lv.1 [Lex Aeterna].
 +10 Upgrade: INT +5
-Class: ^777777Onehand Sword^000000
+Class: ^777777One-Handed Sword^000000
 Attack: ^777777130^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
@@ -56423,7 +56397,7 @@ Attack: ^777777160^000000
 Weight: ^777777120^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777770^000000
-Jobs: ^777777Swordman Class, Merchant Class, Thief Class^000000
+Jobs: ^777777Swordman, Merchant and Thief^000000
 #
 13421#
 This short sword has been heavily improved for easy-use. It looks better with its Ruby decoration in the grip.
@@ -56443,7 +56417,7 @@ Class: ^777777One-Handed Sword^000000
 Attack: ^777777185^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Knight, Crusader^000000
+Jobs: ^777777Knight and Crusader^000000
 #
 13423#
 A one-handed sword that is made by the Eden Group. A weapon that can be used by anyone easily.
@@ -56559,7 +56533,7 @@ Attack: ^77777790^000000
 Weight: ^77777780^000000
 Weapon Level: ^7777773^000000
 Required Level: ^7777775^000000
-Jobs: ^777777Novice, Swordman, Merchant and Thief Classes^000000
+Jobs: ^777777Novice, Swordman, Merchant and Thief^000000
 #
 13438#
 A magical enchanted sword, coveted by the famous witch-warrior Lila Contrary.
@@ -56653,7 +56627,7 @@ Attack: ^777777115^000000
 Weight: ^777777100^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777727^000000
-Jobs: ^777777Swordman Class, Merchant Class, Thief Class^000000
+Jobs: ^777777Swordman, Merchant and Thief^000000
 #
 13451#
 Blue Sword which has destructive power.
@@ -56679,7 +56653,7 @@ Attack: ^77777785^000000
 Weight: ^77777785^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777770^000000
-Jobs: ^777777Novice, Swordman, Merchant and Thief classes^000000
+Jobs: ^777777Novice, Swordman, Merchant and Thief^000000
 #
 13455#
 Saber imbued with Vicious Mind.
@@ -56690,7 +56664,7 @@ Attack: ^777777135^000000
 Weight: ^777777135^000000
 Weapon Level: ^7777774^000000
 Required Level: ^777777160^000000
-Jobs: ^777777Novice, Swordman, Merchant and Thief classes^000000
+Jobs: ^777777Novice, Swordman, Merchant and Thief^000000
 #
 13500#
 A box containing 10 Life Insurance Certificate for 1 hours.
@@ -74849,7 +74823,7 @@ Attack: ^77777775^000000
 Weight: ^777777170^000000
 Weapon Level: ^7777773^000000
 Required Level: ^777777105^000000
-Jobs: ^7777773rd Class Archer Type^000000
+Jobs: ^7777773rd Class Archer^000000
 #
 18106#
 A rich bow that is made by the Eden Group. It is suitable for advanced level adventurers who know how to handle a bow.
@@ -74871,7 +74845,7 @@ Attack: ^777777120^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777771^000000
 Required Level: ^77777750^000000
-Jobs: ^777777archerClass/Thief/RogueClass^000000
+Jobs: ^777777Archer, Thief and Rogue^000000
 #
 18108#
 ^000088Rental Item^000000
@@ -74883,7 +74857,7 @@ Attack: ^777777180^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777771^000000
 Required Level: ^77777750^000000
-Jobs: ^777777Hunter Class/Bard Class/Dancer Class^000000
+Jobs: ^777777Hunter, Bard and Dancer^000000
 #
 18109#
 Increases the damage of Triangle Shot depending on refine level as well as increasing SP consumption of the skill.
@@ -75100,37 +75074,37 @@ Required Level: ^77777770^000000
 Jobs: ^777777Archer, thief and rogue classes^000000
 #
 18500#
-^000088ÀÓ»ë ±ÆÀÌÅÛ^000000
-Á¤°­ÀûÀÎ ´¡¿£´öÀÇ ÀÀ°ø°ë ²µÄ«ÇÁ.
-·ó²µÅÍ°¡¿Ô³­ È¶ºæ ¿æÇèÄ¡ 60% Áõ¿¡.
-^uu0000µ´ ±ÆÀÌÅÛÀµ ÀÌµ¥Æ® ¾â¿£ ÀÌÈÄ ´èÁ¦ºË»Ï»Ù.^000000
+^FF0000Cannot be traded.^000000
+^000088Rental item^000000
+Passionate red scarf.
+Increase experience received from killing monster by 60%.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Lower^000000
 Weight: ^7777770^000000
-Jobs: ^777777ÀüÁ÷±÷ Job^000000
+Jobs: ^777777All^000000
 #
 18501#
-^000088ÀÓ»ë ±ÆÀÌÅÛ^000000
-Á¤°­ÀûÀÎ ´¡¿£´öÀÇ ÀÀ°ø°ë ²µÄ«ÇÁ.
-·ó²µÅÍ°¡¿Ô³­ È¶ºæ ¿æÇèÄ¡ 80% Áõ¿¡.
-^uu0000µ´ ±ÆÀÌÅÛÀµ ÀÌµ¥Æ® ¾â¿£ ÀÌÈÄ ´èÁ¦ºË»Ï»Ù.^000000
+^FF0000Cannot be traded.^000000
+^000088Rental item^000000
+Passionate red scarf.
+Increase experience received from killing monster by 80%.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Lower^000000
 Weight: ^7777770^000000
-Jobs: ^777777ÀüÁ÷±÷ Job^000000
+Jobs: ^777777All^000000
 #
 18502#
-^000088ÀÓ»ë ±ÆÀÌÅÛ^000000
-Á¤°­ÀûÀÎ ´¡¿£´öÀÇ ÀÀ°ø°ë ²µÄ«ÇÁ.
-·ó²µÅÍ°¡¿Ô³­ È¶ºæ ¿æÇèÄ¡ 100% Áõ¿¡.
-^uu0000µ´ ±ÆÀÌÅÛÀµ ÀÌµ¥Æ® ¾â¿£ ÀÌÈÄ ´èÁ¦ºË»Ï»Ù.^000000
+^FF0000Cannot be traded.^000000
+^000088Rental item^000000
+Passionate red scarf.
+Increase experience received from killing monster by 100%.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Lower^000000
 Weight: ^7777770^000000
-Jobs: ^777777ÀüÁ÷±÷ Job^000000
+Jobs: ^777777All^000000
 #
 18503#
 The horns imbued with full of Devil Spirit. Feels so tight and harsh.
@@ -75159,7 +75133,6 @@ An accessory which is traditionally used in piercings by the Umbala tribespeople
 MaxHP +1%.
 Increases the recovery rate of 'Meat' by 25%.
 Has a chance of dropping 'Meat' when defeating monsters.
-^ff0000Can be traded, stored, and vended^000000
 Class: ^777777Headgear^000000
 Defense: ^7777771^000000
 Location: ^777777Lower^000000
@@ -75168,12 +75141,14 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 18506#
-µÎºå¸¯°î ²ÇÅ©¸Î ··ºé±îÁø ¿ÍÀ·¸Î ±Æ¹ø°¡³­»Â ÁÖ¸Î ·Ó·®°¡ ±»»Ù.
-NSK +10%, NHK +10%.
-¿è°­ : ^777777Åõ¾·^000000 ¶æ±î : ^7777772^000000
-À§Ä¡: ^777777´óÁßÇÏ»Ü ^000000 ¶«¿Ô : ^777777400^000000
-°ä¾· ¸¶µ§ : ^7777771^000000
-ÀåÂø : ^777777ÀüÁ÷±÷^000000
+A traditional headdress typically worn by Arab men.
+MaxHP +10%, MaxSP +10%.
+Class: ^777777Headgear^000000
+Defense: ^7777772^000000
+Location: ^777777Upper, Middle, Lower^000000
+Weight: ^777777400^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 18507#
 A fashion accessory
@@ -75193,7 +75168,6 @@ A hat which is very unique and rare, made from the feathers of a legendary bird 
 Reduces damage from all elements by 5%.
 LUK +5, HIT +10, Reduces casting delay by 5%.
 If refined to +7 or higher, has a chance of getting Mastela Fruit when attacking monsters. Chance to drop increases by 1% for each refine level over 7.
-^ff0000Can be traded, stored, and vended^000000
 Class: ^777777Headgear^000000
 Defense: ^7777774^000000
 Location: ^777777Upper^000000
@@ -75211,7 +75185,7 @@ Defense: ^7777776^000000
 Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^77777715^000000
-Jobs: ^777777All jobs except Novices^000000
+Jobs: ^777777All except Novice^000000
 #
 18510#
 The bloodstained wings of a fallen angel.
@@ -76168,8 +76142,8 @@ Jobs: ^777777All^000000
 #
 18601#
 A lovely red hat with a white pom pom.
-MDEF +5.
-If upgraded to +5 or higher, increases 2% of Magical damage on Demihuman monsters, and reduces 2% of magical damage from Demihuman monsters per refine level over 4 and caps at level 12.
+MDEF +5, MATK +5%.
+Refined to +6, every refine increase 1% magical damage and reduce 1% damage from Demihuman monsters.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
@@ -79897,218 +79871,8 @@ Weight: ^77777730^000000
 Required Level: ^777777100^000000
 Jobs: ^777777All^000000
 #
-19001#
-A box that contains 1 Classic Apple of Archer 2 Week Rental
-Description:
-^000088Rental Item^000000
-A headgear made in
-honor of the legendary
-archer known for shooting an apple perched on
-a friend's head from
-a great distance.
-DEX +4
-This item cannot be Dropped or Traded.
-Class: ^777777Headgear^000000
-Defense: ^77777712^000000
-Location: ^777777Upper^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All Except Novice^000000
-#
-19002#
-A box that contains 1 Classic Asura 2 Week Rental
-Description:
-^000088Rental Item^000000
-A legendary dagger
-that is said to have
-been given to mankind by the gods.
-MATK +98.
-This item cannot be Dropped or Traded.
-Class: ^777777Dagger^000000
-Attack: ^777777120^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777771^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Ninja^000000
-#
-19003#
-A box that contains 1 Classic Rudra Bow 2 Week Rental
-Description:
-^000088Rental Item^000000
-A bow imbued with the
-sacred essense of Rudra, one of the ancient gods.
-Adds 50% tolerance to the Poison, Curse, Silence,
-Chaos and Blind statuses. Enables the use of
-^008800Level 1 Heal^000000 and
-^008800Level 1 Cure^000000. INT +5
-This item cannot be Dropped or Traded.
-Class: ^777777Bow^000000
-Attack: ^777777185^000000
-Weight: ^7777770^000000
-Property: ^777777Holy^000000
-Weapon Level: ^7777774^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Archer Class;
-Rogue^000000
-#
-19004#
-A box that contains 1 Classic Brooch 2 Week Rental
-Description:
-^000088Rental Item^000000
-An ancient brooch.
-AGI +4
-This item cannot be Dropped or Traded.
-Class: ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All Except Novice^000000
-#
-19005#
-A box that contains 1 Classic Bunny Band 2 Week Rental
-Description:
-^000088Rental Item^000000
-A hairband that gives
-one the appearance of
-having rabbit ears,
-a lasting symbol of
-extremely good luck.
-Reduces damage from
-Demihuman monsters
-by 10%. MDEF +5
-This item cannot be Dropped or Traded.
-Class: ^777777Headgear^000000
-Defense: ^77777713^000000
-Location: ^777777Upper^000000
-Weight: ^7777770^000000
-Jobs: ^777777All^000000
-#
-19006#
-A box that contains 1 Classic Combat Knife 2 Week Rental
-Description:
-^000088Rental Item^000000
-A military combat
-knife designed for
-killing humanoids.
-Reduces damage from and increases tolerance to
-Demihuman monsters
-by 10%, but increases
-damage inflicted by
-Devil monsters by 10%.
-Restores 3 SP when
-hitting a monster.
-MaxSP +10%.
-Class: ^777777Dagger^000000
-Attack: ^777777129^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777774^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Swordman, Merchant, Thief Classes; Soul
-Linker and Ninja^000000
-#
-19007#
-A box that contains 1 Classic Counter Dagger 2 Week Rental
-Description:
-^000088Rental Item^000000
-A dagger that has
-a high chance of
-inflicting critical
-damage to its target.
-CRIT +90%
-This item cannot be Dropped or Traded.
-Class: ^777777Dagger^000000
-Attack: ^777777209^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777774^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Mage Class,
-Soul Linker Job^000000
-#
-19008#
-A box that contains 1 Classic Critical Ring 2 Week Rental
-Description:
-^000088Rental Item^000000
-An esoteric ring that
-enables its wearer to amplify his hidden powers.
-CRIT +10%
-This item cannot be Dropped or Traded.
-Class: ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All Except Novice^000000
-#
-19009#
-A box that contains 1 Classic Cutlas 2 Week Rental
-Description:
-^000088Rental Item^000000
-A one-handed sword
-popularized by its use
-by sea adventurers.
-Enables use of
-^008800Level 5 Bash^000000.
-STR +2
-DEF +1
-This item cannot be Dropped or Traded.
-Class: ^777777One-Handed Sword^000000
-Attack: ^777777185^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777774^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Swordman,
-Merchant, and
-Thief Classes^000000
-#
-19010#
-A box that contains 1 Classic Sage Diary 2 Week Rental
-Description:
-^000088Rental Item^000000
-The diary of a great
-sage that was published without him ever knowing.
-MATK +140, Increases
-ASPD by 5%
-This item cannot be Dropped or Traded.
-Class: ^777777Book^000000
-Attack: ^777777135^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777773^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Priest, Sage,
-Star Gladiator^000000
-#
-19011#
-A box that contains 1 Classic Earring 2 Week Rental
-Description:
-^000088Rental Item^000000
-An ancient earring.
-INT +3
-This item cannot be Dropped or Traded.
-Class: ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All Except Novice^000000
-#
 19012#
 [JRO item]
-#
-19013#
-A box that contains 1 Classic Executioner 2 Week Rental
-Description:
-^000088Rental Item^000000
-A gruesome sword used
-to behead criminals judged with the death penalty.
-Pierces Defense of
-Demihuman monsters.
-Increases damage inflicted on Demihuman monsters by 20%, but increases damage received by Demihuman monsters by 10%.
-This item cannot be Dropped or Traded.
-Class: ^777777Two-Handed Sword^000000
-Attack: ^777777190^000000
-Weight: ^7777770^000000
-Property: ^777777Shadow^000000
-Weapon Level: ^7777774^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Swordman^000000
 #
 19014#
 Wearing this make can feel the world of death.
@@ -80238,38 +80002,6 @@ Weight: ^77777710^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
-19031#
-A box that contains:
-^000088Rental Item^000000
-^6A5ACD1 Unholy Touch^000000
-Duration: 2 Weeks after opening.
-^000088Rental Item^000000
-When dealing a melee physical attack there is a 50% chance to cause [Blind] status on the opponent.
-Class: ^777777Katar^000000
-Attack: ^777777179^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777774^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Assassin^000000
-Box Weight: ^7777770^000000
-#
-19032#
-A box that contains:
-^000088Rental Item^000000
-^6A5ACD1 Whip of Balance^000000
-Duration: 2 Weeks after opening.
-^000088Rental Item^000000
-A balance is attached at the tip of the whip. Anyone who gets a hit by this whip is knocked back.
-AGI +2, DEX +3
-Additional 2 cells and 3 cells of knock back effect is added to the use of Throw Arrow and Arrow Vulcan skills respectively.
-Class: ^777777Whip^000000
-Attack: ^777777110^000000
-Weight: ^77777770^000000
-Weapon Level: ^7777773^000000
-Required Level: ^77777770^000000
-Jobs: ^777777Dancer^000000
-Box Weight: ^7777770^000000
-#
 19033#
 A decoration worn by goddess.
 I feel that one of its benefits were sealed with a high cost.
@@ -80285,17 +80017,6 @@ Jobs: ^777777All^000000
 #
 19035#
 [JRO item]
-#
-19036#
-^CC0000This Rental Armor is not Tradable^000000
-Shoes that offer similar effect as a Sohee Carded +6 Shoes
-+15% SP +3% SP recovery
-^CC0000This item is not Refinable^000000
-Class: ^777777Footgear^000000
-Def ^7777776^000000
-Weight: ^77777740^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All^000000
 #
 19037#
 [JRO item]
@@ -80394,265 +80115,6 @@ Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
-#
-19101#
-A box that contains 1 Classic Omni Clothing Dye Coupon
-Description:
-If you give this coupon to the NPC, she will dye your costume.
-^ffffff_^000000
-Weight: ^7777770^000000
-#
-19102#
-A box that contains 1 Classic Headgear Dye Coupon
-Description:
-Various colors are mixed into this mysterious dye. It is a primary ingredient for dying certain headgears.
-Weight: ^7777771^000000
-#
-19103#
-A box that contains 1 Classic New Hairstyle Coupon
-Description:
-This coupon can be exchanged, along with the required materials, to a hair dresser to change your hairstyle.
-^ffffff_^000000
-Weight: ^7777770^000000
-#
-19104#
-A box that contains 1 Classic Max Weight up Scroll
-Description:
-A Gym Pass that can be
-given to a special
-NPC to learn a skill
-that will increase your Maximum Weight
-Capacity by 200 for
-each skill level.
-This special skill
-can only be learned
-up to Level 10.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-19105#
-A box that contains 10 Classic Max Weight up Scroll
-Description:
-A Gym Pass that can be
-given to a special
-NPC to learn a skill
-that will increase your Maximum Weight
-Capacity by 200 for
-each skill level.
-This special skill
-can only be learned
-up to Level 10.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-19106#
-A box that contains 1 Classic Marriage License
-Description:
-This written oath professes undying love, loyalty, and union.
-Forever in life, and eternally beyond death.
-^ffffff_^000000
-Cannot be Dropped or Traded.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-19107#
-A box that contains 10 Classic Enriched Oridecon
-Description:
-Dense Oridecon
-that has been buried
-deep underground.
-Used as a material to
-strengthen weapons.
-Enhances a chance of
-successful upgrade.
-Only Suhnbi of Payon is
-capable of refining with
-this material.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-19108#
-A box that contains 10 Classic Enriched Elunium
-Description:
-Concentrated Elunium
-that has been buried
-deep underground.
-Used as a material
-to strengthen armor.
-Enhances a chance of
-successful upgrade.
-Only Suhnbi of Payon is
-capable of refining with
-this material.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-19109#
-A box that contains 1 Classic Magical Stone
-Description:
-This item is used to access various Services.
-Weight: ^7777770^000000
-#
-19110#
-A box that contains:Neuralizer^000000
-Pressing the button
-on this stick will
-flash blinding light
-that seems to cause
-memory loss. Resets
-the Skill Tree and
-gives the corresponding number of Skill Points.
-This item can only be
-used in town, and the
-character must carry
-0 weight, and cannot be equipped with a Pushcart,
-Falcon, or PecoPeco.
-Cannot be used by
-Novice Class.
-^ffffff_^000000
-Weight: ^7777770^000000
-Box Weight: ^7777770^000000
-#
-19111#
-^00CC00A Tradable Box that contains 10 Dungeon Teleport Scroll 1s^000000
-A scroll on which
-many dungeon map
-coordinates have
-been recorded.
-If you tear it up,
-it can transport you
-once to Nogg Road,
-Mjolnir Dead Pit,
-Payon Dungeon, Toy
-Dungeon, Glast Heim
-Dungeon, Hermit's
-Checkers, Izlude
-Dungeon, Turtle
-Island Dungeon,
-Clock Tower B3F,
-Clock Tower 3F,
-Glast Heim Culvert 2F,
-Sphinx Dungeon 4F,
-Inside Pyramid 4F,
-Prontera Culvert 3F,
-Amatsu Dungeon 1F
-(Tatami Maze),
-Ancient Shrine 2F.
-Warning - After using it, unless you choose the destination in 1 minute,
-it will be useless.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-19201#
-A box that contains 10 Classic Battle Manual
-Description:
-This well written,
-detailed manual
-explains effective
-battle methods.
-^000088EXP rate increases to^000000
-^000088150% for 30 minutes.^000000
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-19202#
-A box that contains 10 Classic Bubble Gum
-Description:
-Sweet, tasty bubble
-gum. Item drop rate
-increases by 100%
-for 30 minutes.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-19203#
-A box that contains 10 Classic Rune Butterfly Wing
-Description:
-An enchanted butterfly's wing that instantly sends its user to the towns of the Rune Midgarts Kingdom.
-Locations: "Prontera", "Geffen", "Payon", "Morroc", "Al De Baran" or "Alberta" when waved in the air.
-Warning: If no town is selected, the item will disappear.
-Weight: ^7777771^000000
-#
-19204#
-A box that contains 50 Classic Giant Flywing
-Description:
-An enchanted, giant
-wing from an ancient
-creatures. Enables
-instant teleportation
-of many people when used by a Party Master.
-^ffffff_^000000
-This item can be traded and put into storage.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-19205#
-A box that contains 10 Classic Kafra Card
-Description:
-A Kafra name card
-issued by the Kafra
-Headquarters. Using
-this card will call up
-the Kafra Service.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-19206#
-A box that contains 10 Classic Insurance
-Description:
-A life insurance
-certificate issued
-by Kafra Headquarters.
-This item loses its
-effect once the player
-receives its benefit.
-If the character dies
-within 30 minutes
-after using this item,
-there will be no
-EXP loss penalty.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-19207#
-A box that contains 10 Classic Token of Siegfried
-Description:
-A certificate imbued
-with the power of the
-invulnerable Siegfried
-which allows its bearer to overcome death.
-Revives the dead
-character.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-19208#
-A box that contains 10 Classic Small Life Potion
-Description:
-A small bottle of
-Yggdrasil Tree Sap
-that is effective in
-healing wounds.
-Restores an amount of
-HP equal of 5% of your
-MaxHP every 5 seconds for a 10 minute duration.
-If you are incapacitated,
-the item effect will disappear.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-19209#
-A box that contains 500 Classic Giant Flywing
-Description:
-An enchanted, giant
-wing from an ancient
-creatures. Enables
-instant teleportation
-of many people when used by a Party Master.
-^ffffff_^000000
-This item can be traded and put into storage.
-^ffffff_^000000
-Weight: ^7777771^000000
 #
 19377#
 A marinated beef dish
@@ -80829,280 +80291,6 @@ flavor gives one the
 sensation of flight.
 VIT +9
 Weight: ^777777100^000000
-#
-19401#
-A box that contains 1 Classic Alice Doll
-Description:
-A hat adorned with an
-Alice doll. When worn,
-it seems like Alice is
-cheering you on from
-the top of your head.
-''Be strong, master!''
-+10% damage against
-Demihuman monsters,
-and has low chance of
-casting Sleep on
-its wearer.
-STR +1.
-Unrefineable.
-Cannot be Dropped,
-or Tradable
-Can be placed in Kafra Storage
-Class: ^777777Headgear^000000
-Defense: ^7777771^000000
-Location: ^777777Upper^000000
-Weight: ^77777750^000000
-Level Requirement: ^77777730^000000
-Jobs: ^777777Every
-Job except Novice^000000
-#
-19402#
-A box that contains 1 Classic Chick Hat
-Description:
-A hat adorned with a
-cute chick that brings
-feelings of joy to those that see it hopping.
-Adds 3% resistance to
-Demihuman and Animal
-Class monsters. Cannot
-be upgraded. Enables
-Lv. 2 Double Attack.
-MaxHP and SP +50
-Cannot be Dropped,
-or Tradable
-Can be placed in Kafra Storage
-Class: ^777777Headgear^000000
-Defense: ^7777772^000000
-Location: ^777777Upper^000000
-Weight: ^77777710^000000
-Required Level: ^77777710^000000
-Jobs: ^777777All^000000
-#
-19403#
-A box that contains 1 Classic Drooping Bunny
-Description:
-#
-19404#
-A box that contains 1 Classic Kettle Hat
-Description:
-A sturdy pot worn on
-the head that overflows with water if shaken.
-Has a chance of auto-
-casting Lv.2 Deluge
-or Lv.3 Waterball
-with each attack.
-Cannot be Dropped,
-or Tradable
-Can be placed in Kafra Storage
-Class: ^777777Headgear^000000
-Defense: ^7777778^000000
-Location: ^777777Upper^000000
-Weight: ^77777760^000000
-Required Level: ^77777730^000000
-Jobs: ^777777All^000000
-#
-19405#
-A box that contains 1 Classic Mini Propeller Hat
-Description:
-This hat makes the
-wearer feel as if he
-is floating on air.
-AGI +2, DEX +1,
-Dodge +10. This
-headgear's
-upgrade level affects
-the percentage of
-Cast Time reduction.
-Cannot be Dropped,
-or Tradable
-Can be placed in Kafra Storage
-Class: ^777777Headgear^000000
-Defense: ^7777774^000000
-Location: ^777777Upper^000000
-Weight: ^77777720^000000
-Jobs: ^777777All^000000
-#
-19406#
-A box that contains 1 Classic Pecopeco Hairband
-Description:
-A hairband with
-PecoPeco wings that
-lends you a PecoPeco's
-speed. Increases
-Movement Speed,
-Decreases ASPD by 10%,
-(After attack delay decreases by 5%)
-and increases
-Variable Cast Time by 25%.
-Cannot be Dropped,
-or Traded,
-Can be placed in Kafra Storage
-Class: ^777777Headgear^000000
-Defense: ^7777776^000000
-Location: ^777777Upper^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All^000000
-#
-19407#
-A box that contains 1 Classic Ramen Hat
-Description:
-Delicious noodles
-worn on the head that
-can be eaten when food
-is especially scarce.
-There's nothing like
-a good bowl of ramen.
-Nothing. DEX +4.
-Unrefineable.
-Has a chance to
-auto-cast Lv.1 DEX -
-Decrease each
-time the wearer
-is attacked.
-Cannot be Dropped,
-or Tradable
-Can be placed in Kafra Storage
-Class: ^777777Headgear^000000
-Defense: ^7777773^000000
-Location: ^777777Upper^000000
-Weight: ^77777750^000000
-Required Level: ^77777730^000000
-Jobs: ^777777All^000000
-#
-19408#
-A box that contains 1 Classic Robo Eye
-Description:
-A weird item that spreads a strange-shaped beam around the eyes. It seems to have been made in outer space.
-ATK, MATK +2%, DEX +1
-^ff0000this item is account bound^000000
-Class: ^777777Headgear^000000
-Defense: ^7777772^000000
-Location: ^777777Middle^000000
-Weight: ^77777720^000000
-Required Level: ^77777710^000000
-Jobs: ^777777All^000000
-#
-19409#
-A Box that contains 1 Sheep Hat
-Description:
-A hat that looks like
-a sheep's head that is
-so adorable, an enemy
-might change his mind
-about attacking. Reflects 5% physical damage.
-Impossible to Upgrade
-Cannot be Dropped,
-or Tradable
-Can be placed in Kafra Storage
-Class: ^777777Headgear^000000
-Defense: ^7777773^000000
-Location: ^777777Upper^000000
-Weight: ^77777715^000000
-Required Level: ^77777750^000000
-Jobs: ^777777Acolyte^000000
-Box Weight: ^7777771^000000
-#
-19410#
-A Box that contains 1 Charming Ribbon
-Description:
-A pretty red ribbon
-decorated with a pink
-heart in the middle.
-Reduce damage from
-Undead and Demon
-monsters by 5%.
-Cannot be Dropped,
-or Tradable
-Can be placed in Kafra Storage
-Class: ^777777Headgear^000000
-Defense: ^7777772^000000
-Location: ^777777Upper^000000
-Weight: ^77777740^000000
-Level Requirement: ^77777710^000000
-Jobs: ^777777All^000000
-Box Weight: ^7777771^000000
-#
-19411#
-A Box that contains 1 Parade Hat
-Description:
-A hat by those leading the way to celebrations.
-MDEF +2,
-Increases tolerance to Stun by 10%.
-When being physically attacked, has a chance of auto-casting Lv 5 Angelus or Lv 1 Assumptio on onself.
-If the user is an Acolyte, Priest , High Priest or Arch Bishop class, will auto-cast Lv 1 Lex Aeterna when using Heal Skill on an enemy.
-^ff0000This item can be traded, stored, and put into a cart^000000
-Class: ^777777Headgear^000000
-Location: ^777777Upper^000000
-Defense: ^7777774^000000
-Weight: ^77777720^000000
-Required Level: ^77777710^000000
-Jobs: ^777777All Classes^000000
-Box Weight: ^7777771^000000
-#
-19412#
-A Box that contains 1 Vacation Hat
-Description:
-A hat that's perfect
-for vacationing, and
-shields the wearer's
-face from UV rays.
-VIT	+1. Cannot
-be upgraded.
-Cannot be Dropped,
-or Tradable
-Can be placed in Kafra Storage
-Class: ^777777Headgear^000000
-Defense: ^7777772^000000
-Location: ^777777Upper^000000
-Weight: ^77777720^000000
-Required Level: ^77777730^000000
-Jobs: ^777777All^000000
-Box Weight: ^7777771^000000
-#
-19413#
-A Box that contains 1 Red Framed Glasses
-Description:
-A must-have item for
-those that care about
-appearances: it can
-increase your beauty
-threefold. Magic
-Defense +5.
-Impossible to Upgrade
-Cannot be Dropped,
-or Tradable
-Can be placed in Kafra Storage
-Class: ^777777Headgear^000000
-Defense: ^7777771^000000
-Location: ^777777Middle^000000
-Weight: ^77777710^000000
-Required Level: ^77777710^000000
-Jobs: ^777777All^000000
-Box Weight: ^7777771^000000
-#
-19414#
-A Box that contains 1 Evolved Pipe
-Description:
-Just say no.
-Especially if
-you're underage.
-VIT +1. Reduce
-damage from Brute
-class monsters by 5%.
-Cannot be traded or
-dropped, but can be
-placed in Kafra Storage.
-Impossible to Upgrade
-Class: ^777777Headgear^000000
-Defense: ^7777770^000000
-Location: ^777777Lower^000000
-Weight: ^77777710^000000
-Jobs: ^777777Novices
-can't smoke, but as
-for everyone else...^000000
-Box Weight: ^7777771^000000
 #
 19500#
 A simple mask with a smile carved into it.
@@ -85507,6 +84695,23 @@ Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
+20051#
+A signpost that declares its wearer's desire that people should stop whatever they are doing.
+Causes catastrophes during wedding ceremonies.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20052#
+A sign that says you are Away From your Keyboard. Whether or not you are telling the truth is another story.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
 20053#
 ^ff0000Cannot be traded.^000000
 Hat full of the most intelligent spirit of the white tiger.
@@ -85549,6 +84754,38 @@ Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
+20058#
+A headgear which symbolizes hot-blooded challenge and battle vigor.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20059#
+A durable mask made from a fat metal plate that is usually worn by welders and Blacksmiths.
+Class: ^777777Costume^000000
+Location: ^777777Middle, Lower^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20060#
+A durable safety helmet created to offer some protection from accidents.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20061#
+This mask marked with an ''X'' is a popular fashion item for bonafide street toughs.
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
 20062#
 Great weather phenomenon where light passes through the clouds. Looks like a ladder to angels.
 Class: ^777777Costume^000000
@@ -85575,6 +84812,22 @@ Weight :^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
+20065#
+An elaborate multi-colored headdress made from the feathers of a Grand Peco.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight :^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20066#
+A hairband with PecoPeco wings that lends you a PecoPeco's speed.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight :^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
 20067#
 ^ff0000Cannot be traded.^000000
 Hat full of the zodiac cute rabbit.
@@ -85589,6 +84842,14 @@ Jobs: ^777777All^000000
 ^ff0000Cannot be traded.^000000
 Hat full of the zodiac cute rabbit.
 That beautiful ears have, but doubles the bites of ticks.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20069#
+A costume made from wings of Gryphon.
 Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
@@ -85626,6 +84887,78 @@ Weight :^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
+20075#
+A soft feathered archer's cap that gives you that dash of Errol Flynn flair.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight :^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20076#
+Feather ears of Idun, wife of Bragi.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight :^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20077#
+Sunglasses with Wing frame on its side.
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Weight :^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20078#
+A berret decorated with white feather.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight :^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20079#
+A flapping wing of angel that long forgotten.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight :^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20080#
+A hair ornament with pink feathers of a Shaman.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight :^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20081#
+A costume that mimic the head of Dragon.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight :^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20082#
+Metal dragon that rest on your head.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight :^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20083#
+A hat that resemble Mythlit.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight :^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
 20084#
 Class: ^777777Costume^000000
 Location: ^777777Upper^000000
@@ -85643,7 +84976,7 @@ Jobs: ^777777All^000000
 20086#
 ^ff0000Cannot be traded.^000000
 Dragon is part of 12 chinese zodiacs.
-ºû³ª´Â ¿©ÀÇÁÖ¸¦ Ç°°í ÀÖ¾î ¼Ò¿øÀ» µé¾îÁÙ °Í ¸¸ °°´Ù.
+A shiny hat that resemble Dragon whose will grant any wish.
 Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
@@ -85653,7 +84986,35 @@ Jobs: ^777777All^000000
 20087#
 ^ff0000Cannot be traded.^000000
 Dragon is part of 12 chinese zodiacs.
-ºû³ª´Â ¿©ÀÇÁÖ¸¦ Ç°°í ÀÖ¾î ¼Ò¿øÀ» µé¾îÁÙ °Í ¸¸ °°´Ù.
+A shiny hat that resemble Dragon whose will grant any wish.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20088#
+^ff0000Cannot be traded.^000000
+Dragon is part of 12 chinese zodiacs.
+A shiny hat that resemble Dragon whose will grant any wish.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20089#
+^ff0000Cannot be traded.^000000
+Dragon is part of 12 chinese zodiacs.
+A shiny hat that resemble Dragon whose will grant any wish.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20090#
+A peculiar hat that makes it wearer look freshly hatched.
 Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
@@ -85733,6 +85094,14 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 20100#
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20101#
+Feather ear of Bragi, god of poem.
 Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
@@ -86034,6 +85403,24 @@ A fairy ears to celebrate 12 anniversary with sacred aura all over it.
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Middle^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20137#
+A wick-like ornament worn on top of the head for a dangerous look.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20138#
+A hat which looks like the face of a sea-otter.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -87199,6 +86586,106 @@ Jobs: ^777777All^000000
 #
 20274#
 A lovely 'Bear Hat' costume.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20277#
+A large knitted hat that can be used to conceal long hair.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20278#
+Look like a hunk o' burnin' love with this retro hairstyle wig.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20279#
+A whistle to cheer you up!
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Lower^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20280#
+A popular snack while taking tests.
+It makes one look more studious but, it's days may be numbered if it stays in somebody's mouth any longer.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Lower^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20281#
+A hat that protect child's head from sunlight.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20282#
+A hat given to standout student.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20283#
+Designed to protect the head tightly.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20284#
+A hat modeled after the shape of sakura petals.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20285#
+A fallen sakura petals that made into costume.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Lower^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20286#
+Only the bottom of glasses attached with frame, its cool and stylish.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Middle^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20287#
+A costume which mimic a man that always fighting his opponent.
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000

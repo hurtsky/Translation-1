@@ -1,0 +1,28 @@
+HatEFID = { HAT_EF_Blossom_Fluttering = 1 }
+hatEffectTable = {
+	[HatEFID.HAT_EF_Blossom_Fluttering] = { resourceFileName = "efst_blossom_fluttering\\sakura.str", hatEffectPos = -4 }
+}
+
+GetHatEfResName = function(index)
+	if hatEffectTable == nil then
+		return ""
+	else
+		local hatEfTbl = hatEffectTable[index]
+		if hatEfTbl ~= nil and hatEfTbl.resourceFileName ~= nil then
+			return hatEfTbl.resourceFileName
+		end
+		return ""
+	end
+end
+
+GetHatEfPos = function(index)
+	if hatEffectTable == nil then
+		return 0
+	else
+		local hatEfTbl = hatEffectTable[index]
+		if hatEfTbl ~= nil and hatEfTbl.hatEffectPos ~= nil then
+			return hatEfTbl.hatEffectPos
+		end
+		return 0
+	end
+end

@@ -2624,7 +2624,6 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 1157#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777220^000000
 #
 1158#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -3095,6 +3094,9 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 1322#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+1323#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 1351#
@@ -4164,87 +4166,66 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 1750#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.1^000000
 #
 1751#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.2^000000
 #
 1752#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.2^000000
 #
 1753#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.2^000000
 #
 1754#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.2^000000
 #
 1755#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.2^000000
 #
 1756#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.2^000000
 #
 1757#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.1^000000
 #
 1758#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.3^000000
 #
 1759#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.3^000000
 #
 1760#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.3^000000
 #
 1761#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.3^000000
 #
 1762#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.2^000000
 #
 1763#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.3^000000
 #
 1764#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.3^000000
 #
 1765#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.3^000000
 #
 1766#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.3^000000
 #
 1767#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.2^000000
 #
 1768#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.3^000000
 #
 1769#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.3^000000
 #
 1770#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.1^000000
 #
 1771#
 A throwing knife laced with toxin that can inflict the Poison effect to enemies.
@@ -4255,23 +4236,18 @@ Property: ^777777Neutral^000000
 #
 1772#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.2^000000
 #
 1773#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.1^000000
 #
 1774#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.1^000000
 #
 1775#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.1^000000
 #
 1776#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^7777770.1^000000
 #
 1800#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -4501,6 +4477,9 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 1936#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
+1937#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
 1938#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
@@ -4636,6 +4615,9 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 1991#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
+1992#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
 1994#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
@@ -4692,7 +4674,6 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2015#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777100^000000
 #
 2016#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -31546,8 +31527,8 @@ Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 12700#
-Common shirt turned inside out. Used to break Tikbalang¡¯s curse that makes people get lost.
-Can warp back to the ¡®Port Malaya¡¯ village when used directly.
+Common shirt turned inside out. Used to break Tikbalang's curse that makes people get lost.
+Can warp back to the 'Port Malaya' village when used directly.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -32216,24 +32197,64 @@ Weight: ^7777770^000000
 12872#
 #
 12873#
+^ff0000Cannot be traded.^000000
+Contains 10 TE White Slim Potion.
+^ff0000Warning: The contents can disappear if you exceed the weight limit or item quantity limit at the time this box is opened.^000000
+Weight: ^77777710^000000
 #
 12874#
+Developed by the Alchemy Union of the Three Countries, this new medicine endows superhuman strength, though it's only temporary.
+Instantly consumes 3,000 of your HP and in return, increases your Physical/Magic damage on player enemies by 100% for 10 seconds.
+Weight: ^77777710^000000
+Required level: ^77777780^000000
 #
 12875#
+Developed by the Alchemy Union of the Three Countries, Endows superhuman strength, though it's only temporary.
+Instantly consumes 300 of your SP  and in return, decreases 50% damage received from other adventurers for 10 seconds.
+Weight: ^7777771^000000
+Required level: ^77777780^000000
 #
 12876#
+The first-class pharmacist Vincent has created this potion.
+Endows superhuman strength, though it's only temporary.
+Instantly consumes 3,000 of your HP and in return, immunizes you against Stun for 10 seconds.
+Weight: ^7777771^000000
 #
 12877#
+The first-class pharmacist Vincent has created this potion.
+Endows superhuman strength, though it's only temporary.
+Instantly consumes 3,000 of your HP and in return, immunizes you against Petrification for 10 seconds.
+Weight: ^7777771^000000
 #
 12878#
+The first-class pharmacist Vincent has created this potion.
+Endows superhuman strength, though it's only temporary.
+Instantly consumes 3,000 of your HP and in return, immunizes you against Frost for 10 seconds.
+Weight: ^7777771^000000
 #
 12879#
+The first-class pharmacist Vincent has created this potion.
+Endows superhuman strength, though it's only temporary.
+Instantly consumes 3,000 of your HP and in return, immunizes you against Sleep for 10 seconds.
+Weight: ^7777771^000000
 #
 12880#
+The first-class pharmacist Vincent has created this potion.
+Endows superhuman strength, though it's only temporary.
+Instantly consumes 3,000 of your HP and in return, immunizes you against Curse for 10 seconds.
+Weight: ^7777771^000000
 #
 12881#
+The first-class pharmacist Vincent has created this potion.
+Endows superhuman strength, though it's only temporary.
+Instantly consumes 3,000 of your HP and in return, immunizes you against Silence for 10 seconds.
+Weight: ^7777771^000000
 #
 12882#
+The first-class pharmacist Vincent has created this potion.
+Endows superhuman strength, though it's only temporary.
+Instantly consumes 3,000 of your HP and in return, immunizes you against Blind for 10 seconds.
+Weight: ^7777771^000000
 #
 12883#
 #
@@ -32273,28 +32294,65 @@ The wings cut from fly to be made into enchanted item.
 Weight: ^7777770^000000
 #
 12888#
+^ff0000Cannot be traded.^000000
+This box randomly generates a variety of useful guild supplies.
+^ff0000Warning: The contents can disappear if you exceed the weight limit or item quantity limit at the time this box is opened.^000000
+Weight: ^77777710^000000
 #
 12889#
+One of the oldest known remains of the dwarven weapons craftsmanship.
+Contains a very powerful and is rumored to have a rare weapon.
+Weight: ^77777720^000000
 #
 12890#
+One of the oldest known remains of the dwarven weapons craftsmanship.
+Contains a very powerful and is rumored to have a rare weapon.
+Weight: ^77777720^000000
 #
 12891#
+One of the oldest known remains of the dwarven weapons craftsmanship.
+Contains a very powerful and is rumored to have a rare weapon.
+Weight: ^77777720^000000
 #
 12892#
+One of the oldest known remains of the dwarven weapons craftsmanship.
+Contains a very powerful and is rumored to have a rare weapon.
+Weight: ^77777720^000000
 #
 12893#
+One of the oldest known remains of the dwarven weapons craftsmanship.
+Contains a very powerful and is rumored to have a rare weapon.
+Weight: ^77777720^000000
 #
 12894#
+One of the oldest known remains of the dwarven weapons craftsmanship.
+Contains a very powerful and is rumored to have a rare weapon.
+Weight: ^77777720^000000
 #
 12895#
+One of the oldest known remains of the dwarven weapons craftsmanship.
+Contains a very powerful and is rumored to have a rare weapon.
+Weight: ^77777720^000000
 #
 12896#
+One of the oldest known remains of the dwarven weapons craftsmanship.
+Contains a very powerful and is rumored to have a rare weapon.
+Weight: ^77777720^000000
 #
 12897#
+One of the oldest known remains of the dwarven weapons craftsmanship.
+Contains a very powerful and is rumored to have a rare weapon.
+Weight: ^77777720^000000
 #
 12898#
+One of the oldest known remains of the dwarven weapons craftsmanship.
+Contains a very powerful and is rumored to have a rare weapon.
+Weight: ^77777720^000000
 #
 12899#
+One of the oldest known remains of the dwarven weapons craftsmanship.
+Contains a very powerful and is rumored to have a rare weapon.
+Weight: ^77777720^000000
 #
 12900#
 A box that contains
@@ -33613,36 +33671,13 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 13108#
-A Pistol made for short and medium ranged battles against Demihumans.
-It seems to be capable of doing damage even through a bulletproof vest.
-DEX +2, Accuracy -10
-Increases Physical Attack Strength towards Demihuman monsters by 55%.
-Ignores Physical Defense from Demihuman monsters by 20%.
-Increases ASPD by 100% for 3 secs. Delay after attacking reduces by 100%
-duration when attacking and synchronizing the weapon by a certain rate.
-Indestructible.
-Class: ^777777Pistol^000000
-Attack: ^77777770^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777773^000000
-Required Level: ^77777780^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 13109#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 13110#
-Increases Physical Attack Strength to Demihuman monster by 55%..
-Ignores physical defense from Demihuman monster by 20%.
-Indestructible.
-¡Ø Additional Weapon Refining Level Option
-+6 Refining
-5% increase in ignoring Defense of Demihuman monster
-^ff0000[Slaughter]^000000 Lv 1(but,increase in damage by slaughter option applies refinement up to +14)
-+9 Refining
-When using [Rapid Shower]skill, auto-spell [Flip] is activated.
-Damage increases as much as the value of [Rapid Shower] skill's weapon Refining Degree X 2%
-Class: ^777777Revolver^000000
-Attack: ^77777780^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 13111#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -33658,12 +33693,12 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 13115#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777750^000000
 #
 13116#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 13117#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 13118#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -34413,50 +34448,13 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 13305#
-Huuma Shuriken that holds great strength and brings extraordinary power in battles against Demihumans.
-STR +2, DEX +1
-Increases Physical Attack Strength towards Demihuman monsters by 95%.
-Ignores Physical Defense from Demihuman monsters by 20%.
-Indestructible.
-Class: ^777777Huuma^000000
-Attack: ^77777755^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777773^000000
-Required Level: ^77777780^000000
-Jobs: ^777777Ninja^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 13306#
-Huuma Shuriken that holds great strength and brings extraordinary power in battles against Demihumans.
-STR +2, DEX +1
-Increases Physical Attack Strength towards Demihuman monsters by 95%.
-Increases Attack Strength in Throw Huuma Shuriken skill and Killing Stroke skill by 100% for a 10 sec. duration when attacking and synchronizing the weapon by a certain rate.
-Indestructible.
-Class: ^777777Huuma^000000
-Attack: ^77777755^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777773^000000
-Required Level: ^77777780^000000
-Jobs: ^777777Ninja^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 13307#
-Increases Physical Attack Strength to Demihuman monster by 95%..
-Ignores physical defense from Demihuman monster by 20%.
-MATK +90
-Increase damage by 100% of [Throw Huuma Shuriken] and [Killing Strike] for 10 sec. when attacking and synchronizing the weapon by 5%
-Indestructible.
-¡Ø Additional Weapon Refining Level Option
-+6 Refining
-5% increase in ignoring Defense of Demihuman monster
-^ff0000[Slaughter]^000000 Lv 2(but,increase in damage by slaughter option applies refinement up to +14)
-+9 Refining
-When using [Killing Strike], auto-spell [Heal] Lv.10 is activated to itself
-When using [Throw Huuma Shuriken], [Fatal Wound] Lv.2 is inflicted to the enemay at a certain.
-Class: ^777777Huuma^000000
-Attack: ^77777755^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777774^000000
-Required Level: ^77777780^000000
-Jobs: ^777777Ninja^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 13308#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -43949,7 +43947,6 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 16019#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^77777780^000000
 #
 16020#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -50915,218 +50912,8 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 18997#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
-19001#
-A box that contains 1 Classic Apple of Archer 2 Week Rental
-Description:
-^000088Rental Item^000000
-A headgear made in
-honor of the legendary
-archer known for shooting an apple perched on
-a friend's head from
-a great distance.
-DEX +4
-This item cannot be Dropped or Traded.
-Class: ^777777Headgear^000000
-Defense: ^77777712^000000
-Location: ^777777Upper^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All Except Novice^000000
-#
-19002#
-A box that contains 1 Classic Asura 2 Week Rental
-Description:
-^000088Rental Item^000000
-A legendary dagger
-that is said to have
-been given to mankind by the gods.
-MATK +98.
-This item cannot be Dropped or Traded.
-Class: ^777777Dagger^000000
-Attack: ^777777120^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777771^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Ninja^000000
-#
-19003#
-A box that contains 1 Classic Rudra Bow 2 Week Rental
-Description:
-^000088Rental Item^000000
-A bow imbued with the
-sacred essense of Rudra, one of the ancient gods.
-Adds 50% tolerance to the Poison, Curse, Silence,
-Chaos and Blind statuses. Enables the use of
-^008800Level 1 Heal^000000 and
-^008800Level 1 Cure^000000. INT +5
-This item cannot be Dropped or Traded.
-Class: ^777777Bow^000000
-Attack: ^777777185^000000
-Weight: ^7777770^000000
-Property: ^777777Holy^000000
-Weapon Level: ^7777774^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Archer Class;
-Rogue^000000
-#
-19004#
-A box that contains 1 Classic Brooch 2 Week Rental
-Description:
-^000088Rental Item^000000
-An ancient brooch.
-AGI +4
-This item cannot be Dropped or Traded.
-Class: ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All Except Novice^000000
-#
-19005#
-A box that contains 1 Classic Bunny Band 2 Week Rental
-Description:
-^000088Rental Item^000000
-A hairband that gives
-one the appearance of
-having rabbit ears,
-a lasting symbol of
-extremely good luck.
-Reduces damage from
-Demihuman monsters
-by 10%. MDEF +5
-This item cannot be Dropped or Traded.
-Class: ^777777Headgear^000000
-Defense: ^77777713^000000
-Location: ^777777Upper^000000
-Weight: ^7777770^000000
-Jobs: ^777777All^000000
-#
-19006#
-A box that contains 1 Classic Combat Knife 2 Week Rental
-Description:
-^000088Rental Item^000000
-A military combat
-knife designed for
-killing humanoids.
-Reduces damage from and increases tolerance to
-Demihuman monsters
-by 10%, but increases
-damage inflicted by
-Devil monsters by 10%.
-Restores 3 SP when
-hitting a monster.
-MaxSP +10%.
-Class: ^777777Dagger^000000
-Attack: ^777777129^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777774^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Swordman, Merchant, Thief Classes; Soul
-Linker and Ninja^000000
-#
-19007#
-A box that contains 1 Classic Counter Dagger 2 Week Rental
-Description:
-^000088Rental Item^000000
-A dagger that has
-a high chance of
-inflicting critical
-damage to its target.
-CRIT +90%
-This item cannot be Dropped or Traded.
-Class: ^777777Dagger^000000
-Attack: ^777777209^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777774^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Mage Class,
-Soul Linker Job^000000
-#
-19008#
-A box that contains 1 Classic Critical Ring 2 Week Rental
-Description:
-^000088Rental Item^000000
-An esoteric ring that
-enables its wearer to amplify his hidden powers.
-CRIT +10%
-This item cannot be Dropped or Traded.
-Class: ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All Except Novice^000000
-#
-19009#
-A box that contains 1 Classic Cutlas 2 Week Rental
-Description:
-^000088Rental Item^000000
-A one-handed sword
-popularized by its use
-by sea adventurers.
-Enables use of
-^008800Level 5 Bash^000000.
-STR +2
-DEF +1
-This item cannot be Dropped or Traded.
-Class: ^777777One-Handed Sword^000000
-Attack: ^777777185^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777774^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Swordman,
-Merchant, and
-Thief Classes^000000
-#
-19010#
-A box that contains 1 Classic Sage Diary 2 Week Rental
-Description:
-^000088Rental Item^000000
-The diary of a great
-sage that was published without him ever knowing.
-MATK +140, Increases
-ASPD by 5%
-This item cannot be Dropped or Traded.
-Class: ^777777Book^000000
-Attack: ^777777135^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777773^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Priest, Sage,
-Star Gladiator^000000
-#
-19011#
-A box that contains 1 Classic Earring 2 Week Rental
-Description:
-^000088Rental Item^000000
-An ancient earring.
-INT +3
-This item cannot be Dropped or Traded.
-Class: ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All Except Novice^000000
-#
 19012#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-#
-19013#
-A box that contains 1 Classic Executioner 2 Week Rental
-Description:
-^000088Rental Item^000000
-A gruesome sword used
-to behead criminals judged with the death penalty.
-Pierces Defense of
-Demihuman monsters.
-Increases damage inflicted on Demihuman monsters by 20%, but increases damage received by Demihuman monsters by 10%.
-This item cannot be Dropped or Traded.
-Class: ^777777Two-Handed Sword^000000
-Attack: ^777777190^000000
-Weight: ^7777770^000000
-Property: ^777777Shadow^000000
-Weapon Level: ^7777774^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Swordman^000000
 #
 19014#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -51158,38 +50945,6 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 19030#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
-19031#
-A box that contains:
-^000088Rental Item^000000
-^6A5ACD1 Unholy Touch^000000
-Duration: 2 Weeks after opening.
-^000088Rental Item^000000
-When dealing a melee physical attack there is a 50% chance to cause [Blind] status on the opponent.
-Class: ^777777Katar^000000
-Attack: ^777777179^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777774^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Assassin^000000
-Box Weight: ^7777770^000000
-#
-19032#
-A box that contains:
-^000088Rental Item^000000
-^6A5ACD1 Whip of Balance^000000
-Duration: 2 Weeks after opening.
-^000088Rental Item^000000
-A balance is attached at the tip of the whip. Anyone who gets a hit by this whip is knocked back.
-AGI +2, DEX +3
-Additional 2 cells and 3 cells of knock back effect is added to the use of Throw Arrow and Arrow Vulcan skills respectively.
-Class: ^777777Whip^000000
-Attack: ^777777110^000000
-Weight: ^77777770^000000
-Weapon Level: ^7777773^000000
-Required Level: ^77777770^000000
-Jobs: ^777777Dancer^000000
-Box Weight: ^7777770^000000
-#
 19033#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
@@ -51198,17 +50953,6 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 19035#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-#
-19036#
-^CC0000This Rental Armor is not Tradable^000000
-Shoes that offer similar effect as a Sohee Carded +6 Shoes
-+15% SP +3% SP recovery
-^CC0000This item is not Refinable^000000
-Class: ^777777Footgear^000000
-Def ^7777776^000000
-Weight: ^77777740^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All^000000
 #
 19037#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -51245,265 +50989,6 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 19053#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-#
-19101#
-A box that contains 1 Classic Omni Clothing Dye Coupon
-Description:
-If you give this coupon to the NPC, she will dye your costume.
-^ffffff_^000000
-Weight: ^7777770^000000
-#
-19102#
-A box that contains 1 Classic Headgear Dye Coupon
-Description:
-Various colors are mixed into this mysterious dye. It is a primary ingredient for dying certain headgears.
-Weight: ^7777771^000000
-#
-19103#
-A box that contains 1 Classic New Hairstyle Coupon
-Description:
-This coupon can be exchanged, along with the required materials, to a hair dresser to change your hairstyle.
-^ffffff_^000000
-Weight: ^7777770^000000
-#
-19104#
-A box that contains 1 Classic Max Weight up Scroll
-Description:
-A Gym Pass that can be
-given to a special
-NPC to learn a skill
-that will increase your Maximum Weight
-Capacity by 200 for
-each skill level.
-This special skill
-can only be learned
-up to Level 10.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-19105#
-A box that contains 10 Classic Max Weight up Scroll
-Description:
-A Gym Pass that can be
-given to a special
-NPC to learn a skill
-that will increase your Maximum Weight
-Capacity by 200 for
-each skill level.
-This special skill
-can only be learned
-up to Level 10.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-19106#
-A box that contains 1 Classic Marriage License
-Description:
-This written oath professes undying love, loyalty, and union.
-Forever in life, and eternally beyond death.
-^ffffff_^000000
-Cannot be Dropped or Traded.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-19107#
-A box that contains 10 Classic Enriched Oridecon
-Description:
-Dense Oridecon
-that has been buried
-deep underground.
-Used as a material to
-strengthen weapons.
-Enhances a chance of
-successful upgrade.
-Only Suhnbi of Payon is
-capable of refining with
-this material.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-19108#
-A box that contains 10 Classic Enriched Elunium
-Description:
-Concentrated Elunium
-that has been buried
-deep underground.
-Used as a material
-to strengthen armor.
-Enhances a chance of
-successful upgrade.
-Only Suhnbi of Payon is
-capable of refining with
-this material.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-19109#
-A box that contains 1 Classic Magical Stone
-Description:
-This item is used to access various Services.
-Weight: ^7777770^000000
-#
-19110#
-A box that contains:Neuralizer^000000
-Pressing the button
-on this stick will
-flash blinding light
-that seems to cause
-memory loss. Resets
-the Skill Tree and
-gives the corresponding number of Skill Points.
-This item can only be
-used in town, and the
-character must carry
-0 weight, and cannot be equipped with a Pushcart,
-Falcon, or PecoPeco.
-Cannot be used by
-Novice Class.
-^ffffff_^000000
-Weight: ^7777770^000000
-Box Weight: ^7777770^000000
-#
-19111#
-^00CC00A Tradable Box that contains 10 Dungeon Teleport Scroll 1s^000000
-A scroll on which
-many dungeon map
-coordinates have
-been recorded.
-If you tear it up,
-it can transport you
-once to Nogg Road,
-Mjolnir Dead Pit,
-Payon Dungeon, Toy
-Dungeon, Glast Heim
-Dungeon, Hermit's
-Checkers, Izlude
-Dungeon, Turtle
-Island Dungeon,
-Clock Tower B3F,
-Clock Tower 3F,
-Glast Heim Culvert 2F,
-Sphinx Dungeon 4F,
-Inside Pyramid 4F,
-Prontera Culvert 3F,
-Amatsu Dungeon 1F
-(Tatami Maze),
-Ancient Shrine 2F.
-Warning - After using it, unless you choose the destination in 1 minute,
-it will be useless.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-19201#
-A box that contains 10 Classic Battle Manual
-Description:
-This well written,
-detailed manual
-explains effective
-battle methods.
-^000088EXP rate increases to^000000
-^000088150% for 30 minutes.^000000
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-19202#
-A box that contains 10 Classic Bubble Gum
-Description:
-Sweet, tasty bubble
-gum. Item drop rate
-increases by 100%
-for 30 minutes.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-19203#
-A box that contains 10 Classic Rune Butterfly Wing
-Description:
-An enchanted butterfly's wing that instantly sends its user to the towns of the Rune Midgarts Kingdom.
-Locations: "Prontera", "Geffen", "Payon", "Morroc", "Al De Baran" or "Alberta" when waved in the air.
-Warning: If no town is selected, the item will disappear.
-Weight: ^7777771^000000
-#
-19204#
-A box that contains 50 Classic Giant Flywing
-Description:
-An enchanted, giant
-wing from an ancient
-creatures. Enables
-instant teleportation
-of many people when used by a Party Master.
-^ffffff_^000000
-This item can be traded and put into storage.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-19205#
-A box that contains 10 Classic Kafra Card
-Description:
-A Kafra name card
-issued by the Kafra
-Headquarters. Using
-this card will call up
-the Kafra Service.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-19206#
-A box that contains 10 Classic Insurance
-Description:
-A life insurance
-certificate issued
-by Kafra Headquarters.
-This item loses its
-effect once the player
-receives its benefit.
-If the character dies
-within 30 minutes
-after using this item,
-there will be no
-EXP loss penalty.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-19207#
-A box that contains 10 Classic Token of Siegfried
-Description:
-A certificate imbued
-with the power of the
-invulnerable Siegfried
-which allows its bearer to overcome death.
-Revives the dead
-character.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-19208#
-A box that contains 10 Classic Small Life Potion
-Description:
-A small bottle of
-Yggdrasil Tree Sap
-that is effective in
-healing wounds.
-Restores an amount of
-HP equal of 5% of your
-MaxHP every 5 seconds for a 10 minute duration.
-If you are incapacitated,
-the item effect will disappear.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-19209#
-A box that contains 500 Classic Giant Flywing
-Description:
-An enchanted, giant
-wing from an ancient
-creatures. Enables
-instant teleportation
-of many people when used by a Party Master.
-^ffffff_^000000
-This item can be traded and put into storage.
-^ffffff_^000000
-Weight: ^7777771^000000
 #
 19377#
 A marinated beef dish
@@ -51680,280 +51165,6 @@ flavor gives one the
 sensation of flight.
 VIT +9
 Weight: ^777777100^000000
-#
-19401#
-A box that contains 1 Classic Alice Doll
-Description:
-A hat adorned with an
-Alice doll. When worn,
-it seems like Alice is
-cheering you on from
-the top of your head.
-''Be strong, master!''
-+10% damage against
-Demihuman monsters,
-and has low chance of
-casting Sleep on
-its wearer.
-STR +1.
-Unrefineable.
-Cannot be Dropped,
-or Tradable
-Can be placed in Kafra Storage
-Class: ^777777Headgear^000000
-Defense: ^7777771^000000
-Location: ^777777Upper^000000
-Weight: ^77777750^000000
-Level Requirement: ^77777730^000000
-Jobs: ^777777Every
-Job except Novice^000000
-#
-19402#
-A box that contains 1 Classic Chick Hat
-Description:
-A hat adorned with a
-cute chick that brings
-feelings of joy to those that see it hopping.
-Adds 3% resistance to
-Demihuman and Animal
-Class monsters. Cannot
-be upgraded. Enables
-Lv. 2 Double Attack.
-MaxHP and SP +50
-Cannot be Dropped,
-or Tradable
-Can be placed in Kafra Storage
-Class: ^777777Headgear^000000
-Defense: ^7777772^000000
-Location: ^777777Upper^000000
-Weight: ^77777710^000000
-Required Level: ^77777710^000000
-Jobs: ^777777All^000000
-#
-19403#
-A box that contains 1 Classic Drooping Bunny
-Description:
-#
-19404#
-A box that contains 1 Classic Kettle Hat
-Description:
-A sturdy pot worn on
-the head that overflows with water if shaken.
-Has a chance of auto-
-casting Lv.2 Deluge
-or Lv.3 Waterball
-with each attack.
-Cannot be Dropped,
-or Tradable
-Can be placed in Kafra Storage
-Class: ^777777Headgear^000000
-Defense: ^7777778^000000
-Location: ^777777Upper^000000
-Weight: ^77777760^000000
-Required Level: ^77777730^000000
-Jobs: ^777777All^000000
-#
-19405#
-A box that contains 1 Classic Mini Propeller Hat
-Description:
-This hat makes the
-wearer feel as if he
-is floating on air.
-AGI +2, DEX +1,
-Dodge +10. This
-headgear's
-upgrade level affects
-the percentage of
-Cast Time reduction.
-Cannot be Dropped,
-or Tradable
-Can be placed in Kafra Storage
-Class: ^777777Headgear^000000
-Defense: ^7777774^000000
-Location: ^777777Upper^000000
-Weight: ^77777720^000000
-Jobs: ^777777All^000000
-#
-19406#
-A box that contains 1 Classic Pecopeco Hairband
-Description:
-A hairband with
-PecoPeco wings that
-lends you a PecoPeco's
-speed. Increases
-Movement Speed,
-Decreases ASPD by 10%,
-(After attack delay decreases by 5%)
-and increases
-Variable Cast Time by 25%.
-Cannot be Dropped,
-or Traded,
-Can be placed in Kafra Storage
-Class: ^777777Headgear^000000
-Defense: ^7777776^000000
-Location: ^777777Upper^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All^000000
-#
-19407#
-A box that contains 1 Classic Ramen Hat
-Description:
-Delicious noodles
-worn on the head that
-can be eaten when food
-is especially scarce.
-There's nothing like
-a good bowl of ramen.
-Nothing. DEX +4.
-Unrefineable.
-Has a chance to
-auto-cast Lv.1 DEX -
-Decrease each
-time the wearer
-is attacked.
-Cannot be Dropped,
-or Tradable
-Can be placed in Kafra Storage
-Class: ^777777Headgear^000000
-Defense: ^7777773^000000
-Location: ^777777Upper^000000
-Weight: ^77777750^000000
-Required Level: ^77777730^000000
-Jobs: ^777777All^000000
-#
-19408#
-A box that contains 1 Classic Robo Eye
-Description:
-A weird item that spreads a strange-shaped beam around the eyes. It seems to have been made in outer space.
-ATK, MATK +2%, DEX +1
-^ff0000this item is account bound^000000
-Class: ^777777Headgear^000000
-Defense: ^7777772^000000
-Location: ^777777Middle^000000
-Weight: ^77777720^000000
-Required Level: ^77777710^000000
-Jobs: ^777777All^000000
-#
-19409#
-A Box that contains 1 Sheep Hat
-Description:
-A hat that looks like
-a sheep's head that is
-so adorable, an enemy
-might change his mind
-about attacking. Reflects 5% physical damage.
-Impossible to Upgrade
-Cannot be Dropped,
-or Tradable
-Can be placed in Kafra Storage
-Class: ^777777Headgear^000000
-Defense: ^7777773^000000
-Location: ^777777Upper^000000
-Weight: ^77777715^000000
-Required Level: ^77777750^000000
-Jobs: ^777777Acolyte^000000
-Box Weight: ^7777771^000000
-#
-19410#
-A Box that contains 1 Charming Ribbon
-Description:
-A pretty red ribbon
-decorated with a pink
-heart in the middle.
-Reduce damage from
-Undead and Demon
-monsters by 5%.
-Cannot be Dropped,
-or Tradable
-Can be placed in Kafra Storage
-Class: ^777777Headgear^000000
-Defense: ^7777772^000000
-Location: ^777777Upper^000000
-Weight: ^77777740^000000
-Level Requirement: ^77777710^000000
-Jobs: ^777777All^000000
-Box Weight: ^7777771^000000
-#
-19411#
-A Box that contains 1 Parade Hat
-Description:
-A hat by those leading the way to celebrations.
-MDEF +2,
-Increases tolerance to Stun by 10%.
-When being physically attacked, has a chance of auto-casting Lv 5 Angelus or Lv 1 Assumptio on onself.
-If the user is an Acolyte, Priest , High Priest or Arch Bishop class, will auto-cast Lv 1 Lex Aeterna when using Heal Skill on an enemy.
-^ff0000This item can be traded, stored, and put into a cart^000000
-Class: ^777777Headgear^000000
-Location: ^777777Upper^000000
-Defense: ^7777774^000000
-Weight: ^77777720^000000
-Required Level: ^77777710^000000
-Jobs: ^777777All Classes^000000
-Box Weight: ^7777771^000000
-#
-19412#
-A Box that contains 1 Vacation Hat
-Description:
-A hat that's perfect
-for vacationing, and
-shields the wearer's
-face from UV rays.
-VIT	+1. Cannot
-be upgraded.
-Cannot be Dropped,
-or Tradable
-Can be placed in Kafra Storage
-Class: ^777777Headgear^000000
-Defense: ^7777772^000000
-Location: ^777777Upper^000000
-Weight: ^77777720^000000
-Required Level: ^77777730^000000
-Jobs: ^777777All^000000
-Box Weight: ^7777771^000000
-#
-19413#
-A Box that contains 1 Red Framed Glasses
-Description:
-A must-have item for
-those that care about
-appearances: it can
-increase your beauty
-threefold. Magic
-Defense +5.
-Impossible to Upgrade
-Cannot be Dropped,
-or Tradable
-Can be placed in Kafra Storage
-Class: ^777777Headgear^000000
-Defense: ^7777771^000000
-Location: ^777777Middle^000000
-Weight: ^77777710^000000
-Required Level: ^77777710^000000
-Jobs: ^777777All^000000
-Box Weight: ^7777771^000000
-#
-19414#
-A Box that contains 1 Evolved Pipe
-Description:
-Just say no.
-Especially if
-you're underage.
-VIT +1. Reduce
-damage from Brute
-class monsters by 5%.
-Cannot be traded or
-dropped, but can be
-placed in Kafra Storage.
-Impossible to Upgrade
-Class: ^777777Headgear^000000
-Defense: ^7777770^000000
-Location: ^777777Lower^000000
-Weight: ^77777710^000000
-Jobs: ^777777Novices
-can't smoke, but as
-for everyone else...^000000
-Box Weight: ^7777771^000000
 #
 19500#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -53494,6 +52705,12 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 20050#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
+20051#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20052#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
 20053#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
@@ -53509,6 +52726,18 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 20057#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
+20058#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20059#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20060#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20061#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
 20062#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
@@ -53518,10 +52747,19 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 20064#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
+20065#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20066#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
 20067#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 20068#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20069#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 20070#
@@ -53536,6 +52774,33 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 20074#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
+20075#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20076#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20077#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20078#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20079#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20080#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20081#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20082#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20083#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
 20084#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
@@ -53546,6 +52811,15 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 20087#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20088#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20089#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20090#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 20091#
@@ -53576,6 +52850,9 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 20100#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20101#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 20102#
@@ -53681,6 +52958,12 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 20136#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20137#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20138#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 20139#
@@ -54085,6 +53368,39 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 20274#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
+20277#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20278#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20279#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20280#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20281#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20282#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20283#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20284#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20285#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20286#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20287#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
 20292#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
@@ -54234,7 +53550,6 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 21000#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-Weight: ^777777150^000000
 #
 21001#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
