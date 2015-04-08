@@ -20230,6 +20230,11 @@ Weight: ^7777770^000000
 A special token received from Prontera Castle.
 Weight: ^7777770^000000
 #
+6920#
+^ff0000Cannot be traded.^000000
+A mysterious powder that has rune power, it can grant enchanted spell.
+Weight: ^7777771^000000
+#
 6921#
 Leave in damp place to removes moisture from the air.
 Weight: ^7777771^000000
@@ -53399,6 +53404,9 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 20287#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20288#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 20292#

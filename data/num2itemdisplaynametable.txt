@@ -4647,6 +4647,7 @@
 6916#Piece_Of_Soul_Monkey#
 6917#Piece_Of_Soul_Chicken#
 6919#Proof_of_Honor#
+6920#Rune_Magic_Powder#
 6921#Dehumidifier#
 6922#Sandpaper#
 6923#Bright_Light#
@@ -9905,7 +9906,7 @@
 18770#Hat#
 18771#Mask#
 18772#Glasses#
-18773#Headgear#
+18773#Helm#
 18774#Mask#
 18775#Mask#
 18776#Hairband#
@@ -10879,6 +10880,7 @@
 20285#Flower#
 20286#Glasses#
 20287#Hat#
+20288#Hat#
 20292#Hat#
 20500#Garment#
 20700#Garment#
