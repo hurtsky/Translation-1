@@ -2761,3 +2761,38 @@ Record#
 %s [%d Property] %d -> %s %s#
 %s [%d Property] %s %s#
 The minimum trading unit must be 100 crackers or more.#
+Hair color#
+Hair style#
+Cloth color#
+Cloth look#
+Unsupported Map.#
+Enter Zeny Below 2,147,483,647.#
+Please Enter atleast 1 zeny.#
+You do not hold any zeny.#
+Zeny Storage#
+Storage Holdings#
+Funds#
+Deposit#
+Withdraw#
+1 z UP#
+1 z Down#
+Max#
+There is no Input value#
+You don't have enough zeny#
+Input Required#
+Cannot input character#
+Exceeded Maximum input#
+Below Minimum Input#
+Shortage to hold Zeny#
+Insufficient Bank Funds#
+Exceeds Maximum Zeny#
+Drop X#
+Storage X#
+Cart X#
+Mail X#
+Trade X#
+Auction X#
+Guild Storage X#
+Sell to NPC X#
+Restricted Items should be moved.#
+Please Create a Character!#
