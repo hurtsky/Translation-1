@@ -421,7 +421,7 @@ Weight: ^77777710^000000
 A freshly scented, thorny fruit from a tree.
 ^000088Restore a small amount of HP and SP^000000.
 ^ffffff_^000000
-Weight: ^7777774^000000
+Weight: ^7777776^000000
 #
 577#
 Dried grains that are commonly used in the cuisines of many countries.
@@ -2843,7 +2843,7 @@ Jobs: ^777777Swordman, Merchant and Thief^000000
 #
 1140#
 A giant one-handed sword used by ancient Korean war generals.
-Increase damage inflicted on boss monsters by 5%.
+Increase damage inflicted on boss monsters by 50%.
 Increase damage received from normal monsters by 10%.
 All Stats +2
 Class: ^777777One-Handed Sword^000000
@@ -3258,7 +3258,7 @@ Jobs: ^777777Swordman^000000
 This is known as the sword of a brave man from the orient.
 Perfect Dodge +10.
 If player is Job Level 70 (If player is a Rune Knight job level needs to be 50) has a chance of receiving ATK +50 for 10 seconds when physically attacked.
-If upgrade level is +9, skill cast time and after-casting delay decreases by 20%.
+If upgrade level is +9, Reduces SP cost of skills by 20% and reduces skill usage delay by 20%.
 Class: ^777777Two-Handed Sword^000000
 Attack: ^777777250^000000
 Weight: ^777777200^000000
@@ -3864,7 +3864,7 @@ Jobs: ^777777Mage and Soul Linker^000000
 A dagger that has a high chance to do critical damage to a target.
 Increases critical rate.
 Class: ^777777Dagger^000000
-Attack: ^77777775^000000
+Attack: ^777777140^000000
 Weight: ^77777755^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777755^000000
@@ -6596,11 +6596,9 @@ Jobs: ^777777Priest and Monk^000000
 A facsimile of the mighty hammer wielded by Thor, god of thunder.
 Increases ASPD.
 DEX +50, STR +20
-^ffffff_^000000
+Adds a low chance of auto-casting Thunderstorm while attacking.
 ^FF0000Cannot be traded.^000000
-^ffffff_^000000
 Class: ^777777Mace^000000
-Property: ^4cbb17Wind^000000
 Attack: ^777777350^000000
 Weight: ^777777600^000000
 Weapon Level: ^7777774^000000
@@ -7803,11 +7801,10 @@ MATK +32
 Unrefineable.
 Class: ^777777One-Handed Staff^000000
 Attack: ^77777715^000000
-Weight: ^77777740^000000
+Weight: ^7777770^000000
 Weapon Level: ^7777771^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Novice, Mage,
-Acolyte Classes, and Soul Linker^000000
+Jobs: ^777777Novice, Mage, Acolyte and Soul Linker^000000
 #
 1640#
 MATK +135
@@ -8685,8 +8682,8 @@ is mostly used for
 small game hunting.
 Unrefineable.
 Class: ^777777Bow^000000
-Attack: ^77777729^000000
-Weight: ^77777760^000000
+Attack: ^77777749^000000
+Weight: ^7777770^000000
 Weapon Level: ^7777771^000000
 Required Level: ^7777774^000000
 Jobs: ^777777Archer Class;
@@ -9736,7 +9733,7 @@ Attack: ^777777130^000000
 Weight: ^777777150^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777770^000000
-Jobs: ^777777Minstrel^000000
+Jobs: ^777777Clown^000000
 #
 1920#
 When musicians
@@ -9760,7 +9757,7 @@ Attack: ^77777710^000000
 Weight: ^777777180^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777770^000000
-Jobs: ^777777Minstrel^000000
+Jobs: ^777777Clown^000000
 #
 1921#
 The adventurers who are brave the item which is provided from the hazard adventurer guild.
@@ -9826,7 +9823,7 @@ Attack: ^777777110^000000
 Weight: ^77777770^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777770^000000
-Jobs: ^777777Minstrel^000000
+Jobs: ^777777Clown^000000
 #
 1926#
 A harp with its strings made from the tentacles of Nepenthes.
@@ -9838,7 +9835,7 @@ Attack: ^777777120^000000
 Weight: ^777777100^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777760^000000
-Jobs: ^777777Minstrel, Gypsy, Maestro, Wanderer^000000
+Jobs: ^777777Clown and Gypsy^000000
 #
 1927#
 Physical Attack Strength to Demihuman monsters +95%.
@@ -9978,7 +9975,7 @@ Attack: ^777777150^000000
 Weight: ^77777750^000000
 Weapon Level: ^7777774^000000
 Required Level: ^777777100^000000
-Jobs: ^777777Minstrel Class^000000
+Jobs: ^777777Minstrel^000000
 #
 1939#
 Violin with red light radiance.
@@ -9989,7 +9986,7 @@ Attack: ^77777780^000000
 Weight: ^77777780^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777770^000000
-Jobs: ^777777Bard class^000000
+Jobs: ^777777Bard^000000
 #
 1940#
 A flute made from a large shell.
@@ -10802,7 +10799,7 @@ Jobs: ^777777Magician, Acolyte, Soul Linker^000000
 MATK +220
 Increases magic attack damage to enemy players by 25% and bypasses 25% Mdef.
 If refined to +6 or higher, increases magic attack damage done to enemy players by 15%.
-If refined to +9 or higher, reduces variable cast time by 20% and fixed cast time by 0.2 second.
+If refined to +9 or higher, reduces variable cast time by 50% and fixed cast time by 0.2 second.
 Class: ^777777Two-Handed Staff^000000
 Attack: ^777777110^000000
 Weight: ^77777780^000000
@@ -11726,7 +11723,7 @@ It's now endowed with greater power.
 VIT +20, MDEF +10.
 -30% damage received from all type monsters.
 When you receive Melee Physical damage, this item creates a chance of casting Protective Light for 60 seconds.
-Protective Light immediately cancels Stun, Sleep, Curse, Petrification, Poison, Blind, Silence, Bleeding, Chaos, and Frost, and protects the user against such effects for a set duration.
+Protective Light immediately cancels Stun, Sleep, Curse, Stone Curse, Poison, Blind, Silence, Bleeding, Chaos, and Frost, and protects the user against such effects for a set duration.
 Unrefineable.
 Indestructible.
 Class: ^777777Shield^000000
@@ -13816,8 +13813,7 @@ LUK +5 , MDEF +10
 Class: ^777777Footgear^000000
 Defense: ^7777775^000000
 Weight: ^77777710^000000
-Jobs: ^777777Female Only
-All except Novice^000000
+Jobs: ^777777All except Novice^000000
 #
 2408#
 These steel shackles were clamped on the ankles to prevent some prisoner from escaping.
@@ -13837,9 +13833,9 @@ Jobs: ^777777All except Novice^000000
 2410#
 Named after Odin's trusty steed, these shoes also mimic Sleipnir's powers.
 Increase movement speed.
-SP Recovery +15%
-MaxHP/SP +10%
-MDEF +10
+SP Recovery +15%,
+MaxHP/SP +20%,
+MDEF +10, INT +25
 Class: ^777777Footgear^000000
 Defense: ^77777740^000000
 Weight: ^777777350^000000
@@ -14115,7 +14111,7 @@ MaxHP +6%.
 Class: ^777777Footgear^000000
 Defense: ^77777715^000000
 Weight: ^77777725^000000
-Jobs: ^777777Above Transcendent 2-1 Classes^000000
+Jobs: ^777777Transcendent 2nd Classes^000000
 #
 2434#
 A pair of boots made of light, resilient leather that makes you want to run when you wear them.
@@ -14529,6 +14525,7 @@ Boots that are provided only for members of the Eden Group.
 These are designed to fit comfortably throughout long-walks.
 HP recovery +28%
 SP recovery +12%
+Vit +1, Agi +1
 Unrefineable.
 Class: ^777777Footgear^000000
 Defense: ^77777720^000000
@@ -15064,10 +15061,10 @@ A manteau that is worn by the Valkyries, Odin's battle maidens.
 Indestructible.
 [^6A5ACDMage,Archer,Acolyte^000000]
 Perfect Dodge +5
-Increase the Perfect Dodge by (upgrade level * 2).
+Increase the Perfect Dodge by (upgrade level*2).
 [^6A5ACDSwordman,Merchant,Thief^000000]
-Reflect 5% damage back to enemies.
-Increase % reflect damage by (upgrade level * 2).
+Reflect 5% melee damage back to enemies.
+Increase percentage reflect damage by (upgrade level*2).
 [^6A5ACDValkyrian Armor Set^000000]
 ^3CB371Valkyrie Helm^000000
 ^3CB371Valkyrie Armor^000000
@@ -16154,7 +16151,6 @@ Jobs: ^777777All^000000
 #
 2631#
 A ring that is given to a baby that becomes a year old.
-(Event item that will disappear after August 31, 2003)
 All Stats +5
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
@@ -16249,11 +16245,9 @@ Jobs: ^777777All^000000
 #
 2644#
 ^FF0000Cannot be traded.^000000
-This is a token that shows that you will be able to enter Valhalla.
-Those who possess this token is the selected warrior of gods. This is also a symbol of valiant.
-It is said that a powerful and mysterious force is sealed within this item.
-There is a transparent blue glass in the middle of the token which is engraved with silver ancient writing.
-Whoever sees this will be mesmerized by the mysterious look of the item.
+A captivatingly beautiful artifact rewarded by the gods to a chosen warrior.
+However, it seems to be more than just a voucher that grants entrance into Valhalla...
+ATK +5%, MATK +5%.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Level Requirement: ^777777N/A^000000
@@ -16975,6 +16969,7 @@ placeholder
 2715#
 A weird ring adorned with a skull in which the words, ''^990000Forever, until death...^000000'' are engraved.
 Giving this as a gift might send a mixed message.
+Add 1% Resistance to Undead monster
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -17123,7 +17118,7 @@ Increases Physical Damage to Satan Morocc by 10%.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777775^000000
-Jobs: ^7777772nd Transcendent Classes^000000
+Jobs: ^777777Transcendent 2nd Classes^000000
 #
 2730#
 A royal gift to a member of the Continental Guard.
@@ -17676,7 +17671,7 @@ Jobs: ^777777All^000000
 2787#
 A brooch made out of tear drops of the Aqua Elemental.
 Increases resistance to ^0000BBWater^000000 property by 5%.
-MaxHP +80, MDEF +2
+MaxHP +1%, MDEF +2
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777720^000000
@@ -18682,7 +18677,7 @@ Jobs: ^777777All^000000
 #
 2910#
 Agimat Tattoo with a dragon swallowing the moon pattern. It is told that the one who owns this tattoo will possess extreme power.
-ATK +7% and ASPD 10% increase.
++7% Attack against all monster sizes and ASPD +10%.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -32852,7 +32847,7 @@ Level Requirement: ^7777771^000000
 Jobs: ^777777All^000000
 #
 5606#
-...
+A helmet featuring CompuME, where Middle East Buys Technology!
 All stats +1.
 Class: ^777777Headgear^000000
 Defense: ^7777774^000000
@@ -33609,7 +33604,7 @@ Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
 Defense: ^7777775^000000
 Weight: ^77777720^000000
-Required Level: ^7777771^000000
+Required Level: ^77777710^000000
 Jobs: ^777777All^000000
 #
 5655#
@@ -33799,7 +33794,7 @@ Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^77777730^000000
-Required Level: ^7777771^000000
+Required Level: ^77777770^000000
 Jobs: ^777777All^000000
 #
 5672#
@@ -35384,6 +35379,17 @@ Jobs: ^777777All^000000
 #
 5887#
 #
+5891#
+A hat decorated with black cat.
+When attacking physically or magically, has chance to cast Lv.5 Scream.
+When equipped with Romantic Leaf or Flower, All Stats +1.
+Class: ^777777Headgear^000000
+Defense: ^7777777^000000
+Location: ^777777Upper^000000
+Weight: ^77777710^000000
+Required Level: ^77777710^000000
+Jobs: ^777777All^000000
+#
 5897#
 All Stats +10
 MaxHP/SP +15%
@@ -35404,7 +35410,7 @@ A hairband with an array of autumn leaves attached to it. It displays the beauty
 When using the skill Wind Walk, SP consumption -20.
 Increase long distance Physical attack by 5%.
 If upgraded to +7 or higher, increases ATK by 2 for every 5 base INT
-If upgraded to +9 or higher,, increases Arrow Storm damage additionally by 2% for every its BaseLV 10.
+If upgraded to +9 or higher, increases Arrow Storm damage additionally by 2% for every its BaseLV 10.
 ^ff0000This item cannot be traded with other accounts.^000000
 Class: ^777777Headgear^000000
 Defense: ^77777710^000000
@@ -35497,7 +35503,7 @@ Jobs: ^777777Shadow chaser^000000
 A finely crafted hat designed just for Maestros.
 You can't see from the outside, but on the inside is written every song a Maestro needs to make it big!
 Increase Severe Rainstorm damage by 15%
-If upgraded to +7 or higher,, Reduces fixed casting time of all skills by 4% for each level of Voice Lessons learned.
+If upgraded to +7 or higher, Reduces fixed casting time of all skills by 4% for each level of Voice Lessons learned.
 If upgraded to +9 or higher, reduces the SP cost of Severe Rainstorm by 10.
 ^ff0000This item cannot be traded with other accounts.^000000
 Class: ^777777Headgear^000000
@@ -35511,7 +35517,7 @@ Jobs: ^777777Maestro^000000
 Twisted horns that were supposedly crafted to look like those of a race of demons that died out long ago.
 Apparently placing them on your head can grant you a small amount of their power.
 Increase the damage of the skill Counter Slash by 10% for each level of Weapon Blocking learned.
-If upgraded to +7 or higher,, ATK +20, HIT +5.
+If upgraded to +7 or higher, ATK +20, HIT +5.
 If upgraded to +9 or higher, when physical attacking, autocast Cross Impact Lv.1 by 1% chance.
 ^ff0000This item cannot be traded with other accounts.^000000
 Class: ^777777Headgear^000000
@@ -35527,7 +35533,7 @@ It came to be seen as a sign of unwavering strength in
 the eyes of naval crews everywhere.
 Axe Tornado and Axe Boomerang damage +20%
 If upgraded to +7 or higher, each level of Weaponry Research learned increases damage of Axe Tornado by an additional 1%
-If upgraded to +9 or higher,,each level of Axe Mastery increases the damage of Axe Tornado by an additional 1%
+If upgraded to +9 or higher,,each level of Axe Training increases the damage of Axe Tornado by an additional 1%
 ^ff0000This item cannot be traded with other accounts.^000000
 Class: ^777777Headgear^000000
 Defense: ^77777720^000000
@@ -35576,7 +35582,16 @@ Jobs: ^777777All^000000
 [JRO item]
 #
 5934#
-[JRO item]
+Ballons that floating on the back of head.
+MDEF +5.
+Has change to drops 'Gift Box' when killing a monster.
++Mistcase card, when base Luk is 77 or more, Has change to drops 'Happy Box' when killing a monster.
+Class: ^777777Headgear^000000
+Defense: ^7777770^000000
+Location: ^777777Lower^000000
+Weight: ^77777710^000000
+Required Level: ^77777710^000000
+Jobs: ^777777All^000000
 #
 5936#
 [JRO item]
@@ -37185,8 +37200,6 @@ Weight: ^7777771^000000
 This item is used to access various Premium Services.
 ^ffffff_^000000
 All third class job changes require ^006400[1 Reset Stone]^000000 or ^ff0000VIP Status^000000 on the account.
-^ffffff_^000000
-This item will be tradeable and vendable from ^ff0000June 9th - June 21st 2011^000000
 ^ffffff_^000000
 Sam Status is accepting Reset Stones to reset your stat points.
 You can find him in Payon around 180 115.
@@ -40011,9 +40024,8 @@ can't be cleansed.
 Weight: ^7777774^000000
 #
 7025#
-A gem that is said to
-be key to opening the
-path to the mysterious, ancient land of Geffenia.
+A gem that is said to be key to opening the path to the mysterious, ancient land of Geffenia.
+Weight: ^7777775^000000
 #
 7026#
 An ornate key that can
@@ -44926,7 +44938,7 @@ Weight: ^7777771^000000
 #
 7824#
 This highly toxic liquid is consumed by Wandering souls.
-Class: ^777777Taming Item^000000
+Class: ^777777Pet Food^000000
 Weight: ^7777775^000000
 #
 7825#
@@ -46852,23 +46864,23 @@ Required Level: ^777777100^000000
 #
 11522#
 Red sap with amazing healing power. You wouldn't want to find out what it's made from.
-^000088Restores approximately 400 HP^000000.
+^000088Restores approximately 400 - 600 HP^000000.
 Weight: ^77777710^000000
-Required Level: ^777777100^000000
+Required Level: ^7777771^000000
 Cooldown Time: ^7777771 Second^000000
 #
 11523#
 Yellow sap with amazing healing power. You wouldn't want to find out what it's made from.
-^000088Restores approximately 600 HP^000000.
+^000088Restores approximately 600 - 800 HP^000000.
 Weight: ^77777712^000000
-Required Level: ^777777110^000000
+Required Level: ^7777771^000000
 Cooldown Time: ^7777772 Seconds^000000
 #
 11524#
 White sap with amazing healing power. You wouldn't want to find out what it's made from.
-^000088Restores approximately 800 HP^000000.
-Weight: ^77777712^000000
-Required Level: ^777777120^000000
+^000088Restores approximately 800 - 1,000 HP^000000.
+Weight: ^77777714^000000
+Required Level: ^7777771^000000
 Cooldown Time: ^7777773 Seconds^000000
 #
 11525#
@@ -53867,7 +53879,7 @@ A French dagger that is usually held in the left hand to parry attacks.
 Unrefineable.
 Class: ^777777Dagger^000000
 Attack: ^77777763^000000
-Weight: ^77777760^000000
+Weight: ^7777770^000000
 Weapon Level: ^7777771^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Novice, Swordman, Mage, Archer, Merchant, Thief, Soul Linker and Ninja^000000
@@ -54097,14 +54109,14 @@ Jobs: ^777777Swordman/Merchant/Thief/Archer/Mage Class Types Type^000000
 13066#
 A practical dagger that is made by the Eden Group.
 It's suitable for those who have experience handling daggers.
-MATK +70
+MATK +80
 Unrefineable.
 Class: ^777777Dagger^000000
 Attack: ^777777165^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777760^000000
-Jobs: ^777777Novice / Swordman / Mage / Archer / Merchant / Thief / Soul Linker / Ninja^000000
+Jobs: ^777777Novice, Swordman, Mage, Archer, Merchant, Thief, Soul Linker and Ninja^000000
 #
 13067#
 A long time ago, the manufacturing process for the holy sword of the Jaty tribe in Dewata island disappeared, but it has been reproduced by Mastersmith Gatti again.
@@ -56493,7 +56505,15 @@ Merchant, and
 Thief Classes^000000
 #
 13428#
-[JRO item]
+A sword that has a nickname of Valkyrie 'Frist'.
++Red Wing Hat, HIT +10, Increase physical damage against Demihuman by 10%.
++Odin's Blessing, Increase Bowling Bash damage by 5%, MaxSP +50.
+Class: ^777777One-Handed Sword^000000
+Attack: ^777777170^000000
+Weight: ^777777120^000000
+Weapon Level: ^7777774^000000
+Required Level: ^77777750^000000
+Jobs: ^777777Swordman, Merchant and Thief^000000
 #
 13431#
 A cold etched sword made with refined Bradium, a mineral from the Other World.
@@ -66388,7 +66408,7 @@ Weight: ^7777771^000000
 #
 15000#
 Dark Plated Armor covered with sharp bones.
-When attacking has a 1% chance of autocasting 'Bleeding' around 5x5 cells of the player.
+When being physically attacked has a 1% chance of autocasting 'Bleeding' around 5x5 cells of the player.
 Ignore 10% of the Def from Demihuman & Animal type monsters.
 STR +1, MDEF +3
 Class: ^777777Armor^000000
@@ -66694,8 +66714,9 @@ Jobs: ^777777Archbishop^000000
 15031#
 Armor that is only provided for members of the Eden Group.
 There are various sizes so tall people don't have to worry about it.
-MaxHP +500, MaxSP	+50,
-MDEF +5.
+MaxHP +500, MaxSP +50,
+Str +1, Int +1, Dex +1
+Mdef +5.
 Unrefineable.
 Class: ^777777Armor^000000
 Defense: ^77777770^000000
@@ -66752,10 +66773,10 @@ Jobs: ^777777Rune Knight^000000
 Armor created by purifying Peuz runestones.
 MDEF +10.
 ATK +20, FLEE +17.
-If worn with Ur Greaves, Shoes and accessory,
+If worn with Peuz Greaves, Shoes and accessory,
 Increases damage to all monster sizes by 10%.
 Increases damage of Wind Cutter and Sonic Wave by 100%.
-Has a chance of activating Spear Dynamo and adding 2 ASPD while physically attacking.
+Has a chance of activating Storm Blast and Concentration and adding 2 ASPD while physically attacking.
 Increases SP costs of skills by 10.
 Class: ^777777Armor^000000
 Defense: ^777777110^000000
@@ -67661,7 +67682,8 @@ Jobs: ^777777Sword Man Class/AcolyteClass/Merchant Class^000000
 #
 16017#
 A bloodly red cross mace with dark power. The red color looks creepy as if has absorbed blood.
-While physically attacking at a short distance, activates Hell Inferno Level 1 at a certain rate. Increases the casting rate of the skill by the refine Level.
+While physically attacking at a short distance, activates Lv.1 Hell Inferno at a certain rate.
+Increases the casting rate of the skill by the refine Level.
 Class: ^777777Mace^000000
 Attack: ^777777170^000000
 Weight: ^777777150^000000
@@ -77509,7 +77531,7 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 18740#
-The special costume which made to celebrate the RMSC2012.
+A wig designed after a certain race whose hair changes when jumps over his limit.
 Class: ^777777Constume^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
@@ -78071,6 +78093,18 @@ Location: ^777777Upper^000000
 Weight: ^77777720^000000
 Required Level: ^777777100^000000
 Jobs: ^777777Archbishop^000000
+#
+18792#
+A proud sakkat of Indonesian independence fighter.
+VIT +10.
+ATK, MATK +5%.
+Reduce damage from Demihuman by 10%
+Class: ^777777Headgear^000000
+Defense: ^7777771^000000
+Location: ^777777Upper^000000
+Weight: ^77777740^000000
+Required Level: ^77777745^000000
+Jobs: ^777777All except Novice^000000
 #
 18793#
 A hat that promotes a sophisticated yet sleepy look. It once belonged to an ancient magician who was well known for her vast knowledge and lazy behaviour, to the point she was nicknamed "The Great Unmoving Library."
@@ -79905,6 +79939,38 @@ Weight: ^77777750^000000
 Required level: ^77777750^000000
 Jobs: ^777777All^000000
 #
+19020#
+A headgear worn by practitioner.
+Int +3, MATK +4%
+When Base Lv less than 99, every 2 refine increase INT +1.
+When Base Lv more then 100, every refine increase INT +1.
++Survival rod[1], every refine of rod increase MATK +10.
+When survival rod's refine level over +9, chance for 5 seconds cast rate decreased by 50%.
+Class: ^777777Headgear^000000
+Defense: ^77777710^000000
+Location: ^777777Upper^000000
+Weight: ^77777750^000000
+Required level: ^77777750^000000
+Jobs: ^777777All^000000
+#
+19021#
+A giant helm of guardian of the ancient temple.
+STR +3, Physical damage +4%.
+When Base Lv less than 99, every 2 refine increase STR +1
+When Base Lv more then 100, every refine increase STR +1
++Giant Axe, increase damage of cart termination by 15%, every refine of axe further inrease damage by 5%.
++Giant Shield, reduce damage from Large monster by 5%, every refine of shield reduce damage by 2%.
++Giant Lance, when using Joint Beat, auto cast Lv.1 Spiral pierce, every refine of lance increase the chance of trigger and increase damage of spiral pierce by 5%.
+Class: ^777777Headgear^000000
+Defense: ^77777710^000000
+Location: ^777777Upper^000000
+Weight: ^77777750^000000
+Required level: ^77777750^000000
+Jobs: ^777777All^000000
+#
+19022#
+[JRO item]
+#
 19023#
 An imitation of Queen Scaraba Crown.
 DEF -50%, MDEF -50.
@@ -80006,6 +80072,17 @@ Defense: ^77777720^000000
 Location: ^777777Upper, Middle, Lower^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19031#
+Wings of Angel whose banished from heaven.
+Increase physical damage against Angel monster by 5%.
+Reduce damage from Angel monster by 5%.
+Class: ^777777Headgear^000000
+Defense: ^7777771^000000
+Location: ^777777Middle^000000
+Weight: ^77777720^000000
+Required Level: ^77777710^000000
 Jobs: ^777777All^000000
 #
 19033#
@@ -83308,6 +83385,14 @@ Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
+19855#
+Give you have a happy feeling of summer season.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
 19856#
 An Ice sherbet hat, cool from head to toe. Feels like all the heat are blown away.
 Class: ^777777Costume^000000
@@ -83769,6 +83854,14 @@ Jobs: ^777777All^000000
 19914#
 Airship Tarlock's captain hat.
 Using the usual hat and the colors are different.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19916#
+A hat decorated with black cat.
 Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000

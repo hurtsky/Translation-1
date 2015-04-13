@@ -419,7 +419,7 @@ Weight: ^77777710^000000
 A freshly scented, thorny fruit from a tree.
 ^000088Restore a small amount of HP and SP^000000.
 ^ffffff_^000000
-Weight: ^7777774^000000
+Weight: ^7777776^000000
 #
 577#
 Dried grains that are commonly used in the cuisines of many countries.
@@ -16438,6 +16438,9 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 5887#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
+5891#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
 5897#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
@@ -20759,9 +20762,8 @@ can't be cleansed.
 Weight: ^7777774^000000
 #
 7025#
-A gem that is said to
-be key to opening the
-path to the mysterious, ancient land of Geffenia.
+A gem that is said to be key to opening the path to the mysterious, ancient land of Geffenia.
+Weight: ^7777775^000000
 #
 7026#
 An ornate key that can
@@ -25585,6 +25587,7 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 7824#
 This highly toxic liquid is consumed by Wandering souls.
+Class: ^777777Pet Food^000000
 Weight: ^7777775^000000
 #
 7825#
@@ -25857,7 +25860,7 @@ A spool wrapped with golden fine thread.
 Weight: ^7777771^000000
 #
 7880#
-Babayaga¡¯s silver spoon stolen by pirates.
+Babayaga's silver spoon stolen by pirates.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -27338,23 +27341,23 @@ Required Level: ^777777100^000000
 #
 11522#
 Red sap with amazing healing power. You wouldn't want to find out what it's made from.
-^000088Restores approximately 400 HP^000000.
+^000088Restores approximately 400 - 600 HP^000000.
 Weight: ^77777710^000000
-Required Level: ^777777100^000000
+Required Level: ^7777771^000000
 Cooldown Time: ^7777771 Second^000000
 #
 11523#
 Yellow sap with amazing healing power. You wouldn't want to find out what it's made from.
-^000088Restores approximately 600 HP^000000.
+^000088Restores approximately 600 - 800 HP^000000.
 Weight: ^77777712^000000
-Required Level: ^777777110^000000
+Required Level: ^7777771^000000
 Cooldown Time: ^7777772 Seconds^000000
 #
 11524#
 White sap with amazing healing power. You wouldn't want to find out what it's made from.
-^000088Restores approximately 800 HP^000000.
-Weight: ^77777712^000000
-Required Level: ^777777120^000000
+^000088Restores approximately 800 - 1,000 HP^000000.
+Weight: ^77777714^000000
+Required Level: ^7777771^000000
 Cooldown Time: ^7777773 Seconds^000000
 #
 11525#
@@ -50437,6 +50440,9 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 18791#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
+18792#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
 18793#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
@@ -50926,6 +50932,15 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 19019#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
+19020#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+19021#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+19022#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
 19023#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
@@ -50948,6 +50963,9 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 19030#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+19031#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 19033#
@@ -52209,6 +52227,9 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 19853#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
+19855#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
 19856#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
@@ -52372,6 +52393,9 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 19914#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+19916#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 19917#

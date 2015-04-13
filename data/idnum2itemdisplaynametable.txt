@@ -1232,7 +1232,7 @@
 2143#Freya_Soul_Shield#
 2144#Freya_Soul_Shield#
 2145#Guardian_Shield#
-2146#Siver_Guard#
+2146#Silver_Guard#
 2147#Round_Buckler#
 2148#Rosa_Shield#
 2149#Upgrade_Guard#
@@ -3565,7 +3565,7 @@
 5603#RWC_Statue(Winner)#
 5604#RWC_Statue(Second)#
 5605#RWC_Statue(3rd)#
-5606#American_Helm#
+5606#Compu_Me_Helm#
 5607#Lyria_Doll_Hat#
 5608#Dorothy_Doll_Hat#
 5609#Chung_Hairpin#
@@ -3792,6 +3792,7 @@
 5876#Star-Spangled_Bandana#
 5877#'Merica_Hat#
 5887#Half_L_Magestic_Goat#
+5891#Black_Cat_Hat#
 5897#Ascendant_Crown#
 5898#Autumn_Headband#
 5899#Black_Ribbon#
@@ -3814,7 +3815,7 @@
 5931#Nifleheim_Bunny_Hat#
 5932#Heaven_Cage#
 5933#Mask_of_Tengu#
-5934#Happy_Balloon_J#
+5934#Happy_Balloon#
 5936#Celestial_Dark_Flame#
 5937#Plane_Hat#
 5938#Octopus_Hat#
@@ -7150,7 +7151,7 @@
 13425#Traveler's_Sword#
 13426#Rental_Cutlas#
 13427#Rental_Solar_Sword#
-13428#Priest_Sword#
+13428#Frist_Sword#
 13431#Chrome_Metal_Sword#
 13433#Academy_Sword#
 13434#Eden_Saber_III#
@@ -9873,7 +9874,7 @@
 18737#Fortier_Masque#
 18738#White_Student_Cap#
 18739#Carnation_Hairband#
-18740#RMSC2012_Special_Costume#
+18740#Hair_Of_The_Strong#
 18741#[Costume]_Will_O_Wisp#
 18742#[Costume]_Moon_and_Stars#
 18743#[Costume]_Spirit_Of_Chung_E#
@@ -9925,6 +9926,7 @@
 18789#Poison_Spore_Hat#
 18790#Rainbow_Poring_Hat#
 18791#Shrine_Maiden_Hat#
+18792#Indonesian_Independence_Sakkat#
 18793#Sorc_Night_Cap#
 18794#Plain_Black_Mage_Hat#
 18795#Night_Sparrow_Hat#
@@ -10088,6 +10090,9 @@
 19012#Angel_Spirit_Guide#
 19014#Gravekeeper_Blinker#
 19019#Elemental_Crown#
+19020#Survival_Circlet#
+19021#Giant_Helm#
+19022#Wise_Floating_Stone#
 19023#Queen_Scaraba_Crown#
 19024#Protect_Feathers#
 19025#Puppy_Ears_Hat#
@@ -10096,6 +10101,7 @@
 19028#Devil's_Minion#
 19029#Alice_Friesinger_Hat_69#
 19030#Rabbit_Hero_Hood#
+19031#Fallen_Angel_Blessing#
 19033#Ancient_Decoration_Of_The_Goddess#
 19034#Pterios_Hat#
 19035#Fur_Seal_Hat#
@@ -10481,6 +10487,7 @@
 19850#[Costume]_Bongun_Hat#
 19851#[Costume]_Teddybear_Hat#
 19853#[Costume]_Filir_Wings#
+19855#[Costume]_Happy_Summer_Wig#
 19856#[Costume]_Snow_Cone_Hat#
 19857#[Costume]_Crayfish_Hat#
 19858#[Costume]_Smokie_Leaf#
@@ -10536,6 +10543,7 @@
 19912#[Costume]_Cat_Eye#
 19913#[Costume]_Poo_Poo_Hat#
 19914#[Costume]_Tarlock's_Hat#
+19916#[Costume]_Black_Cat_Hat#
 19917#[Costume]_Dark_Pumpkin_Hat#
 19918#[Costume]_Lude_Mask#
 19919#[Costume]_Quve_Mask#
@@ -10949,18 +10957,18 @@
 21016#Two-Handed_Sword_of_Vicious_Mind#
 21018#Lindy_Hop#
 21019#Onimaru#
-22000#Temporal_Boots_Of_Strength#
-22001#Temporal_Boots_Of_Intelligence#
-22002#Temporal_Boots_Of_Agility#
-22003#Temporal_Boots_Of_Vitality#
-22004#Temporal_Boots_Of_Dexterity#
-22005#Temporal_Boots_Of_Luck#
-22006#Temporal_Boots_Of_Strength#
-22007#Temporal_Boots_Of_Vitality#
-22008#Temporal_Boots_Of_Dexterity#
-22009#Temporal_Boots_Of_Intelligence#
-22010#Temporal_Boots_Of_Agility#
-22011#Temporal_Boots_Of_Luck#
+22000#Temporal_STR_Boots#
+22001#Temporal_INT_Boots#
+22002#Temporal_AGI_Boots#
+22003#Temporal_VIT_Boots#
+22004#Temporal_DEX_Boots#
+22005#Temporal_LUK_Boots#
+22006#Temporal_STR_Boots#
+22007#Temporal_VIT_Boots#
+22008#Temporal_DEX_Boots#
+22009#Temporal_INT_Boots#
+22010#Temporal_AGI_Boots#
+22011#Temporal_LUK_Boots#
 22012#Boots_of_Mana#
 22014#Enhanced_Variant_Shoes#
 22015#Modified_Angel's_Reincarnation#

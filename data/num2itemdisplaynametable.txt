@@ -3792,6 +3792,7 @@
 5876#Headgear#
 5877#Headgear#
 5887#Headgear#
+5891#Hat#
 5897#Helm#
 5898#Hairband#
 5899#Hairband#
@@ -9925,6 +9926,7 @@
 18789#Hat#
 18790#Hat#
 18791#Headgear#
+18792#Hat#
 18793#Hat#
 18794#Hat#
 18795#Hat#
@@ -10060,8 +10062,8 @@
 18942#Hat#
 18943#Hat#
 18944#Accessory#
-18945#Headgear#
-18946#Headgear#
+18945#Hat#
+18946#Hat#
 18953#Hat#
 18956#Accessory#
 18961#Accessory#
@@ -10088,6 +10090,9 @@
 19012#Headgear#
 19014#Hairband#
 19019#Helm#
+19020#Helm#
+19021#Helm#
+19022#Helm#
 19023#Helm#
 19024#Headgear#
 19025#Hat#
@@ -10096,6 +10101,7 @@
 19028#Hat#
 19029#Hat#
 19030#Hat#
+19031#Hairband[#
 19033#Hairband#
 19034#Headgear#
 19035#Headgear#
@@ -10481,6 +10487,7 @@
 19850#Hat#
 19851#Hat#
 19853#Accessory#
+19855#Hat#
 19856#Hat#
 19857#Accessory#
 19858#Accessory#
@@ -10536,6 +10543,7 @@
 19912#Hat#
 19913#Hat#
 19914#Hat#
+19916#Hat#
 19917#Hat#
 19918#Mask#
 19919#Mask#
