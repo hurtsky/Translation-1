@@ -14160,6 +14160,11 @@ Why can't this soul rest in peace? Bring any bracelets you find at the Faceworm'
 Let's obtain Old Fuel Tank to activate the old robot.#
 Obtain 1 Old Fuel Tank#
 
+// ep16.1 Additional Compensation
+12369#Secret customer base#SG_FEEL#QUE_NOIMAGE#
+Secret customer base perforation#
+Coversation with Suspicious Prisoner#
+
 //---------yj Äù½ºÆ®ÇÊµå 13000 ~ 13999
 13000#RWC 2011Card Gathering#SG_FEEL#QUE_NOIMAGE#
 Kill the Gold Porings that are randomly around Rune Midgard and collect enough Blue Cards to spell out 'RWC 2011'#
