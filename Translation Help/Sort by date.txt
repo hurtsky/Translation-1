@@ -1092,3 +1092,964 @@
 		slotCount = 0,
 		ClassNum = 0
 	},
+
+// --------------------------------------------------
+// ------------------KRO 2015-04-15------------------
+// --------------------------------------------------
+
+	[4994] = {
+		unidentifiedDisplayName = "힘의 니브 1Lv",
+		unidentifiedResourceName = "힘의니브",
+		unidentifiedDescriptionName = { "7제련 시, STR + 5.", "10제련 시, ATK + 5%." },
+		identifiedDisplayName = "힘의 니브 1Lv",
+		identifiedResourceName = "힘의니브",
+		identifiedDescriptionName = { "7제련 시, STR + 5.", "10제련 시, ATK + 5%." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[4995] = {
+		unidentifiedDisplayName = "힘의 니브 2Lv",
+		unidentifiedResourceName = "힘의니브",
+		unidentifiedDescriptionName = { "7제련 시, STR + 6. ", "11제련 시, STR + 1, ATK + 7% 추가 증가." },
+		identifiedDisplayName = "힘의 니브 2Lv",
+		identifiedResourceName = "힘의니브",
+		identifiedDescriptionName = { "7제련 시, STR + 6. ", "11제련 시, STR + 1, ATK + 7% 추가 증가." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[4996] = {
+		unidentifiedDisplayName = "힘의 니브 3Lv",
+		unidentifiedResourceName = "힘의니브",
+		unidentifiedDescriptionName = {
+			"7제련 시, STR + 7. ",
+			"12제련 시, STR + 1, ATK + 8% 추가 증가.",
+			"13제련 시, STR + 1, ATK + 2% 추가 증가."
+		},
+		identifiedDisplayName = "힘의 니브 3Lv",
+		identifiedResourceName = "힘의니브",
+		identifiedDescriptionName = {
+			"7제련 시, STR + 7. ",
+			"12제련 시, STR + 1, ATK + 8% 추가 증가.",
+			"13제련 시, STR + 1, ATK + 2% 추가 증가."
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[4997] = {
+		unidentifiedDisplayName = "민첩의 니브 1Lv",
+		unidentifiedResourceName = "민첩의니브",
+		unidentifiedDescriptionName = { "7제련 시, AGI + 5.", "10제련 시, 완전회피 + 5." },
+		identifiedDisplayName = "민첩의 니브 1Lv",
+		identifiedResourceName = "민첩의니브",
+		identifiedDescriptionName = { "7제련 시, AGI + 5.", "10제련 시, 완전회피 + 5." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[4998] = {
+		unidentifiedDisplayName = "민첩의 니브 2Lv",
+		unidentifiedResourceName = "민첩의니브",
+		unidentifiedDescriptionName = { "7제련 시, AGI + 6. ", "11제련 시, AGI + 1, 완전회피 + 7 추가 증가." },
+		identifiedDisplayName = "민첩의 니브 2Lv",
+		identifiedResourceName = "민첩의니브",
+		identifiedDescriptionName = { "7제련 시, AGI + 6. ", "11제련 시, AGI + 1, 완전회피 + 7 추가 증가." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[4999] = {
+		unidentifiedDisplayName = "민첩의 니브 3Lv",
+		unidentifiedResourceName = "민첩의니브",
+		unidentifiedDescriptionName = {
+			"7제련 시, AGI + 7. ",
+			"12제련 시, AGI + 1, 완전회피 + 5 추가 증가.",
+			"13제련 시, AGI + 1, 완전회피 + 5 추가 증가."
+		},
+		identifiedDisplayName = "민첩의 니브 3Lv",
+		identifiedResourceName = "민첩의니브",
+		identifiedDescriptionName = {
+			"7제련 시, AGI + 7. ",
+			"12제련 시, AGI + 1, 완전회피 + 5 추가 증가.",
+			"13제련 시, AGI + 1, 완전회피 + 5 추가 증가."
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[6999] = {
+		unidentifiedDisplayName = "HP흡수스톤(상단)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"HP를 흡수 할 수 있는 스톤. ",
+			"의상 상단 슬롯에 아래의 능력치를 부여한다. ",
+			"1% 확률로 적에게 준 물리 대미지의 3% 를 자신의 HP로 흡수.",
+			"^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000"
+		},
+		identifiedDisplayName = "HP흡수스톤(상단)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"HP를 흡수 할 수 있는 스톤. ",
+			"의상 상단 슬롯에 아래의 능력치를 부여한다. ",
+			"1% 확률로 적에게 준 물리 대미지의 3% 를 자신의 HP로 흡수.",
+			"^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000",
+			"무게 : ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[22953] = {
+		unidentifiedDisplayName = "의상 인챈트 스톤 상자7",
+		unidentifiedResourceName = "초록상자",
+		unidentifiedDescriptionName = {
+			"부위별 의상 장비에 인챈트를 할 수 있는 스톤이 들어 있는 상자. ",
+			"HP흡수스톤(상단), SP회복스톤(상단), STR변환스톤(중단), AGI변환스톤(하단)등이 새롭게 추가되었으며, 기존의 의상 인챈트 스톤도 포함되어 있다. "
+		},
+		identifiedDisplayName = "의상 인챈트 스톤 상자7",
+		identifiedResourceName = "초록상자",
+		identifiedDescriptionName = {
+			"부위별 의상 장비에 인챈트를 할 수 있는 스톤이 들어 있는 상자. ",
+			"HP흡수스톤(상단), SP회복스톤(상단), STR변환스톤(중단), AGI변환스톤(하단)등이 새롭게 추가되었으며, 기존의 의상 인챈트 스톤도 포함되어 있다. ",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[25000] = {
+		unidentifiedDisplayName = "SP흡수스톤(상단)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"SP를 흡수 할 수 있는 스톤.",
+			"의상 상단 슬롯에 아래의 능력치를 부여한다. ",
+			"1% 확률로 적에게 준 물리 대미지의 1% 를 자신의 SP로 흡수.",
+			"^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000"
+		},
+		identifiedDisplayName = "SP흡수스톤(상단)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"SP를 흡수 할 수 있는 스톤.",
+			"의상 상단 슬롯에 아래의 능력치를 부여한다. ",
+			"1% 확률로 적에게 준 물리 대미지의 1% 를 자신의 SP로 흡수.",
+			"^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000",
+			"무게 : ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[25001] = {
+		unidentifiedDisplayName = "방어스톤(중단)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"방어력이 높아지는 스톤.",
+			"의상 중단 슬롯에 아래의 능력치를 부여한다. ",
+			"DEF + 20.",
+			"^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000"
+		},
+		identifiedDisplayName = "방어스톤(중단)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"방어력이 높아지는 스톤.",
+			"의상 중단 슬롯에 아래의 능력치를 부여한다. ",
+			"DEF + 20.",
+			"^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000",
+			"무게 : ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[25002] = {
+		unidentifiedDisplayName = "LUK변환스톤(중단)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"운이 높아지고 대신 힘이 떨어지는 스톤.",
+			"의상 중단 슬롯에 아래의 능력치를 부여한다. ",
+			"LUK + 3, STR - 3.",
+			"^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000"
+		},
+		identifiedDisplayName = "LUK변환스톤(중단)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"운이 높아지고 대신 힘이 떨어지는 스톤.",
+			"의상 중단 슬롯에 아래의 능력치를 부여한다. ",
+			"LUK + 3, STR - 3.",
+			"^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000",
+			"무게 : ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[25003] = {
+		unidentifiedDisplayName = "STR변환스톤(중단)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"힘이 높아지고 대신 지능이 떨어지는 스톤.",
+			"의상 중단 슬롯에 아래의 능력치를 부여한다. ",
+			"STR + 3, INT - 3.",
+			"^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000"
+		},
+		identifiedDisplayName = "STR변환스톤(중단)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"힘이 높아지고 대신 지능이 떨어지는 스톤.",
+			"의상 중단 슬롯에 아래의 능력치를 부여한다. ",
+			"STR + 3, INT - 3.",
+			"^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000",
+			"무게 : ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[25004] = {
+		unidentifiedDisplayName = "AGI변환스톤(중단)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"민첩함이 높아지고 대신 운이 떨어지는 스톤.",
+			"의상 중단 슬롯에 아래의 능력치를 부여한다. ",
+			"AGI + 3, LUK - 3.",
+			"^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000"
+		},
+		identifiedDisplayName = "AGI변환스톤(중단)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"민첩함이 높아지고 대신 운이 떨어지는 스톤.",
+			"의상 중단 슬롯에 아래의 능력치를 부여한다. ",
+			"AGI + 3, LUK - 3.",
+			"^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000",
+			"무게 : ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[25005] = {
+		unidentifiedDisplayName = "INT변환스톤(중단)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"지능이 높아지고 대신 재주가 떨어지는 스톤.",
+			"의상 중단 슬롯에 아래의 능력치를 부여한다. ",
+			"INT + 3, DEX - 3.",
+			"^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000"
+		},
+		identifiedDisplayName = "INT변환스톤(중단)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"지능이 높아지고 대신 재주가 떨어지는 스톤.",
+			"의상 중단 슬롯에 아래의 능력치를 부여한다. ",
+			"INT + 3, DEX - 3.",
+			"^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000",
+			"무게 : ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[25006] = {
+		unidentifiedDisplayName = "VIT변환스톤(중단)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"건강이 높아지고 대신 민첩함이 떨어지는 스톤.",
+			"의상 중단 슬롯에 아래의 능력치를 부여한다. ",
+			"VIT + 3, AGI - 3.",
+			"^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000"
+		},
+		identifiedDisplayName = "VIT변환스톤(중단)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"건강이 높아지고 대신 민첩함이 떨어지는 스톤.",
+			"의상 중단 슬롯에 아래의 능력치를 부여한다. ",
+			"VIT + 3, AGI - 3.",
+			"^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000",
+			"무게 : ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[25007] = {
+		unidentifiedDisplayName = "DEX변환스톤(중단)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"재주가 높아지고 대신 건강이 떨어지는 스톤.",
+			"의상 중단 슬롯에 아래의 능력치를 부여한다. ",
+			"DEX + 3, VIT - 3.",
+			"^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000"
+		},
+		identifiedDisplayName = "DEX변환스톤(중단)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"재주가 높아지고 대신 건강이 떨어지는 스톤.",
+			"의상 중단 슬롯에 아래의 능력치를 부여한다. ",
+			"DEX + 3, VIT - 3.",
+			"^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000",
+			"무게 : ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[25008] = {
+		unidentifiedDisplayName = "VIT변환스톤(하단)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"건강이 높아지고 대신 운이 떨어지는 스톤.",
+			"의상 중단 슬롯에 아래의 능력치를 부여한다. ",
+			"VIT + 3, LUK - 3.",
+			"VIT변환스톤(중단)을 추가 장착시, 아래의 능력치가 상승한다.",
+			"AGI + 3, LUK + 3.",
+			"^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000"
+		},
+		identifiedDisplayName = "VIT변환스톤(하단)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"건강이 높아지고 대신 운이 떨어지는 스톤.",
+			"의상 중단 슬롯에 아래의 능력치를 부여한다. ",
+			"VIT + 3, LUK - 3.",
+			"VIT변환스톤(중단)을 추가 장착시, 아래의 능력치가 상승한다.",
+			"AGI + 3, LUK + 3.",
+			"^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000",
+			"무게 : ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[25009] = {
+		unidentifiedDisplayName = "AGI변환스톤(하단)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"민첩함이 높아지고 대신 힘이 떨어지는 스톤.",
+			"의상 중단 슬롯에 아래의 능력치를 부여한다. ",
+			"AGI + 3, STR - 3.",
+			"AGI변환스톤(중단)을 추가 장착시, 아래의 능력치가 상승한다.",
+			"LUK + 3, STR + 3.",
+			"^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000"
+		},
+		identifiedDisplayName = "AGI변환스톤(하단)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"민첩함이 높아지고 대신 힘이 떨어지는 스톤.",
+			"의상 중단 슬롯에 아래의 능력치를 부여한다. ",
+			"AGI + 3, STR - 3.",
+			"AGI변환스톤(중단)을 추가 장착시, 아래의 능력치가 상승한다.",
+			"LUK + 3, STR + 3.",
+			"^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000",
+			"무게 : ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[25010] = {
+		unidentifiedDisplayName = "DEX변환스톤(하단)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"재주가 높아지고 대신 민첩함이 떨어지는 스톤.",
+			"의상 중단 슬롯에 아래의 능력치를 부여한다. ",
+			"DEX + 3, AGI - 3.",
+			"DEX변환스톤(중단)을 추가 장착시, 아래의 능력치가 상승한다.",
+			"VIT + 3, AGI + 3.",
+			"^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000"
+		},
+		identifiedDisplayName = "DEX변환스톤(하단)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"재주가 높아지고 대신 민첩함이 떨어지는 스톤.",
+			"의상 중단 슬롯에 아래의 능력치를 부여한다. ",
+			"DEX + 3, AGI - 3.",
+			"DEX변환스톤(중단)을 추가 장착시, 아래의 능력치가 상승한다.",
+			"VIT + 3, AGI + 3.",
+			"^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000",
+			"무게 : ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[25011] = {
+		unidentifiedDisplayName = "LUK변환스톤(하단)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"운이 높아지고 대신 지능이 떨어지는 스톤.",
+			"의상 중단 슬롯에 아래의 능력치를 부여한다. ",
+			"LUK + 3, INT - 3.",
+			"LUK변환스톤(중단)을 추가 장착시, 아래의 능력치가 상승한다.",
+			"STR + 3, INT + 3.",
+			"^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000"
+		},
+		identifiedDisplayName = "LUK변환스톤(하단)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"운이 높아지고 대신 지능이 떨어지는 스톤.",
+			"의상 중단 슬롯에 아래의 능력치를 부여한다. ",
+			"LUK + 3, INT - 3.",
+			"LUK변환스톤(중단)을 추가 장착시, 아래의 능력치가 상승한다.",
+			"STR + 3, INT + 3.",
+			"^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000",
+			"무게 : ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[25012] = {
+		unidentifiedDisplayName = "STR변환스톤(하단)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"힘이 높아지고 대신 재주가 떨어지는 스톤.",
+			"의상 중단 슬롯에 아래의 능력치를 부여한다. ",
+			"STR + 3, DEX - 3.",
+			"STR변환스톤(중단)을 추가 장착시, 아래의 능력치가 상승한다.",
+			"INT + 3, DEX + 3.",
+			"^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000"
+		},
+		identifiedDisplayName = "STR변환스톤(하단)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"힘이 높아지고 대신 재주가 떨어지는 스톤.",
+			"의상 중단 슬롯에 아래의 능력치를 부여한다. ",
+			"STR + 3, DEX - 3.",
+			"STR변환스톤(중단)을 추가 장착시, 아래의 능력치가 상승한다.",
+			"INT + 3, DEX + 3.",
+			"^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000",
+			"무게 : ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[25013] = {
+		unidentifiedDisplayName = "INT변환스톤(하단)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"지능이 높아지고 대신 건강이 떨어지는 스톤.",
+			"의상 중단 슬롯에 아래의 능력치를 부여한다. ",
+			"INT + 3, VIT - 3.",
+			"INT변환스톤(중단)을 추가 장착시, 아래의 능력치가 상승한다.",
+			"DEX + 3, VIT + 3.",
+			"^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000"
+		},
+		identifiedDisplayName = "INT변환스톤(하단)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"지능이 높아지고 대신 건강이 떨어지는 스톤.",
+			"의상 중단 슬롯에 아래의 능력치를 부여한다. ",
+			"INT + 3, VIT - 3.",
+			"INT변환스톤(중단)을 추가 장착시, 아래의 능력치가 상승한다.",
+			"DEX + 3, VIT + 3.",
+			"^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000",
+			"무게 : ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[25014] = {
+		unidentifiedDisplayName = "마방스톤(하단)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"마법방어력이 높아지는 스톤.",
+			"의상 하단 슬롯에 아래의 능력치를 부여한다. ",
+			"MDEF + 4.",
+			"방어스톤(중단)을 추가 장착시, 아래의 능력치가 상승한다. ",
+			"HIT + 5, FLEE + 5.",
+			"^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000"
+		},
+		identifiedDisplayName = "마방스톤(하단)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"마법방어력이 높아지는 스톤.",
+			"의상 하단 슬롯에 아래의 능력치를 부여한다. ",
+			"MDEF + 4.",
+			"방어스톤(중단)을 추가 장착시, 아래의 능력치가 상승한다. ",
+			"HIT + 5, FLEE + 5.",
+			"^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000",
+			"무게 : ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[25015] = {
+		unidentifiedDisplayName = "경험치 스톤(하단)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"경험치 습득율이 높아지는 스톤.",
+			"의상 하단 슬롯에 아래의 능력치를 부여한다. ",
+			"몬스터를 죽였을 시, 획득 경험치 2% 증가.",
+			"^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000"
+		},
+		identifiedDisplayName = "경험치 스톤(하단)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"경험치 습득율이 높아지는 스톤.",
+			"의상 하단 슬롯에 아래의 능력치를 부여한다. ",
+			"몬스터를 죽였을 시, 획득 경험치 2% 증가.",
+			"^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000",
+			"무게 : ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[25016] = {
+		unidentifiedDisplayName = "공격스톤(하단)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"공격력이 담긴 스톤.",
+			"의상 하단 슬롯에 아래의 능력치를 부여한다.",
+			"ATK + 1%.",
+			"의상 상, 중, 하단에 공격스톤 장착시, 아래의 능력치를 추가로 부여한다.",
+			"ATK + 2%.",
+			"^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000",
+			"무게 : ^77777710^000000"
+		},
+		identifiedDisplayName = "공격스톤(하단)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"공격력이 담긴 스톤.",
+			"의상 하단 슬롯에 아래의 능력치를 부여한다.",
+			"ATK + 1%.",
+			"의상 상, 중, 하단에 공격스톤 장착시, 아래의 능력치를 추가로 부여한다.",
+			"ATK + 2%.",
+			"^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000",
+			"무게 : ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[25017] = {
+		unidentifiedDisplayName = "마공스톤(하단)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"마법 공격력이 담긴 스톤.",
+			"의상 하단 슬롯에 아래의 능력치를 부여한다.",
+			"MATK + 1%.",
+			"의상 상, 중, 하단에 마공스톤 장착시, 아래의 능력치를 부여한다.",
+			"MATK + 2%.",
+			"^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000",
+			"무게 : ^77777710^000000"
+		},
+		identifiedDisplayName = "마공스톤(하단)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"마법 공격력이 담긴 스톤.",
+			"의상 하단 슬롯에 아래의 능력치를 부여한다.",
+			"MATK + 1%.",
+			"의상 상, 중, 하단에 마공스톤 장착시, 아래의 능력치를 부여한다.",
+			"MATK + 2%.",
+			"^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000",
+			"무게 : ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29000] = {
+		unidentifiedDisplayName = "마력의 니브 1Lv",
+		unidentifiedResourceName = "마력의니브",
+		unidentifiedDescriptionName = { "7제련 시, INT + 5.", "10제련 시, MATK + 5%." },
+		identifiedDisplayName = "마력의 니브 1Lv",
+		identifiedResourceName = "마력의니브",
+		identifiedDescriptionName = { "7제련 시, INT + 5.", "10제련 시, MATK + 5%." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29001] = {
+		unidentifiedDisplayName = "마력의 니브 2Lv",
+		unidentifiedResourceName = "마력의니브",
+		unidentifiedDescriptionName = { "7제련 시, INT + 6. ", "11제련 시, INT + 1, MATK + 7% 추가 증가." },
+		identifiedDisplayName = "마력의 니브 2Lv",
+		identifiedResourceName = "마력의니브",
+		identifiedDescriptionName = { "7제련 시, INT + 6. ", "11제련 시, INT + 1, MATK + 7% 추가 증가." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29002] = {
+		unidentifiedDisplayName = "마력의 니브 3Lv",
+		unidentifiedResourceName = "마력의니브",
+		unidentifiedDescriptionName = {
+			"7제련 시, INT + 7. ",
+			"12제련 시, INT + 1, MATK + 8% 추가 증가.",
+			"13제련 시, INT + 1, MATK + 2% 추가 증가."
+		},
+		identifiedDisplayName = "마력의 니브 3Lv",
+		identifiedResourceName = "마력의니브",
+		identifiedDescriptionName = {
+			"7제련 시, INT + 7. ",
+			"12제련 시, INT + 1, MATK + 8% 추가 증가.",
+			"13제련 시, INT + 1, MATK + 2% 추가 증가."
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29003] = {
+		unidentifiedDisplayName = "손재주의 니브 1Lv",
+		unidentifiedResourceName = "손재주의니브",
+		unidentifiedDescriptionName = { "7제련 시, DEX + 5.", "10제련 시, 원거리 물리 데미지+ 5%." },
+		identifiedDisplayName = "손재주의 니브 1Lv",
+		identifiedResourceName = "손재주의니브",
+		identifiedDescriptionName = { "7제련 시, DEX + 5.", "10제련 시, 원거리 물리 데미지+ 5%." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29004] = {
+		unidentifiedDisplayName = "손재주의 니브 2Lv",
+		unidentifiedResourceName = "손재주의니브",
+		unidentifiedDescriptionName = { "7제련 시, DEX + 6. ", "11제련 시, DEX + 1, 원거리 물리 데미지 + 7% 추가 증가." },
+		identifiedDisplayName = "손재주의 니브 2Lv",
+		identifiedResourceName = "손재주의니브",
+		identifiedDescriptionName = { "7제련 시, DEX + 6. ", "11제련 시, DEX + 1, 원거리 물리 데미지 + 7% 추가 증가." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29005] = {
+		unidentifiedDisplayName = "손재주의 니브 3Lv",
+		unidentifiedResourceName = "손재주의니브",
+		unidentifiedDescriptionName = {
+			"7제련 시, DEX + 7. ",
+			"12제련 시, DEX + 1, 원거리 물리 데미지 + 8% 추가 증가.",
+			"13제련 시, DEX + 1, 원거리 물리 데미지 + 2% 추가 증가."
+		},
+		identifiedDisplayName = "손재주의 니브 3Lv",
+		identifiedResourceName = "손재주의니브",
+		identifiedDescriptionName = {
+			"7제련 시, DEX + 7. ",
+			"12제련 시, DEX + 1, 원거리 물리 데미지 + 8% 추가 증가.",
+			"13제련 시, DEX + 1, 원거리 물리 데미지 + 2% 추가 증가."
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29006] = {
+		unidentifiedDisplayName = "운의 니브 1Lv",
+		unidentifiedResourceName = "운의니브",
+		unidentifiedDescriptionName = { "7제련 시, LUK + 5.", "10제련 시, 크리티컬 데미지 + 5%." },
+		identifiedDisplayName = "운의 니브 1Lv",
+		identifiedResourceName = "운의니브",
+		identifiedDescriptionName = { "7제련 시, LUK + 5.", "10제련 시, 크리티컬 데미지 + 5%." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29007] = {
+		unidentifiedDisplayName = "운의 니브 2Lv",
+		unidentifiedResourceName = "운의니브",
+		unidentifiedDescriptionName = { "7제련 시, LUK + 6. ", "11제련 시, LUK + 1, 크리티컬 데미지 + 7% 추가 증가." },
+		identifiedDisplayName = "운의 니브 2Lv",
+		identifiedResourceName = "운의니브",
+		identifiedDescriptionName = { "7제련 시, LUK + 6. ", "11제련 시, LUK + 1, 크리티컬 데미지 + 7% 추가 증가." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29008] = {
+		unidentifiedDisplayName = "운의 니브 3Lv",
+		unidentifiedResourceName = "운의니브",
+		unidentifiedDescriptionName = {
+			"7제련 시, LUK + 7. ",
+			"12제련 시, LUK + 1, 크리티컬 데미지 + 8% 추가 증가. ",
+			"13제련 시, LUK + 1, 크리티컬 데미지 + 6% 추가 증가."
+		},
+		identifiedDisplayName = "운의 니브 3Lv",
+		identifiedResourceName = "운의니브",
+		identifiedDescriptionName = {
+			"7제련 시, LUK + 7. ",
+			"12제련 시, LUK + 1, 크리티컬 데미지 + 8% 추가 증가. ",
+			"13제련 시, LUK + 1, 크리티컬 데미지 + 6% 추가 증가."
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29009] = {
+		unidentifiedDisplayName = "체력의 니브 1Lv",
+		unidentifiedResourceName = "체력의니브",
+		unidentifiedDescriptionName = { "7제련 시, VIT + 5.", "10제련 시, MHP + 5%." },
+		identifiedDisplayName = "체력의 니브 1Lv",
+		identifiedResourceName = "체력의니브",
+		identifiedDescriptionName = { "7제련 시, VIT + 5.", "10제련 시, MHP + 5%." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29010] = {
+		unidentifiedDisplayName = "체력의 니브 2Lv",
+		unidentifiedResourceName = "체력의니브",
+		unidentifiedDescriptionName = { "7제련 시, VIT + 6. ", "11제련 시, VIT + 1, MHP + 7% 추가 증가." },
+		identifiedDisplayName = "체력의 니브 2Lv",
+		identifiedResourceName = "체력의니브",
+		identifiedDescriptionName = { "7제련 시, VIT + 6. ", "11제련 시, VIT + 1, MHP + 7% 추가 증가." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29011] = {
+		unidentifiedDisplayName = "체력의 니브 3Lv",
+		unidentifiedResourceName = "체력의니브",
+		unidentifiedDescriptionName = {
+			"7제련 시, VIT + 7. ",
+			"12제련 시, VIT + 1, MHP + 8% 추가 증가.",
+			"13제련 시, VIT + 1, MHP + 2% 추가 증가."
+		},
+		identifiedDisplayName = "체력의 니브 3Lv",
+		identifiedResourceName = "체력의니브",
+		identifiedDescriptionName = {
+			"7제련 시, VIT + 7. ",
+			"12제련 시, VIT + 1, MHP + 8% 추가 증가.",
+			"13제련 시, VIT + 1, MHP + 2% 추가 증가."
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29013] = {
+		unidentifiedDisplayName = "HP흡수3",
+		unidentifiedResourceName = "묘안석",
+		unidentifiedDescriptionName = { "1% 확률로 적에게 준 물리 대미지의 1% 를 자신의 HP로 흡수." },
+		identifiedDisplayName = "HP흡수3",
+		identifiedResourceName = "묘안석",
+		identifiedDescriptionName = { "1% 확률로 적에게 준 물리 대미지의 3% 를 자신의 HP로 흡수." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29014] = {
+		unidentifiedDisplayName = "STR+3 INT-3",
+		unidentifiedResourceName = "용의보주_홍",
+		unidentifiedDescriptionName = { "STR + 3, INT - 3." },
+		identifiedDisplayName = "STR+3 INT-3",
+		identifiedResourceName = "용의보주_홍",
+		identifiedDescriptionName = { "STR + 3, INT - 3." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29015] = {
+		unidentifiedDisplayName = "STR+3 DEX-3",
+		unidentifiedResourceName = "용의보주_홍",
+		unidentifiedDescriptionName = { "STR + 3, DEX - 3.", "STR+3 INT-3 과 함께 장착시, DEX + 3, INT + 3." },
+		identifiedDisplayName = "STR+3 DEX-3",
+		identifiedResourceName = "용의보주_홍",
+		identifiedDescriptionName = { "STR + 3, DEX - 3.", "STR+3 INT-3 과 함께 장착시, DEX + 3, INT + 3." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29016] = {
+		unidentifiedDisplayName = "INT+3 DEX-3",
+		unidentifiedResourceName = "용의보주_청",
+		unidentifiedDescriptionName = { "INT + 3, DEX - 3." },
+		identifiedDisplayName = "INT+3 DEX-3",
+		identifiedResourceName = "용의보주_청",
+		identifiedDescriptionName = { "INT + 3, DEX - 3." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29017] = {
+		unidentifiedDisplayName = "INT+3 VIT-3",
+		unidentifiedResourceName = "용의보주_청",
+		unidentifiedDescriptionName = { "INT + 3, VIT - 3.", "INT+3 DEX-3 과 함께 장착시, DEX + 3, VIT + 3." },
+		identifiedDisplayName = "INT+3 VIT-3",
+		identifiedResourceName = "용의보주_청",
+		identifiedDescriptionName = { "INT + 3, VIT - 3.", "INT+3 DEX-3 과 함께 장착시, DEX + 3, VIT + 3." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29018] = {
+		unidentifiedDisplayName = "DEX+3 VIT-3",
+		unidentifiedResourceName = "용의보주_녹",
+		unidentifiedDescriptionName = { "DEX + 3, VIT - 3." },
+		identifiedDisplayName = "DEX+3 VIT-3",
+		identifiedResourceName = "용의보주_녹",
+		identifiedDescriptionName = { "DEX + 3, VIT - 3." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29019] = {
+		unidentifiedDisplayName = "DEX+3 AGI-3",
+		unidentifiedResourceName = "용의보주_녹",
+		unidentifiedDescriptionName = { "DEX + 3, AGI - 3.", "DEX+3 VIT-3 과 함께 장착시, VIT + 3, AGI + 3." },
+		identifiedDisplayName = "DEX+3 AGI-3",
+		identifiedResourceName = "용의보주_녹",
+		identifiedDescriptionName = { "DEX + 3, AGI - 3.", "DEX+3 VIT-3 과 함께 장착시, VIT + 3, AGI + 3." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29020] = {
+		unidentifiedDisplayName = "VIT+3 AGI-3",
+		unidentifiedResourceName = "용의보주_황",
+		unidentifiedDescriptionName = { "VIT + 3, AGI - 3." },
+		identifiedDisplayName = "VIT+3 AGI-3",
+		identifiedResourceName = "용의보주_황",
+		identifiedDescriptionName = { "VIT + 3, AGI - 3." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29021] = {
+		unidentifiedDisplayName = "VIT+3 LUK-3",
+		unidentifiedResourceName = "용의보주_황",
+		unidentifiedDescriptionName = { "VIT + 3, LUK - 3.", "VIT+3 AGI-3 과 함께 장착시, AGI + 3, LUK + 3." },
+		identifiedDisplayName = "VIT+3 LUK-3",
+		identifiedResourceName = "용의보주_황",
+		identifiedDescriptionName = { "VIT + 3, LUK - 3.", "VIT+3 AGI-3 과 함께 장착시, AGI + 3, LUK + 3." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29022] = {
+		unidentifiedDisplayName = "AGI+3 LUK-3",
+		unidentifiedResourceName = "푸른묘안석",
+		unidentifiedDescriptionName = { "AGI + 3, LUK - 3." },
+		identifiedDisplayName = "AGI+3 LUK-3",
+		identifiedResourceName = "푸른묘안석",
+		identifiedDescriptionName = { "AGI + 3, LUK - 3." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29023] = {
+		unidentifiedDisplayName = "AGI+3 STR-3",
+		unidentifiedResourceName = "푸른묘안석",
+		unidentifiedDescriptionName = { "AGI + 3, STR - 3.", "AGI+3 LUK-3 과 함께 장착시, LUK + 3, STR + 3." },
+		identifiedDisplayName = "AGI+3 STR-3",
+		identifiedResourceName = "푸른묘안석",
+		identifiedDescriptionName = { "AGI + 3, STR - 3.", "AGI+3 LUK-3 과 함께 장착시, LUK + 3, STR + 3." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29024] = {
+		unidentifiedDisplayName = "LUK+3 STR-3",
+		unidentifiedResourceName = "하얀묘안석",
+		unidentifiedDescriptionName = { "LUK + 3, STR - 3." },
+		identifiedDisplayName = "LUK+3 STR-3",
+		identifiedResourceName = "하얀묘안석",
+		identifiedDescriptionName = { "LUK + 3, STR - 3." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29025] = {
+		unidentifiedDisplayName = "LUK+3 INT-3",
+		unidentifiedResourceName = "하얀묘안석",
+		unidentifiedDescriptionName = { "LUK + 3, INT - 3.", "LUK+3 STR-3 과 함께 장착시, STR + 3, INT + 3." },
+		identifiedDisplayName = "LUK+3 INT-3",
+		identifiedResourceName = "하얀묘안석",
+		identifiedDescriptionName = { "LUK + 3, INT - 3.", "LUK+3 STR-3 과 함께 장착시, STR + 3, INT + 3." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29026] = {
+		unidentifiedDisplayName = "DEF+20",
+		unidentifiedResourceName = "마력석_검정",
+		unidentifiedDescriptionName = { "DEF + 20" },
+		identifiedDisplayName = "DEF+20",
+		identifiedResourceName = "마력석_검정",
+		identifiedDescriptionName = { "DEF + 20" },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29027] = {
+		unidentifiedDisplayName = "경험치+2%",
+		unidentifiedResourceName = "블루젬스톤",
+		unidentifiedDescriptionName = { "몬스터를 죽였을 시, 획득 경험치 2% 증가." },
+		identifiedDisplayName = "경험치+2%",
+		identifiedResourceName = "블루젬스톤",
+		identifiedDescriptionName = { "몬스터를 죽였을 시, 획득 경험치 2% 증가." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29028] = {
+		unidentifiedDisplayName = "ATK + 1%",
+		unidentifiedResourceName = "마력석_노랑",
+		unidentifiedDescriptionName = { "ATK + 1%.", "의상 중단, 하단의 인챈트 슬롯에 ATK + 1%를 장착시, ATK + 2% 추가." },
+		identifiedDisplayName = "ATK + 1%",
+		identifiedResourceName = "마력석_노랑",
+		identifiedDescriptionName = { "ATK + 1%.", "의상 중단, 하단의 인챈트 슬롯에 ATK + 1%를 장착시, ATK + 2% 추가." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29029] = {
+		unidentifiedDisplayName = "ATK + 1%",
+		unidentifiedResourceName = "마력석_파랑",
+		unidentifiedDescriptionName = { "ATK + 1%." },
+		identifiedDisplayName = "ATK + 1%",
+		identifiedResourceName = "마력석_파랑",
+		identifiedDescriptionName = { "ATK + 1%." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29030] = {
+		unidentifiedDisplayName = "MATK + 1%",
+		unidentifiedResourceName = "마력석_노랑",
+		unidentifiedDescriptionName = {
+			"MATK + 1%.",
+			"의상 중단, 하단의 인챈트 슬롯에 MATK + 1%를 장착시, MATK + 2% 추가."
+		},
+		identifiedDisplayName = "MATK + 1%",
+		identifiedResourceName = "마력석_노랑",
+		identifiedDescriptionName = {
+			"MATK + 1%.",
+			"의상 중단, 하단의 인챈트 슬롯에 MATK + 1%를 장착시, MATK + 2% 추가."
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29031] = {
+		unidentifiedDisplayName = "MATK + 1%",
+		unidentifiedResourceName = "마력석_파랑",
+		unidentifiedDescriptionName = { "MATK + 1%." },
+		identifiedDisplayName = "MATK + 1%",
+		identifiedResourceName = "마력석_파랑",
+		identifiedDescriptionName = { "MATK + 1%." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29032] = {
+		unidentifiedDisplayName = "SP흡수1",
+		unidentifiedResourceName = "푸른묘안석",
+		unidentifiedDescriptionName = { "1% 확률로 적에게 준 물리 대미지의 1% 를 자신의 SP로 흡수." },
+		identifiedDisplayName = "SP흡수1",
+		identifiedResourceName = "푸른묘안석",
+		identifiedDescriptionName = { "1% 확률로 적에게 준 물리 대미지의 1% 를 자신의 SP로 흡수." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29033] = {
+		unidentifiedDisplayName = "MDEF+4",
+		unidentifiedResourceName = "마력석_초록",
+		unidentifiedDescriptionName = { "MDEF + 4", "DEF+20 과 함께 장착시, HIT + 5, FLEE + 5." },
+		identifiedDisplayName = "MDEF+4",
+		identifiedResourceName = "마력석_초록",
+		identifiedDescriptionName = { "MDEF + 4", "DEF+20 과 함께 장착시, HIT + 5, FLEE + 5." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
