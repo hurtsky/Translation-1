@@ -1,5 +1,5 @@
 // Item ID,	Candrop,	CanTrade,	StorageAble,	CanPutOnCart,	CanSell to NPC,	CanMail,	CanAuction,	GStorageable.
-// 이형식은 공백 라인을 인정하지 않습니다. 주의하세요.	
+// Warning: Blank lines are not allowed.
 2634	1	1	1	1	1	1	1	1	// 신랑결혼반지
 2635	1	1	1	1	1	1	1	1	// 신부결혼반지
 7177	1	1	1	1	1	1	1	1	// 별의 흐느낌조각
