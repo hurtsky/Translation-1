@@ -576,10 +576,10 @@
 4585#Cursed#
 4586#of Wind#
 4587#Slasher#
-4588#Of Power#
-4589#Of Richness#
-4590#Of Helpless#
-4591#Of Bloody#
+4588#of Power#
+4589#of Richness#
+4590#of Helpless#
+4591#of Bloody#
 4592#of Stone Curse#
 4593#of Shooter#
 4594#of Death Blow#
@@ -589,12 +589,12 @@
 4598#of Telekinesis#
 4599#of Fire#
 4600#of Ground#
-4601#Of Explosion#
+4601#of Explosion#
 4602#of Fury#
 4603#of Evil Spirit#
 4604#of Evil God#
-4605#Of Hunger#
-4606#Of Revenge#
+4605#of Hunger#
+4606#of Revenge#
 4607#of Librarian#
 
 4485#Half Abyss#
@@ -621,7 +621,7 @@
 4491#Half of Squeezing#
 
 4503#Half of Vision#
-4539#Hafl Arrogant#
+4539#Half Arrogant#
 
 //--- Agustus 2014 Nightmare Clock Tower
 4625#Sage#
@@ -643,4 +643,4 @@
 4638#Plaid#
 4639#Martial#
 4640#Noetic#
-4641#Of Soul Gathering#
+4641#of Soul Gathering#
