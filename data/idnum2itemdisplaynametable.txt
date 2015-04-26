@@ -6932,6 +6932,7 @@
 13074#Ninja_Cutter#
 13075#Kurenai#
 13076#Raksasa_Dagger#
+13077#Kagekiri#
 13078#Mikatsuki#
 13079#Metal_Dagger#
 13080#Rogue_Knife#

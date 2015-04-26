@@ -12437,7 +12437,7 @@ Weight: ^7777771^000000
 #
 4598#
 MATK +10, increases damage inflicted with magic ^777777Ghost^000000 Property by 5%.
-If refine to +9 or more increases damage inflicted with magic ^777777Ghost^0000000 Property by 5%.
+If refine to +9 or more increases damage inflicted with magic ^777777Ghost^000000 Property by 5%.
 Class: ^777777Card^000000
 Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
@@ -31152,12 +31152,12 @@ Weight: ^77777720^000000
 12677#
 A quiver that contains 200 Siege Arrow S.
 Required Level: ^777777130^000000.
-Weight: ^77777710^00000000
+Weight: ^77777710^000000
 #
 12678#
 A quiver that contains 200 Siege Arrow A.
 Required Level: ^77777795^000000
-Weight: ^77777710^00000000
+Weight: ^77777710^000000
 #
 12679#
 A box that contains WoE White Potions
@@ -33282,6 +33282,9 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 13076#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+13077#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 13078#
