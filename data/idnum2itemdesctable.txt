@@ -25264,7 +25264,7 @@ MaxHP +50
 MaxSP +10
 #
 4929#
-MSP+1%.
+MaxSP +1%
 #
 4930#
 Increase item recovery effect +2%.
@@ -64979,8 +64979,20 @@ Weight: ^77777730^000000
 14610#
 #
 14611#
+^ff0000Cannot be traded.^000000
+A potion made out of a dragon's strong skin which acts as a special medicine.
+Increase tolerance to physical attacks by 3% for 3 min.
+The effect vanishes when the player dies or gets dispelled.
+^ffffff_^000000
+Weight: ^7777771^000000
 #
 14612#
+^ff0000Cannot be traded.^000000
+A potion made out of a elf's mustache which acts as a special medicine.
+Increase tolerance to magical attacks by 3% for 2 min.
+The effect vanishes when the player dies or gets dispelled.
+^ffffff_^000000
+Weight: ^7777771^000000
 #
 14613#
 A box that contains 1 of the following:

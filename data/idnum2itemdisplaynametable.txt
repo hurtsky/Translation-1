@@ -1975,13 +1975,13 @@
 2916#Fairy_Wing#
 2917#Str_Glove#
 2918#Int_Glove#
-2919#AGI_Glove#
+2919#Agi_Glove#
 2920#Vit_Glove#
 2921#Dex_Glove#
 2922#Luk_Glove#
 2923#Str_Glove#
 2924#Int_Glove#
-2925#AGI_Glove#
+2925#Agi_Glove#
 2926#Vit_Glove#
 2927#Dex_Glove#
 2928#Luk_Glove#
@@ -2911,8 +2911,8 @@
 4925#Essence_Of_Evil_LUK_3#
 4926#Critical_Lv1#
 4927#MaxHP50#
-4928#MaxSP_+10#
-4929#MSP+1%#
+4928#MaxSP+10#
+4929#MaxSP+1%#
 4930#Increase_Recovery#
 4931#Healing_10#
 4932#SP_Recovery_1#
@@ -7579,7 +7579,7 @@
 13910#XM_Brewing_Set_Box#
 13911#Christmas_Pet_Scroll#
 13912#Party_Blessing_10_Scroll_Box#
-13913#Party_Increase_AGI_10_Scroll_Box#
+13913#Party_Increase_Agi_10_Scroll_Box#
 13914#Party_Assumptio_5_Scroll_Box#
 13915#Love_Angel_Magic_Powder_Box#
 13916#Squirrel_Magic_Powder_Box#
@@ -8249,7 +8249,7 @@
 14586#Jumping_Candy#
 14587#Equipment_Repair_Spell_Book#
 14588#Party_Blessing_10_Scroll#
-14589#Party_Increase_AGI_10_Scroll#
+14589#Party_Increase_Agi_10_Scroll#
 14590#Party_Assumptio_5_Scroll#
 14591#WoE_Teleport_Scroll#
 14592#Job_Battle_Manual#
@@ -8271,8 +8271,8 @@
 14608#Manchu-Han_Imperial_Feast#
 14609#Spoiled_Cuisine#
 14610#Luxury_Christmas_Box#
-14611#M_DEF_Potion#
-14612#M_MDEF_Potion#
+14611#Medium_Defense_Potion#
+14612#Medium_Magic_Defense_Potion#
 14613#RWC_Arms_Box#
 14614#Special_Defense_Potion#
 14615##
@@ -9061,7 +9061,7 @@
 16753#Blessed_Weapon_Ore_Box#
 16754#F_Unbreak_Weap_Box#
 16755#Blessed_Armor_Ore_Box#
-16756#F_Unbreak_DEF_Box#
+16756#F_Unbreak_Def_Box#
 16757#halloween_Scroll#
 16758#Umbala_Spirit_Box#
 16759#Umbala_Spirit_Box#

@@ -2911,8 +2911,8 @@
 4925#Essence_Of_Evil_LUK_3#
 4926#Critical_Lv1#
 4927#MaxHP50#
-4928#MaxSP_+10#
-4929#MSP+1%#
+4928#MaxSP+10#
+4929#MaxSP+1%#
 4930#Increase_Recovery#
 4931#Healing_10#
 4932#SP_Recovery_1#
@@ -7579,7 +7579,7 @@
 13910#Brewing_Set_Box#
 13911#Sweet_Pet_Scroll#
 13912#Party_Blessing_Box#
-13913#Party_Increase_AGI_10_Box#
+13913#Party_Increase_Agi_10_Box#
 13914#Party_Assumptio_10_Box#
 13915#Love_Angel_Magic_Powder_Box#
 13916#Squirrel_Magic_Powder_Box#
@@ -8249,7 +8249,7 @@
 14586#Sparkling_Candy#
 14587#Repair_Weapon_Scroll#
 14588#Party_Blessing_Scroll#
-14589#Party_Increase_AGI_Scroll#
+14589#Party_Increase_Agi_Scroll#
 14590#Party_Assumptio_Scroll#
 14591#WoE_Teleport_Scroll#
 14592#Job_Battle_Manual#
@@ -8271,8 +8271,8 @@
 14608#Manchu-Han_Imperial_Feast#
 14609#Spoiled_Cuisine#
 14610##
-14611##
-14612##
+14611#Medium_Defense_Potion#
+14612#Medium_Magic_Defense_Potion#
 14613#RWC_Arms_Box#
 14614#Special_Defense_Potion#
 14615##
@@ -9061,7 +9061,7 @@
 16753#Unbreak_Weap_Box#
 16754#F_Unbreak_Weap_Box#
 16755#Unbreak_DEF_Box#
-16756#F_Unbreak_DEF_Box#
+16756#F_Unbreak_Def_Box#
 16757#Hallo_Scroll#
 16758#Umbala_Spirit_Box#
 16759##
