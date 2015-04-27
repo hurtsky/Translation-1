@@ -1159,6 +1159,7 @@
 		slotCount = 0,
 		ClassNum = 0
 	},
+
 	[4999] = {
 		unidentifiedDisplayName = "민첩의 니브 3Lv",
 		unidentifiedResourceName = "민첩의니브",
@@ -1178,6 +1179,174 @@
 		ClassNum = 0
 	},
 
+	[29000] = {
+		unidentifiedDisplayName = "마력의 니브 1Lv",
+		unidentifiedResourceName = "마력의니브",
+		unidentifiedDescriptionName = { "7제련 시, INT + 5.", "10제련 시, MATK + 5%." },
+		identifiedDisplayName = "마력의 니브 1Lv",
+		identifiedResourceName = "마력의니브",
+		identifiedDescriptionName = { "7제련 시, INT + 5.", "10제련 시, MATK + 5%." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29001] = {
+		unidentifiedDisplayName = "마력의 니브 2Lv",
+		unidentifiedResourceName = "마력의니브",
+		unidentifiedDescriptionName = { "7제련 시, INT + 6. ", "11제련 시, INT + 1, MATK + 7% 추가 증가." },
+		identifiedDisplayName = "마력의 니브 2Lv",
+		identifiedResourceName = "마력의니브",
+		identifiedDescriptionName = { "7제련 시, INT + 6. ", "11제련 시, INT + 1, MATK + 7% 추가 증가." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29002] = {
+		unidentifiedDisplayName = "마력의 니브 3Lv",
+		unidentifiedResourceName = "마력의니브",
+		unidentifiedDescriptionName = {
+			"7제련 시, INT + 7. ",
+			"12제련 시, INT + 1, MATK + 8% 추가 증가.",
+			"13제련 시, INT + 1, MATK + 2% 추가 증가."
+		},
+		identifiedDisplayName = "마력의 니브 3Lv",
+		identifiedResourceName = "마력의니브",
+		identifiedDescriptionName = {
+			"7제련 시, INT + 7. ",
+			"12제련 시, INT + 1, MATK + 8% 추가 증가.",
+			"13제련 시, INT + 1, MATK + 2% 추가 증가."
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29003] = {
+		unidentifiedDisplayName = "손재주의 니브 1Lv",
+		unidentifiedResourceName = "손재주의니브",
+		unidentifiedDescriptionName = { "7제련 시, DEX + 5.", "10제련 시, 원거리 물리 데미지+ 5%." },
+		identifiedDisplayName = "손재주의 니브 1Lv",
+		identifiedResourceName = "손재주의니브",
+		identifiedDescriptionName = { "7제련 시, DEX + 5.", "10제련 시, 원거리 물리 데미지+ 5%." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29004] = {
+		unidentifiedDisplayName = "손재주의 니브 2Lv",
+		unidentifiedResourceName = "손재주의니브",
+		unidentifiedDescriptionName = { "7제련 시, DEX + 6. ", "11제련 시, DEX + 1, 원거리 물리 데미지 + 7% 추가 증가." },
+		identifiedDisplayName = "손재주의 니브 2Lv",
+		identifiedResourceName = "손재주의니브",
+		identifiedDescriptionName = { "7제련 시, DEX + 6. ", "11제련 시, DEX + 1, 원거리 물리 데미지 + 7% 추가 증가." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29005] = {
+		unidentifiedDisplayName = "손재주의 니브 3Lv",
+		unidentifiedResourceName = "손재주의니브",
+		unidentifiedDescriptionName = {
+			"7제련 시, DEX + 7. ",
+			"12제련 시, DEX + 1, 원거리 물리 데미지 + 8% 추가 증가.",
+			"13제련 시, DEX + 1, 원거리 물리 데미지 + 2% 추가 증가."
+		},
+		identifiedDisplayName = "손재주의 니브 3Lv",
+		identifiedResourceName = "손재주의니브",
+		identifiedDescriptionName = {
+			"7제련 시, DEX + 7. ",
+			"12제련 시, DEX + 1, 원거리 물리 데미지 + 8% 추가 증가.",
+			"13제련 시, DEX + 1, 원거리 물리 데미지 + 2% 추가 증가."
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29006] = {
+		unidentifiedDisplayName = "운의 니브 1Lv",
+		unidentifiedResourceName = "운의니브",
+		unidentifiedDescriptionName = { "7제련 시, LUK + 5.", "10제련 시, 크리티컬 데미지 + 5%." },
+		identifiedDisplayName = "운의 니브 1Lv",
+		identifiedResourceName = "운의니브",
+		identifiedDescriptionName = { "7제련 시, LUK + 5.", "10제련 시, 크리티컬 데미지 + 5%." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29007] = {
+		unidentifiedDisplayName = "운의 니브 2Lv",
+		unidentifiedResourceName = "운의니브",
+		unidentifiedDescriptionName = { "7제련 시, LUK + 6. ", "11제련 시, LUK + 1, 크리티컬 데미지 + 7% 추가 증가." },
+		identifiedDisplayName = "운의 니브 2Lv",
+		identifiedResourceName = "운의니브",
+		identifiedDescriptionName = { "7제련 시, LUK + 6. ", "11제련 시, LUK + 1, 크리티컬 데미지 + 7% 추가 증가." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29008] = {
+		unidentifiedDisplayName = "운의 니브 3Lv",
+		unidentifiedResourceName = "운의니브",
+		unidentifiedDescriptionName = {
+			"7제련 시, LUK + 7. ",
+			"12제련 시, LUK + 1, 크리티컬 데미지 + 8% 추가 증가. ",
+			"13제련 시, LUK + 1, 크리티컬 데미지 + 6% 추가 증가."
+		},
+		identifiedDisplayName = "운의 니브 3Lv",
+		identifiedResourceName = "운의니브",
+		identifiedDescriptionName = {
+			"7제련 시, LUK + 7. ",
+			"12제련 시, LUK + 1, 크리티컬 데미지 + 8% 추가 증가. ",
+			"13제련 시, LUK + 1, 크리티컬 데미지 + 6% 추가 증가."
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29009] = {
+		unidentifiedDisplayName = "체력의 니브 1Lv",
+		unidentifiedResourceName = "체력의니브",
+		unidentifiedDescriptionName = { "7제련 시, VIT + 5.", "10제련 시, MHP + 5%." },
+		identifiedDisplayName = "체력의 니브 1Lv",
+		identifiedResourceName = "체력의니브",
+		identifiedDescriptionName = { "7제련 시, VIT + 5.", "10제련 시, MHP + 5%." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29010] = {
+		unidentifiedDisplayName = "체력의 니브 2Lv",
+		unidentifiedResourceName = "체력의니브",
+		unidentifiedDescriptionName = { "7제련 시, VIT + 6. ", "11제련 시, VIT + 1, MHP + 7% 추가 증가." },
+		identifiedDisplayName = "체력의 니브 2Lv",
+		identifiedResourceName = "체력의니브",
+		identifiedDescriptionName = { "7제련 시, VIT + 6. ", "11제련 시, VIT + 1, MHP + 7% 추가 증가." },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29011] = {
+		unidentifiedDisplayName = "체력의 니브 3Lv",
+		unidentifiedResourceName = "체력의니브",
+		unidentifiedDescriptionName = {
+			"7제련 시, VIT + 7. ",
+			"12제련 시, VIT + 1, MHP + 8% 추가 증가.",
+			"13제련 시, VIT + 1, MHP + 2% 추가 증가."
+		},
+		identifiedDisplayName = "체력의 니브 3Lv",
+		identifiedResourceName = "체력의니브",
+		identifiedDescriptionName = {
+			"7제련 시, VIT + 7. ",
+			"12제련 시, VIT + 1, MHP + 8% 추가 증가.",
+			"13제련 시, VIT + 1, MHP + 2% 추가 증가."
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+// --------------------------------------------------
+// ------------------KRO 2015-04-22------------------
+// --------------------------------------------------
+
 	[6999] = {
 		unidentifiedDisplayName = "HP흡수스톤(상단)",
 		unidentifiedResourceName = "영혼의조각",
@@ -1196,6 +1365,336 @@
 			"^ffffff<NAVI>^4D4DFF[아베르 르 도쉬]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000",
 			"무게 : ^77777710^000000"
 		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[22909] = {
+		unidentifiedDisplayName = "무기 5제련 상품권",
+		unidentifiedResourceName = "무기제련권",
+		unidentifiedDescriptionName = { "무기 5제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		identifiedDisplayName = "무기 5제련 상품권",
+		identifiedResourceName = "무기제련권",
+		identifiedDescriptionName = { "무기 5제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[22910] = {
+		unidentifiedDisplayName = "무기 6제련 상품권",
+		unidentifiedResourceName = "무기제련권",
+		unidentifiedDescriptionName = { "무기 6제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		identifiedDisplayName = "무기 6제련 상품권",
+		identifiedResourceName = "무기제련권",
+		identifiedDescriptionName = { "무기 6제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[22911] = {
+		unidentifiedDisplayName = "무기 7제련 상품권",
+		unidentifiedResourceName = "무기제련권",
+		unidentifiedDescriptionName = { "무기 7제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		identifiedDisplayName = "무기 7제련 상품권",
+		identifiedResourceName = "무기제련권",
+		identifiedDescriptionName = { "무기 7제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[22912] = {
+		unidentifiedDisplayName = "무기 8제련 상품권",
+		unidentifiedResourceName = "무기제련권",
+		unidentifiedDescriptionName = { "무기 8제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		identifiedDisplayName = "무기 8제련 상품권",
+		identifiedResourceName = "무기제련권",
+		identifiedDescriptionName = { "무기 8제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[22913] = {
+		unidentifiedDisplayName = "무기 9제련 상품권",
+		unidentifiedResourceName = "무기제련권",
+		unidentifiedDescriptionName = { "무기 9제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		identifiedDisplayName = "무기 9제련 상품권",
+		identifiedResourceName = "무기제련권",
+		identifiedDescriptionName = { "무기 9제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[22915] = {
+		unidentifiedDisplayName = "무기 11제련 상품권",
+		unidentifiedResourceName = "무기제련권",
+		unidentifiedDescriptionName = { "무기 11제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		identifiedDisplayName = "무기 11제련 상품권",
+		identifiedResourceName = "무기제련권",
+		identifiedDescriptionName = { "무기 11제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[22916] = {
+		unidentifiedDisplayName = "무기 12제련 상품권",
+		unidentifiedResourceName = "무기제련권",
+		unidentifiedDescriptionName = { "무기 12제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		identifiedDisplayName = "무기 12제련 상품권",
+		identifiedResourceName = "무기제련권",
+		identifiedDescriptionName = { "무기 12제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[22917] = {
+		unidentifiedDisplayName = "무기 13제련 상품권",
+		unidentifiedResourceName = "무기제련권",
+		unidentifiedDescriptionName = { "무기 13제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		identifiedDisplayName = "무기 13제련 상품권",
+		identifiedResourceName = "무기제련권",
+		identifiedDescriptionName = { "무기 13제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[22918] = {
+		unidentifiedDisplayName = "무기 14제련 상품권",
+		unidentifiedResourceName = "무기제련권",
+		unidentifiedDescriptionName = { "무기 14제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		identifiedDisplayName = "무기 14제련 상품권",
+		identifiedResourceName = "무기제련권",
+		identifiedDescriptionName = { "무기 14제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[22919] = {
+		unidentifiedDisplayName = "무기 15제련 상품권",
+		unidentifiedResourceName = "무기제련권",
+		unidentifiedDescriptionName = { "무기 15제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		identifiedDisplayName = "무기 15제련 상품권",
+		identifiedResourceName = "무기제련권",
+		identifiedDescriptionName = { "무기 15제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[22920] = {
+		unidentifiedDisplayName = "무기 16제련 상품권",
+		unidentifiedResourceName = "무기제련권",
+		unidentifiedDescriptionName = { "무기 16제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		identifiedDisplayName = "무기 16제련 상품권",
+		identifiedResourceName = "무기제련권",
+		identifiedDescriptionName = { "무기 16제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[22921] = {
+		unidentifiedDisplayName = "무기 17제련 상품권",
+		unidentifiedResourceName = "무기제련권",
+		unidentifiedDescriptionName = { "무기 17제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		identifiedDisplayName = "무기 17제련 상품권",
+		identifiedResourceName = "무기제련권",
+		identifiedDescriptionName = { "무기 17제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[22922] = {
+		unidentifiedDisplayName = "무기 18제련 상품권",
+		unidentifiedResourceName = "무기제련권",
+		unidentifiedDescriptionName = { "무기 18제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		identifiedDisplayName = "무기 18제련 상품권",
+		identifiedResourceName = "무기제련권",
+		identifiedDescriptionName = { "무기 18제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[22923] = {
+		unidentifiedDisplayName = "무기 19제련 상품권",
+		unidentifiedResourceName = "무기제련권",
+		unidentifiedDescriptionName = { "무기 19제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		identifiedDisplayName = "무기 19제련 상품권",
+		identifiedResourceName = "무기제련권",
+		identifiedDescriptionName = { "무기 19제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[22924] = {
+		unidentifiedDisplayName = "방어구 5제련 상품권",
+		unidentifiedResourceName = "방어구제련권",
+		unidentifiedDescriptionName = { "방어구 5제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		identifiedDisplayName = "방어구 5제련 상품권",
+		identifiedResourceName = "방어구제련권",
+		identifiedDescriptionName = { "방어구 5제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[22925] = {
+		unidentifiedDisplayName = "방어구 6제련 상품권",
+		unidentifiedResourceName = "방어구제련권",
+		unidentifiedDescriptionName = { "방어구 6제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		identifiedDisplayName = "방어구 6제련 상품권",
+		identifiedResourceName = "방어구제련권",
+		identifiedDescriptionName = { "방어구 6제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[22926] = {
+		unidentifiedDisplayName = "방어구 7제련 상품권",
+		unidentifiedResourceName = "방어구제련권",
+		unidentifiedDescriptionName = { "방어구 7제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		identifiedDisplayName = "방어구 7제련 상품권",
+		identifiedResourceName = "방어구제련권",
+		identifiedDescriptionName = { "방어구 7제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[22927] = {
+		unidentifiedDisplayName = "방어구 8제련 상품권",
+		unidentifiedResourceName = "방어구제련권",
+		unidentifiedDescriptionName = { "방어구 8제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		identifiedDisplayName = "방어구 8제련 상품권",
+		identifiedResourceName = "방어구제련권",
+		identifiedDescriptionName = { "방어구 8제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[22928] = {
+		unidentifiedDisplayName = "방어구 9제련 상품권",
+		unidentifiedResourceName = "방어구제련권",
+		unidentifiedDescriptionName = { "방어구 9제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		identifiedDisplayName = "방어구 9제련 상품권",
+		identifiedResourceName = "방어구제련권",
+		identifiedDescriptionName = { "방어구 9제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[22930] = {
+		unidentifiedDisplayName = "방어구 11제련 상품권",
+		unidentifiedResourceName = "방어구제련권",
+		unidentifiedDescriptionName = { "방어구 11제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		identifiedDisplayName = "방어구 11제련 상품권",
+		identifiedResourceName = "방어구제련권",
+		identifiedDescriptionName = { "방어구 11제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[22931] = {
+		unidentifiedDisplayName = "방어구 12제련 상품권",
+		unidentifiedResourceName = "방어구제련권",
+		unidentifiedDescriptionName = { "방어구 12제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		identifiedDisplayName = "방어구 12제련 상품권",
+		identifiedResourceName = "방어구제련권",
+		identifiedDescriptionName = { "방어구 12제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[22932] = {
+		unidentifiedDisplayName = "방어구 13제련 상품권",
+		unidentifiedResourceName = "방어구제련권",
+		unidentifiedDescriptionName = { "방어구 13제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		identifiedDisplayName = "방어구 13제련 상품권",
+		identifiedResourceName = "방어구제련권",
+		identifiedDescriptionName = { "방어구 13제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[22933] = {
+		unidentifiedDisplayName = "방어구 14제련 상품권",
+		unidentifiedResourceName = "방어구제련권",
+		unidentifiedDescriptionName = { "방어구 14제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		identifiedDisplayName = "방어구 14제련 상품권",
+		identifiedResourceName = "방어구제련권",
+		identifiedDescriptionName = { "방어구 14제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[22934] = {
+		unidentifiedDisplayName = "방어구 15제련 상품권",
+		unidentifiedResourceName = "방어구제련권",
+		unidentifiedDescriptionName = { "방어구 15제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		identifiedDisplayName = "방어구 15제련 상품권",
+		identifiedResourceName = "방어구제련권",
+		identifiedDescriptionName = { "방어구 15제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[22935] = {
+		unidentifiedDisplayName = "방어구 16제련 상품권",
+		unidentifiedResourceName = "방어구제련권",
+		unidentifiedDescriptionName = { "방어구 16제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		identifiedDisplayName = "방어구 16제련 상품권",
+		identifiedResourceName = "방어구제련권",
+		identifiedDescriptionName = { "방어구 16제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[22936] = {
+		unidentifiedDisplayName = "방어구 17제련 상품권",
+		unidentifiedResourceName = "방어구제련권",
+		unidentifiedDescriptionName = { "방어구 17제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		identifiedDisplayName = "방어구 17제련 상품권",
+		identifiedResourceName = "방어구제련권",
+		identifiedDescriptionName = { "방어구 17제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[22937] = {
+		unidentifiedDisplayName = "방어구 18제련 상품권",
+		unidentifiedResourceName = "방어구제련권",
+		unidentifiedDescriptionName = { "방어구 18제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		identifiedDisplayName = "방어구 18제련 상품권",
+		identifiedResourceName = "방어구제련권",
+		identifiedDescriptionName = { "방어구 18제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[22938] = {
+		unidentifiedDisplayName = "방어구 19제련 상품권",
+		unidentifiedResourceName = "방어구제련권",
+		unidentifiedDescriptionName = { "방어구 19제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		identifiedDisplayName = "방어구 19제련 상품권",
+		identifiedResourceName = "방어구제련권",
+		identifiedDescriptionName = { "방어구 19제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[22943] = {
+		unidentifiedDisplayName = "방어구 10제련 상품권",
+		unidentifiedResourceName = "방어구제련권",
+		unidentifiedDescriptionName = { "방어구 10제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		identifiedDisplayName = "방어구 10제련 상품권",
+		identifiedResourceName = "방어구제련권",
+		identifiedDescriptionName = { "방어구 10제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[22944] = {
+		unidentifiedDisplayName = "무기 10제련 상품권",
+		unidentifiedResourceName = "무기제련권",
+		unidentifiedDescriptionName = { "무기 10제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
+		identifiedDisplayName = "무기 10제련 상품권",
+		identifiedResourceName = "무기제련권",
+		identifiedDescriptionName = { "무기 10제련 보장권 1장이 들어 있는 봉투.", "무게 : ^7777771^000000" },
 		slotCount = 0,
 		ClassNum = 0
 	},
@@ -1652,170 +2151,6 @@
 		ClassNum = 0
 	},
 
-	[29000] = {
-		unidentifiedDisplayName = "마력의 니브 1Lv",
-		unidentifiedResourceName = "마력의니브",
-		unidentifiedDescriptionName = { "7제련 시, INT + 5.", "10제련 시, MATK + 5%." },
-		identifiedDisplayName = "마력의 니브 1Lv",
-		identifiedResourceName = "마력의니브",
-		identifiedDescriptionName = { "7제련 시, INT + 5.", "10제련 시, MATK + 5%." },
-		slotCount = 0,
-		ClassNum = 0
-	},
-
-	[29001] = {
-		unidentifiedDisplayName = "마력의 니브 2Lv",
-		unidentifiedResourceName = "마력의니브",
-		unidentifiedDescriptionName = { "7제련 시, INT + 6. ", "11제련 시, INT + 1, MATK + 7% 추가 증가." },
-		identifiedDisplayName = "마력의 니브 2Lv",
-		identifiedResourceName = "마력의니브",
-		identifiedDescriptionName = { "7제련 시, INT + 6. ", "11제련 시, INT + 1, MATK + 7% 추가 증가." },
-		slotCount = 0,
-		ClassNum = 0
-	},
-
-	[29002] = {
-		unidentifiedDisplayName = "마력의 니브 3Lv",
-		unidentifiedResourceName = "마력의니브",
-		unidentifiedDescriptionName = {
-			"7제련 시, INT + 7. ",
-			"12제련 시, INT + 1, MATK + 8% 추가 증가.",
-			"13제련 시, INT + 1, MATK + 2% 추가 증가."
-		},
-		identifiedDisplayName = "마력의 니브 3Lv",
-		identifiedResourceName = "마력의니브",
-		identifiedDescriptionName = {
-			"7제련 시, INT + 7. ",
-			"12제련 시, INT + 1, MATK + 8% 추가 증가.",
-			"13제련 시, INT + 1, MATK + 2% 추가 증가."
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-
-	[29003] = {
-		unidentifiedDisplayName = "손재주의 니브 1Lv",
-		unidentifiedResourceName = "손재주의니브",
-		unidentifiedDescriptionName = { "7제련 시, DEX + 5.", "10제련 시, 원거리 물리 데미지+ 5%." },
-		identifiedDisplayName = "손재주의 니브 1Lv",
-		identifiedResourceName = "손재주의니브",
-		identifiedDescriptionName = { "7제련 시, DEX + 5.", "10제련 시, 원거리 물리 데미지+ 5%." },
-		slotCount = 0,
-		ClassNum = 0
-	},
-
-	[29004] = {
-		unidentifiedDisplayName = "손재주의 니브 2Lv",
-		unidentifiedResourceName = "손재주의니브",
-		unidentifiedDescriptionName = { "7제련 시, DEX + 6. ", "11제련 시, DEX + 1, 원거리 물리 데미지 + 7% 추가 증가." },
-		identifiedDisplayName = "손재주의 니브 2Lv",
-		identifiedResourceName = "손재주의니브",
-		identifiedDescriptionName = { "7제련 시, DEX + 6. ", "11제련 시, DEX + 1, 원거리 물리 데미지 + 7% 추가 증가." },
-		slotCount = 0,
-		ClassNum = 0
-	},
-
-	[29005] = {
-		unidentifiedDisplayName = "손재주의 니브 3Lv",
-		unidentifiedResourceName = "손재주의니브",
-		unidentifiedDescriptionName = {
-			"7제련 시, DEX + 7. ",
-			"12제련 시, DEX + 1, 원거리 물리 데미지 + 8% 추가 증가.",
-			"13제련 시, DEX + 1, 원거리 물리 데미지 + 2% 추가 증가."
-		},
-		identifiedDisplayName = "손재주의 니브 3Lv",
-		identifiedResourceName = "손재주의니브",
-		identifiedDescriptionName = {
-			"7제련 시, DEX + 7. ",
-			"12제련 시, DEX + 1, 원거리 물리 데미지 + 8% 추가 증가.",
-			"13제련 시, DEX + 1, 원거리 물리 데미지 + 2% 추가 증가."
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-
-	[29006] = {
-		unidentifiedDisplayName = "운의 니브 1Lv",
-		unidentifiedResourceName = "운의니브",
-		unidentifiedDescriptionName = { "7제련 시, LUK + 5.", "10제련 시, 크리티컬 데미지 + 5%." },
-		identifiedDisplayName = "운의 니브 1Lv",
-		identifiedResourceName = "운의니브",
-		identifiedDescriptionName = { "7제련 시, LUK + 5.", "10제련 시, 크리티컬 데미지 + 5%." },
-		slotCount = 0,
-		ClassNum = 0
-	},
-
-	[29007] = {
-		unidentifiedDisplayName = "운의 니브 2Lv",
-		unidentifiedResourceName = "운의니브",
-		unidentifiedDescriptionName = { "7제련 시, LUK + 6. ", "11제련 시, LUK + 1, 크리티컬 데미지 + 7% 추가 증가." },
-		identifiedDisplayName = "운의 니브 2Lv",
-		identifiedResourceName = "운의니브",
-		identifiedDescriptionName = { "7제련 시, LUK + 6. ", "11제련 시, LUK + 1, 크리티컬 데미지 + 7% 추가 증가." },
-		slotCount = 0,
-		ClassNum = 0
-	},
-
-	[29008] = {
-		unidentifiedDisplayName = "운의 니브 3Lv",
-		unidentifiedResourceName = "운의니브",
-		unidentifiedDescriptionName = {
-			"7제련 시, LUK + 7. ",
-			"12제련 시, LUK + 1, 크리티컬 데미지 + 8% 추가 증가. ",
-			"13제련 시, LUK + 1, 크리티컬 데미지 + 6% 추가 증가."
-		},
-		identifiedDisplayName = "운의 니브 3Lv",
-		identifiedResourceName = "운의니브",
-		identifiedDescriptionName = {
-			"7제련 시, LUK + 7. ",
-			"12제련 시, LUK + 1, 크리티컬 데미지 + 8% 추가 증가. ",
-			"13제련 시, LUK + 1, 크리티컬 데미지 + 6% 추가 증가."
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-
-	[29009] = {
-		unidentifiedDisplayName = "체력의 니브 1Lv",
-		unidentifiedResourceName = "체력의니브",
-		unidentifiedDescriptionName = { "7제련 시, VIT + 5.", "10제련 시, MHP + 5%." },
-		identifiedDisplayName = "체력의 니브 1Lv",
-		identifiedResourceName = "체력의니브",
-		identifiedDescriptionName = { "7제련 시, VIT + 5.", "10제련 시, MHP + 5%." },
-		slotCount = 0,
-		ClassNum = 0
-	},
-
-	[29010] = {
-		unidentifiedDisplayName = "체력의 니브 2Lv",
-		unidentifiedResourceName = "체력의니브",
-		unidentifiedDescriptionName = { "7제련 시, VIT + 6. ", "11제련 시, VIT + 1, MHP + 7% 추가 증가." },
-		identifiedDisplayName = "체력의 니브 2Lv",
-		identifiedResourceName = "체력의니브",
-		identifiedDescriptionName = { "7제련 시, VIT + 6. ", "11제련 시, VIT + 1, MHP + 7% 추가 증가." },
-		slotCount = 0,
-		ClassNum = 0
-	},
-
-	[29011] = {
-		unidentifiedDisplayName = "체력의 니브 3Lv",
-		unidentifiedResourceName = "체력의니브",
-		unidentifiedDescriptionName = {
-			"7제련 시, VIT + 7. ",
-			"12제련 시, VIT + 1, MHP + 8% 추가 증가.",
-			"13제련 시, VIT + 1, MHP + 2% 추가 증가."
-		},
-		identifiedDisplayName = "체력의 니브 3Lv",
-		identifiedResourceName = "체력의니브",
-		identifiedDescriptionName = {
-			"7제련 시, VIT + 7. ",
-			"12제련 시, VIT + 1, MHP + 8% 추가 증가.",
-			"13제련 시, VIT + 1, MHP + 2% 추가 증가."
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-
 	[29013] = {
 		unidentifiedDisplayName = "HP흡수3",
 		unidentifiedResourceName = "묘안석",
@@ -2052,4 +2387,5 @@
 		slotCount = 0,
 		ClassNum = 0
 	},
+
 
