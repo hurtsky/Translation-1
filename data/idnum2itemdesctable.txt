@@ -36405,8 +36405,8 @@ Mysterious powder, rumored to be used by naughty fairies to play tricks. Carries
 Weight: ^7777771^000000
 #
 6396#
-This Auger can be used, by Olivia in Payon, to pierce your elven ears.
-Disappears if the Socket Enchantment succeeds or fails.
+Tools that can be used to make socket. Disappears if the Socket Enchantment succeeds or fails.
+^ffffff<NAVI>^4D4DFF[Piercing Expert]^000000<INFO>itemmall,16,65,0,100,0,0</INFO></NAVI>^000000
 ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
@@ -49730,9 +49730,12 @@ A box that contains WoE Violet Potions
 Weight: ^77777720^000000
 #
 12684#
-the Bonus ASPD is affected by character's AGI point^000000
+The Bonus ASPD is affected by character's AGI point^000000
 If this potion is used with those other ASPD up potion, the effect will be maximized.
 Increases ASPD for 15 minutes.
+Follow the NPC below to make Gin ASPD Enhanced Potion.
+^ffffff<NAVI>^4D4DFF[Nyan Time]^000000<INFO>malangdo,208,163,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Nyan Time]^000000<INFO>moc_para01,26,174,0,100,0,0</INFO></NAVI>^000000
 Weight: ^7777771^000000
 #
 12685#
@@ -50216,6 +50219,9 @@ A Magical booster which activates the body energy in order to combat better.
 ATK, MATK +30, Duration 10 mins. ASPD Increased (Delay after Attaking -5% ), Variable Casting - 5%, MaxHP, MaxSP -10%.
 When attacking, Concentration Lv 3 will be casted with a certain chance. (If the character has the skill higher than Lv 3, the skill will be casted with the reached Level)
 ^000088If the character gets knock down, the item effect will disappear.^000000
+Follow the NPC below to make True Red Booster.
+^ffffff<NAVI>^4D4DFF[Nyan Time]^000000<INFO>malangdo,208,163,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Nyan Time]^000000<INFO>moc_para01,26,174,0,100,0,0</INFO></NAVI>^000000
 Weight: ^7777771^000000
 #
 12797#
@@ -50350,6 +50356,14 @@ A box contain: 100 Red slim potions, 100 Yellow slim potions, 100 White slim pot
 Weight: ^7777775^000000
 #
 12832#
+A potion that created from concentrating the water of life and other recovery potion.
+Recover 4% of MaxHP every 3 seconds for 10 minutes.
+This item cannot be used in Berserk state.
+^000088If the character KO'ed in battle, this effect will dissapear.^000000
+Follow the NPC below to make Gin Water of Life.
+^ffffff<NAVI>^4D4DFF[Nyan Time]^000000<INFO>malangdo,208,163,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Nyan Time]^000000<INFO>moc_para01,26,174,0,100,0,0</INFO></NAVI>^000000
+Weight: ^7777775^000000
 #
 12833#
 #
@@ -50506,6 +50520,13 @@ Instantly consumes 3,000 of your HP and in return, immunizes you against Blind f
 Weight: ^7777771^000000
 #
 12883#
+Created from all ultimate dishes.
+For 30 minutes, All Stats +10, ATK +30, MATK +30.
+^ff0000If the character KO'ed in battle, this effect will dissapear!.^000000
+Follow the NPC below to make True Almighty.
+^ffffff<NAVI>^4D4DFF[Nyan Time]^000000<INFO>malangdo,208,163,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Nyan Time]^000000<INFO>moc_para01,26,174,0,100,0,0</INFO></NAVI>^000000
+Wieght: ^7777771^000000
 #
 12884#
 ^000088Rental item^000000
@@ -63818,6 +63839,9 @@ HP equal of 5% of your
 MaxHP every 5 seconds for a 10 minute duration.
 If you are incapacitated,
 the item effect will disappear.
+Follow the NPC below to make Small water of Life.
+^ffffff<NAVI>^4D4DFF[Nyan Time]^000000<INFO>malangdo,208,163,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Nyan Time]^000000<INFO>moc_para01,26,174,0,100,0,0</INFO></NAVI>^000000
 ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
@@ -63831,6 +63855,9 @@ HP equal of 7% of your
 MaxHP every 4 seconds for a 10 minute duration.
 If you are incapacitated,
 the item effect will disappear.
+Follow the NPC below to make Medium Water of Life.
+^ffffff<NAVI>^4D4DFF[Nyan Time]^000000<INFO>malangdo,208,163,0,100,0,0</INFO></NAVI>^000000
+^ffffff<NAVI>^4D4DFF[Nyan Time]^000000<INFO>moc_para01,26,174,0,100,0,0</INFO></NAVI>^000000
 ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
@@ -78274,6 +78301,15 @@ Weight: ^77777710^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
+19080#
+Now you do not need special skill to make heart shaped bubblegum.
+Class: ^777777Headgear^000000
+Defense: ^7777770^000000
+Location: ^777777Lower^000000
+Weight: ^77777720^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
 19377#
 A marinated beef dish
 whose spendorous
@@ -84832,6 +84868,15 @@ A forbidden ramen found in the ruin of Juperos. Those who wish to know the recei
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20305#
+Now you do not need special skill to make heart shaped bubblegum.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Lower^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000

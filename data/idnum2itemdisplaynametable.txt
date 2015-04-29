@@ -10117,6 +10117,7 @@
 19051#Warrior_Moon_Cat_Hat#
 19052#Sigrun's_Wings#
 19053#Fighter_Moon_Cat_Hat#
+19080#Nettie_Heart_Bubblegum#
 19377#Shiny_Marinade_Beef#
 19378#Chile_Shrimp_Gratin#
 19379#Red_Mushroom_Wine#
@@ -10885,11 +10886,12 @@
 20282#[Costume]_White_Student_Cap#
 20283#[Costume]_Over_Protector#
 20284#[Costume]_Sakura_Hat#
-20285#[Costume]_Dancing_Fallen_Sakura#
+20285#[Costume]_Blowing_Scattered_Sakura#
 20286#[Costume]_Under_Rim_Glasses(Red)#
 20287#[Costume]_Man's_Medal(Gold)#
 20288#[Costume]_Bijou_Hat#
 20292#[Costume]_Black_Ramen_Hat#
+20305#[Costume]_Nettie_Heart_Bubblegum#
 20500#[Costume]_Archangel_Wing#
 20700#Aegir_Mantle#
 20701#Solar_Manteau#

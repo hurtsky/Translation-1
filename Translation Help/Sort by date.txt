@@ -2388,4 +2388,86 @@
 		ClassNum = 0
 	},
 
+// --------------------------------------------------
+// ------------------KRO 2015-04-29------------------
+// --------------------------------------------------
 
+	[6995] = {
+		unidentifiedDisplayName = "따뜻한 돌",
+		unidentifiedResourceName = "프레임하트",
+		unidentifiedDescriptionName = { "감정되지 않음. [돋보기] 를 사용하여 감정할 수 있다." },
+		identifiedDisplayName = "따뜻한 돌",
+		identifiedResourceName = "프레임하트",
+		identifiedDescriptionName = {
+			"신기하게도 만지면 온기가 느껴지는 돌. 이것을 다룰 수 있는 사람에게 가져다 주면 굉장한 것을 만들 수 있을지도...",
+			"(이벤트 기간 이후, 해당 아이템은 삭제됩니다)",
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"무게 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[6996] = {
+		unidentifiedDisplayName = "토끼 인형",
+		unidentifiedResourceName = "봉제인형",
+		unidentifiedDescriptionName = { "감정되지 않음. [돋보기] 를 사용하여 감정할 수 있다." },
+		identifiedDisplayName = "토끼 인형",
+		identifiedResourceName = "봉제인형",
+		identifiedDescriptionName = {
+			"토끼의 모양을 본따 만든 인형. 아이들이 무척 좋아한다.",
+			"(이벤트 기간 이후, 해당 아이템은 삭제됩니다) ",
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"무게 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[6997] = {
+		unidentifiedDisplayName = "오래된 화살",
+		unidentifiedResourceName = "녹슨화살",
+		unidentifiedDescriptionName = { "감정되지 않음. [돋보기] 를 사용하여 감정할 수 있다." },
+		identifiedDisplayName = "오래된 화살",
+		identifiedResourceName = "녹슨화살",
+		identifiedDescriptionName = {
+			"사용감이 제법 있는 화살. 몬스터의 침이 군데군데 묻어 있어 잘 닦아서 사용해야 한다.",
+			"(이벤트 기간 이후, 해당 아이템은 삭제됩니다) ",
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"무게 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[25038] = {
+		unidentifiedDisplayName = "부서진 트랩",
+		unidentifiedResourceName = "설치용트랩",
+		unidentifiedDescriptionName = { "감정되지 않음. [돋보기] 를 사용하여 감정할 수 있다." },
+		identifiedDisplayName = "부서진 트랩",
+		identifiedResourceName = "설치용트랩",
+		identifiedDescriptionName = {
+			"야생에서 동물들을 포획하기 위한 트랩이었으나 파손 되었다.",
+			"(이벤트 기간 이후, 해당 아이템은 삭제됩니다) ",
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"무게 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[25039] = {
+		unidentifiedDisplayName = "포획용 트랩",
+		unidentifiedResourceName = "설치용트랩",
+		unidentifiedDescriptionName = { "감정되지 않음. [돋보기] 를 사용하여 감정할 수 있다." },
+		identifiedDisplayName = "포획용 트랩",
+		identifiedResourceName = "설치용트랩",
+		identifiedDescriptionName = {
+			"야생에서 동물들을 포획하기 위한 트랩.",
+			"(이벤트 기간 이후, 해당 아이템은 삭제됩니다) ",
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"무게 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},

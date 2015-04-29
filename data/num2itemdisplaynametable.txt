@@ -6701,7 +6701,7 @@
 12829#Geheimnis_Terra_Scroll#
 12830#Ancient_Tree_Wooden_Box#
 12831#Potion_Box#
-12832##
+12832#Mysterious_Water_of_Life#
 12833##
 12834##
 12835##
@@ -6745,7 +6745,7 @@
 12880#Elf_Tear(Curse)#
 12881#Elf_Tear(Silence)#
 12882#Elf_Tear(Darkness)#
-12883##
+12883#Almighty#
 12884#Infinite_Concentration_Potion#
 12885#Infinite_Awakening_Potion#
 12886#Infinite_Berserk_Potion#
@@ -10117,6 +10117,7 @@
 19051#Hat#
 19052#Headgear#
 19053#Hat#
+19080#Accessory#
 19377#Shiny_Marinade_Beef#
 19378#Chile_Shrimp_Gratin#
 19379#Red_Mushroom_Wine#
@@ -10890,6 +10891,7 @@
 20287#Hat#
 20288#Hat#
 20292#Hat#
+20305#Accessory#
 20500#Garment#
 20700#Garment#
 20701#Garment#
