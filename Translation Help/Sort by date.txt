@@ -2471,3 +2471,58 @@
 		slotCount = 0,
 		ClassNum = 0
 	},
+
+	[29034] = {
+		unidentifiedDisplayName = "TEST1",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "TEST1",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = { "흩날리는벚꽃 이펙트" },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29035] = {
+		unidentifiedDisplayName = "TEST2",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "TEST2",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = { "음악의 장식 이펙트" },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29036] = {
+		unidentifiedDisplayName = "TEST3",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "TEST3",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = { "눈의 선물 이펙트" },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29037] = {
+		unidentifiedDisplayName = "TEST4",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "TEST4",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = { "료스 엘프 이펙트" },
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[29038] = {
+		unidentifiedDisplayName = "TEST5",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "TEST5",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = { "흩날리는 낙엽 이펙트" },
+		slotCount = 0,
+		ClassNum = 0
+	},
