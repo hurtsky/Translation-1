@@ -4922,13 +4922,8 @@ Required Level: ^7777771^000000
 Jobs: ^777777Swordman and Merchant^000000
 #
 1375#
-A long bladed
-axe that's effective
-in melee combat.
-Reduces damage from
-Mid size monsters by
-13% and Large size
-monsters by 15%.
+A long bladed axe that's effective in melee combat.
+Reduces damage from medium size monsters by 13% and Large size monsters by 15%.
 Class: ^777777Two-Handed Axe^000000
 Attack: ^777777200^000000
 Weight: ^777777250^000000
@@ -4937,22 +4932,11 @@ Required Level: ^77777770^000000
 Jobs: ^777777Transcendent Swordman and Merchant^000000
 #
 1376#
-A special Two-Handed
-Axe that was crafted
-by a great blacksmith;
-it seems capable of
-destroying any kind
-of armor. CRIT +20,
-increase ASPD.
-delay after attacking reduces by 5%
-CRI bonus raises
-as weapon's Upgrade
-Level is increased.
-Has a chance of
-auto casting Level 3
-Hammerfall when
-worn by Mastersmiths
-and Biochemists.
+A special Two-Handed Axe that was crafted by a great blacksmith.
+It seems capable of destroying any kind of armor.
+CRIT +20, ASPD +5%
+CRIT bonus raises as weapon's Upgrade Level is increased.
+Has a chance of auto casting Level 3 Hammerfall when worn by Mastersmith and Creator.
 Class: ^777777Two-Handed Axe^000000
 Attack: ^777777175^000000
 Weight: ^777777200^000000
@@ -4961,26 +4945,10 @@ Required Level: ^77777770^000000
 Jobs: ^777777Transcendent Swordman and Merchant^000000
 #
 1377#
-A massive Two-Handed
-Axe that is embedded
-with an orb imbued
-with the power of
-a hurricane. Reduces
-damage from Mid size
-monsters by 10%;
-raising this weapon's
-Upgrade Level will
-increase the amount
-by which this damage
-is reduced and add
-an ASPD bonus.
-Each attack has a
-chance of inflicting
-a fixed amount of
-damage to all enemies
-within a 15*15 cell
-area, and knock them
-7 cells backward.
+A massive Two-Handed Axe that is embedded with an orb imbued with the power of a hurricane.
+Reduces damage from medium size monsters by 10%;
+raising this weapon's Upgrade Level will increase the amount by which this damage is reduced and add an ASPD bonus.
+Each attack has a chance of inflicting a fixed amount of damage to all enemies within a 15*15 cell area, and knock them 7 cells backward.
 Class: ^777777Two-Handed Axe^000000
 Attack: ^777777332^000000
 Weight: ^777777350^000000
@@ -5013,7 +4981,7 @@ Attack: ^777777200^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777780^000000
-Jobs: ^777777Swordman,Merchant^000000
+Jobs: ^777777Swordman and Merchant^000000
 #
 1380#
 A terrifying two-handed axe that is said to stimulate the nerves in order to kill Demihuman, once it's in the wearer's hands.
@@ -5026,7 +4994,7 @@ Attack: ^777777200^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777780^000000
-Jobs: ^777777Swordman,Merchant^000000
+Jobs: ^777777Swordman and Merchant^000000
 #
 1381#
 A sturdy two-handed axe useful for defeating many foes.
@@ -5045,7 +5013,7 @@ Ignore 25% of Physical Defense of Demihuman monsters.
 +6 Upgrade: Ignore physical defense of Demihuman monsters +5%, ^ff0000[Slaughter]^000000 Lv 2 (Damage bonus of Slaughter increases up to the upgrade level 14.)
 When attacking, has a chance of casting Level 1 [Fatal Wound].
 +9 Upgrade: When attacking, the chance of casting Level 1 [Fatal Wound] +5%
-Using [Mammonite] or [High Speed Cart Ram], has a chance of casting Level 2 [Fatal Wound]
+Using [Mammonite] or [Cart Termination], has a chance of casting Level 2 [Fatal Wound]
 Class: ^777777Two-Handed Axe^000000
 Attack: ^777777220^000000
 Weight: ^7777770^000000
@@ -5129,7 +5097,8 @@ Required Level: ^7777771^000000
 Jobs: ^777777Swordman and Merchant^000000
 #
 1391#
-An axe that is made by the Eden Group. It is suitable for those who have more advanced experience handling two-handed axes.
+An axe that is made by the Eden Group.
+It is suitable for those who have more advanced experience handling two-handed axes.
 Unrefineable.
 Class: ^777777Two-Handed Axe^000000
 Attack: ^777777195^000000
@@ -5197,7 +5166,15 @@ Required Level: ^77777795^000000
 Jobs: ^777777Swordman and Merchant^000000
 #
 1397#
-[JRO item]
+A stone hammer made out of Bradium.
+Stun % increases by 5% when using 'Hammer Fall'.
+Stun % increases by 2% for every 1 refine level when using 'Hammer Fall'.
+Class: ^777777Two-Handed Axe^000000
+Attack: ^777777210^000000
+Weight: ^777777270^000000
+Weapon Level: ^7777774^000000
+Required Level: ^77777775^000000
+Jobs: ^777777Mastersmith^000000
 #
 1398#
 Two hand axe, which has enhanced the ability to join Emveretarcon and Steel Metal
@@ -14909,7 +14886,7 @@ Jobs: ^777777All^000000
 A symbol known to be used by the people who loved to run. Just wearing it arouses a desire to run.
 AGI +2
 [^000088+ Black Leather Boots^000000]
-Increases Flee Rate +10.
+Increases Flee +10.
 Class: ^777777Garment^000000
 Defense: ^7777774^000000
 Weight: ^77777750^000000
@@ -14953,7 +14930,7 @@ Jobs: ^777777All Transcendent classes except Novice Classes^000000
 ^000088Rental Items^000000
 A spiritual scarf granted by Freya. It appears very sturdy,
 but it will eventually disappear and return to Freya's realm, Folkvangr.
-Flee Rate +15, Reduce 15% of ^777777Neutral^000000 Property damage.
+Flee +15, Reduce 15% of ^777777Neutral^000000 Property damage.
 Class: ^777777Garment^000000
 Defense: ^7777770^000000
 Weight: ^77777740^000000
@@ -14964,7 +14941,7 @@ Jobs: ^777777All^000000
 ^000088Rental Items^000000
 A spiritual scarf granted by Freya. It appears very sturdy,
 but it will eventually disappear and return to Freya's realm, Folkvangr.
-Flee Rate +15, Reduce 15% of ^777777Neutral^000000 Property damage.
+Flee +15, Reduce 15% of ^777777Neutral^000000 Property damage.
 Class: ^777777Garment^000000
 Defense: ^7777770^000000
 Weight: ^77777740^000000
@@ -14975,7 +14952,7 @@ Jobs: ^777777All^000000
 ^000088Rental Items^000000
 A spiritual scarf granted by Freya. It appears very sturdy,
 but it will eventually disappear and return to Freya's realm, Folkvangr.
-Flee Rate +15, Reduce 15% of ^777777Neutral^000000 Property damage.
+Flee +15, Reduce 15% of ^777777Neutral^000000 Property damage.
 Class: ^777777Garment^000000
 Defense: ^7777770^000000
 Weight: ^77777740^000000
@@ -14986,7 +14963,7 @@ Jobs: ^777777All^000000
 ^000088Rental Items^000000
 A spiritual scarf granted by Freya. It appears very sturdy,
 but it will eventually disappear and return to Freya's realm, Folkvangr.
-Flee Rate +15, Reduce 15% of ^777777Neutral^000000 Property damage.
+Flee +15, Reduce 15% of ^777777Neutral^000000 Property damage.
 Class: ^777777Garment^000000
 Defense: ^7777770^000000
 Weight: ^77777740^000000
@@ -18501,7 +18478,7 @@ Jobs: ^7777772nd Job, Star Gladiator, Soul Linker, Kagerou/Oboro^000000
 2959#
 A collar symbolizing a close relationship.
 AGI +2.
-Decrease 3% of damage received from animal monster.
+Decrease 3% of damage received from Brute monster.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777730^000000
@@ -27095,7 +27072,7 @@ STR +2
 Unrefineable.
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
-Location: ^777777Upper,Lower^000000
+Location: ^777777Upper, Lower^000000
 Weight: ^777777300^000000
 Required Level: ^77777765^000000
 Jobs: ^777777Swordman^000000
@@ -27179,11 +27156,9 @@ Required Level: ^77777760^000000
 Jobs: ^777777All^000000
 #
 5174#
-A red, silken hat
-that is supposed to
-be worn by women, but
-men can wear it too.
-Adds INT +1, SP Recovery +3% to Taekwon Class.
+A red, silken hat that is supposed to be worn by women, but men can wear it too.
+[^6A5ACDTaekwon Class^000000]
+INT +1, SP Recovery +3%.
 Class: ^777777Headgear^000000
 Defense: ^7777776^000000
 Location: ^777777Upper^000000
@@ -27192,14 +27167,10 @@ Required Level: ^77777760^000000
 Jobs: ^777777All^000000
 #
 5175#
-It's basically a black
-mosiac to place over
-your eyes to totallyprotect your identity.
-Careful though, it
-doesn't mask your
-voice. Adds 5%
-tolerance to Curse.
-MDEF +1, Accuracy -5
+It's basically a black mosiac to place over your eyes to totallyprotect your identity.
+Careful though, it doesn't mask your voice.
+MDEF +1, HIT -5
+Adds 5% tolerance to Curse.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Middle^000000
@@ -27207,10 +27178,9 @@ Weight: ^77777710^000000
 Jobs: ^777777All^000000
 #
 5176#
-A traditional oriental
-mask that is always
-perpetualy smiling.
-Adds LUK +1 and Perfect Dodge +2 to Taekwon Class.
+A traditional oriental mask that is always perpetualy smiling.
+[^6A5ACDTaekwon Class^000000]
+LUK +1, Perfect Dodge +2
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
 Location: ^777777Middle, Lower^000000
@@ -27219,12 +27189,10 @@ Required Level: ^77777730^000000
 Jobs: ^777777All^000000
 #
 5177#
-An oriental lion
-mask with menacing,
-angry eyes. For Taekwon Class wearers, it adds
-DEX +2, chance to inflict the Stun status with each
-Physical Melee Attack,
-and adds Attack Strength*2 when the item is upgraded.
+An oriental lion mask with menacing, angry eyes.
+[^6A5ACDTaekwon Class^000000]
+DEX +2, chance to inflict the Stun status with each Physical Melee Attack,
+and adds ATK by 2*upgrade level.
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
 Location: ^777777Upper, Middle^000000
@@ -27233,7 +27201,8 @@ Required Level: ^77777740^000000
 Jobs: ^777777All^000000
 #
 5178#
-A candle used for praying after donating to the temple. You can feel an aura of the temple holyness on it.
+A candle used for praying after donating to the temple.
+You can feel an aura of the temple holiness on it.
 All Stats +1
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
@@ -27272,7 +27241,7 @@ Jobs: ^777777Swordman, Merchant and Thief^000000
 5182#
 A small brown-colored dog that sits atop your head. It's so cute you'd be barking mad to remove it.
 AGI +1.
-Auto casts Gloria Lv1 with low percent chance; if AGI is over 77, the cast increases to Lv3.
+Auto casts Gloria Lv 1 with low percent chance; if AGI is over 77, the cast increases to Lv 3.
 Unrefineable.
 Class: ^777777Headgear^000000
 Defense: ^7777774^000000
@@ -27293,11 +27262,8 @@ Required Level: ^77777710^000000
 Jobs: ^777777All^000000
 #
 5184#
-Once owned by a famous
-captain, this hat is now a symbol of leadership
-and courage. Adds 5%
-tolerance to Water
-Property attacks.
+Once owned by a famous captain, this hat is now a symbol of leadership and courage.
+Adds 5% tolerance to Water Property attacks.
 Class: ^777777Headgear^000000
 Defense: ^7777778^000000
 Location: ^777777Upper^000000
@@ -27308,7 +27274,7 @@ Jobs: ^777777All except Novice^000000
 5185#
 A wreath made with bright blue Leaves and Flowers to make you feel Fresh and rejuvenated.
 LUK +3.
-Adds 5% tolerance to Darkness and Stun.
+Adds 5% tolerance to Blind and Stun.
 If +9 with each monster slain gain 40 HP and 3 SP while reducing HP/SP recovery by 50%
 If +11 with each monster slain gain 60 HP and 5 SP while reducing HP/SP recovery by 50%
 Class: ^777777Headgear^000000
@@ -27321,7 +27287,7 @@ Jobs: ^777777All^000000
 5186#
 A Geographer which is made for decorative purposes as a headgear.
 INT +1.
-Auto casts Heal Lv1 with low chance when receiving short-range physical attacks.
+Auto casts Level 1 Heal with low chance when receiving melee physical attacks.
 Unrefineable.
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
@@ -27443,7 +27409,7 @@ Jobs: ^777777All^000000
 #
 5198#
 A cute bunny doll which can be worn on top of the head.
-DEX +1, Flee Rate +2
+DEX +1, Flee +2
 Class: ^777777Headgear^000000
 Defense: ^7777771^000000
 Location: ^777777Upper^000000
@@ -27452,8 +27418,6 @@ Weight: ^777777All^000000
 #
 5199#
 India independence celebration hat.
-[^000088Event Bonus, will NOT work outside of Event^000000]
-Increase Movement Speed.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
 Location: ^777777Upper^000000
@@ -27478,24 +27442,20 @@ Weight: ^77777730^000000
 Jobs: ^777777All^000000
 #
 5202#
-A special pumpkin
-hat infused with
-Halloween Jack's
-spirit that fills its
-wearer with excitement. Reduce damage from
-Demon monsters by 5%.
+A special pumpkin hat infused with Halloween Jack's spirit that fills its wearer with excitement.
+Reduce damage from Demon monsters by 5%.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
 Location: ^777777Upper^000000
 Weight: ^77777720^000000
-Required Level: ^777777Any^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 5203#
 A mask with mischievous expressions, suitable to be worn by kids.
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
-Location: ^777777Middle/LOwer^000000
+Location: ^777777Middle, Lower^000000
 Weight: ^77777720^000000
 Jobs: ^777777All^000000
 #
@@ -27653,11 +27613,7 @@ Class: ^777777Headgear^000000
 Defense: ^77777710^000000
 Location: ^777777Upper^000000
 Weight: ^77777780^000000
-Jobs: ^777777Swordman and
-Merchant Classes;
-Taekwon Boy, Taekwon
-Girl, and Taekwon
-Master^000000
+Jobs: ^777777Swordman, Merchant, Taekwon Boy/Girl and Star Gladiator^000000
 #
 5218#
 A hair accessory that is made according to the shape of bunny's ears.
@@ -27681,12 +27637,9 @@ Required Level: ^7777771^000000
 Jobs: ^777777All except Novice^000000
 #
 5220#
-Just say no.
-Especially if
-you're underage.
-VIT +1. Reduce
-damage from Brute
-monsters by 5%.
+Just say no, especially if you're underage.
+VIT +1
+Reduce damage from Brute monsters by 5%.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Lower^000000
@@ -27961,7 +27914,6 @@ Weight: ^77777770^000000
 Jobs: ^777777All^000000
 #
 5247#
-...
 AGI +1, LUK +1, MDEF +3
 Reduces damage from Demon monster by 3%.
 Class: ^777777Headgear^000000
@@ -27971,7 +27923,6 @@ Weight: ^77777770^000000
 Jobs: ^777777All^000000
 #
 5248#
-...
 Add a resistance to the ^FF0000Blind^000000 status.
 Class: ^777777Headgear^000000
 Defense: ^7777771^000000
@@ -27980,7 +27931,6 @@ Weight: ^77777720^000000
 Jobs: ^777777All^000000
 #
 5249#
-...
 Add a resistance to the ^FF0000Blind^000000 status.
 Class: ^777777Headgear^000000
 Defense: ^7777771^000000
@@ -33168,7 +33118,7 @@ Jobs: ^777777All^000000
 5762#
 A hat similar to the MVP Duneyrr.
 All stats +1, MDEF +5.
-2% resistence to Demihuman and animal monsters.
+2% resistence to Demihuman and Brute monsters.
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
 Location: ^777777Upper^000000
@@ -33720,7 +33670,7 @@ Jobs: ^777777All^000000
 #
 5816#
 A hat, symbolizing western frontiers, made to celebrate the festival.
-ATK +15, Flee Rate -5.
+ATK +15, Flee -5.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
@@ -47650,7 +47600,7 @@ Weight: ^7777777^000000
 #
 12267#
 These traditional crackers from a nation in the far East are made of mixed flour, honey and sweet liquor.
-Temporarily adds +30 to Flee Rate.
+Temporarily adds +30 to Flee.
 ^FFFFFF_^000000
 Weight: ^7777777^000000
 #
@@ -64368,7 +64318,7 @@ Weight: ^7777771^000000
 #
 14601#
 A potion that possesses the spirit of Tyr, the god of battle.
-Increases ATK & 20 MATK for 5 minutes. HIT +30, Flee Rate +30
+Increases ATK & 20 MATK for 5 minutes. HIT +30, Flee +30
 Caution!- Item's active duration and ability will not work properly when it is being used with Honey Pastry, Sesame Pastry and Rainbow Cake.
 Item option disappears when its owner has drained all energy.
 ^FFFFFF_^000000
@@ -64723,13 +64673,13 @@ Weight: ^7777771^000000
 15000#
 Dark Plated Armor covered with sharp bones.
 When being physically attacked has a 1% chance of autocasting 'Bleeding' around 5x5 cells of the player.
-Ignore 10% of the DEF from Demihuman & Animal type monsters.
+Ignore 10% of the DEF from Demihuman and Brute monsters.
 STR +1, MDEF +3
 Class: ^777777Armor^000000
 Defense: ^77777760^000000
 Weight: ^777777100^000000
-Required Level: ^77777785^000000
-Jobs: ^777777Transcendent Thief, Merchant, Swordman Classes^000000
+Required Level: ^7777771^000000
+Jobs: ^777777Transcendent Thief, Merchant and Swordman classes^000000
 #
 15001#
 The main component of the Hermod Armor set.
@@ -65042,7 +64992,7 @@ Jobs: ^777777All^000000
 15032#
 An armor made with animal leather used by the Jaty tribe during battle.
 MDEF +10.
-Decreases 5% of attack damage from all monsters.
+Increase resistance against all properties by 5%.
 15% of additional tolerance to stun and freezing.
 Class: ^777777Armor^000000
 Defense: ^7777772^000000
@@ -65052,7 +65002,6 @@ Jobs: ^777777All except Novice^000000
 #
 15033#
 An armor used by the Tutorial Instructor from Eden Group to show you what armor enchanted items looks like.
-^ff0000Cannot be worn or sold^000000
 Class: ^777777Armor^000000
 Defense: ^77777737^000000
 Weight: ^77777760^000000
@@ -65061,7 +65010,6 @@ Jobs: ^777777N/A^000000
 #
 15034#
 An armor used by the Tutorial Instructor from Eden Group to show you what armor enchanted items looks like.
-^ff0000Cannot be worn or sold^000000
 Class: ^777777Armor^000000
 Defense: ^77777737^000000
 Weight: ^77777760^000000
@@ -77411,7 +77359,7 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 18908#
-Piamette's red ears cap that kids love the most.
+Piamette's red ears cap. It's a favorite among children.
 STR +5
 MaxHP +5%
 Reduce damage from fire-type monsters by 10%
@@ -77425,7 +77373,7 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 18909#
-Piamette's brown ears cap that kids love the most.
+Piamette's brown ears cap. It's a favorite among children.
 MaxHP +10%
 Reduce damage from Demihuman monsters by 5%
 For every refine level, MATK +2
@@ -77437,7 +77385,7 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 18910#
-Piamette's blue ears cap that kids love the most.
+Piamette's blue ears cap. It's a favorite among children.
 Reduce damage from Demihuman monsters by 5%
 Increases damage to medium-type monsters by 10%
 When refined to 12 above, reflects physical damages by 5%
@@ -90542,5 +90490,36 @@ Class: ^777777Shield^000000
 Defense: ^77777730^000000
 Weight: ^777777300^000000
 Required Level: ^777777100^000000
+Jobs: ^777777All^000000
+#
+28901#
+Piamette's doll used as weapon and shield?
+Its seem moving...
+ASPD +3.
+ATK +5%, MATK +5%.
+Reflect 10% of melee physical damage.
+When received magic attack, 10% chance to activate for 2 seconds, 60% chance to reflect magical attack.
+Refined to +7, ATK +5, MATK +5.
+Refined to +9, ATK +15, MATK +15.
+Refined to +12, casting is not interruptable, CRIT +10.
+Class: ^777777Shield^000000
+Defense: ^7777770^000000
+Weight: ^77777710^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+28902#
+Piamette's doll used as weapon and shield?
+Its seem moving...
+ATK +5%, MATK +5%.
+Reflect 10% of melee physical damage.
+When received magic attack, 10% chance to activate for 2 seconds, 60% chance to reflect magical attack.
+Refined to +7, ATK +5, MATK +5.
+Refined to +9, ATK +15, MATK +15.
+Refined to +12, casting is not interruptable, CRIT +10.
+Class: ^777777Shield^000000
+Defense: ^7777770^000000
+Weight: ^77777710^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #

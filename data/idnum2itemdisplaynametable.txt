@@ -11496,3 +11496,5 @@
 28705#Crimson_Dagger#
 28706#Dagger_of_Vicious_Mind#
 28900#Praetorian_Shield#
+28901#Cursed_Mad_Bunny#
+28902#Cursed_Mad_Bunny#

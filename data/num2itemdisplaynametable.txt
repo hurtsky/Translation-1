@@ -3161,7 +3161,7 @@
 5201#Hat#
 5202#Hat#
 5203#Mask#
-5204#False_Nose#
+5204#Accessory#
 5205#Helm#
 5206#Accessory#
 5207#Hairband#
@@ -11496,3 +11496,5 @@
 28705#Dagger#
 28706#Dagger#
 28900#Shield#
+28901#Shield#
+28902#Shield#

@@ -9580,7 +9580,7 @@ Weight: ^7777771^000000
 #
 4266#
 VIT +1
-Add Flee Rate +18 if the user is equipped with an item compounded to the Lunatic card.
+Add Flee +18 if the user is equipped with an item compounded to the Lunatic card.
 Class: ^777777Card^000000
 Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
@@ -28260,7 +28260,7 @@ Weight: ^7777777^000000
 12123#
 These traditional
 crackers from a nation
-in the far East are made of mixed flour, honey and sweet liquor. Temporarily adds +30 to Flee Rate.
+in the far East are made of mixed flour, honey and sweet liquor. Temporarily adds +30 to Flee.
 ^FFFFFF_^000000
 Weight: ^7777777^000000
 #
@@ -29216,7 +29216,7 @@ Weight: ^7777777^000000
 #
 12267#
 These traditional crackers from a nation in the far East are made of mixed flour, honey and sweet liquor.
-Temporarily adds +30 to Flee Rate.
+Temporarily adds +30 to Flee.
 ^FFFFFF_^000000
 Weight: ^7777777^000000
 #
@@ -42744,7 +42744,7 @@ Weight: ^7777771^000000
 #
 14601#
 A potion that possesses the spirit of Tyr, the god of battle.
-Increases ATK & 20 MATK for 5 minutes. HIT +30, Flee Rate +30 
+Increases ATK & 20 MATK for 5 minutes. HIT +30, Flee +30 
 Caution!- Item's active duration and ability will not work properly when it is being used with Honey Pastry, Sesame Pastry and Rainbow Cake.
 Item option disappears when its owner has drained all energy.
 ^FFFFFF_^000000
@@ -55067,5 +55067,11 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 28900#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+28901#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+28902#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
