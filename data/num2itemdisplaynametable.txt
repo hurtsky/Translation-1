@@ -6543,7 +6543,7 @@
 12651##
 12652##
 12653##
-12654#Fortune_Egg¥¸#
+12654#Fortune_Egg#
 12658#Transformation_Scroll(Deviruchi)#
 12659#Transformation_Scroll(Raydric)#
 12660#Transformation_Scroll(Mavka)#

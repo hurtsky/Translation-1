@@ -1248,7 +1248,7 @@
 2160#Giant_Shield#
 2161#Geffenia_Water_Book#
 2162#Bible_of_Promise(2nd_Vol.)#
-2163#Flow_Shield#
+2163#Froid_Shield#
 2164#Sombre_Shield#
 2165#Solar_Shield#
 2166#Devil's_Bible_Drive#
@@ -1663,8 +1663,8 @@
 2590#Buwaya_Sack_Cloth#
 2591#Buwaya_Sack_Cloth(Bayani)#
 2592#Cloak_of_Domovoi#
-2593#Furowamanto#
-2594#Furoshiki_Cloak#
+2593#Froid_Manteau#
+2594#Wrapping_Cloth_Manteau#
 2595#Sombre_Manteau#
 2596#Sharel_Manteau#
 2597#Bloody_Muffler#
@@ -11246,8 +11246,8 @@
 24027#Immune_Shadow_Armor#
 24028#Hard_Shadow_Armor#
 24029#Ancient_Shadow_Armor#
-24030#Critital_Shadow_Armor#
-24031#King_Bird_Shadow_Weapon#
+24030#Critical_Shadow_Armor#
+24031#Kingbird_Shadow_Weapon#
 24032#Critical_Hit_Shadow_Weapon#
 24033#Healing_Shadow_Weapon#
 24034#Lucky_Shadow_Weapon#

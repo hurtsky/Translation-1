@@ -12112,7 +12112,7 @@ Weight: ^7777771^000000
 40$ resist freezing,
 When using magic attack, there is a certain chance of casting level 1 land protector,
 MDEF -20
-When refined to +15, +60% chance to resist freezing.
+Refined to +15, +60% chance to resist freezing.
 Class: ^777777Card^000000
 Compound: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -31020,7 +31020,7 @@ Weight: ^7777772^000000
 12672#
 #
 12673#
-This box contains one of the 3 Safe to 7 Upgrade Certificates; either Gear, Weapon or Headgear. Take the certificate and the appropriate piece of equipment to Mighty Hammer to do a safe attempt at upgrading!	Even if the upgrade attempt fails the equipment is safe and unchanged.
+This box contains one of the 3 Safe to 7 Upgrade Certificates; either Gear, Weapon or Headgear. Take the certificate and the appropriate piece of equipment to Mighty Hammer to do a safe attempt at upgrading! Even if the upgrade attempt fails the equipment is safe and unchanged.
 ^FFFFFF_^000000
 Weight: ^7777771^000000
 ^ff0000May be stored only.^000000
@@ -38937,7 +38937,7 @@ A box containing 5 Wine Glass Of Illusion.
 Weight: ^7777771^000000
 #
 14075#
-A tradeable box containing 10 Glass of illusion:A glass of illusion made from morning dew from an Illusion Flower. Drink the dew to create an illusion that will make it more difficult for enemies to hit you.
+A  box containing 10 Glass of illusion: A glass of illusion made from morning dew from an Illusion Flower. Drink the dew to create an illusion that will make it more difficult for enemies to hit you.
 Increases your Perfect Dodge by 20 for 1 minute. Only one may be consumed per 5 minutes.
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 When a character is incapable of combat, the effect of item disappears.
@@ -40052,7 +40052,6 @@ Weight: ^7777771^000000
 A Box containing 5 Battlemanuals.
 Battle Manual increases the amount of Exp/Jexp gained by 50% for 30 minutes.
 Battle Manuals are untradable.
-This Box may be Traded or Stored.
 ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
@@ -40195,7 +40194,6 @@ Weight: ^7777771^000000
 14223#
 A box that contains 50 Magic Amplification Scrolls.
 A scroll that will cast Magic Amplification Lvl 10 for you. Good for making the next magic attack do +50% Magic attack power.
-It can be traded or put in storage. It cannot be dropped.
 ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
@@ -42698,7 +42696,6 @@ Weight: ^7777771^000000
 #
 14593#
 A scroll that will cast Magic Amplification Lvl 10 for you. Good for making the next magic attack do +50% Magic attack power.
-It can be traded or put in storage. It cannot be dropped.
 ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
@@ -45249,7 +45246,7 @@ Weight: ^7777771^000000
 16381#
 A box containing 10 teleport scrolls that warp you to the Siege Areas.
 Many castles are indicated in this scroll. When you tear it out you can move to the Siege Areas.
-"Neunschwanstein", "Hohenschwangau", "Nuerenberg", "Wrzburg", "Rothenburg", "Repherion", "Eeyorbriggar", "Yesnelph", "Bergel", "Mersetzdeitz", "Bright	Arbor", "Sacred Palace", "Holy Shadow", "Scarlet Palace", "Bamboo Grove Hill", "Kriemhild", "Swanhild", "Fadhgridh"", "Skoegul", "Gondul"
+"Neunschwanstein", "Hohenschwangau", "Nuerenberg", "Wrzburg", "Rothenburg", "Repherion", "Eeyorbriggar", "Yesnelph", "Bergel", "Mersetzdeitz", "Bright Arbor", "Sacred Palace", "Holy Shadow", "Scarlet Palace", "Bamboo Grove Hill", "Kriemhild", "Swanhild", "Fadhgridh"", "Skoegul", "Gondul"
 Weight: ^7777771^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 Weight: ^7777771^000000
@@ -46669,7 +46666,7 @@ a box that has a spearfish. (1 hour rental)
 ^000088Rental item^000000
 A frozen fish with a sharp spear-shaped head.
 when using pierce or spiral pierce, it gives critical damage at high rate. And also has a chance to freeze itself by low rate.
-Spiral Pierce Attack increase 100% , Inspiration	Attack 50% . ( Effect of Inspiration will disappear once unequipped)
+Spiral Pierce Attack increase 100% , Inspiration attack 50% . ( Effect of Inspiration will disappear once unequipped)
 If base level is over 100 , add ATK +30 .
 Class: ^777777Both HandsSpear^000000
 Attack: ^777777220^000000
@@ -46685,7 +46682,7 @@ a box that has a spearfish. (7 day rental)
 ^000088Rental item^000000
 A frozen fish with a sharp spear-shaped head.
 when using pierce or spiral pierce, it gives critical damage at high rate. And also has a chance to freeze itself by low rate.
-Spiral Pierce Attack increase 100% , Inspiration	Attack 50% . (Effect of Inspiration will disappear once unequipped)
+Spiral Pierce Attack increase 100% , Inspiration attack 50% . (Effect of Inspiration will disappear once unequipped)
 If base level is over 100 , add ATK +30 .
 Class: ^777777Both HandsSpear^000000
 Attack: ^777777220^000000
@@ -46697,12 +46694,12 @@ Jobs: ^777777SwordmanClass^000000
 Weight: ^7777771^000000
 #
 16745#
-a box that has	a horse mackerel (1 hour rental)
+a box that has a horse mackerel (1 hour rental)
 ^000088Rental item^000000
 it is amazingly freezed
 MATK +100.
 when closer physical Attack, ATK +30 for 7 sec
-when magical	Attack, MATK +20 for 7 sec
+when magical attack, MATK +20 for 7 sec
 if base level is over 100 ¿Ã, ATK +10, MATK +10
 Class: ^777777One-Handed Sword^000000
 Attack: ^777777160^000000
@@ -46714,7 +46711,7 @@ Jobs: ^777777SwordmanClass/magicianClass/archerClass/merchantClass/ThiefClass/so
 Weight: ^7777771^000000
 #
 16746#
-a box that has	a horse mackerel (7 days rental)
+a box that has a horse mackerel (7 days rental)
 ^000088Rental item^000000
 it is amazingly freezed
 MATK +100.
@@ -47420,7 +47417,7 @@ Box Weight: ^7777771^000000
 Wearing these items will give you the presence of the tastiest poultry in all of Rune Midgard.
 A box that contains 1 of each:
 -1x Costume: Chicken Beak
--1x Costume: Rooster°Øs Comb
+-1x Costume: Rooster's Comb
 This box can be stored and traded, the items inside are account bound.
 Box Weight: ^7777771^000000
 #
@@ -48165,7 +48162,6 @@ This item's density ensures that refine attempts will not break the armor and if
 Weight: ^7777771^000000
 #
 17248#
-^ff0000This item is not able to trade to the other account.^000000
 A crate that contains 5 August Lucky Boxes.
 Weight: ^7777771^000000
 #
@@ -48183,9 +48179,12 @@ This box contains the following:
 Weight: ^7777771^000000
 #
 17253#
+A box that contains 1 RWC Initializer Ticket
+Take this ticket to the RWC Enchanter so that you can change the enchantment of your RWC 2012 Ring or RWC 2012 Pendant.
+Weight: ^7777771^000000
 #
 17254#
-A tradeable box that contains 5 RWC Initializer Tickets
+A box that contains 5 RWC Initializer Tickets
 Take this ticket to the RWC Enchanter so that you can change the enchantment of your RWC 2012 Ring or RWC 2012 Pendant.
 Weight: ^7777771^000000
 #
@@ -54177,7 +54176,7 @@ A bell to call Edward the butler. The owner seems use this anywhere anytime
 Weight: ^7777770^000000
 #
 22908#
-A bell to call Alice the maid. The owner seems use this anywhere anytime
+A bell to call Alice, the maid. The owner seems use this anywhere anytime
 ^FFFFFF_^000000
 30 minutes Bubble Gum, Job Battle Manual can be twice effective.
 ^ff0000Caution! - Possessing any number will not duplicate the benefits.^000000

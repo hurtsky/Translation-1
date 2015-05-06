@@ -9707,9 +9707,9 @@ Jobs: ^777777Bard^000000
 1940#
 A flute made from a large shell.
 Every 1 refine give INT +1 and DEX +1
-When refined to +5 or more, give skill Reverberation additional damage by 10% and cast time -10%.
-When refined to +7 or more, give skill Reverberation additional damage by 20% and cast time -20%.
-When refined to +9 or more, give skill Reverberation additional damage by 40% and cast time -40%.
+Refined to +5 or more, give skill Reverberation additional damage by 10% and cast time -10%.
+Refined to +7 or more, give skill Reverberation additional damage by 20% and cast time -20%.
+Refined to +9 or more, give skill Reverberation additional damage by 40% and cast time -40%.
 Class: ^777777Musical Instrument^000000
 Attack: ^777777120^000000
 Weight: ^77777760^000000
@@ -23656,7 +23656,7 @@ Weight: ^7777771^000000
 40$ resist freezing,
 When using magic attack, there is a certain chance of casting level 1 land protector,
 MDEF -20
-When refined to +15, +60% chance to resist freezing.
+Refined to +15, +60% chance to resist freezing.
 Class: ^777777Card^000000
 Compound: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -28361,7 +28361,6 @@ Decreases ASPD by 10%,
 (After attack delay decreases by 5%)
 and increases
 Variable Cast Time by 25%.
-or Traded,
 Class: ^777777Headgear^000000
 Defense: ^7777776^000000
 Location: ^777777Upper^000000
@@ -32064,7 +32063,6 @@ Decreases ASPD by 10%,
 (After attack delay decreases by 5%)
 and increases
 Variable Cast Time by 25%.
-or Traded,
 Class: ^777777Headgear^000000
 Defense: ^7777776^000000
 Location: ^777777Upper^000000
@@ -47264,8 +47262,6 @@ Weight: ^7777771^000000
 An enchanted, giant wing from an ancient creatures.
 Enables instant teleportation of many people when used by a Party Master.
 ^FFFFFF_^000000
-This item can be traded and put into storage.
-^FFFFFF_^000000
 Weight: ^7777771^000000
 #
 12213#
@@ -49636,7 +49632,7 @@ Weight: ^7777772^000000
 12672#
 #
 12673#
-This box contains one of the 3 Safe to 7 Upgrade Certificates; either Gear, Weapon or Headgear. Take the certificate and the appropriate piece of equipment to Mighty Hammer to do a safe attempt at upgrading!	Even if the upgrade attempt fails the equipment is safe and unchanged.
+This box contains one of the 3 Safe to 7 Upgrade Certificates; either Gear, Weapon or Headgear. Take the certificate and the appropriate piece of equipment to Mighty Hammer to do a safe attempt at upgrading! Even if the upgrade attempt fails the equipment is safe and unchanged.
 ^FFFFFF_^000000
 Weight: ^7777771^000000
 ^ff0000May be stored only.^000000
@@ -57047,7 +57043,6 @@ Decreases ASPD by 10%,
 (After attack delay decreases by 5%)
 and increases
 Variable Cast Time by 25%.
-or Traded,
 Class: ^777777Headgear^000000
 Defense: ^7777776^000000
 Location: ^777777Upper^000000
@@ -60137,7 +60132,7 @@ A box containing 5 Wine Glass Of Illusion.
 Weight: ^7777771^000000
 #
 14075#
-A tradeable box containing 10 Glass of illusion:
+A box containing 10 Glass of illusion:
 A glass of illusion made from morning dew from an Illusion Flower.
 Drink the dew to create an illusion that will make it more difficult for enemies to hit you.
 Increases your Perfect Dodge by 20 for 1 minute.
@@ -60364,7 +60359,6 @@ Decreases ASPD by 10%,
 (After attack delay decreases by 5%)
 and increases
 Variable Cast Time by 25%.
-or Traded,
 Class: ^777777Headgear^000000
 Defense: ^7777776^000000
 Location: ^777777Upper^000000
@@ -61558,7 +61552,6 @@ Weight: ^7777771^000000
 A Box containing 5 Battlemanuals.
 Battle Manual increases the amount of Exp/Jexp gained by 50% for 30 minutes.
 Battle Manuals are untradable.
-This Box may be Traded or Stored.
 ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
@@ -61701,7 +61694,6 @@ Weight: ^7777771^000000
 14223#
 A box that contains 50 Magic Amplification Scrolls.
 A scroll that will cast Magic Amplification Lvl 10 for you. Good for making the next magic attack do +50% Magic attack power.
-It can be traded or put in storage. It cannot be dropped.
 ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
@@ -64213,7 +64205,6 @@ Caution-- This item
 won't work while your
 character is casting
 a spell or skill.
-This item can only be placed in Kafra storage or traded.
 ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
@@ -64229,7 +64220,6 @@ Caution-- This item
 won't work while your
 character is casting
 a spell or skill.
-This item can only be placed in Kafra storage or traded.
 ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
@@ -64245,7 +64235,6 @@ Caution-- This item
 won't work while your
 character is casting
 a spell or skill.
-This item can only be placed in Kafra storage or traded.
 ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
@@ -64272,7 +64261,6 @@ Weight: ^7777771^000000
 #
 14593#
 A scroll that will cast Magic Amplification Lvl 10 for you. Good for making the next magic attack do +50% Magic attack power.
-It can be traded or put in storage. It cannot be dropped.
 ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
@@ -65626,7 +65614,7 @@ Armor used by travelers who came and went on board the Tarlock's airship.
 These are goods that were stolen from the monsters that attacked the airship during the incident.
 MaxHP +1000, MaxSP +100, MDEF +10.
 All Stats +1.
-Unrefineable, Cannot be traded.
+Unrefineable.
 [^000088Airship Set(Armor, cloak, boots)^000000]
 MaxHP +25%, MaxSP +25%, Increase movement speed.
 Class: ^777777Armor^000000
@@ -66037,7 +66025,6 @@ Required Level: ^77777740^000000
 Jobs: ^777777Acolyte^000000
 #
 16025#
-^ff0000Cannot be traded.^000000
 ^000088Rental Item^000000
 Indestructible.
 ** Extra option available in WoE TE area
@@ -68312,9 +68299,6 @@ Contains:
 10 Steamed Tongue
 10 Dragon Breath Cocktail
 ^FFFFFF_^000000
-Adventurer Pack can not be
-traded, dropped, or sold;
-it can be stored.
 Weight: ^7777771^000000
 #
 16421#
@@ -68990,7 +68974,6 @@ Weight: ^7777771^000000
 16555#
 A box that contains 1 Reset Stone inside.
 ^ff0000This item is not refundable.
-Can be traded and stored.^000000
 Description:
 This item is used to access various Premium Services.
 ^FFFFFF_^000000
@@ -69626,10 +69609,7 @@ description:
 A headgear that looks
 just like a scrumptious fish. It even has the
 same smell! AGI +1,
-DEX +1. Cannot be
-dropped or traded,
-but can be placed
-in Kafra Storage.
+DEX +1.
 Class: ^777777Headgear^000000
 Defense: ^7777774^000000
 Location: ^777777Upper^000000
@@ -69645,10 +69625,7 @@ description:
 A headgear that looks
 just like a scrumptious fish. It even has the
 same smell! AGI +1,
-DEX +1. Cannot be
-dropped or traded,
-but can be placed
-in Kafra Storage.
+DEX +1.
 Class: ^777777Headgear^000000
 Defense: ^7777774^000000
 Location: ^777777Upper^000000
@@ -70390,7 +70367,7 @@ A box that has a Spearfish. (1 hour rental)
 ^000088Rental Item^000000
 A Spearfish and an Oceanic fish. It is well known for it's delicious meat but is frozen solid.
 when using pierce, spiral pierce, it gives critical damage at high rate and freezes itself by low rate.
-Spiral Pierce Attack increase 100% , Inspiration	Attack 50% . ( Effect of Inspiration will disappear once unequipped)
+Spiral Pierce Attack increase 100% , Inspiration attack 50% . ( Effect of Inspiration will disappear once unequipped)
 If base level is over 100 , add ATK +30 .
 Class: ^777777Two-Handed Spear^000000
 Attack: ^777777220^000000
@@ -70406,7 +70383,7 @@ a box that has a spearfish. (7days available)
 ^000088Rental Item^000000
 A Spearfish and an Oceanic fish. It is well known for it's delicious meat but is frozen solid.
 when using pierce, spiral pierce, it gives critical damage at high rate and freezes itself by low rate.
-Spiral Pierce Attack increase 100% , Inspiration	Attack 50% . ( Effect of Inspiration will disappear once unequipped)
+Spiral Pierce Attack increase 100% , Inspiration attack 50%. ( Effect of Inspiration will disappear once unequipped)
 If base level is over 100 , add ATK +30 .
 Class: ^777777Two-Handed Spear^000000
 Attack: ^777777220^000000
@@ -70418,12 +70395,12 @@ Jobs: ^777777SwordmanClass^000000
 Weight: ^7777771^000000
 #
 16745#
-A box that has	a Horse Mackerel (1 hour rental)
+A box that has a Horse Mackerel (1 hour rental)
 ^000088Rental Item^000000
 A Seahorse looking fish that can be used in different cuisines it is frozen solid.
 MATK +100.
-when melee Attacking, ATK +30 for 7 sec
-when magically	Attacking, MATK +20 for 7 sec
+when melee attacking, ATK +30 for 7 sec
+when magically attacking, MATK +20 for 7 sec
 if base level is over 100, ATK +10, MATK +10
 Class: ^777777One-Handed Sword^000000
 Attack: ^777777160^000000
@@ -70439,8 +70416,8 @@ A box that has a Horse Mackerel (7 day rental)
 ^000088Rental Item^000000
 A Seahorse looking fish that can be used in different cuisines it is frozen solid.
 MATK +100.
-when melee Attacking, ATK +30 for 7 sec
-when magically	Attacking, MATK +20 for 7 sec
+when melee attacking, ATK +30 for 7 sec
+when magically attacking, MATK +20 for 7 sec
 if base level is over 100, ATK +10, MATK +10
 Class: ^777777One-Handed Sword^000000
 Attack: ^777777160^000000
@@ -71146,7 +71123,7 @@ Box Weight: ^7777771^000000
 Wearing these items will give you the presence of the tastiest poultry in all of Rune Midgard.
 A box that contains 1 of each:
 -1x Costume: Chicken Beak
--1x Costume: Rooster¡¯s Comb
+-1x Costume: Rooster's Comb
 This box can be stored and traded, the items inside are account bound.
 Box Weight: ^7777771^000000
 #
@@ -71400,7 +71377,6 @@ Contains 50 each of the following:
 -Acid Bottle
 -Bottle Grenade
 ^ff0000This item will be available initially for one week as a test, if it proves viable it may remain in the shop.^000000.
-^ff0000unable to trade with other account.^000000
 ^ff0000Cannot be refunded once opened.^000000
 Weight: ^7777771^000000
 #
@@ -72092,12 +72068,12 @@ This box contains the following:
 Weight: ^7777771^000000
 #
 17253#
-A tradeable box that contains 1 RWC Initializer Ticket
+A box that contains 1 RWC Initializer Ticket
 Take this ticket to the RWC Enchanter so that you can change the enchantment of your RWC 2012 Ring or RWC 2012 Pendant.
 Weight: ^7777771^000000
 #
 17254#
-A tradeable box that contains 5 RWC Initializer Tickets
+A box that contains 5 RWC Initializer Tickets
 Take this ticket to the RWC Enchanter so that you can change the enchantment of your RWC 2012 Ring or RWC 2012 Pendant.
 Weight: ^7777771^000000
 #
@@ -75585,7 +75561,7 @@ Jobs: ^777777All^000000
 18738#
 A hat given to standout student.
 When physically attacking has chance to autocast Level 1 Weapon Perfection.
-When refined to +5, every refine increase trigger chance of Level 1 Weapon Perfection.
+Refined to +5, every refine increase trigger chance of Level 1 Weapon Perfection.
 Class: ^777777Headgear^000000
 Defense: ^77777710^000000
 Location: ^777777Upper^000000
@@ -75804,7 +75780,7 @@ Jobs: ^777777All^000000
 Talented Wizard's magic hat. It looks weird, but works just fine. Remodeled for extra effect.
 INT +2, SP +150.
 Each refine increase MATK +1.
-When refined to +7 or higher, each refine adds INT +1.
+Refined to +7 or higher, each refine adds INT +1.
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
 Location: ^777777Upper^000000
@@ -75816,7 +75792,7 @@ Jobs: ^777777Wizard and Soul Linker^000000
 Healthy live rabbit looking wizard hat. Very firm and strong item. Remodeled for extra effect.
 DEX +1, AGI +1, SP +50.
 Each refine increase SP +5.
-When refined to +7 or higher, each refine adds DEX +1.
+Refined to +7 or higher, each refine adds DEX +1.
 Class: ^777777Headgear^000000
 Defense: ^7777776^000000
 Location: ^777777Upper^000000
@@ -75827,7 +75803,7 @@ Jobs: ^777777Wizard, Acolyte and Soul Linker^000000
 18762#
 A replica of Assassin troops' secret hiding mask. Slick shape. Remodeled for extra effect.
 AGI +2, LUK +2
-When refined to +7 or higher, perfect dodge +4
+Refined to +7 or higher, perfect dodge +4
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
 Location: ^777777Upper^000000
@@ -75838,7 +75814,7 @@ Jobs: ^777777All except Novice^000000
 18763#
 A weird looking hat made for circus clown. Remodeled for extra effect.
 LUK +2, MDEF +5.
-When refined to +7 or higher, Increases critical damage by 5%.
+Refined to +7 or higher, Increases critical damage by 5%.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
 Location: ^777777Upper^000000
@@ -75849,7 +75825,7 @@ Jobs: ^777777All except Novice^000000
 18764#
 Rabbit ear decorated hairlace. Looks pretty, but hard to stand it straight. Remodeled for extra effect.
 LUK +2
-When refined to +7 or higher, CRIT +5
+Refined to +7 or higher, CRIT +5
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
 Location: ^777777Upper^000000
@@ -75860,8 +75836,8 @@ Jobs: ^777777All^000000
 18765#
 Big hat for old pirate captain. Grotesque looks represents its owner himself very well. Worn out too much.
 Vit +1 MaxHP +5%
-When refined to +7 or higher, Neutral resistance +1%.
-When refined to +9 or higher, MaxHP +3%
+Refined to +7 or higher, Neutral resistance +1%.
+Refined to +9 or higher, MaxHP +3%
 Class: ^777777Headgear^000000
 Defense: ^77777710^000000
 Location: ^777777Upper^000000
@@ -75872,8 +75848,8 @@ Jobs: ^777777All except Novice^000000
 18766#
 High defense rate helm with angels' feather attached. Unknown creator.
 AGI +1, LUK +1, MDEF +3
-When refined to +7 or higher, AGI +2, LUK +2
-When refined to +9 or higher, ASPD +1
+Refined to +7 or higher, AGI +2, LUK +2
+Refined to +9 or higher, ASPD +1
 Class: ^777777Headgear^000000
 Defense: ^77777710^000000
 Location: ^777777Upper^000000
@@ -75884,8 +75860,8 @@ Jobs: ^7777772nd Job, Star Gladiator, Soul Linker, Kagerou, Oboro and Rebellion^
 18767#
 Gold Winged hat that is a symbol for the great Sun God. Don't ask how to walk in this hat.
 STR +3, INT +2, ATK +10, MATK +10.
-When refined to +7 or higher, ATK +15, MATK +15.
-When refined to +9 or higher, ATK +15, MATK +15.
+Refined to +7 or higher, ATK +15, MATK +15.
+Refined to +9 or higher, ATK +15, MATK +15.
 Class: ^777777Headgear^000000
 Defense: ^7777774^000000
 Location: ^777777Upper, Middle^000000
@@ -75897,8 +75873,8 @@ Jobs: ^7777772nd Job, Star Gladiator, Soul Linker, Kagerou, Oboro and Rebellion^
 A heavy helm made of firm bone that has a solid defense rate.
 Increases received shadow property damage by 15%
 Decreases neutral properly damage by 2%
-When refined to +7 or higher, decreases neutral property damage by 2%.
-When refined to +9 or higher, decreases neutral property damage by 2%.
+Refined to +7 or higher, decreases neutral property damage by 2%.
+Refined to +9 or higher, decreases neutral property damage by 2%.
 Class: ^777777Headgear^000000
 Defense: ^77777715^000000
 Location: ^777777Upper^000000
@@ -75909,7 +75885,7 @@ Jobs: ^777777Swordman and Merchant^000000
 18769#
 Monster Munak's hat. Big hat with an anonymous charm attached. It has been remodeled for extra effect.
 Decreases damage from Undead monsters by 10%.
-When refined to +7 or higher, increases damage against Undead monsters by 10%.
+Refined to +7 or higher, increases damage against Undead monsters by 10%.
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
 Location: ^777777Upper, Middle, Lower^000000
@@ -75920,7 +75896,7 @@ Jobs: ^777777All^000000
 18770#
 Monster Bongun used to wear this hat with charm attached as a point. It has been remodeled for extra effect.
 Decreases damage from Undead monsters by 10%.
-When refined to +7 or higher, increases damage against Undead monsters by 10%.
+Refined to +7 or higher, increases damage against Undead monsters by 10%.
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
 Location: ^777777Upper, Middle, Lower^000000
@@ -77350,7 +77326,7 @@ Jobs: ^777777All^000000
 A panda clinging to its master. Somehow you'd feel braver with it around.
 Reduce damage from Demihuman monsters by 5%
 Increases damage to medium-type monsters by 10%
-When refined to 9 above, randomly auto-casts 'Scream Level 2' when physically attacked.
+Refined to 9 above, randomly auto-casts 'Scream Level 2' when physically attacked.
 Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
 Defense: ^7777778^000000
@@ -77363,7 +77339,7 @@ Piamette's red ears cap. It's a favorite among children.
 STR +5
 MaxHP +5%
 Reduce damage from fire-type monsters by 10%
-When refined to 9, ASPD +1
+Refined to 9, ASPD +1
 For every 2 refinements above 9, ASPD +1
 Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
@@ -77388,7 +77364,7 @@ Jobs: ^777777All^000000
 Piamette's blue ears cap. It's a favorite among children.
 Reduce damage from Demihuman monsters by 5%
 Increases damage to medium-type monsters by 10%
-When refined to 12 above, reflects physical damages by 5%
+Refined to 12 above, reflects physical damages by 5%
 Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
 Defense: ^7777778^000000
@@ -77401,7 +77377,7 @@ Lovely petals dropping from a pair of red flowers.
 DEX +5
 Reduce damage from earth-type monsters by 3%
 Reduce damage from Demihuman monsters by 10%
-When refined to 12 above, reflects physical damages by 5%
+Refined to 12 above, reflects physical damages by 5%
 Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
 Defense: ^77777710^000000
@@ -85085,7 +85061,6 @@ Cloak travelers coming and going aboard the airship is used.
 These are goods that were stolen from the monsters that attacked the ariship during the incident.
 Increase resistance to ^777777Neutral^000000 Property attacks by 10%.
 Flee +20, Reduction in variable cast by 20%.
-No Refinable, trade is impossible.
 Class: ^777777Garment^000000
 Defense: ^77777725^000000
 Weight: ^7777770^000000
@@ -85472,8 +85447,8 @@ Every 1 STR increase ATK +1, however it's limited up to level 120.
 When base STR is 95 or higher, add ATK +40.
 When base STR is 108 or higher, add ATK +80.
 When base STR is 120 or higher, add ATK +120.
-When refined to +7 or more, has chance when attacking to curse enemies in 11x11 cells.
-When refined to +9 or more, enable use of ^008800Level 1 Berserk^000000.
+Refined to +7 or more, has chance when attacking to curse enemies in 11x11 cells.
+Refined to +9 or more, enable use of ^008800Level 1 Berserk^000000.
 When level 5 Maximum Power Thrust is activated, consumpt 5000 zeny.
 Class: ^777777Two-Handed Sword^000000
 Attack: ^77777775^000000
@@ -86919,7 +86894,7 @@ A bell to call Edward the butler. The owner seems use this anywhere anytime
 Weight: ^7777770^000000
 #
 22908#
-A bell to call Alice the maid. The owner seems use this anywhere anytime
+A bell to call Alice, the maid. The owner seems use this anywhere anytime
 ^FFFFFF_^000000
 30 minutes Bubble Gum, Job Battle Manual can be twice effective.
 ^ff0000Caution! - Possessing any number will not duplicate the benefits.^000000
@@ -86933,7 +86908,7 @@ Bubblegum 24h
 Weight: ^7777770^000000
 #
 22929#
-Job Battle Manual25_24h
+Job Battle Manual25 24h
 Weight: ^7777770^000000
 #
 22946#
@@ -87053,7 +87028,7 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 24010#
-VIT +2.
+VIT +2
 Class: ^777777Shadow Equipment^000000
 Location: ^777777Accessory^000000
 Weight: ^7777770^000000
@@ -87061,7 +87036,7 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 24011#
-INT +2.
+INT +2
 Class: ^777777Shadow Equipment^000000
 Location: ^777777Accessory^000000
 Weight: ^7777770^000000
@@ -87138,7 +87113,7 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 24019#
-A glove equipped on wearer's hand to draw his/her potential ability.
+A glove that can draw the wearer's potential ability.
 ATK +10
 Refined to +7 or higher, increases ATK +1%
 [^6A5ACDPhysical Shadow Set^000000]
@@ -87213,8 +87188,9 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 24024#
+An armor worn on top of normal armor for additional defense. Can be equipped alone but needs a set to have any effect.
 FLEE +5.
-When refined to +7
+Refined to +7
 FLEE +10
 Class: ^777777Shadow Equipment^000000
 Location: ^777777Armor^000000
@@ -87223,9 +87199,9 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 24025#
-Shoes worn on top of normal shoes for additional DEF. Can be equipped alone but needs a set to have any effect.
-HP +20, SP +10.
-When refined to +7
+Shoes worn on top of normal shoes for additional defense. Can be equipped alone but needs a set to have any effect.
+MaxHP +20, MaxSP +10.
+Refined to +7
 MaxHP +1%, MaxSP +1%
 [+^008800Hard Shadow Armor^000000]
 Increases HP and SP by total number of refinement of set items.
@@ -87237,10 +87213,12 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 24026#
+A small shield worn on the arm for additional defense. Can be equipped alone but needs a set to have any effect.
 DEF +10.
-When refined to +7
+Refined to +7
 DEF +10
-DEF increases by total number of Refinement of Set Items,when equiped with ^008800Immuned Shadow Armor^000000.
++^008800Immuned Shadow Armor^000000
+DEF increases by total number of Refinement of Set Item.
 Additional Resistance to Neutral property +1%, when total refine level is over 15
 Class: ^777777Shadow Equipment^000000
 Location: ^777777Shield^000000
@@ -87249,8 +87227,10 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 24027#
+An armor worn on top of normal armor for additional defense. Can be equipped alone but needs a set to have any effect.
 Resistance to Neutral property +1%
-DEF increases by total number of Refinement of Set Items when equiped with ^008800Athena Shield Shadow ^000000.
++^008800Athena Shadow Shield^000000
+DEF increases by total number of Refinement of Set Items.
 Additional Resistance to Neutral property +1%, when total combined Refinement is over 15.
 Class: ^777777Shadow Equipment^000000
 Location: ^777777Armor^000000
@@ -87259,10 +87239,12 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 24028#
-HP +50.
-When refined to +7
+An armor worn on top of normal armor for additional defense. Can be equipped alone but needs a set to have any effect.
+MaxHP +50.
+Refined to +7
 MaxHP +1%
-When equipped with ^008800Champion's Shadow Shoes^000000 HP and SP increased up to the sum of combined refine level.
++^008800Champion's Shadow Shoes^000000
+MaxHP and MaxSP increased by the sum of combined refine level.
 When total of combined refine is over 15, MaxHP +1%.
 Class: ^777777Shadow Equipment^000000
 Location: ^777777Armor^000000
@@ -87271,10 +87253,12 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 24029#
+An armor worn on top of normal armor for additional defense. Can be equipped alone but needs a set to have any effect.
 HIT +10.
-When refined to +7
+Refined to +7
 Hit +10
-When equipped with ^008800Kingbird's Hit Shadow Weapon^000000 increases ATK by the sum of the combined refine levels.
++^008800Kingbird Shadow Weapon^000000
+Increases ATK by the sum of the combined refine levels.
 When the combined sum of refine is over 15, increases ranged damage by 1%
 Class: ^777777Shadow Equipment^000000
 Location: ^777777Armor^000000
@@ -87283,9 +87267,11 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 24030#
+An armor worn on top of normal armor for additional defense. Can be equipped alone but needs a set to have any effect.
 CRIT +5.
-When refined to +7, CRIT +5
-When equipped with ^008800Critical Hit Shadow Weapon^000000 increases ATK by the sum of the combined refine levels.
+Refined to +7, CRIT +5
++^008800Critical Hit Shadow Weapon^000000
+Increases ATK by the sum of the combined refine levels.
 When the combined sum of refine is over 15, increases additional critical damage by 1%
 Class: ^777777Shadow Equipment^000000
 Location: ^777777Armor^000000
@@ -87294,9 +87280,11 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 24031#
+A glove that can draw the wearer's potential ability.
 ATK +10.
-When refined to +7, increases ranged damage by 1%.
-When equipped with ^008800Ancient Shadow Armor^000000 increase ATK by the sum of the combined refine levels.
+Refined to +7, increases ranged damage by 1%.
++^008800Ancient Shadow Armor^000000
+Increase ATK by the sum of the combined refine levels.
 When the combined sum of refine is over 15, increases additional ranged damage by 1% 
 Class: ^777777Shadow Equipment^000000
 Location: ^777777Weapon^000000
@@ -87305,9 +87293,11 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 24032#
+A glove that can draw the wearer's potential ability.
 ATK +10.
-When refined to +7, increase critical damage by 1%.
-When equipped with ^008800Critical Shadow Armor^000000 increase ATK by the sum of the combined refine levels.
+Refined to +7, increase critical damage by 1%.
++^008800Critical Shadow Armor^000000
+Increase ATK by the sum of the combined refine levels.
 When the combined sum of refine is over 15, increases additional critical damage by 1% 
 Class: ^777777Shadow Equipment^000000
 Location: ^777777Weapon^000000
@@ -87316,8 +87306,9 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 24033#
+A glove that can draw the wearer's potential ability.
 MATK +10.
-When refined to +7, increase healing power by 5%.
+Refined to +7, increase healing power by 5%.
 Class: ^777777Shadow Equipment^000000
 Location: ^777777Weapon^000000
 Weight: ^7777770^000000
@@ -87325,10 +87316,12 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 24034#
+A glove that can draw the wearer's potential ability.
 LUK +1.
-When Refined to +7, LUK +1.
-When Refined to +9, LUK +1.
-When equipped with ^008800Lucky Shadow Armor^000000, LUK +1.
+Refined to +7, LUK +1.
+Refined to +9, LUK +1.
++^008800Lucky Shadow Armor^000000
+LUK +1.
 Class: ^777777Shadow Equipment^000000
 Location: ^777777Weapon^000000
 Weight: ^7777770^000000
@@ -87336,10 +87329,12 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 24035#
+A sacred earring which is believed to protect it's wearer. It also draws the wearer's potential abilities.
 STR +1.
-When Refined to +7, STR +1.
-When Refined to +9, STR +1.
-When equipped with ^008800Power Shadow Pendant^000000, STR +1.
+Refined to +7, STR +1.
+Refined to +9, STR +1.
++^008800Power Shadow Pendant^000000
+STR +1.
 Class: ^777777Shadow Equipment^000000
 Location: ^777777Accessory^000000
 Weight: ^7777770^000000
@@ -87347,10 +87342,12 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 24036#
+A sacred necklace which is believed to protect it's wearer. It also draws the wearer's potential abilities.
 INT +1.
-When Refined to +7, INT +1.
-When Refined to +9, INT +1.
-When equipped with ^008800Intelligent Shadow Earring^000000, INT +1.
+Refined to +7, INT +1.
+Refined to +9, INT +1.
++^008800Intelligent Shadow Earring^000000
+INT +1.
 Class: ^777777Shadow Equipment^000000
 Location: ^777777Accessory^000000
 Weight: ^7777770^000000
@@ -87358,10 +87355,12 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 24037#
+An armor worn on top of normal armor for additional defense. Can be equipped alone but needs a set to have any effect.
 DEX +1.
-When Refined to +7, DEX +1.
-When Refined to +9, DEX +1.
-When equipped with ^008800Dexterous Shadow Weapon^000000, DEX +1.
+Refined to +7, DEX +1.
+Refined to +9, DEX +1.
++^008800Dexterous Shadow Weapon^000000
+DEX +1.
 Class: ^777777Shadow Equipment^000000
 Location: ^777777Armor^000000
 Weight: ^7777770^000000
@@ -87369,12 +87368,11 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 24038#
+Shoes worn on top of normal shoes for additional defense. Can be equipped alone but needs a set to have any effect.
 VIT +1.
-When Refined to +7
-VIT +1.
-When Refined to +9
-VIT +1.
-When equipped with ^008800Vital Shadow Shield^000000
+Refined to +7, VIT +1.
+Refined to +9, VIT +1.
++^008800Vital Shadow Shield^000000
 VIT +1.
 Class: ^777777Shadow Equipment^000000
 Location: ^777777Shoes^000000
@@ -87383,12 +87381,11 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 24039#
+A small shield worn on the arm for additional defense. Can be equipped alone but needs a set to have any effect.
 AGI +1.
-When Refined to +7
-AGI +1.
-When Refined to +9
-AGI +1.
-When equipped with ^008800Athletic Shadow Shoes^000000
+Refined to +7, AGI +1.
+Refined to +9, AGI +1.
++^008800Athletic Shadow Shoes^000000
 AGI +1.
 Class: ^777777Shadow Equipment^000000
 Location: ^777777Shield^000000
@@ -87397,9 +87394,10 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 24040#
+An armor worn on top of normal armor for additional defense. Can be equipped alone but needs a set to have any effect.
 LUK +1.
 Increase CRIT +1 per 1 refine Level.
-When equipped with ^008800Lucky Shadow Weapon^000000
++^008800Lucky Shadow Weapon^000000
 LUK +1.
 Class: ^777777Shadow Equipment^000000
 Location: ^777777Armor^000000
@@ -87408,9 +87406,10 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 24041#
+A sacred necklace which is belived to protect its wearer. It also draws the wearer's potential abilities.
 STR +1.
 Increase ATK +1 per 1 refine Level.
-When equipped with ^008800Power Shadow Earring^000000
++^008800Power Shadow Earring^000000
 STR +1.
 Class: ^777777Shadow Equipment^000000
 Location: ^777777Accessory^000000
@@ -87419,9 +87418,10 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 24042#
+A sacred earring which is belived to protect its wearer. It also draws the wearer's potential abilities.
 INT +1.
 Increase MATK +1 per 1 refine Level.
-When equipped with ^008800Intelligent Shadow Pendant^000000
++^008800Intelligent Shadow Pendant^000000
 INT +1.
 Class: ^777777Shadow Equipment^000000
 Location: ^777777Earring^000000
@@ -87430,9 +87430,10 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 24043#
+A glove that can draw the wearer's potential ability.
 DEX +1.
 Increase HIT +1 per 1 refine Level.
-When equipped with ^008800Dexterous Shadow Armor^000000
++^008800Dexterous Shadow Armor^000000
 DEX +1.
 Class: ^777777Shadow Equipment^000000
 Location: ^777777Weapon^000000
