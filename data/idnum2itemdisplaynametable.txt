@@ -10891,6 +10891,16 @@
 20287#[Costume]_Man's_Medal(Gold)#
 20288#[Costume]_Bijou_Hat#
 20292#[Costume]_Black_Ramen_Hat#
+20293#[Costume]_Sleeper_Hat#
+20294#[Costume]_Savage_Babe_Hat#
+20295#[Costume]_Poring_Sunglasses#
+20296#[Costume]_Yoyo_Hat#
+20297#[Costume]_Cactus_Hat#
+20298#[Costume]_Happy_Lunatic_Hanging_Ear#
+20299#[Costume]_Face_Crusher#
+20300#[Costume]_Hill_Wind_Mask#
+20301#[Costume]_Golden_Savage_Hat#
+20302#[Costume]_Beelzebub_Crown#
 20305#[Costume]_Nettie_Heart_Bubblegum#
 20500#[Costume]_Archangel_Wing#
 20700#Aegir_Mantle#

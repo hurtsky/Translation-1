@@ -10891,6 +10891,16 @@
 20287#Hat#
 20288#Hat#
 20292#Hat#
+20293#Hat#
+20294#Hat#
+20295#Glasses#
+20296#Hat#
+20297#Hat#
+20298#Hat#
+20299#Hat#
+20300#Hat#
+20301#Hat#
+20302#Hat#
 20305#Accessory#
 20500#Garment#
 20700#Garment#

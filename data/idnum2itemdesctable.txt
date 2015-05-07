@@ -84796,6 +84796,96 @@ Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
+20293#
+A baby Sleeper monster from the Sograt desert.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20294#
+The hat made according to the shape of Savage Babe.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20295#
+Cute Poring-shaped pink sunglasses. It can protect your eyes from sunshines and even look cute.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Middle^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20296#
+A hat of a cute Yoyo that you can use to disguise yourself among the apes.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20297#
+The friendly Potted Muka likes to encourage you by aggravating your opponents!
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20298#
+An ears that imitating the ears of Lunatic.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Middle^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20299#
+A mask of face with Pie on it.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Middle, Lower^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20300#
+An imitation mask of Hild Wind from Rachel field.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper, Middle, Lower^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20301#
+Cute little doll hat Golden Savage.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20302#
+A crown of MPV Beelzebub from nameless island. Its give noble atmosphere.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
 20305#
 Now you do not need special skill to make heart shaped bubblegum.
 Class: ^777777Costume^000000
