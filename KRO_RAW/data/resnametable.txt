@@ -1,3 +1,13 @@
+//pvp미니맵오류관련
+유저인터페이스\map\pvp_y_1-5.bmp#유저인터페이스\map\morocc.bmp#
+유저인터페이스\map\pvp_y_2-5.bmp#유저인터페이스\map\morocc.bmp#
+유저인터페이스\map\pvp_y_3-5.bmp#유저인터페이스\map\morocc.bmp#
+유저인터페이스\map\pvp_y_4-5.bmp#유저인터페이스\map\morocc.bmp#
+유저인터페이스\map\pvp_y_5-5.bmp#유저인터페이스\map\morocc.bmp#
+유저인터페이스\map\pvp_y_6-5.bmp#유저인터페이스\map\morocc.bmp#
+유저인터페이스\map\pvp_y_7-5.bmp#유저인터페이스\map\morocc.bmp#
+유저인터페이스\map\pvp_y_8-5.bmp#유저인터페이스\map\morocc.bmp#
+
 //2015 EPISODE_16.1 메모리얼 던전
 1@sthb.gnd#1@sthb.gnd#
 1@sthb.gat#1@sthb.gat#
