@@ -6921,16 +6921,16 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2870#
-Unidentified. You can identify it with a Magnifier.
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2871#
-Unidentified. You can identify it with a Magnifier.
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2872#
-Unidentified. You can identify it with a Magnifier.
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2873#
-Unidentified. You can identify it with a Magnifier.
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2874#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -7039,46 +7039,46 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2915#
-Unidentified. You can identify it with a Magnifier.
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2916#
-Unidentified. You can identify it with a Magnifier.
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2917#
-Unidentified. You can identify it with a Magnifier.
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2918#
-Unidentified. You can identify it with a Magnifier.
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2919#
-Unidentified. You can identify it with a Magnifier.
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2920#
-Unidentified. You can identify it with a Magnifier.
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2921#
-Unidentified. You can identify it with a Magnifier.
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2922#
-Unidentified. You can identify it with a Magnifier.
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2923#
-Unidentified. You can identify it with a Magnifier.
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2924#
-Unidentified. You can identify it with a Magnifier.
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2925#
-Unidentified. You can identify it with a Magnifier.
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2926#
-Unidentified. You can identify it with a Magnifier.
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2927#
-Unidentified. You can identify it with a Magnifier.
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2928#
-Unidentified. You can identify it with a Magnifier.
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2929#
 #
@@ -45480,7 +45480,7 @@ Weight: ^7777771^000000
 A box that contains 1 Chung Hairpin in it.
 ^FFFFFF_^000000
 If you wear this, it feels like you become a fancy Chung aristocrat.
-LUK +3, MDEF +4, Def+5
+LUK +3, MDEF +4, Def +5
 When receiving any physical attack, Mammonite Lv5 will be activated at a low rate.
 (If you have no zeny, it won't be activated.)
 Class: ^777777Headgear^000000

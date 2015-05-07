@@ -28194,14 +28194,14 @@ A mask with mischievous expressions, suitable to be worn by kids.
 Add a 3% chance of auto casting Level 5 Provoke on the enemy when attacking.
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
-Location: ^777777Middle/Lower^000000
+Location: ^777777Middle, Lower^000000
 Weight: ^77777720^000000
 Jobs: ^777777All^000000
 #
 5273#
 Wig with green, white and red colors.
 When equipped, increases movement speed.
-DEF+4
+DEF +4
 Enables the use of the skill 'Hiding' Lv1.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
@@ -28212,7 +28212,7 @@ Jobs: ^777777All^000000
 5274#
 Wig with yellow, orange and gold colors.
 When equipped, increases movement speed.
-DEF+4
+DEF +4
 Enables the use of the skill 'Hiding' Lv1.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
@@ -28223,7 +28223,7 @@ Jobs: ^777777All^000000
 5275#
 Wig with pink, white and purple colors.
 When equipped, increases movement speed.
-DEF+4
+DEF +4
 Enables the use of the skill 'Hiding' Lv1.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
@@ -28234,7 +28234,7 @@ Jobs: ^777777All^000000
 5276#
 Wig with red, white and black colors.
 When equipped, increases movement speed.
-DEF+4
+DEF +4
 Enables the use of the skill 'Hiding' Lv1.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
@@ -29070,7 +29070,7 @@ Jobs: ^777777All^000000
 It looks like a Poporing, but don't worry about the poison!
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
-Location: ^777777Upper/Middle^000000
+Location: ^777777Upper, Middle^000000
 Weight: ^77777770^000000
 Jobs: ^777777All^000000
 #
@@ -30675,7 +30675,7 @@ Enables use of Level 1 Don't Forget Me.
 DEX +2, LUK +2.
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
-Location: ^777777Upper/Middle^000000
+Location: ^777777Upper, Middle^000000
 Weight: ^77777750^000000
 Required Level: ^77777750^000000
 Jobs: ^777777All^000000
@@ -68191,7 +68191,7 @@ Weight: ^7777771^000000
 A box that contains 1 Chung Hairpin in it.
 ^FFFFFF_^000000
 If you wear this, it feels like you become a fancy Chung aristocrat.
-LUK +3, MDEF +4, Def+5
+LUK +3, MDEF +4, Def +5
 When receiving any physical attack, Mammonite Lv5 will be activated at a low rate.
 (If you have no zeny, it won't be activated.)
 Class: ^777777Headgear^000000
@@ -76765,7 +76765,7 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 18848#
-If you don't know how to decorated it, alwyas keep it fresh so it stay beautiful.
+If you don't know how to decorated it, always keep it fresh so it stay beautiful.
 MATK +20
 Every refine increase MATK.
 When magically attacking, has chance to activate lv 10 soul drain.
@@ -80069,7 +80069,7 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19687#
-If you don't know how to decorated it, alwyas keep it fresh so it stay beautiful.
+If you don't know how to decorated it, always keep it fresh so it stay beautiful.
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
@@ -80767,7 +80767,7 @@ Jobs: ^777777All^000000
 19775#
 A fluffy afro style wig which is something teenagers go crazy for. Once you wear it, you might want to dance.
 Class: ^777777Costume^000000
-Location: ^777777Upper/Middle ^000000
+Location: ^777777Upper, Middle^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000

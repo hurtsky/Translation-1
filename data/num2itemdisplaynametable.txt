@@ -9277,11 +9277,11 @@
 16970##
 16971##
 16972#Weather_Report_Box#
-16973#[Costume]_Yellow_Hat_Box#
-16974#[Costume]_Old-Timey_Box#
-16975#[Costume]_Singing_Bird_Box#
-16976#[Costume]_Chicken_Box#
-16977#[Costume]_Mini_Crown_Box#
+16973#Costume_Yellow_Hat_Box#
+16974#Costume_Old-Timey_Box#
+16975#Costume_Singing_Bird_Box#
+16976#Costume_Chicken_Box#
+16977#Costume_Mini_Crown_Box#
 16978##
 16979#Silvervine_Box4#
 16990##
@@ -9307,8 +9307,8 @@
 17011##
 17012##
 17013#Malang_Woe_Encard_Box#
-17014#[Costume]_Butterfly_Ears_Box#
-17015#[Costume]_Bolt_Ears_Box#
+17014#Costume_Butterfly_Ears_Box#
+17015#Costume_Bolt_Ears_Box#
 17016##
 17017##
 17018##
