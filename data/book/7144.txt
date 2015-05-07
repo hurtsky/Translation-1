@@ -74,15 +74,13 @@ resulting solution in an empty bottle.
 
 ^008040Aloevera^000000: Temporarily enhances
 your offense abilities at the cost of decreasing your defense abilities.
-Required materials: ^4b00821 Alcohol, 1 Empty Bottle, 1 Honey^000000
-Process: Pour honey and alcohol into a medicine
+Required materials: ^4b00821 Aloe, 1 Empty Bottle, 1 Honey^000000
+Process: Pour honey and aloe into a medicine
 bowl, and stir the mixture. Slowly add a small amount
-of water while continuing to stir the mixture. If you suspect
-the lack of aloe in this procedure, then think carefully about
-why you’re an alchemist, and what you can do with alchemy
-(the correct answer is skip ingredients). You must keep this
-book with you as a reference while you use the Prepare Potion
-skill to pour the resulting solution in an empty bottle.
+of water while continuing to stir the mixture. You must keep 
+this book with you as a reference while you use the Prepare 
+Potion skill to pour the resulting solution in an empty bottle.
+
 
 ^ff0000Embryo^000000: The basis of alchemic
 life, and the required item for creating Homunculi.
