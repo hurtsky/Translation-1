@@ -2526,3 +2526,223 @@
 		slotCount = 0,
 		ClassNum = 0
 	},
+
+// --------------------------------------------------
+// ------------------KRO 2015-05-07------------------
+// --------------------------------------------------
+
+	[17586] = {
+		unidentifiedDisplayName = "제련용 광석상자X",
+		unidentifiedResourceName = "캐시상자_노랑",
+		unidentifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"농축 에르늄, 농축 오리데오콘이 각각 5개씩 들어있는 상자. 추가로 매드바니 스크롤이 1개 들어있다.",
+			"^ffffff_^000000",
+			"농축 에르늄 - 방어구의 제련확률이 증가한다.",
+			"농축 오리데오콘 - 무기의 제련확률이 증가한다.",
+			"^ffffff_^000000",
+			"^ff0000본 아이템을 개봉하시면 청약철회 대상에서 제외 됩니다.^000000",
+			"무게 : ^7777771^000000"
+		},
+		identifiedDisplayName = "제련용 광석상자X",
+		identifiedResourceName = "캐시상자_노랑",
+		identifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"농축 에르늄, 농축 오리데오콘이 각각 5개씩 들어있는 상자. 추가로 매드바니 스크롤이 1개 들어있다.",
+			"^ffffff_^000000",
+			"농축 에르늄 - 방어구의 제련확률이 증가한다.",
+			"농축 오리데오콘 - 무기의 제련확률이 증가한다.",
+			"^ffffff_^000000",
+			"^ff0000본 아이템을 개봉하시면 청약철회 대상에서 제외 됩니다.^000000",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[17587] = {
+		unidentifiedDisplayName = "제련용 광석상자X 10세트",
+		unidentifiedResourceName = "캐시상자_노랑",
+		unidentifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"농축 에르늄, 농축 오리데오콘이 각각 50개씩 들어있는 상자. 추가로 매드바니 스크롤이 11개 들어있다.",
+			"^ffffff_^000000",
+			"농축 에르늄 - 방어구의 제련확률이 증가한다.",
+			"농축 오리데오콘 - 무기의 제련확률이 증가한다.",
+			"^ffffff_^000000",
+			"^ff0000본 아이템을 개봉하시면 청약철회 대상에서 제외 됩니다.^000000",
+			"무게 : ^7777771^000000"
+		},
+		identifiedDisplayName = "제련용 광석상자X 10세트",
+		identifiedResourceName = "캐시상자_노랑",
+		identifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"농축 에르늄, 농축 오리데오콘이 각각 50개씩 들어있는 상자. 추가로 매드바니 스크롤이 11개 들어있다.",
+			"^ffffff_^000000",
+			"농축 에르늄 - 방어구의 제련확률이 증가한다.",
+			"농축 오리데오콘 - 무기의 제련확률이 증가한다.",
+			"^ffffff_^000000",
+			"^ff0000본 아이템을 개봉하시면 청약철회 대상에서 제외 됩니다.^000000",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[22974] = {
+		unidentifiedDisplayName = "쉐도우 큐브(아머)",
+		unidentifiedResourceName = "화려한상자",
+		unidentifiedDescriptionName = {
+			"다양한 종류의 아머 쉐도우 아이템 중 하나를 얻을 수 있는 상자.",
+			"무게 : ^7777771^000000"
+		},
+		identifiedDisplayName = "쉐도우 큐브(아머)",
+		identifiedResourceName = "화려한상자",
+		identifiedDescriptionName = {
+			"다양한 종류의 아머 쉐도우 아이템 중 하나를 얻을 수 있는 상자.",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[22975] = {
+		unidentifiedDisplayName = "쉐도우 큐브(쉴드)",
+		unidentifiedResourceName = "화려한상자",
+		unidentifiedDescriptionName = {
+			"다양한 종류의 쉴드 쉐도우 아이템 중 하나를 얻을 수 있는 상자.",
+			"무게 : ^7777771^000000"
+		},
+		identifiedDisplayName = "쉐도우 큐브(쉴드)",
+		identifiedResourceName = "화려한상자",
+		identifiedDescriptionName = {
+			"다양한 종류의 쉴드 쉐도우 아이템 중 하나를 얻을 수 있는 상자.",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[22976] = {
+		unidentifiedDisplayName = "쉐도우 큐브(슈즈)",
+		unidentifiedResourceName = "화려한상자",
+		unidentifiedDescriptionName = {
+			"다양한 종류의 슈즈 쉐도우 아이템 중 하나를 얻을 수 있는 상자.",
+			"무게 : ^7777771^000000"
+		},
+		identifiedDisplayName = "쉐도우 큐브(슈즈)",
+		identifiedResourceName = "화려한상자",
+		identifiedDescriptionName = {
+			"다양한 종류의 슈즈 쉐도우 아이템 중 하나를 얻을 수 있는 상자.",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[22977] = {
+		unidentifiedDisplayName = "쉐도우 큐브(펜던트)",
+		unidentifiedResourceName = "화려한상자",
+		unidentifiedDescriptionName = {
+			"다양한 종류의 펜던트 쉐도우 아이템 중 하나를 얻을 수 있는 상자.",
+			"무게 : ^7777771^000000"
+		},
+		identifiedDisplayName = "쉐도우 큐브(펜던트)",
+		identifiedResourceName = "화려한상자",
+		identifiedDescriptionName = {
+			"다양한 종류의 펜던트 쉐도우 아이템 중 하나를 얻을 수 있는 상자.",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[22978] = {
+		unidentifiedDisplayName = "쉐도우 큐브(이어링)",
+		unidentifiedResourceName = "화려한상자",
+		unidentifiedDescriptionName = {
+			"다양한 종류의 이어링 쉐도우 아이템 중 하나를 얻을 수 있는 상자.",
+			"무게 : ^7777771^000000"
+		},
+		identifiedDisplayName = "쉐도우 큐브(이어링)",
+		identifiedResourceName = "화려한상자",
+		identifiedDescriptionName = {
+			"다양한 종류의 이어링 쉐도우 아이템 중 하나를 얻을 수 있는 상자.",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[22971] = {
+		unidentifiedDisplayName = "매드바니 스크롤",
+		unidentifiedResourceName = "매드바니스크롤",
+		unidentifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"기간 한정 매드바니 스크롤. ",
+			"무기 11제련 보장권, 방어구 11제련 보장권, 봉인된 모자 상자, 대장장이의 축복 등등 여러가지 희귀한 아이템 중 하나를 얻을 수 있다.",
+			"무게 : ^7777771^000000"
+		},
+		identifiedDisplayName = "매드바니 스크롤",
+		identifiedResourceName = "매드바니스크롤",
+		identifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"기간 한정 매드바니 스크롤. ",
+			"무기 11제련 보장권, 방어구 11제련 보장권, 봉인된 모자 상자, 대장장이의 축복 등등 여러가지 희귀한 아이템 중 하나를 얻을 수 있다.",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[22972] = {
+		unidentifiedDisplayName = "봉인된 모자 상자",
+		unidentifiedResourceName = "모범생선물상자",
+		unidentifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"노란색 리본으로 장식된, 스마일 장식이 달린 종이 상자.",
+			"다음의 아이템중 1개가 들어있습니다.",
+			"――――――――――――― ",
+			"사악한 마칭햇",
+			"떠돌이 늑대왕투구",
+			"늘어진 고양이 크루",
+			"임프 모자",
+			"빨간 마칭햇",
+			"――――――――――――― ",
+			"무게 : 20"
+		},
+		identifiedDisplayName = "봉인된 모자 상자",
+		identifiedResourceName = "모범생선물상자",
+		identifiedDescriptionName = {
+			"^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000",
+			"노란색 리본으로 장식된, 스마일 장식이 달린 종이 상자.",
+			"다음의 아이템중 1개가 들어있습니다.",
+			"――――――――――――― ",
+			"사악한 마칭햇",
+			"떠돌이 늑대왕투구",
+			"늘어진 고양이 크루",
+			"임프 모자",
+			"빨간 마칭햇",
+			"――――――――――――― ",
+			"무게 : 20"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+
+	[22973] = {
+		unidentifiedDisplayName = "쉐도우 큐브(웨폰)",
+		unidentifiedResourceName = "화려한상자",
+		unidentifiedDescriptionName = {
+			"다양한 종류의 웨폰 쉐도우 아이템 중 하나를 얻을 수 있는 상자.",
+			"무게 : ^7777771^000000"
+		},
+		identifiedDisplayName = "쉐도우 큐브(웨폰)",
+		identifiedResourceName = "화려한상자",
+		identifiedDescriptionName = {
+			"다양한 종류의 웨폰 쉐도우 아이템 중 하나를 얻을 수 있는 상자.",
+			"무게 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},

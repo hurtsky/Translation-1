@@ -10486,6 +10486,12 @@ Exploring ^8B4513Geffen in the cracks ^000000#
 공중요새 최초 클리어.#
 공중요새 최초 클리어.#
 
+//-----ztr
+// 2015 Family event month
+9428#Protect Wild Animals#SG_FEEL#QUE_NOIMAGE#
+Find the wild animals that got caught in traps then collect the traps! Traps can be easily found around Rune Midgard field, collect and bring them to Wild Life Manager.#
+Rescue wild animals and collect traps#
+
 //---------------------------왕위조례--------------------------------
 10000#To the Prontera Royal Court#SG_FEEL#QUE_NOIMAGE#
 As the messenger says, go to the Prontera Royal Court and talk to the Inspector.#
