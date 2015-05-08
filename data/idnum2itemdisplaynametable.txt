@@ -867,7 +867,6 @@
 1579#Book_of_the_Dead#
 1580#Giant_Encyclopedia#
 1581#Diary_Of_Great_Sage#
-1582#E_Diary_Of_Great_Sage_C#
 1583#Eden_Dictionary_I#
 1584#Chilly_Spell_Book#
 1585#Upgrade_Book#
@@ -4265,13 +4264,10 @@
 6463#Fresh_scripture_Legend#
 6464#Hate_Crate#
 6465#Guardian_Coin#
-6466#Clean_Water#
-6467#Perfume#
-6468#Thai_Perfume#
 6469#Will_of_Warrior#
 6470#Blood_Thirst#
 6471#Ghost_Chill#
-6472#Virgin's_Splendor#
+6472#HolyMom_Blaze#
 6473#Pearl_Spring_(Cherry_Beans)#
 6474#Pearl_Spring_(Sakura_T)#
 6475#Pearl_Spring_(Cold_Scarlet_Cherry)#
@@ -5290,7 +5286,7 @@
 7580#Black_Bead#
 7581#Celebration_Document#
 7582#Jewel_of_Destruction#
-7583#Evil_Mind#
+7583#Heart_of_Evil#
 7584#Guard's_First_Proof#
 7585#Guard's_Second_Proof#
 7586#Guard's_Third_Proof#
@@ -5524,7 +5520,6 @@
 7853#iPod_nano_Raffle_Ticket#
 7854#Comodo_Festival_Ticket#
 7855#Heart#
-7856#Girl's_Bouquet#
 7857#Hand-made_Kitty_Doll#
 7858#Dragonball_Yellow#
 7859#Game_Ticket#
@@ -5784,14 +5779,12 @@
 11007#Blood_Flower_Vol.2#
 11008#Biographical_Dictionary_Copy_Edition#
 11009#Adventure_Story_Vol.2#
-11010#Battlegrounds_Catalog#
 11011#Varmunt's_Note#
 11012#Expedition_Report#
 11013#Expedition_Report_Vol1#
 11014#Expedition_Report_Vol2#
 11015#Expedition_Report_Vol3#
 11016#Expedition_Report_Vol4#
-11017#KVM_Reward_Items_Catalog#
 11018#Splendide_Selling_Item#
 11019#Manuk_Selling_Item#
 11020#Japanese_Book1#
@@ -6195,9 +6188,9 @@
 12279#Undead_Elemental_Scroll#
 12280#Holy_Elemental_Scroll#
 12281#Event_Treasure_Box#
-12282#Internet_Cafe1#
-12283#Internet_Cafe2#
-12284#Internet_Cafe3#
+12282#Pearl_Bag#
+12283#Pearl_Bag50#
+12284#aRO_Special_Pills#
 12286#Masquerade_Ball_Box2#
 12287#Love_Angel_Magic_Powder#
 12288#Squirrel_Magic_Powder#
@@ -6546,11 +6539,7 @@
 12662#Transformation_Scroll(Banshee)#
 12663#Transformation_Scroll(Poring)#
 12664#Transformation_Scroll(Golem)#
-12666#Thai_Perfume(MATK)#
-12667#Thai_Perfume(ATK)#
-12668#Thai_Perfume(ASPD)#
-12669#Thai_Perfume(CAST)#
-12672#New_Departure_Box#
+12672#New_Beginning_Box#
 12673#Safe_to_7_Chance_Box#
 12674#God_Material_Box#
 12675#WoE_Weapon_Supply_Box#
@@ -6563,7 +6552,7 @@
 12682#Black_Nestea#
 12683#WoE_Violet_Potion_Box200#
 12684#ASPD_Enhanced_Potion#
-12685#Gryphon_Scroll#
+12685#Gryphon_Egg_Scroll#
 12690#Headgear_Card_Album#
 12691#Armor_Card_Album#
 12692#Shield_Card_Album#
@@ -8365,7 +8354,6 @@
 15032#Tidung#
 15033#Tutorial_Mantle#
 15034#Tutorial_Mantle#
-15035#2010_Love_Daddy_Shirt#
 15036#Ur's_Plate#
 15037#Peuz's_Plate#
 15038#Sapha's_Cloth#
@@ -11025,8 +11013,6 @@
 22515#Twisted_Key_of_Time#
 22516#Dark_Red_Lump#
 22517#Loki_Summoning_Scroll#
-22519#Stops_Buff#
-22520#Stops_Buff_Reset#
 22521#Level-UP_Box#
 22522#Level-Up_Box(100)#
 22523#Level-Up_Box(120)#

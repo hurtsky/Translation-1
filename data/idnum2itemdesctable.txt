@@ -7057,8 +7057,6 @@ Weapon Level: ^7777773^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Priest, Sage and Star Gladiator^000000
 #
-1582#
-#
 1583#
 A book that is made by the Eden Group. It is suitable for those who have more advanced experience handling magic books.
 MATK +110
@@ -36614,20 +36612,16 @@ Filled with darkness of hatred and jealousy.
 Weight: ^7777770^000000
 #
 6465#
-#
-6466#
-#
-6467#
-#
-6468#
+Official certified guardian agent's coin. It seems can be used insinde Guardian Union.
+Weight: ^7777771^000000
 #
 6469#
-A collection of biological relics from various warriors
+A collection of biological relics from various warriors.
 ^ff0000Used for combining biological materials in a testing lab^000000
 Weight: ^7777771^000000
 #
 6470#
-Reactionary forces causes the thirst for blood
+Reactionary forces causes the thirst for blood.
 ^ff0000Used for combining biological materials in a testing lab^000000
 Weight: ^7777771^000000
 #
@@ -36637,6 +36631,8 @@ The darkness of Nifflheim is lumped into this.
 Weight: ^7777771^000000
 #
 6472#
+A lustrous small jewel. It's a very important part to form the Blue Ribbon.
+Weight: ^7777770^000000
 #
 6473#
 #
@@ -42193,7 +42189,9 @@ A silk handkerchief made by Zhi Nu (also known as Vega). You can feel the love o
 Weight: ^7777771^000000
 #
 7580#
-
+Black colored bead.
+^FFFFFF_^000000
+Weight: ^7777771^000000
 #
 7581#
 A document made to celebrate the 3rd anniversary of Ragnarok Online, which can be traded in for prizes.
@@ -42206,7 +42204,7 @@ A jewel rumored to make the one who bears it evil. You feel a powerful force of 
 Weight: ^7777771^000000
 #
 7583#
-You feel a great evilness, and you fear of becoming evil if you keep staring at it.
+An evil aura emits from the object. You might be corrupted by the aura too if you stare at it for too long.
 ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
@@ -43511,11 +43509,6 @@ Weight: ^7777771^000000
 It thinks a troublesome army song warm mind.
 ^FFFFFF_^000000
 Weight: ^7777771^000000
-#
-7856#
-...
-^FFFFFF_^000000
-Weight: ^7777775^000000
 #
 7857#
 A black cat doll which made by good craftsman.
@@ -45061,9 +45054,6 @@ fiction author.
 ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
-11010#
-
-#
 11011#
 Doctor Varmunt's notebook. Short memos are written in hand writing. Most of them are about Thanatos Tower and Historical relics that he discovered.
 ^FFFFFF_^000000
@@ -45093,9 +45083,6 @@ Weight: ^7777770^000000
 Expedition Report Vol.4 which reports the internal situation of the expedition and the investigation. It also introduces the future plans.
 ^FFFFFF_^000000
 Weight: ^7777770^000000
-#
-11017#
-
 #
 11018#
 Splendide Selling Item
@@ -47673,13 +47660,17 @@ A box contains treasure box? This contains a huge treasure cases maybe not ...
 Weight: ^77777715^000000
 #
 12282#
-
+A bag with 10 Amber Pearl inside.
+^FFFFFF_^000000
+Weight: ^7777771^000000
 #
 12283#
-
+A bag with 50 Amber Pearl inside.
+^FFFFFF_^000000
+Weight: ^7777771^000000
 #
 12284#
-
+aRO item.
 #
 12286#
 A box contains fancy ball ornament.
@@ -47726,10 +47717,12 @@ Weight: ^77777710^000000
 12292#
 Unripe Fruit from the Yggdrasil tree which brings life to our world.
 Restores 20% HP.
+^FFFFFF_^000000
 Weight: ^77777720^000000
 #
 12293#
-A Dried candied Yggdrasilberry that recovers 20% SP when consumed
+A Dried candied Yggdrasilberry that recovers 20% SP when consumed.
+^FFFFFF_^000000
 Weight: ^77777720^000000
 #
 12294#
@@ -49609,15 +49602,10 @@ Weight: ^7777772^000000
 A scroll that will transform your body into the form of a Golem for 20 minutes.
 Weight: ^7777772^000000
 #
-12666#
-#
-12667#
-#
-12668#
-#
-12669#
-#
 12672#
+A box for returning and new player
+^FFFFFF_^000000
+Weight: ^7777771^000000
 #
 12673#
 This box contains one of the 3 Safe to 7 Upgrade Certificates; either Gear, Weapon or Headgear. Take the certificate and the appropriate piece of equipment to Mighty Hammer to do a safe attempt at upgrading! Even if the upgrade attempt fails the equipment is safe and unchanged.
@@ -49627,14 +49615,17 @@ Weight: ^7777771^000000
 #
 12674#
 A small, solid black lacquered box that contains several materials.
+^FFFFFF_^000000
 Weight: ^77777750^000000
 #
 12675#
 A supply box with various weapons stamped with the seal of a forgotten guild.
+^FFFFFF_^000000
 Weight: ^77777750^000000
 #
 12676#
 A box containing 50 different potions and theoretical studies for expensive weapons.
+^FFFFFF_^000000
 Weight: ^77777720^000000
 #
 12677#
@@ -49658,11 +49649,13 @@ Weight: ^77777720^000000
 12681#
 Lemon flavor fresh Nestea that makes your summer cool.
 Recover HP, SP 20%.
+^FFFFFF_^000000
 Weight: ^7777775^000000
 #
 12682#
 Black nestea that makes your summer cool.
 Recover HP 20%.
+^FFFFFF_^000000
 Weight: ^7777773^000000
 #
 12683#
@@ -49679,6 +49672,11 @@ Follow the NPC below to make Gin ASPD Enhanced Potion.
 Weight: ^7777771^000000
 #
 12685#
+Limited edition of Griffon's Egg
+Contain one of :
+Griffon's Hat, Safe to 9 Armor Sertificate, Enchant Book, Bloody Dead Branch, Magic Card Album etc.
+^FFFFFF_^000000
+Weight: ^7777771^000000
 #
 12690#
 This album seems to contain the cards for headgears. It is pretty shabby which shows an old, unknown power.
@@ -64997,8 +64995,6 @@ Defense: ^77777737^000000
 Weight: ^77777760^000000
 Required Level: ^7777771^000000
 Jobs: ^777777N/A^000000
-#
-15035#
 #
 15036#
 Armor created by purifying Ur runestones.
@@ -86051,12 +86047,6 @@ Weight: ^7777771^000000
 #
 22517#
 Scroll to summon Loki
-#
-22519#
-Stop eating This item.
-#
-22520#
-Buff is canceled and operation stopped to eat This item.
 #
 22521#
 Contains 5 Job Manual.
