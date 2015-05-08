@@ -14186,6 +14186,14 @@ Weight: ^77777710^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
+2482#
+Increase SP recovery by 10%, Enable use of Level 1 Increase Agility.
+Class: ^777777Footgear^000000
+Defense: ^7777774^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
 2483#
 *Stats during WoE & PVP
 MDEF +1.
@@ -15229,6 +15237,14 @@ Jobs: ^777777Warlock/Archbishop^000000
 2584#
 [JRO item]
 #
+2585#
+Increase SP recovery by 10%.
+Class: ^777777Garment^000000
+Defense: ^7777774^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
 2586#
 *Stats during WoE & PVP
 MDEF +1.
@@ -15636,24 +15652,6 @@ Defense: ^7777770^000000
 Weight: ^7777771^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
-#
-2632#
-...
-VIT +1, DEX +1, LUK +1
-Class: ^777777Accessory^000000
-Defense: ^7777771^000000
-Weight: ^77777710^000000
-Required Level: ^77777765^000000
-Jobs: ^777777All except Novice^000000
-#
-2633#
-...
-STR +2, INT +1
-Class: ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^77777710^000000
-Required Level: ^77777780^000000
-Jobs: ^777777All except Novice^000000
 #
 2634#
 A wedding ring for a Groom which symbolizes ever-lasting love.
@@ -32821,16 +32819,6 @@ Weight: ^7777770^000000
 Required Level: ^77777720^000000
 Jobs: ^777777All except Novice^000000
 #
-5706#
-#
-5710#
-#
-5712#
-#
-5713#
-#
-5714#
-#
 5737#
 The friendly Potted Muka likes to encourage you by aggravating your opponents!
 Enables the use of ^00ff00Level 3 Provoke^000000
@@ -49668,8 +49656,14 @@ A box that contains WoE Blue Potions
 Weight: ^77777720^000000
 #
 12681#
+Lemon flavor fresh Nestea that makes your summer cool.
+Recover HP, SP 20%.
+Weight: ^7777775^000000
 #
 12682#
+Black nestea that makes your summer cool.
+Recover HP 20%.
+Weight: ^7777773^000000
 #
 12683#
 A box that contains WoE Violet Potions
@@ -65044,14 +65038,17 @@ Jobs: ^777777Rune Knight^000000
 #
 15038#
 Armor that contains the reliquery remains of an ancient Assassin.
-LUK +3, Has a chance of auto-casting Meteor Assault level 1 while physically attacking.
+LUK +3, Has a chance of auto-casting Level 1 Meteor Assault while physically attacking.
 If higher level of this skill is learned then it will be cast.
 [^6A5ACDSapha Set^000000]
 ^008800Sapha's Cloth^000000
 ^008800Sapha Ring^000000
 ^008800Sapha Hood^000000
 ^008800Sapha Shoes^000000
-Flee +10, CRIT +15, Increases damage of Cross Impact by 20, increases SP costs of skills by 10%
+Flee +10, CRIT +15,
+Increase critical damage by 40%,
+Increase damage of Cross Impact by 20%,
+Increase SP consumption of all skills by 10%
 Class: ^777777Armor^000000
 Defense: ^77777745^000000
 Weight: ^77777710^000000
@@ -65066,11 +65063,12 @@ STR +2, INT +2.
 ^008800Nab Ring^000000
 ^008800Nab Hood^000000
 ^008800Nab Shoes^000000
-Has a chance of auto-casting Soul Destroyer level 1 while physically attacking.
+ATK +10%, MATK +10%.
+If base STR is 120 or higher
+ATK +30
+CRIT -20
+Has a chance of auto-casting Level 1 Soul Destroyer while physically attacking.
 If higher level of this skill is learned then it will be cast.
-If base STR is 120, ATK +30.
-Increases damage to all monster sizes by 10%
-CRIT -20.
 Class: ^777777Armor^000000
 Defense: ^77777745^000000
 Weight: ^77777710^000000
@@ -65142,6 +65140,17 @@ Defense: ^77777766^000000
 Weight: ^77777766^000000
 Required Level: ^777777100^000000
 Jobs: ^777777Genetic^000000
+#
+15045#
+An armor imbued with magical power.
+Increase HP regeneration by 10%.
+Valor set bonus:
+MaxHP +500, MaxSP +300, DEF +10, ATK +10.
+Class: ^777777Armor^000000
+Defense: ^7777774^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 15046#
 *Stats during WoE & PVP
@@ -74149,8 +74158,7 @@ Required Level: ^77777710^000000
 Jobs: ^777777All^000000
 #
 18591#
-Glasses worn by
-true sophisticates.
+Glasses worn by true sophisticates.
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
 Location: ^777777Middle^000000
@@ -74158,6 +74166,14 @@ Weight: ^77777710^000000
 Jobs: ^777777All except Novice^000000
 #
 18592#
+Wearing this Hat makes your summer cool. Important thing is maintenance sense of balance.
+MDEF +5.
+Class: ^777777Headgear^000000
+Defense: ^7777775^000000
+Location: ^777777Upper^000000
+Weight: ^77777720^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 18593#
 Cute red mini crown.
@@ -81145,6 +81161,14 @@ Jobs: ^777777All^000000
 A hood for Necromencers wearing at their evil worships.
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
+Location: ^777777Upper, Middle^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19820#
+The Deadly Necromancer's Essence is embodied in this Hood.
+Class: ^777777Costume^000000
 Location: ^777777Upper, Middle^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000

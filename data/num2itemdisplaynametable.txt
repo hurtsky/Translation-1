@@ -1556,6 +1556,7 @@
 2479#Shoes#
 2480#Shoes#
 2481#Shoes#
+2482#Shoes#
 2483#Shoes#
 2484#Shoes#
 2485#Shoes#
@@ -1656,6 +1657,7 @@
 2582#Garment#
 2583#Garment#
 2584#Garment#
+2585#Garment#
 2586#Garment#
 2587#Garment#
 2588#Garment#
@@ -1700,8 +1702,6 @@
 2629#Accessory#
 2630#Accessory#
 2631#Accessory#
-2632#Accessory#
-2633#Accessory#
 2634#Wedding_Ring#
 2635#Wedding_Ring#
 2636#Gold_Christmas_Ring#
@@ -3552,9 +3552,9 @@
 5592#Accessory#
 5593#Hat#
 5594#Accessory#
-5595##
+5595#Helm#
 5596#Accessory#
-5597#Headgear#
+5597#Accessory#
 5598#Helm#
 5599#Helm#
 5600#Accessory#
@@ -3652,11 +3652,6 @@
 5692#Hat#
 5693#Helm#
 5694#Helm#
-5706##
-5710##
-5712##
-5713##
-5714##
 5737#Hat#
 5738#Hat#
 5739#Helm#
@@ -6564,8 +6559,8 @@
 12678#WoE_Arrow_Quiver_A#
 12679#WoE_White_Potion_Box#
 12680#WoE_Blue_Potion_Box#
-12681##
-12682##
+12681#Lemon_Nestea#
+12682#Black_Nestea#
 12683#WoE_Violet_Potion_Box200#
 12684#ASPD_Enchanced_Potion#
 12685##
@@ -8380,6 +8375,7 @@
 15042#Clothing#
 15043#Clothing#
 15044#Clothing#
+15045#Armor#
 15046#Armor#
 15047#Clothing#
 15048#Clothing#
@@ -10457,6 +10453,7 @@
 19817#Hat#
 19818#Hat#
 19819#Hat#
+19820#Hat#
 19821#Hat#
 19822#Hat#
 19823#Hat#

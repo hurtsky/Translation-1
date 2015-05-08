@@ -1556,6 +1556,7 @@
 2479#White_Wing_Boots#
 2480#Black_Wing_Boots#
 2481#Rune_Boots#
+2482#Shoes_of_Valor#
 2483#WoE_Greave#
 2484#WoE_Boots#
 2485#WoE_Shoes#
@@ -1656,6 +1657,7 @@
 2582#Salvage_Cape#
 2583#Holy_Cape#
 2584#Coat_Of_Wandering#
+2585#Muffler_of_Valor#
 2586#WoE_Manteau#
 2587#WoE_Muffler#
 2588#Rag_mantle#
@@ -1700,8 +1702,6 @@
 2629#Magingiorde#
 2630#Brysinggamen#
 2631#Celebration_Ring#
-2632#Korean_Trinket#
-2633#Jade_Ring#
 2634#Wedding_Ring#
 2635#Wedding_Ring#
 2636#Gold_Christmas_Ring#
@@ -3652,11 +3652,6 @@
 5692#Sea_Cat_Hat#
 5693#NoFear_Underwear#
 5694#NoFear_Headband#
-5706#E_Alice_Doll#
-5710#E_Vane_Hairpin#
-5712#E_Vacation_Hat#
-5713#E_Charming_Ribbon#
-5714#E_Water_Lily_Crown#
 5737#Potted_Muka_Hat#
 5738#Snowman_Hat#
 5739#Sagittarius_Crown#
@@ -6564,8 +6559,8 @@
 12678#WoE_Arrow_Quiver_A#
 12679#WoE_White_Potion_Box#
 12680#WoE_Blue_Potion_Box#
-12681##
-12682##
+12681#Lemon_Nestea#
+12682#Black_Nestea#
 12683#WoE_Violet_Potion_Box200#
 12684#ASPD_Enhanced_Potion#
 12685#Gryphon_Scroll#
@@ -8380,6 +8375,7 @@
 15042#White_Wing_Suits#
 15043#Black_Wing_Suits#
 15044#Green_Operation_Coat#
+15045#Armor_of_Valor#
 15046#WoE_Plate#
 15047#WoE_Suits#
 15048#WoE_Robe#
@@ -10457,6 +10453,7 @@
 19817#Costume_Ifrit's_Breath#
 19818#Costume_Drooping_Morocc_Minion#
 19819#Costume_Necromencer_Hood#
+19820#Necromancer's_Hood#
 19821#Costume_Hyegun_Hat#
 19822#Costume_Yellow_Bandana#
 19823#Costume_White_Cat_Hood#

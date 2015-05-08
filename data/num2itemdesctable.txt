@@ -5763,6 +5763,9 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 2481#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
+2482#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
 2483#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
@@ -6062,6 +6065,9 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 2584#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
+2585#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
 2586#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
@@ -6192,12 +6198,6 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2631#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-#
-2632#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-#
-2633#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2634#
@@ -15863,21 +15863,6 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 5694#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-#
-5706#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-#
-5710#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-#
-5712#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-#
-5713#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-#
-5714#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 5737#
@@ -31056,8 +31041,14 @@ A box that contains WoE Blue Potions
 Weight: ^77777720^000000
 #
 12681#
+Lemon flavor fresh Nestea that makes your summer cool.
+Recover HP, SP 20%.
+Weight: ^7777775^000000
 #
 12682#
+Black nestea that makes your summer cool.
+Recover HP 20%.
+Weight: ^7777773^000000
 #
 12683#
 A box that contains WoE Violet Potions
@@ -43218,6 +43209,9 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 15044#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
+15045#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
 15046#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
@@ -51560,6 +51554,9 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 19819#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+19820#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 19821#
