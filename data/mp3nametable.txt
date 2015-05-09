@@ -1,6 +1,8 @@
 //-최종갱신 오후 3:58 2015-02-23 본서버
 //맵이름.rsw#bgm\\음악번호#
 
+evt_coke.rsw#bgm\\08.mp3#
+
 //--- 통상판 마을음악
 prt_church.rsw#bgm\\10.mp3#
 izlude.rsw#bgm\\26.mp3#

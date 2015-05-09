@@ -1,3 +1,9 @@
+// Other
+evt_coke.gnd#1@sthb.gnd#
+evt_coke.gat#1@sthb.gat#
+evt_coke.rsw#1@sthb.rsw#
+유저인터페이스\map\1@sthb.bmp#유저인터페이스\map\evt_coke.bmp#
+
 //pvp미니맵오류관련
 유저인터페이스\map\pvp_y_1-5.bmp#유저인터페이스\map\morocc.bmp#
 유저인터페이스\map\pvp_y_2-5.bmp#유저인터페이스\map\morocc.bmp#
