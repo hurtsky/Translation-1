@@ -3734,6 +3734,9 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 1596#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
+1598#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
 1599#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
@@ -6987,6 +6990,7 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2893#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2894#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -7001,16 +7005,21 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2900#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2901#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2902#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2903#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2904#
 #
 2905#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2906#
 #

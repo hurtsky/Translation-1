@@ -881,6 +881,7 @@
 1594#Genealogy_of_Flame_God#
 1595#Genealogy_of_Ice_God#
 1596#Earth_Pedigree_Book#
+1598#Snake_Encyclopedia#
 1599#Angra_manyu#
 1600#Rod_of_Vicious_Mind#
 1601#Rod#
@@ -1950,7 +1951,7 @@
 2890#White_Wing_Brooch#
 2891#Black_Wing_Brooch#
 2892#Assassin_Handcuffs#
-2893#Haunted_Heart#
+2893#Cursed_Heart#
 2894#Glove_Of_Shura#
 2897#RWC_Necklace#
 2898#Black_Rosary#
@@ -1960,7 +1961,7 @@
 2902#Morpheus's_Ring#
 2903#Morpheus's_Bracelet#
 2904#Naqsi#
-2905#Ora_Ora_Very_Strong#
+2905#Ultra-Strong_Ora_Ora#
 2906#Gloves_of_Fortune#
 2907#Buwaya_Agimat_Tattoo#
 2908#Ring_of_Light#
@@ -11490,4 +11491,4 @@
 28706#Dagger_of_Vicious_Mind#
 28900#Praetorian_Shield#
 28901#Cursed_Mad_Bunny#
-28902#Cursed_Mad_Bunny#
+28902#Mad_Bunny#

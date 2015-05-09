@@ -4417,7 +4417,7 @@ Class: ^777777Katar^000000
 Attack: ^777777120^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
-Required Level: ^7777771^000000
+Required Level: ^77777740^000000
 Jobs: ^777777Assassin^000000
 #
 1301#
@@ -7135,7 +7135,19 @@ Jobs: ^777777Priest, Sage and Star Gladiator^000000
 [JRO item]
 #
 1590#
-[JRO item]
+Covering all informations about snakes.
+Matk +110
+Every refine add Atk +3 and Matk +3.
+Indestructible.
++Snake Card, ASPD +5%
++Sidewinder Card, ASPD +5%
+Both Snake and Sidewinder card equipped at the same time, Aspd +1
+Class: ^777777Book^000000
+Attack: ^77777710^000000
+Weight: ^777777150^000000
+Weapon Level: ^7777774^000000
+Required Level: ^777777105^000000
+Jobs: ^777777Archbishop and Sorcerer^000000
 #
 1591#
 ^000088Rental Items^000000
@@ -7175,6 +7187,21 @@ Weight: ^77777740^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777727^000000
 Jobs: ^777777Priest, Sage and Star Gladiator^000000
+#
+1598#
+Covering all informations about snakes.
+Matk +110
+Every refine add Atk +3 and Matk +3.
+Indestructible.
++Snake Card, ASPD +5%
++Sidewinder Card, ASPD +5%
+Both Snake and Sidewinder card equipped at the same time, Aspd +1
+Class: ^777777Book^000000
+Attack: ^77777710^000000
+Weight: ^777777150^000000
+Weapon Level: ^7777774^000000
+Required Level: ^777777105^000000
+Jobs: ^777777Archbishop and Sorcerer^000000
 #
 1599#
 ''^339999The Real Holy Cross^000000''
@@ -15371,7 +15398,14 @@ Required Level: ^77777765^000000
 Jobs: ^777777All^000000
 #
 2599#
-[JRO item]
+Goibne's very first creation, his much prized and precious armor.
+Reduces long range physical damage by 10%.
+VIT +1, MDEF +2
+Class: ^777777Garment^000000
+Defense: ^77777711^000000
+Weight: ^77777770^000000
+Required Level: ^77777754^000000
+Jobs: ^777777All except Novice^000000
 #
 2601#
 A metal band worn on the finger which strangely increases its wearer's strength.
@@ -17970,6 +18004,13 @@ Required Level: ^777777100^000000
 Jobs: ^777777Guillotine Cross^000000
 #
 2893#
+A shaman's heart whom made contract with demon.
+Chance to curse enemy when physically attacking.
+Class: ^777777Accessory^000000
+Defense: ^7777770^000000
+Weight: ^7777775^000000
+Required Level: ^77777780^000000
+Jobs: ^777777All^000000
 #
 2894#
 If base Str is 120, increases attack power by 30.
@@ -18010,16 +18051,56 @@ Required Level: ^77777790^000000
 Jobs: ^777777Hunter, Bard and Dancer^000000
 #
 2900#
+The belt that Morrigane kept as a memento of CuChulain after he perished in battle.
+ATK +5, CRIT +3
+Class: ^777777Accessory^000000
+Defense: ^7777770^000000
+Weight: ^77777720^000000
+Required Level: ^77777761^000000
+Jobs: ^777777All except Novice^000000
 #
 2901#
+The pendant that ChuChulain gave to Morrigane when they were both still in love.
+It's symoblic of her endless devotion, as she stood by his side even after he had abandoned her.
+STR +2, CRIT +3
+Class: ^777777Accessory^000000
+Defense: ^7777770^000000
+Weight: ^77777720^000000
+Required Level: ^77777761^000000
+Jobs: ^777777All except Novice^000000
 #
 2902#
+A ring, enchanted with the power of the Fate Stone, that is one of the three keys for theseal which binds Morpheus.
+INT +1, MaxSP +5%
+Class: ^777777Accessory^000000
+Defense: ^7777770^000000
+Weight: ^77777710^000000
+Required Level: ^77777733^000000
+Jobs: ^777777All except Novice^000000
 #
 2903#
+A bracelet, rumored to be a memento of Morpheus's beloved, that is one of the three keys for the seal which binds Morpheus.
+INT +1, MaxSP +5%
+Class: ^777777Accessory^000000
+Defense: ^7777770^000000
+Weight: ^77777710^000000
+Required Level: ^77777733^000000
+Jobs: ^777777All except Novice^000000
 #
 2904#
 #
 2905#
+A trap for insects with strong smell.
+Increase magic damage against insect by 6%.
++Insecticide, reduce damage from Insect monster by 10%.
+When refined to +8 or higher,
+Increase magic damage against insect by 4%.
++Insecticide, reduce damage from Insect monster by 20%.
+Class: ^777777Accessory^000000
+Defense: ^7777770^000000
+Weight: ^777777100^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 2906#
 #
@@ -78183,10 +78264,38 @@ Jobs: ^777777All^000000
 [JRO item]
 #
 19043#
-[JRO item]
+One of the few armors that was forged by Goibe the blacksmith.
+It is said that the gods valued his armors more than the weapons he had forged.
+VIT +3, MDEF +3.
+^6A5ACDGoibne's Armor Set^000000
+^3CB371Goibne's Helm[1]^000000
+^3CB371Goibne's Spaulders[1]^000000
+^3CB371Goibne's Greaves[1]^000000
+^3CB371Goibne's Armor^000000
+VIT +5, MaxHP +15%, MaxSP +5%, DEF +5, MDEF +15
++10% Resistance to Water, Wind, Earth and Fire property
+Class: ^777777Headgear^000000
+Defense: ^77777710^000000
+Location: ^777777Upper^000000
+Weight: ^77777750^000000
+Required Level: ^77777754^000000
+Jobs: ^777777All except Novice^000000
 #
 19044#
-[JRO item]
+A helm that was once owned by Morrigane, the goddess of war.
+LUK +2, ATK +3.
+^6A5ACDMorrigane's Set^000000
+^3CB371Morrigane's Helm[1]^000000
+^3CB371Morrigane's Pendant[1]^000000
+^3CB371Morrigane's Belt[1]^000000
+^3CB371Morrigane's Manteau^000000
+STR +2, LUK +9, ATK +18, Crit +13, Perfect Dodge +13
+Class: ^777777Headgear^000000
+Defense: ^7777778^000000
+Location: ^777777Upper^000000
+Weight: ^77777750^000000
+Required Level: ^77777761^000000
+Jobs: ^777777All except Novice^000000
 #
 19045#
 [JRO item]
