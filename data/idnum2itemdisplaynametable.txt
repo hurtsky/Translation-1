@@ -11483,6 +11483,12 @@
 28354#City_Center_Map#
 28355#Shining_Holy_Water#
 28356#Prontera_Badge#
+28362#STR_Gloves#
+28363#AGI_Glove#
+28364#INT_Glove#
+28365#VIT_Glove#
+28366#DEX_Glove#
+28367#LUK_Glove#
 28600#Blue_Book#
 28604#Crimson_Bible#
 28605#Book_of_Vicious_Mind#

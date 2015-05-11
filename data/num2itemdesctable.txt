@@ -7333,7 +7333,7 @@ Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4005#
-Increase physical damage against Shadow property monsters by 20%.
+Increase physical damage against ^777777Shadow^000000 property monsters by 20%.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -8294,7 +8294,7 @@ Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4149#
-Add the chance of gaining 'Box of Thunder' item each time an Insect monster is killed.
+Add the chance of gaining ^008800Box of Thunder^000000 each time an Insect monster is killed.
 Class: ^777777Card^000000
 Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
@@ -8313,21 +8313,21 @@ Compound on: ^777777Footgear^000000
 Weight: ^7777771^000000
 #
 4152#
-Add the chance of gaining Apple, Banana and Carrot Juice each time an Insect monster is killed.
+Add the chance of gaining ^008800Apple Juice^000000, ^008800Banana Juice^000000 and ^008800Carrot Juice^000000 each time an Insect monster is killed.
 Juice item restores 50% more HP.
 Class: ^777777Card^000000
 Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4153#
-ATK +5.
-Inflict 30% more physical damage on Aster.
+ATK +5
+Inflict 30% more physical damage on ^6A5ACDAster^000000.
 ^FFFFFF_^000000
 [^6A5ACDBeach Card Set^000000]
 ^3CB371Shell Fish Card^000000
 ^3CB371Crab Card^000000
 ^3CB371Aster Card^000000
-Has chance of Gaining 'Raw Fish' each time a Fish Monster is killed.
+Has chance of Gaining ^008800Raw Fish^000000 each time a Fish Monster is killed.
 +30% damage on ^0000BBWater^000000 Property monsters
 ^FFFFFF_^000000
 Class: ^777777Card^000000
@@ -8335,14 +8335,14 @@ Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4154#
-Add the chance of gaining 'Candy' or 'Candy Cane' item each time a Demihuman monster is killed.
+Add the chance of gaining ^008800Candy^000000 or ^008800Candy Cane^000000 item each time a Demihuman monster is killed.
 Candy and Candy Cane restore 50% more HP.
 Class: ^777777Card^000000
 Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4155#
-Inflict 30% more physical damage on Goblins.
+Inflict 30% more physical damage on ^6A5ACDGoblins^000000.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -8384,14 +8384,14 @@ Weight: ^7777771^000000
 #
 4161#
 Add the chance of auto casting ^008800Level 1 Gloria^000000 on the user when receiving Physical Damage.
-DEF +3 and VIT +3 if the user is equipped with an item compounded to the Peco Peco card.
+DEF +3 and VIT +3 if the user is equipped with an item compounded to the ^008800Peco Peco card^000000.
 Class: ^777777Card^000000
 Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4162#
 Add the chance of auto casting ^FF0000Blind^000000 on an enemy when the user receives Physical Damage.
-If the user is equipped with an item compounded to the Big Foot card, the blinding chance will be increased.
+If the user is equipped with an item compounded to the ^008800Big Foot Card^000000, the blinding chance will be increased.
 Class: ^777777Card^000000
 Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -8422,7 +8422,7 @@ Weight: ^7777771^000000
 #
 4166#
 Add the chance of auto casting ^FF0000Curse^000000 on an enemy when the user receives Physical Damage.
-If the user is equipped with an item compounded to the Nightmare card, the cursing chance will be increased.
+If the user is equipped with an item compounded to the ^008800Nightmare Card^000000, the cursing chance will be increased.
 Class: ^777777Card^000000
 Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -8436,7 +8436,7 @@ Weight: ^7777771^000000
 #
 4168#
 Add the chance of auto casting ^008800Level 5 Meteor Storm^000000 skill on an enemy when the user receives Physical Damage.
-If the user is equipped with an item compounded to the Dark Illusion card, it adds MaxHP, MaxSP +20%.
+If the user is equipped with an item compounded to the ^008800Dark Illusion Card^000000, it adds MaxHP and MaxSP +20%.
 Class: ^777777Card^000000
 Compound on: ^777777Footgear^000000
 Weight: ^7777771^000000
@@ -8444,7 +8444,7 @@ Weight: ^7777771^000000
 4169#
 MaxHP and MaxSP -10%.
 Reduce variable casting time by 10%.
-If the user is equipped with an item compounded to the Dark Lord card, it reduces variable casting time by 20%.
+If the user is equipped with an item compounded to the ^008800Dark Lord Card^000000, it reduces variable casting time by 20%.
 Class: ^777777Card^000000
 Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
@@ -8514,7 +8514,7 @@ Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4177#
-Add the chance of gaining 'Green Live' item each time a Plant monster is killed.
+Add the chance of gaining ^008800Green Live^000000 item each time a Plant monster is killed.
 Add 10% more tolerance against ^cc5500Earth^000000 property Attack.
 Class: ^777777Card^000000
 Compound on: ^777777Headgear^000000
@@ -8523,7 +8523,7 @@ Weight: ^7777771^000000
 4178#
 AGI +1
 Flee +10
-Inflict 5% more damage with ^008800Double Strafe^000000 and ^008800Arrow Shower^000000 skill.
+Inflict 5% more damage with ^008800Double Strafe^000000 and ^008800Arrow Shower^000000.
 ^FFFFFF_^000000
 [^6A5ACDHunter Card Set^000000]
 ^3CB371Cruiser Card^000000
@@ -8556,7 +8556,7 @@ Weight: ^7777771^000000
 #
 4179#
 AGI +1
-Add Flee +18 if the user is equipped with an item compounded to the Chon Chon card.
+Add Flee +18 if the user is equipped with an item compounded to the ^008800Chon Chon Card^000000.
 Class: ^777777Card^000000
 Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
@@ -8570,13 +8570,13 @@ Weight: ^7777771^000000
 #
 4181#
 Add the chance of auto casting ^FF0000Silence^000000 on an enemy when the user receives Physical Damage.
-The chance of casting 'Silence' is increased if the user has 77 or more VIT points.
+The chance of casting ^FF0000Silence^000000 is increased if the user has 77 or more VIT points.
 Class: ^777777Card^000000
 Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4182#
-Gain 5 SP each time a Devil monster is killed by Physical Melee Attack.
+Gain 5 SP each time a Demon monster is killed by Physical Melee Attack.
 Drain 5 SP as the weapon is unequipped.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
@@ -8584,13 +8584,13 @@ Weight: ^7777771^000000
 #
 4183#
 STR +1
-Add Flee +18 if the user is equipped with an item compounded to the Wolf Card.
+Add Flee +18 if the user is equipped with an item compounded to the ^008800Wolf Card^000000.
 Class: ^777777Card^000000
 Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4184#
-Inflict 30% more physical damage on Golems.
+Inflict 30% more physical damage on ^6A5ACDGolems^000000.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -8670,13 +8670,13 @@ Compound on: ^777777Footgear^000000
 Weight: ^7777771^000000
 #
 4187#
-Add the chance of gianing 'Box of Resentment' item each time a Devil monster is killed.
+Add the chance of gaining ^008800Box of Resentment^000000 each time a Demon monster is killed.
 Class: ^777777Card^000000
 Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4188#
-Add the chance of gaining 'Red Blood' item each time a Brute monster is killed.
+Add the chance of gaining ^008800Red Blood^000000 item each time a Brute monster is killed.
 Add 10% more tolerance against ^FF0000Fire^000000 property Attack.
 Class: ^777777Card^000000
 Compound on: ^777777Headgear^000000
@@ -8689,7 +8689,7 @@ Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4190#
-Add the chance of gaining 'Giggling Box' item each time an Undead monster is killed.
+Add the chance of gaining ^008800Giggling Box^000000 each time an Undead monster is killed.
 Class: ^777777Card^000000
 Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
@@ -8723,7 +8723,7 @@ Weight: ^7777771^000000
 #
 4193#
 Has 20% chance of auto casting ^008800Level 1 Endure^000000 on Novice or Super Novice when receiving Physical Damage.
-If the user is equipped with an item compounded to the Quve card, it adds MaxHP +300.
+If the user is equipped with an item compounded to the ^008800Quve Card^000000, it adds MaxHP +300.
 Class: ^777777Card^000000
 Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
@@ -8736,14 +8736,14 @@ Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4195#
-Add the chance of gaining 'Crystal Blue' item each time a Fish or Shellfish monster is killed.
+Add the chance of gaining ^008800Crystal Blue^000000 item each time a Fish or Shellfish monster is killed.
 Add 10% more tolerance against ^0000BBWater^000000 property Attack.
 Class: ^777777Card^000000
 Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4196#
-Add the chance of gaining 'Jellopy' or 'Large Jellopy' item each time a monster is killed.
+Add the chance of gaining ^008800Jellopy^000000 or ^008800Large Jellopy^000000 item each time a monster is killed.
 Class: ^777777Card^000000
 Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
@@ -8816,13 +8816,13 @@ Compound on: ^777777Footgear^000000
 Weight: ^7777771^000000
 #
 4205#
-Add the chance of gaining 'Old Blue Box' item each time a monster is killed.
+Add the chance of gaining ^008800Old Blue Box^000000 each time a monster is killed.
 Class: ^777777Card^000000
 Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4206#
-Add the chance of gaining 'Gift Box' each time a monster is killed.
+Add the chance of gaining ^008800Gift Box^000000 each time a monster is killed.
 ^FFFFFF_^000000
 [^6A5ACDMerchant Card Set^000000]
 ^3CB371Zipper Bear Card^000000
@@ -8850,7 +8850,7 @@ Weight: ^7777771^000000
 #
 4208#
 MaxSP +10%
-Inflict 5% more damage with Frost Diver skill.
+Inflict 5% more damage with ^008800Frost Diver^000000.
 ^FFFFFF_^000000
 [^99FF66Sage Card Set^000000]
 ^00FF00Yellow Novus Card^000000
@@ -8932,15 +8932,15 @@ Weight: ^7777771^000000
 #
 4211#
 MDEF +3
-If the user is equipped with an item compounded to the Rocker card, it adds Flee +18.
+If the user is equipped with an item compounded to the ^008800Rocker Card^000000, it adds Flee +18.
 Class: ^777777Card^000000
 Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4212#
-Add the chance of auto casting level 1 Bash on an enemy when doing Physical Attack.
+Add the chance of auto casting ^008800Level 1 Bash^000000 on an enemy when doing Physical Attack.
 The Bash skill shoves the enemy 5 cells back.
-Receive 100% more damage from Munak.
+Receive 100% more damage from ^6A5ACDMunak^000000.
 ^FFFFFF_^000000
 [^6A5ACDTragic Trio Card Set^000000]
 ^3CB371Munak Card^000000
@@ -8972,7 +8972,7 @@ Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4216#
-Add the chance of freezing an enemy when the user receives Physical Damage.
+Add the chance of ^FF0000Freezing^000000 an enemy when the user receives Physical Damage.
 Class: ^777777Card^000000
 Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -9044,7 +9044,7 @@ Weight: ^7777771^000000
 #
 4222#
 Add the chance of auto casting ^FF0000Sleep^000000 on an enemy when the user receives Physical Damage.
-The chance of casting ^FF0000Sleep^000000 is increased if the user is equipped with an item compounded to the Skeleton card.
+The chance of casting ^FF0000Sleep^000000 is increased if the user is equipped with an item compounded to the ^008800Skeleton Card^000000.
 Class: ^777777Card^000000
 Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -9057,7 +9057,7 @@ Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4224#
-Add the chance of gaining 'Box of Storms' item each time a Brute monster is killed.
+Add the chance of gaining ^008800Box of Storms^000000 each time a Brute monster is killed.
 Class: ^777777Card^000000
 Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
@@ -9076,14 +9076,14 @@ Compound on: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4227#
-Add the chance of gaining 'Meat' or 'Monster's Feed' item each time a Brute monster is killed.
+Add the chance of gaining ^008800Meat^000000 or ^008800Monster's Feed^000000 item each time a Brute monster is killed.
 Meat and Monster's Feed restore 50% more HP.
 Class: ^777777Card^000000
 Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4228#
-Add the chance of gaining 'Box of Drowsiness' item each time a Fish or Shellfish monster is killed.
+Add the chance of gaining ^008800Box of Drowsiness^000000 each time a Fish monster is killed.
 Class: ^777777Card^000000
 Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
@@ -9143,13 +9143,13 @@ Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4231#
-Receive 50% less damage from Guardians during War of Emperium hours.
+Receive 50% less damage from ^6A5ACDGuardians^000000 during War of Emperium hours.
 Class: ^777777Card^000000
 Compound on: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4232#
-Add the chance of gaining 'Red/Yellow/White Herb' item each time a Plant monster is killed.
+Add the chance of gaining ^008800Red Herb^000000, ^008800Yellow Herb^000000 or ^008800White Herb^000000 each time a Plant monster is killed.
 Herb items restore 50% more HP.
 Class: ^777777Card^000000
 Compound on: ^777777Accessory^000000
@@ -9194,7 +9194,7 @@ Weight: ^7777771^000000
 #
 4234#
 Add the chance of auto casting ^008800Level 1 Improve Concentration^000000 on the user when receiving Physical Damage.
-If the user has mastered the skill at level 10, it will cast level 10 Improve Concentration.
+If the user has mastered the skill at level 10, it will cast ^008800Level 10 Improve Concentration^000000.
 ^FFFFFF_^000000
 ^6A5ACDHunter Card Set^000000
 ^3CB371Cruiser Card^000000
@@ -9251,7 +9251,7 @@ Weight: ^7777771^000000
 #
 4237#
 Add the chance of auto casting ^008800Level 3 Impositio Manus^000000 on the user when doing Physical Attack.
-If the user is equipped with an item compounded to the Owl Baron card,
+If the user is equipped with an item compounded to the ^008800Owl Baron Card^000000,
 it adds the chance of auto casting ^008800Level 5 Lightning Bolt^000000 on an enemy when doing Physical Attack.
 Class: ^777777Card^000000
 Compound on: ^777777Accessory^000000
@@ -9344,7 +9344,8 @@ Weight: ^7777771^000000
 #
 4247#
 ATK +5
-Inflict 30% more damage on Shell Fishes.
+Inflict 30% more damage on ^6A5ACDShell Fish^000000.
+^ffffff_^000000
 ^6A5ACDBeach Card Set^000000
 ^3CB371Shell Fish Card^000000
 ^3CB371Crab Card^000000
@@ -9360,15 +9361,15 @@ Weight: ^7777771^000000
 #
 4248#
 Add the chance of auto casting ^008800Level 5 Signum Crucis^000000 on an enemy when the user receives Physical Damage.
-If the user is equipped with an item compounded to the Mummy card,
+If the user is equipped with an item compounded to the ^008800Mummy Card^000000,
 it adds Perfect Hit (which never miss its target) +20.
 Class: ^777777Card^000000
 Compound on: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4249#
-Receive 10% more Experience Points from Devil monsters.
-Receive 20% more damage from Devil monsters.
+Receive 10% more Experience Points from Demon monsters.
+Receive 20% more damage from Demon monsters.
 Class: ^777777Card^000000
 Compound on: ^777777Footgear^000000
 Weight: ^7777771^000000
@@ -9381,7 +9382,7 @@ Compound on: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4251#
-Inflict 40% more damage on Guardians during World of Emperium hours.
+Inflict 40% more damage on ^6A5ACDGuardians^000000 during War of Emperium hours.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -9441,13 +9442,13 @@ Compound on: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4255#
-Inflict 30% more damage on every Orc except Orc Lord and Orc Hero.
+Inflict 30% more damage on every ^6A5ACDOrc^000000 except ^6A5ACDOrc Lord^000000 and ^6A5ACDOrc Hero^000000.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4256#
-Add the chance of gaining 'Box of Panting' item each time a Demihuman monster is killed.
+Add the chance of gaining ^008800Box of Panting^000000 each time a Demihuman monster is killed.
 Class: ^777777Card^000000
 Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
@@ -9558,7 +9559,7 @@ Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4262#
-Add the chance of gaining 'Box of Gloom' item each time a Plant monster is killed.
+Add the chance of gaining ^008800Box of Gloom^000000 each time a Plant monster is killed.
 Class: ^777777Card^000000
 Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
@@ -9579,14 +9580,14 @@ Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4265#
-Add the chance of gaining 'Box of Sunlight' item each time Angel monster is killed.
+Add the chance of gaining ^008800Box of Sunlight^000000 item each time Angel monster is killed.
 Class: ^777777Card^000000
 Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4266#
 VIT +1
-Add Flee +18 if the user is equipped with an item compounded to the Lunatic card.
+Add Flee +18 if the user is equipped with an item compounded to the ^008800Lunatic Card^000000.
 Class: ^777777Card^000000
 Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
@@ -9600,7 +9601,7 @@ Weight: ^7777771^000000
 #
 4268#
 Add the chance of auto casting ^008800Level 1 Sonic Blow^000000 on an enemy when doing Physical Attack.
-If the user is equipped with an item compounded to the Zealotus card,
+If the user is equipped with an item compounded to the ^008800Zealotus Card^000000,
 it adds ATK +20 and LUK +3.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
@@ -9610,20 +9611,20 @@ Weight: ^7777771^000000
 INT -3
 MaxSP +150
 Natural SP recovery -20%
-If the user is equipped with an item compounded to the Succubus card,
+If the user is equipped with an item compounded to the ^008800Succubus Card^000000,
 it adds INT +4 and SP natural recovery +30%.
 Class: ^777777Card^000000
 Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4270#
-Add the chance of poisoning an enemy when the user receives Physical Damage.
+Add the chance of ^FF0000Poisoning^000000 an enemy when the user receives Physical Damage.
 Class: ^777777Card^000000
 Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4271#
-Add the chance of gaining 'Wind of Verdure' item each time an Insect monster is killed.
+Add the chance of gaining ^008800Wind of Verdure^000000 each time an Insect monster is killed.
 Add 10% more tolerance against ^7BCC70Wind^000000 property Attack.
 Class: ^777777Card^000000
 Compound on: ^777777Headgear^000000
@@ -9656,7 +9657,7 @@ Weight: ^7777771^000000
 #
 4273#
 ATK +5
-Inflict 30% more damage on Crabs.
+Inflict 30% more damage on ^6A5ACDCrab^000000.
 ^FFFFFF_^000000
 ^6A5ACDBeach Card Set^000000
 ^3CB371Shell Fish Card^000000
@@ -9686,15 +9687,15 @@ Compound on: ^777777Footgear^000000
 Weight: ^7777771^000000
 #
 4276#
-Add the chance of auto casting 'Coma' on an enemy.
-Add the chance of auto casting 'Stun, Curse, Mute, Poison or Bleeding' in random when attacking the enemy.
+Add the chance of auto casting ^FF0000Coma^000000 on an enemy.
+Add the chance of auto casting ^FF0000Stun, Curse, Silence, Poison^000000 or ^FF0000Bleeding^000000 in random when attacking the enemy.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4277#
 LUK +2
-Inflict 10% more damage with Throw Arrow and Musical Strike skill.
+Inflict 10% more damage with ^008800Throw Arrow^000000 and ^008800Musical Strike^000000.
 Class: ^777777Card^000000
 Compound on: ^777777Shield^000000
 Weight: ^7777771^000000
@@ -9714,14 +9715,8 @@ Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4280#
-Add the chance of
-auto casting Level 2
-Blessing on the user when
-receiving Physical Damage.
-Auto cast level 10
-Blessing instead of
-level 2, if level 10
-Blessing is learned.
+Add the chance of auto casting ^008800Level 2 Blessing^000000 on the user when receiving Physical Damage.
+Auto cast ^008800Level 10 Blessing^000000 instead, if Blessing is mastered.
 ^FFFFFF_^000000
 ^6A5ACDAcolyte Card Set^000000
 ^3CB371Rideword Card^000000
@@ -9795,13 +9790,13 @@ Weight: ^7777771^000000
 #
 4283#
 Add the chance of gaining Spirit Sphere or Coin when doing Physical Attack.
-If worn by Acolyte Class characters, the chance is increased.
+If worn by ^6A5ACDAcolyte Class^000000 character, the chance is increased.
 Class: ^777777Card^000000
 Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4284#
-Add a chance of auto casting Level 5 Heal on target when doing Physical Attack.
+Add a chance of auto casting ^008800Level 5 Heal^000000 on target when doing Physical Attack.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -9828,7 +9823,7 @@ Weight: ^7777771^000000
 #
 4288#
 INT +2
-Adds MaxSP +150 if the headgear to which the Carat Card is compounded upgraded +9 or higher.
+Adds MaxSP +150 if the headgear to which the ^008800Carat Card^000000 is compounded upgraded +9 or higher.
 Class: ^777777Card^000000
 Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
@@ -9848,7 +9843,7 @@ Compound on: ^777777Footgear^000000
 Weight: ^7777771^000000
 #
 4291#
-Inflict 30% more physical damage on Kobolds.
+Inflict 30% more physical damage on ^6A5ACDKobolds^000000.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -9862,8 +9857,7 @@ Weight: ^7777771^000000
 #
 4293#
 LUK +2
-Inflict 10% more damage
-with Holy Light skill.
+Inflict 10% more damage with ^008800Holy Light^000000.
 ^FFFFFF_^000000
 ^6A5ACDAcolyte Card Set^000000
 ^3CB371Rideword Card^000000
@@ -9901,14 +9895,15 @@ Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4294#
-Add the chance of auto casting Level 1 Increase AGI on Novice or Super Novice when physical damage is received.
-If the user is equipped with an item which is compounded to the Lude card, it adds +60 MaxSP.
+[^6A5ACDNovice|Super Novice^000000]
+Add the chance of auto casting ^008800Level 1 Increase AGI^000000 when physical damage is received.
+If the user is equipped with an item which is compounded to the ^008800Lude Card^000000, it adds +60 MaxSP.
 Class: ^777777Card^000000
 Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4295#
-Add the chance of casting Blind on an enemy when the user receives Physical Damage.
+Add the chance of casting ^FF0000Blind^000000 on an enemy when the user receives Physical Damage.
 Class: ^777777Card^000000
 Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -9921,10 +9916,8 @@ Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4297#
-Inflict 10% more damage
-with Critical Attack.
-CRIT +7 on
-Brute monsters.
+Inflict 10% more damage with Critical Attack.
+CRIT +7 on Brute monsters.
 ^FFFFFF_^000000
 ^6A5ACDHunter Card Set^000000
 ^3CB371Cruiser Card^000000
@@ -9964,7 +9957,7 @@ Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4298#
-Add the chance of casting Chaos on an enemy when the user receives Physical Damage.
+Add the chance of casting ^FF0000Chaos^000000 on an enemy when the user receives Physical Damage.
 Class: ^777777Card^000000
 Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -9987,7 +9980,7 @@ Weight: ^7777771^000000
 #
 4300#
 Add the chance of poisoning an enemy when the user receives Physical Damage.
-The chance is increased if worn by Assassin class.
+The chance is increased if worn by ^6A5ACDAssassin class^000000.
 Class: ^777777Card^000000
 Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -10016,21 +10009,21 @@ Weight: ^7777771^000000
 #
 4304#
 DEF +2
-Inflict 10% more damage with Shield Charge and Shield Boomerang skills.
+Inflict 10% more damage with ^008800Shield Charge^000000 and ^008800Shield Boomerang^000000.
 Class: ^777777Card^000000
 Compound on: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4305#
 ATK +20%
-Add the chance of auto casting Level 10 Magnum Break on enemy when doing Physical Attack.
+Add the chance of auto casting ^008800Level 10 Magnum Break^000000 on enemy when doing Physical Attack.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4306#
 Perfect Dodge +1
-If the user is equipped with an item compounded to the Roda Frog card, it adds Flee +18.
+If the user is equipped with an item compounded to the ^008800Roda Frog Card^000000, it adds Flee +18.
 Class: ^777777Card^000000
 Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
@@ -10050,8 +10043,9 @@ Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4309#
-DEF +1.
+DEF +1
 Add 5% more tolerance against Formless monster.
+^ffffff_^000000
 ^99FF66Wizard Card Set^000000
 ^00FF00Loli Ruri Card^000000
 ^00FF00Parasite Card^000000
@@ -10074,13 +10068,14 @@ Weight: ^7777771^000000
 #
 4310#
 Inflict 10% more damage with Critical Attack.
-CRIT +7 on Devil monsters.
+CRIT +7 on Demon monsters.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4311#
 Add 15% more tolerance against Shadow and Undead Property Attack.
+^ffffff_^000000
 ^6A5ACDSwordman Card Set^000000
 ^3CB371Assaulter Card^000000
 ^3CB371Permeter Card^000000
@@ -10115,10 +10110,8 @@ Compound on: ^777777Headgear^000000
 4312#
 HIT +10
 Flee +3
-If worn by Acolyte Class
-characters, it adds
-Critial +9 on Devil and
-Undead monsters.
+[^6A5ACDAcolyte classes^000000]
+Critial +9 on Demon and Undead monsters.
 ^FFFFFF_^000000
 ^6A5ACDAcolyte Card Set^000000
 ^3CB371Rideword Card^000000
@@ -10156,13 +10149,8 @@ Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4313#
-Automatically cast level 1
-Quagmire around the user
-when receiving Physical
-Damage. If the user has
-mastered the skill at
-level 5, it will cast
-level 5 Quagmire.
+Automatically cast ^008800Level 1 Quagmire^000000 around the user when receiving Physical Damage.
+If the user has mastered the skill, it will cast ^008800level 5 Quagmire^000000.
 ^FFFFFF_^000000
 ^6A5ACDClocktower Card Set^000000
 ^3CB371Tower Keeper Card^000000
@@ -10183,7 +10171,7 @@ Compound on: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4315#
-Add the chance of auto casting Stone Curse on an enemy when the user receives Physical Damage.
+Add the chance of auto casting ^FF0000Stone Curse^000000 on an enemy when the user receives Physical Damage.
 The chance is increased if the user has 77 or more INT points.
 Class: ^777777Card^000000
 Compound on: ^777777Armor^000000
@@ -10198,14 +10186,15 @@ Weight: ^7777771^000000
 #
 4317#
 Inflict 15% more damage with Critical Attack.
-If worn by Thief Class characters, it adds CRIT +4.
+[^6A5ACDThief classes^000000]
+CRIT +4
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4318#
-Add the chance of auto casting level 1 Storm Gust on enemy when doing Physical Attack.
-Has 20% chance of Freezing an enemy when attacking.
+Add the chance of auto casting ^008800Level 1 Storm Gust^000000 on enemy when doing Physical Attack.
+Has 20% chance of ^FF0000Freezing^000000 an enemy when attacking.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -10285,8 +10274,8 @@ Compound on: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4323#
-Add the chance of auto casting level 3 Frost Diver on an enemy when doing Physical Attack.
-If the user is equipped with an item compounded to the Hatii card, the chance is greatly increased.
+Add the chance of auto casting ^008800Level 3 Frost Diver^000000 on an enemy when doing Physical Attack.
+If the user is equipped with an item compounded to the ^008800Hatii Card^000000, the chance is greatly increased.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -10299,7 +10288,7 @@ Weight: ^7777771^000000
 #
 4325#
 Add 15% more tolerance against Formless monster.
-Inflict 5% more damage with Napalm Beat skill.
+Inflict 5% more damage with ^008800Napalm Beat^000000.
 ^FFFFFF_^000000
 ^99FF66Sage Card Set^000000
 ^00FF00Yellow Novus Card^000000
@@ -10339,7 +10328,7 @@ Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4326#
-Add the chance of gaining 'Sushi' or 'Raw Fish' item each time a Fish monster is killed.
+Add the chance of gaining ^008800Sushi^000000 or ^008800Raw Fish^000000 each time a Fish monster is killed.
 Sushi and Raw Fish items restore 50% more HP.
 Class: ^777777Card^000000
 Compound on: ^777777Accessory^000000
@@ -10347,8 +10336,8 @@ Weight: ^7777771^000000
 #
 4327#
 Spell casting cannot be interrupted.
-Increase casting time by 30%.
-Inflict 5% more damage with Fire Wall skill.
+Increase variable casting time by 30%.
+Inflict 5% more damage with ^008800Fire Wall^000000.
 ^FFFFFF_^000000
 ^99FF66Sage Card Set^000000
 ^00FF00Yellow Novus Card^000000
@@ -10410,14 +10399,15 @@ Weight: ^7777771^000000
 #
 4330#
 INT +3
-Immune to Blind and Curse state.
+Immune to ^FF0000Blind^000000 and ^FF0000Curse^000000 state.
 Class: ^777777Card^000000
 Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4331#
 CRIT +3
-If worn by Swordman Class, Perfect Dodge +3.
+[^6A5ACDSwordman classes^000000]
+Perfect Dodge +3
 ^FFFFFF_^000000
 ^6A5ACDSwordman Card Set^000000
 ^3CB371Assaulter Card^000000
@@ -10477,7 +10467,7 @@ Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4333#
-Adds a high chance of inflicting the Poison status to the attacking enemy and this card's wearer each time the wearer is physically attacked.
+Adds a high chance of inflicting the ^FF0000Poison^000000 status to the attacking enemy and this card's wearer each time the wearer is physically attacked.
 Class: ^777777Card^000000
 Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -10496,7 +10486,7 @@ Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4336#
-Adds immunity to the Bleeding status,
+Adds immunity to the ^FF0000Bleeding^000000 status,
 Increases HP Recovery by 10%.
 Class: ^777777Card^000000
 Compound on: ^777777Headgear^000000
@@ -10523,7 +10513,7 @@ Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4340#
-Reduces damage from Undead enemies by 30%.
+Reduces damage from Undead monsters by 30%.
 Class: ^777777Card^000000
 Compound on: ^777777Shield^000000
 Weight: ^7777771^000000
@@ -10543,6 +10533,7 @@ Compound on: ^777777Armor^000000
 #
 4343#
 LUK +2
+^ffffff_^000000
 ^6A5ACDAlchemist Card Set^000000
 ^3CB371Zipper Bear Card^000000
 ^3CB371Baby Leopard Card^000000
@@ -10561,12 +10552,13 @@ A low chance of obtaining
 Glistening Coat and/or
 Stem when defeating
 monsters.
+^ffffff_^000000
 Class: ^777777Card^000000
 Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4344#
-Adds a chance of dropping Tentacle Cheese Gratin when defeating Insect type monsters.
+Adds a chance of dropping ^008800Tentacle Cheese Gratin^000000 when defeating Insect monsters.
 Class: ^777777Card^000000
 Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
@@ -10585,7 +10577,7 @@ Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4347#
-Adds a chance of dropping 'Clam Soup' when defeating Fish type monsters.
+Adds a chance of dropping ^008800Clam Soup^000000 when defeating Fish monsters.
 Class: ^777777Card^000000
 Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
@@ -10656,23 +10648,14 @@ Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4354#
-Adds 30% resistance
-to the Stun status if
-the wearer's base AGI
-is 90 or greater, and
-adds 50% resistance
-to the Stone and Sleep
-statuses if base VIT
-is 80 or greater.
+Adds 30% resistance to the ^FF0000Stun^000000 and ^FF0000Silence^000000 if base AGI is 90 or higher.
+adds 50% resistance to the ^FF0000Stone Curse^000000 and ^FF0000Sleep^000000 if base VIT is 80 or higher.
 Class: ^777777Card^000000
 Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4355#
-Adds a chance of
-dropping Bomber
-Steak when defeating
-Animal type monsters.
+Adds a chance of dropping ^008800Bomber Steak^000000 when defeating Brute monsters.
 Class: ^777777Card^000000
 Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
@@ -10819,7 +10802,6 @@ Weight: ^7777771^000000
 4373#
 LUK -5
 Adds an amount of LUK and CRIT equal to the coumpounded garment's upgrade level.
-(However, the critical level is increased up to the upgrade +10
 Class: ^777777Card^000000
 Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
@@ -10841,17 +10823,14 @@ Weight: ^7777771^000000
 4376#
 MaxSP +50%
 MaxHP -40%
-Adds a low chance of dropping Bananas when defeating monsters.
-Increases healing effect of Bananas by 100%.
+Adds a low chance of dropping ^008800Banana^000000 when defeating monsters.
+Increases healing effect of ^008800Banana^000000 by 100%.
 Class: ^777777Card^000000
 Compound on: ^777777Footgear^000000
 Weight: ^7777771^000000
 #
 4377#
-Adds a chance of
-dropping Fruit Mix
-when defeating
-Formless monsters.
+Adds a chance of dropping ^008800Fruit Mix^000000 when defeating Formless monsters.
 Class: ^777777Card^000000
 Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
@@ -10873,7 +10852,7 @@ Weight: ^7777771^000000
 #
 4379#
 MaxSP +40
-When the compounded Helmet's upgrade level is not greater than 4, MaxSP +40, and adds SP Recovery +5%.
+When the compounded Headgear's upgrade level is not greater than 4, MaxSP +40, and adds SP Recovery +5%.
 Class: ^777777Card^000000
 Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
@@ -10951,17 +10930,14 @@ Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4385#
-Adds a chance of
-dropping Honey Herbal
-Tea when defeating
-Dragon type monsters.
+Adds a chance of dropping ^008800Honey Herbal Tea^000000 when defeating Dragon monsters.
 Class: ^777777Card^000000
 Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4386#
 MDEF -20
-Gains immunity against Frozen status.
+Gains immunity against ^FF0000Frozen^000000 status.
 Adds a chance of autocasting ^008800Level 1 Land Protector^000000 each time the wearer is magically attacked.
 Class: ^777777Card^000000
 Compound on: ^777777Armor^000000
@@ -10973,37 +10949,27 @@ Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4388#
-Increases damage
-of the Napalm Beat,
-Soul Strike, and
-Napalm Vulcan skills
-by 5%. Drains 50 SP
-when the compounded
-weapon is unequipped.
+Increases damage of the ^008800Napalm Beat^000000, ^008800Soul Strike^000000 and ^008800Napalm Vulcan^000000 by 5%.
+Drains 50 SP when the compounded weapon is unequipped.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4389#
-Adds a chance of
-dropping Fireproof,
-Coldproof, Earthproof,
-and Thunderproof
-Potions when
-defeating monsters.
+Adds a chance of dropping ^008800Fireproof Potion^000000, ^008800Coldproof Potion^000000, ^008800Earthproof Potion^000000 or ^008800Thunderproof Potion^000000 when defeating a monster.
 Class: ^777777Card^000000
 Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4390#
 ATK +5
-Adds a 5% chance of inflicting the Bleeding status each time the wearer physically attacks.
+Adds a 5% chance of inflicting the ^FF0000Bleeding^000000 status each time the wearer physically attacks.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4391#
-Adds a chance of dropping Fried Sweet Potatoes when defeating Angel type monsters.
+Adds a chance of dropping ^008800Fried Sweet Potatoes^000000 when defeating Angel type monsters.
 Class: ^777777Card^000000
 Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
@@ -11023,7 +10989,8 @@ Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4394#
-When worn by Priest class, this card adds a chance of autocasting ^008800Level 5 Grand Cross^000000 when attacking.
+[^6A5ACDPriest classes^000000]
+Adds a chance of autocasting ^008800Level 5 Grand Cross^000000 when attacking.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -11059,15 +11026,15 @@ Compound on: ^777777Weapon^000000
 4399#
 DEF -30
 Flee -30
-Enchants compounded weapon with the infiltration skill effect.
+Enchants compounded weapon with the ^008800Infiltration^000000 skill effect.
 Each attack drains 1 SP.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4400#
-Add a chance of autocasting Charming Wink each time the wearer is physically attacked.
-When worn by Dancer, this chance increases to 10%.
+Add a chance of autocasting ^008800Charming Wink^000000 each time the wearer is physically attacked.
+When worn by ^6A5ACDDancer^000000, this chance increases to 10%.
 Class: ^777777Card^000000
 Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -11124,7 +11091,7 @@ Compound on: ^777777Weapon^000000
 #
 4407#
 Increases Physical damage by 10%.
-Adds a chance of autocast Level 1 Dispell with each physical attack.
+Adds a chance of autocast ^008800Level 1 Dispell^000000 with each physical attack.
 Make Compounded weapon is indestructible, but it can still be destroyed by failed upgrade attempts.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
@@ -11176,7 +11143,7 @@ Weight: ^7777771^000000
 4414#
 MDEF +10
 Enables use of ^008800Level 1 Stone Curse^000000.
-Adds 30% tolerance to Stone Curse status.
+Adds 30% tolerance to ^FF0000Stone Curse^000000 status.
 Class: ^777777Card^000000
 Compound on: ^777777Shield^000000
 Weight: ^7777771^000000
@@ -31501,7 +31468,7 @@ Totem with powerful abilities to aggressively fight against demons. Emits powerf
 Weight: ^77777760^000000
 #
 12778#
-a scroll that can summon moster baphomet junior as mercenary 
+a scroll that can summon monster baphomet junior as mercenary 
 Weight: ^7777771^000000
 #
 12779#
@@ -32284,7 +32251,7 @@ A box that contains:
 Duration: 7 Days after opening.
 A military combat knife designed for killing humanoids.
 Ignores Demihuman monster physical defense.
-Reduces damage from Demihuman monsters by 10%, but increases damage inflicted by Devil monsters by 10%.
+Reduces damage from Demihuman monsters by 10%, but increases damage inflicted by Demon monsters by 10%.
 Restores 3 SP when hitting a monster.
 MaxSP +10%.
 Class: ^777777Dagger^000000
@@ -32355,7 +32322,7 @@ axe that possesses
 the power of holiness.
 STR +10, Holy property,
 Enables use of Lvl 3 Heal Increases damage inflicted
-on Devil monsters by 3%. Increases Movement Speed.
+on Demon monsters by 3%. Increases Movement Speed.
 Class: ^777777Axe^000000
 Attack: ^777777229^000000
 Weight: ^7777771^000000
@@ -39222,7 +39189,7 @@ Weight: ^7777771^000000
 A box that contains: Combat Knife. Extremely fragile!
 ^000088Rental Item^000000
 A military combat knife designed for killing humanoids.
-Ignores Demihuman monster physical defense. / Reduces damage from Demihuman monsters by 10%/ but increases damage inflicted by Devil monsters by 10%.
+Ignores Demihuman monster physical defense. / Reduces damage from Demihuman monsters by 10%/ but increases damage inflicted by Demon monsters by 10%.
 Restores 3 SP when hitting a monster, MaxSP +10%
 Class: ^777777Dagger^000000
 Attack: ^777777129^000000
@@ -39270,7 +39237,7 @@ A box that contains:Light Epsilon. Extremely fragile!
 ^000088Rental Item^000000
 Holy property
 STR +10, Holy property, Enables use of Lvl 3 Heal
-Increases damage inflicted on Devil monsters by 3%, Increases Movement Speed.
+Increases damage inflicted on Demon monsters by 3%, Increases Movement Speed.
 Class: ^777777Axe^000000
 Attack: ^777777229^000000
 Weight: ^7777770^000000
@@ -55087,6 +55054,24 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 28356#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+28362#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+28363#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+28364#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+28365#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+28366#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+28367#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 28600#
