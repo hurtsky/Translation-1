@@ -2447,9 +2447,9 @@ Kafra#
 (Arrival)#
 Mob)%s:%s(%s)#
 Distribution:%s#
-Very Plenty#
-Plenty#
-Normal#
+Very High#
+High#
+Average#
 Low#
 Very Low#
 The bank is not available. Please try again in a few minutes.#
