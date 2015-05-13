@@ -2740,17 +2740,17 @@ SCRIPT ERROR AID#
 \nErrorfile : %s\nErrorLine : %d item\nErrorContext: %s#
 ^ff0000Are you sure want to purchase the item? after confirmation will consume %d point and %d crackers.#
 Shutdown#
-Task#
-View task icon#
-Amenities#
-View Amenities icon#
-Public members/players#
-Public members/players mark#
+Quest#
+View Quest icon#
+Facility#
+View Facility icon#
+Guild/Party#
+Show Guild/Party#
 Record#
 Boss Monster#
 I#
 Are you sure want to delete it?#
-Task NPC#
+Quest NPC#
 Record content#
 Store#
 Record#
@@ -2764,7 +2764,7 @@ The minimum trading unit must be 100 crackers or more.#
 Hair color#
 Hair style#
 Cloth color#
-Cloth look#
+Cloth pattern#
 Unsupported Map.#
 Enter Zeny Below 2,147,483,647.#
 Please Enter atleast 1 zeny.#
