@@ -2770,22 +2770,22 @@ Enter Zeny Below 2,147,483,647.#
 Please Enter atleast 1 zeny.#
 You do not hold any zeny.#
 Zeny Storage#
-Storage Holdings#
-Funds#
+in bank#
+in hand#
 Deposit#
 Withdraw#
 1 z UP#
 1 z Down#
 Max#
 There is no Input value#
-You don't have enough zeny#
+Not enough zeny#
 Input Required#
-Cannot input character#
-Exceeded Maximum input#
+Numeric only#
+Exceeded max input#
 Below Minimum Input#
-Shortage to hold Zeny#
-Insufficient Bank Funds#
-Exceeds Maximum Zeny#
+Not enough zeny#
+Insufficient funds#
+Exceeded max zeny#
 Drop X#
 Storage X#
 Cart X#
