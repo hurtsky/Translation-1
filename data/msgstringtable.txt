@@ -2794,5 +2794,5 @@ Trade X#
 Auction X#
 Guild Storage X#
 Sell to NPC X#
-Restricted Items should be moved.#
+Item moves restriction.#
 Please Create a Character!#
