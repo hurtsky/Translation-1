@@ -76,7 +76,7 @@ The deal has been canceled.#
 The deal has successfully completed.#
 The deal has failed.#
 Party has successfully been organized.#
-That Party Name already exists.#
+Invalid Party Name. Please try again.#
 The Character is already in a party.#
 The Character already joined another party.#
 Request for party rejected.#
