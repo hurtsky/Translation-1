@@ -947,7 +947,7 @@
 1663#Staff_Of_Bordeaux#
 1664#Thorny_Staff_of_Darkness#
 1665#Staff_of_Piercing#
-1666#Staff_of_healing#
+1666#Staff_of_Healing#
 1667#TE_WoE_Staff#
 1668#Sword_Stick#
 1669#Thanatos_Staff#
@@ -1025,7 +1025,7 @@
 1766#Arrow_of_Counter_Evil#
 1767#Arrow_of_Shadow#
 1768#Sleep_Arrow#
-1769#Mute_Arrow#
+1769#Silence_Arrow#
 1770#Iron_Arrow#
 1771#Venom_Knife#
 1772#Holy_Arrow#
@@ -1156,6 +1156,7 @@
 1990#Bloody_Floral_Decoration_Microphone#
 1991#Blue_Whip#
 1992#Ru_Gold_Whip#
+1993#Barbed_Wire#
 1994#Infinity_Wire#
 1995#Crimson_Wire#
 1996#Wire_of_Vicious_Mind#
@@ -1268,7 +1269,7 @@
 2180#TE_WoE_Magic_Guard#
 2181#Hervor#
 2182#Hervor_Alvtir#
-2183#Advanced_Angelic_Guard_#
+2183#Advanced_Angelic_Guard#
 2184#Bunker_shield#
 2185#Magic_Reflector#
 2186#Revised_Encyclopedia#
@@ -3351,7 +3352,7 @@
 5391#Toast#
 5392#Louyang_NewYear_Hat#
 5393#Valentine_Hat#
-5394#Bubble_Gum_Low#
+5394#Bubble_Gum#
 5395#Tiraya_Bonnet#
 5396#Jasper_Crest#
 5397#Scuba_Mask#
@@ -3376,7 +3377,7 @@
 5416#Beer_Hat#
 5417#Crown_Parrots#
 5418#Soldier_Hat#
-5419#Leaves_Of_Grass#
+5419#Evolved_Leaf#
 5420#Ifrit_Mask#
 5421#Ifrit's_Ears#
 5422#Linguistic_Book_Hat#
@@ -3391,8 +3392,8 @@
 5431#Chicken_Hat#
 5432#bRO_4th_Anniversary_Hat#
 5433#Champion's_Wreath#
-5434#Coca-Cola_Bottle#
-5435#Coca-Cola_Hat#
+5434#Coca-Cola_Can#
+5435#Red_Sombrero_Hat#
 5436#Bride's_Corolla#
 5437#Fairy_Flower#
 5438#Cute_Green_Ribbon#
@@ -3408,9 +3409,9 @@
 5448#Indifferent_Solo_Hat#
 5449#Angry_Solo_Hat#
 5450#Solar_Hat#
-5451#Gold_Dragonhelm#
-5452#Silver_Dragonhelm#
-5453#Copper_Dragonhelm#
+5451#Gold_Dragon_Helm#
+5452#Silver_Dragon_Helm#
+5453#Copper_Dragon_Helm#
 5454#Puppy_Hat#
 5455#Decorative_Geographer#
 5456#Summer_Hat#
@@ -4382,7 +4383,7 @@
 6583#3rd_Test_Pass#
 6584#Safe_to_12_Weapon_Certificate#
 6585#Safe_to_12_Armor_Certificate#
-6586#Caught_Books#
+6586#Captured_Book#
 6587#Amatsu_Bead_(B)#
 6588#Amatsu_Pearl_(Shell)#
 6589#Fragments_of_Flame#
@@ -4455,9 +4456,9 @@
 6668#Stolen_Document#
 6669#Emerald_Leaf#
 6670#Tree_Log#
-6671#Geffen_Magic_Competition_Coin#
+6671#Geffen_Magic_Tournament_Coin#
 6672#Gray_Piece#
-6673#Tickets_to_Bossnia#
+6673#Ticket_to_Bossnia#
 6674#Part-time_Receipt#
 6675#[HAPPY]_Cake#
 6676#[BIRTHDAY]_Cake#
@@ -10779,6 +10780,7 @@
 20185#Costume_Fashionable_Glasses#
 20186#Costume_Magni's_Cap#
 20187#Costume_Fricca's_Circlet#
+20188#Costume_Morpheus's_Hood#
 20189#Costume_Goibne's_Helm#
 20190#Costume_Chick_Hat#
 20191#Costume_Black_Cat_Ears_Beret#
@@ -10887,6 +10889,8 @@
 20300#Costume_Hill_Wind_Mask#
 20301#Costume_Golden_Savage_Hat#
 20302#Costume_Beelzebub_Crown#
+20303#Costume_Mandragora_Cap#
+20304#Costume_Raccoon_Hat#
 20305#Costume_Nettie_Heart_Bubblegum#
 20500#Costume_Archangel_Wing#
 20700#Aegir_Mantle#
@@ -11493,6 +11497,7 @@
 28604#Crimson_Bible#
 28605#Book_of_Vicious_Mind#
 28703#Infinity_Dagger#
+28704#Desert_Twilight#
 28705#Crimson_Dagger#
 28706#Dagger_of_Vicious_Mind#
 28900#Praetorian_Shield#

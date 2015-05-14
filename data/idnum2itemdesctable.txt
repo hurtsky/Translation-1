@@ -661,145 +661,145 @@ A rolled up piece of parchment, now brittle with age, on which faded text can sc
 Weight: ^7777772^000000
 #
 619#
-An apple that isn't ripe enough for humans to eat. Poring finds it to be very tasty.
+An apple that isn't ripe enough for humans to eat. ^6A5ACDPoring^000000 finds it to be very tasty.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 620#
-A small bottle of orange juice. Drops finds it to be very tasty.
+A small bottle of orange juice. ^6A5ACDDrops^000000 finds it to be very tasty.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 621#
-An herb that is too bitter for the human palate. Poporing finds it to be very tasty.
+An herb that is too bitter for the human palate. ^6A5ACDPoporing^000000 finds it to be very tasty.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 622#
-A fragrant carrot colored with all the hues of the rainbow. Lunatic finds it to be very tasty.
+A fragrant carrot colored with all the hues of the rainbow. ^6A5ACDLunatic^000000 finds it to be very tasty.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 623#
-A rather suave looking earthworm gifted with womanizing debonairness. Picky finds him to be quite delicious.
+A rather suave looking earthworm gifted with womanizing debonairness. ^6A5ACDPicky^000000 finds him to be quite delicious.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 624#
-A rotting, dirty fish that attracts flies. Chonchon finds it to be very tasty.
+A rotting, dirty fish that attracts flies. ^6A5ACDChonchon^000000 finds it to be very tasty.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 625#
-A rusty piece of iron that would only interest scavengers and vermin. Steel Chonchon finds it to be very tasty.
+A rusty piece of iron that would only interest scavengers and vermin. ^6A5ACDSteel Chonchon^000000 finds it to be very tasty.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 626#
-A fetid drink made of monster blood. Hunter Fly finds it to be very tasty.
+A fetid drink made of monster blood. ^6A5ACDHunter Fly^000000 finds it to be very tasty.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 627#
-Sweet, luscious, full bodied milk. Savage Bebe finds it to be very tasty.
+Sweet, luscious, full bodied milk. ^6A5ACDSavage Bebe^000000 finds it to be very tasty.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 628#
-A tough, chewy bone that has been dried in the sun. Baby Desert Wolf finds it to be very tasty.
+A tough, chewy bone that has been dried in the sun. ^6A5ACDBaby Desert Wolf^000000 finds it to be very tasty.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 629#
-A flower that has been miraculously blessed with the gift of song. Rocker is inexplicably drawn to its sweet melodies.
+A flower that has been miraculously blessed with the gift of song. ^6A5ACDRocker^000000 is inexplicably drawn to its sweet melodies.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 630#
-A dewy, green moss that grows in cool places. Spore finds it quite delectable.
+A dewy, green moss that grows in cool places. ^6A5ACDSpore^000000 finds it quite delectable.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 631#
-A plant that contains poisons that would harm most living creatures. Poison Spore is known to savor its flavor.
+A plant that contains poisons that would harm most living creatures. ^6A5ACDPoison Spore^000000 is known to savor its flavor.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 632#
-An earthworm that stopped caring about its figure years ago. Peco Peco loves the way that it tastes.
+An earthworm that stopped caring about its figure years ago. ^6A5ACDPeco Peco^000000 loves the way that it tastes.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 633#
-A baked sweet potato with an appetizing scent. Smokie loves eating this.
+A baked sweet potato with an appetizing scent. ^6A5ACDSmokie^000000 loves eating this.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 634#
-A premium quality banana grown in the tropics. Yoyo finds it irresistable; forever will it be his one weakness.
+A premium quality banana grown in the tropics. ^6A5ACDYoyo^000000 finds it irresistable; forever will it be his one weakness.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 635#
-A trophy awarded to the bravest of Orcs. Orc Warriors are compelled to claim it as their very own.
+A trophy awarded to the bravest of Orcs. ^6A5ACDOrc Warrior^000000 are compelled to claim it as their very own.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 636#
-An old, heartfelt letter that has never been delivered since it has no recipient. Munak is inexplicably drawn to this item.
+An old, heartfelt letter that has never been delivered since it has no recipient. ^6A5ACDMunak^000000 is inexplicably drawn to this item.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 637#
-A generations old broom that is handed down within a family. Dokebi is drawn to it for some reason.
+A generations old broom that is handed down within a family. ^6A5ACDDokebi^000000 is drawn to it for some reason.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 638#
-A silver knife that is a symbol of a virgin's chastity. Sohee loves collecting these.
+A silver knife that is a symbol of a virgin's chastity. ^6A5ACDSohee^000000 loves collecting these.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 639#
-A fancy, intricately decorated bracelet. Isis is lured by its regal beauty.
+A fancy, intricately decorated bracelet. ^6A5ACDIsis^000000 is lured by its regal beauty.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 640#
-A stone that softly glimmers with faint light. Petite is drawn to its gentle sparkle.
+A stone that softly glimmers with faint light. ^6A5ACDPetite^000000 is drawn to its gentle sparkle.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 641#
-A contract drawn in darkness. Deviruchi is compelled to claim this item as its own.
+A contract made with the realm of Darkness. ^6A5ACDDeviruchi^000000 likes it very much.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 642#
-A forbidden book in which the secret for summoning high level demons is detailed. Baphomet Jr. cannot resist its power.
+A forbidden book in which the secret for summoning high level demons is detailed. ^6A5ACDBaphomet Jr.^000000 cannot resist its power.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
@@ -815,7 +815,7 @@ A box that contains some sort of present.
 Weight: ^77777720^000000
 #
 645#
-Potion that helps to increase the character's agility for a certain period of time. It also increases that attack speed of characters.
+Potion that stimulates concentration. Affects the attack speed of its consumer.
 Can be used by all professions.
 ^FFFFFF_^000000
 Weight: ^77777710^000000
@@ -838,18 +838,18 @@ A symbol of solidarity that evokes a feeling of nobility to those who see it.
 Weight: ^77777750^000000
 #
 659#
-An old book rumored to be enchanted by a girl whose name has been forgotten with time. For some reason, Bongun is drawn to it.
+An old book rumored to be enchanted by a girl whose name has been forgotten with time. For some reason, ^6A5ACDBongun^000000 is drawn to it.
 ^FFFFFF_^000000
 Weight: ^7777775^000000
 #
 660#
-A candle that may have a mysterious purpose. Try use it on Zherlthish.
+A candle that may have a mysterious purpose. Try use it on ^6A5ACDZealotus^000000.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 661#
-A soft apron that is double stitched for better quality. Favorite item of the Alice monster.
+A soft apron that is double stitched for better quality. Favorite item of the ^6A5ACDAlice^000000 monster.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
@@ -7806,7 +7806,7 @@ Jobs: ^777777Third Mage and Acolyte^000000
 #
 1650#
 A staff that is made by the Eden Group. A basic item for a beginning Mage.
-INT +2 , MATK +125
+INT +2, MATK +125
 Unrefineable.
 Class: ^777777One-Handed Staff^000000
 Attack: ^77777760^000000
@@ -7926,10 +7926,26 @@ Required Level: ^77777795^000000
 Jobs: ^777777High Wizard^000000
 #
 1662#
-[JRO item]
+Since evil spirits possess this wand of human bone, its suffocatingly accursed aura can be sensed by those who wield it.
+INT +4, MATK +110
+Class: ^777777One-Handed Staff^000000
+Attack: ^77777740^000000
+Weight: ^77777770^000000
+Property: ^777777Undead^000000
+Weapon Level: ^7777773^000000
+Required Level: ^77777724^000000
+Jobs: ^777777Mage, Acolyte and Soul Linker^000000
 #
 1663#
-[JRO item]
+A short, simply designed staff; like a baton. A jewel, with the power of justice, is set on it.
+MATK +170, INT +2, DEX +1
+When mastering 'Dragonology', consumed SP amount is decreased by 15%, INT +3.
+Class: ^777777One-Handed Staff^000000
+Attack: ^77777730^000000
+Weight: ^77777750^000000
+Weapon Level: ^7777774^000000
+Required Level: ^77777750^000000
+Jobs: ^777777Transcendent Mage^000000
 #
 1664#
 Thorn Surrounded by Strong Magical Sticks.
@@ -7939,16 +7955,32 @@ After-cast delay reduced, depend on refine level.
 Class: ^777777One-handed Staff^000000
 Attack: ^77777760^000000
 Weight: ^77777770^000000
-Property: ^777777Darkness^000000
+Property: ^777777Shadow^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777775^000000
 Class: ^777777Wizard^000000
 #
 1665#
-[JRO item]
+A staff with a jewel in it that causes shockwave every once in a while. The shockwave sometimes nullifies enemy's magic defense.
+MATK +15%, INT +4
+When you attack using magical ability, it will ignore 10% of their MDEF and deals damage accordingly. The amount ignored will increase depending on the refinement rate of this weapon.
+Class: ^777777One-Handed Staff^000000
+Attack: ^77777780^000000
+Weight: ^77777750^000000
+Weapon Level: ^7777773^000000
+Required Level: ^77777770^000000
+Jobs: ^777777Transcendent Mage and Acolyte^000000
 #
 1666#
-[JRO item]
+A staff made with a branch from the tree Yggdrasil, created with the sole purpose to heal. The staff has something inscribed in ancient language, saying "Mubeungjangsugiwon", or "Forever free of disease, and have a long life".
+MATK +125
+Increases 15% chance to yourself by ^008800Heal and Sanctuary^000000 skill.
+Class: ^777777One-Handed Staff^000000
+Attack: ^77777710^000000
+Weight: ^7777770^000000
+Weapon Level: ^7777773^000000
+Required Level: ^7777771^000000
+Jobs: ^777777Acolyte^000000
 #
 1667#
 ^000088Rental Items^000000
@@ -8600,14 +8632,14 @@ Required Level: ^77777740^000000
 Jobs: ^777777Archer, Thief and Rogue^000000
 #
 1749#
-...
+A bow used by traveler.
 DEX +2
 Class: ^777777Bow^000000
 Attack: ^77777740^000000
 Weight: ^77777750^000000
 Weapon Level: ^7777771^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Archer, Thief Class, Rogue^000000
+Jobs: ^777777Archer, Thief and Rogue^000000
 #
 1750#
 A common arrow.
@@ -8652,18 +8684,14 @@ Weight: ^7777770.2^000000
 Property: ^4cbb17Wind^000000
 #
 1756#
-An arrow made of
-stone imbued with
-the power of Earth.
+An arrow made of stone imbued with the power of Earth.
 Class: ^777777Arrow^000000
 Attack: ^77777730^000000
 Weight: ^7777770.2^000000
 Property: ^cc5500Earth^000000
 #
 1757#
-A shining arrow
-that doesn't have
-a discernable shape.
+A shining arrow that doesn't have a discernable shape.
 Class: ^777777Arrow^000000
 Attack: ^77777730^000000
 Weight: ^7777770.1^000000
@@ -8679,8 +8707,7 @@ Property: ^777777Neutral^000000
 #
 1759#
 An arrow enchanted with the power of ice.
-Inflict the ^FF0000Frozen^000000 status on targets
-by a low chance.
+Inflict the ^FF0000Frozen^000000 status on targets by a low chance.
 Class: ^777777Arrow^000000
 Attack: ^7777771^000000
 Weight: ^7777770.3^000000
@@ -8719,7 +8746,7 @@ Property: ^702180Poison^000000
 #
 1764#
 An arrow with topped with a serrated blade.
-Increases Critical Attack Rate.
+Increases Critical attack rate.
 Class: ^777777Arrow^000000
 Attack: ^77777710^000000
 Weight: ^7777770.3^000000
@@ -9191,7 +9218,16 @@ Required Level: ^77777740^000000
 Jobs: ^777777Priest and Monk^000000
 #
 1835#
-[JRO item]
+A knuckle of legendary gladiator.
+Every refine, ATK +1%.
+When refined to +10, Nullify reduction in damage inflicted on monsters resulting from monster's size.
+Indestructible.
+Class: ^777777Knuckles^000000
+Attack: ^777777100^000000
+Weight: ^77777760^000000
+Weapon Level: ^7777774^000000
+Required Level: ^77777750^000000
+Jobs: ^777777Priest and Monk^000000
 #
 1836#
 This magic knuckle, made to counteract the Devil Sword Thanatos, is sculpted out of Gray Shard.
@@ -10263,6 +10299,18 @@ Weapon Level: ^7777773^000000
 Required Level: ^777777120^000000
 Jobs: ^777777Wanderer^000000
 #
+1993#
+An iron wire with a strong blade.
+Indestrutible.
+Give more damage on high DEF enemy.
+Drains 3 SP on each attack.
+Class: ^777777Whip^000000
+Attack: ^77777780^000000
+Weight: ^777777120^000000
+Weapon Level: ^7777774^000000
+Required Level: ^777777105^000000
+Jobs: ^777777Wanderer^000000
+#
 1994#
 This weapon contains a strange energy.
 I feel that one of its benefits were sealed with a high cost.
@@ -10271,7 +10319,7 @@ Attack: ^777777150^000000
 Weight: ^77777750^000000
 Weapon Level: ^7777774^000000
 Required Level: ^777777100^000000
-Jobs: ^777777Wanderer Class^000000
+Jobs: ^777777Wanderer^000000
 #
 1995#
 Whip with red light radiance.
@@ -10579,7 +10627,7 @@ Required Level: ^77777790^000000
 Jobs: ^777777Wizards, Sage and Soul Linker^000000
 #
 2021#
-Aside from the potent mana in it, this staff is famous for its ability to Mute the enemy, preventing them from casting spells.
+Aside from the potent mana in it, this staff is famous for its ability to Silence the enemy, preventing them from casting spells.
 MATK +320, INT +25, DEX +25.
 Magic attacks have a chance of Poisoning the enemy or casting Level 1 Silentium.
 When you receive Melee Physical damage, this item creates a chance of causing Silence on your attacker.
@@ -11369,7 +11417,7 @@ Jobs: ^777777All^000000
 ^000088Rental Items^000000
 MDEF +15.
 ** Extra option available in WoE TE area
-MAXHP +100, MAXSP +100.
+MaxHP +100, MaxSP +100.
 -15% damage received from other adventurers
 Class: ^777777Shield^000000
 Defense: ^77777715^000000
@@ -11381,7 +11429,7 @@ Jobs: ^777777All^000000
 ^000088Rental Items^000000
 MDEF +5.
 ** Extra option available in WoE TE area
-MAXHP +200.
+MaxHP +200.
 -20% damage from other adventurers.
 Class: ^777777Shield^000000
 Defense: ^77777725^000000
@@ -11393,13 +11441,13 @@ Jobs: ^777777Swordman and Merchant^000000
 ^000088Rental Items^000000
 MDEF +25.
 ** Extra option available in WoE TE area
-MAXSP +200.
+MaxSP +200.
 -10% damage received from other adventurers.
 Class: ^777777Shield^000000
 Defense: ^7777775^000000
 Weight: ^7777770^000000
 Required Level: ^77777740^000000
-Jobs: ^777777Novice, Wizard, Acolyte and Soul Linker^000000
+Jobs: ^777777Novice, Mage, Acolyte and Soul Linker^000000
 #
 2181#
 A shield named after Hervor, the valkyrie who ensures victory for her warriors.
@@ -15351,7 +15399,7 @@ Jobs: ^777777All^000000
 2595#
 A mysterious manteau with the power of darkness.
 It can reduce attack from particular type monster.
-Reduce damage from Darkness and Undead monster by 5%.
+Reduce damage from Shadow and Undead property monster by 5%.
 Class: ^777777Garment^000000
 Defense: ^77777720^000000
 Weight: ^77777770^000000
@@ -16600,7 +16648,7 @@ Jobs: ^777777All except Novice^000000
 2733#
 A badge rewarded to honorable warriors.
 ATK +5%, MATK +5%, CRIT +10, MaxHP +300, MaxSP +80.
-Has a chance of inflicting Darkness status when receiving long ranged physical attacks.
+Has a chance of inflicting Blind status when receiving long ranged physical attacks.
 Class: ^777777Accessory^000000
 Defense: ^7777771^000000
 Weight: ^7777770^000000
@@ -18408,7 +18456,7 @@ Jobs: ^777777All except Novice^000000
 2944#
 ^000088Rental Items^000000
 ** Extra option available in WoE TE area
-MAXHP +100.
+MaxHP +100.
 -5% damage received from other adventurers.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
@@ -22081,7 +22129,7 @@ Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4335#
-Increases damage of ^008800Earth Spike000000 and ^008800Heaven's Drive000000 by 5%.
+Increases damage of ^008800Earth Spike^000000 and ^008800Heaven's Drive000000 by 5%.
 Drains 50 SP when compounded weapon is unequipped.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
@@ -22771,11 +22819,7 @@ Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4416#
-Reduces Variable Casting Time
-of Cold Bolt skill by
-25%, and increases
-that Cold Bolt's
-damage by 25%.
+Reduces Variable Casting Time of Cold Bolt skill by 25%, and increases that Cold Bolt's damage by 25%.
 Class: ^777777Card^000000
 Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
@@ -23714,8 +23758,8 @@ Weight: ^7777771^000000
 #
 4544#
 INT +3.
-Have chance resist to Darkness and Curse.
-If compounded equipment is refined to +15 and above, have higher chance resist to Darkness and Curse.
+Have chance resist to Blind and Curse.
+If compounded equipment is refined to +15 and above, have higher chance resist to Blind and Curse.
 Class: ^777777Card^000000
 Compound: ^777777Headgear^000000
 Weight: ^7777771^000000
@@ -29280,7 +29324,6 @@ Jobs: ^777777All^000000
 5368#
 The glistening white feathers collected to make this beautiful headdress.
 Add a low chance of gaining Holy Elemental Scroll each time an is killed.
-Unable to trade.
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
 Location: ^777777Upper^000000
@@ -29313,7 +29356,7 @@ Jobs: ^777777All^000000
 #
 5371#
 A hat worn by capable judges striving for justice.
-LUK +1, SP +30
+LUK +1, MaxSP +30
 Class: ^777777Headgear^000000
 Location: ^777777Upper, Middle^000000
 Defense: ^7777772^000000
@@ -29354,7 +29397,7 @@ Jobs: ^777777All^000000
 5375#
 A true Orc Hero's headgear. It's so big and heavy that it might hurt your neck.
 STR +2
-Has a chance of Autocasting Lv3 Weapon Perfection with each melee attack.
+Has a chance of Autocasting Level 3 Weapon Perfection with each melee attack.
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
 Location: ^777777Upper, Middle^000000
@@ -29363,7 +29406,7 @@ Jobs: ^777777All^000000
 #
 5376#
 Satanic Wings forged with an unholy incantation.
-SP +120. Adds a chance of casting Curse on the user while receiving Physical Damage.
+MaxSP +120. Adds a chance of casting Curse on the user while receiving Physical Damage.
 Class: ^777777Headgear^000000
 Defense: ^7777776^000000
 Location: ^777777Upper^000000
@@ -29410,18 +29453,11 @@ Weight: ^77777740^000000
 Jobs: ^777777All^000000
 #
 5381#
-A cute hat made
-from a hopping Poring
-wearing a Santa's Hat.
-Adds 3% additional
-Darkness property
-damage to monsters,
-and reduces Darkness
-property attacks from
-enemies by 3%.
-MDEF +2. Cannot
-be upgraded.
-Can be placed in Kafra Storage, cart and traded.
+A cute hat made from a hopping Poring wearing a Santa's Hat.
+Increase 3% damage against Shadow property monsters,
+reduces Shadow property attacks by 3%.
+MDEF +2.
+Unrefineable.
 Class: ^777777Headgear^000000
 Defense: ^7777774^000000
 Location: ^777777Upper^000000
@@ -29429,12 +29465,9 @@ Weight: ^77777710^000000
 Jobs: ^777777All^000000
 #
 5382#
-A cute ribbon
-adorned with
-jinglilng bells.
-Enables use of
-Level 1 Angelus. VIT +1.
-Can be placed in Kafra Storage, cart and traded.
+A cute ribbon adorned with jinglilng bells.
+Enables use of Level 1 Angelus.
+VIT +1.
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
 Location: ^777777Upper^000000
@@ -29587,8 +29620,7 @@ Jobs: ^777777All^000000
 #
 5397#
 Scuba Glasses meant for Divers.
-If you wear this on the Ground, people will think you are a person
-not taking outside views seriously.
+If you wear this on the Ground, people will think you are a person not taking outside views seriously.
 Resistance against ^0000BBWater^000000 property by 10%.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
@@ -29599,17 +29631,17 @@ Jobs: ^777777All^000000
 5398#
 Headgear made of the skull of dregon. So hard that it does not easily break.
 STR +2. MDEF +5.
-Resistant to Stunning +5%, Resistant to Bleeding +5%
+Resistant to Stun +5%, Resistant to Bleeding +5%
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
 Head Slot: ^777777Upper^000000
 Weight: ^777777120^000000
 Required Level: ^77777785^000000
-Jobs: ^777777Transcendent Swordman/Merchant Class^000000
+Jobs: ^777777Transcendent Swordman and Merchant Class^000000
 #
 5399#
 A Mandragora has bloomed on this hat. Don't even think about plucking the flower!
-VIT +3. Gives a chance to auto-spell Level 5 Dazzler when physically damaged.
+VIT +3. Gives a chance to auto-cast Level 5 Scream when physically attacked.
 Unrefineable.
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
@@ -29649,8 +29681,8 @@ Jobs: ^777777All^000000
 #
 5403#
 A fish that can bite inside your mouth. It smells bad, but a special process won't let it rot.
-When the wearer kills a monster, they will get a low chance to drop Fresh Fish.
-Increases 25% of recover rate of Fresh Fish.
+When the wearer kills a monster, they will get a low chance to drop ^008800Fresh Fish^000000.
+Increases 25% of recover rate of ^008800Fresh Fish^000000.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Lower^000000
@@ -29660,7 +29692,7 @@ Jobs: ^777777All^000000
 #
 5404#
 The symbol of an honor student!
-Auto casts Lv2 Improve Concentration with low chances when physically attacked.
+Auto casts Level 2 Improve Concentration with low chances when physically attacked.
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
 Location: ^777777Upper^000000
@@ -29710,7 +29742,7 @@ Jobs: ^777777All^000000
 #
 5409#
 A hat, symbolizing western frontiers, made to celebrate the festival.
-INT +2 , VIT +2 , SP +50
+INT +2, VIT +2, MaxSP +50
 Class: ^777777Headgear^000000
 Defense: ^7777778^000000
 Location: ^777777Upper^000000
@@ -29768,7 +29800,6 @@ Jobs: ^777777All^000000
 #
 5415#
 A special hat created to celebrate 5th year anniversary of RO in the Philippines
-(Item feature will disappear after September 30, 2008.)
 MDEF, CRI, FLEE, Perfect Dodge +5
 ASPD +5%
 Reduces Variable casting Time by 5%
@@ -29814,7 +29845,7 @@ Weight: ^77777740^000000
 Jobs: ^777777All^000000
 #
 5419#
-...
+Thin leaves that attached to lips.
 VIT +1. Reduces damage from Plant monster by 5%.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
@@ -29873,7 +29904,7 @@ Jobs: ^777777All^000000
 #
 5424#
 Fanta Orange Can Hat.
-...
+A refreshing orange drink.
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
 Location: ^777777Upper^000000
@@ -29882,7 +29913,7 @@ Jobs: ^777777All^000000
 #
 5425#
 Fanta Grape Can Hat.
-...
+A refreshing grape drink.
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
 Location: ^777777Upper^000000
@@ -29966,7 +29997,7 @@ Weight: ^77777710^000000
 Jobs: ^777777All^000000
 #
 5434#
-...
+Hat made from Cocacola can.
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
 Location: ^777777Upper^000000
@@ -29975,13 +30006,13 @@ Jobs: ^777777All^000000
 #
 5435#
 A jaunty red hat. Given by way of a thank you from Gravity to creative community members
-Account bound, Unrefineable.
-INT +1 MDEF +3
+INT +1, MDEF +3, MaxSP +80
+Refined to +6, every refine increase MDEF +1 and MaxSP +10.
 Class: ^777777Headgear^000000
-Defense: ^7777771^000000
+Defense: ^7777772^000000
 Location: ^777777Upper^000000
 Weight: ^77777710^000000
-Required Level: ^7777771^000000
+Required Level: ^77777740^000000
 Jobs: ^777777All^000000
 #
 5436#
@@ -29996,7 +30027,7 @@ Jobs: ^777777All^000000
 5437#
 A lotus flower which fairies wear on their heads.
 INT +1, MDEF +1
-Decreases damage from Insect type monsters by 5%.
+Decreases damage from Insect monsters by 5%.
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
 Equip: ^777777Upper^000000
@@ -30042,7 +30073,7 @@ Jobs: ^777777All except Novice^000000
 5442#
 A salaryman's necktie worn as a headband.
 VIT +1
-When equipped with [Blush], ASPD Increases(Delay after attacking reduces by 3%),Variable Casting Speed reduces by 3%.
+When equipped with [Blush], ASPD +3%, Variable Casting time reduced by 3%.
 HIT -5. Sp Consume increases by 5%.
 Class: ^777777Headgear^000000
 Defense: ^7777776^000000
@@ -30054,7 +30085,7 @@ Jobs: ^777777All^000000
 5443#
 Statue of a baby angel that could be embarrassing to wear if you're insecure.
 MDEF +2
-Randomly auto-casts 'Recovery Level 1' when attacked physically.
+Randomly auto-casts Level 1 Status Recovery when attacked physically.
 Class: ^777777Headgear^000000
 Defense: ^7777776^000000
 Equip: ^777777Upper^000000
@@ -30180,8 +30211,8 @@ Jobs: ^777777All^000000
 5455#
 A special decoration geographer designed to rest nicely on your head.
 INT +1
-...
-...
+When physically attacked, has chance to autocast Level 5 Heal on yourself.
+When physically attacking, has chance to autocast Level 5 Heal on yourself.
 Class: ^777777Headgear^000000
 Defense: ^7777771^000000
 Location: ^777777Upper^000000
@@ -30236,7 +30267,7 @@ Defense: ^77777714^000000
 Location: ^777777Upper^000000
 Weight: ^777777100^000000
 Required Level: ^77777760^000000
-Required Job Level: ^777777All^000000
+Jobs: ^777777All^000000
 #
 5461#
 Mask of whisper,it looks like a piece of facial mask.
@@ -30247,7 +30278,7 @@ Defense: ^7777771^000000
 Location: ^777777Upper, Middle, Lower^000000
 Weight: ^77777730^000000
 Required Level: ^77777750^000000
-Required Job Level: ^777777All^000000
+Jobs: ^777777All^000000
 #
 5462#
 Spiked Scarf
@@ -30282,7 +30313,7 @@ Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Jobs: ^777777All but novice^000000
+Jobs: ^777777All except novice^000000
 #
 5465#
 A hat that celebrates luck provided by the stars.
@@ -30341,7 +30372,7 @@ Jobs: ^777777All^000000
 5470#
 An eye cover which has gloomy eyes on it.
 It looks fixed, but someone says the eyes moves sometimes.
-Never get Blindness. DEX +1
+Immune to Blind. DEX +1
 Class: ^777777Headgear^000000
 Defense: ^7777771^000000
 Location: ^777777Upper^000000
@@ -30351,7 +30382,7 @@ Jobs: ^777777All^000000
 #
 5471#
 A head accessory which is named after Valkyrie Reginleif. If someone wear this, they can get the bless of god.
-Increase resistance against Water, Fire, Undead and ^777777Ghost^000000 property by 5%.
+Increase resistance against Water, Fire, Undead and Ghost property by 5%.
 Class: ^777777Headgear^000000
 Defense: ^7777771^000000
 Location: ^777777Middle^000000
@@ -37063,6 +37094,9 @@ Take this certificate, do upgradable ^0000FFArmor^000000 in ^8B4513prontera hall
 Weight: ^7777770^000000
 #
 6586#
+A 'book' that run away from magic school's library. Don't close your ears to its screm, he may bite you.
+^FFFFFF_^000000
+Weight: ^7777770^000000
 #
 6587#
 #
@@ -37391,7 +37425,7 @@ Collected hard branches of small trees.
 Weight: ^7777771^000000
 #
 6671#
-This coin, given to the participants of the Geffen Magic Competition, can be exchanged for prizes.
+This coin, given to the participants of the Geffen Magic Tournament, can be exchanged for prizes.
 ^FFFFFF_^000000
 Weight: ^7777770^000000
 #
@@ -39899,7 +39933,8 @@ A self-portrait of someone contorting his facial expression.
 Weight: ^7777771^000000
 #
 7224#
-An enchanted stone rumored to transmute matter into gold.
+A hot and soft, red colored stone.
+This illusive stone contains mysterious power that will change non-metal into gold.
 ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
@@ -45920,7 +45955,7 @@ of SP equal to 9% of
 the user's MaxSP, but
 each use has a 30%
 chance of inflicting
-the Mute effect on the
+the Silence effect on the
 user for 30 seconds.
 ^FFFFFF_^000000
 Weight: ^77777720^000000
@@ -54476,9 +54511,9 @@ Required Level: ^777777110^000000
 Jobs: ^777777Ninja^000000
 #
 13315#
-Shuriken with ^7BCC70Wind^000000 property. Blinds enemies' sight with rain and wind.
+Shuriken with ^7BCC70Wind^000000 property. Blinds enemy's sight with rain and wind.
 MATK +50.
-Darkness and auto-spell Lightning Bolt 1Lv is activated by a low rate in close range physical attacks. (at the level learned)
+When dealling physical attack, has chance to autocast Level 1 (or learned level) Lightning Jolt and Blind state on enemy.
 Class: ^777777Huuma Shuriken^000000
 Attack: ^777777200^000000
 Weight: ^777777150^000000
@@ -65341,7 +65376,7 @@ Jobs: ^777777All^000000
 ^000088Rental Item^000000
 MDEF +15.
 ** Extra option available in WoE TE area
-MAXHP +250, MAXSP +250.
+MaxHP +250, MaxSP +250.
 -10% damage received from other adventurers.
 Frost Resistance +25%.
 Class: ^777777Armor^000000
@@ -65354,7 +65389,7 @@ Jobs: ^777777All^000000
 ^000088Rental Item^000000
 MDEF +5.
 ** Extra option available in WoE TE area
-MAXHP +450, MAXSP +50.
+MaxHP +450, MaxSP +50.
 -15% damage received from other adventurers.
 Frost Resistance +25%.
 Class: ^777777Armor^000000
@@ -65999,7 +66034,7 @@ Increases the casting rate of the skill by the refine Level.
 Class: ^777777Mace^000000
 Attack: ^777777170^000000
 Weight: ^777777150^000000
-Property: ^777777Darkness^000000
+Property: ^777777Shadow^000000
 Weapon Level: ^7777774^000000
 Required Level: ^777777100^000000
 Jobs: ^777777Transcendent Acolyte class^000000
@@ -84043,6 +84078,14 @@ Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
+20188#
+A hood that is one of the three keys to the seal which binds Morpheus.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
 20189#
 One of the few armors that was forged by Goibe the blacksmith.
 Class: ^777777Costume^000000
@@ -84975,6 +85018,24 @@ Jobs: ^777777All^000000
 #
 20302#
 A crown of MPV Beelzebub from nameless island. Its give noble atmosphere.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20303#
+A Mandragora has bloomed on this hat. Don't even think about plucking the flower!
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20304#
+A hat created in the form of Smokie the Raccoon Monster.
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
@@ -90694,6 +90755,19 @@ Weight: ^77777750^000000
 Weapon Level: ^7777774^000000
 Required Level: ^777777100^000000
 Jobs: ^777777Swordman , Archer , Novice , Ninja , Thief , Wizard , Merchant and Soul Linker^000000
+#
+28704#
+One of a pair of daggers made for the Assassin's Guild.
+[+^008800Sandstorm^000000]
+MaxSP +20, MaxHP +5%, HIT +10.
+Inflict 30% more damage to large monsters.
+Has a chance of activating 190 ASPD for 7 seconds.
+Class: ^777777Dagger^000000
+Attack: ^777777130^000000
+Weight: ^77777760^000000
+Weapon Level: ^7777772^000000
+Required Level: ^77777770^000000
+Jobs: ^777777Assassin Cross^000000
 #
 28705#
 Dagger with red light radiance blade.

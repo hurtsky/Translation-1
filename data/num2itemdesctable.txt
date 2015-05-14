@@ -659,145 +659,145 @@ A rolled up piece of parchment, now brittle with age, on which faded text can sc
 Weight: ^7777772^000000
 #
 619#
-An apple that isn't ripe enough for humans to eat. Poring finds it to be very tasty.
+An apple that isn't ripe enough for humans to eat. ^6A5ACDPoring^000000 finds it to be very tasty.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 620#
-A small bottle of orange juice. Drops finds it to be very tasty.
+A small bottle of orange juice. ^6A5ACDDrops^000000 finds it to be very tasty.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 621#
-An herb that is too bitter for the human palate. Poporing finds it to be very tasty.
+An herb that is too bitter for the human palate. ^6A5ACDPoporing^000000 finds it to be very tasty.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 622#
-A fragrant carrot colored with all the hues of the rainbow. Lunatic finds it to be very tasty.
+A fragrant carrot colored with all the hues of the rainbow. ^6A5ACDLunatic^000000 finds it to be very tasty.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 623#
-A rather suave looking earthworm gifted with womanizing debonairness. Picky finds him to be quite delicious.
+A rather suave looking earthworm gifted with womanizing debonairness. ^6A5ACDPicky^000000 finds him to be quite delicious.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 624#
-A rotting, dirty fish that attracts flies. Chonchon finds it to be very tasty.
+A rotting, dirty fish that attracts flies. ^6A5ACDChonchon^000000 finds it to be very tasty.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 625#
-A rusty piece of iron that would only interest scavengers and vermin. Steel Chonchon finds it to be very tasty.
+A rusty piece of iron that would only interest scavengers and vermin. ^6A5ACDSteel Chonchon^000000 finds it to be very tasty.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 626#
-A fetid drink made of monster blood. Hunter Fly finds it to be very tasty.
+A fetid drink made of monster blood. ^6A5ACDHunter Fly^000000 finds it to be very tasty.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 627#
-Sweet, luscious, full bodied milk. Savage Bebe finds it to be very tasty.
+Sweet, luscious, full bodied milk. ^6A5ACDSavage Bebe^000000 finds it to be very tasty.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 628#
-A tough, chewy bone that has been dried in the sun. Baby Desert Wolf finds it to be very tasty.
+A tough, chewy bone that has been dried in the sun. ^6A5ACDBaby Desert Wolf^000000 finds it to be very tasty.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 629#
-A flower that has been miraculously blessed with the gift of song. Rocker is inexplicably drawn to its sweet melodies.
+A flower that has been miraculously blessed with the gift of song. ^6A5ACDRocker^000000 is inexplicably drawn to its sweet melodies.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 630#
-A dewy, green moss that grows in cool places. Spore finds it quite delectable.
+A dewy, green moss that grows in cool places. ^6A5ACDSpore^000000 finds it quite delectable.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 631#
-A plant that contains poisons that would harm most living creatures. Poison Spore is known to savor its flavor.
+A plant that contains poisons that would harm most living creatures. ^6A5ACDPoison Spore^000000 is known to savor its flavor.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 632#
-An earthworm that stopped caring about its figure years ago. Peco Peco loves the way that it tastes.
+An earthworm that stopped caring about its figure years ago. ^6A5ACDPeco Peco^000000 loves the way that it tastes.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 633#
-A baked sweet potato with an appetizing scent. Smokie loves eating this.
+A baked sweet potato with an appetizing scent. ^6A5ACDSmokie^000000 loves eating this.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 634#
-A premium quality banana grown in the tropics. Yoyo finds it irresistable; forever will it be his one weakness.
+A premium quality banana grown in the tropics. ^6A5ACDYoyo^000000 finds it irresistable; forever will it be his one weakness.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 635#
-A trophy awarded to the bravest of Orcs. Orc Warriors are compelled to claim it as their very own.
+A trophy awarded to the bravest of Orcs. ^6A5ACDOrc Warrior^000000 are compelled to claim it as their very own.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 636#
-An old, heartfelt letter that has never been delivered since it has no recipient. Munak is inexplicably drawn to this item.
+An old, heartfelt letter that has never been delivered since it has no recipient. ^6A5ACDMunak^000000 is inexplicably drawn to this item.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 637#
-A generations old broom that is handed down within a family. Dokebi is drawn to it for some reason.
+A generations old broom that is handed down within a family. ^6A5ACDDokebi^000000 is drawn to it for some reason.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 638#
-A silver knife that is a symbol of a virgin's chastity. Sohee loves collecting these.
+A silver knife that is a symbol of a virgin's chastity. ^6A5ACDSohee^000000 loves collecting these.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 639#
-A fancy, intricately decorated bracelet. Isis is lured by its regal beauty.
+A fancy, intricately decorated bracelet. ^6A5ACDIsis^000000 is lured by its regal beauty.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 640#
-A stone that softly glimmers with faint light. Petite is drawn to its gentle sparkle.
+A stone that softly glimmers with faint light. ^6A5ACDPetite^000000 is drawn to its gentle sparkle.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 641#
-A contract drawn in darkness. Deviruchi is compelled to claim this item as its own.
+A contract made with the realm of Darkness. ^6A5ACDDeviruchi^000000 likes it very much.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 642#
-A forbidden book in which the secret for summoning high level demons is detailed. Baphomet Jr. cannot resist its power.
+A forbidden book in which the secret for summoning high level demons is detailed. ^6A5ACDBaphomet Jr.^000000 cannot resist its power.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
@@ -813,7 +813,7 @@ A box that contains some sort of present.
 Weight: ^77777720^000000
 #
 645#
-Potion that helps to increase the character's agility for a certain period of time. It also increases that attack speed of characters.
+Potion that stimulates concentration. Affects the attack speed of its consumer.
 Can be used by all professions.
 ^FFFFFF_^000000
 Weight: ^77777710^000000
@@ -836,18 +836,18 @@ A symbol of solidarity that evokes a feeling of nobility to those who see it.
 Weight: ^77777750^000000
 #
 659#
-An old book rumored to be enchanted by a girl whose name has been forgotten with time. For some reason, Bongun is drawn to it.
+An old book rumored to be enchanted by a girl whose name has been forgotten with time. For some reason, ^6A5ACDBongun^000000 is drawn to it.
 ^FFFFFF_^000000
 Weight: ^7777775^000000
 #
 660#
-A candle that may have a mysterious purpose. Try use it on Zherlthish.
+A candle that may have a mysterious purpose. Try use it on ^6A5ACDZealotus^000000.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 661#
-A soft apron that is double stitched for better quality. Favorite item of the Alice monster.
+A soft apron that is double stitched for better quality. Favorite item of the ^6A5ACDAlice^000000 monster.
 ^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
@@ -4110,64 +4110,152 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 1750#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+A common arrow.
+Class: ^777777Arrow^000000
+Attack: ^77777725^000000
+Weight: ^7777770.1^000000
+Property: ^777777Neutral^000000
 #
 1751#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+An arrow tipped with a silver point enchanted with the power of holiness.
+Class: ^777777Arrow^000000
+Attack: ^77777730^000000
+Weight: ^7777770.2^000000
+Property: ^777777Holy^000000
 #
 1752#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+A flaming arrow that will inflict ^FF0000Fire^000000 property damage.
+Class: ^777777Arrow^000000
+Attack: ^77777730^000000
+Weight: ^7777770.2^000000
+Property: ^FF0000Fire^000000
 #
 1753#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+An arrow constructed from hardened steel.
+Class: ^777777Arrow^000000
+Attack: ^77777740^000000
+Weight: ^7777770.2^000000
+Property: ^777777Neutral^000000
 #
 1754#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+An arrow made of blue crystal imbued with the power of Water.
+Class: ^777777Arrow^000000
+Attack: ^77777730^000000
+Weight: ^7777770.2^000000
+Property: ^0000BBWater^000000
 #
 1755#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+An arrow enchanted by the power of the Wind.
+Class: ^777777Arrow^000000
+Attack: ^77777730^000000
+Weight: ^7777770.2^000000
+Property: ^4cbb17Wind^000000
 #
 1756#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+An arrow made of stone imbued with the power of Earth.
+Class: ^777777Arrow^000000
+Attack: ^77777730^000000
+Weight: ^7777770.2^000000
+Property: ^cc5500Earth^000000
 #
 1757#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+A shining arrow that doesn't have a discernable shape.
+Class: ^777777Arrow^000000
+Attack: ^77777730^000000
+Weight: ^7777770.1^000000
+Property: ^777777Ghost^000000
 #
 1758#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+A thick, heavy arrow.
+Inflict the ^FF0000Stun^000000 status on targets by a low chance.
+Class: ^777777Arrow^000000
+Attack: ^7777771^000000
+Weight: ^7777770.3^000000
+Property: ^777777Neutral^000000
 #
 1759#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+An arrow enchanted with the power of ice.
+Inflict the ^FF0000Frozen^000000 status on targets by a low chance.
+Class: ^777777Arrow^000000
+Attack: ^7777771^000000
+Weight: ^7777770.3^000000
+Property: ^0000BBWater^000000
 #
 1760#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+An arrow that explodes with a flash of light upon impact.
+Inflicts the ^FF0000Blind^000000 status on targets by a low chance.
+Class: ^777777Arrow^000000
+Attack: ^7777771^000000
+Weight: ^7777770.3^000000
+Property: ^777777Neutral^000000
 #
 1761#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+An arrow enchanted with curse magic.
+Inflict the ^FF0000Curse^000000 status on targets by a low chance.
+Class: ^777777Arrow^000000
+Attack: ^7777771^000000
+Weight: ^7777770.3^000000
+Property: ^777777Neutral^000000
 #
 1762#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+An old, rusty arrow.
+Class: ^777777Arrow^000000
+Attack: ^77777730^000000
+Weight: ^7777770.2^000000
+Property: ^702180Poison^000000
 #
 1763#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+An arrow whose tip has been dipped in lethal poison.
+Inflict the ^702180Poison^000000 status on targets by a low chance.
+Class: ^777777Arrow^000000
+Attack: ^7777771^000000
+Weight: ^7777770.3^000000
+Property: ^702180Poison^000000
 #
 1764#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+An arrow with topped with a serrated blade.
+Increases Critical attack rate.
+Class: ^777777Arrow^000000
+Attack: ^77777710^000000
+Weight: ^7777770.3^000000
+Property: ^777777Neutral^000000
 #
 1765#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+A very powerful arrow made out of Oridecon.
+Class: ^777777Arrow^000000
+Attack: ^77777750^000000
+Weight: ^7777770.3^000000
+Property: ^777777Neutral^000000
 #
 1766#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+An arrow that is said to have the might to counter evil.
+Class: ^777777Arrow^000000
+Attack: ^77777750^000000
+Weight: ^7777770.3^000000
+Property: ^777777Holy^000000
 #
 1767#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+An arrow imbued with the power of darkness.
+Class: ^777777Arrow^000000
+Attack: ^77777730^000000
+Weight: ^7777770.2^000000
+Property: ^777777Shadow^000000
 #
 1768#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+An arrow that can render targets unconscious.
+Inflict the ^FF0000Sleep^000000 status on targets by a low chance.
+Class: ^777777Arrow^000000
+Attack: ^7777771^000000
+Weight: ^7777770.3^000000
+Property: ^777777Neutral^000000
 #
 1769#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+An arrow coated with a chemical that will paralyze a target's mouth.
+Inflict the ^FF0000Silence^000000 status on targets by a low chance.
+Class: ^777777Arrow^000000
+Attack: ^7777771^000000
+Weight: ^7777770.3^000000
+Property: ^777777Neutral^000000
 #
 1770#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -4561,6 +4649,9 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 1992#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+1993#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 1994#
@@ -7027,8 +7118,10 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2908#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2909#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2910#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -7037,6 +7130,7 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2912#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000
 #
 2913#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000
@@ -10479,7 +10573,7 @@ Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4335#
-Increases damage of ^008800Earth Spike000000 and ^008800Heaven's Drive000000 by 5%.
+Increases damage of ^008800Earth Spike^000000 and ^008800Heaven's Drive000000 by 5%.
 Drains 50 SP when compounded weapon is unequipped.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
@@ -11160,11 +11254,7 @@ Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4416#
-Reduces Cast Time
-of Cold Bolt skill by
-25%, and increases
-that Cold Bolt's
-damage by 25%.
+Reduces Variable Casting Time of Cold Bolt skill by 25%, and increases that Cold Bolt's damage by 25%.
 Class: ^777777Card^000000
 Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
@@ -12099,8 +12189,8 @@ Weight: ^7777771^000000
 #
 4544#
 INT +3.
-Have chance resist to Darkness and Curse.
-If compounded equipment is refined to +15 and above, have higher chance resist to Darkness and Curse.
+Have chance resist to Blind and Curse.
+If compounded equipment is refined to +15 and above, have higher chance resist to Blind and Curse.
 Class: ^777777Card^000000
 Compound: ^777777Headgear^000000
 Weight: ^7777771^000000
@@ -18802,6 +18892,9 @@ Take this certificate, do upgradable ^0000FFArmor^000000 in ^8B4513prontera hall
 Weight: ^7777770^000000
 #
 6586#
+A 'book' that run away from magic school's library. Don't close your ears to its screm, he may bite you.
+^FFFFFF_^000000
+Weight: ^7777770^000000
 #
 6587#
 #
@@ -19130,7 +19223,7 @@ Collected hard branches of small trees.
 Weight: ^7777771^000000
 #
 6671#
-This coin, given to the participants of the Geffen Magic Competition, can be exchanged for prizes.
+This coin, given to the participants of the Geffen Magic Tournament, can be exchanged for prizes.
 ^FFFFFF_^000000
 Weight: ^7777770^000000
 #
@@ -21636,7 +21729,8 @@ A self-portrait of someone contorting his facial expression.
 Weight: ^7777771^000000
 #
 7224#
-An enchanted stone rumored to transmute matter into gold.
+A hot and soft, red colored stone.
+This illusive stone contains mysterious power that will change non-metal into gold.
 ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
@@ -27471,7 +27565,7 @@ of SP equal to 9% of
 the user's MaxSP, but
 each use has a 30%
 chance of inflicting
-the Mute effect on the
+the Silence effect on the
 user for 30 seconds.
 ^FFFFFF_^000000
 Weight: ^77777720^000000
@@ -52555,6 +52649,9 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 20187#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
+20188#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
 20189#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
@@ -52877,6 +52974,12 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 20302#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20303#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20304#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 20305#
@@ -55084,6 +55187,9 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 28703#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+28704#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 28705#
