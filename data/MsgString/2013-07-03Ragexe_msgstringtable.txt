@@ -221,7 +221,7 @@ There is a Delay after using a Skill.#
 You can't have this item because you will exceed the weight limit.#
 Out of the maximum capacity#
 Cart Items#
-Take Off Rent a Cart#
+Take off Cart#
 Opening a stall#
 Please Name your Shop.#
 My Shop#
@@ -235,7 +235,7 @@ Skill has failed because you do not have enough zeny.#
 Select a Target.#
 /pk on: Turns PK On. /pk off: Turns PK Off.#
 Shop#
-Rent a Cart Items [Alt+W]#
+Cart Items [Alt+W]#
 Basic Information#
 The skill cannot be used with this weapon.#
 Buying %s has been failed. Out of Stock. Current Stock %d.#
