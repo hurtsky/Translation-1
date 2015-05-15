@@ -2771,7 +2771,7 @@ Please Enter atleast 1 zeny.#
 You do not hold any zeny.#
 Zeny Storage#
 in bank#
-in hand#
+on hand#
 Deposit#
 Withdraw#
 1 z UP#
@@ -2780,7 +2780,7 @@ Max#
 There is no Input value#
 Not enough zeny#
 Input Required#
-Numeric only#
+Numbers only#
 Exceeded max input#
 Below Minimum Input#
 Not enough zeny#
