@@ -1,4 +1,4 @@
-// Item ID,	Candrop,	CanTrade,	StorageAble,	CanPutOnCart,	CanSell to NPC,	CanMail,	CanAuction,	GStorageable.
+// ItemID | Drop | Trade | Storage | Cart | Sell to NPC | Mail | Auction | Guild Storage
 // Warning: Blank lines are not allowed.
 2634	1	1	1	1	1	1	1	1	// ½Å¶û°áÈ¥¹ÝÁö
 2635	1	1	1	1	1	1	1	1	// ½ÅºÎ°áÈ¥¹ÝÁö
