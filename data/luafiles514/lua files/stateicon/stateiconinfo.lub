@@ -1,28 +1,8 @@
-COLOR_TITLE_BUFF = {
-  155,
-  202,
-  155
-}
-COLOR_TITLE_DEBUFF = {
-  250,
-  100,
-  100
-}
-COLOR_TITLE_TOGGLE = {
-  190,
-  190,
-  250
-}
-COLOR_SYSTEM = {
-  255,
-  255,
-  0
-}
-COLOR_TIME = {
-  255,
-  176,
-  98
-}
+COLOR_TITLE_BUFF = { 155, 202, 155 }
+COLOR_TITLE_DEBUFF = { 250, 100, 100 }
+COLOR_TITLE_TOGGLE = { 190, 190, 250 }
+COLOR_TITLE_SYSTEM = { 255, 255, 0 }
+COLOR_TIME = { 255, 176, 98 }
 StateIconList = {}
 StateIconList[EFST_IDs.EFST_OVERTHRUSTMAX] = {
   haveTimeLimit = 1,
@@ -5632,5 +5612,163 @@ StateIconList[EFST_IDs.EFST_EP16_DEF] = {
 		{ "Shining Holy Water", COLOR_TITLE_BUFF },
 		{ "Ritual Room, Reduce 10% damage received during Prontera Invasion Dungeon" },
 		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_MTF_MARIONETTE] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{
+			"Proof of Survivor",
+			{ 155, 202, 155 }
+		},
+		{
+			"%s",
+			{ 255, 176, 98 }
+		},
+		{ "Proof that You survived" },
+		{ "the impossible battle" }
+	}
+}
+StateIconList[EFST_IDs.EFST_MTF_LUDE] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{
+			"Proof of Survivor",
+			{ 155, 202, 155 }
+		},
+		{
+			"%s",
+			{ 255, 176, 98 }
+		},
+		{ "Proof that You survived" },
+		{ "the impossible battle" }
+	}
+}
+StateIconList[EFST_IDs.EFST_MTF_CRUISER] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{
+			"Proof of Survivor",
+			{ 155, 202, 155 }
+		},
+		{
+			"%s",
+			{ 255, 176, 98 }
+		},
+		{ "Proof that You survived" },
+		{ "the impossible battle" }
+	}
+}
+StateIconList[EFST_IDs.EFST_HELM_VERKANA] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{
+			"Verkana Amplifier",
+			{ 155, 202, 155 }
+		},
+		{
+			"%s",
+			{ 255, 176, 98 }
+		},
+		{ "Chance to activate" },
+		{ "Millenium Shield" },
+		{ "When attacked by" },
+		{ "Physical or Magical attack" }
+	}
+}
+StateIconList[EFST_IDs.EFST_HELM_RHYDO] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{
+			"Rhydo Amplifier",
+			{ 155, 202, 155 }
+		},
+		{
+			"%s",
+			{ 255, 176, 98 }
+		},
+		{ "Cannot be knocked back" }
+	}
+}
+StateIconList[EFST_IDs.EFST_HELM_TURISUS] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{
+			"Turisus Amplifier",
+			{ 155, 202, 155 }
+		},
+		{
+			"%s",
+			{ 255, 176, 98 }
+		},
+		{ "Increase STR" },
+		{ "Decrease INT" }
+	}
+}
+StateIconList[EFST_IDs.EFST_HELM_HAGALAS] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{
+			"Hagalas Amplifier",
+			{ 155, 202, 155 }
+		},
+		{
+			"%s",
+			{ 255, 176, 98 }
+		},
+		{ "Reflect physical attack" }
+	}
+}
+StateIconList[EFST_IDs.EFST_HELM_ISIA] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{
+			"Isia Amplifier",
+			{ 155, 202, 155 }
+		},
+		{
+			"%s",
+			{ 255, 176, 98 }
+		},
+		{ "Recover certain amount of HP" }
+	}
+}
+StateIconList[EFST_IDs.EFST_HELM_ASIR] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{
+			"Asir Amplifier",
+			{ 155, 202, 155 }
+		},
+		{
+			"%s",
+			{ 255, 176, 98 }
+		},
+		{ "Increase ATK" },
+		{ "Increase ASPD" }
+	}
+}
+StateIconList[EFST_IDs.EFST_HELM_URJ] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{
+			"Urj Amplifier",
+			{ 155, 202, 155 }
+		},
+		{
+			"%s",
+			{ 255, 176, 98 }
+		},
+		{ "Recover certain amount of SP" }
 	}
 }
