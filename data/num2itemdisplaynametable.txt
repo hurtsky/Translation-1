@@ -3196,11 +3196,11 @@
 5235#Hat#
 5236#Hat#
 5237#Hat#
-5238#Helm#
-5239#Helm#
-5240#Helm#
-5241#Helm#
-5242#Helm#
+5238#Hat#
+5239#Hat#
+5240#Hat#
+5241#Hat#
+5242#Hat#
 5243#Hat#
 5244#Accessory#
 5245#Accessory#
@@ -3600,7 +3600,7 @@
 5639#Hat#
 5640#Hat#
 5641#Glasses#
-5642#Headgear#
+5642#Hat#
 5643#Helm#
 5644#Mask#
 5645#Hat#
@@ -10104,6 +10104,7 @@
 19052#Headgear#
 19053#Hat#
 19080#Accessory#
+19081#Hat#
 19377#Shiny_Marinade_Beef#
 19378#Chile_Shrimp_Gratin#
 19379#Red_Mushroom_Wine#
@@ -10940,6 +10941,7 @@
 20765#Garment#
 20768#Garment#
 20773#Garment#
+20778#Garment#
 21000#Two-Handed_Sword#
 21001#Two-Handed_Sword#
 21002#Two-Handed_Sword#
@@ -11493,6 +11495,7 @@
 28365#Accessory#
 28366#Accessory#
 28367#Accessory#
+28372#Accessory#
 28600#Book#
 28604#Book#
 28605#Book#

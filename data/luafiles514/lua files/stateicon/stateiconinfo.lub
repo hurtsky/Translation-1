@@ -2693,14 +2693,11 @@ StateIconList[EFST_IDs.EFST_STRIPACCESSARY] = {
   }
 }
 StateIconList[EFST_IDs.EFST_PROPERTYUNDEAD] = {
-  haveTimeLimit = 1,
-  posTimeLimitStr = 1,
-  descript = {
-    {"%s", COLOR_TIME},
-    {
-      "Give Undead property"
-    }
-  }
+	descript = {
+		{ "Undead", COLOR_TITLE_DEBUFF },
+		{ "Undead Property" },
+		{ "Cannot be recovered by Heal skill" }
+	}
 }
 StateIconList[EFST_IDs.EFST_INVISIBILITY] = {
   haveTimeLimit = 1,
@@ -5770,5 +5767,440 @@ StateIconList[EFST_IDs.EFST_HELM_URJ] = {
 			{ 255, 176, 98 }
 		},
 		{ "Recover certain amount of SP" }
+	}
+}
+StateIconList[EFST_IDs.EFST_EXTRACT_SALAMINE_JUICE] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Enrich Celermine Juice", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Increase attack speed" }
+	}
+}
+StateIconList[EFST_IDs.EFST_PROMOTE_HEALTH_RESERCH] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "HP Increase Potion", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Increase MaxHP" }
+	}
+}
+StateIconList[EFST_IDs.EFST_ENERGY_DRINK_RESERCH] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "SP Increase Potion", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Increase MaxSP" }
+	}
+}
+StateIconList[EFST_IDs.EFST_EXTRACT_WHITE_POTION_Z] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Enriched White PotionZ", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Increase natural HP regeneration" }
+	}
+}
+StateIconList[EFST_IDs.EFST_VITATA_500] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Vitata500", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Increase natural SP regeneration" },
+		{ "Increase MaxSP" }
+	}
+}
+StateIconList[EFST_IDs.EFST_EXPIATIO] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Expiatio", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Ignore portion of target's defense" }
+	}
+}
+StateIconList[EFST_IDs.EFST_CRUSHSTRIKE] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Crush Strike", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Increase melee physical damage" }
+	}
+}
+StateIconList[EFST_IDs.EFST_EXEEDBREAK] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Exceed Break", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Increase first strike damage" }
+	}
+}
+StateIconList[EFST_IDs.EFST_STASIS] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Stasis", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "Cannot use Magic, Song or Chorus within the range" }
+	}
+}
+StateIconList[EFST_IDs.EFST_MAGNETICFIELD] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Magnetic Field", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "Disable movement of all targets within the range" },
+		{ "Decrease SP" }
+	}
+}
+StateIconList[EFST_IDs.EFST_VACUUM_EXTREME] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Vacuum Extreme", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "Pull all targets within the range" },
+		{ "Disable movement" }
+	}
+}
+StateIconList[EFST_IDs.EFST_BODYSTATE_STONECURSE] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Stone Curse", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "Disable action and Flee" },
+		{ "Decrease MaxHP" }
+	}
+}
+StateIconList[EFST_IDs.EFST_BODYSTATE_FREEZING] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Freezing", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "Disable action and Flee" },
+		{ "Reduce physical and magical defense" }
+	}
+}
+StateIconList[EFST_IDs.EFST_BODYSTATE_STUN] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Stun", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "Disable action and Flee" }
+	}
+}
+StateIconList[EFST_IDs.EFST_BODYSTATE_SLEEP] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Sleep", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "Disable action and Flee" },
+		{ "Increase critical attack rate" }
+	}
+}
+StateIconList[EFST_IDs.EFST_BODYSTATE_UNDEAD] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Undead", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "Undead Property" },
+		{ "Cannot be recovered by Heal skill" }
+	}
+}
+StateIconList[EFST_IDs.EFST_BODYSTATE_STONECURSE_ING] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Stone Curse progress", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_BODYSTATE_BURNNING] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Burning", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "Damage every 3 seconds" },
+		{ "Reduce magical defense" }
+	}
+}
+StateIconList[EFST_IDs.EFST_BODYSTATE_IMPRISON] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Imprison", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "Disable attack, skill, movement and item use" }
+	}
+}
+StateIconList[EFST_IDs.EFST_HEALTHSTATE_POISON] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Poison", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "Decrease vision" },
+		{ "Decrease physical defense" },
+		{ "Decrease HP every 3 seconds" }
+	}
+}
+StateIconList[EFST_IDs.EFST_HEALTHSTATE_CURSE] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Curse", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "Reduce movement speed and physical damage" },
+		{ "LUK become 0" }
+	}
+}
+StateIconList[EFST_IDs.EFST_HEALTHSTATE_SILENCE] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Silence", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "Cannot use skill" }
+	}
+}
+StateIconList[EFST_IDs.EFST_HEALTHSTATE_CONFUSION] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Chaos", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "Move randomly when moving" }
+	}
+}
+StateIconList[EFST_IDs.EFST_HEALTHSTATE_BLIND] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Blind", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "Deteriorated vision" },
+		{ "Reduce HIT and Flee" }
+	}
+}
+StateIconList[EFST_IDs.EFST_HEALTHSTATE_ANGELUS] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Angelus", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Increase defense" }
+	}
+}
+StateIconList[EFST_IDs.EFST_HEALTHSTATE_HEAVYPOISON] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Deadly Poison", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "Reduce HP every second" }
+	}
+}
+StateIconList[EFST_IDs.EFST_HEALTHSTATE_FEAR] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Fear", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "Disable movement for 2 seconds" },
+		{ "Reduce HIT and Flee" }
+	}
+}
+StateIconList[EFST_IDs.EFST_CURSEDCIRCLE_TARGET] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Cursed Circle", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "Disable action and movement within the range" },
+		{ "Silenced the target" }
+	}
+}
+StateIconList[EFST_IDs.EFST_MANDRAGORA] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Howling of Mandragora", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "Reduce INT and SP" },
+		{ "Increase fixed casting time" }
+	}
+}
+StateIconList[EFST_IDs.EFST_ATTACK_PROPERTY_NOTHING] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Grant weapon with Neutral property", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_ATTACK_PROPERTY_WATER] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Grant weapon with Water property", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_ATTACK_PROPERTY_GROUND] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Grant weapon with Earth property", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_ATTACK_PROPERTY_FIRE] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Grant weapon with Fire property", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_ATTACK_PROPERTY_WIND] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Grant weapon with Wind property", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_ATTACK_PROPERTY_POISON] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Grant weapon with Poison property", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_ATTACK_PROPERTY_SAINT] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Grant weapon with Holy property", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_ATTACK_PROPERTY_DARKNESS] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Grant weapon with Shadow property", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_ATTACK_PROPERTY_TELEKINESIS] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Grant weapon with Ghost property", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_ATTACK_PROPERTY_UNDEAD] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Grant weapon with Undead property", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_RESIST_PROPERTY_NOTHING] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Increase Neutral resistance", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_RESIST_PROPERTY_WATER] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Increase Water resistance", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_RESIST_PROPERTY_GROUND] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Increase Earth resistance", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_RESIST_PROPERTY_FIRE] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Increase Fire resistance", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_RESIST_PROPERTY_WIND] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Increase Wind resistance", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_RESIST_PROPERTY_POISON] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Increase Poison resistance", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_RESIST_PROPERTY_SAINT] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Increase Holy resistance", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_RESIST_PROPERTY_DARKNESS] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Increase Shadow resistance", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_RESIST_PROPERTY_TELEKINESIS] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Increase Ghost resistance", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_RESIST_PROPERTY_UNDEAD] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Increase Undead resistance", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME }
 	}
 }

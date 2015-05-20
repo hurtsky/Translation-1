@@ -906,7 +906,7 @@ A coin made of gold.
 When used, add 1 gold points to roulette games.
 If 10 gold points is used, Roulette will start at 3rd line.
 ^FFFFFF_^000000
-Weight: ^7777774^000000
+Weight: ^7777770^000000
 #
 672#
 A bag filled with bronze coins.
@@ -928,7 +928,7 @@ A coin made of silver.
 When used, add 1 silver points to roulette games.
 If 10 silver points is used, Roulette will start at 5th line.
 ^FFFFFF_^000000
-Weight: ^7777774^000000
+Weight: ^7777770^000000
 #
 676#
 A bag filled with silver coins.
@@ -50517,6 +50517,9 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 19080#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
+19081#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
 19377#
 A marinated beef dish
 whose spendorous
@@ -53129,6 +53132,9 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 20773#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
+20778#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
 21000#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
@@ -55175,6 +55181,9 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 28367#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+28372#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 28600#

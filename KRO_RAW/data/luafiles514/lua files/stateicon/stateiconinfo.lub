@@ -1706,9 +1706,10 @@ StateIconList[EFST_IDs.EFST_STRIPACCESSARY] = {
 	}
 }
 StateIconList[EFST_IDs.EFST_PROPERTYUNDEAD] = {
-	haveTimeLimit = 0,
 	descript = {
-		{ "언데드 속성 적용" }
+		{ "언데드", COLOR_TITLE_DEBUFF },
+		{ "언데드 속성" },
+		{ "힐 스킬로 회복 불가" }
 	}
 }
 StateIconList[EFST_IDs.EFST_INVISIBILITY] = {
@@ -3700,6 +3701,441 @@ StateIconList[EFST_IDs.EFST_EP16_DEF] = {
 	descript = {
 		{ "빛나는 성수", COLOR_TITLE_BUFF },
 		{ "의식의방, 프론테라 침공 던전에서 받는 데미지 10% 감소" },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_EXTRACT_SALAMINE_JUICE] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "농축 샐러마인즙", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "공격 속도 증가" }
+	}
+}
+StateIconList[EFST_IDs.EFST_PROMOTE_HEALTH_RESERCH] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "HP 증가 포션", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "MHP 증가" }
+	}
+}
+StateIconList[EFST_IDs.EFST_ENERGY_DRINK_RESERCH] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "SP 증가 포션", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "MSP 증가" }
+	}
+}
+StateIconList[EFST_IDs.EFST_EXTRACT_WHITE_POTION_Z] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "농축 화이트 포션Z", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "HP 자연 회복속도 증가" }
+	}
+}
+StateIconList[EFST_IDs.EFST_VITATA_500] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "비타타500", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "SP 자연 회복속도 증가" },
+		{ "MSP 증가" }
+	}
+}
+StateIconList[EFST_IDs.EFST_EXPIATIO] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "엑스피아티오", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "대상 방어력 일부분 무시" }
+	}
+}
+StateIconList[EFST_IDs.EFST_CRUSHSTRIKE] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "크러쉬 스트라이크", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "근접 물리 공격력 증가" }
+	}
+}
+StateIconList[EFST_IDs.EFST_EXEEDBREAK] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "익시드 브레이크", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "최초 일격 공격력 증가" }
+	}
+}
+StateIconList[EFST_IDs.EFST_STASIS] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "스테이시스", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "범위 내 모든 대상이 마법, 노래, 합창 불가" }
+	}
+}
+StateIconList[EFST_IDs.EFST_MAGNETICFIELD] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "마그네틱 필드", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "범위 내 모든 대상이 이동 불가" },
+		{ "SP 감소" }
+	}
+}
+StateIconList[EFST_IDs.EFST_VACUUM_EXTREME] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "바큠 익스트림", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "범위 내 모든 대상을 끌어옴" },
+		{ "이동 불가" }
+	}
+}
+StateIconList[EFST_IDs.EFST_BODYSTATE_STONECURSE] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "석화", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "회피, 행동 불가" },
+		{ "MHP 감소" }
+	}
+}
+StateIconList[EFST_IDs.EFST_BODYSTATE_FREEZING] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "동빙", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "회피, 행동 불가" },
+		{ "물리, 마법 방어력 감소" }
+	}
+}
+StateIconList[EFST_IDs.EFST_BODYSTATE_STUN] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "스턴", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "회피, 행동 불가" }
+	}
+}
+StateIconList[EFST_IDs.EFST_BODYSTATE_SLEEP] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "수면", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "회피, 행동 불가" },
+		{ "크리티컬 피해 확률 상승" }
+	}
+}
+StateIconList[EFST_IDs.EFST_BODYSTATE_UNDEAD] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "언데드", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "언데드 속성" },
+		{ "힐 스킬로 회복 불가" }
+	}
+}
+StateIconList[EFST_IDs.EFST_BODYSTATE_STONECURSE_ING] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "석화 진행 중", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_BODYSTATE_BURNNING] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "발화", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "3초마다 데미지 피해" },
+		{ "마법 방어력 감소" }
+	}
+}
+StateIconList[EFST_IDs.EFST_BODYSTATE_IMPRISON] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "격리", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "이동, 공격, 스킬, 아이템 사용 불가" }
+	}
+}
+StateIconList[EFST_IDs.EFST_HEALTHSTATE_POISON] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "독", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "시야 저하" },
+		{ "물리 방어력 감소" },
+		{ "3초당 MHP 감소" }
+	}
+}
+StateIconList[EFST_IDs.EFST_HEALTHSTATE_CURSE] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "저주", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "이동 속도, 물리 공격력 감소" },
+		{ "LUK 수치 0 " }
+	}
+}
+StateIconList[EFST_IDs.EFST_HEALTHSTATE_SILENCE] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "침묵", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "스킬 사용 불가" }
+	}
+}
+StateIconList[EFST_IDs.EFST_HEALTHSTATE_CONFUSION] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "혼란", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "이동 시 무작위로 이동" }
+	}
+}
+StateIconList[EFST_IDs.EFST_HEALTHSTATE_BLIND] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "암흑", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "시야 저하" },
+		{ "명중률, 회피율 감소" }
+	}
+}
+StateIconList[EFST_IDs.EFST_HEALTHSTATE_ANGELUS] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "안젤루스", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "방어력 증가" }
+	}
+}
+StateIconList[EFST_IDs.EFST_HEALTHSTATE_HEAVYPOISON] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "치명적인 독", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "초당 HP 감소 " }
+	}
+}
+StateIconList[EFST_IDs.EFST_HEALTHSTATE_FEAR] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "공포", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "2초간 이동 불가" },
+		{ "명중률, 회피률 감소" }
+	}
+}
+StateIconList[EFST_IDs.EFST_CURSEDCIRCLE_TARGET] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "주박진", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "범위 내 모든 대상을 이동, 공격 불가" },
+		{ "상태이상 침묵 추가" }
+	}
+}
+StateIconList[EFST_IDs.EFST_MANDRAGORA] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "하울링 오브 만드라고라", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "INT, SP 감소" },
+		{ "스킬 고정 캐스팅 증가" }
+	}
+}
+StateIconList[EFST_IDs.EFST_ATTACK_PROPERTY_NOTHING] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "무기에 무속성 부여", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_ATTACK_PROPERTY_WATER] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "무기에 수속성 부여", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_ATTACK_PROPERTY_GROUND] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "무기에 지속성 부여", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_ATTACK_PROPERTY_FIRE] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "무기에 화속성 부여", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_ATTACK_PROPERTY_WIND] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "무기에 풍속성 부여", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_ATTACK_PROPERTY_POISON] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "무기에 독속성 부여", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_ATTACK_PROPERTY_SAINT] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "무기에 성속성 부여", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_ATTACK_PROPERTY_DARKNESS] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "무기에 암속성 부여", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_ATTACK_PROPERTY_TELEKINESIS] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "무기에 염속성 부여", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_ATTACK_PROPERTY_UNDEAD] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "무기에 불사속성 부여", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_RESIST_PROPERTY_NOTHING] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "무속성 내성", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_RESIST_PROPERTY_WATER] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "수속성 내성", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_RESIST_PROPERTY_GROUND] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "지속성 내성", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_RESIST_PROPERTY_FIRE] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "화속성 내성", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_RESIST_PROPERTY_WIND] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "풍속성 내성", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_RESIST_PROPERTY_POISON] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "독속성 내성", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_RESIST_PROPERTY_SAINT] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "성속성 내성", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_RESIST_PROPERTY_DARKNESS] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "암속성 내성", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_RESIST_PROPERTY_TELEKINESIS] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "염속성 내성", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_RESIST_PROPERTY_UNDEAD] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "불사속성 내성", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME }
 	}
 }

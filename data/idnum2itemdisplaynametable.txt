@@ -1269,7 +1269,7 @@
 2180#TE_WoE_Magic_Guard#
 2181#Hervor#
 2182#Hervor_Alvtir#
-2183#Advanced_Angelic_Guard#
+2183#Modified_Angelic_Guard#
 2184#Bunker_shield#
 2185#Magic_Reflector#
 2186#Revised_Encyclopedia#
@@ -2013,9 +2013,9 @@
 2953#Kvasir's_Ring#
 2954#Kvasir's_Ring#
 2955#Neutral_Ring#
-2956#Advanced_Safety_Ring#
-2957#Advanced_Ring_of_Flame_Lord#
-2958#Advanced_Ring_of_Resonance#
+2956#Modified_Safety_Ring#
+2957#Modified_Ring_of_Flame_Lord#
+2958#Modified_Ring_of_Resonance#
 2959#Fidelity_Necklace#
 2960#Badge_Of_Manny#
 2962#Ring_of_Willpower#
@@ -8387,7 +8387,7 @@
 15065#American_Chace_Penta#
 15066#Engraved_Armor#
 15067#Suit_of_Rune#
-15068#Advanced_Angelic_Protection#
+15068#Modified_Angelic_Protection#
 15069#Special_Clothes#
 15070#Clothes_of_Happiness#
 15071#Valkyrie_Robe#
@@ -9887,7 +9887,7 @@
 18764#Modified_Bunny_Band#
 18765#Modified_Corsair#
 18766#Modified_Helm_of_Angel#
-18767#Modified_Solar_Helm#
+18767#Modified_Hat_of_the_Sun_God#
 18768#Modified_Bone_Helm#
 18769#Modified_Munak_Hat#
 18770#Modified_Bongun_Hat#
@@ -10104,6 +10104,7 @@
 19052#Sigrun's_Wings#
 19053#Fighter_Moon_Cat_Hat#
 19080#Nettie_Heart_Bubblegum#
+19081#Faceworm_Egg_Shell#
 19377#Shiny_Marinade_Beef#
 19378#Chile_Shrimp_Gratin#
 19379#Red_Mushroom_Wine#
@@ -10940,6 +10941,7 @@
 20765#Costume_Archangel_Wing#
 20768#Large_Angel_Wings#
 20773#Excellion_Wing#
+20778#Crimson_Stole#
 21000#Upgrade_Two-Handed_Sword#
 21001#Vellum_Claymore#
 21002#Vellum_Katzbalger#
@@ -11493,6 +11495,7 @@
 28365#VIT_Glove#
 28366#DEX_Glove#
 28367#LUK_Glove#
+28372#Imperial_Ring#
 28600#Blue_Book#
 28604#Crimson_Bible#
 28605#Book_of_Vicious_Mind#
