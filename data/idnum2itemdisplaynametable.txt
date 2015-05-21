@@ -3288,7 +3288,7 @@
 5327#Refined_Helmet_of_Orc_Hero#
 5328#Evil_Wing_Ears_C#
 5329#Costume_Dark_Blindfold#
-5330#kRO_Drooping_Kitty_C#
+5330#Drooping_Kitty#
 5331#Corsair_C#
 5332#Loki_Mask#
 5333#Radio_Antenna#

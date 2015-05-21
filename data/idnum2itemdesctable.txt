@@ -26836,7 +26836,8 @@ A hat that looks like
 a sheep's head that is
 so adorable, an enemy
 might change his mind
-about attacking. Reflects 5% physical damage.
+about attacking.
+Reflects 5% physical damage.
 Unrefineable
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
@@ -28397,15 +28398,11 @@ Weight: ^77777720^000000
 Jobs: ^777777All^000000
 #
 5283#
-A hat adorned with a
-cute chick that brings
-feelings of joy to those that see it hopping.
-Adds 3% resistance to
-Demihuman and Animal
-monsters. Cannot
-be upgraded. Enables
-Level 2 Double Attack.
-MaxHP and SP +50
+A hat adorned with a cute chick that brings feelings of joy to those that see it hopping.
+Adds 3% resistance to Demihuman and Brute monsters.
+Enables Level 2 Double Attack.
+MaxHP and MaxSP +50.
+Unrefineable.
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
 Location: ^777777Upper^000000
@@ -28418,10 +28415,11 @@ A training cap that
 lends a sense of
 quiet and stability
 to the wearer.
-DEX	+1, AGI +1,
+DEX +1, AGI +1,
 Magic Defense +3.
 Increases HP Recovery
-by 5% and SP Recovery by 3%. Unrefineable.
+by 5% and SP Recovery by 3%.
+Unrefineable.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
