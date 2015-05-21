@@ -74618,7 +74618,7 @@ Jobs: ^777777All^000000
 18636#
 A ribbon expressing happiness for the new married bride. Makes you feel more sensitive.
 DEX +1.
-When being attacked, activates 1 level WINKCHARM skill for certain percentage.
+When being attacked, activates 1 level Wink Charm skill for certain percentage.
 Class: ^777777Headgear^000000
 Defense: ^7777776^000000
 Location: ^777777Upper^000000
@@ -74629,7 +74629,7 @@ Jobs: ^777777All^000000
 18637#
 Helmet generals of the kingdom was the cry of the ancient continent was using. Weather in general that the word of command many soldiers outpouring from all over the body Using this pitch.
 STR +2, VIT +1.
-if refined lv8, able to increase the move speed
+if refined to +8, increase the movement speed.
 Class: ^777777Headgear^000000
 Defense: ^7777774^000000
 Location: ^777777Upper, Middle^000000

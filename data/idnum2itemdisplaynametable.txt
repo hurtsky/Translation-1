@@ -9760,7 +9760,7 @@
 18633#Pink_Poring_Hairpin#
 18634#Green_Poring_Hairpin#
 18635#Blue_Poring_Hairpin#
-18636#Ribbon_of_bride#
+18636#Ribbon_of_Bride#
 18637#Ancient_Admiral_Helm#
 18638#Citron_Hat#
 18639#Naval_Officer_Hat#
