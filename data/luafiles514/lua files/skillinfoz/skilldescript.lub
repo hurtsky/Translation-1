@@ -11781,7 +11781,7 @@ SKILL_DESCRIPT = {
 		"^777777Recover from stun, fear, confuse and Hallucination.^000000"
 	},
 	[SKID.ECL_SEQUOIADUST] = {
-		"Sequoia Dust",
+		"Yggdrasil Dust",
 		"^777777생명의 나무의 잎에 붙어있던 먼지 부스러기지만 모아서 사용했을 때는 정화 능력을 발휘한다.^000000",
 		"^777777Recover from stone curse, darkness, curse, poison and decrease agility.^000000"
 	},

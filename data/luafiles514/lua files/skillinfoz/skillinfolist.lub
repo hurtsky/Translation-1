@@ -10674,7 +10674,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.ECL_SEQUOIADUST] = {
 		"ECL_SEQUOIADUST",
-		SkillName = "Sequoia Dust",
+		SkillName = "Yggdrasil Dust",
 		MaxLv = 1,
 		SpAmount = { 0 },
 		bSeperateLv = false,
