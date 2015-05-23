@@ -8503,8 +8503,7 @@ SKILL_DESCRIPT = {
 	[SKID.SC_INVISIBILITY] = {
 		"Invisibility",
 		"Max Level: 5",
-		"^CC3399Requirement: Auto Shadow Spell 7,",
-		"Deadly Infection 5, Masquerade Unlucky 3^000000",
+		"^CC3399Requirement: Auto Shadow Spell 7, Deadly Infection 5, Masquerade Unlucky 3^000000",
 		"Skill Form: ^339900Active / Buff^000000",
 		"Description: ^777777Make yourself invisible. You",
 		"can attack enemies during invisible state",
@@ -8523,7 +8522,7 @@ SKILL_DESCRIPT = {
 	[SKID.SC_DEADLYINFECT] = {
 		"Deadly Infection",
 		"Max Level: 5",
-		"^CC3399Requirement: Shadow Formation 3 / Auto Shadow Spell 5^000000",
+		"^CC3399Requirement: Shadow Form 3, Auto Shadow Spell 5^000000",
 		"Skill Form: ^339900Active / Buff^000000",
 		"Description: ^777777Transfer abnormal status that caster holds at the moment to the target or attacking enemies. Even if the caster transferred its curse to others, the curse on caster is maintained.^000000",
 		"[Lv 1]: ^777777Skill Duration 10 sec. / 40% chance of",
@@ -8548,7 +8547,7 @@ SKILL_DESCRIPT = {
 		"[Lv 3]: ^777777ATK 50% Decrease / Duration 20 sec.^000000"
 	},
 	[SKID.SC_GROOMY] = {
-		"Masquerade Groomy",
+		"Masquerade Gloomy",
 		"Max Level: 3",
 		"^CC3399Requirement: Body Painting 1^000000",
 		"Skill Form: ^FF0000Active / Debuff^000000",
@@ -8570,7 +8569,7 @@ SKILL_DESCRIPT = {
 	[SKID.SC_LAZINESS] = {
 		"Masquerade Laziness",
 		"Max Level: 3",
-		"^CC3399Requirement: Masquerade Enervation 1 / Groomy 1 / Ignorance 1^000000",
+		"^CC3399Requirement: Masquerade Enervation 1, Masquerade Gloomy 1, Masquerade Ignorance 1^000000",
 		"Skill Form: ^FF0000Active / Debuff^000000",
 		"Description: ^777777Decrease target's movement, casting speed and also flee rate. The target has to consume additional SP [Laziness skill level x 10] to use any skills while target is affected by Laziness. Must have a Makeover Brush and consume 1 Face Paint. The chance of success depends on the caster and target's level and stats.^000000",
 		"[Lv 1]: ^777777Flee Rate 10% Decrease /  Casting Speed 20% Decrease / Duration 10 sec.^000000",
@@ -8580,7 +8579,7 @@ SKILL_DESCRIPT = {
 	[SKID.SC_UNLUCKY] = {
 		"Masquerade Unlucky",
 		"Max Level: 3",
-		"^CC3399Requirement: Masquerade Laziness 1 / Weakness 1^000000",
+		"^CC3399Requirement: Masquerade Laziness 1, Masquerade Weakness 1^000000",
 		"Skill Form: ^FF0000Active / Debuff^000000",
 		"Description: ^777777Decrease target's CRI and Perfect Dodge rate. Certain amount of Zeny is consumed every time target is casting skills. Must give 1 abnormal status to the target among Poison, Blind and Silence status. Required to have Makeover Brush and consume 1 Face Paint. The chance of success is changeable depending on caster and target's level and stats.^000000",
 		"[Lv 1]: ^777777Critical 10 Decrease / Perfect Dodge 10 Decrease / Duration 10 sec.^000000",
@@ -8590,7 +8589,7 @@ SKILL_DESCRIPT = {
 	[SKID.SC_WEAKNESS] = {
 		"Masquerade Weakness",
 		"Max Level: 3",
-		"^CC3399Requirement: Masquerade Enervation 1 / Groomy 1 / Ignorance 1^000000",
+		"^CC3399Requirement: Masquerade Enervation 1, Masquerade Groomy 1, Masquerade Ignorance 1^000000",
 		"Skill Form: ^FF0000Active / Debuff^000000",
 		"Description: ^777777Decrease maximum HP and strip weapon and shield from target's body temporary. Target can not equip weapon or shield during casting duration. Required to have Makeover Brush and consume 1 Face Paint. The chance of success is changeable depending on caster and target's level and stats.^000000",
 		"[Lv 1]: ^777777MHP 10% Decrease / Duration 10 sec.^000000",
@@ -8642,7 +8641,7 @@ SKILL_DESCRIPT = {
 	[SKID.SC_MAELSTROM] = {
 		"Maelstrom",
 		"Max Level: 3",
-		"^CC3399Requirement: Chaos Panic 3 / Masquerade Unlucky 3^000000",
+		"^CC3399Requirement: Chaos Panic 3, Masquerade Unlucky 3^000000",
 		"Skill Form: ^000099Active / Ground^000000",
 		"Description: ^777777Draw swirling circle on the ground and absorb other magic that is cast on the ground. Caster recovers SP depending on absorbed magic level. Must have a Paint Brush and consumes 2 Surface Paint.^000000",
 		"[Lv 1]: ^777777Skill Duration 7 sec.^000000",
