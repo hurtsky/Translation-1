@@ -10698,7 +10698,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GC_DARKCROW] = {
 		"GC_DARKCROW",
-		SkillName = "Dark Crow",
+		SkillName = "Dark Claw",
 		MaxLv = 5,
 		SpAmount = { 22, 34, 46, 58, 70 },
 		bSeperateLv = true,

@@ -11786,7 +11786,7 @@ SKILL_DESCRIPT = {
 		"^777777Recover from stone curse, darkness, curse, poison and decrease agility.^000000"
 	},
 	[SKID.GC_DARKCROW] = {
-		"Dark Crow",
+		"Dark Claw",
 		"Max Level: ^7777775^000000",
 		"^CC3399Requirement: Dark Illusion 5^000000",
 		"Skill Form: ^FF0000Active / Damage - Special^000000",
