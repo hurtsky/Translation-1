@@ -10075,6 +10075,7 @@
 18997#Riot_Chip#
 19012#Angel_Spirit_Guide#
 19014#Gravekeeper_Blinker#
+19015#Costume_Kama's_Hairband#
 19019#Elemental_Crown#
 19020#Survival_Circlet#
 19021#Giant_Helm#
@@ -10519,6 +10520,8 @@
 19897#RPC_1ST_Wreath#
 19898#RPC_2ND_Wreath#
 19899#RPC13_3RD_Wreath#
+19900#Costume_Cool_Pirate_Eyepatch#
+19901#Costume_Orc_Helm#
 19902#Costume_Cigarette#
 19903#Costume_Witch's_Pumpkin_Hat#
 19904#Costume_Skull_Cap#
@@ -10976,10 +10979,10 @@
 22012#Boots_of_Mana#
 22014#Enhanced_Variant_Shoes#
 22015#Modified_Angel's_Reincarnation#
-22016##
+22016#Assassin_Shoes#
 22017##
 22018#Shoes_Of_Wise_Man#
-22019##
+22019#Immune_Boots#
 22020##
 22021##
 22022##
@@ -11386,10 +11389,10 @@
 24167#Penetration_Shadow_Pendant#
 24168#Tempest_Shadow_Earring#
 24169#Tempest_Shadow_Pendant#
-24170#Magic_Demihuman_Shadow_Weapon#
+24170#Magic_Executioner_Shadow_Weapon#
 24171#Magic_Exorcist_Shadow_Weapon#
 24172#Magic_Hunting_Shadow_Weapon#
-24173#Magic_Insect_Shadow_Weapon#
+24173#Magic_Insecticide_Shadow_Weapon#
 24174#Magic_Fishing_Shadow_Weapon#
 24175#Magic_Dragon_Killer_Shadow_Weapon#
 24176#Magic_Angelus_Shadow_Weapon#
@@ -11482,6 +11485,7 @@
 28310#Sarah's_Left_Earring#
 28311#Sarah's_Right_Earring#
 28319#Cauda_Daemonica#
+28320#Desperation_of_Assassin#
 28326#Broken_Chips_01#
 28327#Broken_Chips_02#
 28332#Jewelry_Ring#

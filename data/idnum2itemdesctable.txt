@@ -4392,7 +4392,15 @@ Required Level: ^7777771^000000
 Jobs: ^777777Assassin Corss^000000
 #
 1297#
-[JRO item]
+A Katar made from a dragon's scale.
+Inflicts abnormal status to enemies within a 5*5 cell when attacking.
+Class: ^777777Katar^000000
+Attack: ^777777140^000000
+Weight: ^777777150^000000
+Property: ^777777Holy^000000
+Weapon Level: ^7777774^000000
+Required Level: ^77777755^000000
+Jobs: ^777777Assassin Cross^000000
 #
 1298#
 Katar that has killed many victims, its shape make enemy shivering.
@@ -7132,7 +7140,17 @@ Required Level: ^7777771^000000
 Jobs: ^777777Priest, Sage and Star Gladiator^000000
 #
 1589#
-[JRO item]
+A book in which the origin and history of dragons is written.
+It's a treasure that is said to be passed among the dragon race.
+Ignores Dragon monsters' Defense.
+Gain 10 SP each time a Dragon monster is killed.
+INT +3
+Class: ^777777Book^000000
+Attack: ^777777130^000000
+Weight: ^77777770^000000
+Weapon Level: ^7777774^000000
+Required Level: ^77777770^000000
+Jobs: ^777777Priest, Sage and Star Gladiator^000000
 #
 1590#
 Covering all informations about snakes.
@@ -10548,7 +10566,7 @@ MATK +70.
 [Wizard] MATK +30
 [Sage] MATK +20
 [Per Refine] MATK +10, healing rate +1%
-Level 70 or Higher : MATK+10 for every 10 Base Level
+Level 70 or Higher : MATK +10 for every 10 Base Level
 Class: ^777777Two-Handed Staff^000000
 Attack: ^77777750^000000
 Weight: ^777777100^000000
@@ -11256,7 +11274,16 @@ Required Level: ^777777110^000000
 Jobs: ^777777Archbishop^000000
 #
 2157#
-[JRO item]
+Pesticide spray
+Use it on pest's ness, Summer essentials!
+Increase physical damage against Insect monster by 10%.
++Ultra-Strong Ora Ora, reduce damage received from Insect monster by 10%,
+if Insecticide refined to +8, increase magic attack against Insect monster by 4% and reduce damage received from Insect monster by 10%.
+Class: ^777777Shield^000000
+Defense: ^7777770^000000
+Weight: ^77777710^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 2158#
 Shield of immunity, which imbued with magical properties.
@@ -74041,7 +74068,7 @@ The Helm of the Lord of Death
 MDEF +5.
 Increase Damage to Boss Type Monsters by 10%
 Take 5% more damage from normal Monsters and Players.
-For every upgrade 5 and higher add 1% more damage to Boss monsters.
+For every upgrade above +5, add 1% more damage to Boss monsters.
 ^99FF66Set Bonus^000000
 ^00FF00Lord of the Death Helm^000000
 ^00FF00Abysmal Knight Card^000000
@@ -78048,6 +78075,15 @@ Weight: ^77777720^000000
 Required level: ^77777710^000000
 Jobs: ^777777All^000000
 #
+19015#
+A hairband used in repeling Demon ritual.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required level: ^7777771^000000
+Jobs: ^777777All^000000
+#
 19019#
 A crown bless by spirit, by wearing it you can feel the flow of nature.
 DEX +3.
@@ -78302,7 +78338,18 @@ Jobs: ^777777All except Novice^000000
 [JRO item]
 #
 19047#
-[JRO item]
+A knitted hat with angeling on top.
+MDEF +5
+When defeating Angel monster gain 5 SP.
+When defeating monsters gain 100 HP.
+Refined to +5, reduce damage from Angel monster by 5%
+Refined to +7, reduce damage from Angel monster by 5%
+Class: ^777777Headgear^000000
+Defense: ^7777775^000000
+Location: ^777777Upper^000000
+Weight: ^77777730^000000
+Required Level: ^77777720^000000
+Jobs: ^777777All^000000
 #
 19051#
 A zodiac cat got fooled by rat, back to the moon to train.
@@ -81907,6 +81954,25 @@ Jobs: ^777777All^000000
 A crown made of laurel, worn by emperors during coronation. A symbol of glory and victory.
 All stats +1.
 MDEF +1.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19900#
+Red Cool Pirate's eye patch. 3 times cooler than before.
+Has a low chance of dropping Sealed Envelopes when killing any monster.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Middle^000000
+Weight: ^77777710^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19901#
+A surprisingly durable helmet that was crafted by expert Orcish smiths.
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
@@ -85899,13 +85965,37 @@ Required Level: ^77777799^000000
 Jobs: ^777777Novice^000000
 #
 22016#
+Shoes worn by assassin.
+Increase experience gain when killing Demihuman by 5%.
+Every refine increase experience gain when killing Demihuman by 1%.
++Desperation of Assassin[1], every refine of shoes, increase damage to Demihuman by 1%.
+Class: ^777777Footgear^000000
+Defense: ^77777710^000000
+Weight: ^77777730^000000
+Required Level: ^77777730^000000
+Jobs: ^777777All^000000
 #
 22017#
 #
 22018#
-[JRO item]
+A magic shoes created by wise man.
+Refined to +6, every refine increase INT by 1 and reduce MaxHP by 1%.
+Class: ^777777Footgear^000000
+Defense: ^77777715^000000
+Weight: ^77777730^000000
+Required Level: ^77777750^000000
+Jobs: ^777777All^000000
 #
 22019#
+Boots with diamond decoration.
+Increase resistance against Neutral property attack by 3%.
+Reduce resistance against other property attack by 3%.
+Refined to +6, every refine Increase resistance against Neutral property attack by 1%.
+Class: ^777777Footgear^000000
+Defense: ^77777720^000000
+Weight: ^77777750^000000
+Required Level: ^77777770^000000
+Jobs: ^777777All^000000
 #
 22020#
 #
@@ -90598,6 +90688,17 @@ Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777720^000000
 Required Level: ^77777780^000000
+Jobs: ^777777All^000000
+#
+28320#
+Representation of Desperation of Assassin is made into this
+ASPD +1
++Assassin Skull Mask, increase damage against Demihuman by 10%.
++Assassin Shoes, every refine of shoes increase damage against Demihuman by 1%.
+Class: ^777777Accessory^000000 
+Defense: ^7777770^000000
+Weight: ^77777710^000000
+Required Level: ^77777750^000000
 Jobs: ^777777All^000000
 #
 28326#
