@@ -10100,6 +10100,7 @@
 19043#Helm#
 19044#Helm#
 19045#Hat#
+19046#Garment#
 19047#Hat#
 19051#Hat#
 19052#Accessory#
@@ -10882,6 +10883,7 @@
 20286#Glasses#
 20287#Hat#
 20288#Hat#
+20291#Hat#
 20292#Hat#
 20293#Hat#
 20294#Hat#
@@ -10896,6 +10898,7 @@
 20303#Hat#
 20304#Hat#
 20305#Accessory#
+20307#Hat#
 20500#Garment#
 20700#Garment#
 20701#Garment#

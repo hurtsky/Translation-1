@@ -10099,7 +10099,8 @@
 19042#Maneater_Flower_Hat#
 19043#Goibne's_Helm#
 19044#Morrigane's_Helm#
-19045#Blue_Ear_Accessory#
+19045#Blue_Ears_Accessory#
+19046#Poisonous_Man#
 19047#Angeling_Furhat#
 19051#Warrior_Moon_Cat_Hat#
 19052#Sigrun's_Wings#
@@ -10882,6 +10883,7 @@
 20286#Costume_Under_Rim_Glasses(Red)#
 20287#Costume_Man's_Medal(Gold)#
 20288#Costume_Bijou_Hat#
+20291#Costume_Helm_of_Thoth#
 20292#Costume_Black_Ramen_Hat#
 20293#Costume_Sleeper_Hat#
 20294#Costume_Savage_Babe_Hat#
@@ -10896,6 +10898,7 @@
 20303#Costume_Mandragora_Cap#
 20304#Costume_Raccoon_Hat#
 20305#Costume_Nettie_Heart_Bubblegum#
+20307#Costume_Beginner_Cap#
 20500#Costume_Archangel_Wing#
 20700#Aegir_Mantle#
 20701#Solar_Manteau#
@@ -11493,7 +11496,7 @@
 28354#City_Center_Map#
 28355#Shining_Holy_Water#
 28356#Prontera_Badge#
-28362#STR_Gloves#
+28362#STR_Glove#
 28363#AGI_Glove#
 28364#INT_Glove#
 28365#VIT_Glove#

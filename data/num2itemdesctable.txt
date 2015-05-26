@@ -50505,6 +50505,9 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 19045#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
+19046#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
 19047#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
@@ -52955,6 +52958,9 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 20288#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
+20291#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
 20292#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
@@ -52995,6 +53001,9 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 20305#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20307#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 20500#

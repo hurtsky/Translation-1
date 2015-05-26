@@ -78298,7 +78298,16 @@ Required Level: ^77777710^000000
 Jobs: ^777777All^000000
 #
 19042#
-[JRO item]
+A plant that prey on Insects.
+MDEF +5.
+When killing insect gain 5 SP.
+Gain 100 HP when killing monster.
+Class: ^777777Headgear^000000
+Defense: ^7777775^000000
+Location: ^777777Upper^000000
+Weight: ^77777730^000000
+Required Level: ^77777720^000000
+Jobs: ^777777All^000000
 #
 19043#
 One of the few armors that was forged by Goibe the blacksmith.
@@ -78335,7 +78344,27 @@ Required Level: ^77777761^000000
 Jobs: ^777777All except Novice^000000
 #
 19045#
-[JRO item]
+Feathers of Fallen angel that made into ears accessory
+Increase magic damage against Angel monsters by 4%.
+Reduce damage received from Angel monsters by 5%.
+Class: ^777777Headgear^000000
+Defense: ^7777770^000000
+Location: ^777777Middle^000000
+Weight: ^77777720^000000
+Required Level: ^77777710^000000
+Jobs: ^777777All^000000
+#
+19046#
+A cloak wore by Poison Demon.
+MDEF +2
+MaxHP +5%
+MATK +1%
+Give chance to inflict poison on enemy when attacking by 2%
+Class: ^777777Garment^000000
+Defense: ^77777716^000000
+Weight: ^77777750^000000
+Required Level: ^77777770^000000
+Jobs: ^7777772nd trans classes^000000
 #
 19047#
 A knitted hat with angeling on top.
@@ -85004,6 +85033,14 @@ Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
+20291#
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper, Middle, Lower^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
 20292#
 A forbidden ramen found in the ruin of Juperos. Those who wish to know the receipt will be doomed.
 ^FF0000Warning! You aren't allowed to make noddle.^000000
@@ -85124,6 +85161,28 @@ Jobs: ^777777All^000000
 #
 20305#
 Now you do not need special skill to make heart shaped bubblegum.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Lower^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20307#
+A costume awarded to adventurer who barely start his adventure.
+HIT +30
+MaxHP +1000
+MaxSP +200
+Variable cast time -10%.
+Increase restoration amount of Novice Potion by 50%.
+Increase healing power by 150%.
+Every 10 base level increment:
+HIT -3
+variable cast time +1%
+MaxHP -100, MaxSP -20
+Healing power -10%,
+Increase healing received and restoration items by 10%.
+^FF0000Cannot be traded.^000000
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Lower^000000
