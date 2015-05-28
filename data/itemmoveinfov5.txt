@@ -1,4 +1,4 @@
-// Warning: Blank lines are not allowed.
+// Warning: Leave blank space at the end of line!
 // ItemID | Drop | Trade | Storage | Cart | SelltoNPC | Mail | Auction | Guild Storage
 547	0	0	0	0	1	0	0	0	// 화이트슬림포션
 598	1	1	0	1	1	1	1	1	// 캐쉬아이템가벼운알약
