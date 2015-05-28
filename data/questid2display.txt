@@ -2711,32 +2711,32 @@ Meet the Hunter Guildsman to continue the test.#
 #
 
 4002#Job Chage to Hunter#SG_FEEL#QUE_NOIMAGE#
-Collect the items that the Demon Hunter says.#
-5 Wolf Claw, 5 Trunk, 3 White Herb#
+Collect 5 Wolf Claw, 5 Trunk and 3 White Herb, then report back to Demon Hunter.#
+Collecting items#
 
 4003#Job Change to Hunter#SG_FEEL#QUE_NOIMAGE#
-Collect the items that the Demon Hunter says.#
-3 Bill of Birds, 5 Skel-bone, 3 Green Herbs#
+Collect 3 Bill of Birds, 5 Skel-bone and 3 Green Herb, then report back to Demon Hunter.#
+Collecting items#
 
 4004#Job Change to Hunter#SG_FEEL#QUE_NOIMAGE#
-Collect the items that the Demon Hunter says.#
-3 Venom Canine, 3 Animal Skin, 5 Red Herb#
+Collect 3 Venom Canine, 3 Animal Skin and 5 Red Herb, then report back to Demon Hunter.#
+Collecting items#
 
 4005#Job Change to Hunter#SG_FEEL#QUE_NOIMAGE#
-Collect the items that the Demon Hunter says.#
-3 Dokkaebi Horn, 3 Pieces of Egg Shell, 10 Fluff#
+Collect 3 Dokkaebi Horn, 3 Pieces of Egg Shell and 10 Fluff, then report back to Demon Hunter.#
+Collecting items#
 
 4006#Job Change to Hunter#SG_FEEL#QUE_NOIMAGE#
-Collect the items that the Demon Hunter says.#
-9 Shell, 9 Worm Peeling, 9 Yellow Herb#
+Collect 9 Shell, 9 Worm Peeling and 9 Yellow Herb, then report back to Demon Hunter.#
+Collecting items#
 
 4007#Job Change to Hunter#SG_FEEL#QUE_NOIMAGE#
-Collect the items that the Demon Hunter says.#
-Tooth of Bat, 1 Sticky Mucus, 1 Bear's Footskin#
+Collect Tooth of Bat, 1 Sticky Mucus and 1 Bear's Footskin, then report back to Demon Hunter.#
+Collecting items#
 
 4008#Job Change to Hunter#SG_FEEL#QUE_NOIMAGE#
-Collect the items that the Demon Hunter says.#
-2 Porcupine Quill, 1 Yoyo Tail, 1 Acorn#
+Collect 2 Porcupine Quill, 1 Yoyo Tail and 1 Acorn, then report back to Demon Hunter.#
+Collecting items#
 
 4009#Job Chages to Hunter#SG_FEEL#QUE_NOIMAGE#
 Go to the Guildmaster who is in Payon Central Palace#
@@ -2747,8 +2747,8 @@ Go talk to our Guildmaster who is at the Archer Guild.#
 #
 
 4011#Job Chages to Hunter - Test#SG_FEEL#QUE_NOIMAGE#
-Kill all ^ff0000Job change monsters^000000 and the switch will appear.  Destroy the switch and escape through the exit in the direction of 12 o'clock.#
-#
+Kill all ^ff0000Job Change Monster^000000 and the switch will appear. Destroy the switch and escape through the exit in the direction of 12 o'clock.#
+Kill 'Job Change Monster'#
 
 4012#Job Chages to Hunter#SG_FEEL#QUE_NOIMAGE#
 Report to the Hunter Guild Master that you've passed the exam.#
@@ -2764,7 +2764,7 @@ Meet the inspector of the kingdom and become an advanturer appraiser#
 
 4016#Proof of Qualification#SG_FEEL##
 Prove your strength by bringing 2 Reins.#
-#
+Bring 2 Reins#
 
 4017#Qualification Test#SG_FEEL##
 Pass the aptitude test and get yourself fully qualified.#
@@ -2832,8 +2832,8 @@ The prince Ahrum is killed by Ernst. You need to report ASAP.#
 
 //-Brasilis quest
 4133#Anori's Purification Potion#SG_FEEL#QUE_NOIMAGE#
-Collect the materials to make the Purification Potion.#
-20 Hearts of Mermaids, 10 Leopard Claws, and 3 Ancient Lips.#
+Collect 20 Hearts of Mermaid, 10 Leopard Claw and 3 Ancient Lip, to make the Purification Potion.#
+Collecting materials#
 
 4134#Iara#SG_FEEL#QUE_NOIMAGE#
 The rest is omitted.#
@@ -3259,7 +3259,7 @@ Chung-Myo#
 
 //--ep14.2
 4254#Fairy with a stomache#SG_FEEL#QUE_NOIMAGE#
-Even a fairy gets a stomache¡¦ Help the fairy get some material.#
+Even a fairy gets a stomache. Help the fairy get some material.#
 10 Green Herbs#
 
 4255#Revenge!#SG_FEEL#QUE_NOIMAGE#
@@ -6323,7 +6323,7 @@ Now that you've proven yourself, hunt 10 more Stalactic Golems so that travelers
 Hunt 10 Stalactic Golems and return to Romeo in Comodo#
 
 7217#Field drops#SG_FEEL#QUE_NOIMAGE#
-Instructor Romeo asked you to bring him some materials from hunting Wootans and Dryads in the field north of the Comodo Cave.#
+Instructor Romeo asked you to bring him 5 Shoulder Protector and 7 Sharp Leaf from hunting Wootans and Dryads in the field north of the Comodo Cave.#
 Find 5 Shoulder Protector and 7 Sharp Leaf#
 
 7218#Report to Instructor Ur#SG_FEEL#QUE_NOIMAGE#
@@ -6335,8 +6335,8 @@ Near Geffen, there is an area known as Glast Heim infested with undead and ghost
 Find and speak to Johan at Glast Heim#
 
 7220#Wraith Hunt#SG_FEEL#QUE_NOIMAGE#
-Help clear out the Abbey by hunting the Wraiths inside.#
-Hunt 20 Wraiths and return to Johan outside#
+Help clear out the Abbey by hunting the Wraiths inside and return to Johan outside.#
+Hunt 20 Wraiths#
 
 7221#Evil Druid hunt#SG_FEEL#QUE_NOIMAGE#
 Another problem monster in the Abbey is the Evil Druids. Hunt them inside the Abbey and return to Johan.#
@@ -6379,7 +6379,7 @@ You can confuse these for giant balls of snow but they're actually monsters in d
 Hunt 30 Siroma monsters and return to Naomi near the cave entrance.#
 
 7231#Hunting and Gathering#SG_FEEL#QUE_NOIMAGE#
-Now that you have a feel for it, hunt 30 more Siromas and bring back some materials.#
+Now that you have a feel for it, hunt 30 more Siromas and bring back 30 Ice Cubic, 1 Sweet Sauce and 1 Milk.#
 Hunt 30 Siroma and bring 30 Ice Cubic, 1 Sweet Sauce and 1 Milk to Naomi.#
 
 7232#Report to Instructor Ur#SG_FEEL#QUE_NOIMAGE#
