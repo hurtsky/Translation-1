@@ -10899,6 +10899,8 @@
 20304#Costume_Raccoon_Hat#
 20305#Costume_Nettie_Heart_Bubblegum#
 20307#Costume_Beginner_Cap#
+20329#Costume_Very_Cute_Doll_Hat#
+20330#Costume_Sombrero#
 20500#Costume_Archangel_Wing#
 20700#Aegir_Mantle#
 20701#Solar_Manteau#

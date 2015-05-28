@@ -35659,7 +35659,7 @@ A black powder that explodes when heated. It's more explosive than gunpowder.
 Weight: ^7777770.1^000000
 #
 6214#
-A snow-white powder. It's so light that it	stays in the air for a long time. Do not breathe it in or it can be fatal.
+A snow-white powder. It's so light that it stays in the air for a long time. Do not breathe it in or it can be fatal.
 Weight: ^7777770.1^000000
 #
 6215#
@@ -42052,7 +42052,7 @@ Upon seeing all the sites and sights in Kunlun the Rune Midgard Tour Agency has 
 Upon seeing all the sites and sights in Louyang the Rune Midgard Tour Agency has stamped this photo album with their official seal.
 #
 7537#
-Upon seeing all the sites and sights in Ayothaya the Rune Midgard Tour Agency has stamped this	photo album with their official seal.
+Upon seeing all the sites and sights in Ayothaya the Rune Midgard Tour Agency has stamped this photo album with their official seal.
 #
 7538#
 Fine sand of higher level of process which is filtered from the normal sand. It is used for the patching up of buildings.
@@ -50321,8 +50321,8 @@ Weight: ^7777771^000000
 #
 12815#
 Dust from the sacred tree Yggdrasil. Even as dust, this seems to be useful for meditation.
-Cures effect of ^000088Stone, Dark, Curse, Poison, Decrease Agility, Reverse Orcish^000000.
-5 second cool time.
+Cures effect of ^000088Stone Curse, Blind, Curse, Poison, Decrease Agility, Reverse Orcish^000000.
+5 second cooldown time.
 Weight: ^7777771^000000
 #
 12816#
@@ -66835,7 +66835,7 @@ Class: ^777777Headgear^000000
 Defense: ^7777773^000000
 Location: ^777777Upper^000000
 Weight: ^77777710^000000
-Required Level	: ^7777771^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 ^FFFFFF_^000000
 Weight: ^7777771^000000
@@ -69042,7 +69042,7 @@ STR +1, INT +1, MDEF +3,
 Increases resistance to ^0000BBWater^000000 property by 7%.
 When killing monsters, has a low chance of dropping Buche De Noel or Candy Canes.
 When dealing physical or magical damage, has a low chance of activating Lv 1 Frost Joker.
-If refined to	8, activates Lv 5 Frost Joker.
+If refined to 8, activates Lv 5 Frost Joker.
 Class: ^777777Headgear^000000
 Defense: ^7777774^000000
 Location: ^777777Upper^000000
@@ -70560,7 +70560,7 @@ Jobs: ^777777SwordmanClass/acolyteClass/merchantClass^000000
 Weight: ^7777771^000000
 #
 16748#
-a box that has	butter fish (7 days rental)
+a box that has butter fish (7 days rental)
 ^000088Rental Item^000000
 A high quality fish that is being used as a club since it is frozen solid.
 When melee Attacking, it casts stun or autocasts bash level 5 (If higher level of Bash is learned uses that level instead.)
@@ -72352,13 +72352,13 @@ Weight: ^7777771^000000
 #
 17278#
 ^ff0000Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
-Contains 50 ASPD Potion and 100 Red Booster Box . Contains 11 Golden Treasure Box.
+Contains 50 ASPD Potion and 100 Red Booster Box. Contains 11 Golden Treasure Box.
 ^ff0000Opening this item will withdraw any offers available..^000000
 Weight: ^7777771^000000
 #
 17279#
 ^ff0000Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
-Contains 100 ASPD Potion and 200 Red Booster Box and	Contains 23 Golden Treasure Box
+Contains 100 ASPD Potion and 200 Red Booster Box and Contains 23 Golden Treasure Box
 ^ff0000Opening this item will withdraw any offers available..^000000
 Weight: ^7777771^000000
 #
@@ -72957,14 +72957,14 @@ A consumable item to use the Mechanic Magic Gear Skill, Arm's Cannon.
 Class: ^777777Cannonball^000000
 Attack: ^777777120^000000
 Weight: ^7777771^000000
-Property	: ^777777shadow^000000
+Property: ^777777shadow^000000
 #
 18003#
 A consumable item to use the Mechanic Magic Gear Skill, Arm's Cannon.
 Class: ^777777Cannonball^000000
 Attack: ^777777120^000000
 Weight: ^7777771^000000
-Property	: ^777777Ghost^000000
+Property: ^777777Ghost^000000
 #
 18004#
 A consumable item to use the Mechanic Magic Gear Skill, Arm's Cannon.
@@ -85186,6 +85186,24 @@ Increase healing received and restoration items by 10%.
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Lower^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20329#
+Nothin you need to worry in the World when wearing this on your head.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20330#
+A traditional Mexican hat with a wide, round brim.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000

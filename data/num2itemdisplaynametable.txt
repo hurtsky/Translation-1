@@ -10899,6 +10899,8 @@
 20304#Hat#
 20305#Accessory#
 20307#Hat#
+20329#Hat#
+20330#Hat#
 20500#Garment#
 20700#Garment#
 20701#Garment#
