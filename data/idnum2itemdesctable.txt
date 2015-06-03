@@ -13254,7 +13254,7 @@ MaxHP +150, MDEF +2.
 ^FFFFFF_^000000
 [+^008800Combat Boots and Commander's Manteau^000000]
 DEX +3, MaxHP +12%.
-Reduces long ranged Damage by 10% and cast delay by 25%.
+Reduces long range attack Damage by 10% and cast delay by 25%.
 Increases damage from all non-Demihuman monsters times 3.
 Class: ^777777Armor^000000
 Defense: ^77777735^000000
@@ -13269,7 +13269,7 @@ MaxHP +150, MDEF +2.
 ^FFFFFF_^000000
 [+^008800Battle Boots and Sheriff's Manteau^000000]
 DEX +3, MaxHP +12%.
-Reduces long ranged Damage by 10% and cast delay by 25%.
+Reduces long range attack Damage by 10% and cast delay by 25%.
 Increases damage from all non-Demihuman monsters times 3.
 Class: ^777777Armor^000000
 Defense: ^77777725^000000
@@ -25461,20 +25461,14 @@ Weight: ^77777720^000000
 Jobs: ^777777All except Novice^000000
 #
 5002#
-This crown, adorned
-with precious gems,
-is generally worn by
-monarchs as a symbol
-of their rule. INT +2,
-LUK +1, MDEF +3
+This crown, adorned with precious gems, is generally worn by monarchs as a symbol of their rule.
+INT +2, LUK +1, MDEF +3
 Class: ^777777Headgear^000000
 Defense: ^7777779^000000
 Location: ^777777Upper^000000
 Weight: ^77777760^000000
 Required Level: ^77777760^000000
-Jobs: ^777777Swordman,
-Merchant, and
-Thief Classes^000000
+Jobs: ^777777Swordman, Merchant and Thief Classes^000000
 #
 5003#
 A comical hat worn by
@@ -25488,9 +25482,7 @@ Weight: ^77777710^000000
 Jobs: ^777777All except Novice^000000
 #
 5004#
-Ideal for situations
-is poisonous or polluted, this mask supplies pure
-oxygen to its wearer.
+Ideal for situations is poisonous or polluted, this mask supplies pure oxygen to its wearer.
 Increases resistance to the ^FF0000Poison^000000 status by 20%.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
@@ -25499,10 +25491,8 @@ Weight: ^77777720^000000
 Jobs: ^777777All except Novice^000000
 #
 5005#
-A special mask that
-filters out poisons
-from the air. Increases resistance against the
-^FF0000Poison^000000 status by 30%.
+A special mask that filters out poisons from the air.
+Increases resistance against the ^FF0000Poison^000000 status by 30%.
 Class: ^777777Headgear^000000
 Defense: ^7777771^000000
 Location: ^777777Middle, Lower^000000
@@ -25518,10 +25508,9 @@ Weight: ^77777710^000000
 Jobs: ^777777All except Novice^000000
 #
 5007#
-An exquisitely made
-circlet, typically worn by rulers or gentry.
-STR +1 , INT +1
-LUK +1 , MDEF +4
+An exquisitely made circlet, typically worn by rulers or gentry.
+STR +1, INT +1,
+LUK +1, MDEF +4.
 Class: ^777777Headgear^000000
 Defense: ^7777777^000000
 Location: ^777777Upper^000000
@@ -25530,9 +25519,7 @@ Required Level: ^77777755^000000
 Jobs: ^777777All except Novice^000000
 #
 5008#
-A wreath of
-wildflowers made
-by a woman in love.
+A wreath of wildflowers made by a woman in love.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
@@ -25540,10 +25527,9 @@ Weight: ^77777710^000000
 Jobs: ^777777All except Novice^000000
 #
 5009#
-A durable safety helmet created to offer some
-protection from accidents. Indestructible (except
-in upgrade attempts).
+A durable safety helmet created to offer some protection from accidents.
 MDEF +3
+Indestructible
 Class: ^777777Headgear^000000
 Defense: ^7777777^000000
 Location: ^777777Upper^000000
@@ -25559,9 +25545,8 @@ Weight: ^77777710^000000
 Jobs: ^777777All^000000
 #
 5011#
-A mysterious object,
-possibly a device, that was discovered in the
-depths of the ocean. Nobody knows what it is.
+A mysterious object, possibly a device, that was discovered in the depths of the ocean.
+Nobody knows what it is.
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
 Location: ^777777Upper^000000
@@ -25577,13 +25562,11 @@ Weight: ^77777710^000000
 Jobs: ^777777All except Novice^000000
 #
 5013#
-A special headgear
-created specifically
-for Lord Kaho...
+A special headgear created specifically for Lord Kaho...
 Whoever he is.
-STR +5 , INT +5
-VIT +10 , AGI +10
-LUK +20 , MDEF +10
+STR +5, INT +5,
+VIT +10, AGI +10,
+LUK +20, MDEF +10.
 Class: ^777777Headgear^000000
 Defense: ^77777730^000000
 Location: ^777777Upper^000000
@@ -25616,11 +25599,8 @@ Weight: ^77777710^000000
 Jobs: ^777777All except Novice^000000
 #
 5017#
-An incredibly heavy,
-yet almost impenetrable helmet constructed of
-bone. Increases damage
-received from Shadow
-property attacks by 15%.
+An incredibly heavy, yet almost impenetrable helmet constructed of bone.
+Increases damage received from Shadow property attacks by 15%.
 Class: ^777777Headgear^000000
 Defense: ^77777715^000000
 Location: ^777777Upper^000000
@@ -25629,9 +25609,8 @@ Required Level: ^77777770^000000
 Jobs: ^777777Swordman and Merchant^000000
 #
 5018#
-A fabulous, feathered
-hat that turns men into womanizers and women
-into manizers. AGI +1
+A fabulous, feathered hat that turns men into womanizers and women into manizers.
+AGI +1
 Class: ^777777Headgear^000000
 Defense: ^7777778^000000
 Location: ^777777Upper^000000
@@ -25639,9 +25618,8 @@ Weight: ^77777730^000000
 Jobs: ^777777Archer^000000
 #
 5019#
-A flamboyant hat worn
-only by the strongest
-of pirates. VIT +1
+A flamboyant hat worn only by the strongest of pirates.
+VIT +1
 Class: ^777777Headgear^000000
 Defense: ^77777711^000000
 Location: ^777777Upper^000000
@@ -25661,7 +25639,7 @@ Jobs: ^777777All^000000
 Head Gear telling the sad story of an unfortunate merchant who have lost everything.
 It will make its wearer sad and in a down mood.
 However,it will also increase the wearer urge to find more treasure.
-INT +1 , DEX +1
+INT +1, DEX +1
 Class: ^777777Headgear^000000
 Defense: ^7777778^000000
 Location: ^777777Upper^000000
@@ -25680,10 +25658,7 @@ Weight: ^777777240^000000
 Jobs: ^7777772nd Classes^000000
 #
 5023#
-A large piece of
-cloth, usually polka
-dotted, that is wrapped around goods which are
-then carried on the head.
+A large piece of cloth, usually polka dotted, that is wrapped around goods which are then carried on the head.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
@@ -25712,9 +25687,7 @@ Required Level: ^77777774^000000
 Jobs: ^7777772nd Classes^000000
 #
 5026#
-A hat designed to
-cool a chef's head
-in a hot kitchen.
+A hat designed to cool a chef's head in a hot kitchen.
 DEX +1
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
@@ -25726,7 +25699,7 @@ Jobs: ^777777All except Novice^000000
 5027#
 A hat that is so favorable every talented mage wishes to have one of it.
 Some might feel uncomfortable with its design but it's pretty fresh and vivid in its own way.
-INT +2, SP +150
+INT +2, MaxSP +150
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
 Location: ^777777Upper^000000
@@ -25836,7 +25809,7 @@ Jobs: ^777777All except Novice^000000
 #
 5039#
 A mysteriously colorful egg shell.
-It is Unrefineable this item.
+Unrefineable
 Class: ^777777Headgear^000000
 Defense: ^7777778^000000
 Location: ^777777Upper^000000
@@ -25891,7 +25864,7 @@ Jobs: ^777777All^000000
 5045#
 A hat worn by magicians. Rabbits are usually pulled out of this hat.
 Pretty stout, it won't be destroyed easily.
-DEX +1 , AGI +1 , SP +50
+DEX +1, AGI +1, MaxSP +50
 Class: ^777777Headgear^000000
 Defense: ^7777776^000000
 Location: ^777777Upper^000000
@@ -26075,7 +26048,7 @@ Jobs: ^777777All^000000
 #
 5065#
 A headgear which looks just like a scrumptious fish. It even has the same smell!
-Increase 10 % damage against Fish monsters.
+Increase 10% damage against Fish monsters.
 Class: ^777777Headgear^000000
 Defense: ^7777774^000000
 Location: ^777777Upper^000000
@@ -26085,8 +26058,7 @@ Jobs: ^777777All^000000
 #
 5066#
 A headgear which resembles the horns of Succubus.
-INT +1
-MDEF +10
+INT +1, MDEF +10
 Class: ^777777Headgear^000000
 Defense: ^7777777^000000
 Location: ^777777Upper^000000
@@ -26116,8 +26088,7 @@ Jobs: ^777777All^000000
 #
 5069#
 A mask rumored to have been worn by certain assassins in order to hide themselves.
-AGI +1
-LUK +1
+AGI +1, LUK +1
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
 Location: ^777777Upper^000000
@@ -26147,8 +26118,7 @@ Jobs: ^777777All except Novice^000000
 #
 5072#
 A headgear which resembles the horns of Incubus.
-AGI +1
-MDEF +10
+AGI +1, MDEF +10
 Class: ^777777Headgear^000000
 Defense: ^7777777^000000
 Location: ^777777Upper^000000
@@ -26234,7 +26204,7 @@ Jobs: ^777777All^000000
 #
 5081#
 A crown which is made after the one worn by Mistress.
-INT +2, SP +100
+INT +2, MaxSP +100
 Indestructible
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
@@ -26343,12 +26313,11 @@ Defense: ^7777775^000000
 Location: ^777777Upper, Middle^000000
 Weight: ^77777730^000000
 Required Level: ^77777765^000000
-Jobs: ^777777Priest and
-Assassin^000000
+Jobs: ^777777Priest and Assassin^000000
 #
 5093#
 A tight-fitting cap worn under a veil, usually worn by nuns.
-SP +100
+MaxSP +100
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
 Location: ^777777Upper, Middle^000000
@@ -26358,8 +26327,8 @@ Jobs: ^777777Priest and
 Assassin^000000
 #
 5094#
-A headgear bestowed
-only to true Orc Heroes. STR +2, VIT +1
+A headgear bestowed only to true Orc Heroes.
+STR +2, VIT +1
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
 Location: ^777777Upper, Middle^000000
@@ -26383,8 +26352,7 @@ Defense: ^7777771^000000
 Location: ^777777Lower^000000
 Weight: ^77777710^000000
 Required Level: ^77777770^000000
-Jobs: ^777777Priest and
-Assassin^000000
+Jobs: ^777777Priest and Assassin^000000
 #
 5097#
 A festive party
@@ -26451,8 +26419,7 @@ Weight: ^77777710^000000
 Jobs: ^777777All^000000
 #
 5103#
-A hairpin adorned
-with a sunflower.
+A hairpin adorned with a sunflower.
 AGI +2, CRIT +5%
 Unrefineable.
 Class: ^777777Headgear^000000
@@ -26817,7 +26784,7 @@ Jobs: ^777777All except Novice^000000
 5129#
 A mysterious bird's nest that makes the wearer feel like flying.
 AGI +2
-Adds10% tolerance to the Animal monsters.
+Adds 10% tolerance to the Brute monsters.
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
 Location: ^777777Upper^000000
@@ -26835,7 +26802,7 @@ Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required level: ^7777775^000000
-Jobs: ^777777Class 2 (normal and extend)^000000
+Jobs: ^7777772nd classes^000000
 #
 5131#
 An iron mask that covers the whole face. By covering the whole face, it can protect the wearer from critical attacks. It helps to improve defense.
@@ -26850,7 +26817,7 @@ Jobs: ^777777Swordman^000000
 5132#
 A hat, made especially to look like a certain monster that looks like an angel, but it hates the whole human race.
 Reduce damage taken from DemiHuman monster by 10%.
-You can't upgrade this item.
+Unrefineable.
 Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
 Defense: ^7777775^000000
@@ -26922,7 +26889,7 @@ Defense: ^7777773^000000
 Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^77777730^000000
-Jobs: ^777777Magician Class/Soul Linker^000000
+Jobs: ^777777Mage and Soul Linker^000000
 #
 5139#
 A flower said to be as beautiful as a fairy in a far east country, and usually used as a medicinal herb.
@@ -26964,8 +26931,7 @@ Defense: ^77777720^000000
 Location: ^777777Upper, Middle^000000
 Weight: ^777777300^000000
 Required Level: ^77777750^000000
-Jobs: ^777777Swordman and
-Merchant Class^000000
+Jobs: ^777777Swordman and Merchant^000000
 #
 5143#
 A traditional hat that is mainly worn in plays performed in a far east country.
@@ -27604,8 +27570,8 @@ Jobs: ^777777All^000000
 A cute and romantic white flower that is fashionable and functional at the same time.
 Increases defense against Plant monsters by 3%.
 Class: ^777777Headgear^000000
-Location: ^777777Lower^000000
 Defense: ^7777770^000000
+Location: ^777777Lower^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All except Novice^000000
@@ -28543,13 +28509,8 @@ Required Level: ^77777730^000000
 Jobs: ^777777All^000000
 #
 5292#
-A helmet made from
-a dragon's skull that
-provides protection
-against dragons.
-Decreases damage
-from Dragon Class
-monsters by 5%.
+A helmet made from a dragon's skull that provides protection against dragons.
+Decreases damage received from Dragon monsters by 5%.
 Class: ^777777Headgear^000000
 Defense: ^77777710^000000
 Location: ^777777Upper^000000
@@ -28558,19 +28519,11 @@ Required Level: ^77777750^000000
 Jobs: ^777777All^000000
 #
 5293#
-Delicious noodles
-worn on the head that
-can be eaten when food
-is especially scarce.
-There's nothing like
-a good bowl of ramen.
-Nothing. DEX +4.
+Delicious noodles worn on the head that can be eaten when food is especially scarce.
+There's nothing like a good bowl of ramen.
+DEX +4.
+Has a chance to auto-cast Level 1 Decrease AGI every time the wearer is attacked.
 Unrefineable.
-Has a chance to
-auto-cast Level 1 DEX -
-Decrease each
-time the wearer
-is attacked.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
 Location: ^777777Upper^000000
@@ -28579,11 +28532,9 @@ Required Level: ^77777730^000000
 Jobs: ^777777All^000000
 #
 5294#
-A mask shaped like
-a Whisper that feels like its always massaging
-your face so it ^333333might^000000 be good for your skin.
-AGI +3. Increase
-Ghost damage by 10%.
+A mask shaped like a Whisper that feels like its always massaging your face so it ^333333might^000000 be good for your skin.
+AGI +3.
+Increase damage received from Ghost property attack by 10%.
 Unrefineable.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
@@ -28613,7 +28564,7 @@ Jobs: ^777777All^000000
 5297#
 The mysterious wing which is floating above the head.
 All Stats +1
-Recovery SP +2 per 10 seconds.
+Recover SP by 2 per 10 seconds.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
 Location: ^777777Upper^000000
@@ -28632,7 +28583,7 @@ Jobs: ^777777All^000000
 #
 5299#
 A helm that is made and mixed from various types of rings.
-When receiving any physical attack,Autospell screaming Lv1 activates at a low rate.
+When receiving any physical attack, Autospell screaming Lv1 activates at a low rate.
 Class: ^777777Headgear^000000
 Defense: ^7777771^000000
 Location: ^777777Upper, Middle, Lower^000000
@@ -28640,7 +28591,7 @@ Weight: ^77777710^000000
 Jobs: ^777777All^000000
 #
 5300#
-Fighter hat of legend that was decorated with an emerald.Only the truly brave can wear it.
+Fighter hat of legend that was decorated with an emerald. Only the truly brave can wear it.
 MaxHP +100
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
@@ -28701,7 +28652,7 @@ Crown of Goddess Freyja. Transparent crystal in the middle shines in various col
 Reduces damage from DemiHuman monster by 5%.
 Unrefineable.
 Class: ^777777Headgear^000000
-Defense: ^7777773^000000
+Defense: ^77777720^000000
 Location: ^777777Upper^000000
 Weight: ^77777750^000000
 Jobs: ^777777All except Novice^000000
@@ -28711,7 +28662,7 @@ A hat made with tropical fruits. It looks delicious.
 MDEF +3
 Auto casts Charming Wink with low chance when attacked.
 Class: ^777777Headgear^000000
-Defense: ^7777773^000000
+Defense: ^77777710^000000
 Location: ^777777Upper^000000
 Weight: ^77777740^000000
 Jobs: ^777777All^000000
@@ -31743,7 +31694,7 @@ Jobs: ^777777All^000000
 Ear adornments that symbolize rebirth. They have the ability to change its effects depending on the job of the wearer.
 If worn by a Swordman, Merchant, Thief or Taekwon Classes, ASPD +1.
 If worn by a Mage, Acolyte, Ninja or Soul Linker Classes, MATK +5, Heal effectiveness +2%.
-If worn by Archer or Gunslingeres, Long ranged damage +2%.
+If worn by Archer or Gunslingeres, Long range attack damage +2%.
 If worn by Novice Class, MaxHP +120, MaxSP +60.
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
@@ -33061,7 +33012,7 @@ Jobs: ^777777Arch Bishop^000000
 5748#
 A specially designed goggle for snipers.
 DEX +1, AGI +1, MDEF +5.
-When pure AGI is 120, long range physical attack +4%, ASPD +1.
+When base AGI is 120 or higher, long range physical attack +4%, ASPD +1.
 Class: ^777777Headgear^000000
 Defense: ^77777712^000000
 Location: ^777777Upper, Middle^000000
@@ -34262,7 +34213,7 @@ The golden falcon is a sign of destiny and will protect its ower from evil force
 It has been worn by a brave woman. The power of this circet makes you feel very brave.
 +5% resistance against Neutral attacks.
 +5% resistance against Dragon monsters.
-Creates a chance of casting Level 9 Kyrie Eleison when you receive Physical damage.
+Creates a chance of casting Kyrie Eleison when you receive Physical damage.
 All stats +5. Consumes 400 HP every 4 seconds.
 Indestructible.
 Class: ^777777Headgear^000000
@@ -34277,7 +34228,7 @@ This diadem has been worn by a heroic woman. The legend says she had supernatura
 You can feel a strong magic flow when wearing it.
 +5% resistance against Neutral attacks.
 +5% resistance against Dragon monsters.
-Creates a chance of casting Level 8 Endure when you receive Physical damage.
+Creates a chance of casting Endure when you receive Physical damage.
 All stats +5. Consumes 300 HP every 4 seconds.
 Indestructible.
 Class: ^777777Headgear^000000
@@ -34308,6 +34259,18 @@ Defense: ^7777777^000000
 Location: ^777777Upper^000000
 Weight: ^77777720^000000
 Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+5881#
+Yummy beer made of wheat and yeast. A secret recipe has been developed for hundreds of years.
+Note: You can be drunken because its taste is so so good!
+MaxHP +3%, MaxSP +3%, DEX -10.
+With more than 6 refine level, MaxHP +5%, MaxSP +5%, DEX -5.
+When equipped, you're doing someething strange because you're drunken.
+Class: ^777777Headgear^000000
+Defense: ^7777774^000000
+Location: ^777777Upper^000000
+Weight: ^77777730^000000
 Jobs: ^777777All^000000
 #
 5887#
@@ -34396,7 +34359,7 @@ Jobs: ^777777Royal Guard^000000
 A green beret that helps the user to refocus their energy into more meaningful attacks. The star on the front is inscribed with the character for 'Dragon'.
 When the Dragon Combo is used, autocast Fallen Empire Level 1(if learned, autocast the acquired Level)
 If upgraded to +7 or higher, when Physical attacking, ASPD +2 for 5 sec with 3% chance.
-If upgraded to +9 or higher,, Increase Fallen Empire damage by 30%.
+If upgraded to +9 or higher, Increase Fallen Empire damage by 30%.
 Class: ^777777Headgear^000000
 Defense: ^77777710^000000
 Location: ^777777Upper^000000
@@ -48013,7 +47976,7 @@ Weight: ^77777730^000000
 A pie covered with sweet chocolate. This isn't pretty but the taste is excellent. It reminds you of the taste of homemade pie.
 ^000088HP & SP recovery +5%.^000000
 ^FFFFFF_^000000
-Weight: ^77777730^000000
+Weight: ^7777775^000000
 #
 12323#
 An enchanted fly's wing that instantly sends its user to a random spot when waved in the air. ^000088Instant teleport.^000000
@@ -77265,7 +77228,6 @@ Jobs: ^777777All^000000
 18886#
 A seven colored hat shaped like an octopus. Watch out! It is really dangerous.
 VIT +2, DEX +2.
-All stats +3, MaxHP +10%, MaxSP +10%.
 Unrefineable, Indestructible.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
@@ -77294,7 +77256,7 @@ You can wear it when you want to look sexy.
 Sexiness increases by 100%
 INT +5 LUK +5 ATK +2% MATK +5%
 If refined to 9, increase ATK and MATK by 4%
-If refined to 12, reduce fix casting time by 10%
+If refined to 12, reduce fixed casting time by 10%
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
 Location: ^777777Upper^000000
@@ -77308,7 +77270,7 @@ You can wear it when you want to look sexy.
 Sexiness increases by 100%
 AGI +5, LUK +5, ATK +5%
 If refined to 9, increase ATK and MATK by 5%
-If refined to 12, reduce fix casting time by 10%
+If refined to 12, reduce fixed casting time by 10%
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
 Location: ^777777Upper^000000
@@ -77322,7 +77284,7 @@ You can wear it when you want to look sexy.
 Sexiness increases by 100%
 INT +5, LUK +5, ATK +2%, MATK +5%
 If refined to 9, ATK and MATK increase 4%.
-If refined to 12, decrease stat casting time 10%
+If refined to 12, decrease fixed casting time by 10%
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
 Location: ^777777Upper^000000
@@ -85185,7 +85147,88 @@ Increase healing received and restoration items by 10%.
 ^FF0000Cannot be traded.^000000
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20311#
+A booster developed and discovered in Juperos ruins that raise magical power. Its made from unknown material.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Middle^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20312#
+Costume made based Baron's eye.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Middle^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20313#
+Burn away as you hold this CD in our mouth.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
 Location: ^777777Lower^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20314#
+A sunglasses that give futuristic feeling.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Middle^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20315#
+A costume developed from unknown technology and magic in Juperos ruins.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Lower^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20316#
+A feather of angle that decorated into a costume, designed for Royal Guard.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20317#
+A costume with design of cyber colored cat ears.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20318#
+A costume modelled after the robot inside Charleston factory.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Middle^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20319#
+An improved booster with red color.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Middle^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -85201,6 +85244,33 @@ Jobs: ^777777All^000000
 #
 20330#
 A traditional Mexican hat with a wide, round brim.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20331#
+This hat is coming from an old soldier who used to live in the desert.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20332#
+A ribbon with pure white color.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20333#
+A costume represent the figure of family.
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
@@ -85583,7 +85653,7 @@ Bag that looks like the Homunculus Amistr.
 MDEF +10
 Adds resistance against Player +1%.
 Special Effect:
-When equipping with '[Costume] Amistr Cap', additional resistance against Player +4%
+When equipping with 'Costume Amistr Cap', additional resistance against Player +4%
 Class: ^777777Costume^000000
 Location: ^777777Garment^000000
 Weight: ^7777770^000000
@@ -90782,7 +90852,7 @@ Jobs: ^777777All^000000
 It seems that was broken in half by excessive agitation.
 STR +4.
 [^000088+ Broken Chips 02^000000]
-STR +8, INT+ 8.
+STR +8, INT +8.
 Class: ^777777Accessory^000000 
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -90793,7 +90863,7 @@ Jobs: ^777777All^000000
 It seems that was broken in half by excessive agitation.
 INT +4.
 [^000088+ Broken Chips 01^000000]
-STR +8, INT+ 8.
+STR +8, INT +8.
 Class: ^777777Accessory^000000 
 Defense: ^7777770^000000
 Weight: ^77777710^000000

@@ -16324,6 +16324,9 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 5877#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
+5881#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
 5887#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
@@ -29589,7 +29592,7 @@ Weight: ^77777730^000000
 A pie covered with sweet chocolate. This sure looks not pretty but the taste is excellent. It reminds you of the taste of homemade pie.
 ^000088HP, SP 5% Recovery.^000000
 ^FFFFFF_^000000
-Weight: ^77777730^000000
+Weight: ^7777775^000000
 #
 12323#
 An enchanted fly's wing that instantly sends its user to a random spot when waved in the air. ^000088Instant teleport.^000000
@@ -53006,10 +53009,46 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 20307#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
+20311#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20312#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20313#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20314#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20315#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20316#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20317#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20318#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20319#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
 20329#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 20330#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20331#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20332#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20333#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 20500#

@@ -3009,7 +3009,7 @@
 5048#Hairband#
 5049#Hairband#
 5050#Hat#
-5051#Helm#
+5051#Hat#
 5052#Hairband#
 5053#Helm#
 5054#Mask#
@@ -3785,6 +3785,7 @@
 5875#Helm#
 5876#Hat#
 5877#Hat#
+5881#Hat#
 5887#Helm#
 5890#Hat#
 5891#Hat#
@@ -10899,8 +10900,20 @@
 20304#Hat#
 20305#Accessory#
 20307#Hat#
+20311#Accessory#
+20312#Accessory#
+20313#Accessory#
+20314#Accessory#
+20315#Accessory#
+20316#Hat#
+20317#Hat#
+20318#Accessory#
+20319#Accessory#
 20329#Hat#
 20330#Hat#
+20331#Hat#
+20332#Hat#
+20333#Hat#
 20500#Garment#
 20700#Garment#
 20701#Garment#
