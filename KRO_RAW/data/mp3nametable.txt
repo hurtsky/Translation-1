@@ -1,4 +1,4 @@
-//-최종갱신 오후 3:58 2015-02-23 본서버
+//-최종갱신 오후 2:22 2015-06-02 본서버
 //맵이름.rsw#bgm\\음악번호#
 
 //--- 통상판 마을음악
@@ -34,18 +34,18 @@ hu_in01.rsw#bgm\\93.mp3#
 //evt_mobroom.rsw#bgm\\18.mp3#
 
 // ep16.1 영웅을 위한 연회 + 프론테라 리뉴얼
-1@mir.rsw#bgm\\10.mp3#
+1@mir.rsw#bgm\\166.mp3#
 2@mir.rsw#bgm\\10.mp3#
-1@sthb.rsw#bgm\\120.mp3#
-1@sthc.rsw#bgm\\120.mp3#
-1@sthd.rsw#bgm\\120.mp3#
+1@sthb.rsw#bgm\\165.mp3#
+1@sthc.rsw#bgm\\165.mp3#
+1@sthd.rsw#bgm\\165.mp3#
 prt_lib.rsw#bgm\\10.mp3#
 prt_lib_q.rsw#bgm\\10.mp3#
 prt_cas.rsw#bgm\\09.mp3#
 prt_cas_q.rsw#bgm\\09.mp3#
 prt_pri00.rsw#bgm\\09.mp3#
 prt_prison.rsw#bgm\\125.mp3#
-prt_q.rsw#bgm\\112.mp3#
+prt_q.rsw#bgm\\167.mp3#
 
 
 //MD 무한, 클랜
