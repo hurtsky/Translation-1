@@ -285,7 +285,7 @@ Skill Tree#
 Skill Point: %d#
 Skill has failed.#
 Passive#
-Each Take#
+Each Take #
 Even Share#
 Each Take#
 Party Share#
@@ -1533,7 +1533,7 @@ Cannot be used anymore.#
 Party delegation#
 Do you want to delegate the real party?#
 Party cannot be delegated.#
-Immutable#
+Can't be changed because of level gap#
 [%s] required '%d' amount.#
 Is now refining the value lowered.#
 Need to put on [%s] in order to use.#
