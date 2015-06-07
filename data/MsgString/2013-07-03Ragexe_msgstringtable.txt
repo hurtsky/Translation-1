@@ -1611,8 +1611,8 @@ You dropped %s (%d).#
 [%s] Quest - defeated [%s] progress (%d/%d)#
 The Quest %s has been removed.#
 [%s] has #
-You acquired '%d' Experience Points#
-You acquired '%d' Job Experience Points#
+%d Base Experience#
+%d Job Experience#
  gained.#
  has lost.#
 From [%s], '%d' coins were stolen.#
