@@ -2327,7 +2327,7 @@ $$lv#
 $$all#
 Confirm Deal#
 Below is the total cost:#
- Zeny to complete the transaction.#
+ Zeny#
 Press buy to confirm.#
 %.1f%% (PCRoom %.1f%% + TPLUS %.1f%% + Premium %.1f%% + %sServer %.1f%%)#
 Card Book#
