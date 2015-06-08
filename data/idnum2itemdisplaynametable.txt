@@ -530,7 +530,7 @@
 1192#Eden_Slayer_I#
 1193#Eden_Slayer_II#
 1194#Rental_Executioner#
-1196#Two-Handed_Chrome_Metal_Sword#
+1196#Chrome_Metal_Two-Handed_Sword#
 1197#Eden_Slayer_III#
 1198#Hairtail#
 1201#Knife#
@@ -10108,6 +10108,9 @@
 19053#Fighter_Moon_Cat_Hat#
 19080#Nettie_Heart_Bubblegum#
 19081#Faceworm_Egg_Shell#
+19085#Sigrun_Wing#
+19086#Robo_Eye#
+19087#Angel_Spirit#
 19377#Shiny_Marinade_Beef#
 19378#Chile_Shrimp_Gratin#
 19379#Red_Mushroom_Wine#

@@ -10108,6 +10108,9 @@
 19053#Hat#
 19080#Accessory#
 19081#Hat#
+19085#Accessory#
+19086#Glasses#
+19087#Accessory#
 19377#Shiny_Marinade_Beef#
 19378#Chile_Shrimp_Gratin#
 19379#Red_Mushroom_Wine#

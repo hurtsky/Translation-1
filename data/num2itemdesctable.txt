@@ -50529,6 +50529,15 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 19081#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
+19085#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+19086#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+19087#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
 19377#
 A marinated beef dish
 whose spendorous

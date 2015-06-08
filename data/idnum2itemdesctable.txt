@@ -3106,7 +3106,7 @@ Jobs: ^777777Knight and Crusader^000000
 An oriental sword named after a legendary Japanese swordsmith.
 Has a low chance of cursing its wielder.
 CRIT +30, ASPD +8%
-Class: ^777777Two Handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777204^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
@@ -3259,7 +3259,7 @@ Perfect Dodge +20
 Has a chance of inflicting Hell Power on the user or target while physically attacking.
 Has a chance of giving 100% damage to all monsters within the area of 11x11 cells around itself and recovers 100% of HP.
 If Refine level is over 8, it exerts the power to monsters within 15x15 cells and gives 200% damage while it recovers HP.
-Class: ^777777Two Handed Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777200^000000
 Weight: ^777777200^000000
 Weapon Level: ^7777774^000000
@@ -3274,7 +3274,7 @@ Ignore 25% physical defense of Demihuman monster.
 +9 Upgrade: When physically attacking, has a chance of casting
 Level 1 [Concenctration] and Level 1[Aura Blade].
 *If a higher level of either spell has been learned, the corresponding level is activated.
-Class: ^777777Twohand Sword^000000
+Class: ^777777Two-Handed Sword^000000
 Attack: ^777777220^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
@@ -27639,7 +27639,7 @@ Jobs: ^777777All^000000
 It seems like one can receive the signal from another planet when you are wearing it. However, it's just merely a feel. The vision of wearer seems to be wider with it.
 MaxHP +50, MaxSP +10
 Enables use of Level 1 Ruwach.
-Class: 777777Headgear^000000
+Class: ^777777Headgear^000000
 Defense: ^7777776^000000
 Location: ^777777Upper^000000
 Weight: ^777777100^000000
@@ -29514,12 +29514,12 @@ Jobs: ^777777All^000000
 #
 5389#
 A golden mask rumored to be worn by some ancient Goddess.
-ATK and MATK +2%, STR +2
+HIT +15, STR +2
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
-Weight: ^77777730^000000
-Required Level: ^77777730^000000
+Weight: ^77777720^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 5390#
@@ -74336,14 +74336,30 @@ A grotesque headgear which covers a half of a person's face. But don't you worry
 All Stats +1.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
-Location: ^777777Medium ^000000
+Location: ^777777Middle^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 18604#
+Mask in the shape of a king of the brave Falcon sky.
+Additional physical damage 5% in water type monster.
+Class: ^777777Headgear^000000
+Defense: ^7777770^000000
+Location: ^777777Middle, Lower^000000
+Weight: ^77777750^000000
+Jobs: ^777777All^000000
 #
 18605#
+Hat of black feathers made by the power of demons who to bless the arrival of the Dark Ages.
+MDEF +3.
+Grant Shadow property to the weapon when received physical attack.
+increase +10% of damage received from Holy and angel monsters.
+Class: ^777777Headgear^000000
+Defense: ^7777773^000000
+Location: ^777777Upper^000000
+Weight: ^77777720^000000
+Jobs: ^777777All^000000
 #
 18606#
 #
@@ -74377,7 +74393,8 @@ Jobs: ^777777All except Novice^000000
 18610#
 #
 18611#
-Dark-colored plastic framed glasses, great for looking retro and intelligent! INT +1, MDEF +2.
+Dark-colored plastic framed glasses, great for looking retro and intelligent!
+INT +1, MDEF +2.
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
 Location: ^777777Middle^000000
@@ -74390,8 +74407,8 @@ A headgear worn by a Warrior of a fighting order. These Warriors in White tend t
 STR +2, VIT +2, LUK +1
 Cannot be Damaged
 Class: ^777777Headgear^000000
-Location: ^777777Upper^000000
 Defense: ^7777773^000000
+Location: ^777777Upper^000000
 Weight: ^77777740^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -74401,8 +74418,8 @@ A headgear worn by a teacher of a fighting order. These Warriors in Black tend t
 INT +2, DEX +2, AGI +1
 Cannot be Damaged
 Class: ^777777Headgear^000000
-Location: ^777777Upper^000000
 Defense: ^7777773^000000
+Location: ^777777Upper^000000
 Weight: ^77777740^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -74411,8 +74428,8 @@ Jobs: ^777777All^000000
 This Spooky mask of Death. You are too freaked out to put it actually over your face so for now you wear it as a hat.
 Adds +3 to Flee while worn.
 Class: ^777777Headgear^000000
-Location: ^777777Upper^000000
 Defense: ^7777772^000000
+Location: ^777777Upper^000000
 Weight: ^77777720^000000
 Required Level: ^77777720^000000
 Jobs: ^777777All^000000
@@ -74420,8 +74437,8 @@ Jobs: ^777777All^000000
 18615#
 A patch that protects a single eye socket.
 Class: ^777777Headgear^000000
-Location: ^777777Middle^000000
 Defense: ^7777772^000000
+Location: ^777777Middle^000000
 Weight: ^77777720^000000
 Required Level: ^77777720^000000
 Jobs: ^777777All except Novice^000000
@@ -74430,8 +74447,8 @@ Jobs: ^777777All except Novice^000000
 Your parents forgot to tell you that sticking your tongue out at people was rude, and this is the result. Sometimes you just gotta be you!
 Cannot be Damaged
 Class: ^777777Headgear^000000
-Location: ^777777Lower^000000
 Defense: ^7777770^000000
+Location: ^777777Lower^000000
 Weight: ^77777720^000000
 Required Level: ^77777720^000000
 Jobs: ^777777All except Novice^000000
@@ -74440,8 +74457,8 @@ Jobs: ^777777All except Novice^000000
 Onigiri is a delicacy found only on the island nation of Amatsu. Various flavors accentuate the slightly sweet rice.
 Increases damage inflicted and decreases damage taken from monsters in the Amatsu area by 5%.
 Class: ^777777Headgear^000000
-Location: ^777777Upper^000000
 Defense: ^7777770^000000
+Location: ^777777Upper^000000
 Weight: ^77777720^000000
 Required Level: ^77777720^000000
 Jobs: ^777777All^000000
@@ -74449,8 +74466,8 @@ Jobs: ^777777All^000000
 18618#
 Look like a hunk o' burnin' love with this retro hairstyle wig.
 Class: ^777777Headgear^000000
-Location: ^777777Upper^000000
 Defense: ^7777778^000000
+Location: ^777777Upper^000000
 Weight: ^77777720^000000
 Required Level: ^77777720^000000
 Jobs: ^777777All except Novice^000000
@@ -74459,8 +74476,8 @@ Jobs: ^777777All except Novice^000000
 A bandana that can be worn to disguise yourself one of the common folk.
 Has a chance of auto-casting Gank while physically attacking.
 Class: ^777777Headgear^000000
-Location: ^777777Upper^000000
 Defense: ^7777771^000000
+Location: ^777777Upper^000000
 Weight: ^77777720^000000
 Required Level: ^77777720^000000
 Jobs: ^777777All except Novice^000000
@@ -74468,8 +74485,8 @@ Jobs: ^777777All except Novice^000000
 18620#
 An eyepatch for those who would not like to look lovelier than a pirate.
 Class: ^777777Headgear^000000
-Location: ^777777Middle^000000
 Defense: ^7777772^000000
+Location: ^777777Middle^000000
 Weight: ^7777775^000000
 Required Level: ^77777720^000000
 Jobs: ^777777All^000000
@@ -74519,7 +74536,7 @@ A dried leaf thinking of hometown.
 Increase 3% damage to plant type of monster.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
-location: ^777777lower ^000000
+Location: ^777777Lower^000000
 Weight: ^7777775^000000
 Required Level: ^77777710^000000
 Jobs: ^777777All^000000
@@ -76795,7 +76812,7 @@ Jobs: ^777777All^000000
 18843#
 Porings are having a party.
 Decrease 5% damage from human style monsters.
-Refined over 8, MaxHP +1% per 1 refinement.
+Refined to +8, MaxHP +1% per 1 refinement.
 Class: ^777777Headgear^000000
 Defense: ^7777777^000000
 Location: ^777777Upper^000000
@@ -78406,6 +78423,39 @@ Defense: ^7777772^000000
 Location: ^777777Upper^000000
 Weight: ^77777750^000000
 Required Level: ^77777730^000000
+Jobs: ^777777All^000000
+#
+19085#
+Ear adornments that symbolize rebirth. They have the ability to change its effects depending on the job of the wearer.
+If worn by a Swordman, Merchant, Thief or Taekwon Classes, ASPD +1, AGI -2.
+If worn by a Mage, Acolyte, Ninja or Soul Linker Classes, MATK +3, Heal effectiveness +1%.
+If worn by Archer or Gunslingeres, Long range attack damage +1%.
+If worn by Novice Class, MaxHP +60, MaxSP +30.
+Class: ^777777Headgear^000000
+Defense: ^7777772^000000
+Location: ^777777Middle^000000
+Weight: ^77777710^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19086#
+A weird item that spreads a strange-shaped beam around the eyes. It seems to have been made in outer space.
+ATK, MATK +1%, DEX +1
+Class: ^777777Headgear^000000
+Defense: ^7777772^000000
+Location: ^777777Middle^000000
+Weight: ^77777720^000000
+Required Level: ^77777710^000000
+Jobs: ^777777All^000000
+#
+19087#
+A golden mask rumored to be worn by some ancient Goddess.
+HIT +8, STR +1
+Class: ^777777Headgear^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^77777720^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19377#
@@ -90923,7 +90973,7 @@ Jobs: ^777777All^000000
 A glove that increase its user's portential.
 STR +2
 ATK +5%
-Class: ^777777Accessary^000000 
+Class: ^777777Accessory^000000 
 Defense: ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^777777120^000000
@@ -90933,7 +90983,7 @@ Jobs: ^777777All^000000
 A glove that increase its user's portential.
 AGI +2
 ASPD +5%
-Class: ^777777Accessary^000000 
+Class: ^777777Accessory^000000 
 Defense: ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^777777120^000000
@@ -90943,7 +90993,7 @@ Jobs: ^777777All^000000
 A glove that increase its user's portential.
 INT +2
 MATK +5%
-Class: ^777777Accessary^000000 
+Class: ^777777Accessory^000000 
 Defense: ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^777777120^000000
@@ -90953,7 +91003,7 @@ Jobs: ^777777All^000000
 A glove that increase its user's portential.
 VIT +2
 MaxHP +5%
-Class: ^777777Accessary^000000 
+Class: ^777777Accessory^000000 
 Defense: ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^777777120^000000
