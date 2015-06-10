@@ -4205,3 +4205,28 @@ StateIconList[EFST_IDs.EFST_RESIST_PROPERTY_UNDEAD] = {
 		{ "%s", COLOR_TIME }
 	}
 }
+StateIconList[EFST_IDs.EFST_PERIOD_RECEIVEITEM] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 1,
+	descript = {
+		{ "%s", COLOR_TIME },
+		{ "Increase drop rate of items by 2x" },
+		{ "when killing a monster" }
+	}
+}
+StateIconList[EFST_IDs.EFST_PERIOD_PLUSJOBEXP] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 1,
+	descript = {
+		{ "%s", COLOR_TIME },
+		{ "Obtain more Job Exp when killing a monster" }
+	}
+}
+StateIconList[EFST_IDs.EFST_PERIOD_PLUSEXP] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 1,
+	descript = {
+		{ "%s", COLOR_TIME },
+		{ "Obtain more Base Exp when killing a monster" }
+	}
+}
