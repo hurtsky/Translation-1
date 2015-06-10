@@ -4139,3 +4139,28 @@ StateIconList[EFST_IDs.EFST_RESIST_PROPERTY_UNDEAD] = {
 		{ "%s", COLOR_TIME }
 	}
 }
+StateIconList[EFST_IDs.EFST_PERIOD_RECEIVEITEM] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 1,
+	descript = {
+		{ "%s", COLOR_TIME },
+		{ "몬스터 사냥 시" },
+		{ "기본 아이템의 드롭률 2배 증가" }
+	}
+}
+StateIconList[EFST_IDs.EFST_PERIOD_PLUSJOBEXP] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 1,
+	descript = {
+		{ "%s", COLOR_TIME },
+		{ "몬스터 사냥 시 JOB 경험치 추가 획득" }
+	}
+}
+StateIconList[EFST_IDs.EFST_PERIOD_PLUSEXP] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 1,
+	descript = {
+		{ "%s", COLOR_TIME },
+		{ "획득 경험치 증가" }
+	}
+}
