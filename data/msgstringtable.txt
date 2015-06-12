@@ -144,7 +144,7 @@ Ppl#
 Congratulations! You are the MVP! Your reward item is #
 !!#
 Congratulations! You are the MVP! Your reward EXP Points are #
- acquired!#
+!!#
 You are the MVP, but you can't take the reward because you are over your weight limit.#
 There is no such character name or the user is offline.#
  doesn't want to receive your messages.#
@@ -267,7 +267,7 @@ Option#
 Account ID blocked by the Game Master Team.#
 Incorrect User ID or Password. Please try again.#
 Choose Hairstyle#
-Hit Point#
+ATK#
 DEF#
 Attack Snap On#
 Attack Snap Off#
@@ -443,7 +443,7 @@ Release Falcon#
 Dismount#
 Small#
 Medium#
-Big#
+Large#
 Double#
 Triple#
 Quadruple#
@@ -468,9 +468,9 @@ Weapon Damage is reduced.#
 Cast Delay is reduced.#
 Cast Delay has returned to normal.#
 Weapon is temporarily enchanted with Poison.#
-Weapon is temporarily enchanted with an elemental property.#
+Weapon is temporarily enchanted with Holy property.#
 Weapon has changed back to normal.#
-Armor has been enchanted with the Holy Ghost.#
+Armor has been enchanted with the Holy property.#
 Armor has changed back to normal.#
 Barrier Formed.#
 Barrier Canceled.#
@@ -499,7 +499,7 @@ Already set as an Antagonist#
 Upgrade has been completed successfully.#
 Upgrade has failed.#
 Unavailable Area to Teleport#
-Unavailable Area to Teleport#
+Unable to memorize this place as Warp Point#
 Please wait 10 seconds before trying to log out.#
 Position#
 Job#
@@ -516,7 +516,7 @@ Tax %#
 Title#
 Contents#
 Guild Name#
-Guild lvl#
+Guild Lvl#
 Guildsmen#
 Ranking#
 Item Appraisal#
@@ -580,8 +580,8 @@ Your connection is terminated to prevent charging from your account's play time.
 You have been forced to disconnect by the Game Master Team.#
 You can't use this Skill because you are over your Weight Limit.#
 Nameless#
-Congratulations! %s ranking has gone up to %d.#
-What a pity! %s ranking has gone down to %d.#
+Congratulations! %s's rank has gone up to %d.#
+What a pity! %s's rank has gone down to %d.#
 Pet Info#
 Hunger#
 Intimacy#
@@ -630,11 +630,11 @@ Signum Crusis initiated.#
 Signum Crusis canceled.#
 Slow Poison initiated.#
 Slow Poison Canceled.#
-HP/SP recovery increased.#
+SP recovery increased.#
 Magnificat canceled.#
 Luck increased.#
 Gloria canceled.#
-You will received double damage from all attacking opponents.#
+You will receive double damage from 1 attack.#
 Lex Eterna canceled.#
 Attack Speed increased.#
 Attack Speed reduced.#
@@ -658,7 +658,7 @@ Sorry. It is delayed due to the process of payment. Please re-connect in a minut
 You must unequip ammunition first.#
 Arrow List#
 Cart List#
-You must have a Pushcart.#
+You must have a cart.#
 You cannot open a Chat Window.#
 Registering an account is the first step to accessing the game. Do you want to visit the registration page now?#
 You cannot use this item while sitting.#
@@ -1638,7 +1638,7 @@ Priest#
 Wizard#
 Black Smith#
 Hunter#
-Assasin#
+Assassin#
 Crusader#
 Monk#
 Sage#
@@ -1660,7 +1660,7 @@ Sura#
 Genetic#
 Shadow Chaser#
 High Swordman#
-High Magician#
+High Mage#
 High Archer#
 High Acolyte#
 High Merchant#
@@ -1683,7 +1683,7 @@ High Novice#
 Super Novice#
 Gunslinger#
 Ninja#
-Taekwon F/M#
+Taekwon Boy/Girl#
 Star Gladiator#
 Soul Linker#
 Party Recruitment#
@@ -1931,7 +1931,7 @@ Objects can be used only near the wall.#
 %s : Level %d %s party to obtain level.#
 While boarding reins is not available for items.#
 This skill requires 1%% experience.#
-Experience value: #
+E   X   P: #
 Drop rate: #
 Death Penalty: #
 %d%% (PCcafe %d%% + TPLUS %d%% + Premium %d%% + %s Server %d%%)#
