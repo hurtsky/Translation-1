@@ -12115,7 +12115,7 @@ Compound: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4535#
-Indestructible.
+^702180Indestructible^000000
 Increases Physical Attack Strength by 5%.
 Adds a chance of autocasting Level 1 Dispell with each physical attack.
 If compounded equipment is refined to +15 and above, Increases Physical Attack Strength by 8%.
@@ -16418,6 +16418,21 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 5942#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+5966#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+5967#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+5968#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+5969#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+5970#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 6000#
@@ -40894,7 +40909,7 @@ Decrease 10% resistence against ^0000BBWater^000000 property attacks.
 Enables use of Level 1 Sight.
 Autospell Meteor Storm Level 3 by a certain chance when receiving physical attack.
 Autospell Fire Bolt Level 3 by a certain chance when dealing physical damage.
-Unrefineable.
+^FF0000Unrefineable^000000
 Class: ^777777Headgear^000000
 Defense: ^7777778^000000
 Location: ^777777Upper, Middle, Lower^000000
@@ -48032,7 +48047,7 @@ Weight: ^7777771^000000
 Box with 1 Refined Shuriken inside.
 ^FFFFFF_^000000
 Shuriken coated with Oridecon and Gold mixed at a golden ratio.
-Indestructible.
+^702180Indestructible^000000
 Increases ATK +10 / MATK +5, and long range Physical ATK by 1% per Refine level.
 Character Level 70+: ATK increases additional +5 for every BaseLv increase of 10.
 Class: ^777777Huuma Shuriken^000000
@@ -55230,6 +55245,9 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 28320#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+28321#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 28326#

@@ -3817,6 +3817,11 @@
 5938#Hat#
 5941#Hat#
 5942#Hat#
+5966#Accessory#
+5967#Accessory#
+5968#Hat#
+5969#Hat#
+5970#Helm#
 6000#Ashes_of_Darkness#
 6001#Essence_of_Fire#
 6002#Token_of_Apostle#
@@ -4474,7 +4479,7 @@
 6685#Morocc_Merit_Certificate#
 6686#Brick#
 6687#Rope#
-6688#Wood#
+6688#Timber#
 6689#Fire_Beetle_Shell#
 6690#Delicious_Stem#
 6691#Fire_Feather#
@@ -11507,6 +11512,7 @@
 28311#Accessory#
 28319#Accessory#
 28320#Accessory#
+28321#Accessory#
 28326#Accessory#
 28327#Accessory#
 28332#Accessory#
