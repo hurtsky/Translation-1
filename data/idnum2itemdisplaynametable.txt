@@ -1100,7 +1100,7 @@
 1925#Cello#
 1926#Harp_of_Nepenthes#
 1927#Glorious_Guitar#
-1928#Spirited_Guitar#
+1928#Berserk_Guitar#
 1929#Guitar#
 1930#Green_Whistle#
 1931#Eden_Guitar_I#
@@ -1213,8 +1213,8 @@
 2123#Orleans's_Server#
 2124#Thorny_Buckler#
 2125#Strong_Shield#
-2126#Guyak_Shield#
-2127#Secular_Mission#
+2126#Old_Shield#
+2127#Lion's_Slipper#
 2128#Sacred_Mission#
 2129#Exorcism_Bible#
 2130#Cross_Shield#

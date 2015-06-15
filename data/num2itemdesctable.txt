@@ -8641,7 +8641,7 @@ A low chance of auto casting Coma on Brute monsters when attacking.
 ^3CB371Green Ferus Card^000000
 DEX +5
 +5% Arrow Vulcan Damage
-+10% Melody Strike Damage
++10% Musical Strike Damage
 +10% Throw Arrow Damage
 Bard or Dancer Bonus: A low chance of auto casting level 2 Tarot Card of Fate when hit by a melee attack.
 Class: ^777777Card^000000
@@ -9316,7 +9316,7 @@ Brute monsters.
 ^3CB371Green Ferus Card^000000
 DEX +5
 +5% Arrow Vulcan Damage
-+10% Melody Strike Damage
++10% Musical Strike Damage
 +10% Throw Arrow Damage
 Bard or Dancer Bonus:
 A low chance of
@@ -9510,7 +9510,7 @@ Brute monsters.
 ^3CB371Green Ferus Card^000000
 DEX +5
 +5% Arrow Vulcan Damage
-+10% Melody Strike Damage
++10% Musical Strike Damage
 +10% Throw Arrow Damage
 Bard or Dancer Bonus:
 A low chance of
@@ -10039,7 +10039,7 @@ Brute monsters.
 ^3CB371Green Ferus Card^000000
 DEX +5
 +5% Arrow Vulcan Damage
-+10% Melody Strike Damage
++10% Musical Strike Damage
 +10% Throw Arrow Damage
 Bard or Dancer Bonus:
 A low chance of

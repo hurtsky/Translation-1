@@ -8549,7 +8549,7 @@ Jobs: ^777777Archer, Thief and Rogue^000000
 1743#
 Increase physical damage against Demihuman monster by 55%.
 Ignore 20% physical defense of Demihuman monster.
-Increases CRIT with each refine level. (But critical damages increase up to the upgrade level 10.)
+Increases CRIT with each refine level.
 ***Additional Weapon Refining Level Option***
 +6 Upgrade: Ignore physical defense of Demihuman monsters +5%, ^ff0000[Slaughter]^000000 Lv 1 (Damage bonus of Slaughter increases up to the upgrade level 14.)
 +9 Upgrade: [Double Strafe] damage +20%.
@@ -8563,8 +8563,8 @@ Jobs: ^777777Archer, Thief and Rogue^000000
 1744#
 ^000088Rental Item^000000
 The devil's bow.
-Increases 25% damage with Double Strafe skill.
 DEX +2
+Increases 25% damage with Double Strafe skill.
 Class: ^777777Bow^000000
 Attack: ^777777170^000000
 Weight: ^7777770^000000
@@ -8583,7 +8583,7 @@ Jobs: ^777777Sniper^000000
 #
 1746#
 It's made after a bow of ancient forest watching tribe.
-DEX +2.
+DEX +2
 [+^008800Elven Arrow^000000]
 Ranged damage +50%
 Class: ^777777Bow^000000
@@ -8786,9 +8786,7 @@ Weight: ^7777770.5^000000
 Property: ^777777Neutral^000000
 #
 1772#
-A metal arrow blessed
-with holy water. Inflicts 5% more damage against
-Demon race monsters.
+A metal arrow blessed with holy water. Inflicts 5% more damage against Demon race monsters.
 Class: ^777777Arrow^000000
 Attack: ^77777750^000000
 Weight: ^7777770.2^000000
@@ -8963,7 +8961,7 @@ Jobs: ^777777Priest and Monk^000000
 #
 1814#
 A claw imbued with the essense of madness.
-Increases ASPD.
+ASPD +12%
 Class: ^777777Claw^000000
 Attack: ^777777120^000000
 Weight: ^77777750^000000
@@ -8973,8 +8971,8 @@ Jobs: ^777777Priest and Monk^000000
 #
 1815#
 A blood stained weapon created from the claws of Hatii, keeper to the door the netherworld.
-Decreases MAX HP by 2%.
-Has a low chance of causing Bleeding effect to monsters in battle.
+MaxHP -2%
+Has a low chance of causing Bleeding effect to target when attacking.
 Class: ^777777Claw^000000
 Attack: ^777777152^000000
 Weight: ^77777755^000000
@@ -8985,7 +8983,7 @@ Jobs: ^777777Priest and Monk^000000
 #
 1816#
 A pair of fierce claws that possesses its wearer, compelling him to draw fresh blood.
-Greatly increases ASPD.
+ASPD +12%
 Class: ^777777Claw^000000
 Attack: ^777777120^000000
 Weight: ^77777750^000000
@@ -9075,7 +9073,7 @@ STR +2, INT +1
 Increases Physical Attack Strength towards Demihuman monsters by 95%.
 Reduces ^FF0000Asura Strike^000000 casting time by 25%.
 When attacking, and weapon awakening in consistent probability,
-Has a chance of negating ^FF0000Asura Strike^000000 Variable Casting Time 100% for 6 secs.
+Has a chance of negating ^FF0000Asura Strike^000000 variable casting time by 100% for 6 secs.
 ^702180Indestructible^000000
 Class: ^777777Claw^000000
 Attack: ^77777730^000000
@@ -9126,8 +9124,8 @@ Jobs: ^777777Priest and Monk^000000
 1828#
 ^000088Rental Item^000000
 Knuckle of monk.
-Increases 25% damage with Finger Offensive skill.
 INT +2
+Increases 25% damage with Finger Offensive skill.
 Class: ^777777Claw^000000
 Attack: ^777777150^000000
 Weight: ^7777770^000000
@@ -9146,8 +9144,9 @@ Jobs: ^777777Priest and Monk^000000
 #
 1830#
 A knuckle engraved with splendid patterns of a bronze dragon.
-20% ATK increase of Earth Shaker and Sky Net Blow. 5% SP increase in every skill use.
-1% SP decrease with every upgrade above level 6.
+Increase damage of Earth Shaker and Sky Net Blow by 20%.
+Increase SP consumption of skills by 5%.
+Each refine above +6 reduce SP consumption of skills by 1%.
 Class: ^777777Knuckle^000000
 Attack: ^777777142^000000
 Weight: ^77777750^000000
@@ -9157,6 +9156,7 @@ Jobs: ^777777Sura^000000
 #
 1831#
 A clas that is made by the Eden Group. It is suitable for those who have more advanced experience as Champions.
+^FF0000Unrefineable^000000
 Class: ^777777Claw^000000
 Attack: ^777777120^000000
 Weight: ^7777770^000000
@@ -9179,7 +9179,7 @@ Jobs: ^777777Priest and Monk^000000
 1833#
 A claw that leave beautiful wounds.
 ASPD +1
-Each refine increase 1% ASPD and 1% damage increase against medium size monsters.
+Each refine increase 1% ASPD and 1% damage against medium size monsters.
 Class: ^777777Claw^000000
 Attack: ^777777140^000000
 Weight: ^77777740^000000
@@ -9214,11 +9214,11 @@ Jobs: ^777777Priest and Monk^000000
 1836#
 This magic knuckle, made to counteract the Devil Sword Thanatos, is sculpted out of Gray Shard.
 It offers incredible power and mana at a great cost.
-INT +6, VIT +6, LUK -6.
+INT +6, VIT +6, LUK -6
+MATK +100
 Low chance to drain 5% of attack into HP and SP.
 Drains 100 HP every 10 seconds.
 Drains 1000 HP when unequipped.
-MATK +100
 Class: ^777777Knuckles^000000
 Attack: ^777777160^000000
 Weight: ^77777760^000000
@@ -9254,7 +9254,7 @@ Jobs: ^777777Priest and Monk^000000
 #
 1900#
 Violin imbued with Vicious Mind.
-MATK +50.
+MATK +50
 Increase ATK by (refine*refine).
 (up to +15 refine level)
 Increase MATK by (refine*refine)/2.
@@ -9267,9 +9267,7 @@ Required Level: ^777777160^000000
 Jobs: ^777777Bard^000000
 #
 1901#
-The classical stringed
-instrument favored by Rocker, the grasshopper
-monster who'd rather play music than do actual work.
+The classical stringed instrument favored by Rocker, the grasshopper monster who'd rather play music than do actual work.
 Class: ^777777Musical Instrument^000000
 Attack: ^77777750^000000
 Weight: ^77777770^000000
@@ -9278,9 +9276,7 @@ Required Level: ^7777772^000000
 Jobs: ^777777Bard^000000
 #
 1902#
-The classical stringed
-instrument favored by Rocker, the grasshopper
-monster who'd rather play music than do actual work.
+The classical stringed instrument favored by Rocker, the grasshopper monster who'd rather play music than do actual work.
 Class: ^777777Musical Instrument^000000
 Attack: ^77777750^000000
 Weight: ^77777770^000000
@@ -9289,9 +9285,7 @@ Required Level: ^7777772^000000
 Jobs: ^777777Bard^000000
 #
 1903#
-A small, stringed
-instrument used in
-Baroque, Classical, country and folk music.
+A small, stringed instrument used in Baroque, Classical, country and folk music.
 Class: ^777777Musical Instrument^000000
 Attack: ^77777790^000000
 Weight: ^77777740^000000
@@ -9300,9 +9294,7 @@ Required Level: ^77777714^000000
 Jobs: ^777777Bard^000000
 #
 1904#
-A small, stringed
-instrument used in
-Baroque, Classical, country and folk music.
+A small, stringed instrument used in Baroque, Classical, country and folk music.
 Class: ^777777Musical Instrument^000000
 Attack: ^77777790^000000
 Weight: ^77777740^000000
@@ -9311,9 +9303,7 @@ Required Level: ^77777714^000000
 Jobs: ^777777Bard^000000
 #
 1905#
-A classical plucked
-string instrument that
-is incredibly difficult to tune and adjust.
+A classical plucked string instrument that is incredibly difficult to tune and adjust.
 Class: ^777777Musical Instrument^000000
 Attack: ^777777105^000000
 Weight: ^77777750^000000
@@ -9322,9 +9312,7 @@ Required Level: ^77777714^000000
 Jobs: ^777777Bard^000000
 #
 1906#
-A classical plucked
-string instrument that
-is incredibly difficult to tune and adjust.
+A classical plucked string instrument that is incredibly difficult to tune and adjust.
 Class: ^777777Musical Instrument^000000
 Attack: ^777777105^000000
 Weight: ^77777750^000000
@@ -9333,8 +9321,7 @@ Required Level: ^77777714^000000
 Jobs: ^777777Bard^000000
 #
 1907#
-A six stringed musical instrument that is played
-by plucking the strings with fingers or a pick.
+A six stringed musical instrument that is played by plucking the strings with fingers or a pick.
 Class: ^777777Musical Instrument^000000
 Attack: ^777777142^000000
 Weight: ^77777790^000000
@@ -9343,8 +9330,7 @@ Required Level: ^77777727^000000
 Jobs: ^777777Bard^000000
 #
 1908#
-A six-stringed musical instrument that is played
-by plucking the strings with fingers or a pick.
+A six-stringed musical instrument that is played by plucking the strings with fingers or a pick.
 Class: ^777777Musical Instrument^000000
 Attack: ^777777142^000000
 Weight: ^77777790^000000
@@ -9353,9 +9339,8 @@ Required Level: ^77777727^000000
 Jobs: ^777777Bard^000000
 #
 1909#
-A stringed instrument
-known for the beautiful sound of each note that
-is played. INT +2
+A stringed instrument known for the beautiful sound of each note that is played.
+INT +2
 Class: ^777777Musical Instrument^000000
 Attack: ^777777114^000000
 Weight: ^77777790^000000
@@ -9364,9 +9349,8 @@ Required Level: ^77777727^000000
 Jobs: ^777777Bard^000000
 #
 1910#
-A stringed instrument
-known for the beautiful sound of each note that
-is played. INT +2
+A stringed instrument known for the beautiful sound of each note that is played.
+INT +2
 Class: ^777777Musical Instrument^000000
 Attack: ^777777114^000000
 Weight: ^77777790^000000
@@ -9375,8 +9359,7 @@ Required Level: ^77777727^000000
 Jobs: ^777777Bard^000000
 #
 1911#
-A traditional chordophone, favored by the aristocracy
-in days past, which plays deep, subtle notes.
+A traditional chordophone, favored by the aristocracy in days past, which plays deep, subtle notes.
 Class: ^777777Musical Instrument^000000
 Attack: ^777777126^000000
 Weight: ^777777130^000000
@@ -9385,8 +9368,7 @@ Required Level: ^77777727^000000
 Jobs: ^777777Bard^000000
 #
 1912#
-A traditional chordophone, favored by the aristocracy
-in days past, which plays deep, subtle notes.
+A traditional chordophone, favored by the aristocracy in days past, which plays deep, subtle notes.
 Class: ^777777Musical Instrument^000000
 Attack: ^777777126^000000
 Weight: ^777777130^000000
@@ -9396,8 +9378,8 @@ Jobs: ^777777Bard^000000
 #
 1913#
 An electric guitar which amplifies its user's power.
-Enables use of ^008800lvl 1 Jupitel Thunder^000000
 INT +2, AGI +1
+Enables use of Leve 1 ^008800Jupitel Thunder^000000
 Class: ^777777Musical Instrument^000000
 Attack: ^777777110^000000
 Weight: ^777777180^000000
@@ -9407,11 +9389,7 @@ Required Level: ^77777770^000000
 Jobs: ^777777Bard^000000
 #
 1914#
-A magically dazzling
-guitar that bewitches
-its user to play songs
-of passion once it's
-held in his hands.
+A magically dazzling guitar that bewitches its user to play songs of passion once it's held in his hands.
 Class: ^777777Musical Instrument^000000
 Attack: ^777777110^000000
 Weight: ^77777790^000000
@@ -9421,9 +9399,7 @@ Required Level: ^77777727^000000
 Jobs: ^777777Bard^000000
 #
 1915#
-A guitar which makes a depressing sound when
-strummed, and is said to have been played by a bard
-who spend his entire life in complete loneliness.
+A guitar which makes a depressing sound when strummed, and is said to have been played by a bard who spend his entire life in complete loneliness.
 Class: ^777777Musical Instrument^000000
 Attack: ^777777110^000000
 Weight: ^77777790^000000
@@ -9433,11 +9409,7 @@ Required Level: ^77777727^000000
 Jobs: ^777777Bard^000000
 #
 1916#
-According to rumor,
-this quaint guitar can
-be used to communicate
-with stones and even
-the very earth itself.
+According to rumor, this quaint guitar can be used to communicate with stones and even the very earth itself.
 Class: ^777777Musical Instrument^000000
 Attack: ^777777110^000000
 Weight: ^77777790^000000
@@ -9447,10 +9419,7 @@ Required Level: ^77777727^000000
 Jobs: ^777777Bard^000000
 #
 1917#
-A magical guitar
-which fills the one
-who plays it with a
-desire for traveling.
+A magical guitar which fills the one who plays it with a desire for traveling.
 Class: ^777777Musical Instrument^000000
 Attack: ^777777110^000000
 Weight: ^77777790^000000
@@ -9460,14 +9429,9 @@ Required Level: ^77777727^000000
 Jobs: ^777777Bard^000000
 #
 1918#
-An ancient lute
-seen on display in
-oriental towns such
-as Payon, Amatsu or
-Kunlun. Nowadays, no
-one really knows how
-to play it. Increases the attack strength of Arrow
-Vulcan and Melody Strike skills by 10%.
+An ancient lute seen on display in oriental towns such as Payon, Amatsu or Kunlun.
+Nowadays, no one really knows how to play it.
+Increases damage of Arrow Vulcan and Musical Strike skills by 10%.
 Class: ^777777Musical Instrument^000000
 Attack: ^777777150^000000
 Weight: ^777777120^000000
@@ -9476,19 +9440,10 @@ Required Level: ^77777765^000000
 Jobs: ^777777Bard^000000
 #
 1919#
-An instrument that
-produces low pitched
-sound. Recovers 3
-SP for each enemy
-defeated. Has a chance
-to cast Level 3 Heaven's
-Drive each time the
-wearer is attacked.
-Each attack has the
-chance to inflict all
-enemies within a 5*5
-cell area with the
-Confused status.
+An instrument that produces low pitched sound.
+Recovers 3 SP for each enemy defeated.
+Has a chance to cast Level 3 Heaven's Drive each time the wearer is attacked.
+Each attack has the chance to inflict all enemies within a 5*5 cell area with the Confused status.
 Class: ^777777Musical Instrument^000000
 Attack: ^777777130^000000
 Weight: ^777777150^000000
@@ -9497,22 +9452,11 @@ Required Level: ^77777770^000000
 Jobs: ^777777Clown^000000
 #
 1920#
-When musicians
-play this legendary
-instrument, their
-consciousness is
-fully absorbed,
-returning only once
-they've realized that
-they've finished
-their performance.
-Increases Attack
-delay after attacking reduces by 100%
-the cost of reducing
-HP Recovery Rate by
-100%, heavily reducing
-DEX, and losing 50 HP
-every 5 seconds.
+When musicians play this legendary instrument, their consciousness is fully absorbed, returning only once they've realized that they've finished their performance.
+ASPD +100%
+Disable natural HP recovery.
+Heavily reducing DEX.
+Drains 50 HP every 5 second.
 Class: ^777777Musical Instrument^000000
 Attack: ^77777710^000000
 Weight: ^777777180^000000
@@ -9532,14 +9476,9 @@ Required Level: ^7777771^000000
 Jobs: ^777777Clown^000000
 #
 1922#
-An ancient lute
-seen on display in
-oriental towns such
-as Payon, Amatsu or
-Kunlun. Nowadays, no
-one really knows how
-to play it. Increases the attack strength of Arrow
-Vulcan and Melody Strike skills by 10%.
+An ancient lute seen on display in oriental towns such as Payon, Amatsu or Kunlun.
+Nowadays, no one really knows how to play it.
+Increases damage of Arrow Vulcan and Musical Strike skills by 10%.
 Class: ^777777Musical Instrument^000000
 Attack: ^777777150^000000
 Weight: ^777777120^000000
@@ -9578,7 +9517,8 @@ Jobs: ^777777Bard^000000
 1925#
 An instrument with a low tone. Its 4 strings play nice calm sounds so this instrument is good for both solo and concert play.
 AGI +2, DEX +3
-Additional 2 cells and 3 cells of knock back effect is added to the use of Melody Strike and Arrow Vulcan skills respectively.
+Add 2 cells knock back effect when using Musical Strike.
+Add 3 cells knock back effect when using Arrow Vulcan.
 Class: ^777777Musical Instrument^000000
 Attack: ^777777110^000000
 Weight: ^77777770^000000
@@ -9589,7 +9529,7 @@ Jobs: ^777777Clown^000000
 1926#
 A harp with its strings made from the tentacles of Nepenthes.
 INT +2
-Inflicts the Stun effect at a certain rate when using Melody Strike.
+Inflicts the Stun effect at a certain rate when using Musical Strike.
 The probability of inflicting the stun effect doubles if the Refining Level is over 8.
 Class: ^777777Musical Instrument^000000
 Attack: ^777777120^000000
@@ -9612,8 +9552,12 @@ Required Level: ^77777780^000000
 Jobs: ^777777Bard^000000
 #
 1928#
+^000088Rental item^000000
 The legendary guitar known for when the player finally snaps out of stupor, you've already finished your performance.
-When equipped, Attack Speed is fixed at 100. Reduces natural HP regeneration rate by 100%. Loses 25 HP per every 5 second. Reduces DEX by massive rate.
+ASPD +100%
+Disable natural HP recovery.
+Drain 50 HP every 5 seconds.
+Heavily reduce DEX.
 Class: ^777777Musical Instrument^000000
 Attack: ^77777740^000000
 Weight: ^7777770^000000
@@ -9633,7 +9577,7 @@ Jobs: ^777777Bard^000000
 #
 1930#
 A flute made of sturdy plant stem.
-Fluctuate casting time of Lullaby and Rush to Windmill decreased by 2 secs. SP of each skill decreased by 4 with every upgrade above level 6.
+Variable casting time of Lullaby and Rush to Windmill decreased by 2 secs. SP of each skill decreased by 4 with every upgrade above level 6.
 MATK +50
 Class: ^777777Musical Instrument^000000
 Attack: ^777777170^000000
@@ -9644,6 +9588,7 @@ Jobs: ^777777Minstrel^000000
 #
 1931#
 An instrument that is made by the Eden Group. It is suitable for those who have more advanced experience as Bards.
+^FF0000Unrefineable^000000
 Class: ^777777Musical Instrument^000000
 Attack: ^777777125^000000
 Weight: ^7777770^000000
@@ -9682,7 +9627,7 @@ Jobs: ^777777Minstrel^000000
 1934#
 The double bass, also known as large musical instrument called the violin strains.
 Large and powerful enough to be a weapons.
-MATK +120.
+MATK +120
 Reduce Improvised Song cooldown by 2 seconds.
 Class: ^777777Musical Instrument^000000
 Attack: ^777777180^000000
@@ -9718,7 +9663,7 @@ Jobs: ^777777Minstrel^000000
 #
 1937#
 A golden violin with brutal power.
-DEX +8, VIT +8.
+DEX +8, VIT +8
 Class: ^777777Musical Instrument^000000
 Attack: ^777777180^000000
 Weight: ^777777150^000000
@@ -9761,9 +9706,7 @@ Required Level: ^777777130^000000
 Jobs: ^777777Minstrel^000000
 #
 1950#
-A strong, thick
-cord composed of
-tightly braided fiber.
+A strong, thick cord composed of tightly braided fiber.
 Class: ^777777Whip^000000
 Attack: ^77777745^000000
 Weight: ^77777740^000000
@@ -9772,9 +9715,7 @@ Required Level: ^7777773^000000
 Jobs: ^777777Dancer^000000
 #
 1951#
-A strong, thick
-cord composed of
-tightly braided fiber.
+A strong, thick cord composed of tightly braided fiber.
 Class: ^777777Whip^000000
 Attack: ^77777745^000000
 Weight: ^77777740^000000
@@ -9783,9 +9724,7 @@ Required Level: ^7777773^000000
 Jobs: ^777777Dancer^000000
 #
 1952#
-A standard whip
-that's perfect for
-adventuring Dancers.
+A standard whip that's perfect for adventuring Dancers.
 Class: ^777777Whip^000000
 Attack: ^77777780^000000
 Weight: ^77777730^000000
@@ -9794,9 +9733,7 @@ Required Level: ^77777716^000000
 Jobs: ^777777Dancer^000000
 #
 1953#
-A standard whip
-that's perfect for
-adventuring Dancers.
+A standard whip that's perfect for adventuring Dancers.
 Class: ^777777Whip^000000
 Attack: ^77777780^000000
 Weight: ^77777730^000000
@@ -9805,9 +9742,7 @@ Required Level: ^77777716^000000
 Jobs: ^777777Dancer^000000
 #
 1954#
-A whip made of a
-flexible wire attached
-to an iron handle.
+A whip made of a flexible wire attached to an iron handle.
 Class: ^777777Whip^000000
 Attack: ^77777795^000000
 Weight: ^777777100^000000
@@ -9816,9 +9751,7 @@ Required Level: ^77777716^000000
 Jobs: ^777777Dancer^000000
 #
 1955#
-A whip made of a
-flexible wire attached
-to an iron handle.
+A whip made of a flexible wire attached to an iron handle.
 Class: ^777777Whip^000000
 Attack: ^77777795^000000
 Weight: ^777777100^000000
@@ -9845,8 +9778,8 @@ Required Level: ^77777730^000000
 Jobs: ^777777Dancer^000000
 #
 1958#
-A whip fashioned out of an animal's tail that is
-said to bring good luck. LUK +3
+A whip fashioned out of an animal's tail that is said to bring good luck.
+LUK +3
 Class: ^777777Whip^000000
 Attack: ^777777105^000000
 Weight: ^77777770^000000
@@ -9855,8 +9788,8 @@ Required Level: ^77777730^000000
 Jobs: ^777777Dancer^000000
 #
 1959#
-A whip fashioned out of an animal's tail that is
-said to bring good luck. LUK +3
+A whip fashioned out of an animal's tail that is said to bring good luck.
+LUK +3
 Class: ^777777Whip^000000
 Attack: ^777777105^000000
 Weight: ^77777770^000000
@@ -9865,8 +9798,7 @@ Required Level: ^77777730^000000
 Jobs: ^777777Dancer^000000
 #
 1960#
-A fairly common
-and very normal whip.
+A fairly common and very normal whip.
 Class: ^777777Whip^000000
 Attack: ^777777120^000000
 Weight: ^77777770^000000
@@ -9875,8 +9807,7 @@ Required Level: ^77777730^000000
 Jobs: ^777777Dancer^000000
 #
 1961#
-A fairly common
-and very normal whip.
+A fairly common and very normal whip.
 Class: ^777777Whip^000000
 Attack: ^777777120^000000
 Weight: ^77777770^000000
@@ -9885,8 +9816,7 @@ Required Level: ^77777730^000000
 Jobs: ^777777Dancer^000000
 #
 1962#
-A hefty whip made from
-toughened snakeskin.
+A hefty whip made from toughened snakeskin.
 DEX +5, AGI +1
 Class: ^777777Whip^000000
 Attack: ^777777100^000000
@@ -9896,27 +9826,21 @@ Required Level: ^77777744^000000
 Jobs: ^777777Dancer^000000
 #
 1963#
-Constructed purely
-of thorny stems from
-rosebushes, this whip
-has a 50% chance of
-inflicting the Poison
-status on its target
-with each attack.
+Constructed purely of thorny stems from rosebushes.
+Has a 50% chance of inflicting the Poison status on its target with each attack.
 Class: ^777777Whip^000000
 Attack: ^777777115^000000
 Weight: ^77777730^000000
-Property: ^777777Poison^000000
+Property: ^702180Poison^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777744^000000
 Jobs: ^777777Dancer^000000
 #
 1964#
-A powerful whip
-made of steel chain
-for heavy duty battles. Critical rate +5%
+A powerful whip made of steel chain for heavy duty battles.
+Critical rate +5%
 Perfect Dodge +2
-Dodge +10%
+Flee +10
 Class: ^777777Whip^000000
 Attack: ^777777135^000000
 Weight: ^77777770^000000
@@ -9925,8 +9849,7 @@ Required Level: ^77777744^000000
 Jobs: ^777777Dancer^000000
 #
 1965#
-A whip made from the
-tough leather of a ^FF0000Fire^000000 property monster.
+A whip made from the tough leather of a ^FF0000Fire^000000 property monster.
 Class: ^777777Whip^000000
 Attack: ^777777110^000000
 Weight: ^77777770^000000
@@ -9936,9 +9859,7 @@ Required Level: ^77777730^000000
 Jobs: ^777777Dancer^000000
 #
 1966#
-A whip created from
-enchanted icicles that
-are eternally frozen.
+A whip created from enchanted icicles that are eternally frozen.
 Class: ^777777Whip^000000
 Attack: ^777777110^000000
 Weight: ^77777770^000000
@@ -9948,10 +9869,7 @@ Required Level: ^77777730^000000
 Jobs: ^777777Dancer^000000
 #
 1967#
-A whip fashioned
-out of tough tree
-roots that have been
-braided together.
+A whip fashioned out of tough tree roots that have been braided together.
 Class: ^777777Whip^000000
 Attack: ^777777110^000000
 Weight: ^77777770^000000
@@ -9961,10 +9879,8 @@ Required Level: ^77777730^000000
 Jobs: ^777777Dancer^000000
 #
 1968#
-A skipping rope
-with wooden handles.
-Increases Critical
-Attack Rate by 20%.
+A skipping rope with wooden handles.
+Critical +20
 Class: ^777777Whip^000000
 Attack: ^777777120^000000
 Weight: ^77777740^000000
@@ -9973,11 +9889,8 @@ Required Level: ^77777730^000000
 Jobs: ^777777Dancer^000000
 #
 1969#
-A wire in which
-blade fragments are
-interwoven, making this whip as sharp as a sword.
-Has 3% chance of causing Bleeding effect on enemies
-with each attack.
+A wire in which blade fragments are interwoven, making this whip as sharp as a sword.
+Has 3% chance of causing Bleeding effect on enemies with each attack.
 Class: ^777777Whip^000000
 Attack: ^777777140^000000
 Weight: ^777777120^000000
@@ -9986,10 +9899,8 @@ Required Level: ^77777730^000000
 Jobs: ^777777Dancer^000000
 #
 1970#
-This whip is the best
-of the best. Increases attack strength of Arrow
-Vulcan and Slinging
-Arrow skills by 10%.
+This whip is the best of the best.
+Increases attack strength of Arrow Vulcan and Slinging Arrow skills by 10%.
 Class: ^777777Whip^000000
 Attack: ^777777150^000000
 Weight: ^777777110^000000
@@ -10008,45 +9919,23 @@ Required Level: ^77777730^000000
 Jobs: ^777777Dancer^000000
 #
 1972#
-A whip made from
-a slippery electric
-eel. INT +2, AGI +2.
-Each attack has a
-certain chance of
-auto casting Level 3
-Jupitel Thunder
-and Arrow Vulcan;
-the skill level of
-Arrow Vulcan that
-is cast depends on
-this weapon's Upgrade
-Level. (When upgraded 11 or greater,
-Level 10 skill is casted.)
-^7BCC70Wind^000000 property.
+A whip made from a slippery electric eel.
+INT +2, AGI +2
+Each attack has a certain chance of auto casting Level 3 Jupitel Thunder and Arrow Vulcan;
+the skill level of Arrow Vulcan that is cast depends on this weapon's upgrade level.
 Class: ^777777Whip^000000
 Attack: ^777777100^000000
 Weight: ^777777200^000000
+Property: ^4cbb17Wind^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777770^000000
 Jobs: ^777777Gypsy^000000
 #
 1973#
-A whip made from the
-foot of an evil witch
-who lived in the sea
-to the west and was
-feared for her ability
-to siphon her enemies'
-energy. Recovers 5 SP
-for each defeated
-enemy. Has a certain
-chance of auto casting
-Level 3 Frost Nova each
-time the wearer is
-attacked. Each attack
-has a chance of inflicting the Silence status to
-all enemies within
-a 5*5 cell area.
+A whip made from the foot of an evil witch who lived in the sea to the west and was feared for her ability to siphon her enemy's energy.
+Recovers 5 SP for each defeated enemy.
+Has a certain chance of auto casting Level 3 Frost Nova each time the wearer is attacked.
+Each attack has a chance of inflicting the Silence status to all enemies within a 5*5 cell area.
 Class: ^777777Whip^000000
 Attack: ^777777110^000000
 Weight: ^777777150^000000
@@ -10055,18 +9944,9 @@ Required Level: ^77777770^000000
 Jobs: ^777777Gypsy^000000
 #
 1974#
-A whip that rewards
-the wearer when she
-does her best. Each
-attack has a certain
-chance of auto casting
-Increase AGI to the
-wearer; the skill
-level cast depends
-on this weapon's
-Upgrade Level.
-(When upgraded 11 or greater,
-Level 10 skill is casted.)
+A whip that rewards the wearer when she does her best.
+Each attack has a certain chance of auto casting Increase AGI to the wearer,
+the skill level cast depends on this weapon's Upgrade Level.
 Class: ^777777Whip^000000
 Attack: ^777777185^000000
 Weight: ^777777130^000000
@@ -10086,7 +9966,7 @@ Jobs: ^777777Gypsy^000000
 #
 1976#
 The best of the best whips.
-Increase 10% attack strength of Arrow Vulcan, Throw Arrow skills by 10%.
+Increase damage of Arrow Vulcan, Throw Arrow skills by 10%.
 Class: ^777777Whip^000000
 Attack: ^777777150^000000
 Weight: ^777777110^000000
@@ -10098,7 +9978,7 @@ Jobs: ^777777Dancer^000000
 An especially made whip for battling against Demihuman; this whip is strong enough to cut their flesh.
 DEX +2
 Increases Physical Attack Strength towards Demihuman monsters by 95%.
-Ignores Physical Defense from Demihuman monsters by 20%.
+Ignores Physical Defense of Demihuman monsters by 20%.
 ^702180Indestructible^000000
 Class: ^777777Whip^00000
 Attack: ^77777750^000000
@@ -10121,7 +10001,7 @@ Required Level: ^77777780^000000
 Jobs: ^777777Dancer^000000
 #
 1979#
-Strong and flexible whip made of Nepenthes' tentacle.
+Strong and flexible whip made of Nepenthes's tentacle.
 INT +2
 When using Throw Arrow, has a chance of inflicting Freeze to the targeted enemy.
 The probability of inflicting Freeze doubles if the Refining Level is over 8.
@@ -10135,7 +10015,8 @@ Jobs: ^777777Gypsy^000000
 1980#
 A balance is attached at the tip of the whip. Anyone who gets a hit by this whip is knocked back.
 AGI +2, DEX +3
-Additional 2 cells and 3 cells of knock back effect is added to the use of Throw Arrow and Arrow Vulcan skills respectively.
+Add 2 cells knock back effect when using Throw Arrow.
+Add 3 cells knock back effect when using Arrow Vulcan.
 Class: ^777777Whip^000000
 Attack: ^777777110^000000
 Weight: ^77777770^000000
@@ -10191,8 +10072,9 @@ Jobs: ^777777Wanderer^000000
 #
 1985#
 A whip of alluring fragrance made of a magical rose stem.
-Low chance of triggering Lv1 Siren's Voice with every physical attack.
-INT +2, AGI -2, MATK +130.
+INT +2, AGI -2
+MATK +130
+Low chance of triggering Level 1 Siren's Voice with every physical attack.
 Class: ^777777Whip^000000
 Attack: ^777777100^000000
 Weight: ^777777100^000000
@@ -10202,6 +10084,7 @@ Jobs: ^777777Wanderer^000000
 #
 1986#
 A whip that is made by the Eden Group. It is suitable for those who have more advanced experience as Dancers.
+^FF0000Unrefineable^000000
 Class: ^777777Whip^00000
 Attack: ^777777125^000000
 Weight: ^7777770^000000
@@ -10212,7 +10095,7 @@ Jobs: ^777777Dancer^000000
 1987#
 ^000088Rental Items^000000
 ** Extra option available in WoE TE area
-Physical Attack Power +40% against other adventurers.
+Physical Attack Power +40% against other player.
 Physical attacks have a high Blinding chance.
 Class: ^777777Whip^000000
 Attack: ^777777100^000000
@@ -10239,8 +10122,8 @@ Jobs: ^777777Wanderer^000000
 #
 1989#
 One of the tools used for rhythmic gymnastics representing the body mechanism.
-MATK +120.
-Increase ASPD (Reduce 20% after attack delay).
+MATK +120
+ASPD +20%
 Class: ^777777Whip^000000
 Attack: ^777777150^000000
 Weight: ^77777730^000000
@@ -10261,7 +10144,7 @@ Jobs: ^777777Wanderer^000000
 #
 1991#
 Blue Whip which has destructive power.
-DEX +5, VIT +5.
+DEX +5, VIT +5
 Premium:
 Long Range ATK +20%
 SP consumption -10%
@@ -10274,7 +10157,7 @@ Jobs: ^777777Wanderer^000000
 #
 1992#
 A golden whip with brutal power.
-DEX +8, VIT +8.
+DEX +8, VIT +8
 Class: ^777777Whip^000000
 Attack: ^777777150^000000
 Weight: ^777777180^000000
@@ -10284,9 +10167,9 @@ Jobs: ^777777Wanderer^000000
 #
 1993#
 An iron wire with a strong blade.
-Indestrutible.
 Give more damage on high DEF enemy.
 Drains 3 SP on each attack.
+^702180Indestructible^000000
 Class: ^777777Whip^000000
 Attack: ^77777780^000000
 Weight: ^777777120^000000
@@ -10307,7 +10190,7 @@ Jobs: ^777777Wanderer^000000
 1995#
 Whip with red light radiance.
 ATK increased by (Refine*Refine), up to +15 refine.
-Level 70 or higher:Per 10 BaseLevel,ATK +5.
+Level 70 or higher: Per 10 BaseLevel, ATK +5.
 Class: ^777777Whip^000000
 Attack: ^77777780^000000
 Weight: ^77777780^000000
@@ -10317,7 +10200,7 @@ Jobs: ^777777Dancer^000000
 #
 1996#
 Wire imbued with Vicious Mind.
-MATK +50.
+MATK +50
 Increase ATK by (refine*refine).
 (up to +15 refine level)
 Increase MATK by (refine*refine)/2.
@@ -10331,10 +10214,10 @@ Jobs: ^777777Dancer^000000
 #
 2000#
 A tremendously powerful Two-Handed Staff that can only be wielded by someone who is spiritually strong.
-MATK +280, INT +3, AGI +10.
-Reduces Cast Time of Mystical Amplification by 50%.
+MATK +280, INT +3, AGI +10
+Reduces variable cast time of Mystical Amplification by 50%.
 Increases MATK by 1% for every 2 Upgrade Levels, but raising the Upgrade Level also increases SP Consumption.
-Has a chance of auto casting Level 5 Jupitel Thunder with each enemy attack;
+Has a chance of auto casting Level 5 Jupitel Thunder when attacked;
 this chance can be increased by raising the weapon's Upgrade Level.
 Class: ^777777Two-Handed Staff^000000
 Attack: ^777777130^000000
@@ -10345,7 +10228,7 @@ Jobs: ^777777High Wizard^000000
 #
 2001#
 This staff is made of two parts that can be recombined to form a cross that will endow Holy power to its user.
-MATK +210, DEX +4.
+MATK +210, DEX +4
 Reduces damage from Undead and Demon monsters by 15%.
 Additional MATK +10%, DEX +2, and 10% damage reduction from Undead and Demon monsters when worn with 'Spiritual Ring'.
 Class: ^777777Two-Handed Staff^000000
@@ -10374,10 +10257,10 @@ Jobs: ^777777Mage, Acolyte Class and Soul Linker^000000
 2003#
 Two handed staff that seems to be possesing a tremendous power. The owner of the staff has to have a strong spiritual strength to use this staff properly.
 MATK +280, INT +3, AGI +10
-Reduces casting time of Amplify Magic by 50%.
-Refinement in multiples of 2 (+2, +4, +6, +8, +10) increases MATK by 1%.
-SP taken by all skills will increase depending on the refinement rate of this weapon.
-Small chance to cast ^008800Level 5 Jupitel Thunder^000000 whenever you are attacked physically. This chance depends on the refinement rate of this weapon.
+Reduces variable cast time of Mystical Amplification by 50%.
+Increases MATK by 1% for every 2 Upgrade Levels, but raising the Upgrade Level also increases SP Consumption.
+Has a chance of auto casting Level 5 Jupitel Thunder when attacked;
+this chance can be increased by raising the weapon's Upgrade Level.
 Class: ^777777Two-Handed Staff^000000
 Attack: ^777777130^000000
 Weight: ^777777250^000000
@@ -10389,7 +10272,7 @@ Jobs: ^777777High Wizard^000000
 This piece's upper part is decorated with a golden dragon and a crystal with strong magical power compressed into it. It looks nice, but it's too heavy to easily carry around.
 MATK +240, INT +3, MaxHP +300
 For every 2 refine Levels, INT +1, MaxHP +50.
-When attacking with a magical spell has a chance of adding MATK +12% and consumed SP decreases by 20% for 5 seconds.
+When magically attacking has a chance of adding MATK +12% and SP consumption decreased by 20% for 5 seconds.
 Class: ^777777Two-Handed Staff^000000
 Attack: ^77777730^000000
 Weight: ^777777100^000000
@@ -10399,7 +10282,7 @@ Jobs: ^777777Transcendent Mage^000000
 #
 2005#
 The image of the Sacred Goddess of Light is carved onto this long staff.
-MATK +220, INT +6, VIT +2.
+MATK +220, INT +6, VIT +2
 Has a chance of Recovering 200 SP when using 'Heal'.
 Increases MATK by 1% for every refine level.
 Class: ^777777Two-Handed Staff^000000
@@ -10421,8 +10304,8 @@ Jobs: ^777777Mage^000000
 #
 2007#
 A magic staff charged with whirling power of wind.
-Increases the effectiveness of Jupitel Thunder by 12%.
 INT +3, MATK +230
+Increases Jupitel Thunder damage by 12%.
 When you equip a whole set of Golden Rod items - the staff, the robe, the shoes, and the orb, the effectiveness of all the wind spells is increased by 40%, the effectiveness of all the earth spells is decreased by 30%, and resistance to earth attacks is decreased by 50%.
 Class: ^777777Two-Handed Staff^000000
 Attack: ^77777730^000000
@@ -10434,8 +10317,8 @@ Jobs: ^777777Warlock^000000
 #
 2008#
 A magic staff charged with freezing power of water.
-Increases the effectiveness of Cold Bolt and Frost Diver by 10%.
 INT +3, MATK +230
+Increases the effectiveness of Cold Bolt and Frost Diver by 10%.
 When you equip a whole set of Aqua items - the staff, the robe, the shoes, and the orb, the effectiveness of all the water spells is increased by 40%, the effectiveness of all the wind spells is decreased by 30%, and resistance to wind attacks is decreased by 50%.
 Class: ^777777Two-Handed Staff^000000
 Attack: ^77777730^000000
@@ -10447,8 +10330,8 @@ Jobs: ^777777Warlock^000000
 #
 2009#
 A magic staff charged with blazing power of fire.
-Increases the effectiveness of Fire Bolt and Fire Ball by 10%.
 INT +3, MATK +230
+Increases the effectiveness of Fire Bolt and Fire Ball by 10%.
 When you equip a whole set of Crimson items - the staff, the robe, the shoes, and the orb, the effectiveness of all the fire spells is increased by 40%, the effectiveness of all the water spells is decreased by 30%, and resistance to water attacks is decreased by 50%.
 Class: ^777777Two-Handed Staff^000000
 Attack: ^77777730^000000
@@ -10460,8 +10343,8 @@ Jobs: ^777777Warlock^000000
 #
 2010#
 A magic staff charged with massive power of earth.
-Increases the effectiveness of Earth Spike and Heaven's Drive by 10%.
 INT +3, MATK +230
+Increases the effectiveness of Earth Spike and Heaven's Drive by 10%.
 When you equip a whole set of Forest items - the staff, the robe, the shoes, and the orb, the effectiveness of all the earth spells is increased by 40%, the effectiveness of all the fire spells is decreased by 30%, and resistance to fire attacks is decreased by 50%.
 Class: ^777777Two-Handed Staff^000000
 Attack: ^77777730^000000
@@ -10473,8 +10356,8 @@ Jobs: ^777777Warlock^000000
 #
 2011#
 A magic staff charged with massive power of wind.
-Increase Jupitel Thunder damage by 30%.
 INT +5, MATK +270
+Increase Jupitel Thunder damage by 30%.
 If worn with Golden Robe, Golden Shoes, and Golden Orb Increase Wind Magic damage by 60%.
 Lower Earth Magic damage by 60% and resistance to Earth by 50%.
 Class: ^777777Two-Handed Staff^000000
@@ -10487,8 +10370,8 @@ Jobs: ^777777Warlock^000000
 #
 2012#
 A magic staff charged with freezing power of water.
-Increases the effectiveness of Cold Bolt and Frost Diver by 30%.
 INT +5, MATK +270
+Increases the effectiveness of Cold Bolt and Frost Diver by 30%.
 When you equip a whole set of Aqua items - the staff, the robe, the shoes, and the orb, the effectiveness of all the water spells is increased by 60%, the effectiveness of all the wind spells is decreased by 60%, and resistance to wind attacks is decreased by 50%.
 Class: ^777777Two-Handed Staff^000000
 Attack: ^77777730^000000
@@ -10500,8 +10383,8 @@ Jobs: ^777777Warlock^000000
 #
 2013#
 A magic staff charged with blazing power of fire.
-Increases the effectiveness of Fire Bolt and Fire Ball by 30%.
 INT +5, MATK +270
+Increases the effectiveness of Fire Bolt and Fire Ball by 30%.
 When you equip a whole set of Crimson items - the staff, the robe, the shoes, and the orb, the effectiveness of all the fire spells is increased by 60%, the effectiveness of all the water spells is decreased by 60%, and resistance to water attacks is decreased by 50%.
 Class: ^777777Two-Handed Staff^000000
 Attack: ^77777730^000000
@@ -10513,8 +10396,8 @@ Jobs: ^777777Warlock^000000
 #
 2014#
 A magic staff charged with massive power of earth.
-Increases the effectiveness of Earth Spike and Heaven's Drive by 30%.
 INT +5, MATK +270
+Increases the effectiveness of Earth Spike and Heaven's Drive by 30%.
 When you equip a whole set of Forest items - the staff, the robe, the shoes, and the orb, the effectiveness of all the earth spells is increased by 60%, the effectiveness of all the fire spells is decreased by 60%, and resistance to fire attacks is decreased by 50%.
 Class: ^777777Two-Handed Staff^000000
 Attack: ^77777730^000000
@@ -10526,7 +10409,7 @@ Jobs: ^777777Warlock^000000
 #
 2015#
 Staff that is coated by Oridecon and Gold with perfect level.
-MATK +70.
+MATK +70
 [Wizard] MATK +30
 [Sage] MATK +20
 [Per Refine] MATK +10, healing rate +1%
@@ -10553,7 +10436,7 @@ Jobs: ^777777Mage, Acolyte and Soul Linker^000000
 #
 2017#
 This staff is made of two parts that can be recombined to form a cross that will endow Holy power to its user.
-MATK +210, DEX +4.
+MATK +210, DEX +4
 Reduces damage from Undead and Demon monsters by 15%.
 Additional MATK +10%, DEX +2, and 10% damage reduction from Undead and Demon monsters when worn with 'Spiritual Ring'.
 Class: ^777777Two-Handed Staff^000000
@@ -10565,11 +10448,10 @@ Required Level: ^77777770^000000
 Jobs: ^777777Priest and Monk^000000
 #
 2018#
+Staff coated with metal that enhance ability.
 MATK +70
-[^6A5ACDWizard^000000]
-MATK +15
-[^6A5ACDSage^000000]
-MATK +10
+[Wizard] MATK +15
+[Sage] MATK +10
 Every refine increase MATK by 5.
 Base level 20: +5 MATK every 10 base level
 (Increase applies up to BaseLv 120)
@@ -10584,7 +10466,7 @@ Jobs: ^777777Wizard, Acolyte and Soul Linker^000000
 ^000088Rental Items^000000
 MATK +130.
 ** Extra option available in WoE TE area
-Magic Attack Power 20% against other adventurers.
+Magic Attack Power 20% against other player.
 Magic attacks have a high Stunning chance.
 Heal Amount +5%.
 Class: ^777777Two-Handed Staff^000000
@@ -10596,7 +10478,7 @@ Jobs: ^777777Novice, Wizard, Acolyte and Soul Linker^000000
 #
 2020#
 Aside from the potent mana in it, this staff named after Jormungand is famous for its ability to poison the enemy.
-MATK +280, INT +20.
+MATK +280, INT +20
 Magical attacks have a chance of causing Poison on the enemy.
 Melee Physical attacks have a chance of casting Deadly Poison on the enemy.
 ^FF0000Unrefineable^000000
@@ -10611,7 +10493,7 @@ Jobs: ^777777Wizards, Sage and Soul Linker^000000
 #
 2021#
 Aside from the potent mana in it, this staff is famous for its ability to Silence the enemy, preventing them from casting spells.
-MATK +320, INT +25, DEX +25.
+MATK +320, INT +25, DEX +25
 Magic attacks have a chance of Poisoning the enemy or casting Level 1 Silentium.
 When you receive Melee Physical damage, this item creates a chance of causing Silence on your attacker.
 ^FF0000Unrefineable^000000
@@ -10625,7 +10507,7 @@ Jobs: ^777777Warlock^000000
 #
 2022#
 It seems to be old because of how dusty it is. An ancient language is carved into the wood of the handle.
-INT +20, MATK +300.
+INT +20, MATK +300
 Class: ^777777Two-Handed Staff^000000
 Attack: ^777777100^000000
 Weight: ^777777100^000000
@@ -10637,11 +10519,11 @@ Jobs: ^777777High Wizard^000000
 This magic staff, made to counteract the Devil Sword Thanatos, is sculpted out of Gray Shard.
 It offers incredible power and mana at a great cost.
 INT +6, VIT +6, LUK -6
+MATK +250
 Increase Heal eficiency by 18%.
 Magical attack has chance to restore HP and SP.
 Drains 100 HP every 10 seconds.
 Drains 1000 HP as the item is unequipped.
-MATK +250
 Class: ^777777Two-Handed Staff^000000
 Attack: ^777777120^000000
 Weight: ^777777140^000000
@@ -10662,7 +10544,7 @@ Jobs: ^7777773rd Mage Class^000000
 #
 2025#
 Two-handed staff with red light radiance.
-INT +5, MATK +150.
+INT +5, MATK +150
 MATK increased by (Refine*Refine), up to +15 refine.
 Level 70 or higher:Per 10 BaseLevel,MATK +5.
 ^702180Indestructible^000000
@@ -10675,7 +10557,7 @@ Jobs: ^777777Wizard and Soul Linker^000000
 #
 2026#
 Staff imbued with Vicious Mind.
-INT +6, MATK +200.
+INT +6, MATK +200
 Increase MATK by (refine*refine).
 (up to +15 refine level)
 ^702180Indestructible^000000
@@ -10687,8 +10569,8 @@ Required Level: ^777777160^000000
 Jobs: ^777777Wizard and Soul Linker^000000
 #
 2027#
-Staff once used by famous arcwizard. The magic prevent flower from being wilted.
-INT +5, MATK +320.
+Staff once used by famous Archmage. His magic can prevent flower from being wilted.
+INT +5, MATK +320
 Every 2 refine MATK +1%.
 Every refine reduce after skill delay by 1%.
 ^702180Indestructible^000000
@@ -10799,7 +10681,7 @@ Jobs: ^777777Novice^000000
 #
 2113#
 A cute shield made out of a special metal for the Novice class.
-Reduce all property damage by 20%, with the exception of ^777777Neutral^000000 property damage.
+Reduce damage from all property attack by 20%, with the exception of ^777777Neutral^000000 property damage.
 Class: ^777777Shield^000000
 Defense: ^77777720^000000
 Weight: ^777777100^000000
@@ -10869,7 +10751,7 @@ Jobs: ^777777Ninja^000000
 #
 2119#
 A wrist protector, designed exclusively for the Ninja class, that has been enhanced with high Magic Defense by a gifted artisan.
-MDEF +5.
+MDEF +5
 Class: ^777777Shield^000000
 Defense: ^77777745^000000
 Weight: ^77777715^000000
@@ -10878,7 +10760,7 @@ Jobs: ^777777Ninja^000000
 #
 2120#
 A wrist protector, designed exclusively for the Ninja class, that has been enhanced with high Magic Defense by a gifted artisan.
-MDEF +5.
+MDEF +5
 Class: ^777777Shield^000000
 Defense: ^77777745^000000
 Weight: ^77777715^000000
@@ -10922,7 +10804,7 @@ Jobs: ^777777All Transcendent classes except Novice^000000
 #
 2124#
 A rough shield covered in spikes that deters rushing enemies.
-MDEF +2.
+MDEF +2
 [^6A5ACDBison Set^000000]
 ^3CB371Thorny Buckler^000000
 ^3CB371Bison Horn^000000
@@ -10936,7 +10818,8 @@ Jobs: ^777777All Transcendent classes except Novice^000000
 #
 2125#
 A massive shield that can withstand any attack, but it lacks shock absorption.
-Prevents knock-back effect, but increases Physical and Magic damage to the wearer by 20%.
+Prevents knock-back effect.
+Increases Physical and Magical damage received by 20%.
 Class: ^777777Shield^000000
 Defense: ^77777790^000000
 Weight: ^777777250^000000
@@ -10944,10 +10827,24 @@ Required Level: ^77777775^000000
 Jobs: ^777777Transcendent Swordman, Merchant and Thief^000000
 #
 2126#
-placeholder
+An ivory shield with mysterious aura.
+MDEF +2
+Reflect 5% all physical attack.
+2% Chance to reflect magical attack.
+Class: ^777777Shield^000000
+Defense: ^7777773^000000
+Weight: ^77777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All excepet Novice^000000
 #
 2127#
-placeholder
+Whip provided by Adventurer Guild for Brave adventurer.
+Reduce all damage by 25%.
+Class: ^777777Shield^000000
+Defense: ^77777710^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All excepet Novice^000000
 #
 2128#
 A symbolic shield, rumored to have been given from God to his messenger.
@@ -10961,11 +10858,11 @@ Jobs: ^777777Crusader^000000
 #
 2129#
 A thick book that contains basic skills for the clergy.
-HP, SP Recovery 3%.
+Increase HP and SP Recovery by 3%.
 INT +1
 [+^008800Holy Stick^000000]
 Increase ^FF0000Magnus Exorcismus^000000 damage by 20%.
-Add a low chance of auto casting ^FF0000Lv1 Turn Undead^000000 skill when receive damage.
+Add a low chance of auto casting Level 1 ^FF0000Turn Undead^000000 when receive damage.
 Class: ^777777Shield^000000
 Defense: ^77777780^000000
 Weight: ^77777760^000000
@@ -11041,10 +10938,10 @@ Jobs: ^777777Stalker^000000
 #
 2136#
 A cracked buckler.
-Reduce damage from Neutral property by 10%
-Has low chance to cast Kyrie Eleison when physically attacked
 AGI +2
 MDEF +1
+Reduce damage from Neutral property by 10%
+Has low chance to cast Kyrie Eleison when physically attacked.
 Class: ^777777Shield^000000
 Defense: ^7777775^000000
 Weight: ^7777770^000000
@@ -11054,8 +10951,8 @@ Jobs: ^777777All^000000
 2137#
 ^000088Rental Items^000000
 A shield used by Gna, the messanger of Freyja while she served as a Valkyrie.
-Add a 30% resistance against DemiHuman monster.
 MaxHP +5%
+Add a 30% resistance against DemiHuman monster.
 Add a 20% resistance against ^FF0000Fire^000000 and ^0000FFWater^000000 Property attacks.
 Class: ^777777Shield^000000
 Defense: ^77777780^000000
@@ -11083,11 +10980,11 @@ Jobs: ^777777Mechanic^000000
 #
 2140#
 A wing-shaped guard nailed with a luxurious bluish energy rune. A clear energy comes out that stimulates spirit.
-MaxSP +2
+MaxSP +2%
 Class: ^777777Shield^000000
 Defense: ^77777770^000000
 Weight: ^7777770^000000
-Required Level: ^7777771^000000
+Required Level: ^77777799^000000
 Jobs: ^777777Swordman^000000
 #
 2141#
@@ -11133,8 +11030,8 @@ Jobs: ^777777All^000000
 2145#
 Shield, which was used by Keepers of Time.
 It is slightly frayed, but still easy to use.
-Reduce 10% of ^777777Neutral^000000 property damage.
 MDEF +1
+Reduce 10% of ^777777Neutral^000000 property damage.
 Class: ^777777Shield^000000
 Defense: ^77777720^000000
 Weight: ^7777770^000000
@@ -11230,7 +11127,7 @@ Jobs: ^777777All^000000
 An ancient book of sacred songs handed down in the cathedral.
 It is said to have sold like hotcakes, published as one of a series.
 MDEF +2
-Enable use of ^008800Level 1 Odin's Power^000000.
+Enable use of Level 1^008800 Odin's Power^000000.
 Class: ^777777Shield^000000
 Defense: ^77777710^000000
 Weight: ^77777750^000000
@@ -11288,7 +11185,7 @@ Jobs: ^777777Warlock^000000
 2162#
 An ancient book of sacred songs handed down in the cathedral.
 MDEF +5
-Enable use of ^008800Level 2 Odin's Power^000000.
+Enable use of Level 2^008800 Odin's Power^000000.
 Increases effectiveness of Healing by 5%.
 Class: ^777777Shield^000000
 Defense: ^77777720^000000
@@ -11394,7 +11291,7 @@ Required Level: ^77777765^000000
 Jobs: ^777777All^000000
 #
 2177#
-The Shield of the Lord of Death 
+The Shield of the Lord of Death.
 increase 2% damage inflicted to boss monster
 increase 10% damange received from normal monster
 if equipped with Lord of Death, increase damage +5% from boss monster
@@ -11410,7 +11307,7 @@ Jobs: ^777777All^000000
 MDEF +15.
 ** Extra option available in WoE TE area
 MaxHP +100, MaxSP +100.
--15% damage received from other adventurers
+-15% damage received from other player
 Class: ^777777Shield^000000
 Defense: ^77777715^000000
 Weight: ^7777770^000000
@@ -11443,8 +11340,8 @@ Jobs: ^777777Novice, Mage, Acolyte and Soul Linker^000000
 #
 2181#
 A shield named after Hervor, the valkyrie who ensures victory for her warriors.
-MDEF +5.
--30% damage received from all type monsters.
+MDEF +5
+Reduce damage from all monsters race by 30%.
 ^FF0000Unrefineable^000000
 ^702180Indestructible^000000
 Class: ^777777Shield^000000 
@@ -11456,8 +11353,8 @@ Jobs: ^777777All^000000
 2182#
 A shield named after Hervor, the valkyrie who ensures victory for her warriors.
 It's now endowed with greater power.
-VIT +20, MDEF +10.
--30% damage received from all type monsters.
+VIT +20, MDEF +10
+Reduce damage from all monsters race by 30%.
 When you receive Melee Physical damage, this item creates a chance of casting Protective Light for 60 seconds.
 Protective Light immediately cancels Stun, Sleep, Curse, Stone Curse, Poison, Blind, Silence, Bleeding, Chaos, and Frost, and protects the user against such effects for a set duration.
 ^FF0000Unrefineable^000000
@@ -11485,7 +11382,7 @@ Jobs: ^777777Novice^000000
 #
 2185#
 This anti-magic shield effectively reflects magic.
-MDEF +10.
+MDEF +10
 3% chance to reflect magic damage.
 Refined to +7, increase reflect chance by 3%.
 Refined to +9, increase reflect chance by 3%.
@@ -11501,9 +11398,9 @@ MATK +5, INT +3, DEX +2, CRIT +3
 Refined to +7, increase CRIT by 2.
 Refined to +9, increase MATK by 5.
 [+^008800Encyclopedia[2]^000000]
-Every refine of Encyclopedia[2], increase ASPD by 1%.
+Every refine of Encyclopedia[2], ASPD +1%.
 [+^008800Rental Encyclopedia^000000]
-Increase ASPD by 15%.
+ASPD +15%
 Class: ^777777Shield^000000
 Defense: ^77777750^000000
 Weight: ^77777720^000000
@@ -11513,8 +11410,8 @@ Jobs: ^777777Priest, Sage and Star Gladiator^000000
 2187#
 Shield surrounded by dark aura.
 Has the ability to resist divine power.
-30% Holy resistance
-MDEF +10.
++30% Holy resistance
+MDEF +10
 Every 1 refine increase Holy resistance by 1%.
 Every 3 refine increase MDEF by 1.
 Class: ^777777Shield^000000
@@ -11527,7 +11424,7 @@ Jobs: ^7777773rd Classes^000000
 The name of this shield surrounded by chilling cold energy means ''freeze''
 +10% resistance against Water attacks.
 Every 3 upgrade levels increase MaxHP by 1% and Water Resistance by 5%.
-MDEF +5.
+MDEF +5
 Class: ^777777Shield^000000
 Defense: ^777777780^000000
 Weight: ^77777750^000000
@@ -20187,7 +20084,7 @@ A low chance of auto casting Coma on Brute monsters when attacking.
 ^3CB371Green Ferus Card^000000
 DEX +5
 +5% Arrow Vulcan Damage
-+10% Melody Strike Damage
++10% Musical Strike Damage
 +10% Throw Arrow Damage
 Bard or Dancer Bonus: A low chance of auto casting level 2 Tarot Card of Fate when hit by a melee attack.
 Class: ^777777Card^000000
@@ -20863,7 +20760,7 @@ Brute monsters.
 ^3CB371Green Ferus Card^000000
 DEX +5
 +5% Arrow Vulcan Damage
-+10% Melody Strike Damage
++10% Musical Strike Damage
 +10% Throw Arrow Damage
 Bard or Dancer Bonus:
 A low chance of
@@ -21057,7 +20954,7 @@ Brute monsters.
 ^3CB371Green Ferus Card^000000
 DEX +5
 +5% Arrow Vulcan Damage
-+10% Melody Strike Damage
++10% Musical Strike Damage
 +10% Throw Arrow Damage
 Bard or Dancer Bonus:
 A low chance of
@@ -21586,7 +21483,7 @@ Brute monsters.
 ^3CB371Green Ferus Card^000000
 DEX +5
 +5% Arrow Vulcan Damage
-+10% Melody Strike Damage
++10% Musical Strike Damage
 +10% Throw Arrow Damage
 Bard or Dancer Bonus:
 A low chance of
