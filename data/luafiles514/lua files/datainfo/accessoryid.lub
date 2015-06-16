@@ -1352,5 +1352,12 @@ ACCESSORY_IDs = {
 	ACCESSORY_FlyingGalapago = 1358,
 	ACCESSORY_DVAngelNurseCap = 1359,
 	ACCESSORY_QueenAnzRevenge = 1360,
-	ACCESSORY_RuneHelm = 1361
+	ACCESSORY_RuneHelm = 1361,
+	ACCESSORY_Pigeon_Hat = 1362,
+	ACCESSORY_Little_Aquarium = 1363,
+	ACCESSORY_Sailor_Collar = 1364,
+	ACCESSORY_Marine_Cap = 1365,
+	ACCESSORY_Bio_Protector = 1366,
+	ACCESSORY_Mask_of_Hero = 1367,
+	ACCESSORY_Parfait_V_Hat = 1368
 }

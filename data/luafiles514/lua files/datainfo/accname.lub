@@ -1348,5 +1348,12 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_FlyingGalapago] = "_날으는갈라파고",
 	[ACCESSORY_IDs.ACCESSORY_DVAngelNurseCap] = "_성천사의간호모",
 	[ACCESSORY_IDs.ACCESSORY_QueenAnzRevenge] = "_퀸안즈리벤지",
-	[ACCESSORY_IDs.ACCESSORY_RuneHelm] = "_룬헬름"
+	[ACCESSORY_IDs.ACCESSORY_RuneHelm] = "_룬헬름",
+	[ACCESSORY_IDs.ACCESSORY_Pigeon_Hat] = "_비둘기모자",
+	[ACCESSORY_IDs.ACCESSORY_Little_Aquarium] = "_리틀아쿠아리움",
+	[ACCESSORY_IDs.ACCESSORY_Sailor_Collar] = "_수병의옷깃",
+	[ACCESSORY_IDs.ACCESSORY_Marine_Cap] = "_마린캡",
+	[ACCESSORY_IDs.ACCESSORY_Bio_Protector] = "_바이오프로텍터",
+	[ACCESSORY_IDs.ACCESSORY_Mask_of_Hero] = "_영웅의마스크",
+	[ACCESSORY_IDs.ACCESSORY_Parfait_V_Hat] = "_파르펠레자경단모자"
 }

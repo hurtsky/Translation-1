@@ -24259,6 +24259,70 @@ Class: ^777777Card^000000
 Compound on: ^777777Shield^000000
 Weight: ^7777771^000000
 #
+4652#
+Increase magic damage against Shadow and Undead monsters by 50%.
+Increase magic damage against Demon and Undead race monsters by 50%.
+Class: ^777777Card^000000
+Compound on: ^777777Armor^000000
+Weight: ^7777771^000000
+#
+4653#
+Reduce damage from Brute and Undead monsters by 20%.
+When equipped with equip compounded with Nightmare Mimic card:
+Reduce damage from Brute and Undead monsters by 5%.
+Ignore 50% magic defense of Brute and Undead monsters.
+When equipped with equip compounded with Nightmare Minotaur card:
+Reduce damage from Brute and Undead monsters by 5%.
+Ignore 50% physical defense of Brute and Undead monsters.
+Class: ^777777Card^000000
+Compound on: ^777777Shield^000000
+Weight: ^7777771^000000
+#
+4654#
+Increase magical damage against Brute and Undead monster by 5%.
+When equipped with equip compounded with Nightmare Arclouse card:
+Reduce damage from Brute and Undead monsters by 5%.
+Ignore 50% magic defense of Brute and Undead monsters.
+Class: ^777777Card^000000
+Compound on: ^777777Weapon^000000
+Weight: ^7777771^000000
+#
+4655#
+Increase physical damage against Brute and Undead monster by 10%.
+When equipped with equip compounded with Nightmare Arclouse card:
+Reduce damage from Brute and Undead monsters by 5%.
+Ignore 50% physical defense of Brute and Undead monsters.
+Class: ^777777Card^000000
+Compound on: ^777777Weapon^000000
+Weight: ^7777771^000000
+#
+4656#
+When physically and magically attacked, chance to cause Sleep to all targets on 11x11 cells.
+When equipped with equip compounded with Nightmare Ancient Mummy card:
+Reduce damage from Neutral property by 5%.
+Increase the probability of causing Sleep to all targets on 11x11 cells.
+Class: ^777777Card^000000
+Compound on: ^777777Shoes^000000
+Weight: ^7777771^000000
+#
+4657#
+Reduce damage from Neutral property by 15%.
+Every refine of garment increase magical Fire damage by 3%.
+When equipped with equip compounded with Nightmare Mummy card:
+Reduce damage from Neutral property by 5%.
+Increase the probability of causing Sleep to all targets on 11x11 cells.
+Class: ^777777Card^000000
+Compound on: ^777777Garment^000000
+Weight: ^7777771^000000
+#
+4658#
+Increase magical damage inflicted by 5%.
+When refined to +7, increase magical damage inflicted by 3%.
+When refined to +9, increase magical damage inflicted by 2%.
+Class: ^777777Card^000000
+Compound on: ^777777Shoes^000000
+Weight: ^7777771^000000
+#
 4700#
 STR +1
 ^FFFFFF_^000000
@@ -49810,7 +49874,7 @@ Provide effect of Cast ^008800Level 3 Impositio Manus^000000 when used.
 Weight: ^77777710^000000
 #
 12709#
-Candy that made from Guyak. Tasty candy that is sweet and sour.
+Candy that made from special medicine. Tasty candy that is sweet and sour.
 ^000088Recover HP and SP by 30%^000000.
 ^FFFFFF_^000000
 Weight: ^77777715^000000

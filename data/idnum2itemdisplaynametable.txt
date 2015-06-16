@@ -2685,6 +2685,13 @@
 4639#Taffy_Card#
 4640#Frozen_Wolf_Card#
 4641#Zombie_Guard_Card#
+4652#Amenhotep_Card#
+4653#Nightmare_Arclouse_Card#
+4654#Nightmare_Mimic_Card#
+4655#Nightmare_Minotaur_Card#
+4656#Nightmare_Mummy_Card#
+4657#Nightmare_Ancient_Mummy_Card#
+4658#Nightmare_Verit_Card#
 4700#STR+1#
 4701#STR+2#
 4702#STR+3#
@@ -6580,8 +6587,8 @@
 12706#Lucky_Cookie#
 12707#Lucky_Cookie#
 12708#Lucky_Cookie#
-12709#Guyak_Candy#
-12710#Guyak_Pudding#
+12709#Old_Candy#
+12710#Old_Pudding#
 12711#Pretzel#
 12712#Green_Beer#
 12713#Monster_Extract#
