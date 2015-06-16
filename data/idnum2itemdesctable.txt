@@ -78452,6 +78452,33 @@ Weight: ^77777750^000000
 Required Level: ^77777730^000000
 Jobs: ^777777All^000000
 #
+19082#
+An eyes protector made for researcher.
+HIT +10
+Variable cast time -5%
+Perfect hit +5%
++Pipe, reduce skill delay by 5%.
++Mechanical Plant Hat, every refine increase Spore Explosion damage by 5%.
+When both Pipe and Mechanical Plant Hat equipped together, reduce SP consumption of Spore Explosion of 20.
+Class: ^777777Headgear^000000
+Defense: ^7777773^000000
+Location: ^777777Middle^000000
+Weight: ^77777750^000000
+Required Level: ^77777750^000000
+Jobs: ^777777All^000000
+#
+19083#
+A mask of tribal hero.
+MDEF +10
+VIT +10
+Reflect 1% of physical attack.
+Class: ^777777Headgear^000000
+Defense: ^7777770^000000
+Location: ^777777Middle^000000
+Weight: ^77777720^000000
+Required Level: ^77777770^000000
+Jobs: ^777777All^000000
+#
 19085#
 Ear adornments that symbolize rebirth. They have the ability to change its effects depending on the job of the wearer.
 If worn by a Swordman, Merchant, Thief or Taekwon Classes, ASPD +1, AGI -2.
@@ -91220,5 +91247,17 @@ Class: ^777777Shield^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+28903#
+A large rectangle curved shield made from three sheets of wood glued together and covered with canvas and leather.
+Flee +5
+Perfect dodge +1
+Every 3 refine level, Perfect dodge +2.
+Refined to +10, MaxHP and MaxSP +10%.
+Class: ^777777Shield^000000
+Defense: ^7777771^000000
+Weight: ^77777750^000000
+Required Level: ^77777710^000000
 Jobs: ^777777All^000000
 #

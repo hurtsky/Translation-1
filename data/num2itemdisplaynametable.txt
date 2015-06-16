@@ -10120,6 +10120,8 @@
 19053#Hat#
 19080#Accessory#
 19081#Hat#
+19082#Glasses#
+19083#Mask#
 19085#Accessory#
 19086#Glasses#
 19087#Accessory#
@@ -11544,3 +11546,4 @@
 28900#Shield#
 28901#Shield#
 28902#Shield#
+28903#Shield#

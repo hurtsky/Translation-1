@@ -10120,6 +10120,8 @@
 19053#Fighter_Moon_Cat_Hat#
 19080#Nettie_Heart_Bubblegum#
 19081#Faceworm_Egg_Shell#
+19082#Bio_Protector#
+19083#Mask_of_Hero#
 19085#Sigrun_Wing#
 19086#Robo_Eye#
 19087#Angel_Spirit#
@@ -11544,3 +11546,4 @@
 28900#Praetorian_Shield#
 28901#Cursed_Mad_Bunny#
 28902#Mad_Bunny#
+28903#Scutum#
