@@ -1562,7 +1562,7 @@
 2484#WoE_Boots#
 2485#WoE_Shoes#
 2486#Shadow_Walker#
-2487#Sephiroth's_Shoes#
+2487#Vital_Tree_Shoes#
 2488#Freyja_Boots#
 2489#Vidar's_Boots#
 2490#Rune_Boots#
@@ -1645,7 +1645,7 @@
 2569#Shawl_Of_Affection#
 2570#Shawl_Of_Judgement#
 2571#Eden_Group_Manteau_II#
-2572#Catapult_shoulder#
+2572#Catapult_Shoulder#
 2573#Archangel_Wing#
 2574#Ur's_Manteau#
 2575#Peuz's_Manteau#

@@ -14028,11 +14028,22 @@ Required Level: ^777777105^000000
 Jobs: ^777777Wanderer^000000
 #
 2466#
-[JRO item]
+A special shoes that made to reduce the burden of the foot when running.
+MaxHP +2%
+MaxSP +2%
+HP and SP recovery rate +5%
++Undershirt and Pantie, STR +2
+Class: ^777777Footgear^000000
+Defense: ^7777771^000000
+Weight: ^77777730^000000
+Required Level: ^77777710^000000
+Jobs: ^777777All^000000
 #
 2467#
 A pair of golden long boots imbued with power of wind.
-MDEF +2, MaxHP +500, Increases resistance to ^4cbb17Wind^000000 attacks by 15%.
+MDEF +2
+MaxHP +500
+Increases resistance to ^4cbb17Wind^000000 attacks by 15%.
 Class: ^777777Footgear^000000
 Defense: ^77777712^000000
 Weight: ^77777750^000000
@@ -14041,7 +14052,9 @@ Jobs: ^777777Warlock^000000
 #
 2468#
 A pair of sea-blue long boots imbued with power of water.
-MDEF +2, MaxHP +500, Increases resistance to ^0000BBWater^000000 attacks by 15%.
+MDEF +2
+MaxHP +500
+Increases resistance to ^0000BBWater^000000 attacks by 15%.
 Class: ^777777Footgear^000000
 Defense: ^77777712^000000
 Weight: ^77777750^000000
@@ -14050,7 +14063,9 @@ Jobs: ^777777Warlock^000000
 #
 2469#
 A pair of red long boots imbued with power of fire.
-MDEF +2, MaxHP +500, Increases resistance to ^FF0000Fire^000000 attacks by 15%
+MDEF +2
+MaxHP +500
+Increases resistance to ^FF0000Fire^000000 attacks by 15%
 Class: ^777777Footgear^000000
 Defense: ^77777712^000000
 Weight: ^77777750^000000
@@ -14059,7 +14074,9 @@ Jobs: ^777777Warlock^000000
 #
 2470#
 A pair of turquoise long boots imbued with power of earth.
-MDEF +2, MaxHP +500, Increases resistance to ^cc5500Earth^000000 attacks by 15%
+MDEF +2
+MaxHP +500
+Increases resistance to ^cc5500Earth^000000 attacks by 15%.
 Class: ^777777Footgear^000000
 Defense: ^77777712^000000
 Weight: ^77777750^000000
@@ -14069,8 +14086,8 @@ Jobs: ^777777Warlock^000000
 2471#
 An ancient relic of war that once worn to help people in suffering.
 MaxHP +500
-Increases tolerance to Demihuman by 10%
-Decreases tolerance to all races by 10%
+Increases tolerance to Demihuman by 10%.
+Decreases tolerance to other races by 10%.
 Class: ^777777Footgear^000000
 Defense: ^77777712^000000
 Weight: ^77777730^000000
@@ -14090,9 +14107,9 @@ Jobs: ^777777Archbishop^000000
 2473#
 Boots that are provided only for members of the Eden Group.
 These are designed to fit comfortably throughout long-walks.
+VIT +1, AGI +1
 HP recovery +28%
 SP recovery +12%
-Vit +1, AGI +1
 ^FF0000Unrefineable^000000
 Class: ^777777Footgear^000000
 Defense: ^77777720^000000
@@ -14105,8 +14122,8 @@ Jobs: ^777777All^000000
 #
 2475#
 Greaves made by purifying an Ur Rune.
-MaxSP +40.
-Reduces MaxHP by 7%. Refine rate reduces the MaxHP reduction by 1% for each level up to +8.
+MaxSP +40
+MaxHP +1% for every refine above +7
 Class: ^777777Footgear^000000
 Defense: ^77777732^000000
 Weight: ^77777790^000000
@@ -14115,8 +14132,8 @@ Jobs: ^777777Rune Knight^000000
 #
 2476#
 Greates made by purifying a Peuz Rune.
-MaxSP +40.
-Reduces AGI by 7. Refine rate reduces the AGI reduction by 1% for each level up to +8.
+MaxSP +40
+AGI +1 for every refine above +7
 Class: ^777777Footgear^000000
 Defense: ^77777732^000000
 Weight: ^77777790^000000
@@ -14125,7 +14142,8 @@ Jobs: ^777777Rune Knight^000000
 #
 2477#
 Shoes that have long been known to be from the world of darkness.
-LUK +3, MaxSP +30.
+LUK +3
+MaxSP +30
 Class: ^777777Footgear^000000
 Defense: ^77777718^000000
 Weight: ^77777740^000000
@@ -14134,7 +14152,8 @@ Jobs: ^777777Guillotine Cross^000000
 #
 2478#
 An assassin's famous historical relic.
-FLEE +3, INT +2.
+INT +2
+FLEE +3
 Class: ^777777Footgear^000000
 Defense: ^77777718^000000
 Weight: ^77777740^000000
@@ -14143,7 +14162,7 @@ Jobs: ^777777Guillotine Cross^000000
 #
 2479#
 Shoes of the brilliant archer guild known as Icarus.
-AGI +2.
+AGI +2
 Reduces the SP cost of Aimed Bolt by 10.
 Class: ^777777Footgear^000000
 Defense: ^77777718^000000
@@ -14153,7 +14172,8 @@ Jobs: ^777777Ranger^000000
 #
 2480#
 An ancient artifact that helps maintain clear mental focus.
-INT +2, MaxSP +5%.
+INT +2
+MaxSP +5%
 Class: ^777777Footgear^000000
 Defense: ^77777718^000000
 Weight: ^77777740^000000
@@ -14162,9 +14182,10 @@ Jobs: ^777777Ranger^000000
 #
 2481#
 Black leather boots engraved Rune.
-^702180Indestructible^000000
-When base STR is 90 or higher, ATK +10. When base STR is 120 or higher, ATK +10 additionally.
-When base INT is 90 or higher, MATK +3%. When base INT is 120 or higher, MATK +2% additionally.
+When base STR is 90 or higher, ATK +10.
+When base STR is 120 or higher, ATK +10.
+When base INT is 90 or higher, MATK +3%.
+When base INT is 120 or higher, MATK +2%.
 Class: ^777777Footgear^000000
 Defense: ^7777775^000000
 Weight: ^77777710^000000
@@ -14172,7 +14193,8 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 2482#
-Increase SP recovery by 10%, Enable use of Level 1 Increase Agility.
+Increase SP recovery by 10%.
+Enable use of Level 1 Increase Agility.
 Class: ^777777Footgear^000000
 Defense: ^7777774^000000
 Weight: ^7777770^000000
@@ -14217,7 +14239,7 @@ Jobs: ^777777Novice, Wizard, Acolyte and Soul Linker^000000
 #
 2486#
 Shadowy shoes made using dark forces and enchanted with a spell to protect their wearer when danger approaches.
-MDEF +10.
+MDEF +10
 Has a certain chance of auto casting Level 2 Cloaking when hit by magic attacks.
 If the wearer has learned a higher level of Cloaking, those levels of Cloaking will be auto cast instead.
 Class: ^777777Footgear^000000
@@ -14227,38 +14249,76 @@ Required Level: ^77777775^000000
 Jobs: ^777777All except Novice^000000
 #
 2487#
-[JRO item]
-Why not Zack's shoes?
+A shoes made from stem of tree of life.
+VIT +2
+MDEF +3
+MaxHP +10%
+HP recovery rate +5%.
+Recover 30 HP every 10 second.
+Increase item recovery rate by 5%.
+Class: ^777777Footgear^000000
+Defense: ^77777716^000000
+Weight: ^77777750^000000
+Required Level: ^77777760^000000
+Jobs: ^777777Transcendent Classes^000000
 #
 2488#
 [JRO item]
 #
 2489#
-[JRO item]
+The boots worn by Vidar, son of Odin, when he killed the Fenrir Wolf.
+These represent the great physical and mental strength Vidar displayed in that epic final battle.
+MaxHP +9%
+MaxSP +9%
+[^6A5ACDOdin's Armor Set^000000]
+^3CB371Vali's Manteau^000000
+^3CB371Vidar's Boots^000000
+^3CB371Odin's Blessing^000000
+VIT +5
+HP/SP Recovery +10%
+Class: ^777777Footgear^000000
+Defense: ^77777713^000000
+Weight: ^77777765^000000
+Required Level: ^77777765^000000
+Jobs: ^777777All except Novice^000000
 #
 2490#
-[JRO item]
+Black leather boots engraved Rune.
+When base STR is 90 or higher, ATK +10.
+When base STR is 120 or higher, ATK +10.
+When base INT is 90 or higher, MATK +3%.
+When base INT is 120 or higher, MATK +2%.
+Class: ^777777Footgear^000000
+Defense: ^7777775^000000
+Weight: ^77777710^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 2491#
 Ominous boots emitting Bangungot's revenge and powerful hatred of humans.
-MDEF +1 increase per 1 refinement. Speed increased with 14 refinement and above.
+MDEF +1 for every refine.
+When refined to +14, increase movement speed.
 Class: ^777777Footgear^000000
 Defense: ^77777710^000000
 Weight: ^77777760^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 2492#
 Ominous boots emitting Bangungot's revenge and powerful hatred of humans.
-MDEF +1 increase per 1 refinement. Speed increased with 12 refinement and above.
+MDEF +1 for every refine.
+When refined to +12, increase movement speed.
 Class: ^777777Footgear^000000
 Defense: ^77777710^000000
 Weight: ^77777760^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 2493#
 A pair of shoes rumored to be forged by Goibne in response to competition from his rival, Dulb.
-MaxHP/MaxSP +5%.
-MDEF +3.
+MaxHP +5%
+MaxSP +5%
+MDEF +3
 Class: ^777777Footgear^000000
 Defense: ^77777713^000000
 Weight: ^77777770^000000
@@ -14267,7 +14327,8 @@ Jobs: ^777777All except Novice^000000
 #
 2494#
 A pair of feminine high heeled shoes made of fine crystal. Usually, these are worn only on special occasions.
-LUK +5 , MDEF +10
+LUK +5
+MDEF +10
 Class: ^777777Footgear^000000
 Defense: ^7777775^000000
 Weight: ^77777710^000000
@@ -14275,7 +14336,7 @@ Jobs: ^777777All except Novice^000000
 #
 2495#
 Egir's shoes , it looks suppporting your capacity
-can not be destroyed
+^702180Indestructible^000000
 [Magician, Archer, Acolyte]
 Increase MaxHP by 5*base level
 [Swordman, Merchant, Thief]
@@ -14325,7 +14386,8 @@ Jobs: ^777777Novice, Wizard, Acolyte and Soul Linker^000000
 #
 2499#
 These boots are obviously old but they show no signs of wear and tear.
-MaxHP +300, MaxSP +30.
+MaxHP +300
+MaxSP +30
 For every 3 refine level, MaxHP +100, MaxSP +10
 Class: ^777777Footgear^000000
 Defense: ^77777720^000000
@@ -14366,18 +14428,14 @@ A long, loose cape-like garment that protects its wearer from harsh weather.
 Class: ^777777Garment^000000
 Defense: ^77777713^000000
 Weight: ^77777760^000000
-Jobs: ^777777Swordman,
-Merchant, Thief Classes,
-and Taekwon Boy/Girl, Star Gladiator^000000
+Jobs: ^777777Swordman, Merchant, Thief, Taekwon Boy/Girl and Star Gladiator^000000
 #
 2506#
 A long, loose cape-like garment that protects its wearer from harsh weather.
 Class: ^777777Garment^000000
 Defense: ^77777713^000000
 Weight: ^77777760^000000
-Jobs: ^777777Swordman,
-Merchant, Thief Classes,
-and Taekwon Boy/Girl, Star Gladiator^000000
+Jobs: ^777777Swordman, Merchant, Thief, Taekwon Boy/Girl and Star Gladiator^000000
 #
 2507#
 A fancy cape said to have once been worn by marquises long ago.
@@ -14390,8 +14448,8 @@ Jobs: ^777777All except Novice^000000
 #
 2508#
 An old, worn-out cape that can protect its wearer from mystical harm, no matter how powerful it may be.
-^702180Indestructible^000000
 MDEF +10
+^702180Indestructible^000000
 Class: ^777777Garment^000000
 Defense: ^7777774^000000
 Weight: ^77777750^000000
@@ -14403,7 +14461,7 @@ VIT +10
 [^6A5ACDSurvivor's Set^000000]
 ^3CB371Survivor's Manteau^000000
 ^3CB371Survivor's Rod [1]^000000
-HP +300
+MaxHP +300
 MATK -5%
 MATK +1% per upgrade level of Survivor's Rod
 Resist ^777777Neutral^000000 property by 3 times the upgrade level of Survivor's Manteau.
@@ -14470,8 +14528,8 @@ Jobs: ^777777Mage and Soul Linker^000000
 2516#
 A muffler owned by Freyja, daughter of Njord, that was often borrowed by Loki.
 Wearing it makes its wearer as nimble as a falcon in flight.
-Perfect Dodge +5.
-Flee +15.
+Flee +15
+Perfect Dodge +5
 [^6A5ACDNjord's Armor Set^000000]
 ^3CB371Fricco's Shoes^000000
 ^3CB371Falcon Muffler^000000
@@ -14511,7 +14569,8 @@ Jobs: ^777777All except Novice^000000
 #
 2519#
 A manteau made from gray crow feathers that were enchanted through the power of Morrigane, whose incarnation is the gray crow.
-LUK +2, Perfect Dodge +8.
+LUK +2
+Perfect Dodge +8
 Class: ^777777Garment^000000
 Defense: ^7777779^000000
 Weight: ^77777760^000000
@@ -14520,8 +14579,9 @@ Jobs: ^777777All except Novice^000000
 #
 2520#
 Goibne's very first creation, his much prized and precious armor.
+VIT +1
+MDEF +2
 Reduces long range physical damage by 10%.
-VIT +1, MDEF +2
 Class: ^777777Garment^000000
 Defense: ^77777711^000000
 Weight: ^77777770^000000
@@ -14537,9 +14597,9 @@ Increases natural HP Recovery by 5%.
 ^3CB371Angelic Cardigan^000000
 ^3CB371Angel's Reincarnation^000000
 ^3CB371Angelic Guard^000000
-HP +900
-SP +100
-Has low Chance of casting level 1 Assumptio when attacked physically.
+MaxHP +900
+MaxSP +100
+Has low Chance of casting Level 1 Assumptio when attacked physically.
 Class: ^777777Garment^000000
 Defense: ^7777776^000000
 Weight: ^77777740^000000
@@ -14548,7 +14608,7 @@ Jobs: ^777777Novice^000000
 #
 2522#
 Lightweight armor made from 100% real cotton that is actually quite durable.
-MDEF +1.
+MDEF +1
 [+^008800Pantie^000000]
 AGI +5
 Flee +10
@@ -14559,7 +14619,7 @@ Jobs: ^777777All^000000
 #
 2523#
 Lightweight armor made from 100% real cotton that is actually quite durable.
-MDEF +1.
+MDEF +1
 [+^008800Pantie^000000]
 AGI +5
 Flee +10
@@ -14620,7 +14680,7 @@ Jobs except Novice^000000
 #
 2528#
 A scarf made from the highest quality wool that feels so comforting and cozy when you're exhausted.
-MDEF +4.
+MDEF +4
 [+^008800Tidal Shoes^000000]
 MaxHP +10%
 Increase HP recovery rate by 5%
@@ -14633,7 +14693,7 @@ Jobs except Novice^000000
 #
 2529#
 A symbol worn by runners that just makes you want to sprint when you wear it.
-AGI +2.
+AGI +2
 [+^008800Black Leather Boots^000000]
 Flee +10
 Class: ^777777Garment^000000
@@ -14645,7 +14705,7 @@ Jobs except Novice^000000
 #
 2530#
 A symbol worn by runners that just makes you want to sprint when you wear it.
-AGI +2.
+AGI +2
 [+^008800Black Leather Boots^000000]
 Flee +10
 Class: ^777777Garment^000000
@@ -14696,7 +14756,7 @@ Jobs: ^777777All except Novice^000000
 2534#
 A cloak from Guild of Traveler
 Increase resistance against physical attacks by 17%.
-Flee +17.
+Flee +17
 Class: ^777777Garment^000000
 Defense: ^77777710^000000
 Weight: ^7777770^000000
@@ -14718,8 +14778,9 @@ Jobs: ^777777Wizard and Soul Linker^000000
 2536#
 Lucifer's skin, cursed by the devil's language.
 It can be worn as a robe.
-MDEF +2, MaxHP +200,
+MDEF +2
 FLEE +10
+MaxHP +200,
 Class: ^777777Garment^000000
 Defense: ^7777777^000000
 Weight: ^77777725^000000
@@ -14732,7 +14793,7 @@ MaxHP +100
 Decreases ^777777Neutral^000000 property damage by 5%.
 Increases Physical Damage to Satan Morocc by 10%.
 [+^008800Diabolus Boots^000000]
-MaxHP +6%.
+MaxHP +6%
 Class: ^777777Garment^000000
 Defense: ^77777715^000000
 Weight: ^77777725^000000
@@ -14740,8 +14801,9 @@ Jobs: ^777777Above Transcendent 2-1 Classes^000000
 #
 2538#
 A dignified, splendid Manteau that is provided to any warrior who brings great honor from the battlefield.
+MaxHP +50
+MDEF +1
 Reduces damage from Demihuman monsters by 1%.
-MaxHP +50. MDEF +1.
 Class: ^777777Garment^000000
 Defense: ^77777728^000000
 Weight: ^7777770^000000
@@ -14750,8 +14812,9 @@ Jobs: ^777777Swordman, Merchant, Thief Classes, Ninja, Taekwon Boy/Girl and Star
 #
 2539#
 A Manteau that is provided to any superior commander who has the outstanding ability to support their base.
+MaxHP +50
+MDEF +1
 Reduces damage from Demihuman monsters by 1%.
-MaxHP +50. MDEF +1.
 Class: ^777777Garment^000000
 Defense: ^77777720^000000
 Weight: ^7777770^000000
@@ -14760,8 +14823,9 @@ Jobs: ^777777Mage, Acolyte, Archer, Soul Linker^000000
 #
 2540#
 A Manteau imbued with tension and the mysterious spirit of desolate wilderness.
+MaxHP +50
+MDEF +1
 Reduces damage from Demihuman monsters by 1%.
-MaxHP +50. MDEF +1.
 Class: ^777777Garment^000000
 Defense: ^77777720^000000
 Weight: ^7777770^000000
@@ -14770,10 +14834,10 @@ Jobs: ^777777Gunslinger^000000
 #
 2541#
 A wing made of all lights that exist in the world. It's name means 'Light of the gods'.
-30% immunity from physical attacks of all attributes.
-FLEE +30, MDEF +5.
-Enables use of the skill ^FF0000Teleport Lv1^000000.
-Adds resistance to physical attacks in all elements by 30%.
+FLEE +30
+MDEF +5
+Increase resistance against melee physical attacks of all elements by 30%.
+Enables use of the skill Level 1 ^FF0000Teleport^000000.
 ^FF0000Unrefineable^000000
 ^702180Indestructible^000000
 Class: ^777777Garment^000000
@@ -14784,9 +14848,10 @@ Jobs: ^777777All^000000
 #
 2542#
 A Manteau of Flame that Naght Sieger wore.
-MaxHP 5%, MDEF +2
-Increases MATK 1%.
-Additional 2% physical damage to Fire monsters.
+MaxHP 5%
+MDEF +2
+MATK +1%
+Increase 2% physical damage to Fire monsters.
 Class: ^777777Garment^000000
 Defense: ^77777716^000000
 Weight: ^77777770^000000
@@ -14797,8 +14862,9 @@ Jobs: ^777777All Transcendent classes except Novice^000000
 ^000088Rental Item^000000
 A Soft Manteau that has been blessed by a Wind Fairy.
 It is said to allow the wearer to be protected from danger.
-FLEE +13, Reduce 13% of ^777777Neutral^000000 property damage.
+FLEE +13
 Perfect Dodge +1
+Increase resistance against ^777777Neutral^000000 property attack by 13%.
 Class: ^777777Garment^000000
 Defense: ^7777779^000000
 Weight: ^7777770^000000
@@ -14807,8 +14873,8 @@ Jobs: ^777777All except Novice^000000
 #
 2544#
 Leather of a Tendrilion with plant stems sticking out of it.
-Resistance to Earth and ^0000BBWater^000000 property +5%
-Resistance to animal or plant monsters +5%
+Increase resistance against ^cc5500Earth^000000 and ^0000BBWater^000000 property attack by 5%.
+Increase resistance against Brute and Plant monsters by 5%.
 Class: ^777777Garment^000000
 Defense: ^77777714^000000
 Weight: ^77777750^000000
@@ -14816,9 +14882,9 @@ Jobs: ^7777772nd Transcendent classes^000000
 #
 2545#
 An outfit for priests in order to protect the exorcists at Prontera Church.
-MDEF +3.
+MDEF +3
 Has a chance of casting Level 1 Heal on the wearer when physically attacked at a close distance.
-If higher level of Heal is learned, uses the level the wearer has learned.
+If higher level of Heal is learned, it will use the level the wearer has learned.
 Class: ^777777Garment^000000
 Defense: ^77777710^000000
 Weight: ^77777750^000000
@@ -14830,7 +14896,7 @@ A manteau received as a gift from Comodo Environmental Commission.
 It seems to match perfect with Comodo beach.
 STR +1, INT +1
 Add a 10% resistance to the ^FF0000Fire^000000 Property.
-^8B4513FLEE +5 when worn with Beach Sandals^000000.
+FLEE +5 when worn with ^8B4513Beach Sandals^000000.
 Class: ^777777Garment^000000
 Defense: ^7777770^000000
 Weight: ^77777760^000000
@@ -14838,9 +14904,10 @@ Jobs: ^777777All^000000
 #
 2547#
 ^000088Rental item^000000
-DEX +2, FLEE +10
-Reduce 10% of ^777777Neutral^000000 Property damage.
+DEX +2
 MDEF +1
+FLEE +10
+Reduce 10% of ^777777Neutral^000000 Property damage.
 Class: ^777777Garment^000000
 Defense: ^7777778^000000
 Weight: ^7777770^000000
@@ -14849,8 +14916,8 @@ Jobs: ^777777All^000000
 2548#
 ^000088Rental Items^000000
 A warm scarf that is worn around the neck and shoulders.
-Add a 10% resistance against DemiHuman monster.
 MaxHP +10%
+Add a 10% resistance against DemiHuman monster.
 Resistance against ^0000FFWater^000000, ^FF0000Fire^000000, ^777777Holy, Shadow^000000 Property by 5%.
 Class: ^777777Garment^000000
 Defense: ^7777775^000000
@@ -14879,7 +14946,7 @@ Jobs: ^777777All^000000
 A symbol known to be used by the people who loved to run. Just wearing it arouses a desire to run.
 AGI +2
 [^000088+ Black Leather Boots^000000]
-Increases Flee +10.
+Flee +10
 Class: ^777777Garment^000000
 Defense: ^7777774^000000
 Weight: ^77777750^000000
@@ -14887,7 +14954,7 @@ Required Level: ^77777755^000000
 Jobs: ^777777Every Rebirth Job except High Novice^000000
 #
 2552#
-A mysterious cape with protective spell. Converts the wearer's DEF to MDEF.
+A mysterious cape with protective spell, that converts the wearer's DEF to MDEF.
 MDEF +3
 Whenever you receive a Magical Damage, there is a small chance to reduce all incoming Magical Damage by 20% for 2 seconds, but also reduces your DEF by 20% during that 2 seconds.
 Class: ^777777Garment^000000
@@ -14908,22 +14975,22 @@ Jobs: ^777777All Transcendent classes except Novice Classes^000000
 #
 2554#
 Made from a scale of Nidhoggur's Shadow, it still possesses its strong power.
-MDEF +3,
-Increases resistance to all elements by 7%.
-MaxSP increases by
-(Base lvl/3)+(refine lvl*10)
+MDEF +3
+Increases resistance against all elements by 7%.
+Increase MaxSP based on Refine level and wearer's Base level.
 Has 1% chance to recover 1% amount of inflicted damage to SP.
 Class: ^777777Garment^000000
 Defense: ^77777725^000000
 Weight: ^77777740^000000
 Required Level: ^77777790^000000
-Jobs: ^777777All Transcendent classes except Novice Classes^000000
+Jobs: ^777777All Transcendent classes except Novice^000000
 #
 2555#
 ^000088Rental Items^000000
 A spiritual scarf granted by Freya. It appears very sturdy,
 but it will eventually disappear and return to Freya's realm, Folkvangr.
-Flee +15, Reduce 15% of ^777777Neutral^000000 Property damage.
+Flee +15
+Increase resistance against ^777777Neutral^000000 property attack by 15%.
 Class: ^777777Garment^000000
 Defense: ^7777770^000000
 Weight: ^77777740^000000
@@ -14934,7 +15001,8 @@ Jobs: ^777777All^000000
 ^000088Rental Items^000000
 A spiritual scarf granted by Freya. It appears very sturdy,
 but it will eventually disappear and return to Freya's realm, Folkvangr.
-Flee +15, Reduce 15% of ^777777Neutral^000000 Property damage.
+Flee +15
+Increase resistance against ^777777Neutral^000000 property attack by 15%.
 Class: ^777777Garment^000000
 Defense: ^7777770^000000
 Weight: ^77777740^000000
@@ -14945,7 +15013,8 @@ Jobs: ^777777All^000000
 ^000088Rental Items^000000
 A spiritual scarf granted by Freya. It appears very sturdy,
 but it will eventually disappear and return to Freya's realm, Folkvangr.
-Flee +15, Reduce 15% of ^777777Neutral^000000 Property damage.
+Flee +15
+Increase resistance against ^777777Neutral^000000 property attack by 15%.
 Class: ^777777Garment^000000
 Defense: ^7777770^000000
 Weight: ^77777740^000000
@@ -14956,7 +15025,8 @@ Jobs: ^777777All^000000
 ^000088Rental Items^000000
 A spiritual scarf granted by Freya. It appears very sturdy,
 but it will eventually disappear and return to Freya's realm, Folkvangr.
-Flee +15, Reduce 15% of ^777777Neutral^000000 Property damage.
+Flee +15
+Increase resistance against ^777777Neutral^000000 property attack by 15%.
 Class: ^777777Garment^000000
 Defense: ^7777770^000000
 Weight: ^77777740^000000
@@ -14966,7 +15036,8 @@ Jobs: ^777777All^000000
 2559#
 ^000088Rental item^000000
 Manto, tailored for those who devoted his life to the protection of people. Protects from the wind.
-FLEE +10. MDEF +1.
+FLEE +10
+MDEF +1
 Reduce 10% of ^777777Neutral^000000 Property damage.
 Class: ^777777Garment^000000
 Defense: ^7777779^000000
@@ -14975,9 +15046,8 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 2560#
-A manteau which is only for Eden Group members.
-It is designed to flatter anyone's backside.
-Increases tolerance to ^777777Neutral^000000 property by 10%.
+A manteau which is only for Eden Group members. It is designed to flatter anyone's backside.
+Increases resistance against ^777777Neutral^000000 property attack by 10%.
 ^FF0000Unrefineable^000000
 Class: ^777777Garment^000000
 Defense: ^77777714^000000
@@ -15010,11 +15080,12 @@ Class: ^777777Garment^000000
 Defense: ^77777718^000000
 Weight: ^77777730^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Swordman Class, Merchant Class, Thief Class, Taekwon, Star Gladiator^000000
+Jobs: ^777777Swordman, Merchant, Thief, Taekwon and Star Gladiator^000000
 #
 2564#
 It has a message inscribed - A symbol of valor made with the tail of a savage beast.
-Unrefineable and Indestructible.
+^702180Indestructible^000000
+^FF0000Unrefineable^000000
 Class: ^777777Robe^000000
 Defense: ^77777716^000000
 Weight: ^7777770^000000
@@ -15023,7 +15094,8 @@ Jobs: ^777777All^000000
 #
 2565#
 A colorful beach towel used as protection from the sun.
-MDEF +3, FLEE +7
+MDEF +3
+FLEE +7
 Resistance to Neutral property attacks +7%,
 Class: ^777777Robe^000000
 Defense: ^7777772^000000
@@ -15034,10 +15106,12 @@ Jobs: ^777777All^000000
 2566#
 ^000088Rental Items^000000
 A wing made of all lights that exist in the world. It's name means 'Light of the gods'.
-15% immunity from physicall attacks of all attributes.
-FLEE +15, MDEF +2.
-Enables use of the skill Teleport Lv1.
-Unrefineable and Indestructible.
+FLEE +15
+MDEF +2
+Increase resistance against all elements attack by 15%.
+Enables use of Level 1 ^008800Teleport^000000.
+^702180Indestructible^000000
+^FF0000Unrefineable^000000
 Class: ^777777Garment^000000
 Defense: ^77777720^000000
 Weight: ^7777770^000000
@@ -15046,8 +15120,8 @@ Jobs: ^777777All^000000
 #
 2568#
 A red scarf worn out from long use.
-AGI +1.
-Increases the effectiveness of the skill 'Cross Impact' by 5%.
+AGI +1
+Increases damage inflicted of skill ^008800Cross Impact^000000 by 5%.
 ^FF0000Unrefineable^000000
 Class: ^777777Outerwear^000000
 Defense: ^77777710^000000
@@ -15058,7 +15132,7 @@ Jobs: ^777777All^000000
 2569#
 An ancient relic of war that once worn to help people in suffering.
 Perfect Dodge +5
-Has a chance of casting ^008800Level 1 Renovatio^000000 while being physically or magically attacked.
+Has a chance of casting Level 1 ^008800Renovatio^000000 while being physically or magically attacked.
 Class: ^777777Garment^000000
 Defense: ^77777712^000000
 Weight: ^77777730^000000
@@ -15068,7 +15142,7 @@ Jobs: ^777777Archbishop^000000
 2570#
 An ancient relic of war that once worn to fight Demon.
 Flee +5
-Has a chance of casting ^008800Level 2 Oratio^000000 while being physically or magically attacked,
+Has a chance of casting Level 2 ^008800Oratio^000000 while being physically or magically attacked,
 If a higher level of this skill is learned then that level will activate.
 Class: ^777777Garment^000000
 Defense: ^77777712^000000
@@ -15079,8 +15153,8 @@ Jobs: ^777777Archbishop^000000
 2571#
 A manteau which is only for Eden Group members.
 It is designed to flatter anyone's backside.
-Increases tolerance to ^777777Neutral^000000 property by 10%.
 FLEE +12
+Increases resistance against ^777777Neutral^000000 property attack by 10%.
 ^FF0000Unrefineable^000000
 Class: ^777777Garment^000000
 Defense: ^77777718^000000
@@ -15089,7 +15163,15 @@ Required Level: ^77777760^000000
 Jobs: ^777777All^000000
 #
 2572#
-[JRO item]
+A shoulder with mechanical part. Amplifies the attack power to its wearer.
+Very heavy though.
+ATK +15
+^FF0000Unrefineable^000000
+Class: ^777777Garment^000000
+Defense: ^7777774^000000
+Weight: ^777777300^000000
+Required Level: ^77777770^000000
+Jobs: ^777777All^000000
 #
 2573#
 White wings of a holy Archangel.
@@ -15101,7 +15183,8 @@ Jobs: ^777777All^000000
 #
 2574#
 A manteau created by Ur Runestones
-MaxHP +2%, Increases tolerance to ^777777Neutral^000000 property attacks by 10%.
+MaxHP +2%
+Increases resistance against ^777777Neutral^000000 property attacks by 10%.
 Class: ^777777Garment^000000
 Defense: ^77777720^000000
 Weight: ^77777760^000000
@@ -15119,38 +15202,26 @@ Jobs: ^777777Rune Knight^000000
 #
 2576#
 A small backpack with essential item for adventure.
-Enables use of Level 1 ^00BB00Greed^000000
+Enables use of
+Level 1 ^00BB00Greed^000000
 [-^6A5ACD Base STR 90^000000 -]
-Refine level ^008800+7^000000:
-Attack +20
-Refine level ^008800+9^000000:
-Attack +30
+Refined to +7, ATK +20
+Refined to +9, ATK +10
 [-^6A5ACD Base INT 90^000000 -]
-Refine level ^008800+7^000000:
-Magic Attack +30
-Refine level ^008800+9^000000:
-Magic Attack +50
+Refined to +7, MATK +30
+Refined to +9, MATK +20
 [-^6A5ACD Base VIT 90^000000 -]
-Refine level ^008800+7^000000:
-Neutral resistance +5%
-Refine level ^008800+9^000000:
-Neutral resistance +10%
+Refined to +7, Neutral resistance +10%
+Refined to +9, Neutral resistance +5%
 [-^6A5ACD Base AGI 90^000000 -]
-Refine level ^008800+7^000000:
-ASPD +8%
-Refine level ^008800+9^000000:
-ASPD +8%, ASPD +1
+Refined to +7, ASPD +8%
+Refined to +9, ASPD +1
 [-^6A5ACD Base DEX 90^000000 -]
-Refine level ^008800+7^000000:
-Ranged damage +5%
-Refine level ^008800+9^000000:
-Ranged damage +10%
+Refined to +7, Ranged damage +5%
+Refined to +9, Ranged damage +5%
 [-^6A5ACD Base LUK 90^000000 -]
-Refine level ^008800+7^000000:
-Critical damage +10%
-Refine level ^008800+9^000000:
-Critical damage +15%
-^FFFFFF_^000000
+Refined to +7, Critical damage +10%
+Refined to +9, Critical damage +5%
 Class: ^777777Garment^000000
 Defense: ^77777720^000000
 Weight: ^77777720^000000
@@ -15159,7 +15230,8 @@ Jobs: ^777777All^000000
 #
 2577#
 A manteau that contains the reliquery remains of an ancient Assassin
-FLEE +12, increase Critical rate per refine level.
+FLEE +12
+Increase Critical rate per refine level.
 Class: ^777777Garment^000000
 Defense: ^77777713^000000
 Weight: ^77777710^000000
@@ -15177,7 +15249,7 @@ Jobs: ^777777Guillotine Cross^000000
 #
 2579#
 The embroidered shawl can enhance the concentration of magic.
-MDEF +3.
+MDEF +3
 The SP consumption for all skill -5%, MaxSP +3%.
 If refined to +6 and above, MaxSP +3% in addition
 Class: ^777777Garment^000000
@@ -15188,7 +15260,7 @@ Jobs: ^777777All^000000
 #
 2580#
 A manteau from an archer guild known as Icarus
-AGI +2, FLEE +10,
+AGI +2, FLEE +10
 Has a chance of activating FLEE +20 for 7 seconds while physically attacking.
 Class: ^777777Garment^000000
 Defense: ^77777715^000000
@@ -15198,7 +15270,7 @@ Jobs: ^777777Ranger^000000
 #
 2581#
 A cloak that helps maintain clear mental focus.
-INT +2.
+INT +2
 Adds perfect dodge +1 for every refine level above level 6.
 Class: ^777777Garment^000000
 Defense: ^77777715^000000
@@ -15214,10 +15286,17 @@ Class: ^777777Garment^000000
 Defense: ^7777771^000000
 Weight: ^77777740^000000
 Required Level: ^777777130^000000
-Jobs: ^777777Warlock/Archbishop^000000
+Jobs: ^777777Warlock and Archbishop^000000
 #
 2583#
-[JRO item]
+A cape made from the remain of saint's shrud. Able to protect wearer from darkness.
+MDEF +5
+Reduce damage from Demon and Undead monsters by 5%.
+Class: ^777777Garment^000000
+Defense: ^7777775^000000
+Weight: ^77777710^000000
+Required Level: ^77777750^000000
+Jobs: ^777777All^000000
 #
 2584#
 [JRO item]
@@ -15274,7 +15353,6 @@ Increase ASPD +1%
 Increase ranged damage by +1%
 [^6A5ACDEvery 20 base LUK^000000]
 Increase CRIT +1%
-^777777 ^000000
 Class: ^777777Garment^000000
 Defense: ^77777718^000000
 Weight: ^77777720^000000
