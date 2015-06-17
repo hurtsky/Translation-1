@@ -10135,6 +10135,7 @@ Jobs: ^777777Wanderer^000000
 A whip used by Mike Oh.
 Reduce Moonlight Serenade SP consumption by 20.
 When equipped with Bloody Floral Decoration Bracelet, increase arrow vulcan damage by 200%.
+Increase Arrow Vulcan SP consumption by 50.
 Class: ^777777Whip^000000
 Attack: ^777777160^000000
 Weight: ^777777100^000000
@@ -11446,9 +11447,10 @@ Jobs: ^777777All^000000
 #
 2190#
 A shield made in honor of the fallen warrior of Asgard.
-MaxHP +500, MaxSP +50
-Increases resistance from all properties by 10%
-If refined to 14 and above, enables use of Stone Curse Level 5
+MaxHP +500
+MaxSP +50
+Increases resistance to all properties attack by 10%.
+If refined to +14 and higher, enables use of Level 5 Stone Curse.
 Class: ^777777Shield^000000
 Defense: ^7777775^000000
 Weight: ^77777720^000000
@@ -11507,12 +11509,13 @@ Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
 Weight: ^77777710^000000
-Jobs: ^777777Female Only
-All^000000
+Jobs: ^777777Female Only;
+All classes^000000
 #
 2207#
 A floral decoration used to adorn the head.
 Reduces damage from Plant monsters by 10%.
+^FF0000Unrefineable^000000
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
@@ -11540,6 +11543,7 @@ Jobs: ^777777All^000000
 2210#
 A simple hairband that holds hair in place quite neatly.
 It's a very cute look for girls, but dudes, on the other hand...
+^FF0000Unrefineable^000000
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
 Location: ^777777Upper^000000
@@ -11547,8 +11551,7 @@ Weight: ^77777710^000000
 Jobs: ^777777All^000000
 #
 2211#
-A common, ivory
-colored bandana.
+A common, ivory colored bandana.
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
 Location: ^777777Upper^000000
@@ -11792,7 +11795,7 @@ Jobs: ^777777All^000000
 An aristrocratically stylish lense that is worn for only one eye.
 [+^008800Pocket Watch & Memory Book^000000]
 HP and SP recovery speed increased by 15%,
-MATK +7%.
+MATK +7%
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Middle^000000
@@ -11887,6 +11890,7 @@ Jobs: ^777777All except Novice^000000
 2250#
 A small, decorative ribbon for the head.
 MaxSP +20
+^FF0000Unrefineable^000000
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
 Location: ^777777Upper^000000
@@ -11914,6 +11918,7 @@ Jobs: ^777777Mage and Soul Linker^000000
 2253#
 Peculiar headgear designed to look like a sunflower.
 Reduces damage from Insect monsters by 10%.
+^FF0000Unrefineable^000000
 Class: ^777777Headgear^000000
 Defense: ^7777771^000000
 Location: ^777777Upper^000000
@@ -11923,8 +11928,8 @@ Jobs: ^777777All^000000
 2254#
 A headband adorned with what appears to be the wings of an angel.
 It contains holiness that blesses the wearer's soul and offers protection from dark forces.
-Reduces damage from Demon monsters by 3%.
 AGI +1, LUK +1, MDEF +3
+Reduces damage from Demon monsters by 3%.
 Class: ^777777Headgear^000000
 Defense: ^7777774^000000
 Location: ^777777Upper^000000
@@ -11934,7 +11939,7 @@ Jobs: ^777777All except Novice^000000
 2255#
 A headgear that look like the wings of a Demon.
 Demonic power increase the wearer's strength and offers protection from sacred powers.
-STR +1 , MDEF +2
+STR +1, MDEF +2
 Reduce damage taken from Angel monsters by 3%.
 Class: ^777777Headgear^000000
 Defense: ^7777776^000000
@@ -12011,6 +12016,7 @@ Jobs: ^777777All except Novice^000000
 2264#
 An exact replica of the turban worn by Munak, complete with a queue and talisman.
 Reduces damage from Undead monsters by 10%.
+^FF0000Unrefineable^000000
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
 Location: ^777777Upper, Middle, Lower^000000
@@ -12077,6 +12083,7 @@ Jobs: ^777777All except Novice^000000
 #
 2271#
 A pair of glasses that are worn on the head for a more charming appearance, instead of vision related purposes.
+^FF0000Unrefineable^000000
 Class: ^777777Headgear^000000
 Defense: ^7777771^000000
 Location: ^777777Upper^000000
@@ -12145,6 +12152,7 @@ Jobs: ^777777All^000000
 #
 2279#
 A wick-like ornament worn on top of the head for a dangerous look.
+^FF0000Unrefineable^000000
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
 Location: ^777777Upper^000000
@@ -12172,6 +12180,7 @@ Jobs: ^777777All except Novice^000000
 2282#
 A spiritual symbol that typically appears over the heads of those who are holy.
 Increases resistance to the Holy property by 15%.
+^FF0000Unrefineable^000000
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
@@ -12235,6 +12244,7 @@ Jobs: ^777777All except Novice^000000
 2289#
 A hat which looks just like fecal matter that is guaranteed to end a date on a tragic note.
 Reduces damage from Demihuman monsters by 10%.
+^FF0000Unrefineable^000000
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
@@ -12243,6 +12253,7 @@ Jobs: ^777777All^000000
 #
 2290#
 Traditional Korean headdress worn during funeral ceremonies by the bereaved family and close friends.
+^FF0000Unrefineable^000000
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
 Location: ^777777Upper^000000
@@ -12270,6 +12281,7 @@ Jobs: ^777777Merchant^000000
 #
 2293#
 A stage prop that creates the illusion that the wearer has a knife sticking out of his head.
+^FF0000Unrefineable^000000
 Class: ^777777Headgear^000000
 Defense: ^7777771^000000
 Location: ^777777Upper^000000
@@ -12313,6 +12325,7 @@ Jobs: ^777777All except Novice^000000
 #
 2298#
 Large insect antennae that humans can wear.
+^FF0000Unrefineable^000000
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
 Location: ^777777Upper^000000
@@ -12523,8 +12536,8 @@ Jobs: ^777777Acolyte and Merchant^000000
 #
 2327#
 A robe that emanates an aura of holiness.
-Increases resistance to Demon monsters by 15%,
-and resistance against Shadow property by 10%.
+Increase resistance against Demon monsters by 15%,
+Increase resistance against Shadow property by 10%.
 MDEF +5
 Class: ^777777Armor^000000
 Defense: ^77777757^000000
@@ -12663,7 +12676,7 @@ Jobs: ^777777Crusader^000000
 2343#
 A robe which aids its wearer in reducing magic casting time.
 Reduce 3% variable cast time.
-MDEF +4.
+MDEF +4
 Class: ^777777Armor^000000
 Defense: ^77777740^000000
 Weight: ^777777110^000000
@@ -12783,7 +12796,7 @@ Jobs: ^777777All except Novice^000000
 #
 2354#
 An armor that was accidentally enchanted by Goibne the blacksmith when he spilled the mystic ale of life all over it.
-VIT +2, MaxHP +10%.
+VIT +2, MaxHP +10%
 Class: ^777777Armor^000000
 Defense: ^77777758^000000
 Weight: ^777777350^000000
@@ -12801,7 +12814,7 @@ MDEF +20
 ^3CB371Angelic Guard^000000
 HP +900
 SP +100
-Has low Chance of casting level 1 Assumptio when attacked physically.
+Has low Chance of casting Level 1 Assumptio when attacked physically.
 Class: ^777777Armor^000000
 Defense: ^77777725^000000
 Weight: ^77777760^000000
@@ -12811,7 +12824,7 @@ Jobs: ^777777Novice^000000
 2356#
 A blessed holy robe that protects its wearer from being tainted by evil.
 Adds +80% Blind resistance
-MDEF +5.
+MDEF +5
 Class: ^777777Armor^000000
 Defense: ^7777745^000000
 Weight: ^777777250^000000
@@ -12820,7 +12833,7 @@ Jobs: ^777777Priest and Monk^000000
 #
 2357#
 A set of shining white armor worn by Valkyries, the battle maidens that serve the god Odin.
-All Stats +1.
+All Stats +1
 ^702180Indestructible^000000
 [^0000FFMage,Archer,Acolyte^000000]
 Increase resistance to Silence status.
@@ -12842,7 +12855,6 @@ A winged dress that is said to have been worn by an angel.
 It makes you feel very lucky when you wear it.
 LUK +4
 ^FF0000Unrefineable^000000
-[^000088Angeling Pin, Angel's Dress Equip Set^000000]
 Class: ^777777Armor^000000
 Defense: ^7777775^000000
 Weight: ^777777100^000000
@@ -12900,7 +12912,7 @@ Jobs: ^777777Novice^000000
 #
 2364#
 This plate armor was forged using mysterious materials from a meteor.
-Adds 30% tolerance to Stun and Freeze status.
+Adds 30% resistance to Stun and Freeze status.
 Class: ^777777Armor^000000
 Defense: ^77777785^000000
 Weight: ^777777300^000000
@@ -12919,7 +12931,7 @@ Jobs: ^777777All Transcendent classes except Novice^000000
 #
 2366#
 A holy garment that has been purified by a series of religious rituals.
-Increase tolerance to Curse, Silence, Stun, Sleep, and Stone Curse status by 5%.
+Increase resistance to Curse, Silence, Stun, Sleep, and Stone Curse status by 5%.
 Class: ^777777Armor^000000
 Defense: ^77777750^000000
 Weight: ^777777150^000000
@@ -12930,7 +12942,7 @@ Jobs: ^777777All Transcendent classes except Novice^000000
 A sniping suit that stimulates all the muscles used in firing arrows, increasing accuracy while reducing stress on the body.
 CRIT +6 with additional CRIT bonus determined by LUK stat.
 Skill Delay reduced by 23%.
-MDEF +5.
+MDEF +5
 Class: ^777777Armor^000000
 Defense: ^77777742^000000
 Weight: ^77777775^000000
@@ -12961,7 +12973,7 @@ Jobs: ^777777All except Novice^000000
 #
 2370#
 Coat from Guild of Traveler.
-HP +300, SP +30
+MaxHP +300, MaxSP +30
 ATK +10, DEX +1
 Class: ^777777Armor^000000
 Defense: ^77777715^000000
@@ -12989,8 +13001,8 @@ Jobs: ^777777Mage and Soul Linker^000000
 #
 2373#
 A robe that emanates an aura of holiness.
-Increases resistance to Demon monsters by 15%,
-and resistance against Shadow property by 10%.
+Increases resistance against Demon monsters by 15%,
+Increases resistance against Shadow property by 10%.
 MDEF +5
 Class: ^777777Armor^000000
 Defense: ^77777757^000000
@@ -13004,7 +13016,8 @@ Reduces cast delay by 10%
 Increases effectiveness of ^008800Heal^000000 skill by 6%.
 MaxSP +150, MDEF +5
 [+^008800Diabolus Ring^000000]
-MATK +3% and ATK +3%.
+ATK +3%
+MATK +3%
 Class: ^777777Armor^000000
 Defense: ^77777757^000000
 Weight: ^77777730^000000
@@ -13014,10 +13027,11 @@ Jobs: ^777777Transcendent Archer, Mage and Acolyte^000000
 2375#
 An Armor which is made of an unknown metal in the human-world. Mysterious power is hidden in the armor.
 STR +2, DEX +1,
-MaxHP +150.
+MaxHP +150
 Tolerance to ^FF0000Stun^000000 and ^FF0000Stone Curse^000000 +5%.
 [+^008800Diabolus Ring^000000]
-MATK +3% and ATK +3%.
+ATK +3%
+MATK +3%
 Class: ^777777Armor^000000
 Defense: ^77777779^000000
 Weight: ^77777760^000000
@@ -13026,9 +13040,8 @@ Jobs: ^777777Transcendent Swordman, Merchant and Thief^000000
 2376#
 Designed for brave warriors who face enemies at the forefront.
 It gives off multiple effects when compounded as a set.
-Reduces damage from Demihuman monsters by 2%.
-MaxHP +150, MDEF +2.
-^FFFFFF_^000000
+MaxHP +150, MDEF +2
+Reduces damage received from Demihuman monsters by 2%.
 [+^008800Battle Greaves and Captain's Manteau^000000]
 Increases damage received from all non-Demihuman monsters by 300%.
 VIT +3, MaxHP +12%.
@@ -13042,15 +13055,14 @@ Jobs: ^777777Swordman, Merchant, Taekwon Boy/Girl and Star Gladiator^000000
 #
 2377#
 Designed to be used by outstanding warriors who have remarkable attack skills. It gives off multiple effects when compounded as a set.
+MaxHP +150, MDEF +2
 Reduces damage from Demihuman monsters by 2%.
-MaxHP +150, MDEF +2,
-^FFFFFF_^000000
+^702180Indestructible^000000
 [+^008800Combat Greaves and Captain's Manteau^000000]
 STR +3, MaxHP 12%
 Increases Mammonite Damage by 20%.
 Increases HP Restoration of ^FF0000Heal^000000 and ^FF0000Potion Pitcher^000000 by 10%.
 Increases damage from non-Demihuman monsters by 300%.
-^702180Indestructible^000000
 Class: ^777777Armor^000000
 Defense: ^77777750^000000
 Weight: ^7777770^000000
@@ -13059,9 +13071,8 @@ Jobs: ^777777Merchant^000000
 #
 2378#
 If you desire to move more quickly, this might help. It gives off multiple effects when compounded as a set.
+MaxHP +150, MDEF +2
 Reduces damage from Demihuman monsters by 2%.
-MaxHP +150, MDEF +2,
-^FFFFFF_^000000
 [+^008800Battle Greaves and Captain's Manteau^000000]
 AGI +3, MaxHP +12%,
 ASPD +5%, CRIT +5%,
@@ -13075,9 +13086,8 @@ Jobs: ^777777Thief and Ninja^000000
 #
 2379#
 A Battle Robe that helps increase the possibility of survival. It gives off multiple effects when compounded as a set.
+MaxHP +150, MDEF +2
 Reduces damage from Demihuman monsters by 2%.
-MaxHP +150, MDEF +2,
-^FFFFFF_^000000
 [+^008800Combat Boots and Commander's Manteau^000000]
 INT +3, MaxHP +12%.
 Adds 20% resistance to ^FF0000Stun^000000.
@@ -13092,9 +13102,8 @@ Jobs: ^777777Mage and Soul Linker^000000
 2380#
 Designed to be used by responsible warriors who take charge of the survival of the guild or party.
 It gives off multiple effects when compounded as a set.
+MaxHP +150, MDEF +2
 Reduces damage from Demihuman monsters by 2%.
-MaxHP +150, MDEF +2.
-^FFFFFF_^000000
 [+^008800Combat Boots and Commander's Manteau^000000]
 INT +3. MaxHP +12%.
 Reduces ^FF0000Holy Light^000000 Variable Casting Time by 50%.
@@ -13110,9 +13119,8 @@ Jobs: ^777777Acolyte^000000
 2381#
 If you desire to become an accurate and efficient warrior in battle, this might help.
 It gives off multiple effects when compounded as a set.
+MaxHP +150, MDEF +2
 Reduces damage from Demihuman monsters by 2%.
-MaxHP +150, MDEF +2.
-^FFFFFF_^000000
 [+^008800Combat Boots and Commander's Manteau^000000]
 DEX +3, MaxHP +12%.
 Reduces long range attack Damage by 10% and cast delay by 25%.
@@ -13125,9 +13133,8 @@ Jobs: ^777777Archer^000000
 #
 2382#
 If you are a true Gunslinger, you might want this suit! It gives off multiple effects when compounded as a set.
+MaxHP +150, MDEF +2
 Reduces damage from Demihuman monsters by 2%.
-MaxHP +150, MDEF +2.
-^FFFFFF_^000000
 [+^008800Battle Boots and Sheriff's Manteau^000000]
 DEX +3, MaxHP +12%.
 Reduces long range attack Damage by 10% and cast delay by 25%.
@@ -13141,15 +13148,15 @@ Jobs: ^777777Gunslinger^000000
 2383#
 Brynhild is one of the valiant valkyries, meaning 'The warrior's armor'.
 Increase MaxHP by
-20*Base level.
+20*Base level
 Increase MaxSP by
-5*Base Level.
+5*Base Level
 Physical attack +10%
 Magical attack +10%
 MDEF +10
 Cannot be knocked back
-^FF0000Unrefineable^000000
 ^702180Indestructible^000000
+^FF0000Unrefineable^000000
 Class: ^777777Armor^000000
 Defense: ^777777120^000000
 Weight: ^77777740^000000
@@ -13174,9 +13181,9 @@ Jobs: ^777777All^000000
 2385#
 ^000088Rental Item^000000
 An armor that allows the master to regain his life by taking the enemies
-HP, SP Natural Recovery is Disabled.
+HP and SP Natural Recovery is Disabled.
 When unequipped, you lose 100 SP.
-When a monster is defeated from Physical or Magical Attacks, it recover 60 HP and 6 SP.
+When a monster is defeated from Physical or Magical Attacks, recover 60 HP and 6 SP.
 Class: ^777777Armor^000000
 Defense: ^77777712^000000
 Weight: ^7777770^000000
@@ -13185,7 +13192,7 @@ Jobs: ^777777All^000000
 #
 2386#
 A miraculous Armor that can change its abilities according to those of its wearer.
-Increases HP and SP based on the user's base level.
+Increases MaxHP and MaxSP based on the user's base level.
 When magically attacked, has a chance to activate its own ability while cancelling all spells for 2 seconds.
 [^6A5ACDSwordman,Merchant,Thief^000000]
 Def +3
@@ -13199,7 +13206,7 @@ Jobs: ^7777772nd Transcendent classes^000000
 #
 2387#
 Very nimble looking armor that lets you gallop like a Peco Peco. It looks like a running shirt, while it has the function of an armor.
-VIT +1.
+VIT +1
 HP Recovery +5%
 Improves the effectiveness of receiving Heals and Recovery items by 3%
 [^6A5ACDSprint Set^000000]
@@ -13245,7 +13252,7 @@ Jobs: ^777777Transcendent Archer^000000
 #
 2391#
 A holy armor made by the Goddess in order to cure the chosen warrior. Increases the speed of natural recovery of the wearer.
-VIT +2. MDEF +5
+VIT +2, MDEF +5
 HP Natual Recovery Speed +50%
 Class: ^777777Armor^000000
 Defense: ^77777775^000000
@@ -13275,7 +13282,10 @@ Jobs: ^777777All^000000
 2394#
 MaxHP +20%
 Reduce damage from Demihuman by 7%.
-When equipped with Glorious Shoes and Glorious Muffler, attack strength to all enemies increase by 5%, MATK +5%, and gives 3% increase in the recovery amount of using Heal, Potion Pitcher, Sanctuary. Never gets freezed.
+When equipped with Glorious Shoes and Glorious Muffler,
+ATK +5%, MATK +5%
+Gives 3% increase in the recovery amount of using Heal, Potion Pitcher, Sanctuary.
+Immnue to Frozen.
 Class: ^777777Armor^000000
 Defense: ^77777710^000000
 Weight: ^7777770^000000
@@ -13283,7 +13293,8 @@ Required Level: ^77777781^000000
 Jobs: ^777777All except Novice^000000
 #
 2395#
-MaxHP +600, SP Recovery rate +10%
+MaxHP +600
+SP Recovery rate +10%
 Class: ^777777Armor^000000
 Defense: ^77777710^000000
 Weight: ^7777770^000000
@@ -13307,8 +13318,10 @@ Jobs: ^777777All^000000
 2398#
 Sniping suits helps required muscles to move effectively for shooting an arrow.
 Reduces necessary time to shoot arrows and helps to achieve improved accuracy.
-Critical rate +6, Bonus (LUK/10) Critical rate depending on your LUK rate.
-MDEF +5, Reduces after-cast skill delay by 23%.
+MDEF +5
+Critical rate +6,
+Increase critical rate depending on your LUK.
+Reduces after-cast skill delay by 23%.
 Class: ^777777Armor^000000
 Defense: ^77777742^000000
 Weight: ^77777775^000000
@@ -13371,7 +13384,7 @@ Jobs: ^777777Swordman, Archer, Merchant, Thief, Taekwon Boy/Girl, Star Gladiator
 #
 2407#
 A pair of feminine high heeled shoes made of fine crystal. Usually, these are worn only on special occasions.
-LUK +5 , MDEF +10
+LUK +5, MDEF +10
 Class: ^777777Footgear^000000
 Defense: ^7777775^000000
 Weight: ^77777710^000000
@@ -13394,10 +13407,12 @@ Jobs: ^777777All except Novice^000000
 #
 2410#
 Named after Odin's trusty steed, these shoes also mimic Sleipnir's powers.
-Increase movement speed.
-SP Recovery +15%,
-MaxHP/SP +20%,
-MDEF +10, INT +25
+INT +25, MDEF +10
+MaxHP +20%
+MaxSP +20%
+SP Recovery +15%
+Increase movement speed
+^FF0000Unrefineable^000000
 Class: ^777777Footgear^000000
 Defense: ^77777740^000000
 Weight: ^777777350^000000
@@ -13450,7 +13465,7 @@ Jobs: ^777777All except Novice^000000
 #
 2416#
 A pair of shoes made exclusively for brand new adventurers.
-MAX MaxHP +5%.
+MaxHP +5%
 Class: ^777777Footgear^000000
 Defense: ^7777778^000000
 Weight: ^77777750^000000
@@ -13460,14 +13475,15 @@ Jobs: ^777777Novice^000000
 2417#
 A pair of shoes that were blessed by Freyr, the god of earth and the son of Njord.
 His blessing would release its owner from pain.
-Increase value of Red, Orange, Yellow and White Potion by 20%
-AGI +2.
+AGI +2
+Increase recovery rate of Red, Orange, Yellow and White Potion by 20%
 [^6A5ACDNjord's Armor Set^000000]
 ^3CB371Fricco's Shoes^000000
 ^3CB371Falcon Muffler^000000
 ^3CB371Odin's Blessing^000000
 AGI +3
-MaxHP/SP +5%
+MaxHP +5%
+MaxSP +5%
 Class: ^777777Footgear^000000
 Defense: ^77777712^000000
 Weight: ^77777750^000000
@@ -13477,7 +13493,8 @@ Jobs: ^777777All except Novice^000000
 2418#
 The boots worn by Vidar, son of Odin, when he killed the Fenrir Wolf.
 These represent the great physical and mental strength Vidar displayed in that epic final battle.
-MaxHP/MaxSP +9%.
+MaxHP +9%
+MaxSP +9%
 [^6A5ACDOdin's Armor Set^000000]
 ^3CB371Vali's Manteau^000000
 ^3CB371Vidar's Boots^000000
@@ -13492,8 +13509,9 @@ Jobs: ^777777All except Novice^000000
 #
 2419#
 A pair of shoes rumored to be forged by Goibne in response to competition from his rival, Dulb.
-MaxHP/MaxSP +5%.
-MDEF +3.
+MaxHP +5%
+MaxSP +5%
+MDEF +3
 Class: ^777777Footgear^000000
 Defense: ^77777713^000000
 Weight: ^77777770^000000
@@ -13502,16 +13520,16 @@ Jobs: ^777777All except Novice^000000
 #
 2420#
 Heavenly sandals worn by the Guardian Angel of Super Novices.
-MaxHP +100.
+MaxHP +100
 [^6A5ACDAngel's Protection Set^000000]
 ^3CB371Angel's Kiss^000000
 ^3CB371Angelic Protection^000000
 ^3CB371Angelic Cardigan^000000
 ^3CB371Angel's Reincarnation^000000
 ^3CB371Angelic Guard^000000
-HP +900
-SP +100
-Has low Chance of casting level 1 Assumptio when attacked physically.
+MaxHP +900
+MaxSP +100
+Has low Chance of casting Level 1 Assumptio when attacked physically.
 Class: ^777777Footgear^000000
 Defense: ^7777778^000000
 Weight: ^77777770^000000
@@ -13547,26 +13565,25 @@ Class: ^777777Footgear^000000
 Defense: ^7777777^000000
 Weight: ^77777720^000000
 Required Level: ^77777740^000000
-Jobs: ^777777Mage and
-Acolyte Classes;
-Soul Linker Job^000000
+Jobs: ^777777Mage, Acolyte and Soul Linker^000000
 #
 2423#
 Although it seems that whoever made these shoes tried to fix his mistakes, he didn't make these as well as he hoped.
-MaxHP/SP +20%
-Increasing the upgrade level will reduce max SP and HP bonus, but will increase DEF bonus.
+MaxHP +20%
+MaxSP +20%
+Reduce MaxHP and MaxSP for every refine of shoes.
+Increase Defense for every 2 refine of shoes.
 Class: ^777777Footgear^000000
 Defense: ^77777713^000000
 Weight: ^77777750^000000
 Required Level: ^77777785^000000
-Jobs: ^777777All Transcendent
-Jobs except Novice^000000
+Jobs: ^777777All Transcendent classes except Novice^000000
 #
 2424#
 This pair of shoes was designed with a waterproof coating that prevents slippage in wet areas.
 Adds 5% tolerance to Water property attacks,
 +5% HP Recovery.
-[+^008800Woolf Scarf^000000]
+[+^008800Wool Scarf^000000]
 MaxHP +10%
 Class: ^777777Footgear^000000
 Defense: ^77777713^000000
@@ -13589,7 +13606,7 @@ Jobs: ^777777All Transcendent classes except Novice^000000
 #
 2426#
 Shadowy shoes made using dark forces, and enchanted with a spell to protect their wearer when danger approaches.
-MDEF +10.
+MDEF +10
 Has a certain chance of auto casting Level 3 Cloaking when hit by magic attacks.
 If the wearer has learned a higher level of Cloaking, those levels of Cloaking will be auto cast instead.
 If the wearer has not learned Level 3 Cloaking the wearer cannot move away from walls.
@@ -13613,7 +13630,10 @@ The boots of the queen 'Freiya',surrounded by mysterious hints of mist.
 Reduces damage from Demihuman monster by 5%.
 ^FF0000Unrefineable^000000
 [+^008800Freya's Crown, Freyja Boots, Freyja Cape^000000]
-Immune to frozen status, MaxHP +20%, Reduce 10% damage from Demihuman monster, ^008800Enable use level 10 Frost Nova^000000.
+Immune to Frozen status
+MaxHP +20%
+Reduce 10% damage from Demihuman monster.
+Enable use Level 10 ^008800Frost Nova^000000.
 Class: ^777777Footgear^000000
 Defense: ^77777722^000000
 Weight: ^77777730^000000
@@ -13635,7 +13655,8 @@ Jobs: ^777777All^000000
 #
 2431#
 Shoes from Guild of Traveler.
-MaxHP and MaxSP +7%.
+MaxHP +7%
+MaxSP +7%
 Class: ^777777Footgear^000000
 Defense: ^77777710^000000
 Weight: ^7777770^000000
@@ -13653,7 +13674,7 @@ Jobs: ^777777All except Novice^000000
 Mysterious boots that automatically adjust their size to the wearer's size. They seem alive.
 Increases MaxHP by Base Level*10.
 [+^008800Diabolus Manteau^000000]
-MaxHP +6%.
+MaxHP +6%
 Class: ^777777Footgear^000000
 Defense: ^77777715^000000
 Weight: ^77777725^000000
@@ -13715,8 +13736,9 @@ Jobs: ^777777All^000000
 2439#
 ^000088Rental Item^000000
 Shoes made with a complex design and soft animal skin.
-MaxHP +17% , MaxSP +8%.
-Every 10 seconds, your HP goes up by 20, SP goes up by 3.
+MaxHP +17%
+MaxSP +8%
+Recover 20 HP and 3 SP every 10 seconds.
 Class: ^777777Footgear^000000
 Defense: ^7777779^000000
 Weight: ^7777770^000000
@@ -13744,7 +13766,7 @@ A sandals received as a gift from Comodo Environmental Commission.
 It seems to match perfect with Comodo beach.
 STR +1, INT +1, AGI +1
 Add a 10% resistance to the ^FF0000Fire^000000 Property.
-^8B4513FLEE +5 when worn with Beach Manteau^000000.
+FLEE +5 when worn with Beach Manteau.
 Class: ^777777Footgear^000000
 Defense: ^7777770^000000
 Weight: ^77777720^000000
@@ -13763,7 +13785,7 @@ Jobs: ^777777All^000000
 #
 2443#
 Waterproof boots.
-Decrease fishing casting time by 2 seconds.
+Decrease Fishing casting time by 2 seconds.
 Class: ^777777Footgear^000000
 Defense: ^7777770^000000
 Weight: ^77777725^000000
@@ -13780,7 +13802,8 @@ Required Level: ^77777781^000000
 Jobs: ^777777All except Novice^000000
 #
 2445#
-MaxHP & MaxSP +5%
+MaxHP +5%
+MaxSP +5%
 Class: ^777777Footgear^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
@@ -13807,9 +13830,9 @@ Jobs: ^777777All except Novice^000000
 These are special shoes made by a craftsman of a place famous for its beaches and festivities.
 There are many legends around these rarities, such as the inexplicable ability that your users get to dance.
 Everyone who feel a little lighter, as if they are floating. The shoes also come with an anti-foot odor effect.
-Increase ASPD by 3%, and reduce variable cast time by 3%.
 AGI +1
-^FFFFFF_^000000
+ASPD +3%
+Reduce variable cast time by 3%.
 Class: ^777777Footgear^000000
 Defense: ^7777772^000000
 Weight: ^77777750^000000
@@ -13817,11 +13840,12 @@ Jobs: ^777777All^000000
 #
 2449#
 Shoes that seem to be wrong somewhere. The intention of the maker to perfect the shoes can be seen but it seems to be a failure.
-MaxHP and MaxSP +20%.
-MaxHP and MaxSP reduced by 1% per refine rate.
-Add +1 DEF for every 2 refinement.
+MaxHP +20%
+MaxSP +20%
+Reduce MaxHP and MaxSP for every refine of shoes.
+Increase Defense for every 2 refine of shoes.
 Class: ^777777Footgear^000000
-Defense: ^77777713^000000
+Defense: ^7777773^000000
 Weight: ^77777750^000000
 Required Level: ^77777785^000000
 Jobs: ^777777All Transcendent classes except Novice^000000
@@ -13829,11 +13853,12 @@ Jobs: ^777777All Transcendent classes except Novice^000000
 2450#
 Shoes made out of the stem of the Tree of Life.
 They are comfortable and provide life energy to the wearer.
-HP recovery speed increases by 5%.
+VIT +2
+MDEF +3,
 MaxHP +10%
+HP recovery speed increases by 5%.
 Recover 30 HP every 10 seconds.
 HP Recovery and Heal skill on the wearer increased by 5%.
-MDEF +3, VIT +2
 Class: ^777777Footgear^000000
 Defense: ^77777716^000000
 Weight: ^77777750^000000
@@ -13958,14 +13983,11 @@ Required Level: ^7777771^000000
 Jobs: ^777777Knight and Crusader^000000
 #
 2462#
-Named after Odin's trusty steed, these shoes also
-mimic Sleipnir's powers. Increase Movement Speed.
+Named after Odin's trusty steed, these shoes also mimic Sleipnir's powers.
+Increase Movement Speed.
 SP Recovery +15%
 MaxHP and MaxSP +10%
 MDEF +10
-^FFFFFF_^000000
-^FF0000This is a 30 Day version, and is tradable, it will disappear when it expires.^000000
-^FFFFFF_^000000
 Class: ^777777Footgear^000000
 Defense: ^7777775^000000
 Weight: ^777777350^000000
@@ -13974,7 +13996,8 @@ Jobs: ^777777All^000000
 #
 2463#
 It has a message inscribed - Feline boots of a forgotten era, with both an unpolished and polished beauty.
-Unrefineable and Indestructible.
+^FF0000Unrefineable^000000
+^702180Indestructible^000000
 Class: ^777777Footgear^000000
 Defense: ^77777712^000000
 Weight: ^7777770^000000
