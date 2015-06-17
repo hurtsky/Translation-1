@@ -817,7 +817,7 @@
 1584#Chilly_Spell_Book#
 1586#Bellum_Bible#
 1587#Bellum_Encyclopedia#
-1599#Sword#
+1599#Angra_manyu#
 1600##
 1601#Rod#
 1602#Rod#
@@ -1078,7 +1078,7 @@
 2123#Orleans's_Server#
 2124#Thorny_Buckler#
 2125#Strong_Shield#
-2126#Guyak_Shield#
+2126#Old_Shield#
 2127#Secular_Mission#
 2128#Sacred_Mission#
 2129#Exorcism_Bible#
