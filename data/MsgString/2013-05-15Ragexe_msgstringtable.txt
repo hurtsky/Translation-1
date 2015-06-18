@@ -1602,7 +1602,7 @@ Battlefield display icon.#
 Does not display the icon field.#
 Field notification was moved.#
 Admission pending notification of the battlefield#
-Anyone#
+Someone#
  [%s] deal '%d' damage on you.#
  [%s] received a damage from [%s] with '%d' damage.#
  [%s] received '%d' damage.#
@@ -1622,11 +1622,11 @@ Experience Message Display#
 Party Experience Message Display#
 Quest Info Message Display#
 Battlefield Message Display#
-[%s] is #
-casting [%s].#
+[%s] use #
+[%s] skill.#
 Activate lock function#
 Deactivate lock function#
-[%s] has won [%s] from '%s'.#
+[%s] opened [%s] and awarded with '%s'!!#
 Swordman#
 Magician#
 Archer#
