@@ -1903,12 +1903,12 @@
 2831#Accessory#
 2832#Accessory#
 2833#Accessory#
-2834#Ring#
-2835#Ring#
+2834#Accessory#
+2835#Accessory#
 2836#Accessory#
-2837#Ring#
+2837#Accessory#
 2838#Accessory#
-2839#Ring#
+2839#Accessory#
 2840#Accessory#
 2841#Accessory#
 2842#Accessory#
