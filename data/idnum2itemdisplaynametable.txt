@@ -11319,13 +11319,13 @@
 24062#Bloody_Shadow_Shoes#
 24063#Liberation_Shadow_Shoes#
 24064#Chemical_Shadow_Shoes#
-24065#Glamorous_Shadow_Shoes#
+24065#Clamorous_Shadow_Shoes#
 24066#Insecticide_Shadow_Shoes#
 24067#Fisher_Shadow_Shoes#
 24068#Seraphim_Shadow_Shoes#
 24069#Beholder_Shadow_Shoes#
 24070#Divine_Shadow_Shoes#
-24071#Dragoons_Shadow_Shoes#
+24071#Dragoon_Shadow_Shoes#
 24072#Large_Shadow_Armor#
 24073#Medium_Shadow_Armor#
 24074#Small_Shadow_Armor#

@@ -77884,7 +77884,7 @@ Class: ^777777Headgear^000000
 Defense: ^7777775^000000
 Location: ^777777Upper^000000
 Weight: ^77777720^000000
-Req LvL : ^7777771^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 18945#
@@ -77895,7 +77895,7 @@ Class: ^777777Headgear^000000
 Defense: ^7777772^000000
 Location: ^777777Upper^000000
 Weight: ^77777730^000000
-Req LvL : ^77777730^000000
+Required Level: ^77777730^000000
 Jobs: ^777777All^000000
 #
 18946#
@@ -77905,7 +77905,7 @@ Class: ^777777Headgear^000000
 Defense: ^7777772^000000
 Location: ^777777Upper^000000
 Weight: ^77777730^000000
-Req LvL : ^77777730^000000
+Required Level: ^77777730^000000
 Jobs: ^777777All^000000
 #
 18953#
@@ -77932,7 +77932,7 @@ Class: ^777777Headgear^000000
 Defense: ^7777771^000000
 Location: ^777777Lower^000000
 Weight: ^77777710^000000
-Req LvL : ^7777771^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 18961#
@@ -77941,7 +77941,7 @@ Class: ^777777Headgear^000000
 Defense: ^7777772^000000
 Location: ^777777Upper^000000
 Weight: ^77777710^000000
-Req LvL : ^7777771^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 18962#
@@ -77952,7 +77952,7 @@ Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Lower^000000
 Weight: ^77777720^000000
-Req LvL : ^7777771^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 18963#
@@ -77962,13 +77962,13 @@ Class: ^777777Headgear^000000
 Defense: ^7777775^000000
 Location: ^777777Middle^000000
 Weight: ^77777710^000000
-Req LvL : ^7777771^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 18964#
 A crown with sacred aura all over it.
 All stats +2
-Cure Lv1 and Status Recovery Lv1 available
+Enable use of Level 1 Cure and Level 1 Status Recovery.
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
 Location: ^777777Upper^000000
@@ -78000,7 +78000,7 @@ Jobs: ^777777All^000000
 All stats +1. MDEF+ 5.
 Each refine increase ATK +4.
 Each 5 refines increase ASPD +1.
-Each 2 refine increase MHP, MaxSP 1%.
+Each 2 refine increase MaxHP, MaxSP 1%.
 Each 2 refine inflict 20% more damage with ^008800Ignition Break^000000.
 Each 2 refines inflict 15% more damage with ^008800Hundred Spear^000000.
 Class: ^777777Headgear^000000
@@ -78013,7 +78013,7 @@ Jobs: ^777777Rune Knight^000000
 18972#
 All stats +1. MDEF+ 5.
 Each refine increase MATK +2, ATK +4, heal +2%.
-Each 2 refine increase MHP, MaxSP 1%.
+Each 2 refine increase MaxHP, MaxSP 1%.
 Each 2 refine inflict 20% more damage with ^008800Judex^000000.
 Each 2 refine inflict 10% more damage with ^008800Magnus Exorcismus^000000.
 Class: ^777777Headgear^000000
@@ -78027,7 +78027,7 @@ Jobs: ^777777Arch Bishop^000000
 All stats +1.
 Each refine increase ATK +4.
 Each 5 refines increase ASPD +1.
-Each 2 refine increase MHP, MaxSP 1%.
+Each 2 refine increase MaxHP, MaxSP 1%.
 Each 2 refine inflict 20% more damage with ^008800Power Swing^000000.
 Each 2 refine inflict 20% more damage with ^008800Axe Tornado^000000.
 Class: ^777777Headgear^000000
@@ -78041,7 +78041,7 @@ Jobs: ^777777Mechanic^000000
 All stats +1.
 Each refine increase ATK +4.
 Each 5 refines increase ASPD +1.
-Each 2 refine increase MHP, MaxSP 1%.
+Each 2 refine increase MaxHP, MaxSP 1%.
 Each 2 refine inflict 5% more damage with ^008800Arm Cannon^000000.
 Each 4 refine inflict 10% more damage with ^008800Self-Destruction^000000.
 Class: ^777777Headgear^000000
@@ -78054,7 +78054,7 @@ Jobs: ^777777Mechanic^000000
 18975#
 All stats +1.
 Each refine increase ATK +4, MATK +4.
-Each 2 refine increase MHP, MaxSP 1%.
+Each 2 refine increase MaxHP, MaxSP 1%.
 Each 2 refine inflict 25% more damage with ^008800Triangle Shot^000000.
 If refine +6 or more cooldown reduce by 1 sec ^008800Masquerade-Enervation, Unlucky skills^000000.
 If refine +8 or more cooldown reduce by 1 sec ^008800Masquerade-Laziness, Weakness skills^000000.
@@ -78069,7 +78069,7 @@ Jobs: ^777777Shadow Chaser^000000
 18976#
 All stats +1.
 Each refine increase ranged physical damage by 1%.
-Each 2 refine increase MHP, MaxSP 1%.
+Each 2 refine increase MaxHP, MaxSP 1%.
 Each 2 refine inflict 20% more damage with ^008800Arrow Vulcan^000000.
 Each 2 refine inflict 5% more damage with ^008800Severe Rainstorm^000000.
 Class: ^777777Headgear^000000
@@ -78083,7 +78083,7 @@ Jobs: ^777777Minstrel^000000
 All stats +1.
 Each refine increase ATK +4.
 Each 2 refine increase ranged physical damage by 1%.
-Each 2 refine increase MHP, MaxSP 1%.
+Each 2 refine increase MaxHP, MaxSP 1%.
 Each 2 refine inflict 15% more damage with ^008800Cart Cannon^000000.
 Class: ^777777Headgear^000000
 Defense: ^77777710^000000
@@ -78095,7 +78095,7 @@ Jobs: ^777777Generic^000000
 18978#
 All stats +1. MDEF+ 5. SP recovery increased by 20%.
 Each refine increase MATK +1%.
-Each 2 refine increase MHP, MaxSP 1%.
+Each 2 refine increase MaxHP, MaxSP 1%.
 Each 2 refine inflict 5% more damage with ^008800Soul Expansion^000000.
 Crimson Rock skill 1 second cooldown reduction.
 According to refine, Crimson Rock skill 0.1 seconds Cooldown reduced.
@@ -78109,7 +78109,7 @@ Jobs: ^777777Warlock^000000
 18979#
 All stats +1.
 Each refine increase ATK +4, CRIT +2.
-Each 2 refine increase MHP, MaxSP 1%.
+Each 2 refine increase MaxHP, MaxSP 1%.
 Each 2 refine inflict 15% more damage with ^008800Rampage Blaster^000000.
 Each 2 refine inflict 20% more damage with ^008800Lightning Ride^000000.
 Class: ^777777Headgear^000000
@@ -78122,7 +78122,7 @@ Jobs: ^777777Sura^000000
 18980#
 All stats +1. MDEF+ 5.
 Each refine increase MATK +1%, ATK +4.
-Each 2 refine increase MHP, MaxSP 1%.
+Each 2 refine increase MaxHP, MaxSP 1%.
 Each 2 refine inflict 15% more damage with ^008800Posion Buster^000000.
 Each 2 refine inflict 20% more damage with ^008800Varetyr Spear^000000.
 Class: ^777777Headgear^000000
@@ -78135,7 +78135,7 @@ Jobs: ^777777Sorcerer^000000
 18981#
 All stats +1.
 Each refine increase ranged damage by 1%.
-Each 2 refine increase MHP, MaxSP 1%.
+Each 2 refine increase MaxHP, MaxSP 1%.
 Each 2 refine inflict 20% more damage with ^008800Arrow Vulcan^000000.
 Each 2 refine inflict 5% more damage with ^008800Severe Rainstorm^000000.
 Class: ^777777Headgear^000000
@@ -78148,7 +78148,7 @@ Jobs: ^777777Wanderer^000000
 18982#
 All stats +1.
 Each refine increase critical damage by 1%, increase attack speed After attack delay reduced by 1%.)
-Each 2 refine increase MHP, MaxSP 1%.
+Each 2 refine increase MaxHP, MaxSP 1%.
 Each 2 refine inflict 10% more damage with ^008800Cross Impact^000000.
 Each 2 refine inflict 20% more damage with ^008800Cross Ripper Slasher^000000.
 Class: ^777777Headgear^000000
@@ -78162,7 +78162,7 @@ Jobs: ^777777Guillotine Cross^000000
 All stats +1.MDEF+ 5.
 Each refine increase ATK +4.
 Each 5 refines increase ASPD +1.
-Each 2 refine increase MHP, MaxSP 1%.
+Each 2 refine increase MaxHP, MaxSP 1%.
 Each 2 refine inflict 20% more damage with ^008800Cannon Spear^000000.
 Each 2 refine inflict 5% more damage with ^008800Overbrand^000000.
 Class: ^777777Headgear^000000
@@ -78176,7 +78176,7 @@ Jobs: ^777777Royal Guard^000000
 All stats +1.
 Each refine increase ranged physical damage by 1%.
 Each 3 refine increase Perfect Dodge +1.
-Each 2 refine increase MHP, MaxSP 1%.
+Each 2 refine increase MaxHP, MaxSP 1%.
 Each 2 refine inflict 15% more damage with ^008800Cluster Bomb^000000.
 Each 2 refine inflict 10% more damage with ^008800Wug Strike^000000.
 Class: ^777777Headgear^000000
@@ -88315,7 +88315,7 @@ Small extra shield gives you additional defense effect. Not really effective whe
 Reduces damage received from [Brute] race by 1%.
 Refine to +7: reduces damage received from [Brute] race by 1%.
 Refine to +9: reduces damage received from [Brute] race by 1%.
-[+^32CD32Glamorous Shadow Shoes^000000]
+[+^32CD32Clamorous Shadow Shoes^000000]
 Increase 3% experience gained when kill brute type monsters.
 Class: ^777777Shadow Equipment^000000
 Location: ^777777Shield^000000
@@ -88354,7 +88354,7 @@ Small extra shield gives you additional defense effect. Not really effective whe
 Reduces damage received from [Dragon] race by 1%.
 Refined to +7: reduces damage received from [Dragon] race by 1%.
 Refined to +9: reduces damage received from [Dragon] race by 1%.
-[+^32CD32Dragoons Shadow Shoes^000000]
+[+^32CD32Dragoon Shadow Shoes^000000]
 Increase 3% experience gained when dragon type monsters.
 Class: ^777777Shadow Equipment^000000
 Location: ^777777Shield^000000

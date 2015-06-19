@@ -1340,7 +1340,7 @@
 2260#Glasses#
 2261#Helm#
 2262#Accessory#
-2263#Mask#
+2263#Glasses#
 2264#Hat#
 2265#Mask#
 2266#Mask#
@@ -2979,7 +2979,7 @@
 5011#Hat#
 5012#Hat#
 5013#Accessory#
-5014#Helm#
+5014#Accessory#
 5015#Egg_Shell#
 5016#Hat#
 5017#Helm#
@@ -10065,7 +10065,7 @@
 18946#Hat#
 18953#Hat#
 18956#Accessory#
-18961#Accessory#
+18961#Hat#
 18962#Accessory#
 18963#Accessory#
 18964#Helm#
@@ -10081,9 +10081,9 @@
 18978#Hat#
 18979#Hairband#
 18980#Hairband#
-18981#모자#
-18982#투구#
-18983#투구#
+18981#Hat#
+18982#Helm#
+18983#Helm#
 18984#Helm#
 18997#Helm#
 19012#Hat#
