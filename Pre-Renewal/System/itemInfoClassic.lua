@@ -8693,7 +8693,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sword",
 		identifiedResourceName = "소드",
@@ -8713,7 +8713,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sword",
 		identifiedResourceName = "소드",
@@ -8733,7 +8733,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sword",
 		identifiedResourceName = "소드",
@@ -8753,7 +8753,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Falchion",
 		identifiedResourceName = "폴쳔",
@@ -8773,7 +8773,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Falchion",
 		identifiedResourceName = "폴쳔",
@@ -8793,7 +8793,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Falchion",
 		identifiedResourceName = "폴쳔",
@@ -8813,7 +8813,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Blade",
 		identifiedResourceName = "블레이드",
@@ -8833,7 +8833,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Blade",
 		identifiedResourceName = "블레이드",
@@ -8853,7 +8853,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Blade",
 		identifiedResourceName = "블레이드",
@@ -8873,7 +8873,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Rapier",
 		identifiedResourceName = "레이피어",
@@ -8893,7 +8893,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Rapier",
 		identifiedResourceName = "레이피어",
@@ -8913,7 +8913,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Rapier",
 		identifiedResourceName = "레이피어",
@@ -8933,7 +8933,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Scimiter",
 		identifiedResourceName = "시미터",
@@ -8953,7 +8953,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "시미터",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Scimiter",
 		identifiedResourceName = "시미터",
@@ -8975,7 +8975,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Scimiter",
 		identifiedResourceName = "시미터",
@@ -8995,7 +8995,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "바스타드소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Katana",
 		identifiedResourceName = "카타나",
@@ -9015,7 +9015,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "바스타드소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Katana",
 		identifiedResourceName = "카타나",
@@ -9035,7 +9035,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "바스타드소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Katana",
 		identifiedResourceName = "카타나",
@@ -9055,7 +9055,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Tsurugi",
 		identifiedResourceName = "츠루기",
@@ -9075,7 +9075,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Tsurugi",
 		identifiedResourceName = "츠루기",
@@ -9095,7 +9095,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Tsurugi",
 		identifiedResourceName = "츠루기",
@@ -9115,7 +9115,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ring Pommel Saber",
 		identifiedResourceName = "환두태도",
@@ -9135,7 +9135,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Haedonggum",
 		identifiedResourceName = "해동검",
@@ -9156,7 +9156,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Orcish Sword",
 		identifiedResourceName = "오키쉬소드",
@@ -9177,7 +9177,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ring Pommel Saber",
 		identifiedResourceName = "환두태도",
@@ -9197,7 +9197,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Saber",
 		identifiedResourceName = "세이버",
@@ -9217,7 +9217,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Saber",
 		identifiedResourceName = "세이버",
@@ -9237,7 +9237,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Haedonggum",
 		identifiedResourceName = "해동검",
@@ -9258,7 +9258,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Flamberge",
 		identifiedResourceName = "프람베르그",
@@ -9278,7 +9278,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Nagan",
 		identifiedResourceName = "네이건",
@@ -9301,7 +9301,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ice Falchion",
 		identifiedResourceName = "아이스팔시온",
@@ -9327,7 +9327,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Edge",
 		identifiedResourceName = "엣지",
@@ -9348,7 +9348,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Fireblend",
 		identifiedResourceName = "화이어브랜드",
@@ -9371,7 +9371,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Caesar's Sword",
 		identifiedResourceName = "시저즈소드",
@@ -9393,7 +9393,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Cutlus",
 		identifiedResourceName = "커틀러스",
@@ -9417,7 +9417,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Solar Sword",
 		identifiedResourceName = "태양검",
@@ -9441,7 +9441,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Excalibur",
 		identifiedResourceName = "엑스칼리버",
@@ -9464,7 +9464,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Mysteltainn",
 		identifiedResourceName = "미스틸테인",
@@ -9489,7 +9489,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Tirfing",
 		identifiedResourceName = "테일핑",
@@ -9511,7 +9511,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Byeollungum",
 		identifiedResourceName = "별운검",
@@ -9534,7 +9534,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Immaterial Sword",
 		identifiedResourceName = "무형검",
@@ -9558,7 +9558,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Jeweled Sword",
 		identifiedResourceName = "쥬얼소드",
@@ -9578,7 +9578,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Gaia Sword",
 		identifiedResourceName = "가이아소드",
@@ -9598,7 +9598,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "바스타드소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sashimi",
 		identifiedResourceName = "사시미",
@@ -9620,7 +9620,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Holy Avenger",
 		identifiedResourceName = "홀리어벤져",
@@ -9641,7 +9641,7 @@ tbl = {
 		unidentifiedDisplayName = "One-handed Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Town Sword",
 		identifiedResourceName = "타운소드",
@@ -9661,7 +9661,7 @@ tbl = {
 		unidentifiedDisplayName = "One-handed Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Town Sword",
 		identifiedResourceName = "타운소드",
@@ -9681,7 +9681,7 @@ tbl = {
 		unidentifiedDisplayName = "One-handed Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Star Dust Blade",
 		identifiedResourceName = "스타블레이드",
@@ -9703,7 +9703,7 @@ tbl = {
 		unidentifiedDisplayName = "One-handed Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Flamberge",
 		identifiedResourceName = "프람베르그",
@@ -9726,7 +9726,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "바스타드소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Slayer",
 		identifiedResourceName = "슬레이어",
@@ -9746,7 +9746,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "바스타드소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Slayer",
 		identifiedResourceName = "슬레이어",
@@ -9766,7 +9766,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "바스타드소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Slayer",
 		identifiedResourceName = "슬레이어",
@@ -9786,7 +9786,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "바스타드소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bastard Sword",
 		identifiedResourceName = "바스타드소드",
@@ -9806,7 +9806,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "바스타드소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bastard Sword",
 		identifiedResourceName = "바스타드소드",
@@ -9826,7 +9826,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "바스타드소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bastard Sword",
 		identifiedResourceName = "바스타드소드",
@@ -9846,7 +9846,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "바스타드소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Two-handed Sword",
 		identifiedResourceName = "투핸드소드",
@@ -9866,7 +9866,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "바스타드소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Two-handed Sword",
 		identifiedResourceName = "투핸드소드",
@@ -9886,7 +9886,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "바스타드소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Two-handed Sword",
 		identifiedResourceName = "투핸드소드",
@@ -9906,7 +9906,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "바스타드소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Broad Sword",
 		identifiedResourceName = "브로드소드",
@@ -9927,7 +9927,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "바스타드소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Balmung",
 		identifiedResourceName = "발뭉",
@@ -9948,7 +9948,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "바스타드소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Broad Sword",
 		identifiedResourceName = "브로드소드",
@@ -9969,7 +9969,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "바스타드소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Claymore",
 		identifiedResourceName = "크레이모어",
@@ -9989,7 +9989,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "바스타드소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Muramasa",
 		identifiedResourceName = "무라마사",
@@ -10012,7 +10012,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "바스타드소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Masamune",
 		identifiedResourceName = "마사무네",
@@ -10035,7 +10035,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "바스타드소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Dragon Slayer",
 		identifiedResourceName = "드래곤슬레이어",
@@ -10057,7 +10057,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "바스타드소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Schweizersabel",
 		identifiedResourceName = "슈바이체르샤벨",
@@ -10080,7 +10080,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "바스타드소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Zweihander",
 		identifiedResourceName = "즈바이핸더",
@@ -10101,7 +10101,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "바스타드소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Executioner",
 		identifiedResourceName = "액서큐셔너",
@@ -10124,7 +10124,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "바스타드소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Katzbalger",
 		identifiedResourceName = "카츠발게르",
@@ -10145,7 +10145,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "바스타드소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Zweihander",
 		identifiedResourceName = "즈바이핸더",
@@ -10167,7 +10167,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "바스타드소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Claymore",
 		identifiedResourceName = "크레이모어",
@@ -10189,7 +10189,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "바스타드소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Muramasa",
 		identifiedResourceName = "무라마사",
@@ -10216,7 +10216,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "바스타드소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Executioner",
 		identifiedResourceName = "액서큐셔너",
@@ -10244,7 +10244,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "바스타드소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Atlas Weapon",
 		identifiedResourceName = "아트로스의흉기",
@@ -10273,7 +10273,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "바스타드소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Muscle Cutter",
 		identifiedResourceName = "근육절단기",
@@ -10303,7 +10303,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "바스타드소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Schweizersabel",
 		identifiedResourceName = "슈바이체르샤벨",
@@ -10329,7 +10329,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "바스타드소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Executioner",
 		identifiedResourceName = "액서큐셔너",
@@ -10355,7 +10355,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "드래곤슬레이어",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Dragon Slayer",
 		identifiedResourceName = "드래곤슬레이어",
@@ -10379,7 +10379,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "드래곤슬레이어",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Tae Goo Lyeon",
 		identifiedResourceName = "태구련",
@@ -10403,7 +10403,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "드래곤슬레이어",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bloody Eater",
 		identifiedResourceName = "블러디이터",
@@ -10426,7 +10426,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "드래곤슬레이어",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Brave Assaulter's Katzbalger",
 		identifiedResourceName = "카츠발게르",
@@ -10450,7 +10450,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "드래곤슬레이어",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Valorous Assaulter's Katzbalger",
 		identifiedResourceName = "카츠발게르",
@@ -10474,7 +10474,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "드래곤슬레이어",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Violet Fear",
 		identifiedResourceName = "바이올렛피어",
@@ -10496,7 +10496,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "드래곤슬레이어",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Death Guidance",
 		identifiedResourceName = "죽음의인도자",
@@ -10521,7 +10521,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "드래곤슬레이어",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Glorious Claymore",
 		identifiedResourceName = "크레이모어",
@@ -10547,7 +10547,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "드래곤슬레이어",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Veteran Sword",
 		identifiedResourceName = "베테랑소드",
@@ -10570,7 +10570,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "드래곤슬레이어",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Krasnaya",
 		identifiedResourceName = "크라스나야",
@@ -10591,7 +10591,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "드래곤슬레이어",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Rental Executioner",
 		identifiedResourceName = "액서큐셔너",
@@ -10619,7 +10619,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Knife",
 		identifiedResourceName = "나이프",
@@ -10639,7 +10639,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Knife",
 		identifiedResourceName = "나이프",
@@ -10659,7 +10659,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Knife",
 		identifiedResourceName = "나이프",
@@ -10679,7 +10679,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Cutter",
 		identifiedResourceName = "커터",
@@ -10699,7 +10699,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Cutter",
 		identifiedResourceName = "커터",
@@ -10719,7 +10719,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Cutter",
 		identifiedResourceName = "커터",
@@ -10739,7 +10739,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Main Gauche",
 		identifiedResourceName = "망고슈",
@@ -10759,7 +10759,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Main Gauche",
 		identifiedResourceName = "망고슈",
@@ -10779,7 +10779,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Main Gauche",
 		identifiedResourceName = "망고슈",
@@ -10799,7 +10799,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Dirk",
 		identifiedResourceName = "더크",
@@ -10818,7 +10818,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Dirk",
 		identifiedResourceName = "더크",
@@ -10838,7 +10838,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Dirk",
 		identifiedResourceName = "더크",
@@ -10858,7 +10858,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Dagger",
 		identifiedResourceName = "대거",
@@ -10878,7 +10878,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Dagger",
 		identifiedResourceName = "대거",
@@ -10898,7 +10898,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Dagger",
 		identifiedResourceName = "대거",
@@ -10918,7 +10918,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Stiletto",
 		identifiedResourceName = "스틸레토",
@@ -10938,7 +10938,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Stiletto",
 		identifiedResourceName = "스틸레토",
@@ -10958,7 +10958,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Stiletto",
 		identifiedResourceName = "스틸레토",
@@ -10978,7 +10978,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Gladius",
 		identifiedResourceName = "그라디우스",
@@ -10998,7 +10998,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Gladius",
 		identifiedResourceName = "그라디우스",
@@ -11018,7 +11018,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Gladius",
 		identifiedResourceName = "그라디우스",
@@ -11038,7 +11038,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Damascus",
 		identifiedResourceName = "다마스커스",
@@ -11059,7 +11059,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Fortune Sword",
 		identifiedResourceName = "포츈소드",
@@ -11081,7 +11081,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Swordbreaker",
 		identifiedResourceName = "소드브레이커",
@@ -11101,7 +11101,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Mailbreaker",
 		identifiedResourceName = "메일브레이커",
@@ -11121,7 +11121,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Damascus",
 		identifiedResourceName = "다마스커스",
@@ -11142,7 +11142,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Weeder Knife",
 		identifiedResourceName = "위더나이프",
@@ -11165,7 +11165,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Combat Knife",
 		identifiedResourceName = "컴뱃나이프",
@@ -11187,7 +11187,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Kitchen Knife",
 		identifiedResourceName = "식칼",
@@ -11210,7 +11210,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ice pick",
 		identifiedResourceName = "송곳",
@@ -11230,7 +11230,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bazerald",
 		identifiedResourceName = "바제랄드",
@@ -11253,7 +11253,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Assassin Dagger",
 		identifiedResourceName = "어새신대거",
@@ -11277,7 +11277,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Exorciser",
 		identifiedResourceName = "액서사이즈",
@@ -11300,7 +11300,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Moonlight Dagger",
 		identifiedResourceName = "월광검",
@@ -11322,7 +11322,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Azoth",
 		identifiedResourceName = "아조스",
@@ -11343,7 +11343,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sucsamad",
 		identifiedResourceName = "수크사마드",
@@ -11366,7 +11366,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Grimtooth",
 		identifiedResourceName = "그림투스",
@@ -11390,7 +11390,7 @@ tbl = {
 		unidentifiedDisplayName = "Knife",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Zeny Knife",
 		identifiedResourceName = "제니나이프",
@@ -11410,7 +11410,7 @@ tbl = {
 		unidentifiedDisplayName = "Knife",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Poison Knife",
 		identifiedResourceName = "포이즌나이프",
@@ -11431,7 +11431,7 @@ tbl = {
 		unidentifiedDisplayName = "Knife",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Princess Knife",
 		identifiedResourceName = "프린세스나이프",
@@ -11452,7 +11452,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Cursed Dagger",
 		identifiedResourceName = "저주받은단검",
@@ -11473,7 +11473,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Dagger of Counter",
 		identifiedResourceName = "카운터단검",
@@ -11494,7 +11494,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Novice Main-Gauche",
 		identifiedResourceName = "망고슈",
@@ -11515,7 +11515,7 @@ tbl = {
 		unidentifiedDisplayName = "Knife",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Holy Dagger",
 		identifiedResourceName = "홀리대거",
@@ -11536,7 +11536,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Cinquedea",
 		identifiedResourceName = "친퀘디아",
@@ -11557,7 +11557,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Cinquedea",
 		identifiedResourceName = "친퀘디아",
@@ -11578,7 +11578,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Kindle Dagger",
 		identifiedResourceName = "불쏘시개단검",
@@ -11600,7 +11600,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Obsidian Dagger",
 		identifiedResourceName = "흑요석단검",
@@ -11622,7 +11622,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Fisherman's Dagger",
 		identifiedResourceName = "어부의단검",
@@ -11644,7 +11644,7 @@ tbl = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "카타르",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Jur",
 		identifiedResourceName = "쥬르",
@@ -11665,7 +11665,7 @@ tbl = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "카타르",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Jur",
 		identifiedResourceName = "쥬르",
@@ -11685,7 +11685,7 @@ tbl = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "카타르",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Katar",
 		identifiedResourceName = "카타르",
@@ -11706,7 +11706,7 @@ tbl = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "카타르",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Katar",
 		identifiedResourceName = "카타르",
@@ -11727,7 +11727,7 @@ tbl = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "카타르",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Jamadhar",
 		identifiedResourceName = "자마다르",
@@ -11747,7 +11747,7 @@ tbl = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "카타르",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Jamadhar",
 		identifiedResourceName = "자마다르",
@@ -11767,7 +11767,7 @@ tbl = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "카타르",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Katar of Frozen Icicle",
 		identifiedResourceName = "물의카타르",
@@ -11789,7 +11789,7 @@ tbl = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "카타르",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Katar of Quaking",
 		identifiedResourceName = "땅의카타르",
@@ -11811,7 +11811,7 @@ tbl = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "카타르",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Katar of Raging Blaze",
 		identifiedResourceName = "불의카타르",
@@ -11833,7 +11833,7 @@ tbl = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "카타르",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Katar of Piercing Wind",
 		identifiedResourceName = "바람의카타르",
@@ -11855,7 +11855,7 @@ tbl = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "카타르",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sharpened Legbone of Ghoul",
 		identifiedResourceName = "언데드의카타르",
@@ -11876,7 +11876,7 @@ tbl = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "카타르",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Infiltrator",
 		identifiedResourceName = "등뒤를베는자",
@@ -11900,7 +11900,7 @@ tbl = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "카타르",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Loki's Nail",
 		identifiedResourceName = "로키의손톱",
@@ -11922,7 +11922,7 @@ tbl = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "카타르",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Unholy Touch",
 		identifiedResourceName = "언홀리터치",
@@ -11946,7 +11946,7 @@ tbl = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "카타르",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Specialty Jur",
 		identifiedResourceName = "바리어스쥬르",
@@ -11968,7 +11968,7 @@ tbl = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "카타르",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bloody Roar",
 		identifiedResourceName = "블러디로어",
@@ -11992,7 +11992,7 @@ tbl = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "카타르",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Infiltrator",
 		identifiedResourceName = "등뒤를베는자",
@@ -12019,7 +12019,7 @@ tbl = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "카타르",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Infiltrator",
 		identifiedResourceName = "등뒤를베는자",
@@ -12046,7 +12046,7 @@ tbl = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "카타르",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Wild Beast Claw",
 		identifiedResourceName = "야수의발톱",
@@ -12082,7 +12082,7 @@ tbl = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "카타르",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Inverse Scale",
 		identifiedResourceName = "인버스스케어",
@@ -12108,7 +12108,7 @@ tbl = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "카타르",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Drill Katar",
 		identifiedResourceName = "드릴카타르",
@@ -12136,7 +12136,7 @@ tbl = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "카타르",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Blood Tears",
 		identifiedResourceName = "혈루",
@@ -12168,7 +12168,7 @@ tbl = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "카타르",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Katar of Frozen Icicle",
 		identifiedResourceName = "물의카타르",
@@ -12190,7 +12190,7 @@ tbl = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "카타르",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Katar of Quaking",
 		identifiedResourceName = "땅의카타르",
@@ -12212,7 +12212,7 @@ tbl = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "카타르",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Katar of Raging Blaze",
 		identifiedResourceName = "불의카타르",
@@ -12234,7 +12234,7 @@ tbl = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "카타르",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Katar of Piercing Wind",
 		identifiedResourceName = "바람의카타르",
@@ -12256,7 +12256,7 @@ tbl = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "카타르",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Brave Carnage Katar",
 		identifiedResourceName = "혈루",
@@ -12280,7 +12280,7 @@ tbl = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "카타르",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Valorous Carnage Katar",
 		identifiedResourceName = "혈루",
@@ -12305,7 +12305,7 @@ tbl = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "카타르",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Glorious Bloody Roar",
 		identifiedResourceName = "블러디로어",
@@ -12329,7 +12329,7 @@ tbl = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "카타르",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Glorious Jamadhar",
 		identifiedResourceName = "자마다르",
@@ -12353,7 +12353,7 @@ tbl = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "카타르",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Krishna",
 		identifiedResourceName = "크리슈나",
@@ -12375,7 +12375,7 @@ tbl = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "카타르",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Chakram",
 		identifiedResourceName = "차크람",
@@ -12396,7 +12396,7 @@ tbl = {
 		unidentifiedDisplayName = "Axe",
 		unidentifiedResourceName = "액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Axe",
 		identifiedResourceName = "액스",
@@ -12416,7 +12416,7 @@ tbl = {
 		unidentifiedDisplayName = "Axe",
 		unidentifiedResourceName = "액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Axe",
 		identifiedResourceName = "액스",
@@ -12438,7 +12438,7 @@ tbl = {
 		unidentifiedDisplayName = "Axe",
 		unidentifiedResourceName = "액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Axe",
 		identifiedResourceName = "액스",
@@ -12458,7 +12458,7 @@ tbl = {
 		unidentifiedDisplayName = "Axe",
 		unidentifiedResourceName = "액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Orcish Axe",
 		identifiedResourceName = "오키쉬액스",
@@ -12479,7 +12479,7 @@ tbl = {
 		unidentifiedDisplayName = "Axe",
 		unidentifiedResourceName = "액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Cleaver",
 		identifiedResourceName = "클리버",
@@ -12501,7 +12501,7 @@ tbl = {
 		unidentifiedDisplayName = "Axe",
 		unidentifiedResourceName = "액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "War Axe",
 		identifiedResourceName = "워액스",
@@ -12523,7 +12523,7 @@ tbl = {
 		unidentifiedDisplayName = "Axe",
 		unidentifiedResourceName = "액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Windhawk",
 		identifiedResourceName = "윈드호크",
@@ -12545,7 +12545,7 @@ tbl = {
 		unidentifiedDisplayName = "Axe",
 		unidentifiedResourceName = "액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Golden Axe",
 		identifiedResourceName = "금도끼",
@@ -12561,7 +12561,7 @@ tbl = {
 		unidentifiedDisplayName = "Axe",
 		unidentifiedResourceName = "액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Orcish Axe",
 		identifiedResourceName = "오키쉬액스",
@@ -12584,7 +12584,7 @@ tbl = {
 		unidentifiedDisplayName = "Axe",
 		unidentifiedResourceName = "액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Glorious Cleaver",
 		identifiedResourceName = "클리버",
@@ -12610,7 +12610,7 @@ tbl = {
 		unidentifiedDisplayName = "Axe",
 		unidentifiedResourceName = "액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Vecer Axe",
 		identifiedResourceName = "베체르액스",
@@ -12633,7 +12633,7 @@ tbl = {
 		unidentifiedDisplayName = "Axe",
 		unidentifiedResourceName = "액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Rental Tomahawk",
 		identifiedResourceName = "토마호크",
@@ -12659,7 +12659,7 @@ tbl = {
 		unidentifiedDisplayName = "Axe",
 		unidentifiedResourceName = "액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Right Epsilon",
 		identifiedResourceName = "라이트엡실론",
@@ -12688,7 +12688,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Axe",
 		unidentifiedResourceName = "배틀액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Battle Axe",
 		identifiedResourceName = "배틀액스",
@@ -12708,7 +12708,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Axe",
 		unidentifiedResourceName = "배틀액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Battle Axe",
 		identifiedResourceName = "배틀액스",
@@ -12728,7 +12728,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Axe",
 		unidentifiedResourceName = "배틀액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Battle Axe",
 		identifiedResourceName = "배틀액스",
@@ -12748,7 +12748,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Axe",
 		unidentifiedResourceName = "배틀액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Hammer",
 		identifiedResourceName = "워해머",
@@ -12768,7 +12768,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Axe",
 		unidentifiedResourceName = "배틀액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Hammer",
 		identifiedResourceName = "워해머",
@@ -12788,7 +12788,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Axe",
 		unidentifiedResourceName = "배틀액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Hammer",
 		identifiedResourceName = "워해머",
@@ -12808,7 +12808,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Axe",
 		unidentifiedResourceName = "배틀액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Buster",
 		identifiedResourceName = "버스터",
@@ -12828,7 +12828,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Axe",
 		unidentifiedResourceName = "배틀액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Buster",
 		identifiedResourceName = "버스터",
@@ -12848,7 +12848,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Axe",
 		unidentifiedResourceName = "배틀액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Buster",
 		identifiedResourceName = "버스터",
@@ -12868,7 +12868,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Axe",
 		unidentifiedResourceName = "배틀액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Two-handed Axe",
 		identifiedResourceName = "투핸드액스",
@@ -12888,7 +12888,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Axe",
 		unidentifiedResourceName = "배틀액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Two-handed Axe",
 		identifiedResourceName = "투핸드액스",
@@ -12908,7 +12908,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Axe",
 		unidentifiedResourceName = "배틀액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Two-handed Axe",
 		identifiedResourceName = "투핸드액스",
@@ -12928,7 +12928,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Axe",
 		unidentifiedResourceName = "배틀액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bloody Axe",
 		identifiedResourceName = "블러드액스",
@@ -12950,7 +12950,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Axe",
 		unidentifiedResourceName = "배틀액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Great Axe",
 		identifiedResourceName = "그레이트액스",
@@ -12972,7 +12972,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Axe",
 		unidentifiedResourceName = "배틀액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sabbath",
 		identifiedResourceName = "새버스",
@@ -12995,7 +12995,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Axe",
 		unidentifiedResourceName = "배틀액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Light Epsilon",
 		identifiedResourceName = "라이트엡실론",
@@ -13018,7 +13018,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Axe",
 		unidentifiedResourceName = "배틀액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Slaughter",
 		identifiedResourceName = "슬러터",
@@ -13041,7 +13041,7 @@ tbl = {
 		unidentifiedDisplayName = "One-Handed Axe",
 		unidentifiedResourceName = "액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Tomahawk",
 		identifiedResourceName = "토마호크",
@@ -13063,7 +13063,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Axe",
 		unidentifiedResourceName = "배틀액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Guillotine",
 		identifiedResourceName = "길로틴",
@@ -13085,7 +13085,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Axe",
 		unidentifiedResourceName = "배틀액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Doom Slayer",
 		identifiedResourceName = "둠슬레이어",
@@ -13120,7 +13120,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Axe",
 		unidentifiedResourceName = "배틀액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Doom Slayer",
 		identifiedResourceName = "둠슬레이어",
@@ -13155,7 +13155,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Axe",
 		unidentifiedResourceName = "배틀액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Rental Light Epsilon",
 		identifiedResourceName = "라이트엡실론",
@@ -13184,7 +13184,7 @@ tbl = {
 		unidentifiedDisplayName = "One-Handed Axe",
 		unidentifiedResourceName = "액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Tomahawk",
 		identifiedResourceName = "토마호크",
@@ -13210,7 +13210,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Axe",
 		unidentifiedResourceName = "배틀액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Berdysz",
 		identifiedResourceName = "버디슈",
@@ -13238,7 +13238,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Axe",
 		unidentifiedResourceName = "배틀액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Heart Breaker",
 		identifiedResourceName = "하트브레이커",
@@ -13275,7 +13275,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Axe",
 		unidentifiedResourceName = "배틀액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Hurricane Fury",
 		identifiedResourceName = "허리케인퓨리",
@@ -13316,7 +13316,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Axe",
 		unidentifiedResourceName = "배틀액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Valorous Insane Battle Axe",
 		identifiedResourceName = "배틀액스",
@@ -13340,7 +13340,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Axe",
 		unidentifiedResourceName = "배틀액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Brave Insane Battle Axe",
 		identifiedResourceName = "배틀액스",
@@ -13364,7 +13364,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Axe",
 		unidentifiedResourceName = "배틀액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Novice Battle Axe",
 		identifiedResourceName = "배틀액스",
@@ -13386,7 +13386,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Axe",
 		unidentifiedResourceName = "배틀액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Glorious Twohanded Axe",
 		identifiedResourceName = "투핸드액스",
@@ -13412,7 +13412,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Axe",
 		unidentifiedResourceName = "배틀액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Veteran Axe",
 		identifiedResourceName = "베테랑액스",
@@ -13442,7 +13442,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Axe",
 		unidentifiedResourceName = "배틀액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bradium Stonehammer",
 		identifiedResourceName = "브라디움돌망치",
@@ -13464,7 +13464,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Axe",
 		unidentifiedResourceName = "배틀액스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Giant Axe",
 		identifiedResourceName = "기간트액스",
@@ -13486,7 +13486,7 @@ tbl = {
 		unidentifiedDisplayName = "One-Handed Spear",
 		unidentifiedResourceName = "쟈벨린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Javelin",
 		identifiedResourceName = "쟈벨린",
@@ -13507,7 +13507,7 @@ tbl = {
 		unidentifiedDisplayName = "One-Handed Spear",
 		unidentifiedResourceName = "쟈벨린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Javelin",
 		identifiedResourceName = "쟈벨린",
@@ -13528,7 +13528,7 @@ tbl = {
 		unidentifiedDisplayName = "One-Handed Spear",
 		unidentifiedResourceName = "쟈벨린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Javelin",
 		identifiedResourceName = "쟈벨린",
@@ -13548,7 +13548,7 @@ tbl = {
 		unidentifiedDisplayName = "One-Handed Spear",
 		unidentifiedResourceName = "쟈벨린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Spear",
 		identifiedResourceName = "스피어",
@@ -13568,7 +13568,7 @@ tbl = {
 		unidentifiedDisplayName = "One-Handed Spear",
 		unidentifiedResourceName = "쟈벨린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Spear",
 		identifiedResourceName = "스피어",
@@ -13588,7 +13588,7 @@ tbl = {
 		unidentifiedDisplayName = "One-Handed Spear",
 		unidentifiedResourceName = "쟈벨린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Spear",
 		identifiedResourceName = "스피어",
@@ -13608,7 +13608,7 @@ tbl = {
 		unidentifiedDisplayName = "One-Handed Spear",
 		unidentifiedResourceName = "쟈벨린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Pike",
 		identifiedResourceName = "파이크",
@@ -13628,7 +13628,7 @@ tbl = {
 		unidentifiedDisplayName = "One-Handed Spear",
 		unidentifiedResourceName = "쟈벨린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Pike",
 		identifiedResourceName = "파이크",
@@ -13648,7 +13648,7 @@ tbl = {
 		unidentifiedDisplayName = "One-Handed Spear",
 		unidentifiedResourceName = "쟈벨린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Pike",
 		identifiedResourceName = "파이크",
@@ -13668,7 +13668,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Spear",
 		unidentifiedResourceName = "랜스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Lance",
 		identifiedResourceName = "랜스",
@@ -13688,7 +13688,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Spear",
 		unidentifiedResourceName = "랜스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Lance",
 		identifiedResourceName = "랜스",
@@ -13708,7 +13708,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Spear",
 		unidentifiedResourceName = "랜스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Lance",
 		identifiedResourceName = "랜스",
@@ -13728,7 +13728,7 @@ tbl = {
 		unidentifiedDisplayName = "One-Handed Spear",
 		unidentifiedResourceName = "쟈벨린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Gungnir",
 		identifiedResourceName = "궁그닐",
@@ -13751,7 +13751,7 @@ tbl = {
 		unidentifiedDisplayName = "One-Handed Spear",
 		unidentifiedResourceName = "쟈벨린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Gelerdria",
 		identifiedResourceName = "겔러드리아",
@@ -13774,7 +13774,7 @@ tbl = {
 		unidentifiedDisplayName = "One-Handed Spear",
 		unidentifiedResourceName = "쟈벨린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Brocca",
 		identifiedResourceName = "꼬챙이",
@@ -13795,7 +13795,7 @@ tbl = {
 		unidentifiedDisplayName = "One-Handed Spear",
 		unidentifiedResourceName = "쟈벨린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Tjungkuletti",
 		identifiedResourceName = "튱클레티",
@@ -13816,7 +13816,7 @@ tbl = {
 		unidentifiedDisplayName = "One-Handed Spear",
 		unidentifiedResourceName = "쟈벨린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Poll Axe",
 		identifiedResourceName = "폴액스",
@@ -13839,7 +13839,7 @@ tbl = {
 		unidentifiedDisplayName = "One-Handed Spear",
 		unidentifiedResourceName = "쟈벨린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Gungnir",
 		identifiedResourceName = "궁그닐",
@@ -13863,7 +13863,7 @@ tbl = {
 		unidentifiedDisplayName = "One-Handed Spear",
 		unidentifiedResourceName = "쟈벨린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Poll Axe",
 		identifiedResourceName = "폴액스",
@@ -13890,7 +13890,7 @@ tbl = {
 		unidentifiedDisplayName = "One-Handed Spear",
 		unidentifiedResourceName = "쟈벨린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Long Horn",
 		identifiedResourceName = "롱혼",
@@ -13915,7 +13915,7 @@ tbl = {
 		unidentifiedDisplayName = "One-Handed Spear",
 		unidentifiedResourceName = "쟈벨린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Battle Hook",
 		identifiedResourceName = "배틀훅",
@@ -13939,7 +13939,7 @@ tbl = {
 		unidentifiedDisplayName = "One-Handed Spear",
 		unidentifiedResourceName = "쟈벨린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Hunting Spear",
 		identifiedResourceName = "헌팅스피어",
@@ -13962,7 +13962,7 @@ tbl = {
 		unidentifiedDisplayName = "One-Handed Spear",
 		unidentifiedResourceName = "쟈벨린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Assaulter Spear",
 		identifiedResourceName = "스피어",
@@ -13987,7 +13987,7 @@ tbl = {
 		unidentifiedDisplayName = "One-Handed Spear",
 		unidentifiedResourceName = "쟈벨린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Glorious Spear",
 		identifiedResourceName = "스피어",
@@ -14013,7 +14013,7 @@ tbl = {
 		unidentifiedDisplayName = "One-Handed Spear",
 		unidentifiedResourceName = "쟈벨린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Rental Pole Axe",
 		identifiedResourceName = "폴액스",
@@ -14040,7 +14040,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Spear",
 		unidentifiedResourceName = "랜스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Guisarme",
 		identifiedResourceName = "귀삼",
@@ -14061,7 +14061,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Spear",
 		unidentifiedResourceName = "랜스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Guisarme",
 		identifiedResourceName = "귀삼",
@@ -14082,7 +14082,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Spear",
 		unidentifiedResourceName = "랜스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Guisarme",
 		identifiedResourceName = "귀삼",
@@ -14103,7 +14103,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Spear",
 		unidentifiedResourceName = "랜스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Glaive",
 		identifiedResourceName = "글레이브",
@@ -14123,7 +14123,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Spear",
 		unidentifiedResourceName = "랜스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Glaive",
 		identifiedResourceName = "글레이브",
@@ -14143,7 +14143,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Spear",
 		unidentifiedResourceName = "랜스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Glaive",
 		identifiedResourceName = "글레이브",
@@ -14163,7 +14163,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Spear",
 		unidentifiedResourceName = "랜스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Partizan",
 		identifiedResourceName = "파티잔",
@@ -14183,7 +14183,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Spear",
 		unidentifiedResourceName = "랜스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Partizan",
 		identifiedResourceName = "파티잔",
@@ -14203,7 +14203,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Spear",
 		unidentifiedResourceName = "랜스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Partizan",
 		identifiedResourceName = "파티잔",
@@ -14223,7 +14223,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Spear",
 		unidentifiedResourceName = "랜스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Trident",
 		identifiedResourceName = "트라이던트",
@@ -14243,7 +14243,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Spear",
 		unidentifiedResourceName = "랜스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Trident",
 		identifiedResourceName = "트라이던트",
@@ -14263,7 +14263,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Spear",
 		unidentifiedResourceName = "랜스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Trident",
 		identifiedResourceName = "트라이던트",
@@ -14283,7 +14283,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Spear",
 		unidentifiedResourceName = "랜스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Hallberd",
 		identifiedResourceName = "핼버드",
@@ -14303,7 +14303,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Spear",
 		unidentifiedResourceName = "랜스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Hallberd",
 		identifiedResourceName = "핼버드",
@@ -14323,7 +14323,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Spear",
 		unidentifiedResourceName = "랜스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Hallberd",
 		identifiedResourceName = "핼버드",
@@ -14343,7 +14343,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Spear",
 		unidentifiedResourceName = "랜스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Crescent Scythe",
 		identifiedResourceName = "크레센트사이더",
@@ -14365,7 +14365,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Spear",
 		unidentifiedResourceName = "랜스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bill Guisarme",
 		identifiedResourceName = "빌귀삼",
@@ -14387,7 +14387,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Spear",
 		unidentifiedResourceName = "랜스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Zephyrus",
 		identifiedResourceName = "제퓨로스",
@@ -14410,7 +14410,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Spear",
 		unidentifiedResourceName = "랜스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Longinus's Spear",
 		identifiedResourceName = "롱기누스의창",
@@ -14432,7 +14432,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Spear",
 		unidentifiedResourceName = "랜스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Brionac",
 		identifiedResourceName = "브류나크",
@@ -14456,7 +14456,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Spear",
 		unidentifiedResourceName = "랜스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Hellfire",
 		identifiedResourceName = "헬파이어",
@@ -14479,7 +14479,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Staff",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Soul Staff",
 		identifiedResourceName = "스태프오브소울",
@@ -14503,7 +14503,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Staff",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Wizardry Staff",
 		identifiedResourceName = "위자드리스태프",
@@ -14527,7 +14527,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Spear",
 		unidentifiedResourceName = "랜스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Gae Bolg",
 		identifiedResourceName = "가에볼그",
@@ -14551,7 +14551,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Spear",
 		unidentifiedResourceName = "랜스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Equestrian's Spear",
 		identifiedResourceName = "마상창",
@@ -14567,7 +14567,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Spear",
 		unidentifiedResourceName = "랜스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Crescent Scythe",
 		identifiedResourceName = "크레센트사이더",
@@ -14592,7 +14592,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Spear",
 		unidentifiedResourceName = "랜스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Spectral Spear",
 		identifiedResourceName = "요괴의창",
@@ -14628,7 +14628,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Spear",
 		unidentifiedResourceName = "랜스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ahlspiess",
 		identifiedResourceName = "알슈피스",
@@ -14658,7 +14658,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Spear",
 		unidentifiedResourceName = "랜스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Spectral Spear",
 		identifiedResourceName = "요괴의창",
@@ -14694,7 +14694,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Spear",
 		unidentifiedResourceName = "랜스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Gae Bolg",
 		identifiedResourceName = "가에볼그",
@@ -14718,7 +14718,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Spear",
 		unidentifiedResourceName = "랜스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Zephyrus",
 		identifiedResourceName = "제퓨로스",
@@ -14742,7 +14742,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Spear",
 		unidentifiedResourceName = "랜스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Assaulter Lance",
 		identifiedResourceName = "랜스",
@@ -14766,7 +14766,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Spear",
 		unidentifiedResourceName = "랜스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ivory Lance",
 		identifiedResourceName = "아이보리랜스",
@@ -14789,7 +14789,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Spear",
 		unidentifiedResourceName = "랜스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Cardo",
 		identifiedResourceName = "카르도",
@@ -14811,7 +14811,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Spear",
 		unidentifiedResourceName = "랜스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Battle Fork",
 		identifiedResourceName = "배틀포크",
@@ -14831,7 +14831,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Spear",
 		unidentifiedResourceName = "랜스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Glorious Lance",
 		identifiedResourceName = "랜스",
@@ -14856,7 +14856,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Club",
 		identifiedResourceName = "클럽",
@@ -14876,7 +14876,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Club",
 		identifiedResourceName = "클럽",
@@ -14896,7 +14896,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Club",
 		identifiedResourceName = "클럽",
@@ -14916,7 +14916,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Mace",
 		identifiedResourceName = "메이스",
@@ -14936,7 +14936,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Mace",
 		identifiedResourceName = "메이스",
@@ -14956,7 +14956,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Mace",
 		identifiedResourceName = "메이스",
@@ -14976,7 +14976,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Smasher",
 		identifiedResourceName = "스매셔",
@@ -14996,7 +14996,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Smasher",
 		identifiedResourceName = "스매셔",
@@ -15016,7 +15016,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Smasher",
 		identifiedResourceName = "스매셔",
@@ -15036,7 +15036,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Flail",
 		identifiedResourceName = "플레일",
@@ -15056,7 +15056,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Flail",
 		identifiedResourceName = "플레일",
@@ -15076,7 +15076,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Flail",
 		identifiedResourceName = "플레일",
@@ -15096,7 +15096,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Morning Star",
 		identifiedResourceName = "모닝스타",
@@ -15116,7 +15116,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Morning Star",
 		identifiedResourceName = "모닝스타",
@@ -15136,7 +15136,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Morning Star",
 		identifiedResourceName = "모닝스타",
@@ -15156,7 +15156,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sword Mace",
 		identifiedResourceName = "소드메이스",
@@ -15176,7 +15176,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sword Mace",
 		identifiedResourceName = "소드메이스",
@@ -15196,7 +15196,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sword Mace",
 		identifiedResourceName = "소드메이스",
@@ -15216,7 +15216,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Chain",
 		identifiedResourceName = "체인",
@@ -15236,7 +15236,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Chain",
 		identifiedResourceName = "체인",
@@ -15256,7 +15256,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Chain",
 		identifiedResourceName = "체인",
@@ -15276,7 +15276,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Stunner",
 		identifiedResourceName = "스터너",
@@ -15297,7 +15297,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Spike",
 		identifiedResourceName = "스파이크",
@@ -15319,7 +15319,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Golden Mace",
 		identifiedResourceName = "골든메이스",
@@ -15341,7 +15341,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Long Mace",
 		identifiedResourceName = "롱메이스",
@@ -15363,7 +15363,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Slash",
 		identifiedResourceName = "슬래쉬",
@@ -15387,7 +15387,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Quadrille",
 		identifiedResourceName = "쿼드릴",
@@ -15408,7 +15408,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Grand Cross",
 		identifiedResourceName = "그랜드크로스",
@@ -15432,7 +15432,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Iron Driver",
 		identifiedResourceName = "아이언드라이버",
@@ -15452,7 +15452,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Mjolnir",
 		identifiedResourceName = "묘르닐",
@@ -15476,7 +15476,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Wrench",
 		identifiedResourceName = "스패너",
@@ -15497,7 +15497,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Stunner",
 		identifiedResourceName = "스터너",
@@ -15519,7 +15519,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Wrench",
 		identifiedResourceName = "스패너",
@@ -15545,7 +15545,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Hollgrehenn's Hammer",
 		identifiedResourceName = "홀그랜제련망치",
@@ -15570,7 +15570,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Spike",
 		identifiedResourceName = "스파이크",
@@ -15595,7 +15595,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Golden Mace",
 		identifiedResourceName = "골든메이스",
@@ -15617,7 +15617,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Grand Cross",
 		identifiedResourceName = "그랜드크로스",
@@ -15641,7 +15641,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Nemesis",
 		identifiedResourceName = "네메시스",
@@ -15667,7 +15667,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Valorous Battlefield Morning Star",
 		identifiedResourceName = "모닝스타",
@@ -15692,7 +15692,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Brave Battlefield Morning Star",
 		identifiedResourceName = "모닝스타",
@@ -15717,7 +15717,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Lunakaligo",
 		identifiedResourceName = "루나칼리고",
@@ -15740,7 +15740,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Novice Mace",
 		identifiedResourceName = "메이스",
@@ -15765,7 +15765,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Glorious Morning Star",
 		identifiedResourceName = "플레일",
@@ -15789,7 +15789,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Veteran Hammer",
 		identifiedResourceName = "베테랑햄머",
@@ -15812,7 +15812,7 @@ tbl = {
 		unidentifiedDisplayName = "Book",
 		unidentifiedResourceName = "북",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Book",
 		identifiedResourceName = "북",
@@ -15832,7 +15832,7 @@ tbl = {
 		unidentifiedDisplayName = "Book",
 		unidentifiedResourceName = "북",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bible",
 		identifiedResourceName = "바이블",
@@ -15853,7 +15853,7 @@ tbl = {
 		unidentifiedDisplayName = "Book",
 		unidentifiedResourceName = "북",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Tablet",
 		identifiedResourceName = "타블렛",
@@ -15873,7 +15873,7 @@ tbl = {
 		unidentifiedDisplayName = "Book",
 		unidentifiedResourceName = "북",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Book of Billows",
 		identifiedResourceName = "물의책",
@@ -15894,7 +15894,7 @@ tbl = {
 		unidentifiedDisplayName = "Book",
 		unidentifiedResourceName = "북",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Book of Mother Earth",
 		identifiedResourceName = "땅의책",
@@ -15915,7 +15915,7 @@ tbl = {
 		unidentifiedDisplayName = "Book",
 		unidentifiedResourceName = "북",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Book of the Blazing Sun",
 		identifiedResourceName = "불의책",
@@ -15936,7 +15936,7 @@ tbl = {
 		unidentifiedDisplayName = "Book",
 		unidentifiedResourceName = "북",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Book of Gust of Wind",
 		identifiedResourceName = "바람의책",
@@ -15957,7 +15957,7 @@ tbl = {
 		unidentifiedDisplayName = "Book",
 		unidentifiedResourceName = "북",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Book of the Apocalypse",
 		identifiedResourceName = "묵시록",
@@ -15980,7 +15980,7 @@ tbl = {
 		unidentifiedDisplayName = "Book",
 		unidentifiedResourceName = "북",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Girl's Diary",
 		identifiedResourceName = "소녀의일기장",
@@ -16001,7 +16001,7 @@ tbl = {
 		unidentifiedDisplayName = "Book",
 		unidentifiedResourceName = "북",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Legacy of Dragon",
 		identifiedResourceName = "드래곤의유산",
@@ -16025,7 +16025,7 @@ tbl = {
 		unidentifiedDisplayName = "Book",
 		unidentifiedResourceName = "북",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sage's Diary",
 		identifiedResourceName = "현자의일기",
@@ -16047,7 +16047,7 @@ tbl = {
 		unidentifiedDisplayName = "Book",
 		unidentifiedResourceName = "북",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Hardcover Book",
 		identifiedResourceName = "양장본",
@@ -16069,7 +16069,7 @@ tbl = {
 		unidentifiedDisplayName = "Book",
 		unidentifiedResourceName = "북",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Rental Sage's Diary",
 		identifiedResourceName = "현자의일기",
@@ -16094,7 +16094,7 @@ tbl = {
 		unidentifiedDisplayName = "Book",
 		unidentifiedResourceName = "북",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Encyclopedia",
 		identifiedResourceName = "대백과사전",
@@ -16122,7 +16122,7 @@ tbl = {
 		unidentifiedDisplayName = "Book",
 		unidentifiedResourceName = "북",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ledger of Death",
 		identifiedResourceName = "사신의명부",
@@ -16153,7 +16153,7 @@ tbl = {
 		unidentifiedDisplayName = "Book",
 		unidentifiedResourceName = "북",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Book of Billows",
 		identifiedResourceName = "물의책",
@@ -16178,7 +16178,7 @@ tbl = {
 		unidentifiedDisplayName = "Book",
 		unidentifiedResourceName = "북",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Book of Mother Earth",
 		identifiedResourceName = "땅의책",
@@ -16203,7 +16203,7 @@ tbl = {
 		unidentifiedDisplayName = "Book",
 		unidentifiedResourceName = "북",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Book of Blazing Sun",
 		identifiedResourceName = "불의책",
@@ -16228,7 +16228,7 @@ tbl = {
 		unidentifiedDisplayName = "Book",
 		unidentifiedResourceName = "북",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Book of Gust of Wind",
 		identifiedResourceName = "바람의책",
@@ -16253,7 +16253,7 @@ tbl = {
 		unidentifiedDisplayName = "Book",
 		unidentifiedResourceName = "북",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Principles of Magic",
 		identifiedResourceName = "마법의정석",
@@ -16280,7 +16280,7 @@ tbl = {
 		unidentifiedDisplayName = "Book",
 		unidentifiedResourceName = "북",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ancient Magic",
 		identifiedResourceName = "고대의마법",
@@ -16306,7 +16306,7 @@ tbl = {
 		unidentifiedDisplayName = "Book",
 		unidentifiedResourceName = "북",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Brave Battle Strategy Book",
 		identifiedResourceName = "바이블",
@@ -16330,7 +16330,7 @@ tbl = {
 		unidentifiedDisplayName = "Book",
 		unidentifiedResourceName = "북",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Valorous Battle Strategy Book",
 		identifiedResourceName = "바이블",
@@ -16353,7 +16353,7 @@ tbl = {
 		unidentifiedDisplayName = "Book",
 		unidentifiedResourceName = "북",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Glorious Tablet",
 		identifiedResourceName = "타블렛",
@@ -16377,7 +16377,7 @@ tbl = {
 		unidentifiedDisplayName = "Book",
 		unidentifiedResourceName = "북",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Glorious Apocalypse",
 		identifiedResourceName = "묵시록",
@@ -16401,7 +16401,7 @@ tbl = {
 		unidentifiedDisplayName = "Book",
 		unidentifiedResourceName = "북",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Diary Of Great Sage",
 		identifiedResourceName = "현자의일기",
@@ -16426,7 +16426,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Angra manyu",
 		identifiedResourceName = "앙그라마이뉴",
@@ -17392,7 +17392,7 @@ tbl = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bow",
 		identifiedResourceName = "보우",
@@ -17412,7 +17412,7 @@ tbl = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bow",
 		identifiedResourceName = "보우",
@@ -17432,7 +17432,7 @@ tbl = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bow",
 		identifiedResourceName = "보우",
@@ -17452,7 +17452,7 @@ tbl = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Composite Bow",
 		identifiedResourceName = "컴포지트보우",
@@ -17472,7 +17472,7 @@ tbl = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Composite Bow",
 		identifiedResourceName = "컴포지트보우",
@@ -17492,7 +17492,7 @@ tbl = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Composite Bow",
 		identifiedResourceName = "컴포지트보우",
@@ -17512,7 +17512,7 @@ tbl = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Great Bow",
 		identifiedResourceName = "그레이트보우",
@@ -17532,7 +17532,7 @@ tbl = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Great Bow",
 		identifiedResourceName = "그레이트보우",
@@ -17552,7 +17552,7 @@ tbl = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Great Bow",
 		identifiedResourceName = "그레이트보우",
@@ -17572,7 +17572,7 @@ tbl = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Cross Bow",
 		identifiedResourceName = "크로스보우",
@@ -17592,7 +17592,7 @@ tbl = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Cross Bow",
 		identifiedResourceName = "크로스보우",
@@ -17612,7 +17612,7 @@ tbl = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Cross Bow",
 		identifiedResourceName = "크로스보우",
@@ -17632,7 +17632,7 @@ tbl = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Arbalest Bow",
 		identifiedResourceName = "알바레스트",
@@ -17653,7 +17653,7 @@ tbl = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Gakkung Bow",
 		identifiedResourceName = "각궁",
@@ -17673,7 +17673,7 @@ tbl = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Arbalest Bow",
 		identifiedResourceName = "알바레스트",
@@ -17694,7 +17694,7 @@ tbl = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Gakkung Bow",
 		identifiedResourceName = "각궁",
@@ -17714,7 +17714,7 @@ tbl = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Hunter Bow",
 		identifiedResourceName = "헌터보우",
@@ -17734,7 +17734,7 @@ tbl = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Roguemaster's Bow",
 		identifiedResourceName = "도둑의활",
@@ -17755,7 +17755,7 @@ tbl = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Rudra Bow",
 		identifiedResourceName = "루드라의활",
@@ -17779,7 +17779,7 @@ tbl = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Repeating Crossbow",
 		identifiedResourceName = "리피팅크로스",
@@ -17799,7 +17799,7 @@ tbl = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ballista",
 		identifiedResourceName = "발리스타",
@@ -17819,7 +17819,7 @@ tbl = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Luna Bow",
 		identifiedResourceName = "루나보우",
@@ -17844,7 +17844,7 @@ tbl = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Dragon Wing",
 		identifiedResourceName = "드래곤윙",
@@ -17868,7 +17868,7 @@ tbl = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Minstrel Bow",
 		identifiedResourceName = "음유시인의활",
@@ -17891,7 +17891,7 @@ tbl = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Hunter Bow",
 		identifiedResourceName = "헌터보우",
@@ -17913,7 +17913,7 @@ tbl = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ballista",
 		identifiedResourceName = "발리스타",
@@ -17938,7 +17938,7 @@ tbl = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ballista",
 		identifiedResourceName = "발리스타",
@@ -17963,7 +17963,7 @@ tbl = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Rudra Bow",
 		identifiedResourceName = "루드라의활",
@@ -17990,7 +17990,7 @@ tbl = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Burning Bow",
 		identifiedResourceName = "불타는활",
@@ -18019,7 +18019,7 @@ tbl = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Frozen Bow",
 		identifiedResourceName = "냉각의활",
@@ -18048,7 +18048,7 @@ tbl = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Earth Bow",
 		identifiedResourceName = "대지의활",
@@ -18078,7 +18078,7 @@ tbl = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Gust Bow",
 		identifiedResourceName = "질풍의활",
@@ -18111,7 +18111,7 @@ tbl = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Orc Archer Bow",
 		identifiedResourceName = "오크아쳐의활",
@@ -18140,7 +18140,7 @@ tbl = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Double Bound",
 		identifiedResourceName = "더블바운드",
@@ -18161,7 +18161,7 @@ tbl = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ixion Wings",
 		identifiedResourceName = "익시온의날개",
@@ -18183,7 +18183,7 @@ tbl = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Valorous Battle CrossBow",
 		identifiedResourceName = "크로스보우",
@@ -18207,7 +18207,7 @@ tbl = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Brave Battle CrossBow",
 		identifiedResourceName = "크로스보우",
@@ -18230,7 +18230,7 @@ tbl = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Nepenthes Bow",
 		identifiedResourceName = "네펜데스보우",
@@ -18251,7 +18251,7 @@ tbl = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Cursed Lyre",
 		identifiedResourceName = "커즈드라이어",
@@ -18274,7 +18274,7 @@ tbl = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Novice Composite Bow",
 		identifiedResourceName = "컴포지트보우",
@@ -18298,7 +18298,7 @@ tbl = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Glorious Hunter Bow",
 		identifiedResourceName = "헌터보우",
@@ -18323,7 +18323,7 @@ tbl = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Falken Blitz",
 		identifiedResourceName = "팔켄블리츠",
@@ -18344,11 +18344,7 @@ tbl = {
 		unidentifiedDisplayName = "Arrow",
 		unidentifiedResourceName = "화살",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
-			"Weight: ^7777770^000000",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Arrow",
 		identifiedResourceName = "화살",
@@ -18366,10 +18362,7 @@ tbl = {
 		unidentifiedDisplayName = "Arrow",
 		unidentifiedResourceName = "화살",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 			"Weight: ^7777770^000000",
 		},
 		identifiedDisplayName = "Silver Arrow",
@@ -18388,10 +18381,7 @@ tbl = {
 		unidentifiedDisplayName = "Arrow",
 		unidentifiedResourceName = "화살",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 			"Weight: ^7777770^000000",
 		},
 		identifiedDisplayName = "Fire Arrow",
@@ -18901,7 +18891,7 @@ tbl = {
 		unidentifiedDisplayName = "Claw",
 		unidentifiedResourceName = "바그낙",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Waghnak",
 		identifiedResourceName = "바그낙",
@@ -18921,7 +18911,7 @@ tbl = {
 		unidentifiedDisplayName = "Claw",
 		unidentifiedResourceName = "바그낙",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Waghnak",
 		identifiedResourceName = "바그낙",
@@ -18941,7 +18931,7 @@ tbl = {
 		unidentifiedDisplayName = "Claw",
 		unidentifiedResourceName = "바그낙",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Knuckle Dusters",
 		identifiedResourceName = "너클더스터",
@@ -18961,7 +18951,7 @@ tbl = {
 		unidentifiedDisplayName = "Claw",
 		unidentifiedResourceName = "바그낙",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Knuckle Dusters",
 		identifiedResourceName = "너클더스터",
@@ -18981,7 +18971,7 @@ tbl = {
 		unidentifiedDisplayName = "Claw",
 		unidentifiedResourceName = "바그낙",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Studded Knuckles",
 		identifiedResourceName = "호라",
@@ -19001,7 +18991,7 @@ tbl = {
 		unidentifiedDisplayName = "Claw",
 		unidentifiedResourceName = "바그낙",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Studded Knuckles",
 		identifiedResourceName = "호라",
@@ -19021,7 +19011,7 @@ tbl = {
 		unidentifiedDisplayName = "Claw",
 		unidentifiedResourceName = "바그낙",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Fist",
 		identifiedResourceName = "피스트",
@@ -19041,7 +19031,7 @@ tbl = {
 		unidentifiedDisplayName = "Claw",
 		unidentifiedResourceName = "바그낙",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Fist",
 		identifiedResourceName = "피스트",
@@ -19061,7 +19051,7 @@ tbl = {
 		unidentifiedDisplayName = "Claw",
 		unidentifiedResourceName = "바그낙",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Claw",
 		identifiedResourceName = "크로",
@@ -19082,7 +19072,7 @@ tbl = {
 		unidentifiedDisplayName = "Claw",
 		unidentifiedResourceName = "바그낙",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Claw",
 		identifiedResourceName = "크로",
@@ -19103,7 +19093,7 @@ tbl = {
 		unidentifiedDisplayName = "Claw",
 		unidentifiedResourceName = "바그낙",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Finger",
 		identifiedResourceName = "핑거",
@@ -19123,7 +19113,7 @@ tbl = {
 		unidentifiedDisplayName = "Claw",
 		unidentifiedResourceName = "바그낙",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Finger",
 		identifiedResourceName = "핑거",
@@ -19143,7 +19133,7 @@ tbl = {
 		unidentifiedDisplayName = "Claw",
 		unidentifiedResourceName = "바그낙",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Kaiser Knuckle",
 		identifiedResourceName = "카이저너클",
@@ -19165,7 +19155,7 @@ tbl = {
 		unidentifiedDisplayName = "Claw",
 		unidentifiedResourceName = "바그낙",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Berserk",
 		identifiedResourceName = "베르세르크",
@@ -19186,7 +19176,7 @@ tbl = {
 		unidentifiedDisplayName = "Claw",
 		unidentifiedResourceName = "바그낙",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Hatii Claw",
 		identifiedResourceName = "가름의발톱",
@@ -19209,7 +19199,7 @@ tbl = {
 		unidentifiedDisplayName = "Claw",
 		unidentifiedResourceName = "바그낙",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Berserk",
 		identifiedResourceName = "베르세르크",
@@ -19231,7 +19221,7 @@ tbl = {
 		unidentifiedDisplayName = "Claw",
 		unidentifiedResourceName = "바그낙",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Kaiser Knuckle",
 		identifiedResourceName = "카이저너클",
@@ -19260,7 +19250,7 @@ tbl = {
 		unidentifiedDisplayName = "Claw",
 		unidentifiedResourceName = "바그낙",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Magma Fist",
 		identifiedResourceName = "마그마피스트",
@@ -19289,7 +19279,7 @@ tbl = {
 		unidentifiedDisplayName = "Claw",
 		unidentifiedResourceName = "바그낙",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Icicle Fist",
 		identifiedResourceName = "아이시클피스트",
@@ -19318,7 +19308,7 @@ tbl = {
 		unidentifiedDisplayName = "Claw",
 		unidentifiedResourceName = "바그낙",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Electric Fist",
 		identifiedResourceName = "일렉트릭피스트",
@@ -19348,7 +19338,7 @@ tbl = {
 		unidentifiedDisplayName = "Claw",
 		unidentifiedResourceName = "바그낙",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Seismic Fist",
 		identifiedResourceName = "사이즈믹피스트",
@@ -19378,7 +19368,7 @@ tbl = {
 		unidentifiedDisplayName = "Claw",
 		unidentifiedResourceName = "바그낙",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Combo Battle Glove",
 		identifiedResourceName = "연격의투갑",
@@ -19408,7 +19398,7 @@ tbl = {
 		unidentifiedDisplayName = "Claw",
 		unidentifiedResourceName = "바그낙",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Valorous Battle Fist",
 		identifiedResourceName = "피스트",
@@ -19433,7 +19423,7 @@ tbl = {
 		unidentifiedDisplayName = "Claw",
 		unidentifiedResourceName = "바그낙",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Brave Battle Fist",
 		identifiedResourceName = "피스트",
@@ -19459,7 +19449,7 @@ tbl = {
 		unidentifiedDisplayName = "Claw",
 		unidentifiedResourceName = "바그낙",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Horn of Hillslion",
 		identifiedResourceName = "혼오브힐스리온",
@@ -19482,7 +19472,7 @@ tbl = {
 		unidentifiedDisplayName = "Claw",
 		unidentifiedResourceName = "바그낙",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Glorious Claw",
 		identifiedResourceName = "크로",
@@ -19507,7 +19497,7 @@ tbl = {
 		unidentifiedDisplayName = "Claw",
 		unidentifiedResourceName = "바그낙",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Glorious Fist",
 		identifiedResourceName = "피스트",
@@ -19531,7 +19521,7 @@ tbl = {
 		unidentifiedDisplayName = "Musical Instrument",
 		unidentifiedResourceName = "바이올린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Violin",
 		identifiedResourceName = "바이올린",
@@ -19552,7 +19542,7 @@ tbl = {
 		unidentifiedDisplayName = "Musical Instrument",
 		unidentifiedResourceName = "바이올린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Violin",
 		identifiedResourceName = "바이올린",
@@ -19573,7 +19563,7 @@ tbl = {
 		unidentifiedDisplayName = "Musical Instrument",
 		unidentifiedResourceName = "바이올린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Mandolin",
 		identifiedResourceName = "만돌린",
@@ -19594,7 +19584,7 @@ tbl = {
 		unidentifiedDisplayName = "Musical Instrument",
 		unidentifiedResourceName = "바이올린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Mandolin",
 		identifiedResourceName = "만돌린",
@@ -19615,7 +19605,7 @@ tbl = {
 		unidentifiedDisplayName = "Musical Instrument",
 		unidentifiedResourceName = "바이올린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Lute",
 		identifiedResourceName = "류트",
@@ -19636,7 +19626,7 @@ tbl = {
 		unidentifiedDisplayName = "Musical Instrument",
 		unidentifiedResourceName = "바이올린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Lute",
 		identifiedResourceName = "류트",
@@ -19657,7 +19647,7 @@ tbl = {
 		unidentifiedDisplayName = "Musical Instrument",
 		unidentifiedResourceName = "바이올린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Guitar",
 		identifiedResourceName = "기타",
@@ -19678,7 +19668,7 @@ tbl = {
 		unidentifiedDisplayName = "Musical Instrument",
 		unidentifiedResourceName = "바이올린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Guitar",
 		identifiedResourceName = "기타",
@@ -19699,7 +19689,7 @@ tbl = {
 		unidentifiedDisplayName = "Musical Instrument",
 		unidentifiedResourceName = "바이올린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Harp",
 		identifiedResourceName = "하프",
@@ -19721,7 +19711,7 @@ tbl = {
 		unidentifiedDisplayName = "Musical Instrument",
 		unidentifiedResourceName = "바이올린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Harp",
 		identifiedResourceName = "하프",
@@ -19743,7 +19733,7 @@ tbl = {
 		unidentifiedDisplayName = "Musical Instrument",
 		unidentifiedResourceName = "바이올린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Gumoongoh",
 		identifiedResourceName = "거문고",
@@ -19764,7 +19754,7 @@ tbl = {
 		unidentifiedDisplayName = "Musical Instrument",
 		unidentifiedResourceName = "바이올린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Gumoongoh",
 		identifiedResourceName = "거문고",
@@ -19785,7 +19775,7 @@ tbl = {
 		unidentifiedDisplayName = "Musical Instrument",
 		unidentifiedResourceName = "바이올린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Electric Guitar",
 		identifiedResourceName = "전자기타",
@@ -19809,7 +19799,7 @@ tbl = {
 		unidentifiedDisplayName = "Musical Instrument",
 		unidentifiedResourceName = "바이올린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Burning Passion Guitar",
 		identifiedResourceName = "불의기타",
@@ -19831,7 +19821,7 @@ tbl = {
 		unidentifiedDisplayName = "Musical Instrument",
 		unidentifiedResourceName = "바이올린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Loner's Guitar",
 		identifiedResourceName = "물의기타",
@@ -19853,7 +19843,7 @@ tbl = {
 		unidentifiedDisplayName = "Musical Instrument",
 		unidentifiedResourceName = "바이올린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Green Acre Guitar",
 		identifiedResourceName = "땅의기타",
@@ -19875,7 +19865,7 @@ tbl = {
 		unidentifiedDisplayName = "Musical Instrument",
 		unidentifiedResourceName = "바이올린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Gentle Breeze Guitar",
 		identifiedResourceName = "바람의기타",
@@ -19897,7 +19887,7 @@ tbl = {
 		unidentifiedDisplayName = "Musical Instrument",
 		unidentifiedResourceName = "바이올린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Oriental Lute",
 		identifiedResourceName = "비파",
@@ -19921,7 +19911,7 @@ tbl = {
 		unidentifiedDisplayName = "Musical Instrument",
 		unidentifiedResourceName = "바이올린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Base Guitar",
 		identifiedResourceName = "베이스기타",
@@ -19953,7 +19943,7 @@ tbl = {
 		unidentifiedDisplayName = "Musical Instrument",
 		unidentifiedResourceName = "바이올린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Berserk Guitar",
 		identifiedResourceName = "신들린기타",
@@ -19988,7 +19978,7 @@ tbl = {
 		unidentifiedDisplayName = "Musical Instrument",
 		unidentifiedResourceName = "바이올린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Oriental Lute",
 		identifiedResourceName = "비파",
@@ -20015,7 +20005,7 @@ tbl = {
 		unidentifiedDisplayName = "Musical Instrument",
 		unidentifiedResourceName = "바이올린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Valorous Battlefield Guitar",
 		identifiedResourceName = "기타",
@@ -20040,7 +20030,7 @@ tbl = {
 		unidentifiedDisplayName = "Musical Instrument",
 		unidentifiedResourceName = "바이올린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Brave Battlefield Guitar",
 		identifiedResourceName = "기타",
@@ -20065,7 +20055,7 @@ tbl = {
 		unidentifiedDisplayName = "Musical Instrument",
 		unidentifiedResourceName = "바이올린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Cello",
 		identifiedResourceName = "첼로",
@@ -20087,7 +20077,7 @@ tbl = {
 		unidentifiedDisplayName = "Musical Instrument",
 		unidentifiedResourceName = "바이올린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Harp of Nepenthes",
 		identifiedResourceName = "하프오브네펜데스",
@@ -20110,7 +20100,7 @@ tbl = {
 		unidentifiedDisplayName = "Musical Instrument",
 		unidentifiedResourceName = "바이올린",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Glorious Guitar",
 		identifiedResourceName = "베이스기타",
@@ -20134,7 +20124,7 @@ tbl = {
 		unidentifiedDisplayName = "Whip",
 		unidentifiedResourceName = "로프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Rope",
 		identifiedResourceName = "로프",
@@ -20154,7 +20144,7 @@ tbl = {
 		unidentifiedDisplayName = "Whip",
 		unidentifiedResourceName = "로프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Rope",
 		identifiedResourceName = "로프",
@@ -20174,7 +20164,7 @@ tbl = {
 		unidentifiedDisplayName = "Whip",
 		unidentifiedResourceName = "로프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Whip",
 		identifiedResourceName = "라인",
@@ -20194,7 +20184,7 @@ tbl = {
 		unidentifiedDisplayName = "Whip",
 		unidentifiedResourceName = "로프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Whip",
 		identifiedResourceName = "라인",
@@ -20214,7 +20204,7 @@ tbl = {
 		unidentifiedDisplayName = "Whip",
 		unidentifiedResourceName = "로프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Wire Whip",
 		identifiedResourceName = "와이어",
@@ -20234,7 +20224,7 @@ tbl = {
 		unidentifiedDisplayName = "Whip",
 		unidentifiedResourceName = "로프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Wire Whip",
 		identifiedResourceName = "와이어",
@@ -20254,7 +20244,7 @@ tbl = {
 		unidentifiedDisplayName = "Whip",
 		unidentifiedResourceName = "로프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Rante Whip",
 		identifiedResourceName = "란테",
@@ -20274,7 +20264,7 @@ tbl = {
 		unidentifiedDisplayName = "Whip",
 		unidentifiedResourceName = "로프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Rante Whip",
 		identifiedResourceName = "란테",
@@ -20294,7 +20284,7 @@ tbl = {
 		unidentifiedDisplayName = "Whip",
 		unidentifiedResourceName = "로프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Tail Whip",
 		identifiedResourceName = "테일",
@@ -20315,7 +20305,7 @@ tbl = {
 		unidentifiedDisplayName = "Whip",
 		unidentifiedResourceName = "로프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Tail Whip",
 		identifiedResourceName = "테일",
@@ -20336,7 +20326,7 @@ tbl = {
 		unidentifiedDisplayName = "Whip",
 		unidentifiedResourceName = "로프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Whip",
 		identifiedResourceName = "휩",
@@ -20356,7 +20346,7 @@ tbl = {
 		unidentifiedDisplayName = "Whip",
 		unidentifiedResourceName = "로프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Whip",
 		identifiedResourceName = "휩",
@@ -20376,7 +20366,7 @@ tbl = {
 		unidentifiedDisplayName = "Whip",
 		unidentifiedResourceName = "로프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Lariat Whip",
 		identifiedResourceName = "라리어트",
@@ -20398,7 +20388,7 @@ tbl = {
 		unidentifiedDisplayName = "Whip",
 		unidentifiedResourceName = "로프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Rapture Rose",
 		identifiedResourceName = "랩쳐로즈",
@@ -20420,7 +20410,7 @@ tbl = {
 		unidentifiedDisplayName = "Whip",
 		unidentifiedResourceName = "로프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Chemeti Whip",
 		identifiedResourceName = "슈메티",
@@ -20443,7 +20433,7 @@ tbl = {
 		unidentifiedDisplayName = "Whip",
 		unidentifiedResourceName = "로프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Red Flame Whip",
 		identifiedResourceName = "불의채찍",
@@ -20464,7 +20454,7 @@ tbl = {
 		unidentifiedDisplayName = "Whip",
 		unidentifiedResourceName = "로프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Icicle Whip",
 		identifiedResourceName = "물의채찍",
@@ -20485,7 +20475,7 @@ tbl = {
 		unidentifiedDisplayName = "Whip",
 		unidentifiedResourceName = "로프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Gaia Whip",
 		identifiedResourceName = "땅의채찍",
@@ -20506,7 +20496,7 @@ tbl = {
 		unidentifiedDisplayName = "Whip",
 		unidentifiedResourceName = "로프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Skipping Rope",
 		identifiedResourceName = "줄넘기",
@@ -20527,7 +20517,7 @@ tbl = {
 		unidentifiedDisplayName = "Whip",
 		unidentifiedResourceName = "로프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Blade Whip",
 		identifiedResourceName = "블레이드휩",
@@ -20548,7 +20538,7 @@ tbl = {
 		unidentifiedDisplayName = "Whip",
 		unidentifiedResourceName = "로프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Queen's Whip",
 		identifiedResourceName = "여왕님의채찍",
@@ -20569,7 +20559,7 @@ tbl = {
 		unidentifiedDisplayName = "Whip",
 		unidentifiedResourceName = "로프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Electric Wire",
 		identifiedResourceName = "바람의채찍",
@@ -20590,7 +20580,7 @@ tbl = {
 		unidentifiedDisplayName = "Whip",
 		unidentifiedResourceName = "로프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Electric Eel",
 		identifiedResourceName = "전기뱀장어",
@@ -20624,7 +20614,7 @@ tbl = {
 		unidentifiedDisplayName = "Whip",
 		unidentifiedResourceName = "로프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sea Witch's Foot",
 		identifiedResourceName = "바다마녀의발",
@@ -20659,7 +20649,7 @@ tbl = {
 		unidentifiedDisplayName = "Whip",
 		unidentifiedResourceName = "로프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Carrot Whip",
 		identifiedResourceName = "당근채찍",
@@ -20690,7 +20680,7 @@ tbl = {
 		unidentifiedDisplayName = "Whip",
 		unidentifiedResourceName = "로프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Queen's Whip",
 		identifiedResourceName = "여왕님의채찍",
@@ -20710,7 +20700,7 @@ tbl = {
 		unidentifiedDisplayName = "Whip",
 		unidentifiedResourceName = "로프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Valorous Battle Lariat",
 		identifiedResourceName = "라리어트",
@@ -20734,7 +20724,7 @@ tbl = {
 		unidentifiedDisplayName = "Whip",
 		unidentifiedResourceName = "로프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Brave Battle Lariat",
 		identifiedResourceName = "라리어트",
@@ -20758,7 +20748,7 @@ tbl = {
 		unidentifiedDisplayName = "Whip",
 		unidentifiedResourceName = "로프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Stem of Nepenthes",
 		identifiedResourceName = "스템오브네펜데스",
@@ -20781,7 +20771,7 @@ tbl = {
 		unidentifiedDisplayName = "Whip",
 		unidentifiedResourceName = "로프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Whip of Balance",
 		identifiedResourceName = "추채찍",
@@ -20803,7 +20793,7 @@ tbl = {
 		unidentifiedDisplayName = "Whip",
 		unidentifiedResourceName = "로프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Glorious Lariat",
 		identifiedResourceName = "라리어트",
@@ -20827,7 +20817,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Staff",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Staff of Destruction",
 		identifiedResourceName = "디스트럭션롯드",
@@ -20867,7 +20857,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Staff",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Divine Cross",
 		identifiedResourceName = "디바인크로스",
@@ -20902,7 +20892,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Staff",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Glorious Destruction Staff",
 		identifiedResourceName = "위자드리스태프",
@@ -20927,7 +20917,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Staff",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Kronos",
 		identifiedResourceName = "크로노스",
@@ -20950,7 +20940,7 @@ tbl = {
 		unidentifiedDisplayName = "Two-Handed Staff",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Dea Staff",
 		identifiedResourceName = "스태프오브데아",
@@ -20973,7 +20963,7 @@ tbl = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "가드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Guard",
 		identifiedResourceName = "가드",
@@ -20991,7 +20981,7 @@ tbl = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "가드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Guard",
 		identifiedResourceName = "가드",
@@ -21009,7 +20999,7 @@ tbl = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "가드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Buckler",
 		identifiedResourceName = "버클러",
@@ -21027,7 +21017,7 @@ tbl = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "가드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Buckler",
 		identifiedResourceName = "버클러",
@@ -21045,7 +21035,7 @@ tbl = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "가드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Shield",
 		identifiedResourceName = "쉴드",
@@ -21063,7 +21053,7 @@ tbl = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "가드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Shield",
 		identifiedResourceName = "쉴드",
@@ -21081,7 +21071,7 @@ tbl = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "가드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Mirror Shield",
 		identifiedResourceName = "미러쉴드",
@@ -21100,7 +21090,7 @@ tbl = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "가드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Mirror Shield",
 		identifiedResourceName = "미러쉴드",
@@ -21119,7 +21109,7 @@ tbl = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "가드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Memory Book",
 		identifiedResourceName = "메모라이즈북",
@@ -21139,7 +21129,7 @@ tbl = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "가드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Holy Guard",
 		identifiedResourceName = "홀리가드",
@@ -21161,7 +21151,7 @@ tbl = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "가드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sacred Mission",
 		identifiedResourceName = "신의사자",
@@ -21184,7 +21174,7 @@ tbl = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "가드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Novice Guard",
 		identifiedResourceName = "가드",
@@ -21204,7 +21194,7 @@ tbl = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "가드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Novice Shield",
 		identifiedResourceName = "초보자용쉴드",
@@ -21224,7 +21214,7 @@ tbl = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "가드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Stone Buckler",
 		identifiedResourceName = "스톤버클러",
@@ -21255,7 +21245,7 @@ tbl = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "가드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Valkyrja's Shield",
 		identifiedResourceName = "발키리아쉴드",
@@ -21284,7 +21274,7 @@ tbl = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "가드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Angelic Guard",
 		identifiedResourceName = "천사의보호",
@@ -21314,7 +21304,7 @@ tbl = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "가드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Arm Guard",
 		identifiedResourceName = "팔목토시",
@@ -21339,7 +21329,7 @@ tbl = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "가드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Arm Guard",
 		identifiedResourceName = "팔목토시",
@@ -21364,7 +21354,7 @@ tbl = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "가드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Advanced Arm Guard",
 		identifiedResourceName = "팔목토시개량",
@@ -21388,7 +21378,7 @@ tbl = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "가드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Advanced Arm Guard",
 		identifiedResourceName = "팔목토시개량",
@@ -21412,7 +21402,7 @@ tbl = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "가드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Memory Book",
 		identifiedResourceName = "메모라이즈북",
@@ -21436,7 +21426,7 @@ tbl = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "가드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Platinum Shield",
 		identifiedResourceName = "플래티넘쉴드",
@@ -21468,7 +21458,7 @@ tbl = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "가드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Orleans's Server",
 		identifiedResourceName = "오를레앙의서버",
@@ -21495,7 +21485,7 @@ tbl = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "가드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Thorny Buckler",
 		identifiedResourceName = "가시방패",
@@ -21525,7 +21515,7 @@ tbl = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "가드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Strong Shield",
 		identifiedResourceName = "스트롱쉴드",
@@ -21553,7 +21543,7 @@ tbl = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "가드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Old Shield",
 		identifiedResourceName = "구약방패",
@@ -21567,7 +21557,7 @@ tbl = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "가드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Secular Mission",
 		identifiedResourceName = "신의사자",
@@ -21581,7 +21571,7 @@ tbl = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "가드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sacred Mission",
 		identifiedResourceName = "신의사자",
@@ -21601,7 +21591,7 @@ tbl = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "가드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Exorcism Bible",
 		identifiedResourceName = "구마의성서",
@@ -21623,7 +21613,7 @@ tbl = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "가드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Cross Shield",
 		identifiedResourceName = "크로스쉴드",
@@ -21645,7 +21635,7 @@ tbl = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "가드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Magic Bible Vol1",
 		identifiedResourceName = "마력의서제1권",
@@ -21666,7 +21656,7 @@ tbl = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "가드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Shelter Resistance",
 		identifiedResourceName = "홀리가드",
@@ -21688,7 +21678,7 @@ tbl = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "가드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Tournament Shield",
 		identifiedResourceName = "토너먼트쉴드",
@@ -21710,7 +21700,7 @@ tbl = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "가드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Shield of Naga",
 		identifiedResourceName = "나가의비늘방패",
@@ -21732,7 +21722,7 @@ tbl = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "가드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Shadow Guard",
 		identifiedResourceName = "쉐도우가드",
@@ -21753,7 +21743,7 @@ tbl = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "가드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bradium Shield",
 		identifiedResourceName = "브라디움방패",
@@ -21774,7 +21764,7 @@ tbl = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "가드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ahura Mazdah",
 		identifiedResourceName = "아후라마즈다",
@@ -21788,7 +21778,7 @@ tbl = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "가드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Shield",
 		identifiedResourceName = "아후라마즈다",
@@ -21802,7 +21792,7 @@ tbl = {
 		unidentifiedDisplayName = "Glasses",
 		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sunglasses",
 		identifiedResourceName = "선글래스",
@@ -21822,7 +21812,7 @@ tbl = {
 		unidentifiedDisplayName = "Glasses",
 		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sunglasses",
 		identifiedResourceName = "선글래스",
@@ -21842,7 +21832,7 @@ tbl = {
 		unidentifiedDisplayName = "Glasses",
 		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Glasses",
 		identifiedResourceName = "글래스",
@@ -21861,7 +21851,7 @@ tbl = {
 		unidentifiedDisplayName = "Glasses",
 		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Glasses",
 		identifiedResourceName = "글래스",
@@ -21880,7 +21870,7 @@ tbl = {
 		unidentifiedDisplayName = "Glasses",
 		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Diver Goggles",
 		identifiedResourceName = "물안경",
@@ -21899,7 +21889,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Wedding Veil",
 		identifiedResourceName = "면사포",
@@ -21920,7 +21910,7 @@ tbl = {
 		unidentifiedDisplayName = "Flower",
 		unidentifiedResourceName = "꽃",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Fancy Flower",
 		identifiedResourceName = "장식용꽃",
@@ -21940,7 +21930,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ribbon",
 		identifiedResourceName = "리본",
@@ -21960,7 +21950,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ribbon",
 		identifiedResourceName = "리본",
@@ -21980,7 +21970,7 @@ tbl = {
 		unidentifiedDisplayName = "Hairband",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Hair Band",
 		identifiedResourceName = "머리띠",
@@ -22000,7 +21990,7 @@ tbl = {
 		unidentifiedDisplayName = "Bandana",
 		unidentifiedResourceName = "두건",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bandana",
 		identifiedResourceName = "두건",
@@ -22019,7 +22009,7 @@ tbl = {
 		unidentifiedDisplayName = "Glasses",
 		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Eye Patch",
 		identifiedResourceName = "안대",
@@ -22038,7 +22028,7 @@ tbl = {
 		unidentifiedDisplayName = "Hairband",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Kitty Band",
 		identifiedResourceName = "고양이머리띠",
@@ -22057,7 +22047,7 @@ tbl = {
 		unidentifiedDisplayName = "Hairband",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bunny Band",
 		identifiedResourceName = "토끼머리띠",
@@ -22077,7 +22067,7 @@ tbl = {
 		unidentifiedDisplayName = "Hairband",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Flower Band",
 		identifiedResourceName = "꽃머리띠",
@@ -22096,7 +22086,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Biretta",
 		identifiedResourceName = "비레타",
@@ -22115,7 +22105,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Biretta",
 		identifiedResourceName = "비레타",
@@ -22134,7 +22124,7 @@ tbl = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "마스크",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Flu Mask",
 		identifiedResourceName = "마스크",
@@ -22154,7 +22144,7 @@ tbl = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "마스크",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Flu Mask",
 		identifiedResourceName = "마스크",
@@ -22173,7 +22163,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Hat",
 		identifiedResourceName = "햇",
@@ -22192,7 +22182,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Hat",
 		identifiedResourceName = "햇",
@@ -22211,7 +22201,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Turban",
 		identifiedResourceName = "둥근모자",
@@ -22231,7 +22221,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Turban",
 		identifiedResourceName = "둥근모자",
@@ -22251,7 +22241,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Goggles",
 		identifiedResourceName = "고글",
@@ -22270,7 +22260,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Goggles",
 		identifiedResourceName = "고글",
@@ -22289,7 +22279,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Cap",
 		identifiedResourceName = "캡",
@@ -22308,7 +22298,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Cap",
 		identifiedResourceName = "캡",
@@ -22327,7 +22317,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Helm",
 		identifiedResourceName = "헬름",
@@ -22346,7 +22336,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Helm",
 		identifiedResourceName = "헬름",
@@ -22365,7 +22355,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Gemmed Sallet",
 		identifiedResourceName = "쥬얼헬름",
@@ -22385,7 +22375,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Gemmed Sallet",
 		identifiedResourceName = "쥬얼헬름",
@@ -22405,7 +22395,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Circlet",
 		identifiedResourceName = "서클릿",
@@ -22425,7 +22415,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Circlet",
 		identifiedResourceName = "서클릿",
@@ -22468,7 +22458,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Crown",
 		identifiedResourceName = "크라운",
@@ -22490,7 +22480,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Santa Hat",
 		identifiedResourceName = "산타모자",
@@ -22512,7 +22502,7 @@ tbl = {
 		unidentifiedDisplayName = "Moustache",
 		unidentifiedResourceName = "흰수염",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bandit Beard",
 		identifiedResourceName = "턱수염",
@@ -22534,7 +22524,7 @@ tbl = {
 		unidentifiedDisplayName = "Moustache",
 		unidentifiedResourceName = "흰수염",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Moustache",
 		identifiedResourceName = "콧수염",
@@ -22553,7 +22543,7 @@ tbl = {
 		unidentifiedDisplayName = "Glasses",
 		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Monocle",
 		identifiedResourceName = "외눈안경",
@@ -22572,7 +22562,7 @@ tbl = {
 		unidentifiedDisplayName = "Moustache",
 		unidentifiedResourceName = "흰수염",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Beard",
 		identifiedResourceName = "수염",
@@ -22591,7 +22581,7 @@ tbl = {
 		unidentifiedDisplayName = "Moustache",
 		unidentifiedResourceName = "흰수염",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Grampa Beard",
 		identifiedResourceName = "흰수염",
@@ -22610,7 +22600,7 @@ tbl = {
 		unidentifiedDisplayName = "Glasses",
 		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Purple Glasses",
 		identifiedResourceName = "고급선글래스",
@@ -22630,7 +22620,7 @@ tbl = {
 		unidentifiedDisplayName = "Glasses",
 		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Geek Glasses",
 		identifiedResourceName = "스핀글래스",
@@ -22650,7 +22640,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Big Ribbon",
 		identifiedResourceName = "왕리본",
@@ -22671,7 +22661,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sweet Gent",
 		identifiedResourceName = "스위트젠틀",
@@ -22691,7 +22681,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Golden Gear",
 		identifiedResourceName = "골든헤드기어",
@@ -22712,7 +22702,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Romantic Gent",
 		identifiedResourceName = "올드스터로맨스",
@@ -22732,7 +22722,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Western Grace",
 		identifiedResourceName = "웨스턴그레이스",
@@ -22752,7 +22742,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Coronet",
 		identifiedResourceName = "코로넷",
@@ -22773,7 +22763,7 @@ tbl = {
 		unidentifiedDisplayName = "Hairband",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Cute Ribbon",
 		identifiedResourceName = "머리끈",
@@ -22794,7 +22784,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Monk Hat",
 		identifiedResourceName = "성직자의모자",
@@ -22814,7 +22804,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Wizard Hat",
 		identifiedResourceName = "위저드햇",
@@ -22834,7 +22824,7 @@ tbl = {
 		unidentifiedDisplayName = "Flower",
 		unidentifiedResourceName = "꽃",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sunflower",
 		identifiedResourceName = "장식용해바라기",
@@ -22854,7 +22844,7 @@ tbl = {
 		unidentifiedDisplayName = "Hairband",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Angel Wing",
 		identifiedResourceName = "천사의머리띠",
@@ -22879,7 +22869,7 @@ tbl = {
 		unidentifiedDisplayName = "Hairband",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Evil Wing",
 		identifiedResourceName = "악마의머리띠",
@@ -22903,7 +22893,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Magestic Goat",
 		identifiedResourceName = "마제스틱고우트",
@@ -22923,7 +22913,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Unicorn Horn",
 		identifiedResourceName = "새하얀뿔",
@@ -22942,7 +22932,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Spiky Band",
 		identifiedResourceName = "샤프헤드기어",
@@ -22962,7 +22952,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Mini Propeller",
 		identifiedResourceName = "프로펠라",
@@ -22981,7 +22971,7 @@ tbl = {
 		unidentifiedDisplayName = "Glasses",
 		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Mini Glasses",
 		identifiedResourceName = "미니글래스",
@@ -23001,7 +22991,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Army Cap",
 		identifiedResourceName = "프론테라군모",
@@ -23020,7 +23010,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Clown Nose",
 		identifiedResourceName = "광대코",
@@ -23039,7 +23029,7 @@ tbl = {
 		unidentifiedDisplayName = "Glasses",
 		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Zorro Masque",
 		identifiedResourceName = "의적안대",
@@ -23059,7 +23049,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Munak Hat",
 		identifiedResourceName = "무낙모자",
@@ -23079,7 +23069,7 @@ tbl = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "마스크",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Gangster Mask",
 		identifiedResourceName = "시위용마스크",
@@ -23099,7 +23089,7 @@ tbl = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "마스크",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Iron Cain",
 		identifiedResourceName = "아이언케인",
@@ -23119,7 +23109,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Cigarette",
 		identifiedResourceName = "담배",
@@ -23141,7 +23131,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Pipe",
 		identifiedResourceName = "파이프담배",
@@ -23163,7 +23153,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Romantic Flower",
 		identifiedResourceName = "꽃잎",
@@ -23184,7 +23174,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Romantic Leaf",
 		identifiedResourceName = "풀잎",
@@ -23205,7 +23195,7 @@ tbl = {
 		unidentifiedDisplayName = "Glasses",
 		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Jack be Dandy",
 		identifiedResourceName = "머리안경",
@@ -23225,7 +23215,7 @@ tbl = {
 		unidentifiedDisplayName = "Signpost",
 		unidentifiedResourceName = "정지표지판",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Stop Post",
 		identifiedResourceName = "정지표지판",
@@ -23245,7 +23235,7 @@ tbl = {
 		unidentifiedDisplayName = "Hairband",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Doctor Band",
 		identifiedResourceName = "의사머리띠",
@@ -23266,7 +23256,7 @@ tbl = {
 		unidentifiedDisplayName = "Hairband",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ghost Bandana",
 		identifiedResourceName = "망자의머리띠",
@@ -23287,7 +23277,7 @@ tbl = {
 		unidentifiedDisplayName = "Hairband",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Red Bandana",
 		identifiedResourceName = "반다나",
@@ -23306,7 +23296,7 @@ tbl = {
 		unidentifiedDisplayName = "Glasses",
 		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Eagle Eyes",
 		identifiedResourceName = "도끼눈",
@@ -23325,7 +23315,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Nurse Cap",
 		identifiedResourceName = "간호모",
@@ -23345,7 +23335,7 @@ tbl = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "스마일",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Mr. Smile",
 		identifiedResourceName = "스마일",
@@ -23364,7 +23354,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bomb Wick",
 		identifiedResourceName = "심지",
@@ -23383,7 +23373,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sakkat",
 		identifiedResourceName = "삿갓",
@@ -23404,7 +23394,7 @@ tbl = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "스마일",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Opera Masque",
 		identifiedResourceName = "오페라가면",
@@ -23424,7 +23414,7 @@ tbl = {
 		unidentifiedDisplayName = "Hairband",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Halo",
 		identifiedResourceName = "영혼고리",
@@ -23444,7 +23434,7 @@ tbl = {
 		unidentifiedDisplayName = "Hairband",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ear Muffs",
 		identifiedResourceName = "귀마개",
@@ -23464,7 +23454,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Antlers",
 		identifiedResourceName = "사슴뿔",
@@ -23484,7 +23474,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Apple of Archer",
 		identifiedResourceName = "명사수의사과",
@@ -23506,7 +23496,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Elven Ears",
 		identifiedResourceName = "요정의귀",
@@ -23528,7 +23518,7 @@ tbl = {
 		unidentifiedDisplayName = "Bandana",
 		unidentifiedResourceName = "두건",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Pirate Bandana",
 		identifiedResourceName = "해적두건",
@@ -23549,7 +23539,7 @@ tbl = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "마스크",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Mr. Scream",
 		identifiedResourceName = "스크래치마스크",
@@ -23569,7 +23559,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Poo Poo Hat",
 		identifiedResourceName = "거시기",
@@ -23589,7 +23579,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Funeral Hat",
 		identifiedResourceName = "장례건",
@@ -23608,7 +23598,7 @@ tbl = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Masquerade",
 		identifiedResourceName = "나비가면",
@@ -23628,7 +23618,7 @@ tbl = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "마스크",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Welding Mask",
 		identifiedResourceName = "용접마스크",
@@ -23649,7 +23639,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Pretend Murdered",
 		identifiedResourceName = "연극소도구",
@@ -23668,7 +23658,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Stellar",
 		identifiedResourceName = "스타더스트",
@@ -23687,7 +23677,7 @@ tbl = {
 		unidentifiedDisplayName = "Glasses",
 		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Blinker",
 		identifiedResourceName = "눈가리개",
@@ -23708,7 +23698,7 @@ tbl = {
 		unidentifiedDisplayName = "Glasses",
 		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Binoculars",
 		identifiedResourceName = "망원경",
@@ -23729,7 +23719,7 @@ tbl = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "스마일",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Goblin Mask",
 		identifiedResourceName = "고블린족가면",
@@ -23749,7 +23739,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Green Feeler",
 		identifiedResourceName = "초록더듬이",
@@ -23768,7 +23758,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Orc Helm",
 		identifiedResourceName = "오크족헬름",
@@ -23787,7 +23777,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Cotton Shirt",
 		identifiedResourceName = "코튼셔츠",
@@ -23805,7 +23795,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Cotton Shirt",
 		identifiedResourceName = "코튼셔츠",
@@ -23823,7 +23813,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Jacket",
 		identifiedResourceName = "가죽재킷",
@@ -23841,7 +23831,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Jacket",
 		identifiedResourceName = "가죽재킷",
@@ -23859,7 +23849,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Adventurer's Suit",
 		identifiedResourceName = "어드밴쳐슈츠",
@@ -23877,7 +23867,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Adventurer's Suit",
 		identifiedResourceName = "어드밴쳐슈츠",
@@ -23895,7 +23885,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Mantle",
 		identifiedResourceName = "맨틀",
@@ -23914,7 +23904,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Mantle",
 		identifiedResourceName = "맨틀",
@@ -23933,7 +23923,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Coat",
 		identifiedResourceName = "롱코트",
@@ -23952,7 +23942,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Coat",
 		identifiedResourceName = "롱코트",
@@ -23971,7 +23961,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Mink Coat",
 		identifiedResourceName = "밍크코트",
@@ -23991,7 +23981,7 @@ tbl = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "아머",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Padded Armor",
 		identifiedResourceName = "아머",
@@ -24011,7 +24001,7 @@ tbl = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "아머",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Padded Armor",
 		identifiedResourceName = "아머",
@@ -24031,7 +24021,7 @@ tbl = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "아머",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Chain Mail",
 		identifiedResourceName = "메일",
@@ -24051,7 +24041,7 @@ tbl = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "아머",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Chain Mail",
 		identifiedResourceName = "메일",
@@ -24069,7 +24059,7 @@ tbl = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "아머",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Full Plate",
 		identifiedResourceName = "플레이트",
@@ -24088,7 +24078,7 @@ tbl = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "아머",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Full Plate",
 		identifiedResourceName = "플레이트",
@@ -24107,7 +24097,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Lord's Clothes",
 		identifiedResourceName = "로드클로스",
@@ -24128,7 +24118,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Glittering Jacket",
 		identifiedResourceName = "글리터링클로스",
@@ -24150,7 +24140,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Formal Suit",
 		identifiedResourceName = "포멀드레스",
@@ -24169,7 +24159,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Silk Robe",
 		identifiedResourceName = "실크로브",
@@ -24188,7 +24178,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Silk Robe",
 		identifiedResourceName = "실크로브",
@@ -24207,7 +24197,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Scapulare",
 		identifiedResourceName = "스캐퓰러",
@@ -24225,7 +24215,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Scapulare",
 		identifiedResourceName = "스캐퓰러",
@@ -24243,7 +24233,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Saint's Robe",
 		identifiedResourceName = "세인트로브",
@@ -24262,7 +24252,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Saint's Robe",
 		identifiedResourceName = "세인트로브",
@@ -24281,7 +24271,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Holy Robe",
 		identifiedResourceName = "홀리로브",
@@ -24303,7 +24293,7 @@ tbl = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "아머",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Wooden Mail",
 		identifiedResourceName = "우든메일",
@@ -24321,7 +24311,7 @@ tbl = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "아머",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Wooden Mail",
 		identifiedResourceName = "우든메일",
@@ -24339,7 +24329,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Tights",
 		identifiedResourceName = "타이즈",
@@ -24359,7 +24349,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Tights",
 		identifiedResourceName = "타이즈",
@@ -24379,7 +24369,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Silver Robe",
 		identifiedResourceName = "실버로브",
@@ -24397,7 +24387,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Silver Robe",
 		identifiedResourceName = "실버로브",
@@ -24415,7 +24405,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Mage Coat",
 		identifiedResourceName = "매직코트",
@@ -24436,7 +24426,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Thief Clothes",
 		identifiedResourceName = "씨프클로스",
@@ -24455,7 +24445,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Thief Clothes",
 		identifiedResourceName = "씨프클로스",
@@ -24474,7 +24464,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ninja Suit",
 		identifiedResourceName = "닌자슈츠",
@@ -24501,7 +24491,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Wedding Dress",
 		identifiedResourceName = "웨딩드레스",
@@ -24521,7 +24511,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Pantie",
 		identifiedResourceName = "삼각팬티",
@@ -24539,7 +24529,7 @@ tbl = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "아머",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Novice Breastplate",
 		identifiedResourceName = "초보자용흉갑",
@@ -24558,7 +24548,7 @@ tbl = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "아머",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Legion Plate Armor",
 		identifiedResourceName = "풀플레이트아머",
@@ -24577,7 +24567,7 @@ tbl = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "아머",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Legion Plate Armor",
 		identifiedResourceName = "풀플레이트아머",
@@ -24596,7 +24586,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Robe of Cast",
 		identifiedResourceName = "캐스팅의로브",
@@ -24617,7 +24607,7 @@ tbl = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "아머",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Flame Spirit Armor",
 		identifiedResourceName = "불의갑옷",
@@ -24638,7 +24628,7 @@ tbl = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "아머",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Flame Spirit Armor",
 		identifiedResourceName = "불의갑옷",
@@ -24658,7 +24648,7 @@ tbl = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "아머",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Water Spirit Armor",
 		identifiedResourceName = "물의갑옷",
@@ -24678,7 +24668,7 @@ tbl = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "아머",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Water Spirit Armor",
 		identifiedResourceName = "물의갑옷",
@@ -24699,7 +24689,7 @@ tbl = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "아머",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Wind Spirit Armor",
 		identifiedResourceName = "바람의갑옷",
@@ -24719,7 +24709,7 @@ tbl = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "아머",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Wind Spirit Armor",
 		identifiedResourceName = "바람의갑옷",
@@ -24740,7 +24730,7 @@ tbl = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "아머",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Earth Spirit Armor",
 		identifiedResourceName = "땅의갑옷",
@@ -24760,7 +24750,7 @@ tbl = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "아머",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Earth Spirit Armor",
 		identifiedResourceName = "땅의갑옷",
@@ -24781,7 +24771,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Tattered Novice Ninja Suit",
 		identifiedResourceName = "어드밴쳐슈츠",
@@ -24801,7 +24791,7 @@ tbl = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "아머",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Odin's Blessing",
 		identifiedResourceName = "오딘의축복",
@@ -24858,7 +24848,7 @@ tbl = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "아머",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Goibne's Armor",
 		identifiedResourceName = "게브네이의갑옷",
@@ -24894,7 +24884,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Angelic Protection",
 		identifiedResourceName = "천사의가호",
@@ -24924,7 +24914,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Blessed Holy Robe",
 		identifiedResourceName = "은혜의성의",
@@ -24946,7 +24936,7 @@ tbl = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "아머",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Valkyrian Armor",
 		identifiedResourceName = "발키리의갑옷",
@@ -24984,7 +24974,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ninja Suit",
 		identifiedResourceName = "닌자슈츠",
@@ -25012,7 +25002,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Robe of Cast",
 		identifiedResourceName = "캐스팅의로브",
@@ -25036,7 +25026,7 @@ tbl = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "아머",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Meteo Plate Armor",
 		identifiedResourceName = "메테오플레이트",
@@ -25063,7 +25053,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Orleans's Gown",
 		identifiedResourceName = "오를레앙의제복",
@@ -25091,7 +25081,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Divine Cloth",
 		identifiedResourceName = "디바인클로스",
@@ -25118,7 +25108,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sniping Suit",
 		identifiedResourceName = "스나이핑슈츠",
@@ -25146,7 +25136,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Freyja Overcoat",
 		identifiedResourceName = "프레이야의외투",
@@ -25160,7 +25150,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Used Mage Coat",
 		identifiedResourceName = "매직코트",
@@ -25174,7 +25164,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Pantie",
 		identifiedResourceName = "삼각팬티",
@@ -25196,7 +25186,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Mage Coat",
 		identifiedResourceName = "매직코트",
@@ -25217,7 +25207,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Holy Robe",
 		identifiedResourceName = "홀리로브",
@@ -25239,7 +25229,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Diabolus Robe",
 		identifiedResourceName = "디아볼루스로브",
@@ -25263,7 +25253,7 @@ tbl = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "아머",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Diabolus Armor",
 		identifiedResourceName = "디아볼루스아머",
@@ -25286,7 +25276,7 @@ tbl = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "아머",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Assaulter Plate",
 		identifiedResourceName = "플레이트",
@@ -25313,7 +25303,7 @@ tbl = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "아머",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Elite Engineer Armor",
 		identifiedResourceName = "메일",
@@ -25341,7 +25331,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Assassin Robe",
 		identifiedResourceName = "씨프클로스",
@@ -25369,7 +25359,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Warlock's Battle Robe",
 		identifiedResourceName = "천사의가호",
@@ -25396,7 +25386,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Medic's Robe",
 		identifiedResourceName = "은혜의성의",
@@ -25425,7 +25415,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Elite Archer Suit",
 		identifiedResourceName = "스나이핑슈츠",
@@ -25452,7 +25442,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Elite Shooter Suit",
 		identifiedResourceName = "오를레앙의제복",
@@ -25478,7 +25468,7 @@ tbl = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "아머",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Brynhild",
 		identifiedResourceName = "브륀힐트",
@@ -25504,7 +25494,7 @@ tbl = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "아머",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Spritual Tunic",
 		identifiedResourceName = "게브네이의갑옷",
@@ -25518,7 +25508,7 @@ tbl = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "아머",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Recuperative Armor",
 		identifiedResourceName = "오딘의축복",
@@ -25541,7 +25531,7 @@ tbl = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "아머",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Chameleon Armor",
 		identifiedResourceName = "카멜레온아머",
@@ -25564,7 +25554,7 @@ tbl = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "아머",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sprint Mail",
 		identifiedResourceName = "스프린트메일",
@@ -25586,7 +25576,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Kandura",
 		identifiedResourceName = "칸두라",
@@ -25607,7 +25597,7 @@ tbl = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "아머",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Armor of Naga",
 		identifiedResourceName = "나가의비늘갑옷",
@@ -25627,7 +25617,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Improved Tights",
 		identifiedResourceName = "개량형타이즈",
@@ -25648,7 +25638,7 @@ tbl = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "아머",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Life Link",
 		identifiedResourceName = "라이프링크",
@@ -25669,7 +25659,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Novice Adventurer's Suit",
 		identifiedResourceName = "어드밴쳐슈츠",
@@ -25688,7 +25678,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Glorious Suit",
 		identifiedResourceName = "어드밴쳐슈츠",
@@ -25709,7 +25699,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Glorious Popularized Suit",
 		identifiedResourceName = "어드밴쳐슈츠",
@@ -25728,7 +25718,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Glorious Mass-Production Suit",
 		identifiedResourceName = "어드밴쳐슈츠",
@@ -25746,7 +25736,7 @@ tbl = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "아머",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Dragon Vest",
 		identifiedResourceName = "드래곤베스트",
@@ -25766,7 +25756,7 @@ tbl = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sandals",
 		identifiedResourceName = "샌들",
@@ -25785,7 +25775,7 @@ tbl = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sandals",
 		identifiedResourceName = "샌들",
@@ -25804,7 +25794,7 @@ tbl = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Shoes",
 		identifiedResourceName = "슈즈",
@@ -25823,7 +25813,7 @@ tbl = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Shoes",
 		identifiedResourceName = "슈즈",
@@ -25842,7 +25832,7 @@ tbl = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Boots",
 		identifiedResourceName = "부츠",
@@ -25860,7 +25850,7 @@ tbl = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Boots",
 		identifiedResourceName = "부츠",
@@ -25878,7 +25868,7 @@ tbl = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Crystal Pumps",
 		identifiedResourceName = "유리구두",
@@ -25899,7 +25889,7 @@ tbl = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Shackles",
 		identifiedResourceName = "족쇠",
@@ -25917,7 +25907,7 @@ tbl = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "High Heels",
 		identifiedResourceName = "뾰족구두",
@@ -25937,7 +25927,7 @@ tbl = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sleipnir",
 		identifiedResourceName = "슬레이프니르",
@@ -25961,7 +25951,7 @@ tbl = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Greaves",
 		identifiedResourceName = "그리브",
@@ -25980,7 +25970,7 @@ tbl = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Greaves",
 		identifiedResourceName = "그리브",
@@ -25999,7 +25989,7 @@ tbl = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Safety Boots",
 		identifiedResourceName = "안전화",
@@ -26019,7 +26009,7 @@ tbl = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Novice Slippers",
 		identifiedResourceName = "샌들",
@@ -26039,7 +26029,7 @@ tbl = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bunny Slipper",
 		identifiedResourceName = "슬리퍼",
@@ -26062,7 +26052,7 @@ tbl = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Novice Shoes",
 		identifiedResourceName = "초보자용슈즈",
@@ -26084,7 +26074,7 @@ tbl = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Fricco's Shoes",
 		identifiedResourceName = "프리코슈즈",
@@ -26113,7 +26103,7 @@ tbl = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Vidar's Boots",
 		identifiedResourceName = "비다르의부츠",
@@ -26146,7 +26136,7 @@ tbl = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Goibne's Greaves",
 		identifiedResourceName = "게브네이의군화",
@@ -26182,7 +26172,7 @@ tbl = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Angel's Reincarnation",
 		identifiedResourceName = "천사의재래",
@@ -26215,7 +26205,7 @@ tbl = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Valkyrian Shoes",
 		identifiedResourceName = "발키리의슈즈",
@@ -26253,7 +26243,7 @@ tbl = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "High Fashion Sandals",
 		identifiedResourceName = "고급샌들",
@@ -26276,7 +26266,7 @@ tbl = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Variant Shoes",
 		identifiedResourceName = "배리언트슈즈",
@@ -26308,7 +26298,7 @@ tbl = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Tidal Shoes",
 		identifiedResourceName = "타이달슈즈",
@@ -26338,7 +26328,7 @@ tbl = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Black Leather Boots",
 		identifiedResourceName = "검은가죽부츠",
@@ -26366,7 +26356,7 @@ tbl = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Shadow Walk",
 		identifiedResourceName = "쉐도우워크",
@@ -26405,7 +26395,7 @@ tbl = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Freyja Boots",
 		identifiedResourceName = "프레이야의장화",
@@ -26419,7 +26409,7 @@ tbl = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "그리브",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Iron Boots",
 		identifiedResourceName = "그리브",
@@ -26437,7 +26427,7 @@ tbl = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Iron Boots",
 		identifiedResourceName = "그리브",
@@ -26455,7 +26445,7 @@ tbl = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Valley Shoes",
 		identifiedResourceName = "발키리의슈즈",
@@ -26469,7 +26459,7 @@ tbl = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Highheels",
 		identifiedResourceName = "뾰족구두",
@@ -26492,7 +26482,7 @@ tbl = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Diabolus Boots",
 		identifiedResourceName = "디아볼루스부츠",
@@ -26512,7 +26502,7 @@ tbl = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Black Leather Boots",
 		identifiedResourceName = "검은가죽부츠",
@@ -26540,7 +26530,7 @@ tbl = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Battle Greave",
 		identifiedResourceName = "그리브",
@@ -26561,7 +26551,7 @@ tbl = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Combat Boots",
 		identifiedResourceName = "부츠",
@@ -26582,7 +26572,7 @@ tbl = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Battle Boots",
 		identifiedResourceName = "안전화",
@@ -26603,7 +26593,7 @@ tbl = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Paw Of Cat",
 		identifiedResourceName = "고양이의발",
@@ -26625,7 +26615,7 @@ tbl = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Refresh Shoes",
 		identifiedResourceName = "발키리의슈즈",
@@ -26647,7 +26637,7 @@ tbl = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sprint Shoes",
 		identifiedResourceName = "스프린트슈즈",
@@ -26669,7 +26659,7 @@ tbl = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Fisher's Boots",
 		identifiedResourceName = "슈즈",
@@ -26688,7 +26678,7 @@ tbl = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Glorious Shoes",
 		identifiedResourceName = "안전화",
@@ -26709,7 +26699,7 @@ tbl = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Glorious Popularized Shoes",
 		identifiedResourceName = "안전화",
@@ -26728,7 +26718,7 @@ tbl = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Glorious Mass-Production Shoes",
 		identifiedResourceName = "안전화",
@@ -26746,7 +26736,7 @@ tbl = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Vital Tree Shoes",
 		identifiedResourceName = "생명나무줄기슈즈",
@@ -26771,7 +26761,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Hood",
 		identifiedResourceName = "후드",
@@ -26789,7 +26779,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Hood",
 		identifiedResourceName = "후드",
@@ -26807,7 +26797,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Muffler",
 		identifiedResourceName = "머플러",
@@ -26826,7 +26816,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Muffler",
 		identifiedResourceName = "머플러",
@@ -26845,7 +26835,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Manteau",
 		identifiedResourceName = "망토",
@@ -26863,7 +26853,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Manteau",
 		identifiedResourceName = "망토",
@@ -26882,7 +26872,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ancient Cape",
 		identifiedResourceName = "옛영주의망토",
@@ -26903,7 +26893,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ragamuffin Manteau",
 		identifiedResourceName = "누더기망토",
@@ -26924,7 +26914,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Survivor's Manteau",
 		identifiedResourceName = "생존의망토",
@@ -26951,7 +26941,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Somber Novice Hood",
 		identifiedResourceName = "후드",
@@ -26971,7 +26961,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Skeleton Manteau",
 		identifiedResourceName = "스켈레톤망토",
@@ -26996,7 +26986,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Novice Manteau",
 		identifiedResourceName = "초보자용망토",
@@ -27018,7 +27008,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Heavenly Maiden Robe",
 		identifiedResourceName = "목보호대",
@@ -27040,7 +27030,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Pauldron",
 		identifiedResourceName = "폴드런",
@@ -27064,7 +27054,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Eagle Wing",
 		identifiedResourceName = "윙오브이글",
@@ -27088,7 +27078,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Falcon Muffler",
 		identifiedResourceName = "매의날개옷",
@@ -27119,7 +27109,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Vali's Manteau",
 		identifiedResourceName = "발리의망토",
@@ -27151,7 +27141,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Morpheus's Shawl",
 		identifiedResourceName = "모르피셔스쇼올",
@@ -27187,7 +27177,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Morrigane's Manteau",
 		identifiedResourceName = "모리아네의망토",
@@ -27221,7 +27211,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Goibne's Spaulders",
 		identifiedResourceName = "게브네이어깨장식",
@@ -27259,7 +27249,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Angelic Cardigan",
 		identifiedResourceName = "천사의온기",
@@ -27292,7 +27282,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Undershirt",
 		identifiedResourceName = "런닝셔츠",
@@ -27316,7 +27306,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Undershirt",
 		identifiedResourceName = "런닝셔츠",
@@ -27336,7 +27326,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Valkyrian Manteau",
 		identifiedResourceName = "발키리의망토",
@@ -27370,7 +27360,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ancient Cape",
 		identifiedResourceName = "옛영주의망토",
@@ -27393,7 +27383,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Dragon Breath",
 		identifiedResourceName = "드래곤의숨결",
@@ -27423,7 +27413,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Wool Scarf",
 		identifiedResourceName = "울스카프",
@@ -27448,7 +27438,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Rider Insignia",
 		identifiedResourceName = "라이더휘장",
@@ -27475,7 +27465,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Rider Insignia",
 		identifiedResourceName = "라이더휘장",
@@ -27502,7 +27492,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ulfhedinn",
 		identifiedResourceName = "울프헤딘",
@@ -27535,7 +27525,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Mithril Magic Cape",
 		identifiedResourceName = "미스릴마법망토",
@@ -27568,7 +27558,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Freyja Cape",
 		identifiedResourceName = "프레이야의망토",
@@ -27582,7 +27572,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ruffler",
 		identifiedResourceName = "머플러",
@@ -27596,7 +27586,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Cloak Of Survival",
 		identifiedResourceName = "생존의망토",
@@ -27610,7 +27600,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Skin of Ventus",
 		identifiedResourceName = "스킨오브벤투스",
@@ -27631,7 +27621,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Diabolus Manteau",
 		identifiedResourceName = "디아볼루스망토",
@@ -27654,7 +27644,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Captain's Manteau",
 		identifiedResourceName = "발키리의망토",
@@ -27675,7 +27665,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Commander's Manteau",
 		identifiedResourceName = "옛영주의망토",
@@ -27696,7 +27686,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sheriff's Manteau",
 		identifiedResourceName = "누더기망토",
@@ -27717,7 +27707,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Asprika",
 		identifiedResourceName = "아스프리카",
@@ -27741,7 +27731,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Flame Manteau of Naght Sieger",
 		identifiedResourceName = "옛영주의망토",
@@ -27763,7 +27753,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sylphid Manteau",
 		identifiedResourceName = "매의날개옷",
@@ -27786,7 +27776,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Leather of Tendrilion",
 		identifiedResourceName = "텐드릴리온의가죽",
@@ -27806,7 +27796,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Musika",
 		identifiedResourceName = "무시카",
@@ -27828,7 +27818,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Glorious Muffler",
 		identifiedResourceName = "울프헤딘",
@@ -27848,7 +27838,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Fisher's Muffler",
 		identifiedResourceName = "턱받침",
@@ -27867,7 +27857,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Dragon Manteau",
 		identifiedResourceName = "드래곤의망토",
@@ -27886,7 +27876,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Nidhoggur's Shadow Garb",
 		identifiedResourceName = "대행자의껍질조각",
@@ -27909,7 +27899,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ring",
 		identifiedResourceName = "링",
@@ -27930,7 +27920,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Earring",
 		identifiedResourceName = "이어링",
@@ -27951,7 +27941,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "네클리스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Necklace",
 		identifiedResourceName = "네클리스",
@@ -27972,7 +27962,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "글러브",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Glove",
 		identifiedResourceName = "글러브",
@@ -27993,7 +27983,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "브로치",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Brooch",
 		identifiedResourceName = "브로치",
@@ -28014,7 +28004,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "클립",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Clip",
 		identifiedResourceName = "클립",
@@ -28033,7 +28023,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Rosary",
 		identifiedResourceName = "로자리",
@@ -28055,7 +28045,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Skull Ring",
 		identifiedResourceName = "해골반지",
@@ -28074,7 +28064,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Gold Ring",
 		identifiedResourceName = "금반지",
@@ -28092,7 +28082,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Silver Ring",
 		identifiedResourceName = "은반지",
@@ -28110,7 +28100,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Flower Ring",
 		identifiedResourceName = "꽃반지",
@@ -28128,7 +28118,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Diamond Ring",
 		identifiedResourceName = "다이아반지",
@@ -28147,7 +28137,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Eye of Dullahan",
 		identifiedResourceName = "듀라한아이",
@@ -28169,7 +28159,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Safety Ring",
 		identifiedResourceName = "세이프티링",
@@ -28191,7 +28181,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Critical Ring",
 		identifiedResourceName = "크리티컬링",
@@ -28212,7 +28202,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "글러브",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Celebrant's Mitten",
 		identifiedResourceName = "신관의장갑",
@@ -28233,7 +28223,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "네클리스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Matyr's Leash",
 		identifiedResourceName = "마타의목걸이",
@@ -28254,7 +28244,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "글러브",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bow Thimble",
 		identifiedResourceName = "활골무",
@@ -28274,7 +28264,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Rogue's Treasure",
 		identifiedResourceName = "도적의반지",
@@ -28301,7 +28291,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ring",
 		identifiedResourceName = "링",
@@ -28322,7 +28312,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Earring",
 		identifiedResourceName = "이어링",
@@ -28343,7 +28333,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "네클리스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Necklace",
 		identifiedResourceName = "네클리스",
@@ -28364,7 +28354,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "글러브",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Glove",
 		identifiedResourceName = "글러브",
@@ -28385,7 +28375,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "브로치",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Brooch",
 		identifiedResourceName = "브로치",
@@ -28406,7 +28396,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Rosary",
 		identifiedResourceName = "로자리",
@@ -28428,7 +28418,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "벨트",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Belt",
 		identifiedResourceName = "벨트",
@@ -28447,7 +28437,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Novice Armlet",
 		identifiedResourceName = "노비스암릿",
@@ -28465,7 +28455,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "벨트",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Megingjard",
 		identifiedResourceName = "메긴기오르드",
@@ -28486,7 +28476,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "네클리스",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Brisingamen",
 		identifiedResourceName = "브리싱가멘",
@@ -28510,7 +28500,7 @@ tbl = {
 		unidentifiedDisplayName = "Ring",
 		unidentifiedResourceName = "금반지",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Celebration Ring",
 		identifiedResourceName = "금반지",
@@ -28590,7 +28580,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "피사향포",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sacred Incense",
 		identifiedResourceName = "피사향포",
@@ -28611,7 +28601,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "구마향포",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Occult Incense",
 		identifiedResourceName = "구마향포",
@@ -28632,7 +28622,7 @@ tbl = {
 		unidentifiedDisplayName = "Ring",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Kafra Ring",
 		identifiedResourceName = "카프라반지",
@@ -28656,7 +28646,7 @@ tbl = {
 		unidentifiedDisplayName = "Accesory",
 		unidentifiedResourceName = "힙색",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Fashion Hip Sack",
 		identifiedResourceName = "힙색",
@@ -28676,7 +28666,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "금반지",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Serin's Gold Ring",
 		identifiedResourceName = "세린의금반지",
@@ -28695,7 +28685,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "금반지",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Serin's Gold Ring ",
 		identifiedResourceName = "세린의금반지",
@@ -28714,7 +28704,7 @@ tbl = {
 		unidentifiedDisplayName = "Accesory",
 		unidentifiedResourceName = "더사인_",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "The Sign",
 		identifiedResourceName = "더사인_",
@@ -28733,7 +28723,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Moonlight Ring",
 		identifiedResourceName = "달빛반지",
@@ -28752,7 +28742,7 @@ tbl = {
 		unidentifiedDisplayName = "Accesory",
 		unidentifiedResourceName = "카네이션꽃다발",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bunch of Carnation",
 		identifiedResourceName = "카네이션꽃다발",
@@ -28771,7 +28761,7 @@ tbl = {
 		unidentifiedDisplayName = "Accesory",
 		unidentifiedResourceName = "나일로즈",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Nile Rose",
 		identifiedResourceName = "나일로즈",
@@ -28791,7 +28781,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Morpheus's Ring",
 		identifiedResourceName = "모르피셔스반지",
@@ -28827,7 +28817,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Morpheus's Bracelet",
 		identifiedResourceName = "모르피셔스팔찌",
@@ -28863,7 +28853,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Morrigane's Belt",
 		identifiedResourceName = "모리아네의벨트",
@@ -28899,7 +28889,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Morrigane's Pendant",
 		identifiedResourceName = "모리아네팬던트",
@@ -28938,7 +28928,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Goddess of Fortune's Cursed Brooch",
 		identifiedResourceName = "저주행운브로치",
@@ -28965,7 +28955,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sacrifice Ring",
 		identifiedResourceName = "세크리파이스링",
@@ -28981,7 +28971,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Shinobi Sash",
 		identifiedResourceName = "시노비의허리띠",
@@ -29009,7 +28999,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bloodied Shackle Ball",
 		identifiedResourceName = "피묻은철구",
@@ -29042,7 +29032,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Armor Charm",
 		identifiedResourceName = "하이퍼체인저",
@@ -29067,7 +29057,7 @@ tbl = {
 		unidentifiedDisplayName = "Accesory",
 		unidentifiedResourceName = "출입카드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Laboratory Permit",
 		identifiedResourceName = "출입카드",
@@ -29088,7 +29078,7 @@ tbl = {
 		unidentifiedDisplayName = "Accesory",
 		unidentifiedResourceName = "나일로즈",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Nile Rose",
 		identifiedResourceName = "나일로즈",
@@ -29110,7 +29100,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "클립",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Vesper Core 01",
 		identifiedResourceName = "베스퍼코어",
@@ -29133,7 +29123,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "클립",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Vesper Core 02",
 		identifiedResourceName = "베스퍼코어",
@@ -29155,7 +29145,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "클립",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Vesper Core 03",
 		identifiedResourceName = "베스퍼코어",
@@ -29178,7 +29168,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "클립",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Vesper Core 04",
 		identifiedResourceName = "베스퍼코어",
@@ -29201,7 +29191,7 @@ tbl = {
 		unidentifiedDisplayName = "Accesory",
 		unidentifiedResourceName = "퇴마의반지",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Exorcising Ring",
 		identifiedResourceName = "퇴마의반지",
@@ -29226,7 +29216,7 @@ tbl = {
 		unidentifiedDisplayName = "Accesory",
 		unidentifiedResourceName = "등잔",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Lantern of Hope",
 		identifiedResourceName = "등잔",
@@ -29248,7 +29238,7 @@ tbl = {
 		unidentifiedDisplayName = "Accesory",
 		unidentifiedResourceName = "글러브",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Renown Archer's Gloves",
 		identifiedResourceName = "명사수의장갑",
@@ -29272,7 +29262,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bow Thimble",
 		identifiedResourceName = "활골무",
@@ -29296,7 +29286,7 @@ tbl = {
 		unidentifiedDisplayName = "Ring",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Spiritual Ring",
 		identifiedResourceName = "스피리츄얼링",
@@ -29335,7 +29325,7 @@ tbl = {
 		unidentifiedDisplayName = "Ring",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ring Of Flame Lord",
 		identifiedResourceName = "링오브플레임로드",
@@ -29360,7 +29350,7 @@ tbl = {
 		unidentifiedDisplayName = "Ring",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ring Of Resonance",
 		identifiedResourceName = "링오브레조넌스",
@@ -29382,7 +29372,7 @@ tbl = {
 		unidentifiedDisplayName = "Ring",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Lesser Elemental Ring",
 		identifiedResourceName = "스피리츄얼링",
@@ -29848,7 +29838,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Red Silk Seal",
 		identifiedResourceName = "봉인의붉은비단",
@@ -29875,7 +29865,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Orleans's Glove",
 		identifiedResourceName = "오를레앙의장갑",
@@ -29907,7 +29897,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bison Horn",
 		identifiedResourceName = "들소의뿔",
@@ -29936,7 +29926,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Expert Ring",
 		identifiedResourceName = "익스퍼트링",
@@ -29968,7 +29958,7 @@ tbl = {
 		unidentifiedDisplayName = "Accesory",
 		unidentifiedResourceName = "GUSLI",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "GUSLI",
 		identifiedResourceName = "GUSLI",
@@ -29986,7 +29976,7 @@ tbl = {
 		unidentifiedDisplayName = "Accesory",
 		unidentifiedResourceName = "마패",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Chinese Handicraft",
 		identifiedResourceName = "마패",
@@ -30084,7 +30074,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "해골반지",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Skull Ring",
 		identifiedResourceName = "해골반지",
@@ -30108,7 +30098,7 @@ tbl = {
 		unidentifiedDisplayName = "Glove",
 		unidentifiedResourceName = "사서의장갑",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Librarian Glove",
 		identifiedResourceName = "사서의장갑",
@@ -30131,7 +30121,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "회중시계_",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Pocket Watch",
 		identifiedResourceName = "회중시계_",
@@ -30153,7 +30143,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "루나틱브로치",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Lunatic Brooch",
 		identifiedResourceName = "루나틱브로치",
@@ -30174,7 +30164,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "아이언리스트",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Iron Wrist",
 		identifiedResourceName = "아이언리스트",
@@ -30194,7 +30184,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "훈장_검사",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Medal of Honor",
 		identifiedResourceName = "훈장_검사",
@@ -30217,7 +30207,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "훈장_도둑",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Medal of Honor",
 		identifiedResourceName = "훈장_도둑",
@@ -30240,7 +30230,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "훈장_복사",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Medal of Honor",
 		identifiedResourceName = "훈장_복사",
@@ -30262,7 +30252,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "훈장_마법사",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Medal of Honor",
 		identifiedResourceName = "훈장_마법사",
@@ -30284,7 +30274,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "훈장_궁수",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Medal of Honor",
 		identifiedResourceName = "훈장_궁수",
@@ -30307,7 +30297,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "훈장_상인",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Medal of Honor",
 		identifiedResourceName = "훈장_상인",
@@ -30330,7 +30320,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "이카루스의날개",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Icarus Wings",
 		identifiedResourceName = "이카루스의날개",
@@ -30350,7 +30340,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "명궁의스카프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bowman Scarf",
 		identifiedResourceName = "명궁의스카프",
@@ -30371,7 +30361,7 @@ tbl = {
 		unidentifiedDisplayName = "Accesory",
 		unidentifiedResourceName = "저주받은손",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Cursed Hand",
 		identifiedResourceName = "저주받은손",
@@ -30392,7 +30382,7 @@ tbl = {
 		unidentifiedDisplayName = "Ring",
 		unidentifiedResourceName = "디아볼루스링",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Diabolus Ring",
 		identifiedResourceName = "디아볼루스링",
@@ -30413,7 +30403,7 @@ tbl = {
 		unidentifiedDisplayName = "Accesory",
 		unidentifiedResourceName = "컨티넨탈가드인장",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Seal of Continental Guard",
 		identifiedResourceName = "컨티넨탈가드인장",
@@ -30433,7 +30423,7 @@ tbl = {
 		unidentifiedDisplayName = "Accesory",
 		unidentifiedResourceName = "룬문자주문석",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Rune Spellstone",
 		identifiedResourceName = "룬문자주문석",
@@ -30454,7 +30444,7 @@ tbl = {
 		unidentifiedDisplayName = "Accesory",
 		unidentifiedResourceName = "죽음의고리",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Death Loop",
 		identifiedResourceName = "죽음의고리",
@@ -30474,7 +30464,7 @@ tbl = {
 		unidentifiedDisplayName = "Accesory",
 		unidentifiedResourceName = "전투휘장",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sheriff Badge",
 		identifiedResourceName = "전투휘장",
@@ -30659,7 +30649,7 @@ tbl = {
 		unidentifiedDisplayName = "Ring",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Angelic Ring",
 		identifiedResourceName = "앤젤릭링",
@@ -30681,7 +30671,7 @@ tbl = {
 		unidentifiedDisplayName = "Ring",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sprint Ring",
 		identifiedResourceName = "스프린트반지",
@@ -30700,7 +30690,7 @@ tbl = {
 		unidentifiedDisplayName = "Accesory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Pinguicula Corsage",
 		identifiedResourceName = "핀귀큘라코르사주",
@@ -30719,7 +30709,7 @@ tbl = {
 		unidentifiedDisplayName = "Accesory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Cold Heart",
 		identifiedResourceName = "냉정한마음",
@@ -30741,7 +30731,7 @@ tbl = {
 		unidentifiedDisplayName = "Accesory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Black Cat",
 		identifiedResourceName = "블랙캣",
@@ -30763,7 +30753,7 @@ tbl = {
 		unidentifiedDisplayName = "Accesory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Cursed Star",
 		identifiedResourceName = "커즈드스타",
@@ -30786,7 +30776,7 @@ tbl = {
 		unidentifiedDisplayName = "Accesory",
 		unidentifiedResourceName = "글러브",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Linen Glove",
 		identifiedResourceName = "리넨글러브",
@@ -30809,7 +30799,7 @@ tbl = {
 		unidentifiedDisplayName = "Accesory",
 		unidentifiedResourceName = "로프",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Small Fishing Rod",
 		identifiedResourceName = "물의채찍",
@@ -30827,7 +30817,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Novice Figure",
 		identifiedResourceName = "피규어",
@@ -30847,7 +30837,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Swordman Figure",
 		identifiedResourceName = "검사피규어",
@@ -30867,7 +30857,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Acolyte Figure",
 		identifiedResourceName = "복사피규어",
@@ -30887,7 +30877,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Mage Figure",
 		identifiedResourceName = "마술사피규어",
@@ -30907,7 +30897,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Archer Figure",
 		identifiedResourceName = "궁수피규어",
@@ -30927,7 +30917,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Thief Figure",
 		identifiedResourceName = "도둑피규어",
@@ -30948,7 +30938,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Merchant Figure",
 		identifiedResourceName = "상인피규어",
@@ -30968,7 +30958,7 @@ tbl = {
 		unidentifiedDisplayName = "Accesory",
 		unidentifiedResourceName = "모르피셔스반지",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Glorious Ring",
 		identifiedResourceName = "모르피셔스반지",
@@ -30991,7 +30981,7 @@ tbl = {
 		unidentifiedDisplayName = "Accesory",
 		unidentifiedResourceName = "모르피셔스반지",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Glorious Popularized Ring",
 		identifiedResourceName = "모르피셔스반지",
@@ -31010,7 +31000,7 @@ tbl = {
 		unidentifiedDisplayName = "Accesory",
 		unidentifiedResourceName = "모르피셔스반지",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Glorious Mass-Production Ring",
 		identifiedResourceName = "모르피셔스반지",
@@ -31028,7 +31018,7 @@ tbl = {
 		unidentifiedDisplayName = "Accesory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Lure",
 		identifiedResourceName = "멋쟁이지렁이",
@@ -31047,7 +31037,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Adventurer's Trusty Towel",
 		identifiedResourceName = "추억의수건",
@@ -31068,7 +31058,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "샤먼링",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Shaman Ring",
 		identifiedResourceName = "샤먼링",
@@ -31098,7 +31088,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "샤먼이어링",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Shaman Earrings",
 		identifiedResourceName = "샤먼이어링",
@@ -31124,7 +31114,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "다크나이트벨트",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Dark Knight Belt",
 		identifiedResourceName = "다크나이트벨트",
@@ -31150,7 +31140,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "다크나이트글로브",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Dark Knight Glove",
 		identifiedResourceName = "다크나이트글로브",
@@ -31176,7 +31166,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "아움두라의혜택",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Aumdura's Benefit",
 		identifiedResourceName = "아움두라의혜택",
@@ -31196,7 +31186,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ring of the Ancient Wise King",
 		identifiedResourceName = "스피리츄얼링",
@@ -31217,7 +31207,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Eye Stone Ring",
 		identifiedResourceName = "눈구슬반지",
@@ -31237,7 +31227,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "액세서리상자",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Christmas Musicbox",
 		identifiedResourceName = "한여름밤의꿈",
@@ -31256,7 +31246,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Waterdrop Brooch",
 		identifiedResourceName = "물방울브로치",
@@ -31277,7 +31267,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bradium Earring",
 		identifiedResourceName = "브라디움이어링",
@@ -31297,7 +31287,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bradium Ring",
 		identifiedResourceName = "브라디움링",
@@ -31318,7 +31308,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bradium Brooch",
 		identifiedResourceName = "브라디움브로치",
@@ -31339,7 +31329,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "샤먼이어링",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Shaman Earrings",
 		identifiedResourceName = "샤먼이어링",
@@ -31365,7 +31355,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "다크나이트벨트",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Dark Knight Belt",
 		identifiedResourceName = "다크나이트벨트",
@@ -31391,7 +31381,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "다크나이트글로브",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Dark Knight Glove",
 		identifiedResourceName = "다크나이트글로브",
@@ -45502,10 +45492,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 			"Weight: ^77777720^000000",
 		},
 		identifiedDisplayName = "Headset",
@@ -45527,10 +45514,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 			"Weight: ^77777760^000000",
 		},
 		identifiedDisplayName = "Jewel Crown",
@@ -45554,10 +45538,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 			"Weight: ^77777710^000000",
 		},
 		identifiedDisplayName = "Joker Jester",
@@ -45580,10 +45561,7 @@ tbl = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "마스크",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 			"Weight: ^77777720^000000",
 		},
 		identifiedDisplayName = "Oxygen Mask",
@@ -45605,10 +45583,7 @@ tbl = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "마스크",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 			"Weight: ^77777710^000000",
 		},
 		identifiedDisplayName = "Gas Mask",
@@ -45630,10 +45605,7 @@ tbl = {
 		unidentifiedDisplayName = "Glasses",
 		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 			"Weight: ^77777710^000000",
 		},
 		identifiedDisplayName = "Machoman's Glasses",
@@ -45654,10 +45626,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 			"Weight: ^77777720^000000",
 		},
 		identifiedDisplayName = "Grand Circlet",
@@ -45683,10 +45652,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 			"Weight: ^77777710^000000",
 		},
 		identifiedDisplayName = "Puppy Love",
@@ -45707,10 +45673,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 			"Weight: ^77777750^000000",
 		},
 		identifiedDisplayName = "Safety Helmet",
@@ -45733,10 +45696,7 @@ tbl = {
 		unidentifiedDisplayName = "Hairband",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 			"Weight: ^77777710^000000",
 		},
 		identifiedDisplayName = "Indian Fillet",
@@ -45756,10 +45716,7 @@ tbl = {
 		unidentifiedDisplayName = "Antenna",
 		unidentifiedResourceName = "안테나",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 			"Weight: ^77777710^000000",
 		},
 		identifiedDisplayName = "Aerial",
@@ -45780,10 +45737,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 			"Weight: ^77777710^000000",
 		},
 		identifiedDisplayName = "Ph.D Hat",
@@ -45804,10 +45758,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 			"Weight: ^77777710^000000",
 		},
 		identifiedDisplayName = "Lord Kaho's Horn",
@@ -45834,10 +45785,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 			"Weight: ^77777730^000000",
 		},
 		identifiedDisplayName = "Fin Helm",
@@ -45858,10 +45806,7 @@ tbl = {
 		unidentifiedDisplayName = "Egg Shell",
 		unidentifiedResourceName = "장식용알껍질",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 			"Weight: ^77777720^000000",
 		},
 		identifiedDisplayName = "Egg Shell",
@@ -45881,10 +45826,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 			"Weight: ^77777710^000000",
 		},
 		identifiedDisplayName = "Boy's Cap",
@@ -45905,10 +45847,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 			"Weight: ^77777780^000000",
 		},
 		identifiedDisplayName = "Bone Helm",
@@ -45930,10 +45869,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 			"Weight: ^77777730^000000",
 		},
 		identifiedDisplayName = "Feather Bonnet",
@@ -45954,10 +45890,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 			"Weight: ^77777750^000000",
 		},
 		identifiedDisplayName = "Corsair",
@@ -45979,10 +45912,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Kafra Band",
 		identifiedResourceName = "카프라의머리띠",
@@ -46002,10 +45932,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Grief for Greed",
 		identifiedResourceName = "돈잃은자의마음",
@@ -46027,10 +45954,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Hat of the Sun God",
 		identifiedResourceName = "태양신의모자",
@@ -46051,10 +45975,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Parcel Hat",
 		identifiedResourceName = "보따리모",
@@ -46073,10 +45994,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Cake Hat",
 		identifiedResourceName = "케이크모자",
@@ -46096,10 +46014,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Helm of Angel",
 		identifiedResourceName = "천사의투구",
@@ -46122,10 +46037,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Chef Hat",
 		identifiedResourceName = "요리사의모자",
@@ -46147,10 +46059,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "마법사의모자",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Mage Hat",
 		identifiedResourceName = "마법사의모자",
@@ -46171,10 +46080,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "촛불",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Candle",
 		identifiedResourceName = "촛불",
@@ -46193,10 +46099,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "햇",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Spore Hat",
 		identifiedResourceName = "스포아모자",
@@ -46217,10 +46120,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Panda Hat",
 		identifiedResourceName = "팬더곰모자",
@@ -46241,10 +46141,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Mine Hat",
 		identifiedResourceName = "광산헬멧",
@@ -46265,10 +46162,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "햇",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sunday Hat",
 		identifiedResourceName = "나들이모자",
@@ -46288,10 +46182,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Raccoon Hat",
 		identifiedResourceName = "너구리모자",
@@ -46312,10 +46203,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bulb Band",
 		identifiedResourceName = "전구머리띠",
@@ -46335,10 +46223,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Poring Hat",
 		identifiedResourceName = "포링모자",
@@ -46359,10 +46244,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Cross Hat",
 		identifiedResourceName = "십자머리띠",
@@ -46383,10 +46265,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Nut Shell",
 		identifiedResourceName = "열매껍질",
@@ -46408,10 +46287,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Deviruchi Hat",
 		identifiedResourceName = "새끼악마모자",
@@ -46434,10 +46310,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "달걀껍질조각",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Rainbow Eggshell",
 		identifiedResourceName = "알록달록알껍질",
@@ -46458,10 +46331,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "발그레",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Blush",
 		identifiedResourceName = "발그레",
@@ -46480,10 +46350,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Heart Hairpin",
 		identifiedResourceName = "하트머리핀",
@@ -46503,10 +46370,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "머리포자기",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bao Bao",
 		identifiedResourceName = "머리포자기",
@@ -46527,10 +46391,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "오페라가면",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Opera Phantom Mask",
 		identifiedResourceName = "오페라유령가면",
@@ -46551,7 +46412,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "악마의날개",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal.  Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Evil Wing Ears",
 		identifiedResourceName = "악마의날개",
@@ -46571,10 +46432,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "마술사의모자",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Magician Hat",
 		identifiedResourceName = "마술사의모자",
@@ -46599,10 +46457,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bongun Hat",
 		identifiedResourceName = "본건모자",
@@ -46622,10 +46477,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Fashionable Glasses",
 		identifiedResourceName = "패션선글래스",
@@ -46645,10 +46497,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Cresent Hairpin",
 		identifiedResourceName = "초승달머리핀",
@@ -46667,10 +46516,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Striped Hairband",
 		identifiedResourceName = "줄무늬머리띠",
@@ -46689,10 +46535,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Wonder Nutshell",
 		identifiedResourceName = "신비한열매껍질",
@@ -46712,10 +46555,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "고양이방울",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Pussy Cat Bell",
 		identifiedResourceName = "고양이방울",
@@ -46735,10 +46575,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Blue Hairband",
 		identifiedResourceName = "청색머리띠",
@@ -46757,10 +46594,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sphinx Hat",
 		identifiedResourceName = "스핑크스모자",
@@ -46782,10 +46616,7 @@ tbl = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "마스크",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Assassin Mask",
 		identifiedResourceName = "어세신마스크",
@@ -46806,10 +46637,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "장식용알껍질",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Novice False Eggshell",
 		identifiedResourceName = "장식용알껍질",
@@ -46856,10 +46684,7 @@ tbl = {
 		unidentifiedDisplayName = "Headband",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Black Cat Ears",
 		identifiedResourceName = "검은고양이귀",
@@ -46880,10 +46705,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Drooping Cat",
 		identifiedResourceName = "늘어진고양이",
@@ -46906,10 +46728,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Teddybear Hat",
 		identifiedResourceName = "곰돌이모자",
@@ -46930,10 +46749,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Party Hat",
 		identifiedResourceName = "꼬깔모자",
@@ -46954,10 +46770,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Flower Hairpin",
 		identifiedResourceName = "꽃머리핀",
@@ -46978,10 +46791,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Straw Hat",
 		identifiedResourceName = "밀짚모자",
@@ -47002,10 +46812,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Giant Band Aid",
 		identifiedResourceName = "반창고",
@@ -47026,10 +46833,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Smokie Leaf",
 		identifiedResourceName = "나뭇잎투구",
@@ -47049,10 +46853,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Blue Fish",
 		identifiedResourceName = "생선모자",
@@ -47074,10 +46875,7 @@ tbl = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Succubus Horn",
 		identifiedResourceName = "서큐버스뿔",
@@ -47100,10 +46898,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sombrero",
 		identifiedResourceName = "솜브레로",
@@ -47125,10 +46920,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Evil Wing Ears",
 		identifiedResourceName = "악마날개귀",
@@ -47149,10 +46941,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Kitsune Mask",
 		identifiedResourceName = "여우가면",
@@ -47175,10 +46964,7 @@ tbl = {
 		unidentifiedDisplayName = "Headband",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Hot-blooded Headband",
 		identifiedResourceName = "열혈머리띠",
@@ -47200,10 +46986,7 @@ tbl = {
 		unidentifiedDisplayName = "Headband",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Indian Headband",
 		identifiedResourceName = "인디안머리띠",
@@ -47225,10 +47008,7 @@ tbl = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Incubus Horn",
 		identifiedResourceName = "인큐버스뿔",
@@ -47251,10 +47031,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Model Training Hat",
 		identifiedResourceName = "자세교정모자",
@@ -47277,10 +47054,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Angel Wing Ears",
 		identifiedResourceName = "천사날개귀",
@@ -47301,10 +47075,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Cowboy Hat",
 		identifiedResourceName = "카우보이모자",
@@ -47324,10 +47095,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Beanie",
 		identifiedResourceName = "털모자",
@@ -47349,10 +47117,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Tulip Hairpin",
 		identifiedResourceName = "튤립머리핀",
@@ -47372,10 +47137,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sea-Otter Hat",
 		identifiedResourceName = "해달모자",
@@ -47396,10 +47158,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "X Hairpin",
 		identifiedResourceName = "X자머리핀",
@@ -47419,10 +47178,7 @@ tbl = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Crown of Ancient Queen",
 		identifiedResourceName = "여왕의투구",
@@ -47442,10 +47198,7 @@ tbl = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Crown of Mistress",
 		identifiedResourceName = "미스트레스왕관",
@@ -47469,10 +47222,7 @@ tbl = {
 		unidentifiedDisplayName = "Headband",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Decorative Mushroom",
 		identifiedResourceName = "버섯머리띠",
@@ -47492,10 +47242,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Red Ribbon",
 		identifiedResourceName = "빨간테일리본",
@@ -47516,10 +47263,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Lazy Smokie",
 		identifiedResourceName = "귀찮은너구리",
@@ -47541,10 +47285,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Small Ribbons",
 		identifiedResourceName = "양쪽귀밑리본",
@@ -47564,10 +47305,7 @@ tbl = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "스마일",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Alarm Mask",
 		identifiedResourceName = "알람가면",
@@ -47589,10 +47327,7 @@ tbl = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "스마일",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Poker Face",
 		identifiedResourceName = "고블린가면1호",
@@ -47612,10 +47347,7 @@ tbl = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "스마일",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Surprised Mask",
 		identifiedResourceName = "고블린가면2호",
@@ -47635,10 +47367,7 @@ tbl = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "스마일",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Annoyed Mask",
 		identifiedResourceName = "고블린가면3호",
@@ -47658,10 +47387,7 @@ tbl = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "스마일",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Goblin Leader Mask",
 		identifiedResourceName = "고블린가면4호",
@@ -47682,10 +47408,7 @@ tbl = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Decorative Golden Bell",
 		identifiedResourceName = "대형금방울",
@@ -47706,10 +47429,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Coif",
 		identifiedResourceName = "수녀모자",
@@ -47730,10 +47450,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Coif",
 		identifiedResourceName = "수녀모자",
@@ -47755,10 +47472,7 @@ tbl = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Helmet of Orc Hero",
 		identifiedResourceName = "오크히어로투구",
@@ -47781,10 +47495,7 @@ tbl = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "마스크",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Assassin Mask",
 		identifiedResourceName = "어새신마스크",
@@ -47804,10 +47515,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Holiday Hat",
 		identifiedResourceName = "꼬깔모자_",
@@ -47827,10 +47535,7 @@ tbl = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "마스크",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Tiger Mask",
 		identifiedResourceName = "타이거마스크",
@@ -47856,10 +47561,7 @@ tbl = {
 		unidentifiedDisplayName = "Neko Mimi",
 		unidentifiedResourceName = "고양이모자",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Neko Mimi",
 		identifiedResourceName = "고양이모자",
@@ -47883,10 +47585,7 @@ tbl = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "세일표지판",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sales Banner",
 		identifiedResourceName = "세일표지판",
@@ -47910,7 +47609,7 @@ tbl = {
 		unidentifiedDisplayName = "Takius Blindfold",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal.  Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Takius Blindfold",
 		identifiedResourceName = "검은눈가리개",
@@ -47931,10 +47630,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Blank Eyes",
 		identifiedResourceName = "배틀온라인",
@@ -47953,10 +47649,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sunflower Hairpin",
 		identifiedResourceName = "해바라기핀",
@@ -48075,10 +47768,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Crunch Toast",
 		identifiedResourceName = "토스트",
@@ -48101,10 +47791,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Renown Detective's Cap",
 		identifiedResourceName = "탐정모자",
@@ -48129,10 +47816,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Red Bonnet",
 		identifiedResourceName = "차양모자",
@@ -48158,10 +47842,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Baby Pacifier",
 		identifiedResourceName = "젖꼭지",
@@ -48186,10 +47867,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Galapago Cap",
 		identifiedResourceName = "오리모자",
@@ -48214,10 +47892,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Super Novice Hat",
 		identifiedResourceName = "슈노모자",
@@ -48241,10 +47916,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Angry Snarl",
 		identifiedResourceName = "분노입",
@@ -48269,10 +47941,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bucket Hat",
 		identifiedResourceName = "벙거지모자",
@@ -48295,10 +47964,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Winter Hat",
 		identifiedResourceName = "방한모자",
@@ -48322,10 +47988,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Banana Hat",
 		identifiedResourceName = "바나나모자",
@@ -48350,10 +48013,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Mystic Rose",
 		identifiedResourceName = "미스틱로즈",
@@ -48377,10 +48037,7 @@ tbl = {
 		unidentifiedDisplayName = "Head band",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Puppy Headband",
 		identifiedResourceName = "강아지귀",
@@ -48401,10 +48058,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Super Novice Hat",
 		identifiedResourceName = "슈노모자",
@@ -48428,10 +48082,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bucket Hat",
 		identifiedResourceName = "벙거지모자",
@@ -48454,10 +48105,7 @@ tbl = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "스마일",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Zealotus Mask",
 		identifiedResourceName = "지르타스가면",
@@ -48485,10 +48133,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Magni's Cap",
 		identifiedResourceName = "메긴캡",
@@ -48524,10 +48169,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ulle's Cap",
 		identifiedResourceName = "울캡",
@@ -48559,10 +48201,7 @@ tbl = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Fricca's Circlet",
 		identifiedResourceName = "프리카서클릿",
@@ -48597,10 +48236,7 @@ tbl = {
 		unidentifiedDisplayName = "Head band",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Angel's Kiss",
 		identifiedResourceName = "천사의입맞춤",
@@ -48636,10 +48272,7 @@ tbl = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Morpheus's Hood",
 		identifiedResourceName = "모르피셔스두건",
@@ -48673,10 +48306,7 @@ tbl = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Morrigane's Helm",
 		identifiedResourceName = "모리아네헬름",
@@ -48710,10 +48340,7 @@ tbl = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Goibne's Helm",
 		identifiedResourceName = "게브네이투구",
@@ -48751,7 +48378,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bird Nest",
 		identifiedResourceName = "새둥지",
@@ -48773,7 +48400,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Close Helmet",
 		identifiedResourceName = "클로스헬멧",
@@ -48794,10 +48421,7 @@ tbl = {
 		unidentifiedDisplayName = "Sheep Hat",
 		unidentifiedResourceName = "양모자",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sheep Hat",
 		identifiedResourceName = "양모자",
@@ -48825,10 +48449,7 @@ tbl = {
 		unidentifiedDisplayName = "Pumpkin-Head",
 		unidentifiedResourceName = "호박모자",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Pumpkin-Head",
 		identifiedResourceName = "호박모자",
@@ -48849,10 +48470,7 @@ tbl = {
 		unidentifiedDisplayName = "Cyclop's Eye",
 		unidentifiedResourceName = "사이클롭스아이",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Cyclop's Eye",
 		identifiedResourceName = "사이클롭스아이",
@@ -48904,10 +48522,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Alice Doll",
 		identifiedResourceName = "엘리스모자",
@@ -48943,7 +48558,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Magic Eyes",
 		identifiedResourceName = "매직아이즈",
@@ -48966,10 +48581,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Hibiscus",
 		identifiedResourceName = "부용",
@@ -48999,10 +48611,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Charming Ribbon",
 		identifiedResourceName = "예쁜리본",
@@ -49030,10 +48639,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Marionette Doll",
 		identifiedResourceName = "마리오넷모자",
@@ -49057,10 +48663,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Crescent Helm",
 		identifiedResourceName = "초승달투구",
@@ -49089,10 +48692,7 @@ tbl = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "스마일",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Kabuki Mask",
 		identifiedResourceName = "가부키가면",
@@ -49115,13 +48715,10 @@ tbl = {
 		ClassNum = 214
 	},
 	[5147] = {
-		unidentifiedDisplayName = "Cap",
+		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
 			"				",
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
 			"using a Magnifier.			",
 		},
 		identifiedDisplayName = "Baseball Cap",
@@ -49177,7 +48774,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Chinese Crown",
 		identifiedResourceName = "봉관",
@@ -49198,10 +48795,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Orc Helm",
 		identifiedResourceName = "오크족헬름",
@@ -49225,10 +48819,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Monk Hat",
 		identifiedResourceName = "성직자의모자",
@@ -49251,10 +48842,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Golden Gear",
 		identifiedResourceName = "골든헤드기어",
@@ -49278,10 +48866,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Magestic Goat",
 		identifiedResourceName = "마제스틱고우트",
@@ -49309,10 +48894,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Spiky Band",
 		identifiedResourceName = "샤프헤드기어",
@@ -49335,10 +48917,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bone Helm",
 		identifiedResourceName = "본헬름",
@@ -49363,10 +48942,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Corsair",
 		identifiedResourceName = "커세어",
@@ -49388,10 +48964,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Tiara",
 		identifiedResourceName = "티아라",
@@ -49416,10 +48989,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Crown",
 		identifiedResourceName = "크라운",
@@ -49444,10 +49014,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sphinx Hat",
 		identifiedResourceName = "스핑크스모자",
@@ -49472,10 +49039,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Munak Hat",
 		identifiedResourceName = "무낙모자",
@@ -49497,10 +49061,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bongun Hat",
 		identifiedResourceName = "본건모자",
@@ -49522,10 +49083,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bride Mask",
 		identifiedResourceName = "각시탈",
@@ -49552,10 +49110,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Feather Beret",
 		identifiedResourceName = "깃털베레모",
@@ -49579,10 +49134,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Valkyrie Helm",
 		identifiedResourceName = "발키리투구",
@@ -49611,10 +49163,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Beret",
 		identifiedResourceName = "베레모",
@@ -49638,10 +49187,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Magistrate Hat",
 		identifiedResourceName = "사또모자",
@@ -49665,10 +49211,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ayam",
 		identifiedResourceName = "아얌",
@@ -49692,10 +49235,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Censor Bar",
 		identifiedResourceName = "익명요청",
@@ -49721,10 +49261,7 @@ tbl = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "스마일",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Hahoe Mask",
 		identifiedResourceName = "하회탈",
@@ -49747,10 +49284,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Mythical Lion Mask",
 		identifiedResourceName = "사자탈",
@@ -49775,7 +49309,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Puppy Hat",
 		identifiedResourceName = "강아지모자",
@@ -49799,7 +49333,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bird Nest Hat",
 		identifiedResourceName = "새둥지모자",
@@ -49821,10 +49355,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Captain's Hat",
 		identifiedResourceName = "선장의모자",
@@ -49848,7 +49379,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Laurel Wreath",
 		identifiedResourceName = "월계수관",
@@ -49872,7 +49403,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "꽃",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Geographer Band",
 		identifiedResourceName = "장식용지오그래퍼",
@@ -49895,7 +49426,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Twin Red Ribbon",
 		identifiedResourceName = "트윈리본",
@@ -49920,7 +49451,7 @@ tbl = {
 		unidentifiedDisplayName = "Black Ribbon",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Black Ribbon",
 		identifiedResourceName = "리본_검정",
@@ -49942,7 +49473,7 @@ tbl = {
 		unidentifiedDisplayName = "Yellow Ribbon",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Yellow Ribbon",
 		identifiedResourceName = "리본_노랑",
@@ -49964,7 +49495,7 @@ tbl = {
 		unidentifiedDisplayName = "Green Ribbon",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Green Ribbon",
 		identifiedResourceName = "리본_초록",
@@ -49986,7 +49517,7 @@ tbl = {
 		unidentifiedDisplayName = "Pink Ribbon",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Pink Ribbon",
 		identifiedResourceName = "리본_분홍",
@@ -50008,7 +49539,7 @@ tbl = {
 		unidentifiedDisplayName = "Red Ribbon",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Red Ribbon",
 		identifiedResourceName = "리본_빨강",
@@ -50030,7 +49561,7 @@ tbl = {
 		unidentifiedDisplayName = "Orange Ribbon",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Orange Ribbon",
 		identifiedResourceName = "리본_주홍",
@@ -50052,7 +49583,7 @@ tbl = {
 		unidentifiedDisplayName = "White Ribbon",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "White Ribbon",
 		identifiedResourceName = "리본_하양",
@@ -50107,13 +49638,10 @@ tbl = {
 		ClassNum = 249
 	},
 	[5202] = {
-		unidentifiedDisplayName = "Cap",
+		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Fantastic Pumpkin-Head",
 		identifiedResourceName = "호박모자",
@@ -50138,7 +49666,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "스마일",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal.  Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Smiling Mask",
 		identifiedResourceName = "메롱가면",
@@ -50183,7 +49711,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal.  Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Romantic White Flower",
 		identifiedResourceName = "하얀꽃잎",
@@ -50204,7 +49732,7 @@ tbl = {
 		unidentifiedDisplayName = "Rideword Hat",
 		unidentifiedResourceName = "햇",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal.  Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Rideword Hat",
 		identifiedResourceName = "라이드워드",
@@ -50229,10 +49757,7 @@ tbl = {
 		unidentifiedDisplayName = "Hairband",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Flapping Angel Wing",
 		identifiedResourceName = "비상하는천사",
@@ -50260,7 +49785,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "햇",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Dress Hat",
 		identifiedResourceName = "드레스햇",
@@ -50329,10 +49854,7 @@ tbl = {
 		unidentifiedDisplayName = "Hairband",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Evolved Angel Wing",
 		identifiedResourceName = "천사의머리띠",
@@ -50363,10 +49885,7 @@ tbl = {
 		unidentifiedDisplayName = "Hairband",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Evolved Evil Wing",
 		identifiedResourceName = "악마의머리띠",
@@ -50397,10 +49916,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Evolved Magestic Goat",
 		identifiedResourceName = "마제스틱고우트",
@@ -50430,10 +49946,7 @@ tbl = {
 		unidentifiedDisplayName = "Hairband",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Evolved Bunny Band",
 		identifiedResourceName = "토끼머리띠",
@@ -50464,10 +49977,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Evolved Drooping Cat",
 		identifiedResourceName = "늘어진고양이",
@@ -50496,10 +50006,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Evolved Pipe",
 		identifiedResourceName = "파이프담배",
@@ -50529,10 +50036,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Evolved Pair of Red Ribbon",
 		identifiedResourceName = "양쪽귀밑리본",
@@ -50560,10 +50064,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Evolved Blue Fish",
 		identifiedResourceName = "생선모자",
@@ -50589,10 +50090,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Evolved Big Golden Bell",
 		identifiedResourceName = "대형금방울",
@@ -50618,10 +50116,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Evolved Orc Hero Helm",
 		identifiedResourceName = "오크히어로투구",
@@ -50647,7 +50142,7 @@ tbl = {
 		unidentifiedDisplayName = "Parade Hat",
 		unidentifiedResourceName = "햇",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Parade Hat",
 		identifiedResourceName = "마칭햇",
@@ -50672,10 +50167,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Mini Propeller",
 		identifiedResourceName = "프로펠라_",
@@ -50705,10 +50197,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Red Deviruchi Hat",
 		identifiedResourceName = "빨강새끼악마모자",
@@ -50733,10 +50222,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Gray Deviruchi Hat",
 		identifiedResourceName = "흰색새끼악마모자",
@@ -50761,10 +50247,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Brown Deviruchi Hat",
 		identifiedResourceName = "회색새끼악마모자",
@@ -50789,10 +50272,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Gray Drooping Cat",
 		identifiedResourceName = "흰색늘어진고양이",
@@ -50819,10 +50299,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Brown Drooping Cat",
 		identifiedResourceName = "회색늘어진고양이",
@@ -50849,10 +50326,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Pink Drooping Cat",
 		identifiedResourceName = "분홍늘어진고양이",
@@ -50879,10 +50353,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Blue Drooping Cat",
 		identifiedResourceName = "파랑늘어진고양이",
@@ -50909,10 +50380,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Yellow Drooping Cat",
 		identifiedResourceName = "노랑늘어진고양이",
@@ -50939,10 +50407,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Brown Beanie",
 		identifiedResourceName = "회색털모자",
@@ -50967,10 +50432,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Blue Beanie",
 		identifiedResourceName = "파랑털모자",
@@ -50995,10 +50457,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Pink Beanie",
 		identifiedResourceName = "분홍털모자",
@@ -51023,10 +50482,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "마법사의모자",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Red Mage Hat",
 		identifiedResourceName = "빨강마법사의모자",
@@ -51052,10 +50508,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "마법사의모자",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Gray Mage Hat",
 		identifiedResourceName = "흰색마법사의모자",
@@ -51081,10 +50534,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "마법사의모자",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Brown Mage Hat",
 		identifiedResourceName = "회색마법사의모자",
@@ -51110,10 +50560,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "마법사의모자",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Blue Mage Hat",
 		identifiedResourceName = "파랑마법사의모자",
@@ -51139,10 +50586,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "마법사의모자",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Yellow Mage Hat",
 		identifiedResourceName = "노랑마법사의모자",
@@ -51316,7 +50760,7 @@ tbl = {
 		unidentifiedDisplayName = "Drooping Lif",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Lif Doll Hat",
 		identifiedResourceName = "리프인형모자",
@@ -51339,7 +50783,7 @@ tbl = {
 		unidentifiedDisplayName = "Deviling Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Deviling Hat",
 		identifiedResourceName = "데빌링모자",
@@ -51403,7 +50847,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal.  Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Afro Wig",
 		identifiedResourceName = "아프로가발",
@@ -51575,10 +51019,7 @@ tbl = {
 		unidentifiedDisplayName = "Hairband",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Flapping Angel Wing",
 		identifiedResourceName = "비상하는천사",
@@ -51603,10 +51044,10 @@ tbl = {
 		ClassNum = 264
 	},
 	[5273] = {
-		unidentifiedDisplayName = "Cap",
+		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Happy Wig",
 		identifiedResourceName = "행복한가발",
@@ -51625,10 +51066,10 @@ tbl = {
 		ClassNum = 305
 	},
 	[5274] = {
-		unidentifiedDisplayName = "Cap",
+		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Shiny Wig",
 		identifiedResourceName = "눈부신가발",
@@ -51647,10 +51088,10 @@ tbl = {
 		ClassNum = 306
 	},
 	[5275] = {
-		unidentifiedDisplayName = "Cap",
+		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Marvelous Wig",
 		identifiedResourceName = "놀라운가발",
@@ -51669,10 +51110,10 @@ tbl = {
 		ClassNum = 307
 	},
 	[5276] = {
-		unidentifiedDisplayName = "Cap",
+		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Fantastic Wig",
 		identifiedResourceName = "환상적인가발",
@@ -51724,10 +51165,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Chick Hat",
 		identifiedResourceName = "병아리모자",
@@ -51758,10 +51196,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Water Lily Crown",
 		identifiedResourceName = "수련왕관",
@@ -51791,10 +51226,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Vane Hairpin",
 		identifiedResourceName = "풍차비녀",
@@ -51819,10 +51251,7 @@ tbl = {
 		unidentifiedDisplayName = "Hairband",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Pecopeco Hairband",
 		identifiedResourceName = "페코페코머리띠",
@@ -51853,10 +51282,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "햇",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Vacation Hat",
 		identifiedResourceName = "바캉스모자",
@@ -51884,10 +51310,7 @@ tbl = {
 		unidentifiedDisplayName = "Glasses",
 		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Red Glasses",
 		identifiedResourceName = "빨간안경",
@@ -51916,10 +51339,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Vanilmirth Hat",
 		identifiedResourceName = "바닐미르스모자",
@@ -51947,10 +51367,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Drooping Bunny",
 		identifiedResourceName = "늘어진토끼",
@@ -51973,10 +51390,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Kettle Hat",
 		identifiedResourceName = "주전자모자",
@@ -52004,10 +51418,7 @@ tbl = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Dragon Skull",
 		identifiedResourceName = "용의해골",
@@ -52036,10 +51447,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ramen Hat",
 		identifiedResourceName = "라면모자",
@@ -52074,10 +51482,7 @@ tbl = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "가면",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Whisper Mask",
 		identifiedResourceName = "위스퍼마스크",
@@ -52104,7 +51509,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal.  Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Cap Of Blindness",
 		identifiedResourceName = "맹목모",
@@ -52120,7 +51525,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Pirate Dagger",
 		identifiedResourceName = "해적의대거",
@@ -52154,10 +51559,10 @@ tbl = {
 		ClassNum = 328
 	},
 	[5307] = {
-		unidentifiedDisplayName = "Cap",
+		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Carmen Miranda's Hat",
 		identifiedResourceName = "열대과일모자",
@@ -52206,7 +51611,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal.  Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Large Hisbiscus",
 		identifiedResourceName = "큰하이비스커스",
@@ -52241,10 +51646,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Diadem",
 		identifiedResourceName = "다이아뎀",
@@ -52259,7 +51661,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "스마일",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal.  Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Hockey Mask",
 		identifiedResourceName = "하키마스크",
@@ -52281,7 +51683,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal.  Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Observer",
 		identifiedResourceName = "옵저버",
@@ -52316,7 +51718,7 @@ tbl = {
 		unidentifiedDisplayName = "Fisherman Hat",
 		unidentifiedResourceName = "어부의모자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Fisherman Hat",
 		identifiedResourceName = "어부의모자",
@@ -52372,10 +51774,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Scarf",
 		identifiedResourceName = "스카프",
@@ -52426,7 +51825,7 @@ tbl = {
 		unidentifiedDisplayName = "Glasses",
 		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Robo Eye",
 		identifiedResourceName = "로보아이",
@@ -52526,10 +51925,10 @@ tbl = {
 		ClassNum = 105
 	},
 	[5333] = {
-		unidentifiedDisplayName = "Cap",
+		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Radio Antenna",
 		identifiedResourceName = "전파안테나",
@@ -52548,10 +51947,10 @@ tbl = {
 		ClassNum = 347
 	},
 	[5334] = {
-		unidentifiedDisplayName = "Cap",
+		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Flapping Angeling",
 		identifiedResourceName = "날고싶은엔젤링",
@@ -52571,10 +51970,10 @@ tbl = {
 		ClassNum = 348
 	},
 	[5335] = {
-		unidentifiedDisplayName = "Cap",
+		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Jumping Poring",
 		identifiedResourceName = "폴짝이는포링",
@@ -52592,10 +51991,10 @@ tbl = {
 		ClassNum = 349
 	},
 	[5336] = {
-		unidentifiedDisplayName = "Cap",
+		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Guildsman Recruiter Hat",
 		identifiedResourceName = "길드원모집모자",
@@ -52612,10 +52011,10 @@ tbl = {
 		ClassNum = 350
 	},
 	[5337] = {
-		unidentifiedDisplayName = "Cap",
+		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Party Recruiter Hat",
 		identifiedResourceName = "파티구함모자",
@@ -52632,10 +52031,10 @@ tbl = {
 		ClassNum = 351
 	},
 	[5338] = {
-		unidentifiedDisplayName = "Cap",
+		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bf Recruiter Hat",
 		identifiedResourceName = "남친구함모자",
@@ -52652,10 +52051,10 @@ tbl = {
 		ClassNum = 352
 	},
 	[5339] = {
-		unidentifiedDisplayName = "Cap",
+		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Friend Recruiter Hat",
 		identifiedResourceName = "친구구함모자",
@@ -52672,10 +52071,10 @@ tbl = {
 		ClassNum = 353
 	},
 	[5340] = {
-		unidentifiedDisplayName = "Cap",
+		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Defolty Doll Hat",
 		identifiedResourceName = "디포르테인형모자",
@@ -52695,10 +52094,10 @@ tbl = {
 		ClassNum = 354
 	},
 	[5341] = {
-		unidentifiedDisplayName = "Cap",
+		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Glaris Doll Hat",
 		identifiedResourceName = "글라리스인형모자",
@@ -52718,10 +52117,10 @@ tbl = {
 		ClassNum = 355
 	},
 	[5342] = {
-		unidentifiedDisplayName = "Cap",
+		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sorin Doll Hat",
 		identifiedResourceName = "소린인형모자",
@@ -52741,10 +52140,10 @@ tbl = {
 		ClassNum = 356
 	},
 	[5343] = {
-		unidentifiedDisplayName = "Cap",
+		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Telling Doll Hat",
 		identifiedResourceName = "테일링인형모자",
@@ -52764,10 +52163,10 @@ tbl = {
 		ClassNum = 357
 	},
 	[5344] = {
-		unidentifiedDisplayName = "Cap",
+		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bennit Doll Hat",
 		identifiedResourceName = "비닛인형모자",
@@ -52787,10 +52186,10 @@ tbl = {
 		ClassNum = 358
 	},
 	[5345] = {
-		unidentifiedDisplayName = "Cap",
+		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "W Doll Hat",
 		identifiedResourceName = "더블류인형모자",
@@ -52810,10 +52209,10 @@ tbl = {
 		ClassNum = 359
 	},
 	[5346] = {
-		unidentifiedDisplayName = "Cap",
+		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Gf Recruiter Hat",
 		identifiedResourceName = "여친구함모자",
@@ -52833,10 +52232,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "학사모",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ph.D Hat",
 		identifiedResourceName = "학사모",
@@ -52856,10 +52252,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "왕리본",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Big Ribbon",
 		identifiedResourceName = "왕리본",
@@ -52882,10 +52275,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "학생모",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Boy's Cap",
 		identifiedResourceName = "학생모",
@@ -52908,10 +52298,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "해적두건",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Pirate Bandana",
 		identifiedResourceName = "해적두건",
@@ -52934,10 +52321,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "장식용해바라기",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sunflower",
 		identifiedResourceName = "장식용해바라기",
@@ -52974,10 +52358,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "태양신의모자",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Hat of the Sun God",
 		identifiedResourceName = "태양신의모자",
@@ -53020,7 +52401,7 @@ tbl = {
 		unidentifiedDisplayName = "Sons Of Kobold Hood",
 		unidentifiedResourceName = "무슬림여자모",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sons Of Kobold Hood",
 		identifiedResourceName = "무슬림여자모",
@@ -53036,13 +52417,10 @@ tbl = {
 		ClassNum = 363
 	},
 	[5356] = {
-		unidentifiedDisplayName = "Cap",
+		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Festival Pumpkin Hat",
 		identifiedResourceName = "호박모자",
@@ -53069,7 +52447,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal.  Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Wings Of Victory",
 		identifiedResourceName = "승리의날개",
@@ -53104,7 +52482,7 @@ tbl = {
 		unidentifiedDisplayName = "Ship Captain Hat",
 		unidentifiedResourceName = "선장모자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ship Captain Hat",
 		identifiedResourceName = "선장모자",
@@ -53126,7 +52504,7 @@ tbl = {
 		unidentifiedDisplayName = "Hyuke's Black Cat Ears",
 		unidentifiedResourceName = "휘케바인의귀",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Wickebine's Black Cat Ears",
 		identifiedResourceName = "휘케바인의귀",
@@ -53148,7 +52526,7 @@ tbl = {
 		unidentifiedDisplayName = "Gangster Scarf",
 		unidentifiedResourceName = "갱스카프",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Gangster Scarf",
 		identifiedResourceName = "갱스카프",
@@ -53169,7 +52547,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal.  Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ninja Scroll",
 		identifiedResourceName = "닌자의두루마리",
@@ -53268,10 +52646,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Yao Jun Hat",
 		identifiedResourceName = "혜군모자",
@@ -53328,7 +52703,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal.  Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Judge Hat",
 		identifiedResourceName = "판관모자",
@@ -53346,10 +52721,10 @@ tbl = {
 		ClassNum = 377
 	},
 	[5372] = {
-		unidentifiedDisplayName = "Cap",
+		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Koneko Hat",
 		identifiedResourceName = "늘어진하얀고양이",
@@ -53371,7 +52746,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Dark Randgris Helm",
 		identifiedResourceName = "다크네스헬름",
@@ -53391,12 +52766,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"A sorcery headgear made of goat horns.",
-			"Increases Physical Damage from Demihuman monsters by 12%.",
-			"Increases ATK depending on the wearer's job level.",
-			"Weapon Class: ^777777Headgear^000000    Defense : ^7777775^000000",
-			"Location: ^777777Upper^000000    Weight: ^77777780^000000",
-			"Jobs: ^777777All Jobs^000000",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Gigantic Magestic Goat",
 		identifiedResourceName = "대형마제스틱고우트",
@@ -53417,7 +52787,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Orc Hero Headdress",
 		identifiedResourceName = "대형오크히어로투구",
@@ -53438,7 +52808,7 @@ tbl = {
 		unidentifiedDisplayName = "Hairband",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Flying Evil Wings",
 		identifiedResourceName = "사타닉체인",
@@ -53458,7 +52828,7 @@ tbl = {
 		unidentifiedDisplayName = "Ribbon",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Gentleman's Pipe",
 		identifiedResourceName = "앤티크담뱃대",
@@ -53475,10 +52845,10 @@ tbl = {
 		ClassNum = 383
 	},
 	[5378] = {
-		unidentifiedDisplayName = "Cap",
+		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bunny Top Hat",
 		identifiedResourceName = "토끼귀모자",
@@ -53496,12 +52866,12 @@ tbl = {
 		ClassNum = 384
 	},
 	[5379] = {
-		unidentifiedDisplayName = "Balloon Hat",
-		unidentifiedResourceName = "벌룬햇",
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
-		identifiedDisplayName = "Tam",
+		identifiedDisplayName = "Balloon Hat",
 		identifiedResourceName = "벌룬햇",
 		identifiedDescriptionName = {
 			"A large knitted hat that can be used to conceal long hair.",
@@ -53511,105 +52881,72 @@ tbl = {
 			"Location: ^777777Upper^000000",
 			"Weight: ^77777780^000000",
 			"Required Level: ^77777750^000000",
-			"Jobs: ^777777All^000000",
+			"Jobs: ^777777All^000000"
 		},
 		slotCount = 1,
 		ClassNum = 385
 	},
 	[5380] = {
-		unidentifiedDisplayName = "Cap",
+		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"					",
-			"Unknown item					",
-			"requiring Appraisal.					",
-			"Can be identified by					",
-			"using a Magnifier.					",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Fish Head Hat",
 		identifiedResourceName = "물고기머리모자",
 		identifiedDescriptionName = {
-			"	",
-			"A gaping fish head	",
-			"fashioned into a hat.	",
-			"A nasty stench is	",
-			"released whenever	",
-			"it opens its mouth.	",
-			"Adds a low chance	",
-			"of automatically	",
-			"casting Lv.1 Endow	",
-			"Tsunami with each	",
-			"physical attack.	",
-			"Can be placed in Kafra Storage, cart and traded.",
-			"Class: ^777777Headgear^000000	",
-			"Defense: ^7777771^000000	",
-			"Location: ^777777Upper^000000	",
-			"Weight: ^77777740^000000	",
-			"Jobs: ^777777All^000000	",
+			"A gaping fish head fashioned into a hat.",
+			"A nasty stench is released whenever it opens its mouth.",
+			"Adds a low chance of automatically casting Level 1 Frost Weapon with each physical attack.",
+			"Class: ^777777Headgear^000000",
+			"Defense: ^7777771^000000",
+			"Location: ^777777Upper^000000",
+			"Weight: ^77777740^000000",
+			"Jobs: ^777777All^000000"
 		},
 		slotCount = 0,
 		ClassNum = 386
 	},
 	[5381] = {
-		unidentifiedDisplayName = "Cap",
+		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"					",
-			"Unknown item					",
-			"requiring Appraisal.					",
-			"Can be identified by					",
-			"using a Magnifier.					",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Santa Poring Hat",
 		identifiedResourceName = "산타포링모자",
 		identifiedDescriptionName = {
-			"	",
-			"A cute hat made	",
-			"from a hopping Poring	",
-			"wearing a Santa's Hat.	",
-			"Adds 3% additional	",
-			"Darkness property	",
-			"damage to monsters,	",
-			"and reduces Darkness	",
-			"property attacks from	",
-			"enemies by 3%.	",
-			"MDEF +2. Cannot	",
-			"be upgraded.	",
-			"Can be placed in Kafra Storage, cart and traded.	",
-			"Class: ^777777Headgear^000000	",
-			"Defense: ^7777772^000000	",
-			"Location: ^777777Upper^000000	",
-			"Weight: ^77777710^000000	",
-			"Jobs: ^777777All^000000	",
+			"A cute hat made from a hopping Poring wearing a Santa's Hat.",
+			"Increase 3% damage against Shadow property monsters,",
+			"reduces Shadow property attacks by 3%.",
+			"MDEF +2.",
+			"^FF0000Unrefineable^000000",
+			"Class: ^777777Headgear^000000",
+			"Defense: ^7777772^000000",
+			"Location: ^777777Upper^000000",
+			"Weight: ^77777710^000000",
+			"Jobs: ^777777All^000000"
 		},
 		slotCount = 1,
 		ClassNum = 387
 	},
 	[5382] = {
-		unidentifiedDisplayName = "Ribbon",
+		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"					",
-			"Unknown item					",
-			"requiring Appraisal.					",
-			"Can be identified by					",
-			"using a Magnifier.					",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bell Ribbon",
 		identifiedResourceName = "방울리본",
 		identifiedDescriptionName = {
-			"	",
-			"A cute ribbon	",
-			"adorned with	",
-			"jinglilng bells.	",
-			"Enables use of	",
-			"Lv.1 Angelus. Vit +1.	",
-			"Can be placed in Kafra Storage, cart and traded.",
-			"Class: ^777777Headgear^000000	",
-			"Defense: ^7777773^000000	",
-			"Location: ^777777Upper^000000	",
-			"Weight: ^77777720^000000	",
-			"Jobs: ^777777All^000000	",
+			"A cute ribbon adorned with jinglilng bells.",
+			"Enables use of Level 1 Angelus.",
+			"VIT +1.",
+			"Class: ^777777Headgear^000000",
+			"Defense: ^7777773^000000",
+			"Location: ^777777Upper^000000",
+			"Weight: ^77777720^000000",
+			"Jobs: ^777777All^000000"
 		},
 		slotCount = 1,
 		ClassNum = 388
@@ -53618,7 +52955,7 @@ tbl = {
 		unidentifiedDisplayName = "Hunter's Cap",
 		unidentifiedResourceName = "헌팅캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Hunting Cap",
 		identifiedResourceName = "헌팅캡",
@@ -53663,7 +53000,7 @@ tbl = {
 		unidentifiedDisplayName = "Yoyo Hat",
 		unidentifiedResourceName = "요요모자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Yoyo Hat",
 		identifiedResourceName = "요요모자",
@@ -53684,7 +53021,7 @@ tbl = {
 		unidentifiedDisplayName = "New Year's Hat",
 		unidentifiedResourceName = "아얌",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "New Year's Hat",
 		identifiedResourceName = "아얌",
@@ -53697,10 +53034,10 @@ tbl = {
 		ClassNum = 228
 	},
 	[5387] = {
-		unidentifiedDisplayName = "Cap",
+		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Neko Mimi Kafra",
 		identifiedResourceName = "네코미미카프라",
@@ -53758,7 +53095,7 @@ tbl = {
 		unidentifiedDisplayName = "Costume: Blue Christmas Cheer",
 		unidentifiedResourceName = "파란양갈래산타모자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Costume: Blue Christmas Cheer",
 		identifiedResourceName = "파란양갈래산타모자",
@@ -53809,7 +53146,7 @@ tbl = {
 		unidentifiedDisplayName = "Valentine Hat",
 		unidentifiedResourceName = "발렌타인모자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Cupid's Target",
 		identifiedResourceName = "발렌타인모자",
@@ -53865,7 +53202,7 @@ tbl = {
 		unidentifiedDisplayName = "Jasper Crest",
 		unidentifiedResourceName = "재스퍼크레스트",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Jasper Crest",
 		identifiedResourceName = "재스퍼크레스트",
@@ -53918,7 +53255,7 @@ tbl = {
 		unidentifiedDisplayName = "Mandragora Cap",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Mandragora Cap",
 		identifiedResourceName = "만드라고라캡",
@@ -53940,7 +53277,7 @@ tbl = {
 		unidentifiedDisplayName = "Glasses",
 		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Black Frame Glasses",
 		identifiedResourceName = "검은뿔테안경",
@@ -53961,7 +53298,7 @@ tbl = {
 		unidentifiedDisplayName = "Ribbon",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Mischievous Fairy",
 		identifiedResourceName = "장난꾸러기요정",
@@ -53982,7 +53319,7 @@ tbl = {
 		unidentifiedDisplayName = "Ribbon",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Fish In Mouth",
 		identifiedResourceName = "입에문물고기",
@@ -54004,7 +53341,7 @@ tbl = {
 		unidentifiedDisplayName = "Ribbon",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Blue Ribbon",
 		identifiedResourceName = "블루리본",
@@ -54022,10 +53359,10 @@ tbl = {
 		ClassNum = 407
 	},
 	[5405] = {
-		unidentifiedDisplayName = "Cap",
+		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Filir Hat",
 		identifiedResourceName = "필리르모자",
@@ -54088,10 +53425,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Lollipop",
 		identifiedResourceName = "달콤한사탕",
@@ -54106,7 +53440,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "팝콘모자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Popcorn Hat",
 		identifiedResourceName = "팝콘모자",
@@ -54163,7 +53497,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "맥주모자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Beer Hat",
 		identifiedResourceName = "맥주모자",
@@ -54185,10 +53519,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Soldier Hat",
 		identifiedResourceName = "병정모자",
@@ -54203,7 +53534,7 @@ tbl = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ifrit Mask",
 		identifiedResourceName = "이프리트가면",
@@ -54230,7 +53561,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ifrit's Ears",
 		identifiedResourceName = "이프리트의귀",
@@ -54255,10 +53586,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Promethean Crown",
 		identifiedResourceName = "성화관",
@@ -54278,10 +53606,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Chicken Hat",
 		identifiedResourceName = "꼬꼬댁모자",
@@ -54304,10 +53629,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Coca-Cola Bottle",
 		identifiedResourceName = "콜라캔",
@@ -54322,10 +53644,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Classic Creative Cap",
 		identifiedResourceName = "코카콜라모자",
@@ -54347,7 +53666,7 @@ tbl = {
 		unidentifiedDisplayName = "Hairband",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bride's Corolla",
 		identifiedResourceName = "신부의화관",
@@ -54367,7 +53686,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Fairy Flower",
 		identifiedResourceName = "선녀의꽃",
@@ -54388,7 +53707,7 @@ tbl = {
 		unidentifiedDisplayName = "Hairband",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Cute Green Ribbon",
 		identifiedResourceName = "머리끈_녹색",
@@ -54408,7 +53727,7 @@ tbl = {
 		unidentifiedDisplayName = "Hairband",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Cute Red Ribbon",
 		identifiedResourceName = "머리끈_빨강",
@@ -54428,7 +53747,7 @@ tbl = {
 		unidentifiedDisplayName = "Hairband",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Cute Blue Ribbon",
 		identifiedResourceName = "머리끈_파랑",
@@ -54448,7 +53767,7 @@ tbl = {
 		unidentifiedDisplayName = "Hairband",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Cute White Ribbon",
 		identifiedResourceName = "머리끈_하양",
@@ -54468,7 +53787,7 @@ tbl = {
 		unidentifiedDisplayName = "Hairband",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Necktie",
 		identifiedResourceName = "넥타이",
@@ -54491,7 +53810,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Statue Of Baby Angel",
 		identifiedResourceName = "아기천사상",
@@ -54513,7 +53832,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Hair Brush",
 		identifiedResourceName = "머리빗",
@@ -54533,7 +53852,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Candy Cane In Mouth",
 		identifiedResourceName = "입에무는막대사탕",
@@ -54553,7 +53872,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Catfoot Hairpin",
 		identifiedResourceName = "고양이발머리핀",
@@ -54573,7 +53892,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Frog Hat",
 		identifiedResourceName = "개구리모자",
@@ -54595,7 +53914,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Indifferent Solo Hat",
 		identifiedResourceName = "혼자놀기상자1",
@@ -54615,7 +53934,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Angry Solo Hat",
 		identifiedResourceName = "혼자놀기상자2",
@@ -54635,7 +53954,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Moon Rabbit Hat",
 		identifiedResourceName = "옥토끼모자",
@@ -54657,10 +53976,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Pinwheel Hat",
 		identifiedResourceName = "바람개비모자",
@@ -54675,7 +53991,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Hat Of Fortune",
 		identifiedResourceName = "하늘모자",
@@ -54697,10 +54013,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Wind's Guide",
 		identifiedResourceName = "바람의이정표",
@@ -54727,10 +54040,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Parade Hat",
 		identifiedResourceName = "퍼레이드모자",
@@ -54745,7 +54055,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Musketeer Hat",
 		identifiedResourceName = "노블햇",
@@ -54767,10 +54077,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Darkness Eyes",
 		identifiedResourceName = "다크니스아이즈",
@@ -54785,10 +54092,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Reginrev's Wings",
 		identifiedResourceName = "레긴레이브의날개",
@@ -54803,10 +54107,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Red White Cap",
 		identifiedResourceName = "홍백모자",
@@ -54821,10 +54122,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Crab Nipper Hat",
 		identifiedResourceName = "집게발머리핀",
@@ -54865,10 +54163,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Grand Peco Headdress",
 		identifiedResourceName = "그랜드페코의머리띠",
@@ -54940,7 +54235,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헤르모즈캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Hermode Cap",
 		identifiedResourceName = "헤르모즈캡",
@@ -54989,7 +54284,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "오딘마스크",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Odin Mask",
 		identifiedResourceName = "오딘마스크",
@@ -55011,10 +54306,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Tiger Face",
 		identifiedResourceName = "호랑이얼굴",
@@ -55029,10 +54321,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Anniversary Hat",
 		identifiedResourceName = "파란양갈래산타모자",
@@ -55047,10 +54336,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "11th Anniversary Cake Hat",
 		identifiedResourceName = "포링케이크모자",
@@ -55071,10 +54357,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Cute Santa Hat",
 		identifiedResourceName = "양갈래산타모자",
@@ -55122,10 +54405,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Edgga Doll",
 		identifiedResourceName = "호랑이왕인형모자",
@@ -55146,10 +54426,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Vagabond Wolf Hat",
 		identifiedResourceName = "떠돌이늑대왕투구",
@@ -55169,7 +54446,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ice Cream Hat",
 		identifiedResourceName = "아이스크림모자",
@@ -55262,10 +54539,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Rabbit Magic Hat",
 		identifiedResourceName = "토끼마술모자",
@@ -55356,7 +54630,7 @@ tbl = {
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
 			"		",
-			"Unknown item requiring Appraisal.  Can be identified by using a Magnifier.	",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.	",
 		},
 		identifiedDisplayName = "Aquarius Diadem",
 		identifiedResourceName = "보병궁보관",
@@ -55382,7 +54656,7 @@ tbl = {
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
 			"		",
-			"Unknown item requiring Appraisal.  Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Aquarius Crown",
 		identifiedResourceName = "보병궁왕관",
@@ -55408,7 +54682,7 @@ tbl = {
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
 			"		",
-			"Unknown item requiring Appraisal.  Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Pisces Diadem",
 		identifiedResourceName = "쌍어궁보관",
@@ -55434,7 +54708,7 @@ tbl = {
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
 			"		",
-			"Unknown item requiring Appraisal.  Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Pisces Crown",
 		identifiedResourceName = "쌍어궁왕관",
@@ -55459,10 +54733,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Rabbit Earmuffs",
 		identifiedResourceName = "토끼귀마개",
@@ -55483,10 +54754,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sakura Milk Tea Hat",
 		identifiedResourceName = "사쿠라밀크티모자",
@@ -55501,10 +54769,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "First Leaf Tea Hat",
 		identifiedResourceName = "일차화모자",
@@ -55519,10 +54784,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Lunatic Hat",
 		identifiedResourceName = "루나틱모자",
@@ -55544,10 +54806,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Frog King Hat",
 		identifiedResourceName = "개구리왕자모자",
@@ -55577,7 +54836,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Baby Dragon Hat",
 		identifiedResourceName = "아기드래곤",
@@ -55601,7 +54860,7 @@ tbl = {
 		unidentifiedDisplayName = "Pirate Dagger",
 		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Pirate Dagger",
 		identifiedResourceName = "해적의대거",
@@ -55621,7 +54880,7 @@ tbl = {
 		unidentifiedDisplayName = "Emperor Wreath",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Emperor Wreath",
 		identifiedResourceName = "월계관",
@@ -55642,7 +54901,7 @@ tbl = {
 		unidentifiedDisplayName = "Fox Hat",
 		unidentifiedResourceName = "스마일",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Fox Hat",
 		identifiedResourceName = "여우모자",
@@ -55663,10 +54922,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Side Cap",
 		identifiedResourceName = "사이드캡",
@@ -55685,10 +54941,10 @@ tbl = {
 		ClassNum = 529
 	},
 	[5536] = {
-		unidentifiedDisplayName = "Helm",
+		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal.  Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Spare Card",
 		identifiedResourceName = "스페어카드",
@@ -55716,7 +54972,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Coati Hat",
 		identifiedResourceName = "콰티모자",
@@ -55737,7 +54993,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Tucan Hat",
 		identifiedResourceName = "투칸모자",
@@ -55758,7 +55014,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Jaguar Hat",
 		identifiedResourceName = "재규어모자",
@@ -55780,7 +55036,7 @@ tbl = {
 		unidentifiedDisplayName = "Aries Diadem",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal.  Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Aries Diadem",
 		identifiedResourceName = "백양궁보관",
@@ -55807,7 +55063,7 @@ tbl = {
 		unidentifiedDisplayName = "Aries Crown",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal.  Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Aries Crown",
 		identifiedResourceName = "백양궁왕관",
@@ -55834,10 +55090,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Red Flower Hairband",
 		identifiedResourceName = "RJC카츄사",
@@ -55852,10 +55105,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Scarlet Rose",
 		identifiedResourceName = "진홍의장미",
@@ -55877,7 +55127,7 @@ tbl = {
 		unidentifiedDisplayName = "Taurus Diadem",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal.  Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Taurus Diadem",
 		identifiedResourceName = "금우궁보관",
@@ -55904,7 +55154,7 @@ tbl = {
 		unidentifiedDisplayName = "Taurus Crown",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal.  Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Taurus Crown",
 		identifiedResourceName = "금우궁왕관",
@@ -55965,10 +55215,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Horned Helm",
 		identifiedResourceName = "뿔투구모자",
@@ -55983,10 +55230,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Love of Truth",
 		identifiedResourceName = "5주년기념면사포",
@@ -56001,10 +55245,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Rabbit Magic Hat",
 		identifiedResourceName = "토끼마술모자",
@@ -56027,7 +55268,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal.  Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Crown of Deceit",
 		identifiedResourceName = "사기의왕관",
@@ -56059,10 +55300,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Rabbit Bonnet",
 		identifiedResourceName = "토끼보닛",
@@ -56077,7 +55315,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal.  Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Gemini Diadem",
 		identifiedResourceName = "쌍자궁보관",
@@ -56100,7 +55338,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal.  Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Gemini Crown",
 		identifiedResourceName = "쌍자궁왕관",
@@ -56123,7 +55361,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Well-Chewed Pencil",
 		identifiedResourceName = "입에무는연필",
@@ -56175,7 +55413,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Wanderer's Sakkat",
 		identifiedResourceName = "배회하는자의삿갓",
@@ -56200,10 +55438,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Red Beret",
 		identifiedResourceName = "붉은베레모",
@@ -56218,7 +55453,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal.  Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Cancer Diadem",
 		identifiedResourceName = "거해궁보관",
@@ -56243,7 +55478,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal.  Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Cancer Crown",
 		identifiedResourceName = "거해궁왕관",
@@ -56268,10 +55503,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Majestic Devil Horns",
 		identifiedResourceName = "마제스틱데빌혼",
@@ -56286,7 +55518,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal.  Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Leo Crown",
 		identifiedResourceName = "사자궁왕관",
@@ -56311,7 +55543,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal.  Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Leo Diadem",
 		identifiedResourceName = "사자궁보관",
@@ -56336,7 +55568,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sigrun's Wings",
 		identifiedResourceName = "사이그룬의날개",
@@ -56364,10 +55596,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Rabbit Bonnet",
 		identifiedResourceName = "토끼보닛",
@@ -56391,7 +55620,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "입에문도넛",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Donut In Mouth",
 		identifiedResourceName = "입에문도넛",
@@ -56413,10 +55642,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Chewing Gum",
 		identifiedResourceName = "입에문풍선껌",
@@ -56436,7 +55662,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Virgo Crown",
 		identifiedResourceName = "쌍녀궁왕관",
@@ -56460,7 +55686,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Virgo Diadem",
 		identifiedResourceName = "쌍녀궁보관",
@@ -56484,7 +55710,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Banana Beret",
 		identifiedResourceName = "브라질베레모",
@@ -56505,10 +55731,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Jaguar Face",
 		identifiedResourceName = "재규어모자",
@@ -56523,7 +55746,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Turtle Hat",
 		identifiedResourceName = "꼬북이모자",
@@ -56546,7 +55769,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Blue Drooping Cat",
 		identifiedResourceName = "파랑늘어진고양이",
@@ -56573,7 +55796,7 @@ tbl = {
 		unidentifiedDisplayName = "Hairband",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Flapping Angel Wing",
 		identifiedResourceName = "비상하는천사",
@@ -56605,7 +55828,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Evolved Pipe",
 		identifiedResourceName = "파이프담배",
@@ -56635,7 +55858,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Evolved Pair of Red Ribbon",
 		identifiedResourceName = "양쪽귀밑리본",
@@ -56663,7 +55886,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Evolved Blue Fish",
 		identifiedResourceName = "생선모자",
@@ -56689,7 +55912,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Hibiscus",
 		identifiedResourceName = "부용",
@@ -56719,7 +55942,7 @@ tbl = {
 		unidentifiedDisplayName = "Cat Hat",
 		unidentifiedResourceName = "고양이모자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Neko Mimi",
 		identifiedResourceName = "고양이모자",
@@ -56746,7 +55969,7 @@ tbl = {
 		unidentifiedDisplayName = "Hairband",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Evolved Bunny Band",
 		identifiedResourceName = "토끼머리띠",
@@ -56777,7 +56000,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Evolved Magestic Goat",
 		identifiedResourceName = "마제스틱고우트",
@@ -56807,7 +56030,7 @@ tbl = {
 		unidentifiedDisplayName = "Sheep Hat",
 		unidentifiedResourceName = "양모자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sheep Hat",
 		identifiedResourceName = "양모자",
@@ -56835,7 +56058,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Mini Propeller",
 		identifiedResourceName = "프로펠라_",
@@ -56865,7 +56088,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Alice Doll",
 		identifiedResourceName = "엘리스모자",
@@ -56901,7 +56124,7 @@ tbl = {
 		unidentifiedDisplayName = "Glasses",
 		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Red Glasses",
 		identifiedResourceName = "빨간안경",
@@ -56930,7 +56153,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Chick Hat",
 		identifiedResourceName = "병아리모자",
@@ -56961,7 +56184,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Gray Deviruchi Hat",
 		identifiedResourceName = "흰색새끼악마모자",
@@ -56986,7 +56209,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Vane Hairpin",
 		identifiedResourceName = "풍차비녀",
@@ -57011,7 +56234,7 @@ tbl = {
 		unidentifiedDisplayName = "Hairband",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Pecopeco Hairband",
 		identifiedResourceName = "페코페코머리띠",
@@ -57042,7 +56265,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "햇",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Vacation Hat",
 		identifiedResourceName = "바캉스모자",
@@ -57070,7 +56293,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Charming Ribbon",
 		identifiedResourceName = "예쁜리본",
@@ -57098,7 +56321,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Water Lily Crown",
 		identifiedResourceName = "수련왕관",
@@ -57128,7 +56351,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Vanilmirth Hat",
 		identifiedResourceName = "바닐미르스모자",
@@ -57156,7 +56379,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Drooping Bunny",
 		identifiedResourceName = "늘어진토끼",
@@ -57179,7 +56402,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Kettle Hat",
 		identifiedResourceName = "주전자모자",
@@ -57207,7 +56430,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Dragon Skull",
 		identifiedResourceName = "용의해골",
@@ -57236,7 +56459,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ramen Hat",
 		identifiedResourceName = "라면모자",
@@ -57271,7 +56494,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Pink Beanie",
 		identifiedResourceName = "분홍털모자",
@@ -57296,7 +56519,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Puppy Hat",
 		identifiedResourceName = "강아지모자",
@@ -57320,7 +56543,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Magic Eyes",
 		identifiedResourceName = "매직아이즈",
@@ -57343,7 +56566,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Jumping Poring",
 		identifiedResourceName = "폴짝이는포링",
@@ -57364,7 +56587,7 @@ tbl = {
 		unidentifiedDisplayName = "Glasses",
 		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Robo Eye",
 		identifiedResourceName = "로보아이",
@@ -57386,7 +56609,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "마법사의모자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Yellow Mage Hat",
 		identifiedResourceName = "노랑마법사의모자",
@@ -57412,7 +56635,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Crescent Helm",
 		identifiedResourceName = "초승달투구",
@@ -57441,7 +56664,7 @@ tbl = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "마스크",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Tiger Mask",
 		identifiedResourceName = "타이거마스크",
@@ -57468,7 +56691,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Fantastic Wig",
 		identifiedResourceName = "환상적인가발",
@@ -57490,7 +56713,7 @@ tbl = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "가면",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Whisper Mask",
 		identifiedResourceName = "위스퍼마스크",
@@ -57702,10 +56925,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Darkness Helm",
 		identifiedResourceName = "다크네스헬름",
@@ -57720,10 +56940,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Holy Marching Hat",
 		identifiedResourceName = "신성한마칭햇",
@@ -57746,10 +56963,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Dark Snake Lord Hat",
 		identifiedResourceName = "흑사왕의모자",
@@ -57764,10 +56978,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Scooter Hat",
 		identifiedResourceName = "스쿠터헬멧",
@@ -57782,10 +56993,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Captain's Pipe",
 		identifiedResourceName = "앤티크담뱃대",
@@ -57800,7 +57008,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Imp Hat",
 		identifiedResourceName = "임프모자",
@@ -57820,7 +57028,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sleeper Hat",
 		identifiedResourceName = "슬리퍼모자",
@@ -57840,7 +57048,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Gryphon Hat",
 		identifiedResourceName = "그리폰모자",
@@ -57860,7 +57068,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Libra Crown",
 		identifiedResourceName = "천칭궁왕관",
@@ -57886,7 +57094,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Libra Diadem",
 		identifiedResourceName = "천칭궁보관",
@@ -57911,7 +57119,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Filir's Pinions",
 		identifiedResourceName = "필리르의날개",
@@ -57937,10 +57145,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Norn Feather Hat",
 		identifiedResourceName = "무속인의모자",
@@ -57985,7 +57190,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Weird Pumpkin Hat",
 		identifiedResourceName = "호박모자",
@@ -58007,10 +57212,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Poring Party Hat",
 		identifiedResourceName = "포링파티모자",
@@ -58025,10 +57227,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Anniversary Thief Hat",
 		identifiedResourceName = "애니버서리별모자",
@@ -58043,10 +57242,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Incarnation Of Morocc Doll",
 		identifiedResourceName = "늘어진모로크의현신",
@@ -58068,10 +57264,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Southern Cross",
 		identifiedResourceName = "서전크로스",
@@ -58086,10 +57279,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Nostalgic Sakura",
 		identifiedResourceName = "고향의벚꽃",
@@ -58104,10 +57294,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Piggie Bank",
 		identifiedResourceName = "돼지저금통",
@@ -58129,10 +57316,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Poring Letter",
 		identifiedResourceName = "포링편지",
@@ -58150,7 +57334,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Scorpio Crown",
 		identifiedResourceName = "천헐궁왕관",
@@ -58176,7 +57360,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Scorpio Diadem",
 		identifiedResourceName = "천헐궁보관",
@@ -58200,10 +57384,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Hawk Eye",
 		identifiedResourceName = "매의눈",
@@ -58218,7 +57399,7 @@ tbl = {
 		unidentifiedDisplayName = "Green Ribbon",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Green Ribbon",
 		identifiedResourceName = "리본_초록",
@@ -58240,7 +57421,7 @@ tbl = {
 		unidentifiedDisplayName = "Red Wing Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Red Wing Hat",
 		identifiedResourceName = "프리스트의모자",
@@ -58340,7 +57521,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "루돌프산타모",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Rudolf Santa Hat",
 		identifiedResourceName = "루돌프산타모",
@@ -58369,7 +57550,7 @@ tbl = {
 		unidentifiedDisplayName = "Capricon Crown",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Capricorn Crown",
 		identifiedResourceName = "마갈궁왕관",
@@ -58391,7 +57572,7 @@ tbl = {
 		unidentifiedDisplayName = "Capricon Diadem",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Capricorn Diadem",
 		identifiedResourceName = "마갈궁보관",
@@ -58417,10 +57598,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Noa's Hat",
 		identifiedResourceName = "노아의모자",
@@ -58435,10 +57613,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Love Rabbit Hood",
 		identifiedResourceName = "토끼보닛",
@@ -58453,10 +57628,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Pitch Black Ribbon",
 		identifiedResourceName = "검은테일리본",
@@ -58471,10 +57643,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Amistr Hat",
 		identifiedResourceName = "아미스트르캡",
@@ -58496,10 +57665,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Samurai Mask",
 		identifiedResourceName = "사무라이마스크",
@@ -58514,10 +57680,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sakura Crown",
 		identifiedResourceName = "벚꽃화관",
@@ -58543,10 +57706,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Chocolate Donut",
 		identifiedResourceName = "입에문초코도넛",
@@ -58568,10 +57728,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Remover Hat",
 		identifiedResourceName = "리무버모자",
@@ -58586,10 +57743,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Legionaire Helm",
 		identifiedResourceName = "중장보병의투구",
@@ -58604,10 +57758,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Thanatos Odium Mask",
 		identifiedResourceName = "타나토스의증오가면",
@@ -58622,10 +57773,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Mother's Kindness",
 		identifiedResourceName = "트라이앵글룬캡",
@@ -58640,10 +57788,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bright Red Dress Hat",
 		identifiedResourceName = "빨간드레스햇",
@@ -58664,7 +57809,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Pirate Eye Bandage",
 		identifiedResourceName = "안대",
@@ -58824,10 +57969,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Classic Hat",
 		identifiedResourceName = "클래식햇",
@@ -58842,10 +57984,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "New Cowboy Hat",
 		identifiedResourceName = "신카우보이모자",
@@ -58882,7 +58021,7 @@ tbl = {
 		unidentifiedDisplayName = "Bandit Disguise",
 		unidentifiedResourceName = "의적_안대",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bandit Disguise",
 		identifiedResourceName = "의적_안대",
@@ -58901,7 +58040,7 @@ tbl = {
 		unidentifiedDisplayName = "Doctor Hairband",
 		unidentifiedResourceName = "의사_머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Doctor Hairband",
 		identifiedResourceName = "의사_머리띠",
@@ -58921,7 +58060,7 @@ tbl = {
 		unidentifiedDisplayName = "Easter Egg Shell",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Easter Egg Shell",
 		identifiedResourceName = "성스러운달걀모자",
@@ -60034,7 +59173,7 @@ tbl = {
 		unidentifiedDisplayName = "Traditional Cookie",
 		unidentifiedResourceName = "Traditional_Cookie",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Traditional Cookie",
 		identifiedResourceName = "잘구운쿠키",
@@ -60050,7 +59189,7 @@ tbl = {
 		unidentifiedDisplayName = "Flavored Alcohol",
 		unidentifiedResourceName = "향주",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Flavored Alcohol",
 		identifiedResourceName = "향주",
@@ -60066,7 +59205,7 @@ tbl = {
 		unidentifiedDisplayName = "Fish With Blue Back",
 		unidentifiedResourceName = "등푸른생선",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Fish With Blue Back",
 		identifiedResourceName = "등푸른생선",
@@ -60082,7 +59221,7 @@ tbl = {
 		unidentifiedDisplayName = "Pumpkin Pie ",
 		unidentifiedResourceName = "호박파이",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Pumpkin Pie ",
 		identifiedResourceName = "호박파이",
@@ -60098,7 +59237,7 @@ tbl = {
 		unidentifiedDisplayName = "Small Snow Flower",
 		unidentifiedResourceName = "눈의결정",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Small Snow Flower",
 		identifiedResourceName = "눈의결정",
@@ -60114,7 +59253,7 @@ tbl = {
 		unidentifiedDisplayName = "Grilled Rice Cake",
 		unidentifiedResourceName = "모찌",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Grilled Rice Cake",
 		identifiedResourceName = "모찌",
@@ -60130,7 +59269,7 @@ tbl = {
 		unidentifiedDisplayName = "Damp Darkness",
 		unidentifiedResourceName = "음습한어둠",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Damp Darkness",
 		identifiedResourceName = "음습한어둠",
@@ -60146,7 +59285,7 @@ tbl = {
 		unidentifiedDisplayName = "Big Cell",
 		unidentifiedResourceName = "쥬빌레",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Big Cell",
 		identifiedResourceName = "쥬빌레",
@@ -60162,7 +59301,7 @@ tbl = {
 		unidentifiedDisplayName = "Morning Dew",
 		unidentifiedResourceName = "이그드라실이슬",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Morning Dew",
 		identifiedResourceName = "이그드라실이슬",
@@ -60178,7 +59317,7 @@ tbl = {
 		unidentifiedDisplayName = "Well Ripened Berry",
 		unidentifiedResourceName = "딸기",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Well Ripened Berry",
 		identifiedResourceName = "딸기",
@@ -60194,7 +59333,7 @@ tbl = {
 		unidentifiedDisplayName = "Sunset On The Rock",
 		unidentifiedResourceName = "덱요리09",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sunset On The Rock",
 		identifiedResourceName = "덱요리09",
@@ -60210,7 +59349,7 @@ tbl = {
 		unidentifiedDisplayName = "Apple Pudding",
 		unidentifiedResourceName = "구약푸딩",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Apple Pudding",
 		identifiedResourceName = "구약푸딩",
@@ -60226,7 +59365,7 @@ tbl = {
 		unidentifiedDisplayName = "Plant Neutrient",
 		unidentifiedResourceName = "담백한소스",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Plant Neutrient",
 		identifiedResourceName = "담백한소스",
@@ -60242,7 +59381,7 @@ tbl = {
 		unidentifiedDisplayName = "Vital Flower",
 		unidentifiedResourceName = "자스민",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Yellow Vital Flower",
 		identifiedResourceName = "자스민",
@@ -60258,7 +59397,7 @@ tbl = {
 		unidentifiedDisplayName = "Mystic Stone",
 		unidentifiedResourceName = "사이파",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Mystic Stone",
 		identifiedResourceName = "사이파",
@@ -60274,7 +59413,7 @@ tbl = {
 		unidentifiedDisplayName = "Fresh Plant",
 		unidentifiedResourceName = "덱요리05",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Fresh Plant",
 		identifiedResourceName = "덱요리05",
@@ -71714,7 +70853,7 @@ tbl = {
 		unidentifiedDisplayName = "Hairstyle Coupon",
 		unidentifiedResourceName = "카프라이용권",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Hairstyle Coupon",
 		identifiedResourceName = "카프라이용권",
@@ -72742,7 +71881,7 @@ tbl = {
 		unidentifiedDisplayName = "Bok Choy",
 		unidentifiedResourceName = "배추잎",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bok Choy",
 		identifiedResourceName = "배추잎",
@@ -73019,7 +72158,7 @@ tbl = {
 		unidentifiedDisplayName = "Green Apple",
 		unidentifiedResourceName = "덜익은사과",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Green Apple",
 		identifiedResourceName = "덜익은사과",
@@ -73035,7 +72174,7 @@ tbl = {
 		unidentifiedDisplayName = "Whole Barbecue",
 		unidentifiedResourceName = "힘요리07",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Whole Barbecue",
 		identifiedResourceName = "힘요리07",
@@ -73051,7 +72190,7 @@ tbl = {
 		unidentifiedDisplayName = "Meat Veg Skewer",
 		unidentifiedResourceName = "럭요리07",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Meat Veg Skewer",
 		identifiedResourceName = "럭요리07",
@@ -74563,7 +73702,7 @@ tbl = {
 		unidentifiedDisplayName = "Green Maiden Egg",
 		unidentifiedResourceName = "무속성알",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Green Maiden Egg",
 		identifiedResourceName = "무속성알",
@@ -74585,7 +73724,7 @@ tbl = {
 		unidentifiedDisplayName = "Spring Rabbit Egg",
 		unidentifiedResourceName = "무속성알",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Spring Rabbit Egg",
 		identifiedResourceName = "무속성알",
@@ -74603,7 +73742,7 @@ tbl = {
 		unidentifiedDisplayName = "Knife Goblin Egg",
 		unidentifiedResourceName = "풍속성알",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Knife Goblin Egg",
 		identifiedResourceName = "풍속성알",
@@ -74620,7 +73759,7 @@ tbl = {
 		unidentifiedDisplayName = "Flail Goblin Egg",
 		unidentifiedResourceName = "화속성알",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Flail Goblin Egg",
 		identifiedResourceName = "화속성알",
@@ -74637,7 +73776,7 @@ tbl = {
 		unidentifiedDisplayName = "Hammer Goblin Egg",
 		unidentifiedResourceName = "지속성알",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Hammer Goblin Egg",
 		identifiedResourceName = "지속성알",
@@ -74654,7 +73793,7 @@ tbl = {
 		unidentifiedDisplayName = "Red Deleter Egg",
 		unidentifiedResourceName = "화속성알",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Red Deleter Egg",
 		identifiedResourceName = "화속성알",
@@ -74671,7 +73810,7 @@ tbl = {
 		unidentifiedDisplayName = "Diabolic Egg",
 		unidentifiedResourceName = "암속성알",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Diabolic Egg",
 		identifiedResourceName = "암속성알",
@@ -74710,7 +73849,7 @@ tbl = {
 		unidentifiedDisplayName = "New Year Doll Egg",
 		unidentifiedResourceName = "풍속성알",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "New Year Doll Egg",
 		identifiedResourceName = "풍속성알",
@@ -74727,7 +73866,7 @@ tbl = {
 		unidentifiedDisplayName = "Bacsojin Egg",
 		unidentifiedResourceName = "풍속성알",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bacsojin Egg",
 		identifiedResourceName = "풍속성알",
@@ -74744,7 +73883,7 @@ tbl = {
 		unidentifiedDisplayName = "Civil Servant Egg",
 		unidentifiedResourceName = "풍속성알",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Civil Servant Egg",
 		identifiedResourceName = "풍속성알",
@@ -74764,7 +73903,7 @@ tbl = {
 		unidentifiedDisplayName = "Leaf Cat Egg",
 		unidentifiedResourceName = "지속성알",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Leaf Cat Egg",
 		identifiedResourceName = "지속성알",
@@ -74784,7 +73923,7 @@ tbl = {
 		unidentifiedDisplayName = "Loli Ruri Egg",
 		unidentifiedResourceName = "암속성알",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Loli Ruri Egg",
 		identifiedResourceName = "암속성알",
@@ -74804,7 +73943,7 @@ tbl = {
 		unidentifiedDisplayName = "Marionette Egg",
 		unidentifiedResourceName = "염속성알",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Marionette Egg",
 		identifiedResourceName = "염속성알",
@@ -74824,7 +73963,7 @@ tbl = {
 		unidentifiedDisplayName = "Shinobi Egg",
 		unidentifiedResourceName = "암속성알",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Shinobi Egg",
 		identifiedResourceName = "암속성알",
@@ -74844,7 +73983,7 @@ tbl = {
 		unidentifiedDisplayName = "Whisper Egg",
 		unidentifiedResourceName = "염속성알",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Whisper Egg",
 		identifiedResourceName = "염속성알",
@@ -74864,7 +74003,7 @@ tbl = {
 		unidentifiedDisplayName = "Goblin Leader Egg",
 		unidentifiedResourceName = "풍속성알",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Goblin Leader Egg",
 		identifiedResourceName = "풍속성알",
@@ -74884,7 +74023,7 @@ tbl = {
 		unidentifiedDisplayName = "Wicked Nymph Egg",
 		unidentifiedResourceName = "암속성알",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Wicked Nymph Egg",
 		identifiedResourceName = "암속성알",
@@ -74904,7 +74043,7 @@ tbl = {
 		unidentifiedDisplayName = "Miyabi Ningyo Egg",
 		unidentifiedResourceName = "암속성알",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Miyabi Ningyo Egg",
 		identifiedResourceName = "암속성알",
@@ -74924,7 +74063,7 @@ tbl = {
 		unidentifiedDisplayName = "Dullahan Egg",
 		unidentifiedResourceName = "언데드알",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Dullahan Egg",
 		identifiedResourceName = "언데드알",
@@ -74944,7 +74083,7 @@ tbl = {
 		unidentifiedDisplayName = "Medusa Egg",
 		unidentifiedResourceName = "무속성알",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Medusa Egg",
 		identifiedResourceName = "무속성알",
@@ -74964,7 +74103,7 @@ tbl = {
 		unidentifiedDisplayName = "Stone Shooter Egg",
 		unidentifiedResourceName = "화속성알",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Stone Shooter Egg",
 		identifiedResourceName = "화속성알",
@@ -74984,7 +74123,7 @@ tbl = {
 		unidentifiedDisplayName = "Incubus Egg",
 		unidentifiedResourceName = "암속성알",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Incubus Egg",
 		identifiedResourceName = "암속성알",
@@ -75004,7 +74143,7 @@ tbl = {
 		unidentifiedDisplayName = "Golem Egg",
 		unidentifiedResourceName = "무속성알",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Golem Egg",
 		identifiedResourceName = "무속성알",
@@ -75024,7 +74163,7 @@ tbl = {
 		unidentifiedDisplayName = "Nightmare Terror Egg",
 		unidentifiedResourceName = "암속성알",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Nightmare Terror Egg",
 		identifiedResourceName = "암속성알",
@@ -75130,10 +74269,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Skull Helm",
 		identifiedResourceName = "동물의머리뼈",
@@ -75150,10 +74286,7 @@ tbl = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "마스크",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Monster Oxygen Mask",
 		identifiedResourceName = "몬스터마스크",
@@ -75169,10 +74302,7 @@ tbl = {
 		unidentifiedDisplayName = "Helm",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Transparent Head Protector",
 		identifiedResourceName = "투명머리보호대",
@@ -75189,10 +74319,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "꼭지",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Pacifier",
 		identifiedResourceName = "꼭지",
@@ -75208,10 +74335,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "패션가발",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Wig",
 		identifiedResourceName = "패션가발",
@@ -75227,10 +74351,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Queen's Hair Ornament",
 		identifiedResourceName = "여왕의머리장식",
@@ -75246,10 +74367,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Silk Ribbon",
 		identifiedResourceName = "실크리본",
@@ -75265,10 +74383,7 @@ tbl = {
 		unidentifiedDisplayName = "Spear",
 		unidentifiedResourceName = "쟈벨린",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Punisher",
 		identifiedResourceName = "정신봉",
@@ -75284,10 +74399,7 @@ tbl = {
 		unidentifiedDisplayName = "Flower",
 		unidentifiedResourceName = "꽃",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Wild Flower",
 		identifiedResourceName = "야생화",
@@ -75304,10 +74416,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Battered Pot",
 		identifiedResourceName = "찌그러진냄비",
@@ -75323,10 +74432,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Stellar Hairpin",
 		identifiedResourceName = "별모양머리핀",
@@ -75343,10 +74449,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Tiny Egg Shell",
 		identifiedResourceName = "작은알껍질",
@@ -75362,10 +74465,7 @@ tbl = {
 		unidentifiedDisplayName = "Poring Pet Backpack",
 		unidentifiedResourceName = "책가방",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Poring Pet Backpack",
 		identifiedResourceName = "책가방",
@@ -75381,10 +74481,7 @@ tbl = {
 		unidentifiedDisplayName = "Glasses",
 		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Rocker Glasses",
 		identifiedResourceName = "메뚜기안경",
@@ -75400,10 +74497,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Green Lace",
 		identifiedResourceName = "초록색레이스",
@@ -75420,10 +74514,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Golden Bell",
 		identifiedResourceName = "금방울",
@@ -75439,10 +74530,7 @@ tbl = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "우든메일",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bark Shorts",
 		identifiedResourceName = "나무팬츠",
@@ -75459,10 +74547,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Monkey Circlet",
 		identifiedResourceName = "원숭이머리띠",
@@ -75478,10 +74563,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Red Scarf",
 		identifiedResourceName = "붉은색머플러",
@@ -75497,10 +74579,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Grave Keeper's Sword",
 		identifiedResourceName = "영환도사검",
@@ -81777,7 +80856,7 @@ tbl = {
 		unidentifiedDisplayName = "Shiny Wing Gown",
 		unidentifiedResourceName = "",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Gingerbread Cookie",
 		identifiedResourceName = "잘구운쿠키",
@@ -81793,7 +80872,7 @@ tbl = {
 		unidentifiedDisplayName = "Fan Of Wind",
 		unidentifiedResourceName = "바람의부채",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Fan Of Wind",
 		identifiedResourceName = "바람의부채",
@@ -81809,7 +80888,7 @@ tbl = {
 		unidentifiedDisplayName = "Very Soft Plant",
 		unidentifiedResourceName = "히나레의잎사귀",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Very Soft Plant",
 		identifiedResourceName = "히나레의잎사귀",
@@ -81825,7 +80904,7 @@ tbl = {
 		unidentifiedDisplayName = "Very Red Juice",
 		unidentifiedResourceName = "새빨간쥬스",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Very Red Juice",
 		identifiedResourceName = "새빨간쥬스",
@@ -81841,7 +80920,7 @@ tbl = {
 		unidentifiedDisplayName = "Delicious Shaved Ice",
 		unidentifiedResourceName = "맛있는빙수",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Delicious Shaved Ice",
 		identifiedResourceName = "맛있는빙수",
@@ -81857,7 +80936,7 @@ tbl = {
 		unidentifiedDisplayName = "Kuloren",
 		unidentifiedResourceName = "쿠로렌",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Kuloren",
 		identifiedResourceName = "쿠로렌",
@@ -81873,7 +80952,7 @@ tbl = {
 		unidentifiedDisplayName = "Fit Pipe",
 		unidentifiedResourceName = "맞춤관",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ghost Coffin",
 		identifiedResourceName = "맞춤관",
@@ -81889,7 +80968,7 @@ tbl = {
 		unidentifiedDisplayName = "Staff Of Leader",
 		unidentifiedResourceName = "지도자의지팡이",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Staff Of Leader",
 		identifiedResourceName = "지도자의지팡이",
@@ -81905,7 +80984,7 @@ tbl = {
 		unidentifiedDisplayName = "Charming Lotus",
 		unidentifiedResourceName = "탐스러운연꽃",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Charming Lotus",
 		identifiedResourceName = "탐스러운연꽃",
@@ -81921,7 +81000,7 @@ tbl = {
 		unidentifiedDisplayName = "Gril Doll",
 		unidentifiedResourceName = "여자아이인형",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Girl Doll",
 		identifiedResourceName = "여자아이인형",
@@ -81937,7 +81016,7 @@ tbl = {
 		unidentifiedDisplayName = "Luxury Whisky Bottle",
 		unidentifiedResourceName = "고급양주병",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Luxury Whisky Bottle",
 		identifiedResourceName = "고급양주병",
@@ -81953,7 +81032,7 @@ tbl = {
 		unidentifiedDisplayName = "Splendid Mirror",
 		unidentifiedResourceName = "화려한거울",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Splendid Mirror",
 		identifiedResourceName = "화려한거울",
@@ -81969,7 +81048,7 @@ tbl = {
 		unidentifiedDisplayName = "Oilpalm Coconut",
 		unidentifiedResourceName = "기름야자열매",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Oilpalm Coconut",
 		identifiedResourceName = "기름야자열매",
@@ -81985,7 +81064,7 @@ tbl = {
 		unidentifiedDisplayName = "Gril's Naivety",
 		unidentifiedResourceName = "소녀의순정",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Girl's Naivety",
 		identifiedResourceName = "소녀의순정",
@@ -82001,7 +81080,7 @@ tbl = {
 		unidentifiedDisplayName = "Magical Lithography",
 		unidentifiedResourceName = "마력의석판",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Magical Lithography",
 		identifiedResourceName = "마력의석판",
@@ -82017,7 +81096,7 @@ tbl = {
 		unidentifiedDisplayName = "Hell Contract",
 		unidentifiedResourceName = "찢어진스크롤",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Hell Contract",
 		identifiedResourceName = "찢어진스크롤",
@@ -82121,7 +81200,7 @@ tbl = {
 		unidentifiedDisplayName = "HE Battle Manual",
 		unidentifiedResourceName = "오래된마법서",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "HE Battle Manual",
 		identifiedResourceName = "오래된마법서",
@@ -82138,7 +81217,7 @@ tbl = {
 		unidentifiedDisplayName = "HE Bubble Gum",
 		unidentifiedResourceName = "정령의결정02",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "HE Bubble Gum",
 		identifiedResourceName = "정령의결정02",
@@ -85783,10 +84862,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Jujube Dagger",
 		identifiedResourceName = "대추나무단검",
@@ -85809,10 +84885,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Dragon Killer",
 		identifiedResourceName = "드래곤킬러",
@@ -85836,10 +84909,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ginnungagap",
 		identifiedResourceName = "간눙가가프",
@@ -85863,10 +84933,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Cowardice Blade",
 		identifiedResourceName = "코워드",
@@ -85888,10 +84955,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Cowardice Blade",
 		identifiedResourceName = "코워드",
@@ -85913,10 +84977,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Angelic Wing Dagger",
 		identifiedResourceName = "천사의단검",
@@ -85932,10 +84993,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Khukri",
 		identifiedResourceName = "고쿠린",
@@ -85963,10 +85021,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Jitte",
 		identifiedResourceName = "짓테",
@@ -85995,10 +85050,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Jitte",
 		identifiedResourceName = "짓테",
@@ -86027,10 +85079,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Kamaitachi",
 		identifiedResourceName = "카마이타치",
@@ -86055,10 +85104,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Asura",
 		identifiedResourceName = "아슈라",
@@ -86081,10 +85127,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Asura",
 		identifiedResourceName = "아슈라",
@@ -86107,10 +85150,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Murasame",
 		identifiedResourceName = "무라사메",
@@ -86138,10 +85178,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Murasame",
 		identifiedResourceName = "무라사메",
@@ -86169,10 +85206,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Hakujin",
 		identifiedResourceName = "하쿠진",
@@ -86203,10 +85237,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Hakujin",
 		identifiedResourceName = "하쿠진",
@@ -86237,10 +85268,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Poison Knife",
 		identifiedResourceName = "포이즌나이프",
@@ -86267,10 +85295,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ice Pick",
 		identifiedResourceName = "송곳",
@@ -86298,10 +85323,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sucsamad",
 		identifiedResourceName = "수크사마드",
@@ -86329,10 +85351,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ginnungagap",
 		identifiedResourceName = "간눙가가프",
@@ -86527,10 +85546,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Scalpel",
 		identifiedResourceName = "메스",
@@ -86554,10 +85570,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Tooth Blade",
 		identifiedResourceName = "투스블레이드",
@@ -86581,10 +85594,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "드래곤킬러",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Dragon Killer",
 		identifiedResourceName = "드래곤킬러",
@@ -86615,10 +85625,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "소드브레이커",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Swordbreaker",
 		identifiedResourceName = "소드브레이커",
@@ -86640,10 +85647,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "메일브레이커",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Mailbreaker",
 		identifiedResourceName = "메일브레이커",
@@ -86665,10 +85669,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "어새신대거",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Assassin Dagger",
 		identifiedResourceName = "어새신대거",
@@ -86697,7 +85698,7 @@ tbl = {
 			"Unknown item					",
 			"requiring Appraisal.					",
 			"Can be identified by					",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Desert Twilight",
 		identifiedResourceName = "사막의황혼",
@@ -86726,7 +85727,7 @@ tbl = {
 			"Unknown item					",
 			"requiring Appraisal.					",
 			"Can be identified by					",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sandstorm",
 		identifiedResourceName = "모래폭풍",
@@ -86822,7 +85823,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger of Hunter",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Dagger of Hunter",
 		identifiedResourceName = "추적자의단검",
@@ -86845,7 +85846,7 @@ tbl = {
 		unidentifiedDisplayName = "Ivory Knife",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ivory Knife",
 		identifiedResourceName = "아이보리나이프",
@@ -86968,7 +85969,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Krieg",
 		identifiedResourceName = "크리그",
@@ -86989,7 +85990,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Weihna",
 		identifiedResourceName = "바이나",
@@ -87151,10 +86152,7 @@ tbl = {
 		unidentifiedDisplayName = "Pistol",
 		unidentifiedResourceName = "식스슈터",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Six Shooter",
 		identifiedResourceName = "식스슈터",
@@ -87178,10 +86176,7 @@ tbl = {
 		unidentifiedDisplayName = "Pistol",
 		unidentifiedResourceName = "식스슈터",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Six Shooter",
 		identifiedResourceName = "식스슈터",
@@ -87205,10 +86200,7 @@ tbl = {
 		unidentifiedDisplayName = "Pistol",
 		unidentifiedResourceName = "식스슈터",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Crimson Bolt",
 		identifiedResourceName = "크림즌볼트",
@@ -87231,10 +86223,7 @@ tbl = {
 		unidentifiedDisplayName = "Pistol",
 		unidentifiedResourceName = "식스슈터",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Crimson Bolt",
 		identifiedResourceName = "크림즌볼트",
@@ -87257,10 +86246,7 @@ tbl = {
 		unidentifiedDisplayName = "Pistol",
 		unidentifiedResourceName = "식스슈터",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Garrison",
 		identifiedResourceName = "더개리슨",
@@ -87286,10 +86272,7 @@ tbl = {
 		unidentifiedDisplayName = "Pistol",
 		unidentifiedResourceName = "식스슈터",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Garrison",
 		identifiedResourceName = "더개리슨",
@@ -87315,10 +86298,7 @@ tbl = {
 		unidentifiedDisplayName = "Pistol",
 		unidentifiedResourceName = "식스슈터",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Gold Lux",
 		identifiedResourceName = "골드룩스",
@@ -87347,10 +86327,7 @@ tbl = {
 		unidentifiedDisplayName = "Pistol",
 		unidentifiedResourceName = "식스슈터",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Wasteland's Outlaw",
 		identifiedResourceName = "황야의무법자",
@@ -87411,10 +86388,7 @@ tbl = {
 		unidentifiedDisplayName = "Pistol",
 		unidentifiedResourceName = "식스슈터",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Wasteland Outlaw",
 		identifiedResourceName = "황야의무법자",
@@ -87480,10 +86454,7 @@ tbl = {
 		unidentifiedDisplayName = "Rifle",
 		unidentifiedResourceName = "라이플",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Branch",
 		identifiedResourceName = "라이플",
@@ -87506,10 +86477,7 @@ tbl = {
 		unidentifiedDisplayName = "Rifle",
 		unidentifiedResourceName = "라이플",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Cyclone",
 		identifiedResourceName = "더사이클론",
@@ -87533,10 +86501,7 @@ tbl = {
 		unidentifiedDisplayName = "Rifle",
 		unidentifiedResourceName = "라이플",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Cyclone",
 		identifiedResourceName = "더사이클론",
@@ -87560,10 +86525,7 @@ tbl = {
 		unidentifiedDisplayName = "Rifle",
 		unidentifiedResourceName = "라이플",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Dusk",
 		identifiedResourceName = "더스크",
@@ -87589,10 +86551,7 @@ tbl = {
 		unidentifiedDisplayName = "Shotgun",
 		unidentifiedResourceName = "싱글샷건",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Rolling Stone",
 		identifiedResourceName = "싱글샷건",
@@ -87614,10 +86573,7 @@ tbl = {
 		unidentifiedDisplayName = "Shotgun",
 		unidentifiedResourceName = "싱글샷건",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Black Rose",
 		identifiedResourceName = "더블샷건",
@@ -87639,10 +86595,7 @@ tbl = {
 		unidentifiedDisplayName = "Shotgun",
 		unidentifiedResourceName = "싱글샷건",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Gate Keeper",
 		identifiedResourceName = "게이트키퍼",
@@ -87670,10 +86623,7 @@ tbl = {
 		unidentifiedDisplayName = "Gatling Gun",
 		unidentifiedResourceName = "드리프터",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Drifter",
 		identifiedResourceName = "드리프터",
@@ -87695,10 +86645,7 @@ tbl = {
 		unidentifiedDisplayName = "Gatling Gun",
 		unidentifiedResourceName = "드리프터",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Butcher",
 		identifiedResourceName = "붓쳐",
@@ -87719,10 +86666,7 @@ tbl = {
 		unidentifiedDisplayName = "Gatling Gun",
 		unidentifiedResourceName = "드리프터",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Butcher",
 		identifiedResourceName = "붓쳐",
@@ -87743,10 +86687,7 @@ tbl = {
 		unidentifiedDisplayName = "Grenade Launcher",
 		unidentifiedResourceName = "디스트로이어",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Destroyer",
 		identifiedResourceName = "디스트로이어",
@@ -87773,10 +86714,7 @@ tbl = {
 		unidentifiedDisplayName = "Grenade Launcher",
 		unidentifiedResourceName = "디스트로이어",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Destroyer",
 		identifiedResourceName = "디스트로이어",
@@ -87803,10 +86741,7 @@ tbl = {
 		unidentifiedDisplayName = "Grenade Launcher",
 		unidentifiedResourceName = "디스트로이어",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Inferno",
 		identifiedResourceName = "인페르노",
@@ -87828,10 +86763,7 @@ tbl = {
 		unidentifiedDisplayName = "Rifle",
 		unidentifiedResourceName = "라이플",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Long Barrel",
 		identifiedResourceName = "롱바렐",
@@ -87858,10 +86790,7 @@ tbl = {
 		unidentifiedDisplayName = "Rifle",
 		unidentifiedResourceName = "라이플",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Long Barrel",
 		identifiedResourceName = "롱바렐",
@@ -87888,10 +86817,7 @@ tbl = {
 		unidentifiedDisplayName = "Rifle",
 		unidentifiedResourceName = "라이플",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Jungle Carbine",
 		identifiedResourceName = "정글카빈",
@@ -87918,10 +86844,7 @@ tbl = {
 		unidentifiedDisplayName = "Rifle",
 		unidentifiedResourceName = "라이플",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Jungle Carbine",
 		identifiedResourceName = "정글카빈",
@@ -87948,10 +86871,7 @@ tbl = {
 		unidentifiedDisplayName = "Shotgun",
 		unidentifiedResourceName = "싱글샷건",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Gate Keeper-DD",
 		identifiedResourceName = "게이트키퍼DD",
@@ -87981,10 +86901,7 @@ tbl = {
 		unidentifiedDisplayName = "Shotgun",
 		unidentifiedResourceName = "싱글샷건",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Thunder P",
 		identifiedResourceName = "썬더P",
@@ -88011,10 +86928,7 @@ tbl = {
 		unidentifiedDisplayName = "Shotgun",
 		unidentifiedResourceName = "싱글샷건",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Thunder P",
 		identifiedResourceName = "썬더P",
@@ -88041,10 +86955,7 @@ tbl = {
 		unidentifiedDisplayName = "Rifle",
 		unidentifiedResourceName = "라이플",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Lever Action Rifle",
 		identifiedResourceName = "레버액션라이플",
@@ -88890,10 +87801,7 @@ tbl = {
 		unidentifiedDisplayName = "Huuma Shuriken",
 		unidentifiedResourceName = "풍마_편익",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Huuma Wing Shuriken",
 		identifiedResourceName = "풍마_편익",
@@ -88917,10 +87825,7 @@ tbl = {
 		unidentifiedDisplayName = "Huuma Shuriken",
 		unidentifiedResourceName = "풍마_편익",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Huuma Giant Wheel Shuriken",
 		identifiedResourceName = "풍마_대차륜",
@@ -88946,10 +87851,7 @@ tbl = {
 		unidentifiedDisplayName = "Huuma Shuriken",
 		unidentifiedResourceName = "풍마_편익",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Huuma Giant Wheel Shuriken",
 		identifiedResourceName = "풍마_대차륜",
@@ -88975,10 +87877,7 @@ tbl = {
 		unidentifiedDisplayName = "Huuma Shuriken",
 		unidentifiedResourceName = "풍마_편익",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Huuma Blaze Shuriken",
 		identifiedResourceName = "풍마_열화",
@@ -89007,10 +87906,7 @@ tbl = {
 		unidentifiedDisplayName = "Humma",
 		unidentifiedResourceName = "풍마_편익",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Huuma Calm Mind",
 		identifiedResourceName = "풍마_명정",
@@ -89151,10 +88047,7 @@ tbl = {
 		unidentifiedDisplayName = "One-handed Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Cutlus",
 		identifiedResourceName = "커틀러스",
@@ -89309,10 +88202,7 @@ tbl = {
 		unidentifiedDisplayName = "One-Handed Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Platinum Shotel",
 		identifiedResourceName = "백금의쇼텔",
@@ -89337,10 +88227,7 @@ tbl = {
 		unidentifiedDisplayName = "One-Handed Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Curved Sword",
 		identifiedResourceName = "연검",
@@ -89489,7 +88376,7 @@ tbl = {
 		unidentifiedDisplayName = "Elemental Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Elemental Sword",
 		identifiedResourceName = "엘레멘탈소드",
@@ -89665,7 +88552,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ruber",
 		identifiedResourceName = "루베르",
@@ -92199,7 +91086,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal.  Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Hockey Mask Box",
 		identifiedResourceName = "하키마스크",
@@ -92904,7 +91791,7 @@ tbl = {
 		unidentifiedDisplayName = "Giant Fly Wing Box 500",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Giant Fly Wing Box 500",
 		identifiedResourceName = "거대한파리날개box",
@@ -95136,7 +94023,7 @@ tbl = {
 		unidentifiedDisplayName = "Lv10 Blessing Scroll Box 50",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Lv10 Blessing Scroll Box 50",
 		identifiedResourceName = "오래된보라상자",
@@ -95155,7 +94042,7 @@ tbl = {
 		unidentifiedDisplayName = "Lv5 Assumptio Scroll Box 50",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Lv5 Assumptio Scroll Box 50",
 		identifiedResourceName = "오래된보라상자",
@@ -96780,7 +95667,7 @@ tbl = {
 		unidentifiedDisplayName = "Knife Goblin Ring",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Knife Goblin Ring",
 		identifiedResourceName = "링",
@@ -96796,7 +95683,7 @@ tbl = {
 		unidentifiedDisplayName = "Flail Goblin Ring",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Flail Goblin Ring",
 		identifiedResourceName = "링",
@@ -96812,7 +95699,7 @@ tbl = {
 		unidentifiedDisplayName = "Hammer Goblin Ring",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Hammer Goblin Ring",
 		identifiedResourceName = "링",
@@ -96828,7 +95715,7 @@ tbl = {
 		unidentifiedDisplayName = "Holy Marble",
 		unidentifiedResourceName = "레드젬스톤",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Holy Marble",
 		identifiedResourceName = "레드젬스톤",
@@ -96844,7 +95731,7 @@ tbl = {
 		unidentifiedDisplayName = "Red Burning Stone",
 		unidentifiedResourceName = "진홍색보석",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Red Burning Stone",
 		identifiedResourceName = "진홍색보석",
@@ -97133,7 +96020,7 @@ tbl = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "우든메일",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Bone Plate",
 		identifiedResourceName = "본플레이트",
@@ -97155,7 +96042,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Erde",
 		identifiedResourceName = "에르데",
@@ -97178,7 +96065,7 @@ tbl = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Red Square Bag",
 		identifiedResourceName = "빨간스퀘어백",
@@ -97481,7 +96368,7 @@ tbl = {
 		unidentifiedDisplayName = "HE Battle Manual Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "HE Battle Manual Box",
 		identifiedResourceName = "오래된마법서box",
@@ -97500,7 +96387,7 @@ tbl = {
 		unidentifiedDisplayName = "HE Bubble Gum Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "HE Bubble Gum Box",
 		identifiedResourceName = "정령의결정02box",
@@ -98876,7 +97763,7 @@ tbl = {
 		unidentifiedDisplayName = "Capricon Crown Box",
 		unidentifiedResourceName = "마갈궁왕관box",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Capricorn Crown Box",
 		identifiedResourceName = "마갈궁왕관box",
@@ -98900,7 +97787,7 @@ tbl = {
 		unidentifiedDisplayName = "Capricon Crown Box",
 		unidentifiedResourceName = "마갈궁왕관box",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Capricorn Crown Box",
 		identifiedResourceName = "마갈궁왕관box",
@@ -98924,7 +97811,7 @@ tbl = {
 		unidentifiedDisplayName = "Capricon Diadem Box",
 		unidentifiedResourceName = "마갈궁보관box",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Capricorn Diadem Box",
 		identifiedResourceName = "마갈궁보관box",
@@ -98952,7 +97839,7 @@ tbl = {
 		unidentifiedDisplayName = "Capricon Diadem Box",
 		unidentifiedResourceName = "마갈궁보관box",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Capricorn Diadem Box",
 		identifiedResourceName = "마갈궁보관box",
@@ -99191,7 +98078,7 @@ tbl = {
 		unidentifiedDisplayName = "Elven Ears",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Elven Ears",
 		identifiedResourceName = "요정의귀",
@@ -105177,7 +104064,7 @@ tbl = {
 		unidentifiedDisplayName = "Charming Ribbon Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Charming Ribbon Box",
 		identifiedResourceName = "예쁜리본box",
@@ -105209,7 +104096,7 @@ tbl = {
 		unidentifiedDisplayName = "Charming Ribbon Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Charming Ribbon Box",
 		identifiedResourceName = "예쁜리본box",
@@ -105241,7 +104128,7 @@ tbl = {
 		unidentifiedDisplayName = "Alice Hat Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Alice Hat Box",
 		identifiedResourceName = "엘리스모자box",
@@ -105280,7 +104167,7 @@ tbl = {
 		unidentifiedDisplayName = "Alice Hat Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Alice Hat Box",
 		identifiedResourceName = "엘리스모자box",
@@ -105320,7 +104207,7 @@ tbl = {
 		unidentifiedDisplayName = "Crescent Helm Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Crescent Helm Box",
 		identifiedResourceName = "초승달투구box",
@@ -105351,7 +104238,7 @@ tbl = {
 		unidentifiedDisplayName = "Crescent Helm Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Crescent Helm Box",
 		identifiedResourceName = "초승달투구box",
@@ -105382,7 +104269,7 @@ tbl = {
 		unidentifiedDisplayName = "Dragon Skull Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Dragon Skull Box",
 		identifiedResourceName = "용의해골box",
@@ -105415,7 +104302,7 @@ tbl = {
 		unidentifiedDisplayName = "Dragon Skull Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Dragon Skull Box",
 		identifiedResourceName = "용의해골box",
@@ -105448,7 +104335,7 @@ tbl = {
 		unidentifiedDisplayName = "Drooping Bunny Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Drooping Bunny Box",
 		identifiedResourceName = "늘어진토끼box",
@@ -105475,7 +104362,7 @@ tbl = {
 		unidentifiedDisplayName = "Drooping Bunny Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Drooping Bunny Box",
 		identifiedResourceName = "늘어진토끼box",
@@ -105502,7 +104389,7 @@ tbl = {
 		unidentifiedDisplayName = "Evolved Blue Fish Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Evolved Blue Fish Box",
 		identifiedResourceName = "생선모자box",
@@ -105532,7 +104419,7 @@ tbl = {
 		unidentifiedDisplayName = "Evolved Blue Fish Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Evolved Blue Fish Box",
 		identifiedResourceName = "생선모자box",
@@ -105562,7 +104449,7 @@ tbl = {
 		unidentifiedDisplayName = "Evolved Pair of Red Ribbon Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Evolved Pair of Red Ribbon Box",
 		identifiedResourceName = "양쪽귀밑리본box",
@@ -105594,7 +104481,7 @@ tbl = {
 		unidentifiedDisplayName = "Evolved Pair of Red Ribbon Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Evolved Pair of Red Ribbon Box",
 		identifiedResourceName = "양쪽귀밑리본box",
@@ -105626,7 +104513,7 @@ tbl = {
 		unidentifiedDisplayName = "Evolved Pipe Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Evolved Pipe Box",
 		identifiedResourceName = "파이프담배box",
@@ -105660,7 +104547,7 @@ tbl = {
 		unidentifiedDisplayName = "Evolved Pipe Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Evolved Pipe Box",
 		identifiedResourceName = "파이프담배box",
@@ -105694,7 +104581,7 @@ tbl = {
 		unidentifiedDisplayName = "Hibiscus Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Hibiscus Box",
 		identifiedResourceName = "부용box",
@@ -105726,7 +104613,7 @@ tbl = {
 		unidentifiedDisplayName = "Hibiscus Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Hibiscus Box",
 		identifiedResourceName = "부용box",
@@ -105758,7 +104645,7 @@ tbl = {
 		unidentifiedDisplayName = "Jumping Poring Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Jumping Poring Box",
 		identifiedResourceName = "폴짝이는포링box",
@@ -105782,7 +104669,7 @@ tbl = {
 		unidentifiedDisplayName = "Jumping Poring Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Jumping Poring Box",
 		identifiedResourceName = "폴짝이는포링box",
@@ -105806,7 +104693,7 @@ tbl = {
 		unidentifiedDisplayName = "Kettle Hat Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Kettle Hat Box",
 		identifiedResourceName = "주전자모자box",
@@ -105838,7 +104725,7 @@ tbl = {
 		unidentifiedDisplayName = "Kettle Hat Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Kettle Hat Box",
 		identifiedResourceName = "주전자모자box",
@@ -105870,7 +104757,7 @@ tbl = {
 		unidentifiedDisplayName = "Magic Eyes Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Magic Eyes Box",
 		identifiedResourceName = "매직아이즈box",
@@ -105897,7 +104784,7 @@ tbl = {
 		unidentifiedDisplayName = "Magic Eyes Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Magic Eyes Box",
 		identifiedResourceName = "매직아이즈box",
@@ -105924,7 +104811,7 @@ tbl = {
 		unidentifiedDisplayName = "Mini Propeller Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Mini Propeller Box",
 		identifiedResourceName = "프로펠라_box",
@@ -105958,7 +104845,7 @@ tbl = {
 		unidentifiedDisplayName = "Mini Propeller Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Mini Propeller Box",
 		identifiedResourceName = "프로펠라_box",
@@ -105992,7 +104879,7 @@ tbl = {
 		unidentifiedDisplayName = "Puppy Hat Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Puppy Hat Box",
 		identifiedResourceName = "강아지모자box",
@@ -106020,7 +104907,7 @@ tbl = {
 		unidentifiedDisplayName = "Puppy Hat Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Puppy Hat Box",
 		identifiedResourceName = "강아지모자box",
@@ -106048,7 +104935,7 @@ tbl = {
 		unidentifiedDisplayName = "Sheep Hat Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sheep Hat Box",
 		identifiedResourceName = "양모자box",
@@ -106080,7 +104967,7 @@ tbl = {
 		unidentifiedDisplayName = "Sheep Hat Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sheep Hat Box",
 		identifiedResourceName = "양모자box",
@@ -106112,7 +104999,7 @@ tbl = {
 		unidentifiedDisplayName = "Tiger Mask Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Tiger Mask Box",
 		identifiedResourceName = "타이거마스크box",
@@ -106141,7 +105028,7 @@ tbl = {
 		unidentifiedDisplayName = "Tiger Mask Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Tiger Mask Box",
 		identifiedResourceName = "타이거마스크box",
@@ -106170,7 +105057,7 @@ tbl = {
 		unidentifiedDisplayName = "Vacation Hat Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Vacation Hat Box",
 		identifiedResourceName = "바캉스모자box",
@@ -106202,7 +105089,7 @@ tbl = {
 		unidentifiedDisplayName = "Vacation Hat Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Vacation Hat Box",
 		identifiedResourceName = "바캉스모자box",
@@ -106234,7 +105121,7 @@ tbl = {
 		unidentifiedDisplayName = "Vane Hairpin Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Vane Hairpin Box",
 		identifiedResourceName = "풍차비녀box",
@@ -106263,7 +105150,7 @@ tbl = {
 		unidentifiedDisplayName = "Vane Hairpin Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Vane Hairpin Box",
 		identifiedResourceName = "풍차비녀box",
@@ -106292,7 +105179,7 @@ tbl = {
 		unidentifiedDisplayName = "Vanilmirth Hat Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Vanilmirth Hat Box",
 		identifiedResourceName = "바닐미르스모자box",
@@ -106324,7 +105211,7 @@ tbl = {
 		unidentifiedDisplayName = "Vanilmirth Hat Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Vanilmirth Hat Box",
 		identifiedResourceName = "바닐미르스모자box",
@@ -106356,7 +105243,7 @@ tbl = {
 		unidentifiedDisplayName = "Water Lily Crown Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Water Lily Crown Box",
 		identifiedResourceName = "수련왕관box",
@@ -106390,7 +105277,7 @@ tbl = {
 		unidentifiedDisplayName = "Water Lily Crown Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Water Lily Crown Box",
 		identifiedResourceName = "수련왕관box",
@@ -106424,7 +105311,7 @@ tbl = {
 		unidentifiedDisplayName = "Pink Beanie Hat",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Pink Beanie Hat",
 		identifiedResourceName = "분홍털모자box",
@@ -106453,7 +105340,7 @@ tbl = {
 		unidentifiedDisplayName = "Pink Beanie Hat",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Pink Beanie Hat",
 		identifiedResourceName = "분홍털모자box",
@@ -106482,7 +105369,7 @@ tbl = {
 		unidentifiedDisplayName = "Green Ribbon Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Green Ribbon Box",
 		identifiedResourceName = "리본_초록box",
@@ -106508,7 +105395,7 @@ tbl = {
 		unidentifiedDisplayName = "Green Ribbon Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Green Ribbon Box",
 		identifiedResourceName = "리본_초록box",
@@ -106534,7 +105421,7 @@ tbl = {
 		unidentifiedDisplayName = "Gray Deviruchi Hat Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Gray Deviruchi Hat Box",
 		identifiedResourceName = "흰색새끼악마모자box",
@@ -106563,7 +105450,7 @@ tbl = {
 		unidentifiedDisplayName = "Gray Deviruchi Hat Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Gray Deviruchi Hat Box",
 		identifiedResourceName = "흰색새끼악마모자box",
@@ -106592,7 +105479,7 @@ tbl = {
 		unidentifiedDisplayName = "Blue Drooping Cat Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Blue Drooping Cat Box",
 		identifiedResourceName = "파랑늘어진고양이box",
@@ -106623,7 +105510,7 @@ tbl = {
 		unidentifiedDisplayName = "Blue Drooping Cat Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Blue Drooping Cat Box",
 		identifiedResourceName = "파랑늘어진고양이box",
@@ -106654,7 +105541,7 @@ tbl = {
 		unidentifiedDisplayName = "Fantastic Wig Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Fantastic Wig Box",
 		identifiedResourceName = "환상적인가발box",
@@ -106678,7 +105565,7 @@ tbl = {
 		unidentifiedDisplayName = "Fantastic Wig Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Fantastic Wig Box",
 		identifiedResourceName = "환상적인가발box",
@@ -106702,7 +105589,7 @@ tbl = {
 		unidentifiedDisplayName = "Yellow Mage Hat Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Yellow Mage Hat Box",
 		identifiedResourceName = "노랑마법사의모자box",
@@ -106732,7 +105619,7 @@ tbl = {
 		unidentifiedDisplayName = "Yellow Mage Hat Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Yellow Mage Hat Box",
 		identifiedResourceName = "노랑마법사의모자box",
@@ -106762,7 +105649,7 @@ tbl = {
 		unidentifiedDisplayName = "Chick Hat Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Chick Hat Box",
 		identifiedResourceName = "병아리모자box",
@@ -106796,7 +105683,7 @@ tbl = {
 		unidentifiedDisplayName = "Chick Hat Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Chick Hat Box",
 		identifiedResourceName = "병아리모자box",
@@ -106830,7 +105717,7 @@ tbl = {
 		unidentifiedDisplayName = "Flapping Angel Wing Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Flapping Angel Wing Box",
 		identifiedResourceName = "비상하는천사box",
@@ -106862,7 +105749,7 @@ tbl = {
 		unidentifiedDisplayName = "Flapping Angel Wing Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Flapping Angel Wing Box",
 		identifiedResourceName = "비상하는천사box",
@@ -106894,7 +105781,7 @@ tbl = {
 		unidentifiedDisplayName = "Neko Mimi Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Neko Mimi Box",
 		identifiedResourceName = "고양이모자box",
@@ -106919,7 +105806,7 @@ tbl = {
 		unidentifiedDisplayName = "Neko Mimi Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Neko Mimi Box",
 		identifiedResourceName = "고양이모자box",
@@ -106944,7 +105831,7 @@ tbl = {
 		unidentifiedDisplayName = "Pecopeco Hairband Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Pecopeco Hairband Box",
 		identifiedResourceName = "페코페코머리띠box",
@@ -106979,7 +105866,7 @@ tbl = {
 		unidentifiedDisplayName = "Pecopeco Hairband Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Pecopeco Hairband Box",
 		identifiedResourceName = "페코페코머리띠box",
@@ -107014,7 +105901,7 @@ tbl = {
 		unidentifiedDisplayName = "Ramen Hat Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ramen Hat Box",
 		identifiedResourceName = "라면모자box",
@@ -107053,7 +105940,7 @@ tbl = {
 		unidentifiedDisplayName = "Ramen Hat Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ramen Hat Box",
 		identifiedResourceName = "라면모자box",
@@ -107092,7 +105979,7 @@ tbl = {
 		unidentifiedDisplayName = "Red Glasses Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Red Glasses Box",
 		identifiedResourceName = "빨간안경box",
@@ -107125,7 +106012,7 @@ tbl = {
 		unidentifiedDisplayName = "Red Glasses Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Red Glasses Box",
 		identifiedResourceName = "빨간안경box",
@@ -107158,7 +106045,7 @@ tbl = {
 		unidentifiedDisplayName = "Robo Eye Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Robo Eye Box",
 		identifiedResourceName = "로보아이box",
@@ -107183,7 +106070,7 @@ tbl = {
 		unidentifiedDisplayName = "Robo Eye Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Robo Eye Box",
 		identifiedResourceName = "로보아이box",
@@ -107208,7 +106095,7 @@ tbl = {
 		unidentifiedDisplayName = "Whisper Mask Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Whisper Mask Box",
 		identifiedResourceName = "위스퍼마스크box",
@@ -107241,7 +106128,7 @@ tbl = {
 		unidentifiedDisplayName = "Whisper Mask Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Whisper Mask Box",
 		identifiedResourceName = "위스퍼마스크box",
@@ -107306,7 +106193,7 @@ tbl = {
 		unidentifiedDisplayName = "Gloomy Pumpkin Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Gloomy Pumpkin Hat",
 		identifiedResourceName = "음침한호박모자",
@@ -107327,7 +106214,7 @@ tbl = {
 		unidentifiedDisplayName = "Hairband",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Heart Ribbon Hairband",
 		identifiedResourceName = "하트리본머리띠",
@@ -107693,10 +106580,7 @@ tbl = {
 		unidentifiedDisplayName = "Mini Tree",
 		unidentifiedResourceName = "미니트리",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 			"Weight: ^77777780^000000",
 		},
 		identifiedDisplayName = "Christmas Tree Hat",
@@ -107821,10 +106705,7 @@ tbl = {
 		unidentifiedDisplayName = "Garuda Hat",
 		unidentifiedResourceName = "가루다햇",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Garuda Hat",
 		identifiedResourceName = "가루다햇",
@@ -107848,10 +106729,7 @@ tbl = {
 		unidentifiedDisplayName = "Rune Hairband",
 		unidentifiedResourceName = "룬매듭머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Rune Hairband",
 		identifiedResourceName = "룬매듭머리띠",
@@ -107874,10 +106752,7 @@ tbl = {
 		unidentifiedDisplayName = "Umbala Spirit",
 		unidentifiedResourceName = "움발라의혼",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Umbala Spirit",
 		identifiedResourceName = "움발라의혼",
@@ -108201,10 +107076,7 @@ tbl = {
 		unidentifiedDisplayName = "Water Lily Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item",
-			"requiring Appraisal.",
-			"Can be identified by",
-			"using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Water Lily Hat",
 		identifiedResourceName = "연꽃모자",
@@ -108784,7 +107656,7 @@ tbl = {
 		unidentifiedDisplayName = "Muka Hat",
 		unidentifiedResourceName = "선인장모자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Potted Muka Hat",
 		identifiedResourceName = "선인장모자",
@@ -108806,7 +107678,7 @@ tbl = {
 		unidentifiedDisplayName = "Lady Tanee Doll",
 		unidentifiedResourceName = "타니아가씨인형",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Lady Tanee Doll",
 		identifiedResourceName = "타니아가씨인형",
@@ -108918,7 +107790,7 @@ tbl = {
 		unidentifiedDisplayName = "Yggdrasil Crown",
 		unidentifiedResourceName = "유그드라실모자",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Yggdrasil Crown",
 		identifiedResourceName = "유그드라실모자",
@@ -108984,7 +107856,7 @@ tbl = {
 		unidentifiedDisplayName = "Mini Glasses",
 		unidentifiedResourceName = "미니글래스",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Mini Glasses",
 		identifiedResourceName = "미니글래스",
@@ -109024,7 +107896,7 @@ tbl = {
 		unidentifiedDisplayName = "Spirit Whispers",
 		unidentifiedResourceName = "악마의속삭임",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Spirit Whispers",
 		identifiedResourceName = "악마의속삭임",
@@ -109052,7 +107924,7 @@ tbl = {
 		unidentifiedDisplayName = "Skull Cap",
 		unidentifiedResourceName = "스컬캡",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Skull Cap",
 		identifiedResourceName = "스컬캡",
@@ -109079,7 +107951,7 @@ tbl = {
 		unidentifiedDisplayName = "Demon Mask",
 		unidentifiedResourceName = "악마의가면",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Demon Mask",
 		identifiedResourceName = "악마의가면",
@@ -109104,7 +107976,7 @@ tbl = {
 		unidentifiedDisplayName = "Little Feather Hat",
 		unidentifiedResourceName = "리틀페더햇",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Little Feather Hat",
 		identifiedResourceName = "리틀페더햇",
@@ -109129,7 +108001,7 @@ tbl = {
 		unidentifiedDisplayName = "Benevolent Guardian",
 		unidentifiedResourceName = "박애의수호",
 		unidentifiedDescriptionName = {
-			"Unknown item requiring Appraisal. Can be identified by using a Magnifier.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Benevolent Guardian",
 		identifiedResourceName = "박애의수호",
@@ -112982,7 +111854,7 @@ tbl = {
 		ClassNum = 0
 	},
 	[18671] = {
-		unidentifiedDisplayName = "Cap",
+		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
 			"Unidentified. You can identify it with a [Magnifier].",
@@ -120073,7 +118945,7 @@ tbl = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "카타르",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Unholy Touch",
 		identifiedResourceName = "언홀리터치",
@@ -120099,7 +118971,7 @@ tbl = {
 		unidentifiedDisplayName = "One-Handed Staff",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Refined Survivor's Rod",
 		identifiedResourceName = "생존의지팡이",
@@ -120180,7 +119052,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Champion's Wreath",
 		identifiedResourceName = "월계관",
@@ -120345,7 +119217,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Air Pirate's Bandana",
 		identifiedResourceName = "노란색두건",
@@ -120387,7 +119259,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Book Hat",
 		identifiedResourceName = "문자책모자",
@@ -121230,7 +120102,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Pizza Pie of Plenty",
 		identifiedResourceName = "피자모자",
@@ -121271,7 +120143,7 @@ tbl = {
 		unidentifiedDisplayName = "Hairband",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Sheila Hairnet",
 		identifiedResourceName = "검은토끼머리띠",
@@ -121292,7 +120164,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Yellow Ribbon",
 		identifiedResourceName = "노란색리본",
@@ -121314,7 +120186,7 @@ tbl = {
 		unidentifiedDisplayName = "Hairband",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Soul Wing",
 		identifiedResourceName = "소울리스윙",
@@ -121335,7 +120207,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Academy Freshman Hat",
 		identifiedResourceName = "아카데미신입생모자",
@@ -121356,7 +120228,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Academy Completion Hat",
 		identifiedResourceName = "아카데미1수료모자",

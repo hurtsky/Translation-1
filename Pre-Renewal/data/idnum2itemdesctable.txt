@@ -23895,57 +23895,36 @@ Required Level: ^77777750^000000
 Jobs: ^777777All^000000
 #
 5380#
-	
-A gaping fish head	
-fashioned into a hat.	
-A nasty stench is	
-released whenever	
-it opens its mouth.	
-Adds a low chance	
-of automatically	
-casting Lv.1 Endow	
-Tsunami with each	
-physical attack.	
-Can be placed in Kafra Storage, cart and traded.
-Class: ^777777Headgear^000000	
-Defense: ^7777771^000000	
-Location: ^777777Upper^000000	
-Weight: ^77777740^000000	
-Jobs: ^777777All^000000	
+A gaping fish head fashioned into a hat.
+A nasty stench is released whenever it opens its mouth.
+Adds a low chance of automatically casting Level 1 Frost Weapon with each physical attack.
+Class: ^777777Headgear^000000
+Defense: ^7777771^000000
+Location: ^777777Upper^000000
+Weight: ^77777740^000000
+Jobs: ^777777All^000000
 #
 5381#
-	
-A cute hat made	
-from a hopping Poring	
-wearing a Santa's Hat.	
-Adds 3% additional	
-Darkness property	
-damage to monsters,	
-and reduces Darkness	
-property attacks from	
-enemies by 3%.	
-MDEF +2. Cannot	
-be upgraded.	
-Can be placed in Kafra Storage, cart and traded.	
-Class: ^777777Headgear^000000	
-Defense: ^7777772^000000	
-Location: ^777777Upper^000000	
-Weight: ^77777710^000000	
-Jobs: ^777777All^000000	
+A cute hat made from a hopping Poring wearing a Santa's Hat.
+Increase 3% damage against Shadow property monsters,
+reduces Shadow property attacks by 3%.
+MDEF +2.
+^FF0000Unrefineable^000000
+Class: ^777777Headgear^000000
+Defense: ^7777772^000000
+Location: ^777777Upper^000000
+Weight: ^77777710^000000
+Jobs: ^777777All^000000
 #
 5382#
-	
-A cute ribbon	
-adorned with	
-jinglilng bells.	
-Enables use of	
-Lv.1 Angelus. Vit +1.	
-Can be placed in Kafra Storage, cart and traded.
-Class: ^777777Headgear^000000	
-Defense: ^7777773^000000	
-Location: ^777777Upper^000000	
-Weight: ^77777720^000000	
-Jobs: ^777777All^000000	
+A cute ribbon adorned with jinglilng bells.
+Enables use of Level 1 Angelus.
+VIT +1.
+Class: ^777777Headgear^000000
+Defense: ^7777773^000000
+Location: ^777777Upper^000000
+Weight: ^77777720^000000
+Jobs: ^777777All^000000
 #
 5383#
 This hat is made especially for hunting Brute type Monsters!

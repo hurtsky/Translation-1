@@ -2541,7 +2541,7 @@
 5376#Flying_Evil_Wings#
 5377#Gentleman's_Pipe#
 5378#Bunny_Top_Hat#
-5379#Tam#
+5379#Balloon_Hat#
 5380#Fish_Head_Hat#
 5381#Santa_Poring_Hat#
 5382#Bell_Ribbon#
