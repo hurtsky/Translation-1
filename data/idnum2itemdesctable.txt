@@ -15371,25 +15371,36 @@ Jobs: ^777777All^000000
 2591#
 Clothes tailored from Buwaya's kidnapping sack. Full of vindictive spirits that cannot rest in peace.
 Healing capacity and healing item effect increases 1% per 3 refinement.
-10% damage decrease from Water, Earth, Fire and Wind Converter monsters.
+10% damage decrease from Water, Earth, Fire and Wind property monsters.
 Class: ^777777Garment^000000
 Defense: ^7777778^000000
 Weight: ^77777720^000000
 Jobs: ^777777All^000000
 #
 2592#
-[JRO item]
+A red manteau of Boss of Domovie tribe.
+Enable use of Level 1 Cloaking.
+Increase damage received from Demihuman monster by 5%.
++Drooping Domovoi, MaxHP +3%, reduce damage received from Demihuman monster by 10%.
+Class: ^777777Garment^000000
+Defense: ^7777773^000000
+Weight: ^77777710^000000
+Required Level: ^77777750^000000
+Jobs: ^777777All^000000
 #
 2593#
-[JRO item]
+A mysterious manteau imbued with the power of water.
+Reduce damage from water property monster by 5%.
+Increase damage from Brute monster by 5%.
+(Incomplete desc)
 #
 2594#
 [JRO item]
 #
 2595#
 A mysterious manteau with the power of darkness.
-It can reduce attack from particular type monster.
-Reduce damage from Shadow and Undead property monster by 5%.
+Reduce damage from Shadow property and Undead race monster by 5%.
+(Incomplete desc)
 Class: ^777777Garment^000000
 Defense: ^77777720^000000
 Weight: ^77777770^000000
@@ -15398,10 +15409,11 @@ Jobs: ^777777All^000000
 #
 2596#
 A magical manteau with property resistance in it
-Decrease damage -5% from fire property monster
-Increase damage +5% from Demon type monster
+Decrease damage -5% from Fire property monster
+Increase damage +5% from Demon race monster
 If equipped with Sharel Shield, decrease damage 1% from Demon type monster per refine.
 If equipped with Sharel Shield, increase damage 1% from fire property monster per refine.
+(Incomplete desc)
 Class: ^777777Garment^000000
 Defense: ^77777720^000000
 Weight: ^77777770^000000
@@ -15411,9 +15423,9 @@ Jobs: ^777777All^000000
 2597#
 The muffler is full with blood.
 Critical damage +3%.
-If equipped with Critical Ring, critical damage +5%, CRI+10.
-If refined to +5 and above, Critical damage +3%.
-If refined to +7 and above, Critical damage +4%.
+If equipped with Critical Ring, critical damage +5%, CRIT +10.
+If refined to +5, Critical damage +3%.
+If refined to +7, Critical damage +4%.
 Class: ^777777Garment^000000
 Defense: ^77777710^000000
 Weight: ^77777750^000000
@@ -15422,13 +15434,13 @@ Jobs: ^777777All^000000
 #
 2598#
 A magical cloak pregnant with the power of immortality.
-Increase resistance against ^777777Undead^000000 monsters by 5%.
+Increase resistance against Undead property monsters by 5%.
 Decrease resistance against Demihuman monsters by 5%
 [^000088+L’Amour Shield^000000]
 Each refine increase resistance against Demihuman monsters by 1%
-Each refine decrease resistance against Undead monsters by 1%.
+Each refine decrease resistance against Undead property monsters by 1%.
 [+^6A5ACDGold PC Cafe^000000]
-FLEE +20.
+FLEE +20
 Class: ^777777Garment^000000
 Defense: ^77777720^000000
 Weight: ^77777770^000000
@@ -15437,8 +15449,8 @@ Jobs: ^777777All^000000
 #
 2599#
 Goibne's very first creation, his much prized and precious armor.
-Reduces long range physical damage by 10%.
 VIT +1, MDEF +2
+Reduces long range physical damage by 10%.
 Class: ^777777Garment^000000
 Defense: ^77777711^000000
 Weight: ^77777770^000000
@@ -15492,7 +15504,7 @@ Jobs: ^777777All except Novice^000000
 #
 2607#
 A versatile accessory that you can attach to pretty much anything.
-SP +10
+MaxSP +10
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -15500,7 +15512,8 @@ Jobs: ^777777All^000000
 #
 2608#
 A string of beads used to count the number of repetitions that prayers are recited.
-LUK +2, MDEF +5
+LUK +2
+MDEF +5
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -15543,8 +15556,9 @@ Weight: ^77777710^000000
 Jobs: ^777777All^000000
 #
 2614#
-Reduces damage from undead and demon monsters by 4%.
-Immune to poison status.
+An accessory modeled after the eye of Dullahan.
+Reduces damage from Undead and Demon monsters by 4%.
+Immune to Poison status.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -15552,10 +15566,9 @@ Required Level: ^77777750^000000
 Jobs: ^777777All except Novice^000000
 #
 2615#
-A strange ring that
-curiously raises its
-wearer's defense.
-DEF +5, MDEF +5
+A strange ring that curiously raises its wearer's defense.
+DEF +5
+MDEF +5
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -15572,8 +15585,7 @@ Required Level: ^77777740^000000
 Jobs: ^777777All except Novice^000000
 #
 2617#
-Gloves blessed with
-holiness that increases its wearer's intelligence.
+Gloves blessed with holiness that increases its wearer's intelligence.
 INT +1
 Class: ^777777Accessory^000000
 Defense: ^7777771^000000
@@ -15582,7 +15594,7 @@ Required Level: ^77777735^000000
 Jobs: ^777777All except Novice^000000
 #
 2618#
-Matyr's leash.
+A leash that wore by Matyr.
 AGI +1
 Class: ^777777Accessory^000000
 Defense: ^7777771^000000
@@ -15591,9 +15603,8 @@ Required Level: ^77777735^000000
 Jobs: ^777777All except Novice^000000
 #
 2619#
-A finger accessory
-for archers which helps improve their accuracy.
-Increases damage inflicted with Bow class weapons.
+A finger accessory for archers which helps improve their accuracy.
+Increases ranged damage by 3%.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -15606,15 +15617,13 @@ An exclusive ring for the Thief and Ninja class.
 HIT +10, FLEE +10
 [^6A5ACD Base AGI 90 ^000000]
 ATK +10, CRIT +10
-^FFFFFF_^000000
 [ +^008800Black Cat^000000 ]
-Increase +8% damage against large sized monsters.
-Increase hit based on weapon refine level.
-Reduce variable cast time based on weapon refine level.
-^FFFFFF_^000000
+HIT +3
+Reduce variable cast time by 3%.
+Increase +8% damage against Large sized monsters.
 [ +^008800Cold Heart^000000 ]
-Increase +8% damage against medium sized monsters.
-Increase ASPD based on weapon refine level.
+ASPD +3%
+Increase +8% damage against Medium sized monsters.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -17561,7 +17570,7 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 2829#
-Enable to use [Greed] skill.
+Enable use of [Greed] skill.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
@@ -18815,8 +18824,22 @@ Required Level: ^77777750^000000
 Jobs: ^777777All^000000
 #
 2986#
+The ring is designed according to the snake.
+DEX +3, MDEF +2
+Class: ^777777Accessory^000000 
+Defense: ^7777772^000000
+Weight: ^77777710^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 2987#
+The charm is designed according to the snake.
+AGI +3, LUK +2, MDEF +3
+Class: ^777777Accessory^000000 
+Defense: ^7777772^000000
+Weight: ^77777710^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 2988#
 Reduce variable cast time by 25%.
@@ -30665,12 +30688,14 @@ Jobs: ^777777All^000000
 #
 5497#
 A hat that imitates the shape of King Tiger.
-STR +2
+STR +2, DEX +2
+Increase damage against Brute monster by 10%.
+(incomplete desc)
 Class: ^777777Headgear^000000
-Defense: ^7777773^000000
+Defense: ^7777776^000000
 Location: ^777777Upper^000000
 Weight: ^77777740^000000
-Required Level: ^77777730^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All except Novice^000000
 #
 5498#
@@ -74671,7 +74696,8 @@ Jobs: ^777777All^000000
 Bu~oi to achieve it is asleep as dead. To even worry about whether wake up sleeping on the defenseless too.
 MDEF +5.
 MaxHP +2%, decrese -5% of damange from Demihuman monster
-if equipped with manteau of boss tare, able to decrease -10% of damage and MaxHP +3% from Demihuman monsters
+^FF0000Unrefineable^000000
+if equipped with manteau of Domovoi, able to decrease -10% of damage and MaxHP +3% from Demihuman monsters
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
 Location: ^777777Upper^000000
@@ -75894,7 +75920,7 @@ Jobs: ^777777All^000000
 #
 18749#
 The strength seem will increase when your wear it.
-HP +100, STR +2.
+MaxHP +100, STR +2.
 Class: ^777777Headgear^000000
 Defense: ^7777778^000000
 Location: ^777777Upper^000000
@@ -75913,7 +75939,14 @@ Required Level: ^77777710^000000
 Jobs: ^777777All^000000
 #
 18751#
-[JRO item]
+A legendary clover that will bring luck to its wearer.
+Perfect Flee +2
+Class: ^777777Headgear^000000
+Defense: ^7777770^000000
+Location: ^777777Lower^000000
+Weight: ^77777710^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 18752#
 A cursed book that can absorb life.
@@ -77226,7 +77259,7 @@ One of the holy weapon of Rudra, the God of storm.
 Increase 2% physical attack power for a long distance.
 DEX +1.
 With equipping Bow Of Rudra, increase 3% damage when physically long distance attacking.
-With more than 7 refine Lv of Bow Of Rudra, increase additional 5% damage when physically long distance attacking.
+Bow Of Rudra refined to +7, increase additional 5% damage when physically long distance attacking.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Lower^000000
@@ -77276,8 +77309,8 @@ Jobs: ^777777All^000000
 18872#
 The headgear is designed according to the curled of snake.
 STR+3, INT+3, MDEF+5.
-Equipped with Snake Ring, ATK+1 for every Base Lv increased. (Maximum level 160).
-Equipped with Snake Charm, MATK+1 for every Base Lv increased. (Maximum level 160).
+Equipped with Snake Ring, ATK +1 for every Base Lv increased.
+Equipped with Snake Charm, MATK +1 for every Base Lv increased.
 Equipped with Snake Ring and Snake Charm, have chance to drop Snake Wild Beery after defeated monsters.
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000

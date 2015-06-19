@@ -6292,18 +6292,16 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2634#
-A wedding ring for a Groom which symbolizes ever-lasting love.
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2635#
-A wedding ring for a Bride which symbolizes ever-lasting trust.
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2636#
-A beautiful gold ring that was made for Christmas.
-Somebody's name is engraved on it.
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2637#
-A beautiful silver ring that was made for Christmas.
-Somebody's name is engraved on it.
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2638#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -6363,11 +6361,7 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2657#
-A pass for Regenschirm Laboratory employees that should allow you access around the lab.
-Class: ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^77777710^000000
-Jobs: ^777777All^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2658#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -6853,58 +6847,22 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2819#
-A guidebook that enables one to experience basic Swordman skills.
-SP +100.
-Class: ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^77777710^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Novice^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2820#
-A guidebook that enables one to experience basic Thief skills.
-SP +100.
-Class: ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^77777710^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Novice^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2821#
-A guidebook that enables one to experience basic Acolyte skills.
-SP +100.
-Class: ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^77777710^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Novice^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2822#
-A guidebook that enables one to experience basic Archer skills.
-SP +100.
-Class: ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^77777710^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Novice^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2823#
-A guidebook that enables one to experience basic Merchant skills.
-SP +100.
-Class: ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^77777710^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Novice^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2824#
-A guidebook that enables to experience basic Mage skills.
-SP +100.
-Class: ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^77777710^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Novice^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2825#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -7087,7 +7045,7 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2897#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2898#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -7108,11 +7066,13 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2904#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2905#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2906#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2907#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -7130,10 +7090,10 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2912#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2913#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2914#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -7181,43 +7141,49 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2929#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2930#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2931#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2932#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2933#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2934#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2935#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2936#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000
 #
 2937#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2938#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2939#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2940#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2941#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2942#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2943#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2944#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000
@@ -7229,16 +7195,16 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000
 #
 2947#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2948#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2949#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000
 #
 2950#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2951#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000
@@ -7328,7 +7294,7 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000
 #
 2981#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2982#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000
