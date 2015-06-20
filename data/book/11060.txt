@@ -34,6 +34,8 @@ Slot: ^7777771^000000
 1 Magician Hat + 100 Rough Energy Crystals
 
 
+
+
 ^008040[Modified Joker Jester]^000000
 Description: A weird looking hat made for circus clown.
 Remodeled for extra effect.
@@ -44,10 +46,13 @@ Defense: ^7777773^000000
 Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
-Jobs: ^777777All except Novice^000000"
+Jobs: ^777777All except Novice^000000
 Slot: ^7777771^000000
 ^ff0000[Materials requirement]^000000
 1 Joker Jester + 100 Rough Energy Crystals
+
+
+
 
 
 ^008040[Modified Bunny Band]^000000
@@ -65,6 +70,8 @@ Jobs: ^777777All^000000
 Slot: ^7777771^000000
 ^ff0000[Materials requirement]^000000
 1 Bunny Band + 100 Rough Energy Crystals
+
+
 
 
 ^008040[Modified Munak Hat]^000000
@@ -85,6 +92,7 @@ Slot: ^7777771^000000
 1 Munak Hat[1] + 100 Rough Energy Crystals
 
 
+
 ^008040[Modified Bongun Hat]^000000
 Description: Monster Bongun used to wear this hat with charm
 attached as a point. It has been remodeled for extra effect.
@@ -102,6 +110,8 @@ Slot: ^7777771^000000
 1 Bongun Hat[1] + 100 Rough Energy Crystals
 
 
+
+
 ^008040[Modified Opera Mask]^000000
 Description: A mask worn by the dark hero of sad love story.
 Look into it you can feel his sadness.
@@ -114,6 +124,11 @@ Required Level: ^77777720^000000
 Jobs: ^777777All^000000
 ^ff0000[Materials requirement]^000000
 1 Opera Mask + 100 Rough Energy Crystals
+
+
+
+
+
 
 
 ^008040[Modified Binoculars]^000000
@@ -129,6 +144,12 @@ Jobs: ^777777Archer^000000
 ^ff0000[Materials requirement]^000000
 1 Binoculars + 200 Rough Energy Crystals
 
+
+
+
+
+
+
 ^008040[Modified Fin Helm]^000000
 Description: A fish fin looking helm that protects Swordmen.
 This doesn't help you breathe under water.
@@ -139,9 +160,13 @@ Defense: ^7777775^000000
 Location: ^777777Middle^000000
 Weight: ^77777730^000000
 Required Level: ^77777765^000000
-Jobs: ^777777Swordman^000000"
+Jobs: ^777777Swordman^000000
 ^ff0000[Materials requirement]^000000
 1 Fin Helm + 200 Rough Energy Crystals
+
+
+
+
 
 
 ^008040[Modified Assassin Mask]^000000
@@ -159,6 +184,10 @@ Jobs: ^777777Assassin and Priest^000000
 1 Assassin Mask + 200 Rough Energy Crystals
 
 
+
+
+
+
 ^008040[Modified Welding Mask]^000000
 Description: Steel made mask. Focussing on utility only.
 Protects your face from any kind of fire impacts.
@@ -172,6 +201,10 @@ Required Level: ^77777750^000000
 Jobs: ^777777Merchant^000000
 ^ff0000[Materials requirement]^000000
 1 Welding Mask + 200 Rough Energy Crystals
+
+
+
+
 
 
 ^008040[Modified Safety Ring]^000000
@@ -188,10 +221,15 @@ Safety Ring, Ring[1], Glove[1], Earring[1], Brooch[1],
 Necklace[1], Rosary[1], 200 Rough Energy Crystals
 
 
+
+
+
+
+
 ^008040[Modified Angelic Protection]^000000
 Description: Angel's robe for Super Novices.
 Hugs you like it's only made for you!
-MDEF +30.",
+MDEF +30
 When equipped in combination with Modified
 Angelic Cardigan, Damage from neutral element -5%
 ^777777Angelic's item set bonus^000000
@@ -217,7 +255,7 @@ Contains sacred demon resistance power.
 Reduce 5% damage from Demon type monsters.
 Reduce 5% damage from all element attacks except Neutral type attacks.
 [+^008800Modified Angelic Protection^000000]
-All Stats +2",
+All Stats +2
 Class: ^777777Shield^000000
 Defense: ^77777730^000000
 Weight: ^77777740^000000
@@ -226,8 +264,6 @@ Jobs: ^777777Novice^000000
 Slot: ^7777771^000000
 ^ff0000[Materials requirement]^000000
 1 Angelic Guard, 100 Purified Energy Crystals OR 20 High Energy Crystals
-
-
 ^008040[Modified Angel's Reincarnation]^000000
 Description: Heavenly sandals worn by the Guardian Angel of Super Novices.
 MaxHP +500, MaxSP +100.
@@ -242,6 +278,9 @@ Slot: ^7777771^000000
 ^ff0000[Materials requirement]^000000
 1 Angel's Reincarnation, 100 Purified Energy Crystals OR
 20 High Energy Crystals
+
+
+
 
 
 ^008040[Modified Angel's Cardigan]^000000
@@ -261,6 +300,8 @@ Slot: ^7777771^000000
 High Energy Crystals
 
 
+
+
 ^008040[Modified Angel's Kiss]^000000
 Description: An accessory blessed by a Super Novice guardian angel.
 SP Recovery Rate +30%
@@ -275,6 +316,9 @@ Jobs: ^777777Novice^000000
 Slot: ^7777771^000000
 ^ff0000[Materials requirement]^000000
 1 Angel's Kiss, 100 Purified Energy Crystals OR 20 High Energy Crystals
+
+
+
 
 
 ^008040[Modified Corsair]^000000
@@ -295,6 +339,7 @@ Slot: ^7777771^000000
 1 Corsair, 300 High Energy Crystals
 
 
+
 ^008040[Modified Bone Helm]^000000
 Description: A heavy helm made of firm bone that has a solid defense rate.
 Increases received shadow property damage by 15%
@@ -306,10 +351,12 @@ Defense: ^77777715^000000
 Location: ^777777Upper^000000
 Weight: ^77777780^000000
 Required Level: ^77777770^000000
-Jobs: ^777777Swordman and Merchant^000000"
+Jobs: ^777777Swordman and Merchant^000000
 Slot: ^7777771^000000
 ^ff0000[Materials requirement]^000000
 1 Bone Helm[1], 300 High Energy Crystals
+
+
 
 
 ^008040[Modified Helm of Angel]^000000
@@ -328,6 +375,7 @@ Oboro and Rebellion^000000
 Slot: ^7777771^000000
 ^ff0000[Materials requirement]^000000
 1 Helm of Angel, 300 High Energy Crystal
+
 
 
 ^008040[Modified Hat of the Sun God]^000000
@@ -365,6 +413,9 @@ Slot: ^7777771^000000
 1 Variant Shoes, 300 High Energy Crystal
 
 
+
+
+
 ^008040[Modified Ring of Flame Lord]^000000
 Description: Fire Spirit king's power ring.
 Once worn, your weapon will spout its boiling spirit power.
@@ -378,9 +429,10 @@ Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^77777785^000000
-Jobs: ^7777772nd Job, Star Gladiator, Soul Linker, Kagerou/Oboro^000000"
+Jobs: ^7777772nd Job, Star Gladiator, Soul Linker, Kagerou/Oboro^000000
 ^ff0000[Materials requirement]^000000
 1 Ring of Flame Lord, 300 High Energy Crystal
+
 
 
 ^008040[Modified Ring of Resonance]^000000
