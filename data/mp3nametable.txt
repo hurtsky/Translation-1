@@ -981,3 +981,7 @@ pvp_2vs2.rsw#bgm\\02.mp3#
 pvp_room.rsw#bgm\\52.mp3#
 
 evt_coke.rsw#bgm\\08.mp3#
+
+// Nightmare Pyramid
+moc_prydn1.rsw#bgm\\22.mp3#
+moc_prydn2.rsw#bgm\\22.mp3#
