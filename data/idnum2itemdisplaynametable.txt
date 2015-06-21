@@ -11040,7 +11040,7 @@
 22039#Elemental_Boots#
 22040#New_Trend_Shoes#
 22041#New_Trend_Shoes#
-22042#Terraria#
+22042#Tararia#
 22043#AGI_Complement#
 22044#Reinforced_Parts_-_Booster#
 22045#Summer_Sandals#

@@ -85811,14 +85811,26 @@ Jobs: ^777777All^000000
 #
 20748#
 Manteau of legendary hero whose died in battle.
-When pure STR is 90 or more ATK +10. (Each refine increase ATK +2.)
-When pure INT is 90 or more MATK +20. (Each refine increase MATK +3.)
-When pure VIT is 90 or more increase resistance to ^777777Neutral^000000 Property attacks by 3%. (If refine is +8 additional resistance by 3%, if refine is +10 or more additional resistance by 4%.)
-When pure AGI is 90 or more increase attack speed (Attack after delay of 3% reduction). (Each 2 refine Attack after delay of 1% reduction.)
-(If refine is +10 or more add ASPD +1.)
-When pure DEX is 90 or more increase ranged damage by 3%. (Each 2 refine increase ranged damage by 1%.)
-When pure LUK is 90 or more increase critical damage by 5%. (Each refine increase critical damage by 1%.)
-AGI +5, Flee +10.
+[-^6A5ACD Base STR 90^000000 -]
+ATK +10
+Each refine increase ATK +2.
+[-^6A5ACD Base INT 90^000000 -]
+MATK +20
+Each refine increase MATK +3.
+[-^6A5ACD Base VIT 90^000000 -]
+Increase resistance against Neutral Property attacks by 3%.
+Refined to +8 additional resistance by 3%,
+Refined to +10 additional resistance by 4%.
+[-^6A5ACD Base AGI 90^000000 -]
+ASPD +3%
+Each 2 refine, ASPD +1%,
+Refined to +10, ASPD +1.
+[-^6A5ACD Base DEX 90^000000 -]
+Increase ranged damage by 3%.
+Each 2 refine increase ranged damage by 1%.
+[-^6A5ACD Base LUK 90^000000 -]
+Increase critical damage by 5%.
+Each refine increase critical damage by 1%.
 Class: ^777777Garment^000000
 Defense: ^77777720^000000
 Weight: ^77777760^000000
@@ -85828,14 +85840,26 @@ Jobs: ^777777All^000000
 20749#
 Manteau of legendary hero whose died in battle.
 Each 2 refines increase MaxHP and MaxSP by 1%.
-When pure STR is 90 or more ATK +10. (Each refine increase ATK +2.)
-When pure INT is 90 or more MATK +20. (Each refine increase MATK +3.)
-When pure VIT is 90 or more increase resistance to ^777777Neutral^000000 Property attacks by 3%. (If refine is +8 additional resistance by 3%, if refine is +10 or more additional resistance by 4%.)
-When pure AGI is 90 or more increase attack speed (Attack after delay of 3% reduction). (Each 2 refine Attack after delay of 1% reduction.)
-(If refine is +10 or more add ASPD +1.)
-When pure DEX is 90 or more increase ranged damage by 3%. (Each 2 refine increase ranged damage by 1%.)
-When pure LUK is 90 or more increase critical damage by 5%. (Each refine increase critical damage by 1%.)
-AGI +5, Flee +10.
+[-^6A5ACD Base STR 90^000000 -]
+ATK +10
+Each refine increase ATK +2.
+[-^6A5ACD Base INT 90^000000 -]
+MATK +20
+Each refine increase MATK +3.
+[-^6A5ACD Base VIT 90^000000 -]
+Increase resistance against Neutral Property attacks by 3%.
+Refined to +8 additional resistance by 3%,
+Refined to +10 additional resistance by 4%.
+[-^6A5ACD Base AGI 90^000000 -]
+ASPD +3%
+Each 2 refine, ASPD +1%,
+Refined to +10, ASPD +1.
+[-^6A5ACD Base DEX 90^000000 -]
+Increase ranged damage by 3%.
+Each 2 refine increase ranged damage by 1%.
+[-^6A5ACD Base LUK 90^000000 -]
+Increase critical damage by 5%.
+Each refine increase critical damage by 1%.
 Class: ^777777Garment^000000
 Defense: ^77777730^000000
 Weight: ^77777760^000000
