@@ -1563,7 +1563,7 @@
 2485#WoE_Shoes#
 2486#Shadow_Walker#
 2487#Vital_Tree_Shoes#
-2488#Freyja_Boots#
+2488#Fricco's_Shoes#
 2489#Vidar's_Boots#
 2490#Rune_Boots#
 2491#Bangungot_Boots_of_Nightmare#
@@ -9817,7 +9817,7 @@
 18677#Cherry_Twig_In_Mouth#
 18678#Leek_In_Mouth#
 18679#Abacus_In_Mouth#
-18680#Tw_Frog_Hat#
+18680#Frog_Hat#
 18681#Puppy_Ears_Hat#
 18682#Teardrop#
 18683#Carrot_In_Mouth#
@@ -10340,7 +10340,7 @@
 19689#Costume_Ati_Atihan#
 19690#Costume_Dark_Snake_Lord_Hat_J#
 19691#Costume_Blue_Ribbon#
-19692#Costume_Antique_Pipe_J#
+19692#Costume_Antique_Pipe#
 19693#Costume_Triple_Poring_Hat#
 19694#Costume_Vane_Hairpin#
 19695#Costume_Kettle_Hat#

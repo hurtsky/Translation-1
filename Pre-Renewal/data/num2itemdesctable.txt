@@ -1032,7 +1032,7 @@ shaped container with
 rice, and then pine						
 needles are used to						
 cover it. Restore						
-10% of Max HP.						
+10% of MaxHP.						
 ^ffffff_^000000						
 Weight: ^77777710^000000						
 #
@@ -3016,7 +3016,7 @@ Attack : 7777280^000000
 Weight: ^777777340^000000
 Weapon Level: ^7777773^000000
 Required Level: ^777777100^000000
-Jobs : ^777777Rune Knight^000000
+Jobs: ^777777Rune Knight^000000
 #
 1192#
 An unknown item requiring appraisal. It can be identified by using a magnifier.
@@ -3279,37 +3279,8 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 1285#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
-1287#
-A katar that is specially designed for high-speed attack.
-Class: ^777777Katar ^000000
-Attack : ^777777190^000000
-Weight: ^777777120^000000
-Weapon Level: ^7777773^000000
-Required Level: ^777777100^000000
-Jobs : ^777777Guillotine Cross^000000
-#
 1289#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-#
-1290#
-Increases Hit Success rate depending on Base Luck.
-Class: ^777777Katar ^000000
-Attack : ^777777170^000000
-Weight: ^777777120^000000
-Weapon Level: ^7777773^000000
-Required Level: ^777777100^000000
-Jobs : ^777777Guillotine Cross^000000
-#
-1291#
-Increases damage to Demihuman monsters by 50%
-Increases damage of Cross Impact by 30%
-Decreases Flee by 30%
-Class: ^777777Katar ^000000
-Attack : ^777777200^000000
-Weight: ^777777150^000000
-Weapon Level: ^7777774^000000
-Required Level: ^777777140^000000
-Jobs : ^777777Guillotine Cross^000000
 #
 1301#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -3452,30 +3423,6 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 1391#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
-1392#
-A large axe made by a blacksmith from the fires of a volcano.
-Adds Ignition status while attacking physically while risking being burned as well.
-Class: ^777777Axe^000000
-ATK: ^777777250^000000
-Weight: ^777777190^000000
-Weapon Level: ^7777774^000000
-Required Level: ^77777795^000000
-Jobs: ^777777Transcendent
-Swordman and
-Merchant Classes^000000
-#
-1393#
-An axe made of arctic ice.
-Has a chance of casting Cold slower on the target while physically attacking while risking being cast on yourself.
-Class: ^777777Axe^000000
-ATK: ^777777250^000000
-Weight: ^777777190^000000
-Weapon Level: ^7777774^000000
-Required Level: ^77777795^000000
-Jobs: ^777777Transcendent
-Swordman and
-Merchant Classes^000000
-#
 1401#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
@@ -3556,16 +3503,6 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 1434#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-#
-1435#
-Decreases MaxSP by 100
-Increases damage of Cannon Spear by 13% and increases with each refine level.
-Class: ^777777One-Handed Spear^000000
-Attack : ^777777180^000000
-Weight: ^777777160^000000
-Weapon Level: ^7777774^000000
-Required Level: ^777777100^000000
-Jobs : ^777777Royal Guard Only^000000
 #
 1451#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -3807,9 +3744,6 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 1548#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
-1549#
-An unknown item requiring appraisal. It can be identified by using a magnifier.
-#
 1550#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
@@ -3890,16 +3824,6 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 1583#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-#
-1584#
-Increases damage from Diamond Dust and Cold Bolt spells depending on refine level as well as increasing SP consumption.
-Matk + 160
-Class: ^777777One-Hand Staff^000000
-Attack : ^777777100^000000
-Weight: ^777777100^000000
-Weapon Level: ^7777774^000000
-Required Level: ^777777100^000000
-Jobs : ^777777Sorcerer Only^000000
 #
 1599#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -4036,17 +3960,6 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 1648#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
-1649#
-A staff which is crafted by a stone that is often used when Laphine Tribe put magic power into it. 
-Fixed Casting decreases by 1% for every upgrade level. (This effect does not stack with card's or other parts' decreasing effect.)
-Matk +180.
-Class: ^777777Staff^000000
-Attack: ^77777730^000000
-Weight: ^77777750^000000
-Weapon Level: ^7777773^000000
-Required Level: ^777777100^000000
-Jobs : ^777777Third Mage/Acolyte Class^000000
-#
 1650#
 An unknown item requiring appraisal. It can be identified by using a magnifier.
 #
@@ -4061,16 +3974,6 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 1658#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-#
-1659#
-A staff that increases the potency of Heal and Archbishop Healing skills while increasing SP consumption depending on refine level.
-Matk + 160
-Type : ^777777Staff^000000
-Attack : ^77777730^000000
-Weight: ^77777740^000000
-Weapon Level: ^7777774^000000
-Required Level: ^777777110^000000
-Job : ^777777"Archbishop^000000
 #
 1660#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -4200,16 +4103,6 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 1745#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-#
-1746#
-It's made after a bow of ancient forest watching tribe. 
-DEX +2.
-Class: ^777777Bow^000000
-Attack : ^777777160^000000
-Weight: ^777777150^000000
-Weapon Level: ^7777773^000000
-Required Level: ^777777100^000000
-Jobs : ^777777Ranger, Minstrel, and Wanderer^000000
 #
 1747#
 An unknown item requiring appraisal. It can be identified by using a magnifier.
@@ -4850,19 +4743,10 @@ Jobs: ^777777All^000000
 2138#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
-2139#
-An unknown item requiring appraisal. It can be identified by using a magnifier.
-#
-2140#
-An unknown item requiring appraisal. It can be identified by using a magnifier.
-#
 2146#
 An unknown item requiring appraisal. It can be identified by using a magnifier.
 #
 2147#
-An unknown item requiring appraisal. It can be identified by using a magnifier.
-#
-2148#
 An unknown item requiring appraisal. It can be identified by using a magnifier.
 #
 2153#
@@ -4872,12 +4756,6 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2168#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-#
-2169#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-#
-2170#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2199#
@@ -5643,12 +5521,6 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 2480#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
-2491#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-#
-2492#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-#
 2501#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
@@ -5812,11 +5684,7 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2573#
-대천사의 커다랗고 하얀 날개.
-계열 : ^777777걸칠것^000000  방어 : ^77777718^000000
-무게 : ^77777720^000000
-요구 레벨 : ^7777771^000000
-장착 : ^777777전직업 장착가능^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2574#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -5860,19 +5728,6 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2589#
-타락천사의 커다랗고 검은 날개.
-LUK +2.
-인간형 몬스터의 공격에 대한 내성 10% 증가.
-암속성 공격에 대한 내성 30% 증가, 성속성 공격에 대한 내성 30% 감소.
-Class: ^777777걸칠것^000000  Defense : ^77777718^000000
-Weight: ^77777720^000000
-Required Level: ^7777771^000000
-Jobs : ^777777전직업 장착가능^000000
-#
-2590#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-#
-2591#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2601#
@@ -6147,7 +6002,7 @@ Required Level: ^7777771^000000^FFFFFF         ^000000 Jobs: ^777777All Except N
 2692#
 ^000088Rental Item^000000
 An ancient glove.
-DEX + 4
+DEX +4
 This item cannot be Dropped or Traded.
 Item Class: ^777777Accessory^000000
 Defense: ^7777770^000000      Weight: ^7777770^000000
@@ -6191,7 +6046,7 @@ a Vesper. It has the
 mysterious power to
 clear its owner's
 mind. MDEF +3,
-INT +2, Max SP +5%
+INT +2, MaxSP +5%
 Item Class: ^777777Accessory^000000
 Defense: ^7777771^000000  
 #
@@ -6215,7 +6070,7 @@ seems to be part
 of a Vesper that
 can mysteriously
 empower its wearer
-with enhanced agility.^FFFFFF    ^000000 MDEF +3, AGI +3, Flee +5
+with enhanced agility. MDEF +3, AGI +3, Flee +5
 Item Class: ^777777Accessory^000000
 Defense: ^7777771^000000
 Weight: ^7777770^000000
@@ -6488,40 +6343,7 @@ Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777720^000000
 Required Level: ^77777799^000000
-Jobs : ^777777Priest/Monk^000000
-#
-2800#
-An unknown item requiring appraisal. It can be identified by using a magnifier.
-#
-2801#
-An unknown item requiring appraisal. It can be identified by using a magnifier.
-#
-2802#
-An unknown item requiring appraisal. It can be identified by using a magnifier.
-#
-2803#
-An unknown item requiring appraisal. It can be identified by using a magnifier.
-#
-2804#
-An unknown item requiring appraisal. It can be identified by using a magnifier.
-#
-2805#
-An unknown item requiring appraisal. It can be identified by using a magnifier.
-#
-2806#
-An unknown item requiring appraisal. It can be identified by using a magnifier.
-#
-2807#
-An unknown item requiring appraisal. It can be identified by using a magnifier.
-#
-2808#
-An unknown item requiring appraisal. It can be identified by using a magnifier.
-#
-2809#
-An unknown item requiring appraisal. It can be identified by using a magnifier.
-#
-2810#
-An unknown item requiring appraisal. It can be identified by using a magnifier.
+Jobs: ^777777Priest/Monk^000000
 #
 2819#
 A guidebook that enables one to experience basic Swordman skills.
@@ -6530,7 +6352,7 @@ Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
-Jobs : ^777777Novice Class^000000
+Jobs: ^777777Novice Class^000000
 #
 2820#
 A guidebook that enables one to experience basic Thief skills.
@@ -6539,7 +6361,7 @@ Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
-Jobs : ^777777Novice Class^000000
+Jobs: ^777777Novice Class^000000
 #
 2821#
 A guidebook that enables one to experience basic Acolyte skills.
@@ -6548,7 +6370,7 @@ Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
-Jobs : ^777777Novice Class^000000
+Jobs: ^777777Novice Class^000000
 #
 2822#
 A guidebook that enables one to experience basic Archer skills.
@@ -6557,7 +6379,7 @@ Class: ^777777Accessory^000000
 Def : ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
-Jobs : ^777777Novice Class^000000
+Jobs: ^777777Novice Class^000000
 #
 2823#
 A guidebook that enables one to experience basic Merchant skills.
@@ -6566,7 +6388,7 @@ Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
-Jobs : ^777777Novice Class^000000
+Jobs: ^777777Novice Class^000000
 #
 2824#
 A guidebook that enables to experience basic Mage skills.
@@ -6575,7 +6397,7 @@ Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
-Jobs : ^777777Novice Class^000000
+Jobs: ^777777Novice Class^000000
 #
 2825#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -6593,7 +6415,7 @@ Enables use of Level 1 Heal and Level 1 Teleport. Casting cannot be interrupted.
 All Stats +1. Increases casting time by 10%.
 Weapon Class : ^777777Accessory^000000
 Defense: ^7777770^000000      Weight : ^7777770^000000
-Jobs : ^777777All^000000
+Jobs: ^777777All^000000
 #
 2835#
 ^000088Rental Item^000000
@@ -6602,16 +6424,16 @@ Critical +10%
 Weapon Class : ^777777Accessory^000000
 Defense: ^7777770^000000      Weight : ^7777770^000000
 Required Level: ^7777771^000000
-Jobs : ^777777Except Novice^000000
+Jobs: ^777777Except Novice^000000
 #
 2836#
 ^000088Rental Item^000000
 An ancient glove.
-DEX + 4
+DEX +4
 Weapon Class : ^777777Accessory^000000
 Defense: ^7777770^000000      Weight : ^7777770^000000
 Required Level: ^7777771^000000
-Jobs : ^777777Except Novice^000000
+Jobs: ^777777Except Novice^000000
 #
 2837#
 ^000088Rental Item^000000
@@ -6620,25 +6442,25 @@ DEF + 5 , MDEF +5
 Weapon Class : ^777777Accessory^000000
 Defense: ^7777770^000000      Weight : ^7777770^000000
 Required Level: ^7777771^000000
-Jobs : ^777777Except Novice^000000
+Jobs: ^777777Except Novice^000000
 #
 2838#
 ^000088Rental Item^000000
 An ancient necklace.
-VIT + 4
+VIT +4
 Weapon Class : ^777777Accessory^000000
 Defense: ^7777770^000000      Weight : ^7777770^000000
 Required Level: ^7777771^000000
-Jobs : ^777777Except Novice^000000
+Jobs: ^777777Except Novice^000000
 #
 2839#
 ^000088Rental Item^000000
 An ancient ring.
-STR + 4
+STR +4
 Weapon Class : ^777777Accessory^000000
 Defense: ^7777770^000000      Weight : ^7777770^000000
 Required Level: ^7777771^000000
-Jobs : ^777777Except Novice^000000
+Jobs: ^777777Except Novice^000000
 #
 2840#
 ^000088Rental Item^000000
@@ -6647,7 +6469,7 @@ LUK +4, MDEF +5
 Weapon Class : ^777777Accessory^000000
 Defense: ^7777770^000000      Weight : ^7777770^000000
 Required Level: ^7777771^000000
-Jobs : ^777777Except Novice^000000
+Jobs: ^777777Except Novice^000000
 #
 2843#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -6701,15 +6523,6 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2891#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-#
-2907#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-#
-2910#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-#
-2911#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 3737#
@@ -11464,7 +11277,7 @@ Hit +5
 #
 4825#
 Attack +50
-Hit + 15
+HIT +15
 #
 4832#
 Ranged Attack +2%
@@ -11886,7 +11699,7 @@ Location: ^777777Middle^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Jobs : ^777777All^000000
+Jobs: ^777777All^000000
 #
 5105#
 An appetizing looking
@@ -12127,13 +11940,7 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 5188#
-Given as a reward to creative members of the community to say ‘thank you’ for their help in contributing to the game.
-Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^77777750^000000
-Jobs : ^777777All^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 5191#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -12166,7 +11973,7 @@ Class: ^777777Headgear^000000
 Defense: ^7777773^000000
 Location: ^777777Upper^000000
 Weight: ^77777710^000000
-Jobs : ^777777All^000000
+Jobs: ^777777All^000000
 ^777777_^000000
 Weight: ^7777771^000000
 #
@@ -12301,7 +12108,7 @@ Class: ^777777Headgear^000000
 Defense rate : ^7777772^000000
 Head Position : ^777777Upper^000000
 Weight: ^77777780^000000
-Jobs : ^777777All^000000
+Jobs: ^777777All^000000
 #
 5244#
 placeholder
@@ -12394,7 +12201,7 @@ Location: ^777777Upper^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Jobs : ^777777All^000000
+Jobs: ^777777All^000000
 #
 5268#
 ^000088Rental Item^000000
@@ -12437,7 +12244,7 @@ Increases a certain amount of ATK based on the wearer's Job Lvl.
 This item cannot be Dropped or Traded.
 Class: ^777777Headgear^000000    Def : ^7777775^000000
 Location: ^777777Upper^000000    Weight : ^77777780^000000
-Jobs : ^777777All^000000
+Jobs: ^777777All^000000
 #
 5283#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -12524,7 +12331,7 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 placeholder
 #
 5319#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 5320#
 placeholder
@@ -12961,7 +12768,7 @@ Defense: ^7777775^000000
 Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
-Jobs : ^777777All^000000
+Jobs: ^777777All^000000
 #
 5497#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -13038,18 +12845,7 @@ An unknown item requiring appraisal. It can be identified by using a magnifier.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 5521#
-The fearsome growl of the warrior, highly intimdating.  Part of the Eastern Costume Set, obtainable from the ^0000CCGoCash East West Costume Box^000000.
-East Costume Set :
-Costume Sakkat
-Costume Dark Blindfold,
-Costume Angry Mouth
-Untradable
-Class: ^777777Costume^000000
-Location: ^777777Lower^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs : ^777777All^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 5524#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -13123,7 +12919,7 @@ Defense: ^7777776^000000
 Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
-Jobs : ^777777All^000000
+Jobs: ^777777All^000000
 #
 5560#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -13319,7 +13115,7 @@ A hairband that gives one the appearance of having rabbit ears, a lasting symbol
 Reduces damage from Demihuman monsters by 10%, MDEF +5
 Weapon Class : ^777777Headgear^000000    Defense : ^7777779^000000
 Position : ^777777Upper^000000    Weight : ^7777770^000000
-Jobs : ^777777All^000000
+Jobs: ^777777All^000000
 #
 5648#
 ^000088Rental Item^000000
@@ -13327,16 +13123,16 @@ A small flower made of steel.
 Has a low chance to cast Lvl 1 Recovery when its wearer receives physical damage.
 Weapon Class : ^777777Headgear^000000    Defense : ^7777771^000000
 Position : ^777777Lower^000000    Weight : ^7777770^000000
-Jobs : ^777777Except Novice^000000
+Jobs: ^777777Except Novice^000000
 #
 5649#
 ^000088Rental Item^000000
 A headgear made in the honor of the legendary archer who shot an apple, on top of a friend's head, from a long distance.
-DEX + 4
+DEX +4
 Weapon Class : ^777777Headgear^000000    Defense : ^7777777^000000
 Position : ^777777Upper^000000    Weight : ^7777770^000000
 Required Level: ^7777771^000000
-Jobs : ^777777Except Novice^000000
+Jobs: ^777777Except Novice^000000
 #
 5650#
 ^000088Rental Item^000000
@@ -13345,7 +13141,7 @@ INT +1
 Weapon Class : ^777777Headgear^000000    Defense : ^7777772^000000
 Position : ^777777mid^000000    Weight : ^7777770^000000
 Required Level: ^7777771^000000
-Jobs : ^777777Except Novice^000000
+Jobs: ^777777Except Novice^000000
 #
 5651#
 ^000088Rental Item^000000
@@ -13354,15 +13150,15 @@ AGI +4
 Weapon Class : ^777777Accessory^000000
 Defense: ^7777770^000000      Weight : ^7777770^000000
 Required Level: ^7777771^000000
-Jobs : ^777777Except Novice^000000
+Jobs: ^777777Except Novice^000000
 #
 5652#
 ^000088Rental Item^000000
 A helmet that has been fashioned to give its wearer the appearance of having mighty goat horns. It's a helm that evokes power!
-STR + 1
+STR +1
 Weapon Class : ^777777Headgear^000000    Defense : ^7777775^000000
 Position : ^777777Upper^000000    Weight : ^7777770^000000
-Jobs : ^777777Except Novice^000000
+Jobs: ^777777Except Novice^000000
 #
 5653#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -13464,19 +13260,19 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 An imitation of the famous Magestic Goat. Though, it seems like it doesn't have any magical effects.
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
-Jobs : ^777777All Jobs^000000
+Jobs: ^777777All Jobs^000000
 #
 5684#
 A carefully imitated Jewel Crown replica that looks quite good.
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
-Jobs : ^777777All Jobs^000000
+Jobs: ^777777All Jobs^000000
 #
 5685#
 An well-made replica which can't be distinguished if one doesn't look at it carefully.
@@ -13484,26 +13280,26 @@ Class: ^777777Headgear^000000
 Defense: ^7777778^000000
 Location: ^777777Upper^000000
 Weight: ^77777740^000000
-Jobs : ^777777Swordman Class/Merchant Class/Thief^000000
+Jobs: ^777777Swordman Class/Merchant Class/Thief^000000
 #
 5686#
 An S-grade replica which is copied in detail down to the wrinkles.
 It even feels like the real thing.
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Leve : ^7777771^000000
-Jobs : ^777777All Jobs^000000
+Jobs: ^777777All Jobs^000000
 #
 5687#
 A helm of an Orc that copies it's primitive feelings.
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
-Jobs : ^777777All Jobs^000000
+Jobs: ^777777All Jobs^000000
 #
 5690#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -13529,160 +13325,8 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 5745#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
-5746#
-A circlet designed for a Rune Knight. It has Rune magical power in it.
-STR +1, INT +1, MDEF +5.
-When pure Str is 120, Atk +10, Matk +5.
-Class: ^777777Headgear^000000
-Defense: ^77777712^000000
-Location: ^777777Upper ^000000
-Weight: ^77777710^000000
-Required Level: ^777777100^000000
-Jobs : ^777777Rune Knight^000000
-#
-5747#
-A hat which is used for ceremonies by bishops.
-INT +1, Vit +1, MDEF +5.
-Increase 5% of self-using heal effect.
-When pure Int is 120, Matk +10.
-Class: ^777777Headgear^000000
-Defense: ^77777712^000000
-Location: ^777777Upper ^000000
-Weight: ^77777710^000000
-Required Level: ^777777100^000000
-Jobs : ^777777Arch Bishop^000000
-#
-5748#
-A specially designed goggle for snipers.
-DEX +1, AGI +1, MDEF +5.
-When pure Agi is 120, long range physical attack +4%, Aspd +1.
-Class: ^777777Headgear^000000
-Defense: ^77777712^000000
-Location: ^777777Upper, Middle^000000
-Weight: ^77777710^0000
-Required Level: ^777777100^000000
-Jobs : ^777777Ranger^000000
-#
-5749#
-A special hairband which is designed to use the most frequently used tools. 
-STR +1, DEX +1, MDEF +5.
-When pure Str is 120, Atk +10, Cri +3.
-Class: ^777777Headgear^000000
-Defense: ^77777712^000000
-Location: ^777777Upper ^000000
-Weight :: ^77777710^000000
-Required Level: ^777777100^000000
-Jobs : ^777777Mechanic^000000
-#
-5750#
-A mini crown which is made at Shadow Artworks. Masterpiece of the designer Doomk.
-INT +1, AGI +1, MDEF +1.
-When pure Agi is 120, Atk +10, Flee +3.
-Class: ^777777Headgear^000000
-Defense: ^77777712^000000
-Location: ^777777Upper ^000000
-Weight: ^77777710^000000
-Required Level: ^777777100^000000
-Jobs : ^777777Shadow Chaser^000000
-#
-5751#
-A hat of a famous minstrel. Fancy and plentiful black feathers adorn this hat.
-INT +1, LUK +1, MDEF +5.
-Increases long range physical attack power by 5%
-rushed toward windmill, decrease sp by 10.
-Class: ^777777Headgear^000000
-Defense: ^77777712^000000
-위치: ^777777상단 ^000000
-Weight: ^77777710^000000
-Required Level: ^777777100^000000
-Jobs : ^777777Minstrel^000000
-#
-5752#
-Free gift of a famous Geneticist Bob Rose's book. Midas mark looks cute.
-STR +1, DEX +1, MDEF +5.
-When pure Str is 120, Atk +5, Aspd +1.
-Class: ^777777Headgear^000000
-Defense: ^77777712^000000
-Location: ^777777Upper ^000000
-Weight: ^77777710^000000
-Required Level: ^777777100^000000
-Jobs : ^777777Geneticist^000000
-#
-5753#
-A hat which is decorated with minerals from an unknown world. It has magical power in it.
-INT +1, DEX +1, MDEF +5.
-When pure Dex is 120, Matk +10, reduces floating casting time 2%.
-Class: ^777777Headgear^000000
-Defense: ^77777710^000000
-Required Level: ^777777100^000000
-Jobs : ^777777Warlock^000000
-#
-5754#
-A hat made for those who decide to become a Sura. It expresses a burning spirit.
-STR +1, Vit +1, MDEF +5.
-When pure Str is 120, Atk +10, Hit +3.
-Class: ^777777Headgear^000000
-Defense: ^77777712^000000
-Location: ^777777Upper^000000
-Weight: ^77777710^000000
-Required Level: ^777777100^000000
-Jobs : ^777777Sura^000000
-#
-5755#
-A mask which is designed for Guillotine Cross' costume.
-AGI +1, MDEF +5.
-When pure Agi is 120, Atk +10, Dodge +5.
-Class: ^777777Headgear^000000
-Defense: ^7777776^000000
-Location: ^777777Lower^000000
-Weight: ^77777710^000000
-Required Level: ^777777100^000000
-Jobs : ^777777Guillotine Cross^000000
-#
-5756#
-A hat for a ritual ceremony which is made from a spiritual feather.
-INT +1, DEX +1, MDEF +5.
-When pure Int is 120, Matk +10, Flee +3.
-Class: ^777777Headgear^000000
-Defense: ^77777712^000000
-Location: ^777777Upper^000000
-Weight: ^77777710^000000
-Required Level: ^777777100^000000
-Jobs : ^777777Royal Guard^000000
-#
-5757#
-A headgear which is focused on defense. It covers almost all of the face.
-INT +1, Vit +2, MDEF +5.
-When pure Int is 120, Matk +10, Def +5.
-Class: ^777777Headgear^000000
-Defense: ^77777717^000000
-Location: ^777777Upper-Mid^000000
-#
-5758#
-A beautiful head ornament of a ballerina.
-INT +1, LUK +1, MDEF +5.
-Increases long range physical attack power by 5%.
-Swing dance, for the consumed SP for the symphony decreased by 10.
-Class: ^777777Headgear^000000
-Defense: ^77777712^000000
-Location: ^777777상단 ^000000
-Weight: ^77777710^000000
-Required Level: ^777777100^000000
-Jobs : ^777777Wanderer^000000
-#
 5759#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-#
-5760#
-A special hairband which is designed to use the most frequently used tools. 
-STR +1, DEX +1, MDEF +5.
-When pure Str is 120, Atk +10, Cri +3.
-Class: ^777777Headgear^000000
-Defense: ^77777712^000000
-Location: ^777777Upper^000000
-Weight: ^77777710^000000
-Required Level: ^777777100^000000
-Jobs : ^777777Mechanic^000000
 #
 5764#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -13723,7 +13367,7 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 5788#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 5789#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -14172,31 +13816,6 @@ Green Maidens have been seen munching on this tasty treat.
 Class: ^777777Pet Food^000000
 Weight: ^7777771^000000
 #
-6120#
-A paint that is safe for skin. It's used for body painting. 
-^ffffff_^000000
-Weight: ^7777772^000000
-#
-6121#
-A brush that can draw little and delicate pictures. Exclusively for body painting.
-^ffffff_^000000
-Weight: ^7777770^000000
-#
-6122#
-A brush which is wide and has a long hand grip. Exclusively for ground graffiti.
-^ffffff_^000000
-Weight: ^7777770^000000
-#
-6123#
-A paint with a vivid and intense color. Exclusively for ground graffiti.
-^ffffff_^000000
-Weight: ^7777773^000000
-#
-6124#
-A very tiny flute. It sounds like a wolf tamed by a ranger. 
-^ffffff_^000000
-Weight: ^7777770^000000
-#
 6125#
 A Lucky Box, Please hold onto this box until the next Lucky Box event.
 ^ffffff_^000000
@@ -14211,31 +13830,6 @@ Aldebaran 124 114
 Juno 179 187
 Weight: ^7777771^000000
 ^FF0000This item can only be opened until Feb. 10, 2009^000000
-#
-6128#
-An antidote for Guillotine Cross only.
-^ffffff_^000000
-Weight: ^7777770^000000
-#
-6144#
-A heartbreaking tear for others. Sometimes a miracle happens by this tear. 
-^ffffff_^000000
-Weight: ^7777770.2^000000
-#
-6145#
-A bullet which is used for skills.
-^ffffff_^000000
-Weight: ^7777770.2^000000
-#
-6146#
-A fuel that is used for a large number of Magic Gear skills. Strong skills consumes more fuel.
-^ffffff_^000000
-Weight: ^7777773^000000
-#
-6147#
-A bullet which effuses cold air.
-^ffffff_^000000
-Weight: ^7777770.3^000000
 #
 6150#
 A key with a magnificent pattern. The pattern which symbolizes Arunafeltz and Goddess Freya is distinctive.
@@ -14266,10 +13860,6 @@ A ticket for the celebration of Ragnarok's 9th Anniversary
 #
 6158#
 #
-6186#
-A consumable item used for destroying a fixed installed fort. 
-Weight: ^7777771^000000
-#
 6187#
 Only special pens can write on it.
 #
@@ -14283,143 +13873,6 @@ This old advertisement is from many years ago, but it does promise the best of s
 The map on the 2nd page of the flyer looks like the shop would be north of the grain mill in Payon.
 ^ffffff_^000000
 Weight: ^7777771^000000
-#
-6189#
-An essential magic book for the Warlock Skill Read Spell Book. 
-Magic Power can be drawn out by reading a word written in this book. 
-It's written about Fire Property magic, the Fire Volt by a magical language. 
-Weight: ^7777770^000000
-#
-6190#
-An essential magic book for the Warlock Skill Read Spell Book.
-Magic Power can be drawn out by reading a word written in this book. 
-It's written about Water Property magic, Cold Bolt.
-Weight: ^7777770^000000
-#
-6191#
-An essential magic book for the Warlock Skill Reading Spell Book.
-Magic Power can be drawn out by reading a word written in this book. 
-It's written about Wind Property magic, Lightening Bolt.
-Weight: ^7777770^000000
-#
-6192#
-An essential magic book for the Warlock Skill Read Spell Book.
-Magic Power can be drawn out by reading a word written in this book. 
-It's written about Water Property magic, Storm Gust.
-Weight: ^7777770^000000
-#
-6193#
-An essential magic book for the Warlock Skill Read Spell Book.
-Magic Power can be drawn out by reading a word written in this book. 
-It's written about Wind property great magic, Lord of Vermilion.
-Weight: ^7777770^000000
-#
-6194#
-An essential magic book for the Warlock Skill Read Spell Book.
-Magic Power can be drawn out by reading a word written in this book. 
-It's written about Fire property magic, Meteor Storm.
-Weight: ^7777770^000000
-#
-6195#
-An essential magic book for the Warlock Skill Read Spell Book.
-Magic Power can be drawn out by reading a word written in this book. 
-It's written about Fire property magic, Comet.
-Weight: ^7777770^000000
-#
-6196#
-An essential magic book for the Warlock Skill Reading Spell Book.
-Magic Power can be drawn out by reading a word written in this book. 
-It's written about Four property magic, Tetra Boltex.
-Weight: ^7777770^000000
-#
-6197#
-An essential magic book for the Warlock Skill Reading Spell Book.
-Magic Power can be drawn out by reading a word written in this book. 
-It's written about Wind Property magic, Thunder Storm.
-Weight: ^7777770^000000
-#
-6198#
-An essential magic book for the Warlock Skill Reading Spell Book.
-Magic Power can be drawn out by reading a word written in this book. 
-It's written about Wind Property magic, Jupitel Thunder.
-Weight: ^7777770^000000
-#
-6199#
-An essential magic book for the Warlock Skill Reading Spell Book.
-Magic Power can be drawn out by reading a word written in this book. 
-It's written about Water Property magic, Water Ball.
-Weight: ^7777770^000000
-#
-6200#
-An essential magic book for the Warlock Skill Reading Spell Book.
-Magic Power can be drawn out by reading a word written in this book. 
-It's written about Earth Property magic, Heaven's Drive.
-Weight: ^7777770^000000
-#
-6201#
-An essential magic book for the Warlock Skill Reading Spell Book.
-Magic Power can be drawn out by reading a word written in this book. 
-It's written about Earth Property magic, the Earth Spike by a magical language.
-Weight: ^7777770^000000
-#
-6202#
-An essential magic book for the Warlock Skill Reading Spell Book.
-Magic Power can be drawn out by reading a word written in this book. 
-It's written about Earth Property magic, Earth Strain.
-Weight: ^7777770^000000
-#
-6203#
-An essential magic book for the Warlock Skill Reading Spell Book.
-Magic Power can be drawn out by reading a word written in this book. 
-It's written about Wind Property magic, Chain Lightening.
-Weight: ^7777770^000000
-#
-6204#
-An essential magic book for the Warlock Skill Reading Spell Book.
-Magic Power can be drawn out by reading a word written in this book. 
-It's written about Fire Property magic, Crimson Rock.
-Weight: ^7777770^000000
-#
-6205#
-An essential magic book for the Warlock Skill Reading Spell Book.
-Magic Power can be drawn out by reading a word written in this book. 
-It's written about Neutral Property magic, Drain Life.
-Weight: ^7777770^000000
-#
-6210#
-Be careful of the sharp thorns that surround this.
-It is used for Geneticist Skill, 'Thorn Trap', 'Thorn Wall' and 'Crazy weed'.
-Weight: ^7777770.1^000000
-#
-6211#
-An unpleasant seed that is used for reddish fruits, it looks as if blood is inside of it.
-It's used for Geneticist Skill, 'Blood  Sucker'.
-Weight: ^7777770.1^000000
-#
-6212#
-A purplish spore. When it's touched a purple dust curls up that you need to be careful of.
-It's consumed for Geneticist Skill, 'Spore Explosion'.
-Weight: ^7777770.1^000000
-#
-6213#
-A black powder that explodes when heated. It's more explosive than gunpowder.
-Weight: ^7777770.1^000000
-#
-6214#
-A snow-white powder. It's so light that it  stays in the air for a long time. Do not breathe it in or it can be fatal.
-Weight: ^7777770.1^000000
-#
-6215#
-Gas that stimulates the eyes and nose. When exposed to this gas, do not rub your eyes. Cleanse with clear water immediately if you that happens.
-Weight: ^7777770.1^000000
-#
-6216#
-A bottle filled with inedible oil.
-Weight: ^7777770.1^000000
-#
-6217#
-A Mandragora flowerpot used for an experiment. Fragile. Never pull out recklessly.
-Weight: ^7777770.1^000000
 #
 6218#
 A delivery box from Dieshin Man in Morroc Ruins.
@@ -14742,10 +14195,6 @@ Weight: ^7777771^000000
 If you give this coupon to the NPC, she will dye your costume.
 ^ffffff_^000000
 Weight: ^7777770^000000
-#
-6297#
-A special bottle which is designed for throwing. Caution! It's fragile.
-Weight: ^7777771^000000
 #
 6298#
 A crushed pumpkin. It must have been dropped and stepped on by someone.
@@ -15823,7 +15272,7 @@ An empty pot that carried honey once upon a time, but contains sweet goodness no
 Weight: ^7777771^000000
 #
 7122#
-Tussled red hair that^FFFFFF    ^000000 looks like it's on fire.
+Tussled red hair that looks like it's on fire.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -18247,7 +17696,7 @@ Weight: ^7777771^000000
 7482#
 A round, fairly deep
 cooking vessel covered
-by a lid with a handle. ^FFFFFF    ^000000
+by a lid with a handle. 
 Weight: ^7777771^000000
 #
 7483#
@@ -18344,7 +17793,7 @@ metallic fragment.
 #
 7498#
 A keyring that has
-many of the keys used^FFFFFF    ^000000 for the Rosimier Mansion.
+many of the keys used for the Rosimier Mansion.
 ^ffffff_^000000
 #
 7499#
@@ -19537,56 +18986,6 @@ A tribute to luck and fortune throughout the year.
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
-7931#
-Basic tools for poison making are all stocked. It's a gift set for those who dream of making poison.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-7932#
-Fragile. You'll get into trouble when attracted by a red beautiful flower and fragrance.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-7933#
-Fragile. The red berry ripened but the fragrance seems like it's of a domestic animal.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-7934#
-Fragile. It's not green tea even if it uses the very end of a young leaf. 
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-7935#
-Fragile. It does not have any scent unlike a beautiful figure.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-7936#
-Fragile. The purplish, small, and cute flower seems charming but when you touch, it's very itchy. 
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-7937#
-Fragile. It seems like a weed that grows anywhere but it looks dangerous. 
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-7938#
-A golden crystal. It seems very warm as if sunshine has been put into it.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-7939#
-A little branch that is extracted from an old tree grow in a sacred place.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-7940#
-A trap that is reformed for hunters whose weights were a burden.
-^ffffff_^000000
-Weight: ^7777770.2^000000
-#
 7941#
 The mark of a foolish deed, like getting tagged by a zombie.
 ^ffffff_^000000
@@ -20058,7 +19457,7 @@ in Arunafeltz, the
 country that worships
 the goddess Freya.
 This story used to be
-of mouth, but has been^FFFFFF    ^000000 religiously embellished
+of mouth, but has been religiously embellished
 in printed form.
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -20069,7 +19468,7 @@ in Arunafeltz, the
 country that worships
 the goddess Freya.
 This story used to be
-of mouth, but has been^FFFFFF    ^000000 religiously embellished
+of mouth, but has been religiously embellished
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -20193,11 +19592,6 @@ Weight: ^77777710^000000
 A plant that brings up your spirit.
 Recovers 150 SP when consumed.
 Weight: ^7777773^000000
-#
-11513#
-A fresh candy for sore throats.
-A very small amount of HP recovery. 
-Weight: ^7777770.1^000000
 #
 11514#
 It has the same effect with a white slim potion. [Not to be sold.]
@@ -20441,7 +19835,7 @@ Weight: ^77777720^000000
 12027#
 Restores an amount
 of HP equal to 9% of
-the user's Max HP, but
+the user's MaxHP, but
 each use has a 30%
 chance of inflicting the Curse status on the
 user for 30 seconds.
@@ -20489,7 +19883,7 @@ Weight: ^77777720^000000
 12034#
 Restores an amount
 of SP equal to 9% of
-the user's Max SP, but
+the user's MaxSP, but
 each use has a 30% 
 chance of inflicting
 the Mute effect on the
@@ -20632,7 +20026,7 @@ Weight: ^77777740^000000
 A simple dish made
 from steamed crab
 nippers and herbs.
-VIT + 1
+VIT +1
 
 Weight: ^77777710^000000
 #
@@ -21042,7 +20436,7 @@ the aftertaste is pretty gross. LUK +9
 Weight: ^777777100^000000
 #
 12100#
-A rare specialty dish^FFFFFF    ^000000 from Payon that bestows
+A rare specialty dish from Payon that bestows
 luck on those fortunate enough to eat it. LUK +10
 
 Weight: ^77777750^000000
@@ -21103,7 +20497,7 @@ Weight: ^77777720^000000
 #
 12109#
 				
-A wrapped box stamped^FFFFFF    ^000000 with the Poring seal. You				
+A wrapped box stamped with the Poring seal. You				
 can faintly hear rustling coming from inside of it.				
 				
 Weight: ^77777720^000000				
@@ -21311,7 +20705,7 @@ and regrettably hazy
 memories of the night
 before when drank in
 excess. Recovers 50%
-of Max HP and SP, but
+of MaxHP and SP, but
 has a 10% chance of
 casting the Chaos
 effect on its user.
@@ -21987,7 +21381,7 @@ Weight: ^7777777^000000
 #
 12272#
 Improved Snack B, which is convenient for a busy life. Don't be so sure about the taste.
-^000088HIT + 33 for 10 minutes.^000000
+^000088HIT +33 for 10 minutes.^000000
 ^ffffff_^000000
 Weight: ^7777777^000000
 #
@@ -22155,21 +21549,11 @@ Summon supporting Female Game Master to Fight at your side for 30 minutes.
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
-12333#
-A crystal that is shining with mysterious color. When used, you recover 15% of MaxSP.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
 12340#
 Rice powder that shines mysteriously. It can make the rice cake dough harder.
 Furthermore, you can tame a monster 'Hot Rice Cake' by using this item.
 ^ffffff_^000000
 Weight: ^7777771^000000
-#
-12341#
-A box that is filled with one hundred reformed traps. 
-^ffffff_^000000
-Weight: ^77777710^000000
 #
 12342#
 Supplement made by the Manuk Research Center. It is officially recommended to the Mine Workers.
@@ -22316,11 +21700,6 @@ For 20 minutes ATK, MATK + 3%, All property resistance 3%.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-12380#
-A flute that emits high frequency sounds only to a wolf. A disposable.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
 12381#
 A scroll written with an unknown language.
 ^ffffff_^000000
@@ -22331,54 +21710,9 @@ A scroll written with an unknown language.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-12383#
-A magazine with a thousand Vulcan Bullets. It's portable. 
-^ffffff_^000000
-Weight: ^77777750^000000
-#
-12384#
-A strong magic energy is whirling about in a rainbow color. 
-Weight: ^7777775^000000
-#
-12385#
-A strong magic energy is whirling about in a rainbow color. 
-Weight: ^7777775^000000
-#
-12386#
-A strong magic energy is whirling about in a rainbow color. 
-Weight: ^7777775^000000
-#
-12387#
-A strong magic energy is whirling about in a rainbow color. 
-Weight: ^7777775^000000
-#
-12388#
-A rune stone for probationary Rune Knights.
-Weight: ^7777771^000000
-#
-12389#
-A rune stone for probationary Rune Knights.
-Weight: ^7777771^000000
-#
-12390#
-A rune stone for probationary Rune Knights.
-Weight: ^7777771^000000
-#
 12391#
 A very cute egg scroll. It feels so fancy that makes you expect something from it.
 Weight: ^7777771^000000
-#
-12392#
-Restores a certain amount of HP to Magic Gear.
-Weight :: ^77777710^000000
-#
-12393#
-Restores a proper amount of HP to Magic Gear.
-Weight :: ^77777714^000000
-#
-12394#
-Restores HP to Magic Gear.
-Weight :: ^77777718^000000
 #
 12395#
 A bowl of Tantan Noodles that Green Maidens find hard to resist.
@@ -22513,20 +21847,6 @@ LUK +20.
 Duration : 30 min.
 Weight: ^7777775^000000
 #
-12435#
-A black scary thing that smells burnt. It looks like a failure of something, so it couldn't preserve it's original shape.
-Decrease All Status 5 to 10.
-Duration : 30 min.
-Weight: ^7777775^000000
-#
-12436#
-Recovers SP, natural SP natural speed increased by 20% and MaxSP increased by 5%. Duration : 500 sec.
-Weight: ^7777775^000000
-#
-12437#
-Increase attack speed a little. Duration : 500 sec.
-Weight: ^7777775^000000
-#
 12438#
 An enchanted, giant wing from an ancient creatures.
 Enables instant teleportation of many people when used by a Party Master.
@@ -22571,7 +21891,7 @@ Weight: ^7777771^000000
 #
 12445#
 The epitome of Louyang cuisine. It's ingredients may be hard to find, but culinarily speaking, it's a masterpiece.
-STR + 10. 30 minute duration.
+STR +10. 30 minute duration.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -22589,7 +21909,7 @@ Weight: ^7777771^000000
 #
 12448#
 This beverage is named after the legendary spring that is believed to be the source of the world's rivers, and is famous for its pure amazing taste.
-DEX + 10. 30 minute duration.
+DEX +10. 30 minute duration.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -22601,7 +21921,7 @@ Weight: ^7777771^000000
 #
 12450#
 A funkly smelling, suspicious looking stew that really does make you feel like an immortal when you eat it.
-VIT + 10. 30 minute duration.
+VIT +10. 30 minute duration.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -22682,7 +22002,7 @@ Weight: ^7777771^000000
 #
 12459#
 A sizeable bottle of Yggdrasil Tree Sap that is effective in healing wounds.
-Restores an amount of HP equal of 7% of your Max HP every 4 seconds for a 10 minute duration.
+Restores an amount of HP equal of 7% of your MaxHP every 4 seconds for a 10 minute duration.
 The effect is not active at the state of berserk.
 When a character is incapable of combat, the effect of item disappears.
 ^ffffff_^000000
@@ -22690,7 +22010,7 @@ Weight: ^7777771^000000
 #
 12460#
 A sizeable bottle of Yggdrasil Tree Sap that is effective in healing wounds.
-Restores an amount of HP equal of 5% of your Max HP every 5 seconds for a 10 minute duration.
+Restores an amount of HP equal of 5% of your MaxHP every 5 seconds for a 10 minute duration.
 The effect is not active at the state of berserk.
 When a character is incapable of combat, the effect of item disappears.
 ^ffffff_^000000
@@ -22782,11 +22102,6 @@ When a character is incapable of combat, the effect of item disappears.
 Weight: ^7777771^000000
 #
 12473#
-#
-12475#
-Recovers several kinds of abnormal statuses. Recovers small amount of HP.
-(Silence, Bleeding, Poison, Curse, Reverse Orcish, Change Undead)
-Weight: ^7777775^000000
 #
 12490#
 A parchment that plays random christmas music when used.
@@ -23054,152 +22369,6 @@ Let's see whats inside.
 ^ffffff_^000000					
 Weight: ^7777770^000000					
 #
-12717#
-A poison that paralyzes senses.
-It continues for 300 seconds and decreases Attack speed(After attack delay increases for 10%), - 10% Dodge, movement speed cuts in half. 
-^ffffff_^000000
-Weight: ^7777772^000000
-#
-12718#
-A poison which has the same properties of a leech.
-It consumes some HP for 300 seconds.
-^ffffff_^000000
-Weight: ^7777772^000000
-#
-12719#
-An ash powder that causes the Oblivion state.
-Oblivion lasts for 300 seconds. If under Oblivion state, SP doesn't recover naturally and cannot be canceled by Lex Divine or Green Potion.
-You cannot use skills while caught by Oblivion ashes. 
-^ffffff_^000000
-Weight: ^7777772^000000
-#
-12720#
-A poison that pollutes a wound. 
-When a target is caught by this poison for 300 seconds, recovery skills decrease in effect by 20%.
-The poison is extra potent if also inflicted by fatal wound.
-^ffffff_^000000
-Weight: ^7777772^000000
-#
-12721#
-A poison that numbs nerves.
-It continues for 300 seconds, and generates damage every 3 seconds. This ignores the weapons or card options which don't disconnect spell. 
-^ffffff_^000000
-Weight: ^7777772^000000
-#
-12722#
-A poison that causes a feverish state.
-For 300 seconds, it spells darkness that can't be removed and causes hallucination. Gets 100 damages for one second, and while getting damages if casting was ongoing, the casting also can be cancelled. 
-^ffffff_^000000
-Weight: ^7777772^000000
-#
-12723#
-A poison that has the effect of a laughing mushroom.
-For 300 seconds, one loses 3% of HP for every 4 seconds and casts random skills.
-^ffffff_^000000
-Weight: ^7777772^000000
-#
-12724#
-A poison that reduces physical strength. 
-MaxHP decreases by 15% for 15 seconds.
-^ffffff_^000000
-Weight: ^7777772^000000
-#
-12725#
-Removes all abnormal states and debuffs and prevents any abnormal state or debuff effects for 30 seconds.
-Also you get +25% of recovery and it can be used while stunned, frozen,  and deep sleep.
-5 minutes of waiting time to reuse. 
-Maximum carrying amount :10
-^ffffff_^000000
-Weight: ^77777710^000000
-#
-12726#
-It destroys your all equipped weapons, but instead it draws out all power from those weapons and strikes a strong blow to enemies. 
-1 minute of waiting time to reuse.  Maximum carrying amount :10
-^ffffff_^000000
-Weight: ^77777710^000000
-#
-12727#
-When operating, randomly summons 2~4 magic shields. 
-This shield follows operator's Def and Mdef and gets 1000 of HP each. 
-Millennium shield has a special Def ability that even one gets a huge damage, one can defend as much as the amount of millennium shields that came out.
-Waiting time for reuse: 1 minute and 30 seconds. Maximum carrying amount :10
-^ffffff_^000000
-Weight: ^77777710^000000
-#
-12728#
-Maximizes a user's cell activation for one minute that HP recovery potion effect increases one and half times.
-But, in the opposite, it generates instability of mind that SP does not naturally recover while activating and the effect of SP recovery potion decreases to a half. 
-Waiting time for reuse: None. Maximum carrying amount :2.
-^ffffff_^000000
-Weight: ^77777710^000000
-#
-12729#
-Stimulates a fighting spirit that it increases Atk of the user and members of a party that the user belongs to.
-The operator gets 7 times increase of Atk as much as the number of the party, and the members of the party get a quarter increase of Atk the operator received.
-Also, the player gets a little increased Attack Strength effect. This effect is better when Rune Mastery level is higher. 
-Waiting time for reuse: None. Maximum carrying amount: 20.
-^ffffff_^000000
-Weight: ^77777710^000000
-#
-12730#
-It fills with magic in spirit by using the Runstone's powerful magical strength.
-It recovers user's SP for 60 for every 10 seconds during 3 minutes. 
-Waiting time for reuse: None. Maximum carrying amount :5
-^ffffff_^000000
-Weight: ^77777710^000000
-#
-12731#
-It heightens a user's power and attack strength tremendously by a Giant's power which was put into the rune stone.
-A user's Str is increased by 30 for 4 minutes. For normally near physical attacking and not a skill, a player can hit an enemy by fixed probability with 3 times of damages.
-Power adjustment is difficult that while attacking, the player's weapon can be destroyed with minimal probability. 
-Waiting time for reuse: None.  Maximum carrying amount: 10
-^ffffff_^000000
-Weight: ^77777710^000000
-#
-12732#
-Momentarily discharge a destructible power from a Rune Stone. Generates a powerful shockwave around yourself. 
-Generates a 7 x 7 shockwave around a player and damages all targets and causes knockback effect.
-Waiting time for reuse: None.
-After the skill usage, there's a 1 second delay.
-Maximum carrying amount: 10
-^ffffff_^000000
-Weight: ^77777710^000000
-#
-12733#
-It changes your skin into a solid shell like a Rune Stone for 3 minutes. Has a chance of destroying weapons of attacking enemies.
-When operating, it's invoked by using 25% of your HP and this skin possesses the same amount of HP.
-It disappears when all the HP is consumed.
-For monsters, it decreases 25% of Atk for 10 seconds at a fixed rate.
-This skill cannot be used for a boss monster.
-No waiting time for reuse. Maximum carrying amount: 10
-^ffffff_^000000
-Weight: ^77777710^000000
-#
-12734#
-A rune stone with luxurious color. 
-^ffffff_^000000
-Weight: ^77777710^000000
-#
-12735#
-A rune stone that seems to have been made in ancient times.
-^ffffff_^000000
-Weight: ^77777710^000000
-#
-12736#
-A rune stone with mysterious color. 
-^ffffff_^000000
-Weight: ^77777710^000000
-#
-12737#
-A rune stone that is used regularly.
-^ffffff_^000000
-Weight: ^77777710^000000
-#
-12738#
-A rune stone that is very rare.
-^ffffff_^000000
-Weight: ^77777710^000000
-#
 12739#
 A rare Flower Grown of Snow, be careful or it will melt.
 ^ffffff_^000000
@@ -23463,7 +22632,7 @@ Weight: ^7777771^000000
 #
 12922#
 A box containing
-10 Tokens of Ziegfried.^FFFFFF    ^000000 ^ffffff_^000000
+10 Tokens of Ziegfried. ^ffffff_^000000
 Token of Ziegfried -
 Revives dead character
 when used.
@@ -23603,7 +22772,7 @@ damage inflicted by
 Devil monsters by 10%.
 Restores 3 SP when
 hitting a monster.
-Max SP +10%.
+MaxSP +10%.
 This item cannot be Dropped or Traded.
 Weapon Class: ^777777Dagger^000000
 Attack: ^777777129^000000
@@ -23869,7 +23038,7 @@ A box that contains:
 ^6A5ACD1 Glove^000000
 Duration: 7 Days after opening
 An ancient glove.
-DEX + 4
+DEX +4
 This item cannot be Dropped or Traded.
 Item Class: ^777777Accessory^000000
 Defense: ^7777770^000000      Weight: ^7777771^000000
@@ -24217,7 +23386,7 @@ damage inflicted by
 Devil monsters by 10%.
 Restores 3 SP when
 hitting a monster.
-Max SP +10%.
+MaxSP +10%.
 Weapon Class: ^777777Dagger^000000
 Attack: ^777777129^000000
 Weight: ^7777770^000000
@@ -24262,7 +23431,7 @@ A dagger imbued with
 lunar spirit and the power to drain an enemy's soul.
 Regain 3 SP
 with each attack.
-Max SP +10%
+MaxSP +10%
 This item cannot be Dropped or Traded.
 Weapon Class: ^777777Dagger^000000
 Attack: ^77777785^000000
@@ -24304,7 +23473,7 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 13036#
 A dagger especially used for assassinations such as killing Demihumans.
-STR + 1, AGI +1
+STR +1, AGI +1
 Increases Physical Attack Strength towards Demihuman monsters by 75%.
 Ignores Physical Defense from Demihuman monsters by 20%.
 If worn by Ninja, Rogue, or Stalker Class characters, it adds MATK + 130.
@@ -24317,7 +23486,7 @@ Jobs: ^777777Novice,Swordman,Mage,Archer,Merchant,Thief Classes,Soul Linker,and 
 #
 13037#
 A dagger especially used for assassinations such as killing Demihumans.
-STR + 1, AGI +1
+STR +1, AGI +1
 Increases Physical Attack Strength towards Demihuman monsters by 75%.
 Enchants compounded weapons with the Occult Impaction skill effect for 6 sec. when attacking and synchronizing the weapon by a certain rate.
 If worn by Ninja, Rogue, Stalker Class characters, it adds MATK + 130.
@@ -24372,7 +23541,7 @@ Class: ^777777Dagger^000000    Attack : ^777777120^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777780^000000
-Jobs : ^777777Novice Class/Swordman Class/Wizard Class/Archer Class/Merchant Class/Thief Class/Ninja Jobs^000000
+Jobs: ^777777Novice Class/Swordman Class/Wizard Class/Archer Class/Merchant Class/Thief Class/Ninja Jobs^000000
 #
 13046#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -24389,12 +23558,12 @@ An unknown item requiring appraisal. It can be identified by using a magnifier.
 13053#
 ^000088Rental Item^000000
 A dagger imbued with lunar spirit and the power to drain an enemy's soul.
-MAX SP +10% 
+MaxSP +10% 
 Regain 3 SP with each attack.
 Weapon Class : ^777777Dagger^000000    Attack: ^77777785^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
-Jobs : ^777777Swordman, Mage, Archer, Merchant, Thief Classes, Soul Linker, and Ninja^000000
+Jobs: ^777777Swordman, Mage, Archer, Merchant, Thief Classes, Soul Linker, and Ninja^000000
 #
 13054#
 ^000088Rental Item^000000
@@ -24405,7 +23574,7 @@ Weapon Class : ^777777Dagger^000000    Attack: ^777777129^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
-Jobs : ^777777Swordman, Merchant, Thief Classes; Soul Linker and Ninja Jobs^000000
+Jobs: ^777777Swordman, Merchant, Thief Classes; Soul Linker and Ninja Jobs^000000
 #
 13055#
 ^000088Rental Item^000000
@@ -24415,7 +23584,7 @@ Weapon Class : ^777777Dagger^000000      Attack: ^777777120^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777771^000000
 Required Level: ^7777771^000000
-Jobs : ^777777Ninja^000000
+Jobs: ^777777Ninja^000000
 #
 13056#
 ^000088Rental Item^000000
@@ -24425,7 +23594,7 @@ Weapon Class : ^777777Dagger^000000      Attack: ^777777209^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
-Jobs : ^777777Mage Class, Soul Linker Job^^000000
+Jobs: ^777777Mage Class, Soul Linker Job^^000000
 #
 13061#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -24438,26 +23607,6 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 13067#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-#
-13069#
-Has a chance of activating freeze status while physically attacking and increases the chance with each refine level.
-Matk +80
-Class: ^777777One Handed Sword^000000
-Attack: ^777777160^000000
-Weight: ^77777750^000000
-Weapon Level: ^7777774^000000
-Required Level: ^777777110^000000
-Jobs: ^777777Novice, Swordman, Merchant, Thief Classes^000000
-#
-13070#
-Has a chance of activating curse status while physically attacking and increases the chance with each refine level.
-Matk +80
-Class: ^777777One Handed Sword^000000
-Attack: ^777777160^000000
-Weight: ^77777750^000000
-Weapon Level: ^7777774^000000
-Required Level: ^777777110^000000
-Jobs: ^777777Novice, Swordman, Merchant, Thief Classes^000000
 #
 13100#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -24486,7 +23635,7 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 13108#
 A Pistol made for short and medium ranged battles against Demihumans.
 It seems to be capable of doing damage even through a bulletproof vest.
-DEX + 2, Accuracy - 10
+DEX +2, Accuracy - 10
 Increases Physical Attack Strength towards Demihuman monsters by 55%.
 Ignores Physical Defense from Demihuman monsters by 20%.
 Increases Attack Speed by 100% for 3 secs. Delay after attacking reduces by 100%
@@ -24518,7 +23667,7 @@ Attack : ^77777780^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777780^000000
-Jobs : ^777777Gunslinger Jobs^000000
+Jobs: ^777777Gunslinger Jobs^000000
 #
 13112#
 An unknown item requiring appraisal. It can be identified by using a magnifier.
@@ -24594,7 +23743,7 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 13171#
 A Rifle made for short and medium ranged battles against Demihumans, that enables a reduction to the targeting delay; as it is designed to limit the trembling of the shooter's hands.
-DEX + 2, Accuracy + 10, Critical + 10
+DEX +2, Accuracy + 10, Critical + 10
 Increases Physical Attack Strength towards Demihuman monsters by 75%.
 Ignores Physical Defense from Demihuman monsters by 20%.
 Reduce Tracking casting time by 25%.
@@ -24608,7 +23757,7 @@ Jobs: ^777777Gunslinger^000000
 #
 13172#
 A specialized Gatling Gun made for battles against Demihumans; occasionally, it shoots high-powered bullets.
-DEX + 2
+DEX +2
 Increases Physical Attack Strength towards Demihuman monsters by 35%.
 Ignores Physical Defense from Demihuman monsters by 20%.
 Increases 80 ATK for 6 sec. when attacking and synchronizing the weapon by a certain rate.
@@ -24624,7 +23773,7 @@ Jobs: ^777777Gunslinger^000000
 13173#
 A Shotgun that has a great attack in short ranged battles against Demihumans.
 It shows a wide variety of strength between each attack.
-DEX + 2, Inflicts splash attack.
+DEX +2, Inflicts splash attack.
 Increases Physical Attack Strength towards Demihuman monsters by 55%.
 Ignores physical defense from Demihuman monster by 20%.
 Increases 100 ATK for 6 sec. when attacking and synchronizing the weapon by a certain rate.
@@ -24639,7 +23788,7 @@ Jobs: ^777777Gunslinger^000000
 #
 13174#
 A Grenade Launcher that shows great fire-power in battles against Demihumans.
-DEX + 2
+DEX +2
 Increases Physical Attack Strength towards Demihuman monsters by 35%.
 Ignores Physical Defense from Demihuman monsters by 20%.
 Increases 300 ATK for 9 sec. when attacking and synchronizing the weapon by a certain rate.
@@ -24670,7 +23819,7 @@ Attack : ^77777790^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777780^000000
-Jobs : ^777777Gunslinger Jobs^000000
+Jobs: ^777777Gunslinger Jobs^000000
 #
 13177#
 Increases Physical Attack Strength to Demihuman monster by 35%..
@@ -24688,7 +23837,7 @@ Attack : ^77777790^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777780^000000
-Jobs : ^777777Gunslinger Jobs^000000
+Jobs: ^777777Gunslinger Jobs^000000
 #
 13178#
 Increases Physical Attack Strength to Demihuman monster by 55%..
@@ -24708,7 +23857,7 @@ Attack : ^777777110^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777780^000000
-Jobs : ^777777Gunslinger Jobs^000000
+Jobs: ^777777Gunslinger Jobs^000000
 #
 13179#
 Increases Physical Attack Strength to Demihuman monster by 35%..
@@ -24727,7 +23876,7 @@ Attack : ^777777330^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777780^000000
-Jobs : ^777777Gunslinger Jobs^000000
+Jobs: ^777777Gunslinger Jobs^000000
 #
 13200#
 A small metal bullet
@@ -24738,7 +23887,7 @@ Weight: ^7777770.2^000000
 Property:^777777Neutral^000000
 #
 13201#
-A small silver bullet^FFFFFF    ^000000 imbued with holy power.
+A small silver bullet imbued with holy power.
 Class: ^777777Bullet^000000
 ATK: ^77777715^000000
 Weight: ^7777770.2^000000
@@ -24874,7 +24023,7 @@ Weight: ^7777772^000000
 Property:^777777Earth^000000
 #
 13257#
-A Wind property kunai^FFFFFF    ^000000 that is especially sharp.
+A Wind property kunai that is especially sharp.
 Class: ^777777Throwing Weapon^000000
 ATK: ^77777730^000000
 Weight: ^7777772^000000
@@ -24904,208 +24053,6 @@ ATK: ^77777730^000000
 Weight: ^7777772^000000
 Property:^777777Poison^000000
 #
-13260#
-A small apple shaped bomb. Though it has weak attack power, it has long range.
-Class: ^777777Projectile^000000
-Attack : ^7777770^000000
-Weight: ^7777770.1^000000
-Property : ^777777Neutral^000000
-#
-13261#
-A bomb which is made of the hard part of a coconut.
-Class: ^777777Projectile^000000
-Attack : ^7777770^000000
-Weight: ^7777770.1^000000
-Property : ^777777Neutral^000000
-#
-13262#
-A bomb which uses sweet and sticky juice of a melon.
-Class: ^777777Projectile^000000
-Attack : ^7777770^000000
-Weight: ^7777770.1^000000
-Property : ^777777Neutral^000000
-#
-13263#
-Hard peel of pineapple that attacks wide range.
-Class: ^777777Projectile^000000
-Attack : ^7777770^000000
-Weight: ^7777770.1^000000
-Property : ^777777Neutral^000000
-#
-13264#
-Use this banana peel bomb to make your enemies fall.
-Class: ^777777Shuriken^000000
-Attack : ^7777770^000000
-Weight: ^7777770.1^000000
-Property : ^777777Neutral^000000
-#
-13265#
-A black lump that can used as a projctile.
-Class: ^777777Projectile^000000
-Attack : ^7777770^000000
-Weight: ^7777775^000000
-Property : ^777777Neutral^000000
-#
-13266#
-A slightly larger black lump that can used as a projectile.
-Class: ^777777Projectile^000000
-Attack : ^7777770^000000
-Weight: ^7777775^000000
-Property : ^777777Neutral^000000
-#
-13267#
-A hardened black lump that can kill when thrown at someone.
-Class: ^777777Projectile^000000
-Attack : ^7777770^000000
-Weight: ^7777775^000000
-Property : ^777777Neutral^000000
-#
-13268#
-Mysterious unknown powder. You don't know what harm it will cause if thrown at someone.
-Class: ^777777Projectile^000000
-Attack : ^7777770^000000
-Weight: ^7777771^000000
-Property : ^777777Neutral^000000
-#
-13270#
-Slightly remodeled Full SwingK enabled for throwing. Increases Atk.
-Class: ^777777Projectile^000000
-Attack : ^7777770^000000
-Weight: ^7777775^000000
-Property : ^777777Neutral^000000
-#
-13271#
-Slightly remodeled Mana Plus enabled for throwing. Increases Matk.
-Class: ^777777Projectile^000000
-Attack : ^7777770^000000
-Weight: ^7777775^000000
-Property : ^777777Neutral^000000
-#
-13272#
-Slightly remodeled Cure Free enabled for throwing. Recovers several kinds of abnormal statuses. Recovers a small amount of HP.
-(Silence, Bleeding, Poison, Curse, Reverse Orcish, Change Undead)
-Class: ^777777Projectile^000000
-Attack : ^7777770^000000
-Weight :: ^7777775^000000
-Property : ^777777Neutral^000000
-#
-13275#
-Slightly remodeled HP increase potion(S) enabled for throwing. MaxHP slightly increased for 500 sec, HP recovery +1%.
-Class: ^777777Projectile^000000
-Attack : ^7777770^000000
-Weight: ^7777772^000000
-Property : ^777777Neutral^000000
-#
-13276#
-Slightly remodeled HP increase potion(M) enabled for throwing. MaxHP moderately increased for 500 sec, HP recovery +2%.
-Class: ^777777Projectile^000000
-Attack : ^7777770^000000
-Weight: ^7777774^000000
-Property : ^777777Neutral^000000
-#
-13277#
-Slightly remodeled HP increase potion(L) enabled for throwing. MaxHP greatly increased for 500 sec, HP recovery +5%.
-Class: ^777777Projectile^000000
-Attack : ^7777770^000000
-Weight: ^7777778^000000
-Property : ^777777Neutral^000000
-#
-13278#
-Slightly remodeled SP Increase Potion(S) enabled for throwing. MaxSP slightly increased for 500 sec, SP recovery +2%.
-Class: ^777777Projectile^000000
-Attack : ^7777770^000000
-Weight: ^7777772^000000
-Property : ^777777Neutral^000000
-#
-13279#
-Slightly remodeled SP Increase Potion(M) enabled for throwing. MaxSP increased for 500 sec, SP recovery +4%.
-Class: ^777777Projectile^000000
-Attack : ^7777770^000000
-Weight: ^7777774^000000
-Property : ^777777Neutral^000000
-#
-13280#
-Slightly remodeled SP increase potion(L) enabled for throwing. MaxSP greatly increased for 500 sec, SP recovery +8%.
-Class: ^777777Projectile^000000
-Attack : ^7777770^000000
-Weight: ^7777778^000000
-Property : ^777777Neutral^000000
-#
-13281#
-Slightly remodeled Enriched White Potion enabled for throwing.
-Recovers a large amount of HP, increases natural HP recovery speed by 20%. Duration : 500 sec.
-Class: ^777777Projectile^000000
-Attack : ^7777770^000000
-Weight: ^7777777^000000
-Property : ^777777Neutral^000000
-#
-13282#
-Slightly remodeled Vitata 500 enabled for throwing.
-Recovers SP, and increase SP recovery speed by 20%, increase MaxSP by 5%. Duration : 500 sec.
-Class: ^777777Projectile^000000
-Attack : ^7777770^000000
-Weight: ^7777775^000000
-Property : ^777777Neutral^000000
-#
-13283#
-Slightly remodeled Enriched Cell Juice enabled for throwing.
-Increases attack speed. Duration : 500 sec.
-Class: ^777777Projectile^000000
-Attack : ^7777770^000000
-Weight: ^7777775^000000
-Property : ^777777Neutral^000000
-#
-13284#
-Slightly remodeled Savage BBQ enabled for throwing.
-Increases Str.
-Class: ^777777Projectile^000000
-Attack : ^7777770^000000
-Weight: ^7777775^000000
-Property : ^777777Neutral^000000
-#
-13285#
-Slightly remodeled Cocktail wug blood enabled for throwing.
-Increases Int.
-Class: ^777777Projectile^000000
-Attack : ^7777770^000000
-Weight: ^7777775^000000
-Property : ^777777Neutral^000000
-#
-13286#
-Slightly remodeled Minor Brisket enabled for throwing that increases Vit.
-Class: ^777777Projectile^000000
-Attack : ^7777770^000000
-Weight: ^7777775^000000
-Property : ^777777Neutral^000000
-#
-13287#
-Slightly remodeled Siroma Ice Tea enabled for throwing that increases Dex.
-Class: ^777777Projectile^000000
-Attack : ^7777770^000000
-Weight: ^7777775^000000
-Property : ^777777Neutral^000000
-#
-13288#
-Slightly remodeled Drocera Stew enabled for throwing that increases Agi.
-Class: ^777777Projectile^000000
-Attack : ^7777770^000000
-Weight: ^7777775^000000
-Property : ^777777Neutral^000000
-#
-13289#
-Slightly remodeled Petti Noodle enabled for throwing that increases Luk.
-Class: ^777777Projectile^000000
-Attack : ^7777770^000000
-Weight: ^7777775^000000
-Property : ^777777Neutral^000000
-#
-13290#
-Slightly remodeled Black lump enabled for throwing that decreases all Statuses.
-Class: ^777777Projectile^000000
-Attack : ^7777770^000000
-Weight: ^7777775^000000
-Property : ^777777Neutral^000000
-#
 13300#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
@@ -25123,7 +24070,7 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 13305#
 Huuma Shuriken that holds great strength and brings extraordinary power in battles against Demihumans.
-STR + 2, DEX + 1
+STR +2, DEX +1
 Increases Physical Attack Strength towards Demihuman monsters by 95%.
 Ignores Physical Defense from Demihuman monsters by 20%.
 Indestructible.
@@ -25135,7 +24082,7 @@ Jobs: ^777777Ninja^000000
 #
 13306#
 Huuma Shuriken that holds great strength and brings extraordinary power in battles against Demihumans.
-STR + 2, DEX + 1
+STR +2, DEX +1
 Increases Physical Attack Strength towards Demihuman monsters by 95%.
 Increases Attack Strength in Throw Huuma Shuriken skill and Killing Stroke skill by 100% for a 10 sec. duration when attacking and synchronizing the weapon by a certain rate.
 Indestructible.
@@ -25162,7 +24109,7 @@ Class: ^777777Huuma^000000    Attack : ^77777755^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777780^000000
-Jobs : ^777777Ninja Jobs^000000
+Jobs: ^777777Ninja Jobs^000000
 #
 13310#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -25192,7 +24139,7 @@ popularized by its use
 by sea adventurers.
 Enables use of
 ^008800Level 5 Bash^000000.
-STR + 2
+STR +2
 DEF + 1
 This item cannot be Dropped or Traded.
 Weapon Class: ^777777Sword^000000
@@ -25230,7 +24177,7 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 13410#
 A sword favored by gladiators, it is especially designed for battles against Demihumans.
-STR + 1, DEX + 1
+STR +1, DEX +1
 Increases Physical Attack Strength towards Demihuman monsters by 75%.
 Ignores Physical Defense from Demihuman monsters by 20%.
 Indestructible.
@@ -25242,7 +24189,7 @@ Jobs: ^777777Novice,Swordman,Merchant,Thief Classes,and Ninja^000000
 #
 13411#
 A sword favored by gladiators, it is especially designed for battles against Demihumans.
-STR + 1, DEX + 1
+STR +1, DEX +1
 MATK + 74
 Increases Physical Attack Strength towards Demihuman monsters by 75%.
 Indestructible.
@@ -25304,7 +24251,7 @@ Class: ^777777One Handed Sword^000000      Attack : ^777777130^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777780^000000
-Jobs : ^777777Novice Class/Swordman Class/Merchant Class/Thief Class Jobs^000000
+Jobs: ^777777Novice Class/Swordman Class/Merchant Class/Thief Class Jobs^000000
 #
 13417#
 INT +6
@@ -25320,7 +24267,7 @@ Class: ^777777One Handed Sword^000000      Attack : ^777777130^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777780^000000
-Jobs : ^777777Novice Class/Swordman Class/Merchant Class/Theif Class Jobs^000000
+Jobs: ^777777Novice Class/Swordman Class/Merchant Class/Theif Class Jobs^000000
 #
 13418#
 INT +6
@@ -25337,7 +24284,7 @@ Class: ^777777One-Handed Sword^000000      Attack : ^777777130^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777780^000000
-Jobs : ^777777Swordman Class/Merchant Class Jobs^000000
+Jobs: ^777777Swordman Class/Merchant Class Jobs^000000
 #
 13421#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -25357,7 +24304,7 @@ DEF +1
 Weapon Class : ^777777One-handed Sword^^000000      Attack: ^777777185^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
-Jobs : ^777777Swordman, Merchant, and Thief Classes^000000
+Jobs: ^777777Swordman, Merchant, and Thief Classes^000000
 #
 13427#
 ^000088Rental Item^000000
@@ -25367,7 +24314,7 @@ Drains 15 SP from its owner every 10 seconds.
 Weapon Class : ^777777One-handed Sword^^000000      Attack: ^777777120^000000
 Weight: ^7777770^000000     Property : ^777777화^000000
 Weapon Level: ^7777774^000000
-Jobs : ^777777Swordman, Merchant, and Thief Classes^000000
+Jobs: ^777777Swordman, Merchant, and Thief Classes^000000
 #
 13431#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -25386,7 +24333,7 @@ Increases a certain amount of ATK based on the wearer's Job Lvl.
 This item cannot be Dropped or Traded.
 Class: ^777777Headgear^000000    Def : ^7777775^000000
 Location: ^777777Upper^000000    Weight : ^77777780^000000
-Jobs : ^777777All^000000
+Jobs: ^777777All^000000
 #
 13505#
 A box that contains:
@@ -25457,7 +24404,7 @@ popularized by its use
 by sea adventurers.
 Enables use of
 ^008800Level 5 Bash^000000.
-STR + 2
+STR +2
 DEF + 1
 This item cannot be Dropped or Traded.
 Weapon Class: ^777777Sword^000000
@@ -25499,7 +24446,7 @@ A dagger imbued with
 lunar spirit and the power to drain an enemy's soul.
 Regain 3 SP
 with each attack.
-Max SP +10%
+MaxSP +10%
 This item cannot be Dropped or Traded.
 Weapon Class: ^777777Dagger^000000
 Attack: ^77777785^000000
@@ -25530,7 +24477,7 @@ Jobs: ^777777Acolyte Class^000000
 13531#
 A box containing
 50 Slim Red Potions.
-Double click this item^FFFFFF    ^000000 to access its contents.
+Double click this item to access its contents.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -25548,7 +24495,7 @@ Weight: ^7777771^000000
 #
 13534#
 A box containing
-50 Slim White Potions.^FFFFFF    ^000000 Double click this item
+50 Slim White Potions. Double click this item
 to access its contents. ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
@@ -25880,7 +24827,7 @@ A box that contains
 10 Small Life Potions.
 These potions restore
 an amount of HP equal
-to 5% of your Max HP
+to 5% of your MaxHP
 every 5 seconds for
 a 10 minute duration.
 ^ffffff_^000000
@@ -25891,7 +24838,7 @@ A box that contains
 30 Small Life Potions.
 These potions restore
 an amount of HP equal
-to 5% of your Max HP
+to 5% of your MaxHP
 every 5 seconds for
 a 10 minute duration.
 ^ffffff_^000000
@@ -25902,7 +24849,7 @@ A box that contains
 50 Small Life Potions.
 These potions restore
 an amount of HP equal
-to 5% of your Max HP
+to 5% of your MaxHP
 every 5 seconds for
 a 10 minute duration.
 ^ffffff_^000000
@@ -25912,7 +24859,7 @@ Weight: ^7777771^000000
 A box that contains
 10 Medium Life Potions. These potions restore
 an amount of HP equal
-to 7% of your Max HP
+to 7% of your MaxHP
 every 4 seconds for
 a 10 minute duration.
 ^ffffff_^000000
@@ -25922,7 +24869,7 @@ Weight: ^7777771^000000
 A box that contains
 30 Medium Life Potions. These potions restore
 an amount of HP equal
-to 7% of your Max HP
+to 7% of your MaxHP
 every 4 seconds for
 a 10 minute duration.
 ^ffffff_^000000
@@ -25932,7 +24879,7 @@ Weight: ^7777771^000000
 A box that contains
 50 Medium Life Potions. These potions restore
 an amount of HP equal
-to 7% of your Max HP
+to 7% of your MaxHP
 every 4 seconds for
 a 10 minute duration.
 ^ffffff_^000000
@@ -26411,7 +25358,7 @@ Reduces Cast Delay of all skills by 3 %.
 MATK + 3 %,  MSP + 3%.  MDEF +3
 Class: ^777777Headgear^000000    Def : ^7777771^000000
 Location: ^777777Upper^000000    Weight : ^77777750^000000
-Jobs : ^777777All^000000
+Jobs: ^777777All^000000
 ^ff0000For this item, the cancellation of purchase of refund is now allowed.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -26423,7 +25370,7 @@ Inflicts 12% more damage to Demi-Humans.
 Increases a certain amount of ATK based on the wearer's Job Lvl.
 Class: ^777777Headgear^000000    Def : ^7777775^000000
 Location: ^777777Upper^000000    Weight : ^77777780^000000
-Jobs : ^777777All^000000
+Jobs: ^777777All^000000
 ^ff0000For this item, the cancellation of purchase of refund is now allowed.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -26434,7 +25381,7 @@ A hairband that's made of Devil's wings. It is cursed.
 SP + 120. Curses itself with low chances when attacked.
 Class: ^777777Headgear^000000    Def : ^7777773^000000
 Location: ^777777Upper^000000    Weight : ^77777710^000000
-Jobs : ^777777All^000000
+Jobs: ^777777All^000000
 ^ff0000For this item, the cancellation of purchase of refund is now allowed.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -26445,7 +25392,7 @@ A long smoking pipe used by gentlemen and nobility.
 Reduce Damage from Demi-Humans by 2%.
 Class: ^777777Headgear^000000    Def : ^7777770^000000
 Location: ^777777Lower^000000    Weight : ^77777710^000000
-Jobs : ^777777All^000000
+Jobs: ^777777All^000000
 ^ff0000For this item, the cancellation of purchase of refund is now allowed.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -26456,7 +25403,7 @@ A vivid hat with rabbit ears that seems suitable for any magic show.
 AGI +3, Auto casts Lv5 Increase Agi when user receives physical damage.
 Class: ^777777Headgear^000000    Def : ^7777770^000000
 Location: ^777777Upper^000000    Weight : ^77777730^000000
-Jobs : ^777777All^000000
+Jobs: ^777777All^000000
 ^ff0000For this item, the cancellation of purchase of refund is now allowed.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -26464,10 +25411,10 @@ Weight: ^7777771^000000
 13923#
 A box containing 1 'Dark Randgris Helm' in it.
 A helm laced with the power of Valkyrie Randgris. It helps its wearer to concentrate better. 
-DEX + 3, MDEF + 1
+DEX +3, MDEF + 1
 Class: ^777777Headgear^000000    Def : ^7777772^000000
 Location: ^777777Upper-Mid^000000    Weight : ^77777730^000000
-Jobs : ^777777All^000000
+Jobs: ^777777All^000000
 ^ff0000For this item, the cancellation of purchase of refund is now allowed.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -26475,11 +25422,11 @@ Weight: ^7777771^000000
 13924#
 A box containing 1 'Orc Hero Headdress' in it.
 A true Orc Hero's headgear. It's so big and heavy that it might hurt your neck.
-STR + 2. Slot [1]
+STR +2. Slot [1]
 Autocasts Lv3 Weapon Perfection on each attack.
 Class: ^777777Headgear^000000    Def : ^7777775^000000
 Location: ^777777Upper-Mid^000000    Weight : ^77777790^000000
-Jobs : ^777777All^000000
+Jobs: ^777777All^000000
 ^ff0000For this item, the cancellation of purchase of refund is now allowed.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -26599,7 +25546,7 @@ Enables use of Level 1 Heal and Level 1 Teleport. Casting cannot be interrupted.
 ALL STATUS + 1. Increases casting time by 10%.
 Weapon Class : ^777777Accessory^000000
 Defense: ^7777770^000000      Weight : ^7777770^000000
-Jobs : ^777777All^000000
+Jobs: ^777777All^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -26616,7 +25563,7 @@ If you put on this mask, you feel that you should pick up a weapon. Increase dam
 Class: ^777777Headgear^000000    Defense : ^7777771^000000
 Head Position : ^777777Mid-Low^000000    Weight : ^77777710^000000
 Required lvl : ^77777750^000000
-Jobs : ^777777All^000000
+Jobs: ^777777All^000000
 ^ff0000Cancellation of purchase or refund for this item is not available.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -26724,7 +25671,7 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 14104#
 A box that contains 10 Small Life Potions.
-These potions restore an amount of HP equal to 5% of your Max HP every 5 seconds for a 10 minute duration.
+These potions restore an amount of HP equal to 5% of your MaxHP every 5 seconds for a 10 minute duration.
 The effect is not active at the state of berserk.
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 When a character is incapable of combat, the effect of item disappears.
@@ -26733,7 +25680,7 @@ Weight: ^7777771^000000
 #
 14107#
 A box that contains 10 Medium Life Potions.
-These potions restore an amount of HP equal to 7% of your Max HP every 4 seconds for a 10 minute duration.
+These potions restore an amount of HP equal to 7% of your MaxHP every 4 seconds for a 10 minute duration.
 The effect is not active at the state of berserk.
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 When a character is incapable of combat, the effect of item disappears.
@@ -26775,7 +25722,7 @@ Weapon Class : ^777777Dagger^000000    Attack: ^777777129^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
-Jobs : ^777777Swordman, Merchant, Thief Classes; Soul Linker and Ninja Jobs^000000
+Jobs: ^777777Swordman, Merchant, Thief Classes; Soul Linker and Ninja Jobs^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -26789,7 +25736,7 @@ Weapon Class : ^777777Dagger^000000      Attack: ^777777209^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
-Jobs : ^777777마법사Weapon Class/소울Ring커 전용^000000
+Jobs: ^777777마법사Weapon Class/소울Ring커 전용^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -26798,13 +25745,13 @@ Weight: ^7777771^000000
 A box that contains:Light Epsilon. Extremely fragile! 
 ^000088Rental Item^000000
 Holy property
-STR + 10, Holy property, Enables use of Lvl 3 Heal
+STR +10, Holy property, Enables use of Lvl 3 Heal
 Increases damage inflicted on Devil monsters by 3%, Increases Movement Speed.
 Weapon Class : ^777777Axe^000000    Attack: ^777777229^000000
 Weight: ^7777770^000000     Property : ^777777성^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
-Jobs : ^777777Swordman and Merchant Classes^000000
+Jobs: ^777777Swordman and Merchant Classes^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -26818,7 +25765,7 @@ Weapon Class : ^777777책^000000      Attack: ^777777135^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
 Required Level: ^7777771^000000
-Jobs : ^777777Priest, Sage, Taekwon Master^000000
+Jobs: ^777777Priest, Sage, Taekwon Master^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -26832,7 +25779,7 @@ Weapon Class : ^777777Dagger^000000      Attack: ^777777120^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777771^000000
 Required Level: ^7777771^000000
-Jobs : ^777777Ninja^000000
+Jobs: ^777777Ninja^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -26841,11 +25788,11 @@ Weight: ^7777771^000000
 A box that contains: Apple of Archer. Extremely fragile!
 ^000088Rental Item^000000
 A headgear made in honor of the legendary archer known for shooting A headgear made in honor of the legendary archer known for shooting
-DEX + 4
+DEX +4
 Weapon Class : ^777777Headgear^000000    Defense : ^7777777^000000
 Position : ^777777Upper^000000    Weight : ^7777770^000000
 Required Level: ^7777771^000000
-Jobs : ^777777Except Novice^000000
+Jobs: ^777777Except Novice^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -26857,7 +25804,7 @@ A hairband that gives one the appearance of having rabbit ears, a lasting symbol
 Reduces damage from Demihuman monsters by 10%, MDEF +5
 Weapon Class : ^777777Headgear^000000    Defense : ^7777779^000000
 Position : ^777777Upper^000000    Weight : ^7777770^000000
-Jobs : ^777777All^000000
+Jobs: ^777777All^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -26870,7 +25817,7 @@ INT +1
 Weapon Class : ^777777Headgear^000000    Defense : ^7777772^000000
 Position : ^777777mid^000000    Weight : ^7777770^000000
 Required Level: ^7777771^000000
-Jobs : ^777777Except Novice^000000
+Jobs: ^777777Except Novice^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -26882,7 +25829,7 @@ A small flower made of steel.
 Has a low chance to cast Lvl 1 Recovery when its wearer receives physical damage.
 Weapon Class : ^777777Headgear^000000    Defense : ^7777771^000000
 Position : ^777777Lower^000000    Weight : ^7777770^000000
-Jobs : ^777777Except Novice^000000
+Jobs: ^777777Except Novice^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -26895,7 +25842,7 @@ Critical +10%
 Weapon Class : ^777777Accessory^000000
 Defense: ^7777770^000000      Weight : ^7777770^000000
 Required Level: ^7777771^000000
-Jobs : ^777777Except Novice^000000
+Jobs: ^777777Except Novice^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -26917,11 +25864,11 @@ Required Level: ^7777771^000000^FFFFFF         ^000000 Jobs: ^777777All Except N
 A box that contains: Earring. Extremely fragile!
 ^000088Rental Item^000000
 An ancient earring.
-STR + 4
+STR +4
 Weapon Class : ^777777Accessory^000000
 Defense: ^7777770^000000      Weight : ^7777770^000000
 Required Level: ^7777771^000000
-Jobs : ^777777Except Novice^000000
+Jobs: ^777777Except Novice^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -26930,11 +25877,11 @@ Weight: ^7777771^000000
 A box that contains:Necklace. Extremely fragile!
 ^000088Rental Item^000000
 An ancient necklace.
-VIT + 4
+VIT +4
 Weapon Class : ^777777Accessory^000000
 Defense: ^7777770^000000      Weight : ^7777770^000000
 Required Level: ^7777771^000000
-Jobs : ^777777Except Novice^000000
+Jobs: ^777777Except Novice^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -26943,11 +25890,11 @@ Weight: ^7777771^000000
 A box that contains:Glove. Extremely fragile!
 ^000088Rental Item^000000
 An ancient glove.
-DEX + 4
+DEX +4
 Weapon Class : ^777777Accessory^000000
 Defense: ^7777770^000000      Weight : ^7777770^000000
 Required Level: ^7777771^000000
-Jobs : ^777777Except Novice^000000
+Jobs: ^777777Except Novice^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -26960,7 +25907,7 @@ AGI +4
 Weapon Class : ^777777Accessory^000000
 Defense: ^7777770^000000      Weight : ^7777770^000000
 Required Level: ^7777771^000000
-Jobs : ^777777Except Novice^000000
+Jobs: ^777777Except Novice^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -26973,7 +25920,7 @@ LUK +4, MDEF +5
 Weapon Class : ^777777Accessory^000000
 Defense: ^7777770^000000      Weight : ^7777770^000000
 Required Level: ^7777771^000000
-Jobs : ^777777Except Novice^000000
+Jobs: ^777777Except Novice^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -26986,7 +25933,7 @@ DEF + 5 , MDEF +5
 Weapon Class : ^777777Accessory^000000
 Defense: ^7777775^000000      Weight : ^7777770^000000
 Required Level: ^7777771^000000
-Jobs : ^777777Except Novice^000000
+Jobs: ^777777Except Novice^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -27501,17 +26448,17 @@ Weight: ^7777771^000000
 14300#
 A box that contains 1 'Mask of Ifrit' in it.
 Mask of Ifrit, the spiritual owner of fire. Rumored to rule a power of the fire.
-STR + 1, INT +1, MDEF + 5
+STR +1, INT +1, MDEF + 5
 Increase 10% resistence against Fire Property attacks.
 Decrease 10% resistence against Water Property attacks.
 Enables use of Lv.1 Sight.
 Autospell Meteor Storm Lv.3 by a certain chance when receiving physical attack.
 Autospell Fire Bolt Lv.3 by a certain chance when dealing physical damage.
-Unable to refine.
+^FF0000Unrefineable^000000
 Item Class : ^777777Headgear^000000    Defense : ^7777778^000000
 Location: ^777777Upper,Mid,Lower^000000    Weight : ^7777770^000000
 Required Level: ^77777770^000000
-Jobs : ^777777Every Job except Novice Class^000000
+Jobs: ^777777Every Job except Novice Class^000000
 ^ff0000This item is not refunable.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -27519,15 +26466,15 @@ Weight: ^7777771^000000
 14301#
 A box that contains 1 'Ear of Ifrit' in it.
 A headgear which imitates an ears of Ifrit, the spiritual owner of fire.
-STR + 1, MDEF + 3
+STR +1, MDEF + 3
 Increase damage of Fire Bolt, Fire Pillar, Meteor Storm skill by 2%.
 Increase damage of Bash, Pierce, Magnum Break skill by 2%.
 Increase 5% resistence against Fire Property attacks.
 Reduce 5% resistence against Water Property attacks.
 Item Class : ^777777Headgear^000000    Defense : ^7777770^000000
-Location: ^777777Mid^000000    Weight : ^7777770^000000
+Location: ^777777Middle^000000    Weight : ^7777770^000000
 Required Level: ^77777770^000000
-Jobs : ^777777Every Job except Novice Class^000000
+Jobs: ^777777Every Job except Novice Class^000000
 ^ff0000This item is not refundable.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -27651,7 +26598,7 @@ that is effective in
 healing wounds.
 Restores an amount of
 HP equal of 5% of your
-Max HP every 5 seconds^FFFFFF    ^000000 for a 10 minute duration.
+MaxHP every 5 seconds for a 10 minute duration.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -27662,7 +26609,7 @@ that is effective in
 healing wounds.
 Restores an amount of
 HP equal of 7% of your
-Max HP every 4 seconds^FFFFFF    ^000000 for a 10 minute duration.
+MaxHP every 4 seconds for a 10 minute duration.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -27840,7 +26787,7 @@ Weight: ^7777771^000000
 A simple dish made
 from steamed crab
 nippers and herbs.
-VIT + 1
+VIT +1
 
 Weight: ^7777771^000000
 #
@@ -28038,14 +26985,6 @@ Weight: ^7777771^000000
 15000#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
-15002#
-An armor with solid plate material adorned with gorgeous runes and jewels. It's actually very light and solid and it feels as if magic is winding around your whole body.
-Class: ^777777Armor^000000
-Defense: ^77777795^000000
-Weight: ^7777770^000000
-Required Level: ^77777799^000000
-Jobs : ^777777Swordman Class^000000
-#
 15009#
 An unknown item requiring appraisal. It can be identified by using a magnifier.
 #
@@ -28059,9 +26998,6 @@ An unknown item requiring appraisal. It can be identified by using a magnifier.
 An unknown item requiring appraisal. It can be identified by using a magnifier.
 #
 15013#
-An unknown item requiring appraisal. It can be identified by using a magnifier.
-#
-15014#
 An unknown item requiring appraisal. It can be identified by using a magnifier.
 #
 15024#
@@ -28115,20 +27051,11 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 15043#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
-15051#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-#
-15052#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-#
 16000#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 16001#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-#
-16003#
-An unknown item requiring appraisal. It can be identified by using a magnifier.
 #
 16004#
 An unknown item requiring appraisal. It can be identified by using a magnifier.
@@ -28143,7 +27070,7 @@ Enable a chance of randomly inflicting the ^880000Stun^000000, ^880000Blind^0000
 Weapon Class : ^777777Mace^000000    Attack: ^777777150^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
-Jobs : ^777777Acolyte Class^000000
+Jobs: ^777777Acolyte Class^000000
 #
 16010#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -28153,15 +27080,6 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 16014#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-#
-16017#
-Has a random chance of casting the Warlock skill Hell Inferno while physically attacking for 20 seconds. The duration multiplies by the refine level of the weapon.
-Class: ^777777Mace^000000
-Attack : ^777777170^000000
-Weight: ^777777150^000000
-Weapon Level: ^7777774^000000
-Required Level: ^777777100^000000
-Jobs: ^777777Novice, Swordman, Merchant, Acolyte^000000
 #
 16018#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -28176,7 +27094,7 @@ Defense: ^7777773^000000
 Head Position: ^777777Upper ^000000
 Weight: ^77777710^000000
 Required Level  : ^7777770^000000
-Jobs : ^777777All^000000
+Jobs: ^777777All^000000
 ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
@@ -28362,7 +27280,7 @@ Defense: ^7777774^000000
 Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^77777730^000000
-Jobs : ^777777All except Novices^000000
+Jobs: ^777777All except Novices^000000
 ^0000ffUmbala Spirit^000000
 An accessory which is traditionally used in piercings by the Umbala tribespeople.
 MaxHP +1%.
@@ -28373,7 +27291,7 @@ Defense: ^7777771^000000
 Location: ^777777Lower ^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000 
-Jobs : ^777777All Jobs^000000
+Jobs: ^777777All Jobs^000000
 ^0000ffGrand Peco Headdress^000000
 An elaborate multi-colored headdress made from the feathers of a Grand Peco.
 Increases attack against Demihuman and Brute type monsters 7%
@@ -28383,7 +27301,7 @@ Defense: ^7777775^000000
 Location: ^777777Upper, Middle^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000 
-Jobs : ^777777All Jobs^000000
+Jobs: ^777777All Jobs^000000
 ^0000ffBeer Hat^000000
 A mug of beer sits precariously on your head. Drinking severely impairs your ability to steer mounts or operate machinery.
 If refined to 7 or higher, adds 100% resistance to Confusion status.
@@ -28392,7 +27310,7 @@ Defense: ^7777774^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Required Level: ^77777718^000000 
-Jobs : ^777777All Jobs^000000
+Jobs: ^777777All Jobs^000000
 ^0000ffBattle Manual X3^000000
 This well written, detailed manual explains Extremely Efficient battle methods.
 ^000088EXP rate increases to 300% for 30 minutes.^000000
@@ -28430,7 +27348,7 @@ Defense: ^7777770^000000
 Position: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^77777710^000000
-Jobs : ^777777All^000000
+Jobs: ^777777All^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -28450,7 +27368,7 @@ Defense: ^7777770^000000
 Position: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^77777710^000000
-Jobs : ^777777All^000000
+Jobs: ^777777All^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -28542,7 +27460,7 @@ Weapon Class : ^777777Spear^000000    Attack: ^777777195^000000
 Weight: ^777777480^000000
 Weapon Level: ^7777773^000000
 Required Level: ^7777771^000000
-Jobs : ^777777Swordman Class^000000
+Jobs: ^777777Swordman Class^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -28581,13 +27499,13 @@ Defense: ^7777773^000000
 Head Position: ^777777Upper ^000000
 Weight: ^77777730^000000
 Required lvl : ^7777771^000000
-Jobs : ^777777All^000000
+Jobs: ^777777All^000000
 Weight: ^7777771^000000
 #
 16448#
 A box that contains 1 Scorpio Diadem.
 A magnificent diadem created to pay tribute to the 8th sign of the zodiac, Scorpio the Scorpion.  Attached to the crown is a Topaz gemstone, the birthstone for those born under this sign.
-DEX + 2.
+DEX +2.
 If refined to 7,
 DEX +1, Atk  +5.
 Class: ^777777Headgear^000000
@@ -28596,7 +27514,7 @@ Slot : ^7777771^000000
 Head Position: ^777777Upper ^000000
 Weight: ^77777730^000000
 Required lvl : ^7777771^000000
-Jobs : ^777777All^000000
+Jobs: ^777777All^000000
 Weight: ^7777771^000000
 #
 16449#
@@ -28613,13 +27531,13 @@ Defense: ^7777773^000000
 Head Position: ^777777Upper ^000000
 Weight: ^77777730^000000
 Required lvl : ^7777771^000000
-Jobs : ^777777All^000000
+Jobs: ^777777All^000000
 Weight: ^7777771^000000
 #
 16450#
 A box that contains 1 Scorpio Diadem.
 A magnificent diadem created to pay tribute to the 8th sign of the zodiac, Scorpio the Scorpion.  Attached to the crown is a Topaz gemstone, the birthstone for those born under this sign.
-DEX + 2.
+DEX +2.
 If refined to 7,
 DEX +1, Atk  +5.
 Class: ^777777Headgear^000000
@@ -28628,7 +27546,7 @@ Slot : ^7777771^000000
 Head Position: ^777777Upper ^000000
 Weight: ^77777730^000000
 Required lvl : ^7777771^000000
-Jobs : ^777777All^000000
+Jobs: ^777777All^000000
 Weight: ^7777771^000000
 #
 16461#
@@ -28644,7 +27562,7 @@ Defense: ^7777770^000000
 Head Position : ^777777Upper ^000000
 Weight: ^77777760^000000
 Required lvl : ^7777771^000000
-Jobs : ^777777All^000000
+Jobs: ^777777All^000000
 ^FFFFFF_^000000
 ^ff0000For this item, the cancellation of purchase of refund is now allowed.^000000
 Weight: ^7777771^000000
@@ -28662,7 +27580,7 @@ Defense: ^7777770^000000
 Head Position : ^777777Upper ^000000
 Weight: ^77777760^000000
 Required lvl : ^7777771^000000
-Jobs : ^777777All^000000
+Jobs: ^777777All^000000
 ^FFFFFF_^000000
 ^ff0000For this item, the cancellation of purchase of refund is now allowed.^000000
 Weight: ^7777771^000000
@@ -28677,10 +27595,10 @@ When dealing physical or magical damage, has a low chance of activating Lv 1 Fro
 If refined to  8, activates Lv 5 Frost Joker. 
 Class: ^777777Helmet^000000
 Defense: ^7777774^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^7777771^000000
-Jobs : ^777777All^000000
+Jobs: ^777777All^000000
 ^ff0000This item is excluded from subscription withdrawal or refund.^000000
 Weight: ^7777771^000000
 #
@@ -28694,10 +27612,10 @@ When dealing physical or magical damage, has a low chance of activating Lv 1 Fro
 If refined to  8, activates Lv 5 Frost Joker. 
 Class: ^777777Helmet^000000
 Defense: ^7777774^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^7777771^000000
-Jobs : ^777777All^000000
+Jobs: ^777777All^000000
 ^ff0000This item is excluded from subscription withdrawal or refund.^000000
 Weight: ^7777771^000000
 #
@@ -29085,11 +28003,11 @@ A box that contains
 Description:
 A simple yellow hat with a long feather in it. Fashionistas wear it to the side lest they be shunned.
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Jobs : ^777777All^000000
+Jobs: ^777777All^000000
 Box Weight : ^7777771^000000
 #
 16974#
@@ -29107,11 +28025,11 @@ A box that contains
 Description:
 A newly hatched baby bird chirps it's tunes on a twig of dreams.
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Jobs : ^777777All^000000
+Jobs: ^777777All^000000
 Box Weight : ^7777771^000000
 #
 16976#
@@ -29128,11 +28046,11 @@ A box that contains
 Description:
 A mini red crown affixed to a headband and worn off to the side. Though not a true symbol of royalty, this crown does have a regal air about it.
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Jobs : ^777777All^000000
+Jobs: ^777777All^000000
 Box Weight : ^7777771^000000
 #
 16999#
@@ -29167,11 +28085,11 @@ Costume-Butterfly Ears
 Description:
 Have the appearance of wearing the wings of a butterfly as your ears with this accessory.
 Class: ^777777Middle^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Jobs : ^777777All^000000
+Jobs: ^777777All^000000
 Box Weight : ^7777771^000000
 #
 17015#
@@ -29180,11 +28098,11 @@ A box that contains
 Description:
 You can look like you just rolled off the assembly line with these bolt-on ear accessories.
 Class: ^777777Middle^000000
-Location: ^777777Upper ^000000
+Location: ^777777Upper^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Jobs : ^777777All^000000
+Jobs: ^777777All^000000
 Box Weight : ^7777771^000000
 #
 17030#
@@ -29327,7 +28245,7 @@ This is very cute beret with cat ears! You will feel like a cat yourself.
 ATK + 5%.
 When the refine level gets +5 or higher, per refine level, increases 1% of Physical damage on Demi-human monsters, and reduces 1% of physical damage from Demi-human monsters. 
 Class: ^777777Headgear^000000 Def : ^7777775^000000
-Location: ^777777Upper ^000000Weight : ^77777730^000000
+Location: ^777777Upper^000000Weight : ^77777730^000000
 Required Level: ^7777771^000000
 Job : ^777777All Jobs^000000
 ^ff0000Once you open the box, it cannot be refunded.^000000
@@ -29340,7 +28258,7 @@ A lovely red hat for lovely girls.
 MATK + 5%, MDEF +5.
 When the refine level gets +5 or higher, per refine level, increases 1% of Magical damage on Demi-human monsters, and reduces 1% of magical damage from Demi-human monsters.. 
 Class: ^777777Headgear^000000 Def : ^7777770^000000
-Location: ^777777Upper ^000000Weight : ^77777730^000000
+Location: ^777777Upper^000000Weight : ^77777730^000000
 Required Level: ^7777771^000000
 Job : ^777777All Jobs^000000
 ^ff0000Once you open the box, it cannot be refunded.^000000
@@ -29408,54 +28326,6 @@ Opening this randomly give you one of the following item sets
 ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
-17223#
-A pack brought to you by GoCash that has one of 6 classic looks inside in costume form.  
-^0000CCWest Costume Set :^000000
-Costume Cowboy Hat
-Costume Zorro Mask,
-Costume Dagger in Mouth
-^0000CC East Costume Set :^000000
-Costume Sakkat
-Costume Dark Blindfold,
-Costume Angry Mouth
-Fully Tradable, but once opened the costume inside is account bound.
-Weight: 1
-#
-18000#
-A consumable item to use the Mechanic Magic Gear Skill, Arm's Cannon. 
-Class: ^777777Cannonball^000000
-Attack: ^777777100^000000
-Weight: ^7777771^000000
-Property : ^777777None^000000
-#
-18001#
-A consumable item to use the Mechanic Magic Gear Skill, Arm's Cannon.
-Class: ^777777Cannonball^000000
-Attack: ^777777120^000000
-Weight: ^7777771^000000
-Property : ^777777Holy^000000
-#
-18002#
-A consumable item to use the Mechanic Magic Gear Skill, Arm's Cannon.
-Class: ^777777Cannonball^000000
-Attack: ^777777120^000000
-Weight: ^7777771^000000
-Property  : ^777777shadow^000000
-#
-18003#
-A consumable item to use the Mechanic Magic Gear Skill, Arm's Cannon.
-Class: ^777777Cannonball^000000
-Attack: ^777777120^000000
-Weight: ^7777771^000000
-Property  : ^777777Ghost^000000
-#
-18004#
-A consumable item to use the Mechanic Magic Gear Skill, Arm's Cannon.
-Class: ^777777Cannonball^000000
-Attack: ^777777250^000000
-Weight: ^7777771^000000
-Property : ^777777Neutral^000000
-#
 18101#
 ^000088Rental Item^000000
 A bow imbued with the sacred essense of Rudra, one of the ancient gods.
@@ -29465,39 +28335,13 @@ Enables the use of Level 1 Cure.
 Weapon Class : ^777777Bow^000000      Attack: ^777777185^000000
 Weight: ^7777770^000000     Property : ^777777Holy^000000
 Weapon Level: ^7777774^000000
-Jobs : ^777777Archer Class;Rogue Job^000000
+Jobs: ^777777Archer Class;Rogue Job^000000
 #
 18103#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18106#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-#
-18109#
-Increases the damage of Triangle Shot depending on refine level as well as increasing SP consumption of the skill.
-Class: ^777777Bow^000000
-Attack : ^777777150^000000
-Weight: ^777777110^000000
-Weapon Level: ^7777774^000000
-Required Level: ^777777100^000000
-Jobs : ^777777Shadow Chaser Only^000000
-#
-18110#
-Increases the damage of Arrow Storm depending on refine level as well as increasing SP consumption of the skill.
-If Base AGI is 120, adds 1 ASPD.
-Attack : ^777777160^000000
-Weight: ^77777790^000000
-Weapon Level: ^7777774^000000
-Required Level: ^777777110^000000
-Job : ^777777Ranger^000000
-#
-18111#
-Has a chance of activating Fiber Lock while attacking.
-Attack : ^777777150^000000
-Weight: ^777777150^000000
-Weapon Level: ^7777774^000000
-Required Level: ^777777120^000000
-Jobs : ^777777Ranger, Maestro, and Wanderer^000000
 #
 18505#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -29539,7 +28383,7 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18543#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18553#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -29554,60 +28398,34 @@ Unidentified item, can be identified with [Magnifier].
 18565#
 #
 18571#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18574#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18576#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18580#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18581#
-순진하던 사람도 이 마스크를 쓰게 되면, 전사가 된다는 소문이 있다.
-STR + 3
-HP + 100
-제련불가
-Class: ^777777투구^000000    Defense : ^7777772^000000
-Location: ^777777상중단^000000    Weight : ^77777740^000000
-Required Level: ^77777750^000000
-Jobs : ^777777All Jobs^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18582#
-순진하던 사람도 이 마스크를 쓰게 되면, 전사가 된다는 소문이 있다.
-STR + 3
-HP + 100
-제련불가
-Class: ^777777투구^000000    Defense : ^7777772^000000
-Location: ^777777상중단^000000    Weight : ^77777740^000000
-Required Level: ^77777750^000000
-Jobs : ^777777All Jobs^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18583#
-머리위에 얹고 다닐수 있도록 만들어진 인형. 어디선가 고양이 울음소리가 들리거나 머리위에서 움직임이 느껴지거나 하는건 기분탓이다.
-MDEF +15
-저주에 대한 내성 30%
-Class: ^777777Headgear^000000    Defense : ^7777773^000000
-Location: ^777777상단^000000    Weight : ^77777750^000000
-Required Level: ^777777None^000000
-Jobs : ^777777노비스계열을 제외한 All Jobs^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18584#
-머리위에 얹고 다닐수 있도록 만들어진 인형. 어디선가 고양이 울음소리가 들리거나 머리위에서 움직임이 느껴지거나 하는건 기분탓이다.
-MDEF +15
-저주에 대한 내성 30%
-Class: ^777777Headgear^000000    Defense : ^7777773^000000
-Location: ^777777상단^000000    Weight : ^77777750^000000
-Required Level: ^777777None^000000
-Jobs : ^777777노비스계열을 제외한 All Jobs^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18591#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18593#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18595#
 Ancient_Horns
@@ -29631,7 +28449,7 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18607#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18611#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -29681,118 +28499,118 @@ Required Level: ^77777770^000000
 Jobs: ^777777All except novice^000000
 #
 18638#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18639#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18640#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18641#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18642#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18643#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18644#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18645#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18646#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18647#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18648#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18656#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18657#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18659#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18660#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18661#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18662#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18663#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18664#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18665#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18666#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18667#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18668#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18669#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18670#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18671#
 Unidentified. You can identify it with a [Magnifier].
 #
 18673#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18674#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18675#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18676#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18677#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18678#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18679#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18680#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18681#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18682#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18683#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18684#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 19502#
 A pair of goggles
@@ -29808,137 +28626,43 @@ Weight: ^7777770^000000
 Jobs: ^777777All^000000
 #
 19507#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 19509#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 19510#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 19513#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 19514#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 19515#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 19516#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 19517#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 19518#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 19519#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 19520#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 19521#
-Unknown Item, can be identified by [Magnifier]
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 19522#
-Unknown Item, can be identified by [Magnifier]
-#
-19525#
-A pair of glasses that
-are worn on the head
-for a more charming
-appearance, instead of
-vision related purposes.
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Upper^000000
-Weight: ^7777770^000000
-Jobs: ^777777All^000000
-#
-19527#
-A headband with
-two dangerously
-fashionable spikes.
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Upper^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All Except Novice^000000
-#
-19529#
-A headband adorned
-with what appears to
-be the wings of an angel.
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Upper^000000
-Weight: ^7777770^000000
-Jobs: ^777777All^000000
-#
-19580#
-The ornamental version of long dead Pharaoh Amset-Ra’s headdress. It is lightweight and can be worn over your existing hat-
-For decorative use.
-Class: ^777777Costume^000000
-Location: ^777777Upper & Lower^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs : ^777777All^000000
-#
-19581#
-The lucky, well-worn hat of former adventurer Mort Whimsey.
-During the Event, gives a chance of dropping artifact fragments while worn.
-These can be traded in to re-enter the Anniversary instance dungeon
-Class: ^777777Costume^000000
-Location: ^777777Upper & Lower^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs : ^777777All^000000
-#
-19582#
-The fancy Cowboy hat of the western Cowboy.  Part of the Western Costume Set, obtainable from the ^0000CCGoCash East West Costume Box^000000.
-West Costume Set :
-Costume Cowboy Hat
-Costume Zorro Mask,
-Costume Dagger in Mouth
-Untradable
-Class: ^777777Costume^000000
-Location: ^777777Upper^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs : ^777777All^000000
-#
-19583#
-The mysterious mask of the roguish hero.  Part of the Western Costume Set, obtainable from the ^0000CCGoCash East West Costume Box^000000.
-West Costume Set :
-Costume Cowboy Hat
-Costume Zorro Mask,
-Costume Dagger in Mouth
-Class: ^777777Costume^000000
-Location: ^777777Middle^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs : ^777777All^000000
-#
-19584#
-Never bring only a knife to a gun fight, but having a spare knife is always handy.  Part of the Western Costume Set, obtainable from the ^0000CCGoCash East West Costume Box^000000.
-West Costume Set :
-Costume Cowboy Hat
-Costume Zorro Mask,
-Costume Dagger in Mouth
-Class: ^777777Costume^000000
-Location: ^777777Upper^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs : ^777777All^000000
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 25005#
 ^ff0000This box can be traded and sold to npc. Once opened the item inside is account bound.^000000
@@ -29948,7 +28672,7 @@ Stone, that is one of
 the three keys for the
 seal which binds
 Morpheus. INT +1,
-Max SP +5%
+MaxSP +5%
 ^99FF66Morpheus's Set^000000
 ^00FF00Morpheus's Hood^000000
 ^00FF00Morpheus's Shawl^000000
@@ -29974,7 +28698,7 @@ Morpheus's beloved,
 that is one of the three 
 keys for the seal which
 binds Morpheus.
-INT +1, Max SP +5%
+INT +1, MaxSP +5%
 ^99FF66Morpheus's Set^000000
 ^00FF00Morpheus's Hood^000000
 ^00FF00Morpheus's Shawl^000000
@@ -30024,7 +28748,7 @@ A circlet blessed by
 Freyja, mother of Baldur.
 MDEF +10
 INT +2
-Max SP +50 
+MaxSP +50 
 ^99FF66Frigg's Set^000000
 ^00FF00Fricca's Circlet^000000
 ^00FF00Valkyrja's Shield^000000

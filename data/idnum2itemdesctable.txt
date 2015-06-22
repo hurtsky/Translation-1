@@ -14263,7 +14263,22 @@ Required Level: ^77777760^000000
 Jobs: ^777777Transcendent Classes^000000
 #
 2488#
-[JRO item]
+A pair of shoes that were blessed by Freyr, the god of earth and the son of Njord.
+His blessing would release its owner from pain.
+AGI +2
+Increase recovery rate of Red, Orange, Yellow and White Potion by 20%
+[^6A5ACDNjord's Armor Set^000000]
+^3CB371Fricco's Shoes^000000
+^3CB371Falcon Muffler^000000
+^3CB371Odin's Blessing^000000
+AGI +3
+MaxHP +5%
+MaxSP +5%
+Class: ^777777Footgear^000000
+Defense: ^77777712^000000
+Weight: ^77777750^000000
+Required Level: ^77777765^000000
+Jobs: ^777777All except Novice^000000
 #
 2489#
 The boots worn by Vidar, son of Odin, when he killed the Fenrir Wolf.
@@ -26548,12 +26563,8 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 5110#
-A hat that looks
-just like a pacifier.
-Wearing it really
-brings you back to
-the good old days of
-hanging in the crib.
+A hat that looks just like a pacifier.
+Wearing it really brings you back to the good old days of hanging in the crib.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Lower^000000
@@ -77649,7 +77660,7 @@ A pigeon perched on his master's shoulder.
 All stats +1
 Randomly auto-casts 'Ruwach Level 1' when physically attacked.
 If equipped with Angel Wing, 5% bonus EXP earned when killing monsters.
-Unrefinable
+^FF0000Unrefineable^000000
 Class: ^777777Headgear^000000
 Location: ^777777Middle^000000
 Defense: ^7777775^000000
@@ -77662,7 +77673,7 @@ A gossiping raven that talks all day long.
 All stats +1
 Randomly auto-casts 'Ruwach Level 1' when physically attacked.
 If equipped with Grand Circlet, 5% bonus EXP earned when killing monsters.
-Unrefinable
+^FF0000Unrefineable^000000
 Class: ^777777Headgear^000000
 Location: ^777777Middle^000000
 Defense: ^7777775^000000
@@ -77674,7 +77685,7 @@ Jobs: ^777777All^000000
 A cute baby deviling that chases his master all day.
 All stats +1
 Randomly auto-casts 'Level 7 Blessing' when attacking physically.
-Unrefinable
+^FF0000Unrefineable^000000
 Class: ^777777Headgear^000000
 Location: ^777777Middle^000000
 Defense: ^7777775^000000
@@ -77686,7 +77697,7 @@ Jobs: ^777777All^000000
 Scary but beautiful. Blood is still dripping from the wings, don't ask how it was acquired.
 MaxHP +200
 FLEE +1
-Unrefinable
+^FF0000Unrefineable^000000
 Class: ^777777Headgear^000000
 Location: ^777777Middle^000000
 Defense: ^7777775^000000
@@ -77698,7 +77709,7 @@ Jobs: ^777777All^000000
 A balloon shaped like a bear. It is often mistaken as a Poring.
 STR +1, LUK +1
 MaxHP +50
-Unrefinable
+^FF0000Unrefineable^000000
 Class: ^777777Headgear^000000
 Location: ^777777Lower^000000
 Defense: ^7777775^000000
@@ -77709,7 +77720,7 @@ Jobs: ^777777All^000000
 18917#
 One of the best ways to show love. It makes you feel thrilled with your love relationship.
 All Stats +1
-Unrefinable
+^FF0000Unrefineable^000000
 Class: ^777777Headgear^000000
 Location: ^777777Lower^000000
 Defense: ^7777775^000000
@@ -77721,7 +77732,7 @@ Jobs: ^777777All^000000
 A balloon shaped like an octopus. It sticks to its owner by using suckers.
 VIT +1, INT +1
 MaxSP +30
-Unrefinable
+^FF0000Unrefineable^000000
 Class: ^777777Headgear^000000
 Location: ^777777Lower^000000
 Defense: ^7777775^000000
@@ -77733,7 +77744,7 @@ Jobs: ^777777All^000000
 A common familiar often summoned by vampires. Very useful in scouting danger ahead of time.
 FLEE +5
 When equipped with Magestic Goat[1], STR +3 and FLEE +5
-Unrefinable
+^FF0000Unrefineable^000000
 Class: ^777777Headgear^000000
 Location: ^777777Lower^000000
 Defense: ^7777775^000000
