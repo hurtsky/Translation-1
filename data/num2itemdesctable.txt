@@ -30573,7 +30573,7 @@ Weight: ^7777771^000000
 12501#
 ^800080Event paid item.^000000
 The epitome of Louyang cuisine. It's ingredients may be hard to find, but culinarily speaking, it's a masterpiece.
-Gives Str +10 for 30 minutes.
+Gives STR +10 for 30 minutes.
 ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
@@ -37356,7 +37356,7 @@ It is said that it uses 30% of Moonlight Flower's fur, and 70% of Nine Tails fur
 Note that you should only use hand washing to clean it.
 Wear this with your Nine Tails scarf for the perfect winter fashion!
 Automatically cast ^008800Level 1 Increase Agility^000000 by chance when struck by Physical attack.
-Dex +2
+DEX +2
 ^FFFFFF_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^FFFFFF_^000000
@@ -41969,7 +41969,7 @@ Weight: ^7777771^000000
 A box that contains 1 "Dark Randgris Helm" inside.
 ^FFFFFF_^000000
 A helm laced with the power of Valkyrie Randgris. It helps its wearer to concentrate better.
-Dex +3, MDEF +1
+DEX +3, MDEF +1
 ^FFFFFF_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^FFFFFF_^000000
@@ -41989,7 +41989,7 @@ Weight: ^7777771^000000
 A box that contains 1 "Dark Randgris Helm" inside.
 ^FFFFFF_^000000
 A helm laced with the power of Valkyrie Randgris. It helps its wearer to concentrate better.
-Dex +3, MDEF +1
+DEX +3, MDEF +1
 ^FFFFFF_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^FFFFFF_^000000
@@ -46100,7 +46100,7 @@ Weight: ^7777771^000000
 #
 16505#
 ^800080Event paid item.^000000
-Gives Str +10 for 30 minutes. Do not spoil the dish requires special treatment.
+Gives STR +10 for 30 minutes. Do not spoil the dish requires special treatment.
 Weight: ^7777771^000000
 #
 16506#
@@ -46110,22 +46110,22 @@ Weight: ^7777771^000000
 #
 16507#
 ^800080Event paid item.^000000
-Gives Int +10 for 30 minutes. Do not spoil the dish requires special treatment.
+Gives INT +10 for 30 minutes. Do not spoil the dish requires special treatment.
 Weight: ^7777771^000000
 #
 16508#
 ^800080Event paid item.^000000
-Gives Dex +10 for 30 minutes. Do not spoil the dish requires special treatment.
+Gives DEX +10 for 30 minutes. Do not spoil the dish requires special treatment.
 Weight: ^7777771^000000
 #
 16509#
 ^800080Event paid item.^000000
-Gives Luk +10 for 30 minutes. Do not spoil the dish requires special treatment.
+Gives LUK +10 for 30 minutes. Do not spoil the dish requires special treatment.
 Weight: ^7777771^000000
 #
 16510#
 ^800080Event paid item.^000000
-Gives Vit +10 for 30 minutes. Do not spoil the dish requires special treatment.
+Gives VIT +10 for 30 minutes. Do not spoil the dish requires special treatment.
 Weight: ^7777771^000000
 #
 16514#

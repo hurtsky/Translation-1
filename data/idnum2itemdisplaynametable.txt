@@ -1827,7 +1827,7 @@
 2755#Clamorous_Ring#
 2756#Chemical_Ring#
 2757#Insecticide_Ring#
-2758#Fischer_Ring#
+2758#Fisher_Ring#
 2759#Decussate_Ring#
 2760#Bloody_Ring#
 2761#Satanic_Ring#

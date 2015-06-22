@@ -15692,7 +15692,8 @@ Jobs: ^777777All except Novice^000000
 #
 2626#
 An ancient rosary.
-LUK +1, MDEF +3
+LUK +1
+MDEF +3
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777720^000000
@@ -15716,10 +15717,10 @@ Jobs: ^777777Novice^000000
 #
 2629#
 Legendary Belt rumored to be owned by Thor the god of thunder,which increases its wearer's strength.
-STR +40, MDEF +7
-Increase STR depends on the player's Base level.
-When pure STR is 120, gives 10% physical damage to Boss monsters.
-^FFFFFF_^000000
+STR +40
+MDEF +7
+Increase 1 STR for every 5 Base level.
+When base STR is 120, increase 10% physical damage to Boss monsters.
 Class: ^777777Accessory^000000
 Defense: ^7777772^000000
 Weight: ^777777800^000000
@@ -15728,10 +15729,10 @@ Jobs: ^777777All^000000
 #
 2630#
 Legendary necklace worn by Goddess Freija. It is an accessory of Gods that provide multiple abilities to its casters.
-STR +6, AGI +6, VIT +6, INT +10, LUK +10
+STR +6, AGI +6, VIT +6
+INT +10, LUK +10
 MDEF +5
-Increases HP Restoration of [Heal] and [Sanctuary] by 6% when they are cast by the wearer.
-^FFFFFF_^000000
+Increases Healing skills by 6%.
 Class: ^777777Accessory^000000
 Defense: ^7777771^000000
 Weight: ^777777150^000000
@@ -15816,16 +15817,15 @@ Jobs: ^777777All^000000
 2644#
 A captivatingly beautiful artifact rewarded by the gods to a chosen warrior.
 However, it seems to be more than just a voucher that grants entrance into Valhalla...
-ATK +5%, MATK +5%.
+ATK +5%
+MATK +5%
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 2645#
-An enchanted ring that
-was forged by the dead
-under the moonlight.
+An enchanted ring that was forged by the dead under the moonlight.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777720^000000
@@ -15833,8 +15833,7 @@ Required Level: ^77777760^000000
 Jobs: ^777777Thief Classes, Ninja^000000
 #
 2646#
-A carnation bouquet
-given as gifts to mothers.
+A carnation bouquet given as gifts to mothers.
 All Stats +3
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
@@ -15842,14 +15841,8 @@ Weight: ^77777710^000000
 Jobs: ^777777All^000000
 #
 2647#
-An extremely rare
-jewel attached to
-a solid silver chain
-bracelet symbolizing
-strength, growth and
-energy. This bracelet
-was crafted to mark
-iRO's second anniversary. MaxHP +10
+An extremely rare jewel attached to a solid silver chain bracelet symbolizing strength, growth and energy.
+MaxHP +10
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -15857,7 +15850,8 @@ Jobs: ^777777All^000000
 #
 2648#
 A ring, enchanted with the power of the Fate Stone, that is one of the three keys for theseal which binds Morpheus.
-INT +1, MaxSP +5%
+INT +1
+MaxSP +5%
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -15866,7 +15860,8 @@ Jobs: ^777777All except Novice^000000
 #
 2649#
 A bracelet, rumored to be a memento of Morpheus's beloved, that is one of the three keys for the seal which binds Morpheus.
-INT +1, MaxSP +5%
+INT +1
+MaxSP +5%
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -15875,7 +15870,8 @@ Jobs: ^777777All except Novice^000000
 #
 2650#
 The belt that Morrigane kept as a memento of CuChulain after he perished in battle.
-ATK +5, CRIT +3
+ATK +5
+CRIT +3
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777720^000000
@@ -15885,7 +15881,8 @@ Jobs: ^777777All except Novice^000000
 2651#
 The pendant that ChuChulain gave to Morrigane when they were both still in love.
 It's symoblic of her endless devotion, as she stood by his side even after he had abandoned her.
-STR +2, CRIT +3
+STR +2
+CRIT +3
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777720^000000
@@ -15894,8 +15891,8 @@ Jobs: ^777777All except Novice^000000
 #
 2652#
 A cursed brooch which, ironically, was owned by the goddess of fortune.
-CRIT +6%
-Has a low chance of auto cast Curse effect on its owner in battle.
+CRIT +6
+Has a low chance of Cursing its owner in battle.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -15909,7 +15906,8 @@ Sacrifice Ring...
 #
 2654#
 Belt equipped by a famous ninja. The pattern has a mysterious glow and it seems to have certain magical power.
-STR +1, AGI +1, MDEF +1
+STR +1, AGI +1
+MDEF +1
 [^6A5ACDNinja Shinobi armor set^000000]
 ^008800Ninja Suit^000000
 ^008800Shinobi Sash^000000
@@ -15936,7 +15934,8 @@ Jobs: ^777777All except Novice^000000
 A mysterious, ancient artifact that can endow normal armor with great defensive power, although it does make the wearer feel very sluggish.
 MaxHP +50
 [+^008800Padded Armor^000000]
-DEF +5, MaxHP +150.
+DEF +5
+MaxHP +150
 Class: ^777777Accessory^000000
 Defense: ^7777771^000000
 Weight: ^777777100^000000
@@ -15951,7 +15950,7 @@ Jobs: ^777777All^000000
 #
 2658#
 A bracelet on which the Hellion's jewel is affixed in order to seal its evil power.
-HP +10
+MaxHP +10
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -15959,7 +15958,9 @@ Jobs: ^777777All^000000
 #
 2659#
 An object which seems to be part of the Vesper. Possesses a mysterious power that enables its owner to clear his mind.
-MDEF +3, INT +2, MaxSP +5%.
+INT +2
+MaxSP +5%
+MDEF +3
 Class: ^777777Accessory^000000
 Defense: ^7777771^000000
 Weight: ^77777710^000000
@@ -15967,7 +15968,9 @@ Jobs: ^7777772nd Transcendent classes^000000
 #
 2660#
 An object which seems to be part of the Vesper. Possesses a mysterious power that grants great strength to its owner.
-MDEF +3, STR +3, ATK +10
+STR +3
+ATK +10
+MDEF +3
 Class: ^777777Accessory^000000
 Defense: ^7777771^000000
 Weight: ^77777710^000000
@@ -15975,7 +15978,9 @@ Jobs: ^7777772nd Transcendent classes^000000
 #
 2661#
 An object which seems to be part of the Vesper. Possesses a mysterious power that grants agility to he who wears it.
-MDEF +3, AGI +3, Flee +5
+AGI +3
+Flee +5
+MDEF +3
 Class: ^777777Accessory^000000
 Defense: ^7777771^000000
 Weight: ^77777710^000000
@@ -15983,7 +15988,9 @@ Jobs: ^7777772nd Transcendent classes^000000
 #
 2662#
 An object which seems to be part of the Vesper. Possesses a mysterious power that endows the owner with greater accuracy and dexterity.
-MDEF +3, DEX +3, HIT +10
+DEX +3
+HIT +10
+MDEF +3
 Class: ^777777Accessory^000000
 Defense: ^7777771^000000
 Weight: ^77777710^000000
@@ -15991,7 +15998,8 @@ Jobs: ^7777772nd Transcendent classes^000000
 #
 2663#
 A glove made from a strange material. It allows you to hold you're weapon with a firm grip, increasing the strength and accuracy of attacks.
-HIT +15, STR +1
+STR +1
+HIT +15
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777790^000000
@@ -16000,7 +16008,7 @@ Jobs: ^777777All^000000
 #
 2664#
 When it comes to having both good looks and functionality, this is the way to go.
-DEX +2, INT +1
+INT +1, DEX +2
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777720^000000
@@ -16009,7 +16017,7 @@ Jobs: ^777777All except Novice^000000
 #
 2665#
 A symbol of faith to servants of God, this ring possesses a holy power that can repel evil.
-Increase EXP from Undead and Demon monsters by 5%.
+Increase EXP gained from killing Undead and Demon monsters by 5%.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777750^000000
@@ -16019,7 +16027,7 @@ Jobs: ^777777Acolyte^000000
 2666#
 A coconut oil lamp in which a dim light that repels evil is burning.
 STR +2
-Adds +10% Blind resistance.
+Increase resistance against Blind by 10%.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -16027,7 +16035,9 @@ Jobs: ^777777All^000000
 #
 2667#
 A pair of gloves that enhance the wearer's concentration, enabling him to perform amazing feats of hitting accuracy.
-HIT +5, CRIT +5, DEX +1
+DEX +1
+HIT +5
+CRIT +5
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777730^000000
@@ -16062,7 +16072,7 @@ Jobs: ^777777All^000000
 #
 2671#
 A thimble for archers that enhances their shooting accuracy.
-Increases damage inflicted with Bow Class Weapons.
+Increases long ranged physical attack by 3%.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -16097,7 +16107,6 @@ Jobs: ^777777All^000000
 #
 2675#
 Lord Ring
-...
 All Stats +3
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
@@ -16113,7 +16122,7 @@ Jobs: ^777777All^000000
 #
 2677#
 A beautiful ring imbued with strange spiritual powers that result in surprising effects when worn with the right items.
-INT +2, DEX +1.
+DEX +1, INT +2
 [^6A5ACDSpirtual Wizardry Set^000000]
 ^008800Spiritual Ring^000000
 ^008800Wizardry Staff or Soul Staff^000000
@@ -16134,7 +16143,8 @@ Jobs: ^777777All^000000
 2678#
 A ring imbued with the power of the fire spirit king, which can be used to strengthen the wearer's weapon.
 This ring forms a matching set with the Ring of Resonance.
-STR +2, VIT +1, ATK +15.
+VIT +1, STR +2
+ATK +15
 Increases resistance to ^FF0000Fire^000000 property attacks by 10%.
 Adds a chance to auto cast various skills with each physical attack.
 When worn with the ^008800Ring of Resonance^000000, this ring adds the Auto Spell ability.
@@ -16145,7 +16155,8 @@ Jobs: ^7777772nd Transcendent classes^000000
 #
 2679#
 A ring that resonates with the ^008800Ring of Flame Lord^000000: together, they form a matching set.
-AGI +2, VIT +1. MDEF +2.
+VIT +1, AGI +2
+MDEF +2
 Adds a chance of auto casting various skills while receiving physical damage.
 Class: ^777777Accessory^000000
 Defense: ^7777772^000000
@@ -16154,7 +16165,8 @@ Jobs: ^7777772nd Transcendent classes^000000
 #
 2680#
 A ring that holds the power of lesser elemental spirits, but its true effect is unknown.
-All Stats +1.
+All Stats +1
+Has chance to autocast random spells when attacking or being attacked.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -16218,7 +16230,7 @@ Jobs: ^777777All except Novice^000000
 2687#
 ^000088Rental Item^000000
 A small flower made of steel.
-Has a low chance to cast Lvl 1 Recovery when its wearer receives physical damage.
+Has chance to autocast Level 1 Recovery when its wearer receives physical damage.
 Class: ^777777Headgear^000000
 Defense: ^7777771^000000
 Location: ^777777Lower^000000
@@ -16288,7 +16300,8 @@ Jobs: ^777777All except Novice^000000
 2694#
 ^000088Rental Item^000000
 An ancient rosary.
-LUK +4, MDEF +5
+LUK +4
+MDEF +5
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
@@ -16298,7 +16311,8 @@ Jobs: ^777777All except Novice^000000
 2695#
 ^000088Rental Item^000000
 A strange ring that curiously raises its wearer's defenses.
-DEF +8, MDEF +8
+DEF +8
+MDEF +8
 Class: ^777777Accessory^000000
 Defense: ^7777775^000000
 Weight: ^7777770^000000
@@ -16308,7 +16322,9 @@ Jobs: ^777777All except Novice^000000
 2696#
 ^000088Rental Item^000000
 An object that seems to have been part of a Vesper. It has the mysterious power to clear its owner's mind.
-MDEF +3, INT +2, MaxSP +5%
+INT +2
+MaxSP +5%
+MDEF +3
 Class: ^777777Accessory^000000
 Defense: ^7777771^000000
 Weight: ^7777770^000000
@@ -16318,7 +16334,9 @@ Jobs: ^777777All except Novice^000000
 2697#
 ^000088Rental Item^000000
 An object which seems to be part of a Vesper that can mysteriously empower its wearer with enhanced strength.
-MDEF +3, STR +3, ATK +10
+STR +3
+ATK +10
+MDEF +3
 Class: ^777777Accessory^000000
 Defense: ^7777771^000000
 Weight: ^7777770^000000
@@ -16328,7 +16346,9 @@ Jobs: ^777777All except Novice^000000
 2698#
 ^000088Rental Item^000000
 An object which seems to be part of a Vesper that can mysteriously empower its wearer with enhanced agility.
-MDEF +3, AGI +3, Flee +5
+AGI +3
+Flee +5
+MDEF +3
 Class: ^777777Accessory^000000
 Defense: ^7777771^000000
 Weight: ^7777770^000000
@@ -16338,7 +16358,9 @@ Jobs: ^777777All except Novice^000000
 2699#
 ^000088Rental Item^000000
 An object which seems to be part of a Vesper that can mysteriously empower its wearer by enhancing his accuracy and dexterity.
-MDEF +3, DEX +3, HIT +10
+DEX +3
+HIT +10
+MDEF +3
 Class: ^777777Accessory^000000
 Defense: ^7777771^000000
 Weight: ^7777770^000000
@@ -16348,7 +16370,7 @@ Jobs: ^777777All except Novice^000000
 2700#
 Red silk that a female saint could use to seal evil.
 [+^008800Spectral Spear^000000]
-Increases resistance to Confuse status
+Increases resistance to Confuse status.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -16359,7 +16381,8 @@ Swordman Classes^000000
 2701#
 A pair of gloves that were once worn by a palace chef.
 Wearing these make you feel as if you could draw upon the dexterity that chef used in cooking.
-DEX +2, MATK +3%
+DEX +2
+MATK +3%
 [+^008800Orlean's Server^000000]
 Reduce variable cast time by 10%
 Class: ^777777Accessory^000000
@@ -16371,7 +16394,7 @@ Jobs except Novice^000000
 #
 2702#
 An ornament made from wild bison horns.
-AGI +2.
+AGI +2
 [^6A5ACDBison Set^000000]
 ^008800Thorny Buckler^000000
 ^008800Bison Horn^000000
@@ -16386,7 +16409,8 @@ Jobs except Novice^000000
 #
 2703#
 Beings that obtained ultimate power found a way to maximize their abilities by attaining a deep understanding of themselves, knowing that power always has its cost.
-Skill Delay reduced by 5% at the cost of increasing SP Consumption by 5%.
+Reduce after cast delay by 5%.
+Increase SP Consumption by 5%.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777715^000000
@@ -16432,8 +16456,8 @@ placeholder
 2710#
 ^000088Rental item^000000
 A leg iron, long time ago, it used to make don't move of panther prisoner. However, the prisoner used his leg iron as his weapon.
-ATK +30.
-Used with Gold PC Cafe, All Stats +1.
+ATK +30
++Gold PC Cafe, All Stats +1.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
@@ -16462,7 +16486,7 @@ Jobs: ^777777All^000000
 #
 2712#
 Collectible comics Ragnarok. There is someone's autograph written in it.
-Dex +3, Vit +3, Luk +3.
+DEX +3, VIT +3, LUK +3
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777730^000000
@@ -16488,10 +16512,11 @@ Jobs: ^777777All^000000
 #
 2716#
 A glove which is a favorite item among librarians.
-SP +20.
+MaxSP +20
 [+^008800Pocket Watch & Ancient Magic or Principles of Magic^000000]
-INT +5, MaxHP +700,
-Increase in ASPD(delay after attacking reduces by 5%)
+INT +5
+MaxHP +700
+ASPD +5%
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -16501,8 +16526,8 @@ Jobs: ^777777Wizard, Sage, Soul Linker^000000
 2717#
 A silver-colored watch with connecting chain.
 [+^008800Monocle & Memory Book^000000]
-HP and SP recovery speed increased by 15%,
 MATK +7%
+HP and SP recovery speed increased by 15%,
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777720^000000
@@ -16512,7 +16537,8 @@ Jobs: ^777777Mage Jobs/Soul Linker^000000
 2718#
 A crescent-shaped golden shining brooch.
 [+^008800Luna Bow^000000]
-DEX +1, SP +50,
+DEX +1
+MaxSP +50
 SP recovery rate +10%.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
@@ -16531,17 +16557,25 @@ Jobs: ^777777Swordman and Merchant Class^000000
 #
 2720#
 A medal rewarded to honorable warriors.
-ATK +5%, MATK +5%, HIT +10, MaxHP +500, MaxSP +50.
+MaxHP +500
+MaxSP +50
+ATK +5%
+MATK +5%
+HIT +10
 Has a low chance of inflicting ^FF0000Stun^000000 when attacking an enemy with melee attacks.
 Class: ^777777Accessory^000000
 Defense: ^7777771^000000
 Weight: ^7777770^000000
 Required Level: ^77777770^000000
-Jobs: ^777777Swordman / Star Gladiator^000000
+Jobs: ^777777Swordman and Star Gladiator^000000
 #
 2721#
 A medal rewarded to honorable warriors.
-ATK +5%, MATK +5%, FLEE +10, MaxHP +300, MaxSP +80.
+MaxHP +300
+MaxSP +80
+ATK +5%
+MATK +5%
+FLEE +10
 Has a chance of inflicting the ^FF0000Poison^000000 status when attacking an enemy with melee attacks.
 Class: ^777777Accessory^000000
 Defense: ^7777771^000000
@@ -16551,7 +16585,10 @@ Jobs: ^777777Thief and Ninja^000000
 #
 2722#
 A medal rewarded to honorable warriors.
-ATK +5%, MATK +5%, MDEF +6, MaxHP +600.
+MaxHP +600
+ATK +5%
+MATK +5%
+MDEF +6
 Has a chance of inflicting the ^FF0000Silence^000000 status when attacking an enemy with melee attacks.
 Class: ^777777Accessory^000000
 Defense: ^7777771^000000
@@ -16561,17 +16598,24 @@ Jobs: ^777777Acolyte^000000
 #
 2723#
 A medal rewarded to honorable warriors.
-ATK +5%, MATK +5%, MDEF +6, MaxHP +600.
-Has a chance of inflicting the ^FF0000Stone^000000 status when the wearer receives physical damage.
+MaxHP +600
+ATK +5%
+MATK +5%
+MDEF +6
+Has a chance of inflicting the ^FF0000Stone Curse^000000 status when the wearer receives physical damage.
 Class: ^777777Accessory^000000
 Defense: ^7777771^000000
 Weight: ^7777770^000000
 Required Level: ^77777770^000000
-Jobs: ^777777Mage Classes/Soul Linker^000000
+Jobs: ^777777Mage and Soul Linker^000000
 #
 2724#
 A medal rewarded to honorable warriors.
-ATK +5%, MATK +5%, CRIT +10, MaxHP +300, MaxSP +80.
+MaxHP +300
+MaxSP +80
+ATK +5%
+MATK +5%
+CRIT +10
 Has a chance of inflicting the ^FF0000Blind^000000 status when attacking an enemy with long ranged physical attacks.
 Class: ^777777Accessory^000000
 Defense: ^7777771^000000
@@ -16581,7 +16625,11 @@ Jobs: ^777777Archer Classes^000000
 #
 2725#
 A medal rewarded to honorable warriors.
-ATK +5%, MATK +5%, ASPD +10%, MaxHP +500, MaxSP +50.
+MaxHP +500
+MaxSP +50
+ATK +5%
+MATK +5%
+ASPD +10%
 Has a chance of inflicting the ^FF0000Curse^000000 status when attacking an enemy with melee attacks.
 Class: ^777777Accessory^000000
 Defense: ^7777771^000000
@@ -16591,7 +16639,8 @@ Jobs: ^777777Merchant^000000
 #
 2726#
 A brooch shaped like beautiful white wings for the Icarus members.
-SP +50, DEX +3
+DEX +3
+MaxSP +50
 [+^008800Bowman Scarf^000000]
 Reduce SP consumption by 25%.
 Class: ^777777Accessory^000000
@@ -16602,7 +16651,8 @@ Jobs: ^777777Sniper^000000
 #
 2727#
 A nice arm-wrapping red scarf.
-SP +50, DEX +3.
+DEX +3
+MaxSP +50
 [+^008800Icarus Wings^000000]
 Reduce SP consumption by 25%.
 Class: ^777777Accessory^000000
@@ -16613,8 +16663,9 @@ Jobs: ^777777Sniper^000000
 #
 2728#
 A dried bone hand. It releases a feeling of mystery.
-HIT +10, Increases HP recovery by 20%.
-When dealing physical damage, has 3% chance to Autocast ^FF0000Level 1 Fatal Wound^000000.
+HIT +10
+Increases HP recovery by 20%.
+When dealing physical damage, has 3% chance to autocast Level 1 ^FF0000Fatal Wound^000000.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777775^000000
@@ -16623,8 +16674,9 @@ Jobs: ^777777All except Novice^000000
 #
 2729#
 A ring with mysterious letters carved into it. It is so beautiful, it fascinates all people.
-MaxHP +100, MaxSP +100.
-Increases effectiveness of ^FF0000Heal^000000 skill by 5%.
+MaxHP +100
+MaxSP +100
+Increases effectiveness of Healing skills by 5%.
 Increases Physical Damage to Satan Morocc by 10%.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
@@ -16633,7 +16685,8 @@ Jobs: ^777777Transcendent 2nd Classes^000000
 #
 2730#
 A royal gift to a member of the Continental Guard.
-MaxHP +50, ASPD +3%
+MaxHP +50
+ASPD +3%
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777775^000000
@@ -16642,8 +16695,8 @@ Jobs: ^777777All except Novice^000000
 #
 2731#
 One of the royal gifts which are given to the members of the Morocc Dispatch.
-MaxSP +50,
-Reduces Variable Casting Time by 1%.
+MaxSP +50
+Reduces variable cast time by 1%.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777775^000000
@@ -16652,7 +16705,7 @@ Jobs: ^777777All except Novice^000000
 #
 2732#
 One of the royal gifts which are given to the members of the Morocc Dispatch.
-CRIT +5.
+CRIT +5
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777775^000000
@@ -16661,7 +16714,11 @@ Jobs: ^777777All except Novice^000000
 #
 2733#
 A badge rewarded to honorable warriors.
-ATK +5%, MATK +5%, CRIT +10, MaxHP +300, MaxSP +80.
+MaxHP +300
+MaxSP +80
+ATK +5%
+MATK +5%
+CRIT +10
 Has a chance of inflicting Blind status when receiving long ranged physical attacks.
 Class: ^777777Accessory^000000
 Defense: ^7777771^000000
@@ -16699,9 +16756,9 @@ placeholder
 2741#
 ^000088Rental Item^000000
 A Jewelry Ring that contains a 3 Seal Magic Spell.
+All Stats +1
 Enables use of Level 1 Heal and Level 1 Teleport.
 Casting cannot be interrupted.
-All Stats +1.
 Increases Variable Casting Time by 10%.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
@@ -16720,9 +16777,9 @@ Jobs: ^777777All^000000
 #
 2743#
 A ring which bears holy powers that responds to certain abilities and strenthens their potency.
-INT +2, DEX +1
-If the power of the ring activates when using Heal, Potion Pitcher, Sanctuary Skills, the recovery in HP of those skills increase by 20% for 3 sec.
+DEX +1, INT +2
 MDEF +2
+If the power of the ring activates when using Heal, Potion Pitcher, Sanctuary Skills, the recovery in HP of those skills increase by 20% for 3 sec.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -16731,12 +16788,14 @@ Jobs: ^7777772nd Transcendent classes^000000
 #
 2744#
 A ring that gives you a feeling of flying like a rocket through the wind.
-Reduces Variable Casting Tiime of skills by 10%, but increases after skill delay by 5%.
+Reduces variable cast time by 10%.
+Increases after cast delay by 5%.
 [^6A5ACDSprint Set^000000]
 ^008800Sprint Mail^000000
 ^008800Sprint Shoes^000000
 ^008800Sprint Ring^000000
-MaxHP/SP +7%
+MaxHP +7%
+MaxSP +7%
 Reduce variable casting time by 3%
 Reduce after skill delay by 15%
 Class: ^777777Accessory^000000
@@ -16746,7 +16805,8 @@ Jobs: ^7777772nd Transcendent classes^000000
 #
 2745#
 A small Corsge that looks like Pinguicula.
-MDEF +2, SP +25
+MaxSP +25
+MDEF +2
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777720^000000
@@ -16756,8 +16816,8 @@ Jobs: ^7777772nd Transcendent classes^000000
 A little something that Assassins should have. There're a number of rumors regarding the blood stain at the end of the blade.
 AGI +3
 [+^008800Rogue's Treasure^000000]
+ASPD +3%
 Increase +8% damage against medium sized monsters.
-ASPD +3%.
 Class: ^777777Accessory^000000
 Defense: ^7777771^000000
 Weight: ^77777710^000000
@@ -16768,8 +16828,8 @@ Jobs: ^777777Assassin Cross^000000
 A pendant which symbolizes a well-known Rogue Guild among people in dark side.
 DEX +3
 [+^008800Rogue's Treasure^000000]
+HIT +3
 Increase +8% damage against large sized monsters.
-HIT +3.
 Reduce variable cast time by 3%.
 Class: ^777777Accessory^000000
 Defense: ^7777771^000000
@@ -16779,8 +16839,10 @@ Jobs: ^777777Stalker^000000
 #
 2748#
 A mechanic who was born under the cursed star made this necklace to protect himself. It is enchanted with magic to harness the power of curses.
-DEX +2, LUK -1, MDEF +3
-When equipped, 50 HP is drained every 10 sec. and drain 300 HP when unequiped.
+DEX +2, LUK -1
+MDEF +3
+Drain 50 HP every 10 seconds.
+Drain 300 HP when unequiped.
 Has a 2% chance of cursing enemies while doing long-ranged physical attacks.
 [+^008800Cursed Lyre^000000]
 ATK +25 and additional 2% chance of curse.
@@ -16793,9 +16855,10 @@ Jobs: ^777777Transcendent Archer^000000
 2749#
 A glove made of material you've never seen before.
 Amazingly light and suitable for use with just about any weapon.
-AGI +2, DEX +1, MDEF +1
+DEX +1, AGI +2
+MDEF +1
 [+^008800Improved Tights^000000]
-Perfect Dodge +5.
+Perfect Dodge +5
 Class: ^777777Accessory^000000
 Defense: ^7777771^000000
 Weight: ^77777712^000000
@@ -16812,7 +16875,7 @@ Jobs: ^777777All^000000
 #
 2751#
 The first process should be able to complete the first accessories to complete the process of the sign.
-If the base level is less than or equal to 79, MaxHP +400, MaxSP +200
+If the base level is lower than 80, MaxHP +400 and MaxSP +200
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -16820,7 +16883,8 @@ Jobs: ^777777All^000000
 #
 2752#
 Ring created from leaves of grass, which emanates from a mysterious force. It is said that it was created from the shoots of Yggdrasil.
-ATK +5%, MATK +5%.
+ATK +5%
+MATK +5%
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
@@ -16830,7 +16894,7 @@ Jobs: ^777777All^000000
 2753#
 ^000088Rental Items^000000
 A ring that has special power in each shape.
-Increases 15% experience from ^000088Neutral Monster^000000.
+Increases 15% experience gained from killing Formless monsters.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
@@ -16840,7 +16904,7 @@ Jobs: ^777777All^000000
 2754#
 ^000088Rental Items^000000
 A ring that has special power in each shape.
-Increases 15% experience from ^000088Undead Monster^000000.
+Increases 15% experience gained from killing Undead monsters.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
@@ -16850,7 +16914,7 @@ Jobs: ^777777All^000000
 2755#
 ^000088Rental Items^000000
 A ring that has special power in each shape.
-Increases 15% experience from ^000088Brute Monster^000000.
+Increases 15% experience gained from killing Brute monsters.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
@@ -16860,7 +16924,7 @@ Jobs: ^777777All^000000
 2756#
 ^000088Rental Items^000000
 A ring that has special power in each shape.
-Increases 15% experience from ^000088Plant Monster^000000.
+Increases 15% experience gained from killing Plant monsters.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
@@ -16870,7 +16934,7 @@ Jobs: ^777777All^000000
 2757#
 ^000088Rental Items^000000
 A ring that has special power in each shape.
-Increases 15% experience from ^000088Insect Monster^000000.
+Increases 15% experience gained from killing Insect monsters.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
@@ -16880,7 +16944,7 @@ Jobs: ^777777All^000000
 2758#
 ^000088Rental Items^000000
 A ring that has special power in each shape.
-Increases 15% experience from ^000088Fish Monster^000000.
+Increases 15% experience gained from killing Fish monsters.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
@@ -16890,7 +16954,7 @@ Jobs: ^777777All^000000
 2759#
 ^000088Rental Items^000000
 A ring that has special power in each shape.
-Increases 15% experience from ^000088Demon Monster^000000.
+Increases 15% experience gained from killing Demon monsters.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
@@ -16900,7 +16964,7 @@ Jobs: ^777777All^000000
 2760#
 ^000088Rental Items^000000
 A ring that has special power in each shape.
-Increases 15% experience from ^000088DemiHuman Monster^000000.
+Increases 15% experience gained from killing Demihuman monsters.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
@@ -16910,7 +16974,7 @@ Jobs: ^777777All^000000
 2761#
 ^000088Rental Items^000000
 A ring that has special power in each shape.
-Increases 15% experience from ^000088Angel Monster^000000.
+Increases 15% experience gained from killing Angel monsters.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
@@ -16920,7 +16984,7 @@ Jobs: ^777777All^000000
 2762#
 ^000088Rental Items^000000
 A ring that has special power in each shape.
-Increases 15% experience from ^000088Dragon Monster^000000.
+Increases 15% experience gained from killing Dragon monsters.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
@@ -16930,8 +16994,10 @@ Jobs: ^777777All^000000
 2763#
 ^000088Rental Items^000000
 A weird ring adorned with a skull in which the words, "^990000Forever, until death...^000000" are engraved.
-ATK +5%, MATK +5%
-MaxHP +5%, Increases heal effectiveness by 5%.
+MaxHP +5%
+ATK +5%
+MATK +5%
+Increases heal effectiveness by 5%.
 Enables use of ^008800Level 1 Sight^000000.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
@@ -16948,7 +17014,8 @@ Jobs: ^777777All^000000
 #
 2765#
 A fine figure of a Novice. A mere glance at it makes you feel like you have more strength.
-HP +70, extra effect of MaxHP +30 when equipped on Novice
+MaxHP +70
+MaxHP +30 when equipped by Novice
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -16956,7 +17023,8 @@ Jobs: ^777777All^000000
 #
 2766#
 A fine figure of a Swordman. It exudes the honor of the class it represents.
-VIT +1, extra effect of DEF +2 when equipped on Swordman class
+VIT +1
+DEF +2 when equipped by Swordman classes.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
@@ -16964,7 +17032,8 @@ Jobs: ^777777All^000000
 #
 2767#
 A fine figure of an Acolyte, radiating intellectual power.
-INT +1, extra effect of SP +50 when equipped on Acolyte class
+INT +1
+MaxSP +50 when equipped by Acolyte classes.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
@@ -16972,7 +17041,8 @@ Jobs: ^777777All^000000
 #
 2768#
 A fine figure of a Mage, radiating wisdom and mystical power.
-INT +1, an extra SP Recovery increase by 5% when equipped on Mage class
+INT +1
+SP Recovery increase by 5% when equipped by Mage classes.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
@@ -16980,7 +17050,8 @@ Jobs: ^777777All^000000
 #
 2769#
 A fine figure of an Archer that makes its bearer feel like he/she can see better.
-DEX +1, extra effect of ATK +10 when equipped on Archer class
+DEX +1
+Extra effect of ATK +10 when equipped by Archer classes.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
@@ -16988,8 +17059,8 @@ Jobs: ^777777All^000000
 #
 2770#
 A fine figure of a Thief, which has a mischievous smile on it.
-AGI +1, when equipped on Thief class,
-increase in ASPD(delay after attacking reduces by 3%)
+AGI +1
+ASPD +3% when equipped by Thief classes.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
@@ -16997,18 +17068,23 @@ Jobs: ^777777All^000000
 #
 2771#
 A fine figure of a Merchant that makes its bearer feel strengthened.
-STR +1, extra effect of CRIT +5 when equipped on Merchant class
+STR +1
+CRIT +5 when equipped by Merchant classes.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
 Jobs: ^777777All^000000
 #
 2772#
-HP +300. Resistance to attacks with ^0000BBWater^000000, ^7BCC70Wind^000000, ^cc5500Earth^000000, and ^FF0000Fire^000000 properties +10%.
-ASPD +5%. Variable Casting Speed reduces by 3%
-HP recovery +5% when using [Heal], [Sanctuary], or [Potion Pitcher].
-When equipped with a Medal of Honor, Attack power against all enemies +5%, MATK +3%,
-HP recovery +5% when using [Heal], [Sanctuary], or [Potion Pitcher].
+MaxHP +300
+ASPD +5%
+Resistance against ^0000BBWater^000000, ^7BCC70Wind^000000, ^cc5500Earth^000000, and ^FF0000Fire^000000 properties attack +10%.
+Variable Casting Speed reduces by 3%
+Increase effectiveness of Healing skills by 5%.
+When equipped with a Medal of Honor,
+ATK +5%
+MATK +3%
+Increase effectiveness of Healing skills by 5%.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
@@ -17050,7 +17126,7 @@ Weight: ^77777710^000000
 A ring worn only by those belonging to the Shaman order.
 It can teleport it's wearer in Glast Heim with the help of Sapphires.
 Sapphires can be found at the Entrance to Glast Heim, Chivalry, St. Abbey, and Culvert.
-MaxHP +50,
+MaxHP +50
 SP recovery +3%.
 [^0000FFShaman Set^000000]
 ^6A5ACDShaman Ring^000000
@@ -17066,7 +17142,7 @@ Required Level: ^77777730^000000
 Jobs: ^777777All^000000
 #
 2778#
-INT +2.
+INT +2
 [^0000FFShaman Set^000000]
 ^6A5ACDShaman Ring^000000
 ^6A5ACDShaman's Hair Ornament^000000
@@ -17082,7 +17158,7 @@ Jobs: ^777777All^000000
 #
 2779#
 A belt once worn by a Knight shrouded in darkness that gives strength to those who wear it.
-STR +2, AGI +1.
+AGI +1, STR +2
 [^0000FFDark Knight Set^000000]
 ^6A5ACDDark Knight Mask^000000
 ^6A5ACDDark Knight Belt^000000
@@ -17122,8 +17198,9 @@ Jobs: ^777777All^000000
 2782#
 A ring imitating the legendary ring of the Ancient Wise King who used to communicate with animals.
 Rune-Midgart's Magical Power, Schwarzwalt's technology, and Arunafeltz's linguistic ability are put together in this ring.
-By equipping this ring, you can talk freely with the people of in Ash Vacuum.
-MaxHP +50, MaxSP +20.
+By equipping this ring, you can communicate with the people of Ash Vacuum.
+MaxHP +50
+MaxSP +20
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -17131,7 +17208,8 @@ Jobs: ^777777All^000000
 #
 2783#
 A ring with a small bead set in. It feels like the bead is watching you.
-CRIT +2, MaxSP +25.
+MaxSP +25
+CRIT +2
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -17148,8 +17226,10 @@ Jobs: ^777777All^000000
 #
 2785#
 A pair of gloves that was once used by a palace chef. It feels like you can immitate the chef's way of using hand with this glove equipped on.
-DEX +2, MATK +3%.
-[^000088Orlean's Server & Orlean's Gloves Equip Set^000000]
+DEX +2
+MATK +3%
+[+^008800Orlean's Server^000000]
+Reduce variable cast time by 10%.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -17159,7 +17239,7 @@ Jobs: ^777777Every Rebirth Job except High Novice^000000
 2786#
 A beautiful ring which contains the spirits of the deceased.
 It is said to be able to amplify magic if it comes in contact with spiritual power.
-INT +2, DEX +1
+DEX +1, INT +2
 [+^000088 Wizardry Staff or Soul Staff^000000]
 MATK +6%, DEX +2
 Reduce Casting Time by Wizardry Staff or Soul Staff Refine Rate.
@@ -17175,8 +17255,9 @@ Jobs: ^777777All^000000
 #
 2787#
 A brooch made out of tear drops of the Aqua Elemental.
+MaxHP +1%
+MDEF +2
 Increases resistance to ^0000BBWater^000000 property by 5%.
-MaxHP +1%, MDEF +2
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777720^000000
@@ -17185,7 +17266,8 @@ Jobs: ^777777All Transcendent classes except Novice Classes^000000
 #
 2788#
 A strangely warm earring made out of Bradium Ore.
-MATK +2%, INT +1, DEX +1
+INT +1, DEX +1
+MATK +5
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777720^000000
@@ -17194,8 +17276,8 @@ Jobs: ^777777All Transcendent classes except Novice Classes^000000
 #
 2789#
 A very tough ring made out of Bradium Ore.
-STR +1, VIT +1,
-Increases attack damage on all monsters by 2%.
+STR +1, VIT +1
+ATK +5
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777720^000000
@@ -17204,8 +17286,9 @@ Jobs: ^777777All Transcendent classes except Novice Classes^000000
 #
 2790#
 A brooch made out of Bradium Ore.
-Flee +4, AGI +1,
-ASPD increases by 2% (after-attack delay)
+AGI +1
+Flee +4
+If base AGI is 120 or higher, CRIT +4.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777720^000000
@@ -17245,7 +17328,7 @@ Jobs: ^777777Rebirth 2nd Class or above^000000
 #
 2794#
 A bluish ring engraved with a mysterious rune. You can feel a mysterious energy from the sparkling rune.
-STR +2.
+STR +2
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
@@ -17305,7 +17388,7 @@ Jobs: ^777777All^000000
 #
 2800#
 A part used for the Mechanic Magic Gear skill, Acceleration.
-AGI +2.
+AGI +2
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -17314,7 +17397,7 @@ Jobs: ^777777Mechanic^000000
 #
 2801#
 A component to use the Mechanic Magic Gear Skill, Hovering.
-AGI +1.
+AGI +1
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^777777200^000000
@@ -17331,7 +17414,7 @@ Jobs: ^777777Mechanic^000000
 #
 2803#
 An accessory item to use the Mechanic Magic Gear Skill, Shape Shift.
-INT +3.
+INT +3
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777750^000000
@@ -18594,7 +18677,7 @@ Jobs: ^777777All except Novice^000000
 2957#
 Fire Spirit king's power ring. Once worn, your weapon will spout its boiling spirit power.
 A good pair with Modified Ring Of Resonance
-Str +3, Vit +2, ATK +20
+STR +3, VIT +2, ATK +20
 Resistance to fire damage +10%
 When dealing physical damage, autocasts various skills.
 When equipped in combination with Modified Ring of Resonance, the autocast skills increases.
@@ -18606,7 +18689,7 @@ Jobs: ^7777772nd Job, Star Gladiator, Soul Linker, Kagerou/Oboro^000000
 #
 2958#
 Missing pair ring for Modified Ring Of Flame Lord. Equipping together will bring extra effects for both rings.
-AGI +3, Vit +1, MDEF +2, MATK +10
+AGI +3, VIT +1, MDEF +2, MATK +10
 When recieving physical damage, autocasts various skills.
 Class: ^777777Accessory^000000
 Defense: ^7777772^000000
@@ -34626,7 +34709,7 @@ Jobs: ^777777All^000000
 #
 5967#
 Now we can fly to the sky with Galapagos!
-Agi +1.
+AGI +1.
 Auto spell Blizz Beat when attacking, depend on learned skill of Blizz Beat.
 Every base LUK increase the chance of Blizz Beat.
 If Steel Crow is learned increase Blizz Beat damage by 40%.
@@ -34673,12 +34756,12 @@ Jobs: ^777777All^000000
 #
 5970#
 A mysterious helm that can amplify the magic power of its wearer.
-Vit +3
+VIT +3
 MaxHP +4%
 When base level is 99 or lower:
-every 2 refine of helm, Vit +1.
+every 2 refine of helm, VIT +1.
 When base level is 100 or higher:
-every refine of helm, Vit +1.
+every refine of helm, VIT +1.
 When Rune Knight activate rune stone skills, grant various effects or additioanal rune stone skill.
 Has no effect on WoE, PVP and Turbo Track.
 Class: ^777777Headgear^000000
@@ -49269,7 +49352,7 @@ Weight: ^7777771^000000
 12501#
 ^800080Event paid item.^000000
 The epitome of Louyang cuisine. It's ingredients may be hard to find, but culinarily speaking, it's a masterpiece.
-Gives Str +10 for 30 minutes.
+Gives STR +10 for 30 minutes.
 ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
@@ -65194,7 +65277,7 @@ Jobs: ^777777Archbishop^000000
 Armor that is only provided for members of the Eden Group.
 There are various sizes so tall people don't have to worry about it.
 MaxHP +500, MaxSP +50,
-Str +1, Int +1, Dex +1
+STR +1, INT +1, DEX +1
 MDEF +5.
 ^FF0000Unrefineable^000000
 Class: ^777777Armor^000000
@@ -65755,17 +65838,17 @@ Jobs: ^777777Acolyte^000000
 MDEF +5
 MaxHP, MaxSP +5%, ATK +10, MATK +10.
 [^6A5ACDBase STR 90^000000]
-Str +1 every 2 refine level.
+STR +1 every 2 refine level.
 [^6A5ACDBase INT 90^000000]
-Int +1 every 2 refine level.
+INT +1 every 2 refine level.
 [^6A5ACDBase VIT 90^000000]
-Vit +1 every 2 refine level.
+VIT +1 every 2 refine level.
 [^6A5ACDBase AGI 90^000000]
 AGI +1 every 2 refine level.
 [^6A5ACDBase DEX 90^000000]
-Dex +1 every 2 refine level.
+DEX +1 every 2 refine level.
 [^6A5ACDBase LUK 90^000000]
-Luk +1 every 2 refine level.
+LUK +1 every 2 refine level.
 Has a chance to inflict Stun, Poison, Silence, Curse status when doing physical attack.
 A chance is increased depend on refine level.
 Class: ^777777Armor^000000
@@ -69102,7 +69185,7 @@ Weight: ^7777771^000000
 #
 16505#
 ^800080Event paid item.^000000
-Gives Str +10 for 30 minutes. Do not spoil the dish requires special treatment.
+Gives STR +10 for 30 minutes. Do not spoil the dish requires special treatment.
 Weight: ^7777771^000000
 #
 16506#
@@ -69112,22 +69195,22 @@ Weight: ^7777771^000000
 #
 16507#
 ^800080Event paid item.^000000
-Gives Int +10 for 30 minutes. Do not spoil the dish requires special treatment.
+Gives INT +10 for 30 minutes. Do not spoil the dish requires special treatment.
 Weight: ^7777771^000000
 #
 16508#
 ^800080Event paid item.^000000
-Gives Dex +10 for 30 minutes. Do not spoil the dish requires special treatment.
+Gives DEX +10 for 30 minutes. Do not spoil the dish requires special treatment.
 Weight: ^7777771^000000
 #
 16509#
 ^800080Event paid item.^000000
-Gives Luk +10 for 30 minutes. Do not spoil the dish requires special treatment.
+Gives LUK +10 for 30 minutes. Do not spoil the dish requires special treatment.
 Weight: ^7777771^000000
 #
 16510#
 ^800080Event paid item.^000000
-Gives Vit +10 for 30 minutes. Do not spoil the dish requires special treatment.
+Gives VIT +10 for 30 minutes. Do not spoil the dish requires special treatment.
 Weight: ^7777771^000000
 #
 16514#
@@ -76106,7 +76189,7 @@ Jobs: ^777777All^000000
 #
 18765#
 Big hat for old pirate captain. Grotesque looks represents its owner himself very well. Worn out too much.
-Vit +1 MaxHP +5%
+VIT +1 MaxHP +5%
 Refined to +7 or higher, Neutral resistance +1%.
 Refined to +9 or higher, MaxHP +3%
 Class: ^777777Headgear^000000
@@ -77938,7 +78021,7 @@ Jobs: ^777777All^000000
 #
 18956#
 Colorful sugar sprinkled above on a delicious chocolate.
-Str +1, Int +1, Luk +1
+STR +1, INT +1, LUK +1
 Class: ^777777Headgear^000000
 Defense: ^7777771^000000
 Location: ^777777Lower^000000
@@ -78249,7 +78332,7 @@ Jobs: ^777777All^000000
 #
 19020#
 A headgear worn by practitioner.
-Int +3, MATK +4%
+INT +3, MATK +4%
 When Base Lv less than 99, every 2 refine increase INT +1.
 When Base Lv more then 100, every refine increase INT +1.
 +Survival rod[1], every refine of rod increase MATK +10.
@@ -87790,7 +87873,7 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 24007#
-Dex +2
+DEX +2
 Class: ^777777Shadow Equipment^000000
 Location: ^777777Weapon^000000
 Weight: ^7777770^000000
@@ -87831,7 +87914,7 @@ Jobs: ^777777All^000000
 #
 24012#
 Gloves with accuracy enhance.
-Dex +1
+DEX +1
 Class: ^777777Shadow Equipment^000000
 Location: ^777777Weapon^000000
 Weight: ^7777770^000000
@@ -87840,7 +87923,7 @@ Jobs: ^777777All^000000
 #
 24013#
 Armor with luck enhance.
-Luk +1
+LUK +1
 Class: ^777777Shadow Equipment^000000
 Location: ^777777Armor^000000
 Weight: ^7777770^000000
@@ -87858,7 +87941,7 @@ Jobs: ^777777All^000000
 #
 24015#
 Shield with Vitality enhance.
-Vit +1
+VIT +1
 Class: ^777777Shadow Equipment^000000
 Location: ^777777Shield^000000
 Weight: ^7777770^000000
@@ -87867,7 +87950,7 @@ Jobs: ^777777All^000000
 #
 24016#
 An earring with Intelligence enhance.
-Int +1
+INT +1
 Class: ^777777Shadow Equipment^000000
 Location: ^777777Accessory^000000
 Weight: ^7777770^000000
@@ -87876,7 +87959,7 @@ Jobs: ^777777All^000000
 #
 24017#
 A pendant with strength enhance.
-Str +1
+STR +1
 Class: ^777777Shadow Equipment^000000
 Location: ^777777Accessory^000000
 Weight: ^7777770^000000
