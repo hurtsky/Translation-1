@@ -1661,6 +1661,24 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
+	[583] = {
+		unidentifiedDisplayName = "Ketupat Sayur",
+		unidentifiedResourceName = "똠양꿍",
+		unidentifiedDescriptionName = {
+			"Food Eaten Slowly to replenish your body from rituals of fasting Replenish the Weakened body and give energy to protect the body.",
+			"^FFFFFF_^000000",
+			"Weight: ^77777715^000000"
+		},
+		identifiedDisplayName = "Ketupat Sayur",
+		identifiedResourceName = "똠양꿍",
+		identifiedDescriptionName = {
+			"Food Eaten Slowly to replenish your body from rituals of fasting Replenish the Weakened body and give energy to protect the body.",
+			"^FFFFFF_^000000",
+			"Weight: ^77777715^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
 	[584] = {
 		unidentifiedDisplayName = "Fish Cake Soup",
 		unidentifiedResourceName = "똠양꿍",
@@ -1685,6 +1703,46 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
+	[585] = {
+		unidentifiedDisplayName = "Brusti",
+		unidentifiedResourceName = "부르스티",
+		unidentifiedDescriptionName = {
+			"A sausage with delicious smell and taste. Tastes even better if you eat it with some wheat beer.",
+			"^000088Recovers a small amount of HP^000000.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777774^000000"
+		},
+		identifiedDisplayName = "Brusti",
+		identifiedResourceName = "부르스티",
+		identifiedDescriptionName = {
+			"A sausage with delicious smell and taste. Tastes even better if you eat it with some wheat beer.",
+			"^000088Recovers a small amount of HP^000000.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777774^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[586] = {
+		unidentifiedDisplayName = "Mother's Cake",
+		unidentifiedResourceName = "조각케이크",
+		unidentifiedDescriptionName = {
+			"A piece of cake filled with mother's love.",
+			"^000088Restores about 325 HP^000000.",
+			"^FFFFFF_^000000",
+			"Weight: ^77777710^000000"
+		},
+		identifiedDisplayName = "Mother's Cake",
+		identifiedResourceName = "조각케이크",
+		identifiedDescriptionName = {
+			"A piece of cake filled with mother's love.",
+			"^000088Restores about 325 HP^000000.",
+			"^FFFFFF_^000000",
+			"Weight: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
 	[587] = {
 		unidentifiedDisplayName = "Red Prickly Fruit",
 		unidentifiedResourceName = "가시열매_",
@@ -1705,38 +1763,82 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
+	[588] = {
+		unidentifiedDisplayName = "Spaghetti",
+		unidentifiedResourceName = "똠양꿍",
+		unidentifiedDescriptionName = {
+			"A noodle dish from a far nation, made from water and flour. Many tastes can be achieved using various sauces.",
+			"^FFFFFF_^000000",
+			"Weight: ^77777710^000000"
+		},
+		identifiedDisplayName = "Spaghetti",
+		identifiedResourceName = "똠양꿍",
+		identifiedDescriptionName = {
+			"A noodle dish from a far nation, made from water and flour. Many tastes can be achieved using various sauces.",
+			"^FFFFFF_^000000",
+			"Weight: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[589] = {
+		unidentifiedDisplayName = "Piece of Pizza",
+		unidentifiedResourceName = "피자",
+		unidentifiedDescriptionName = {
+			"A delicious snack food that is a favorite of Teenagers everywhere.",
+			"^000088Restore a moderate amount of HP^000000",
+			"^FFFFFF_^000000",
+			"Weight: ^77777715^000000"
+		},
+		identifiedDisplayName = "Piece of Pizza",
+		identifiedResourceName = "피자",
+		identifiedDescriptionName = {
+			"A delicious snack food that is a favorite of Teenagers everywhere.",
+			"^000088Restore a moderate amount of HP^000000",
+			"^FFFFFF_^000000",
+			"Weight: ^77777715^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[590] = {
+		unidentifiedDisplayName = "Pretzel",
+		unidentifiedResourceName = "브리젤_",
+		unidentifiedDescriptionName = {
+			"Looks so yummy that you will feel like to have a bite instantly.",
+			"^000088Recover a small amount of HP^000000.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777772^000000"
+		},
+		identifiedDisplayName = "Pretzel",
+		identifiedResourceName = "브리젤_",
+		identifiedDescriptionName = {
+			"Looks so yummy that you will feel like to have a bite instantly.",
+			"^000088Recover a small amount of HP^000000.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777772^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
 	[591] = {
 		unidentifiedDisplayName = "Caviar Pancake",
 		unidentifiedResourceName = "캐비어팬케이크",
 		unidentifiedDescriptionName = {
-			"		",
-			"A pancake topped		",
-			"with caviar. Average		",
-			"people have trouble		",
-			"telling the difference		",
-			"between fine caviar		",
-			"and common frog		",
-			"spawn eggs. ^000088Cures		",
-			"all abnormal statuses^000000,		",
-			"^000088recovers HP and SP^000000.		",
-			"^ffffff_^000000		",
-			"Weight: ^77777715^000000		",
+			"A pancake topped with caviar. Average people have trouble telling the difference between fine caviar and common frog spawn eggs.",
+			"^000088Cures all abnormal statuses^000000",
+			"^000088Recovers HP and SP^000000.",
+			"^FFFFFF_^000000",
+			"Weight: ^77777715^000000"
 		},
 		identifiedDisplayName = "Caviar Pancake",
 		identifiedResourceName = "캐비어팬케이크",
 		identifiedDescriptionName = {
-			"	",
-			"A pancake topped	",
-			"with caviar. Average	",
-			"people have trouble	",
-			"telling the difference	",
-			"between fine caviar	",
-			"and common frog	",
-			"spawn eggs. ^000088Cures	",
-			"all abnormal statuses^000000,	",
-			"^000088recovers HP and SP^000000.	",
-			"^ffffff_^000000	",
-			"Weight: ^77777715^000000	",
+			"A pancake topped with caviar. Average people have trouble telling the difference between fine caviar and common frog spawn eggs.",
+			"^000088Cures all abnormal statuses^000000",
+			"^000088Recovers HP and SP^000000.",
+			"^FFFFFF_^000000",
+			"Weight: ^77777715^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0
@@ -10299,6 +10401,26 @@ tbl = {
 		slotCount = 2,
 		ClassNum = 3
 	},
+	[1177] = {
+		unidentifiedDisplayName = "One-Handed Sword",
+		unidentifiedResourceName = "소드",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Muramash",
+		identifiedResourceName = "무라마사",
+		identifiedDescriptionName = {
+			"Item For Brave Guild Adventurers.",
+			"ATK +50%",
+			"Class: ^777777One-Handed Sword^000000",
+			"Attack: ^777777120^000000",
+			"Weight: ^7777770^000000",
+			"Weapon Level: ^7777771^000000",
+			"Jobs: ^777777Swordman^000000"
+		},
+		slotCount = 0,
+		ClassNum = 3
+	},
 	[1178] = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "바스타드소드",
@@ -10587,33 +10709,28 @@ tbl = {
 		slotCount = 3,
 		ClassNum = 3
 	},
-	[1194] = {
+	[1190] = {
 		unidentifiedDisplayName = "Two-Handed Sword",
-		unidentifiedResourceName = "드래곤슬레이어",
+		unidentifiedResourceName = "바스타드소드",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
 		},
-		identifiedDisplayName = "Rental Executioner",
-		identifiedResourceName = "액서큐셔너",
+		identifiedDisplayName = "Claymore",
+		identifiedResourceName = "크레이모어",
 		identifiedDescriptionName = {
-			"^000088Rental Item^000000",
-			"A gruesome sword used",
-			"to behead criminals judged with the death penalty.",
-			"Pierces Defense of",
-			"Demihuman monsters.",
-			"Increases damage inflicted on Demihuman monsters by 20%, but increases damage received by Demihuman monsters by 10%.",
-			"This item cannot be Dropped or Traded.",
-			"Class :",
-			"^777777Two-handed Sword^000000",
-			"Attack: ^777777190^000000",
+			"^000088Rental Items^000000",
+			"Large, double-edged broad sword that was used by the Scottish highlanders.",
+			"Increases damage against small, medium, large size monsters by 40%.",
+			"[+^6A5ACDGold PC Cafe^000000]",
+			"ATK +10, MATK +10",
+			"Class: ^777777Two-Handed Sword^000000",
+			"Attack: ^777777220^000000",
 			"Weight: ^7777770^000000",
-			"Property: ^777777Shadow^000000",
-			"Weapon Level: ^7777774^000000",
 			"Required Level: ^7777771^000000",
-			"Jobs: ^777777Swordman Class^000000",
+			"Jobs: ^777777Knight and Crusader^000000"
 		},
 		slotCount = 0,
-		ClassNum = 0
+		ClassNum = 3
 	},
 	[1201] = {
 		unidentifiedDisplayName = "Dagger",
@@ -12164,6 +12281,49 @@ tbl = {
 		slotCount = 2,
 		ClassNum = 16
 	},
+	[1272] = {
+		unidentifiedDisplayName = "Katar",
+		unidentifiedResourceName = "카타르",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Scratcher",
+		identifiedResourceName = "등뒤를베는자",
+		identifiedDescriptionName = {
+			"Katar from Guild of Brave Adventurers.",
+			"ATK +50%",
+			"Class: ^777777Katar^000000",
+			"Attack: ^777777120^000000",
+			"Weight: ^7777770^000000",
+			"Weapon Level: ^7777771^000000",
+			"Jobs: ^777777Assassin^000000"
+		},
+		slotCount = 0,
+		ClassNum = 16
+	},
+	[1273] = {
+		unidentifiedDisplayName = "Katar",
+		unidentifiedResourceName = "카타르",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Bloody Roar",
+		identifiedResourceName = "블러디로어",
+		identifiedDescriptionName = {
+			"^000088Rental Item^000000",
+			"This katar, known for being effective against humans, is rumored to give a bestial roar when drenched in blood, hence its name.",
+			"Ignores Demihuman Defense.",
+			"Recover HP +3 every 5 seconds.",
+			"Class: ^777777Katar^000000",
+			"Attack: ^777777148^000000",
+			"Weight: ^7777770^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777Assassin^000000"
+		},
+		slotCount = 0,
+		ClassNum = 16
+	},
 	[1275] = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "카타르",
@@ -12349,6 +12509,28 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 16
 	},
+	[1283] = {
+		unidentifiedDisplayName = "Katar",
+		unidentifiedResourceName = "카타르",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Katar Of Speed",
+		identifiedResourceName = "로키의손톱",
+		identifiedDescriptionName = {
+			"^000088Rental Item^000000",
+			"ASPD +3%",
+			"Increase damage of Sonic Blow by 25%.",
+			"Class: ^777777Katar^000000",
+			"Attack: ^777777170^000000",
+			"Weight: ^77777770^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^77777780^000000",
+			"Jobs: ^777777Assassin^000000"
+		},
+		slotCount = 0,
+		ClassNum = 16
+	},
 	[1284] = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "카타르",
@@ -12390,6 +12572,29 @@ tbl = {
 			"Job : ^777777Assassin Cross Only^000000",
 		},
 		slotCount = 2,
+		ClassNum = 16
+	},
+	[1286] = {
+		unidentifiedDisplayName = "Katar",
+		unidentifiedResourceName = "카타르",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Jamadhar",
+		identifiedResourceName = "자마다르",
+		identifiedDescriptionName = {
+			"^000088Rental Items^000000",
+			"A specially made katar with two blades that move like scissors to reveal a third blade from within.",
+			"Increases damage against small, medium, large size monsters by 40%.",
+			"[+^6A5ACDGold PC Cafe^000000]",
+			"ATK +10, MATK +10",
+			"Class: ^777777Katar^000000",
+			"Attack: ^777777200^000000",
+			"Weight: ^7777770^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777Assassin^000000"
+		},
+		slotCount = 0,
 		ClassNum = 16
 	},
 	[1301] = {
@@ -12627,6 +12832,49 @@ tbl = {
 			"Job : ^777777Transcendent Swordman/Merchant Classes^000000",
 		},
 		slotCount = 2,
+		ClassNum = 6
+	},
+	[1312] = {
+		unidentifiedDisplayName = "One-Handed Axe",
+		unidentifiedResourceName = "액스",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Orcish Axe",
+		identifiedResourceName = "오키쉬액스",
+		identifiedDescriptionName = {
+			"^000088Rental Items^000000",
+			"An axe crafted by Orcish smiths for Orcish warriors.",
+			"Increases damage against small, medium, large size monsters by 70%.",
+			"[Equipped in Gold PC Cafe]ATK +10, MATK +10",
+			"Class: ^777777One-Handed Axe^000000",
+			"Attack: ^777777110^000000",
+			"Weight: ^7777770^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777Novice, Swordman, Merchant and Assassin^000000"
+		},
+		slotCount = 0,
+		ClassNum = 6
+	},
+	[1313] = {
+		unidentifiedDisplayName = "One-Handed Axe",
+		unidentifiedResourceName = "액스",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Traveler's Axe",
+		identifiedResourceName = "액스",
+		identifiedDescriptionName = {
+			"Axe Travellers who travelled all around the world.",
+			"STR +2.",
+			"Class: ^777777One-Handed Axe^000000",
+			"Attack: ^77777777^000000",
+			"Weight: ^77777750^000000",
+			"Weapon Level: ^7777771^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777Novice, Swordman, Merchant and Assassin^000000"
+		},
+		slotCount = 0,
 		ClassNum = 6
 	},
 	[1314] = {
@@ -13180,6 +13428,29 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 61
 	},
+	[1373] = {
+		unidentifiedDisplayName = "Two-Handed Axe",
+		unidentifiedResourceName = "배틀액스",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Refined Bloody Axe",
+		identifiedResourceName = "블러드액스",
+		identifiedDescriptionName = {
+			"^000088Rental Items^000000",
+			"A terrifying axe that is said to fill the entire battlefield with blood once it cuts flesh.",
+			"MATK +20%, ASPD +5%",
+			"^FF0000Unrefineable^000000",
+			"Class: ^777777Two-Handed Axe^000000",
+			"Attack: ^777777205^000000",
+			"Weight: ^7777770^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777Swordman and Merchant^000000"
+		},
+		slotCount = 0,
+		ClassNum = 7
+	},
 	[1374] = {
 		unidentifiedDisplayName = "One-Handed Axe",
 		unidentifiedResourceName = "액스",
@@ -13243,30 +13514,18 @@ tbl = {
 		identifiedDisplayName = "Heart Breaker",
 		identifiedResourceName = "하트브레이커",
 		identifiedDescriptionName = {
-			"A special Two-Handed",
-			"Axe that was crafted",
-			"by a great blacksmith;",
-			"it seems capable of",
-			"destroying any kind",
-			"of armor. CRI +20,",
-			"increase Attack Speed.",
-			"delay after attacking reduces by 5%",
-			"CRI bonus raises",
-			"as weapon's Upgrade",
-			"Level is increased.",
-			"Has a chance of",
-			"auto casting Lv.3",
-			"Hammerfall when",
-			"worn by Mastersmiths",
-			"and Biochemists.",
-			"Class: ^777777Axe^000000",
-			"ATK: ^777777175^000000",
+			"A special Two-Handed Axe that was crafted by a great blacksmith.",
+			"It seems capable of destroying any kind of armor.",
+			"ASPD +5%",
+			"CRIT +20",
+			"CRIT bonus raises as weapon's Upgrade Level is increased.",
+			"Has a chance of auto casting Level 3 Hammerfall when worn by Whitesmith and Proffesor.",
+			"Class: ^777777Two-Handed Axe^000000",
+			"Attack: ^777777175^000000",
 			"Weight: ^777777200^000000",
-			"Weapon LV: ^7777774^000000",
+			"Weapon Level: ^7777774^000000",
 			"Required Level: ^77777770^000000",
-			"Jobs: ^777777Transcendent",
-			"Swordman and",
-			"Merchant Classes^000000",
+			"Jobs: ^777777Transcendent Swordman and Merchant^000000"
 		},
 		slotCount = 1,
 		ClassNum = 7
@@ -13280,36 +13539,43 @@ tbl = {
 		identifiedDisplayName = "Hurricane Fury",
 		identifiedResourceName = "허리케인퓨리",
 		identifiedDescriptionName = {
-			"A massive Two-Handed",
-			"Axe that is embedded",
-			"with an orb imbued",
-			"with the power of",
-			"a hurricane. Reduces",
-			"damage from Mid size",
-			"monsters by 10%;",
-			"raising this weapon's",
-			"Upgrade Level will",
-			"increase the amount",
-			"by which this damage",
-			"is reduced and add",
-			"an Attack Speed bonus.",
-			"Each attack has a",
-			"chance of inflicting",
-			"a fixed amount of",
-			"damage to all enemies",
-			"within a 15*15 cell",
-			"area, and knock them",
-			"7 cells backward.	",
-			"Class: ^777777Axe^000000",
-			"ATK: ^777777332^000000",
+			"A massive Two-Handed Axe that is embedded with an orb imbued with the power of a hurricane.",
+			"Reduces damage from medium size monsters by 10%;",
+			"raising this weapon's Upgrade Level will increase the amount by which this damage is reduced and add an ASPD bonus.",
+			"Each attack has a chance of inflicting a fixed amount of damage to all enemies within a 15*15 cell area, and knock them 7 cells backward.",
+			"Class: ^777777Two-Handed Axe^000000",
+			"Attack: ^777777332^000000",
 			"Weight: ^777777350^000000",
-			"Weapon LV: ^7777774^000000",
+			"Weapon Level: ^7777774^000000",
 			"Required Level: ^77777780^000000",
-			"Jobs: ^777777Transcendent",
-			"Swordman and",
-			"Merchant Classes^000000",
+			"Jobs: ^777777Transcendent Swordman and Merchant^000000"
 		},
 		slotCount = 1,
+		ClassNum = 7
+	},
+	[1378] = {
+		unidentifiedDisplayName = "Two-Handed Axe",
+		unidentifiedResourceName = "배틀액스",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Refined Great Axe",
+		identifiedResourceName = "그레이트액스",
+		identifiedDescriptionName = {
+			"^000088Rental Items^000000",
+			"A humongous, double bladed axe.",
+			"STR +5, HIT +20",
+			"Inflict the ^FF0000Stun^000000 status on targets by a high chance.",
+			"^008800Mammonite^000000 damage increased by 20%.",
+			"^FF0000Unrefineable^000000",
+			"Class: ^777777Two-Handed Axe^000000",
+			"Attack: ^777777215^000000",
+			"Weight: ^7777770^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777Swordman and Merchant^000000"
+		},
+		slotCount = 0,
 		ClassNum = 7
 	},
 	[1379] = {
@@ -13408,6 +13674,27 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 7
 	},
+	[1383] = {
+		unidentifiedDisplayName = "Two-Handed Axe",
+		unidentifiedResourceName = "배틀액스",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Holy Celestial Axe",
+		identifiedResourceName = "성천도끼",
+		identifiedDescriptionName = {
+			"Increases damage against Undead monster by 10%.",
+			"Add a chance of auto casting ^008800Level 5 Blessing^000000 on the enemy when attacking.",
+			"Class: ^777777Two-Handed Axe^000000",
+			"Attack: ^777777200^000000",
+			"Weight: ^777777150^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^77777760^000000",
+			"Jobs: ^777777Merchant^000000"
+		},
+		slotCount = 0,
+		ClassNum = 7
+	},
 	[1384] = {
 		unidentifiedDisplayName = "Two-Handed Axe",
 		unidentifiedResourceName = "배틀액스",
@@ -13460,6 +13747,32 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 7
 	},
+	[1386] = {
+		unidentifiedDisplayName = "Two-Handed Axe",
+		unidentifiedResourceName = "배틀액스",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Doom Slayer",
+		identifiedResourceName = "둠슬레이어",
+		identifiedDescriptionName = {
+			"A gigantic and ridiculously heavy axe that requires great strength to use it properly.",
+			"ASPD -25%",
+			"Doubles SP consumption of all skills.",
+			"[^008800Base STR >= 95^000000]",
+			"ATK +400",
+			"Causes ^FF0000Stun^000000 effect to enemies by 30% chance when receiving damage.",
+			"Add a 5% chance of breaking the enemy's armor when attacking.",
+			"Class: ^777777Two-Handed Axe^000000",
+			"Attack: ^77777720^000000",
+			"Weight: ^7777770^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777Swordman and Merchant^000000"
+		},
+		slotCount = 0,
+		ClassNum = 7
+	},
 	[1387] = {
 		unidentifiedDisplayName = "Two-Handed Axe",
 		unidentifiedResourceName = "배틀액스",
@@ -13481,6 +13794,55 @@ tbl = {
 		},
 		slotCount = 1,
 		ClassNum = 7
+	},
+	[1388] = {
+		unidentifiedDisplayName = "Two-Handed Axe",
+		unidentifiedResourceName = "배틀액스",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Two-Handed Axe",
+		identifiedResourceName = "투핸드액스",
+		identifiedDescriptionName = {
+			"^000088Rental Items^000000",
+			"A two-handed, double bladed axe.",
+			"Increases damage against small, medium, large size monsters by 40%.",
+			"Class: ^777777Two-Handed Axe^000000",
+			"Attack: ^777777220^000000",
+			"Weight: ^7777770^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777Swordman and Merchant^000000"
+		},
+		slotCount = 0,
+		ClassNum = 7
+	},
+	[1389] = {
+		unidentifiedDisplayName = "One-Handed Axe",
+		unidentifiedResourceName = "액스",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
+		},
+		identifiedDisplayName = "Tomahawk",
+		identifiedResourceName = "토마호크",
+		identifiedDescriptionName = {
+			"...",
+		},
+		slotCount = 0,
+		ClassNum = 6
+	},
+	[1390] = {
+		unidentifiedDisplayName = "Two-Handed Axe",
+		unidentifiedResourceName = "배틀액스",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
+		},
+		identifiedDisplayName = "Light Epsilon",
+		identifiedResourceName = "라이트엡실론",
+		identifiedDescriptionName = {
+			"...",
+		},
+		slotCount = 0,
+		ClassNum = 61
 	},
 	[1401] = {
 		unidentifiedDisplayName = "One-Handed Spear",
@@ -13958,6 +14320,52 @@ tbl = {
 		slotCount = 1,
 		ClassNum = 4
 	},
+	[1423] = {
+		unidentifiedDisplayName = "One-Handed Spear",
+		unidentifiedResourceName = "쟈벨린",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Pole XO",
+		identifiedResourceName = "폴액스",
+		identifiedDescriptionName = {
+			"The adventurers who are brave the item which is provided from the hazard adventurer guild.",
+			"Increases damage by 50%.",
+			"^FF0000Unrefineable^000000",
+			"Class: ^777777One-Handed Spear^000000",
+			"Attack: ^777777120^000000",
+			"Weight: ^7777770^000000",
+			"Weapon Level: ^7777771^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777Swordman^000000"
+		},
+		slotCount = 0,
+		ClassNum = 4
+	},
+	[1424] = {
+		unidentifiedDisplayName = "One-Handed Spear",
+		unidentifiedResourceName = "쟈벨린",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Refined Brocca",
+		identifiedResourceName = "꼬챙이",
+		identifiedDescriptionName = {
+			"^000088Rental Items^000000",
+			"A spear that has been made to puncture any armor worn by enemies.",
+			"Pierces Defense of its target.",
+			"Increase damage inflicted on Medium size monster by 20%.",
+			"^FF0000Unrefineable^000000",
+			"Class: ^777777One-Handed Spear^000000",
+			"Attack: ^777777149^000000",
+			"Weight: ^7777770^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777Swordman^000000"
+		},
+		slotCount = 0,
+		ClassNum = 4
+	},
 	[1425] = {
 		unidentifiedDisplayName = "One-Handed Spear",
 		unidentifiedResourceName = "쟈벨린",
@@ -14009,6 +14417,98 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 4
 	},
+	[1427] = {
+		unidentifiedDisplayName = "One-Handed Spear",
+		unidentifiedResourceName = "쟈벨린",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Spear Of Excellent",
+		identifiedResourceName = "롱기누스의창",
+		identifiedDescriptionName = {
+			"^000088Rental Item^000000",
+			"A good long spear.",
+			"STR +2",
+			"Increases 25% damage with Magnum Break skill.",
+			"Class: ^777777One-Handed Spear^000000",
+			"Attack: ^777777160^000000",
+			"Weight: ^7777770^000000",
+			"Weapon Level: ^7777773^000000",
+			"Jobs: ^777777Swordman^000000"
+		},
+		slotCount = 0,
+		ClassNum = 4
+	},
+	[1428] = {
+		unidentifiedDisplayName = "One-Handed Spear",
+		unidentifiedResourceName = "쟈벨린",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Long Horn",
+		identifiedResourceName = "롱혼",
+		identifiedDescriptionName = {
+			"A sword made with a holy horn. Has capacity to remove poison, and it is said being pierced by this spear causes you to bleed non-stop.",
+			"Small chance to cause ^FF0000Bleeding^000000 status ailment on the target.",
+			"Enables use of ^008800Level 1 Detoxify^000000.",
+			"^702180Indestructible^000000",
+			"[^000088+ Valkyrja's Shield^000000]",
+			"Whenever you take damage, small chance to auto-cast ^008800Level 2 Assumptio^000000 on yourself.",
+			"Class: ^777777One-Handed Spear^000000",
+			"Attack: ^777777150^000000",
+			"Weight: ^777777100^000000",
+			"Property: ^777777Holy^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^77777765^000000",
+			"Jobs: ^777777Transcendent Swordman^000000"
+		},
+		slotCount = 1,
+		ClassNum = 4
+	},
+	[1429] = {
+		unidentifiedDisplayName = "One-Handed Spear",
+		unidentifiedResourceName = "쟈벨린",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Hunting Spear",
+		identifiedResourceName = "헌팅스피어",
+		identifiedDescriptionName = {
+			"A spear designed specifically to hunt. The end tip looks like a leaf. This spear focused on using its weight to bring damage rather than to piercing the enemy.",
+			"Ignores DEF of Brute type monsters.",
+			"If you kill a Brute type monster, small chance to receive Meat.",
+			"Add a 5% chance of auto casting ^008800Level 3 Joint Beat^000000 on the enemy when attacking.",
+			"Class: ^777777One-Handed Spear^000000",
+			"Attack: ^777777180^000000",
+			"Weight: ^777777420^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^77777760^000000",
+			"Jobs: ^777777Transcendent Swordman^000000"
+		},
+		slotCount = 1,
+		ClassNum = 4
+	},
+	[1430] = {
+		unidentifiedDisplayName = "One-Handed Spear",
+		unidentifiedResourceName = "쟈벨린",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Pike",
+		identifiedResourceName = "파이크",
+		identifiedDescriptionName = {
+			"^000088Rental Items^000000",
+			"A long spear that is generally issued to foot soldiers.",
+			"Increases damage against small, medium, large size monsters by 70%.",
+			"Class: ^777777One-Handed Spear^000000",
+			"Attack: ^77777774^000000",
+			"Weight: ^7777770^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777Swordman^000000"
+		},
+		slotCount = 0,
+		ClassNum = 4
+	},
 	[1431] = {
 		unidentifiedDisplayName = "One-Handed Spear",
 		unidentifiedResourceName = "쟈벨린",
@@ -14032,6 +14532,20 @@ tbl = {
 			"Weapon Level: ^7777773^000000",
 			"Required Level: ^7777771^000000",
 			"Jobs: ^777777Swordman Class^000000",
+		},
+		slotCount = 0,
+		ClassNum = 4
+	},
+	[1432] = {
+		unidentifiedDisplayName = "One-Handed Spear",
+		unidentifiedResourceName = "쟈벨린",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
+		},
+		identifiedDisplayName = "Pole Axe",
+		identifiedResourceName = "폴액스",
+		identifiedDescriptionName = {
+			"...",
 		},
 		slotCount = 0,
 		ClassNum = 4
@@ -14852,6 +15366,52 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 5
 	},
+	[1487] = {
+		unidentifiedDisplayName = "Two-Handed Spear",
+		unidentifiedResourceName = "랜스",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Lance",
+		identifiedResourceName = "랜스",
+		identifiedDescriptionName = {
+			"^000088Rental Items^000000",
+			"A spear that is commonly used by mounted knights.",
+			"Increases damage against small, medium, large size monsters by 50%.",
+			"Class: ^777777Two-Handed Spear^000000",
+			"Attack: ^777777220^000000",
+			"Weight: ^7777770^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777Swordman^000000"
+		},
+		slotCount = 0,
+		ClassNum = 5
+	},
+	[1488] = {
+		unidentifiedDisplayName = "Two-Handed Spear",
+		unidentifiedResourceName = "랜스",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Ahlspiess",
+		identifiedResourceName = "알슈피스",
+		identifiedDescriptionName = {
+			"^000088Rental item^000000",
+			"Ignore enemy's defense.",
+			"Chance to activate level 5 pierce when attacking.",
+			"Increase damage against Demihuman monster by 20%.",
+			"[+^6A5ACDGold PC Cafe^000000]",
+			"Increase damage against Demihuman by 5%",
+			"Class: ^777777Two-Handed Spear^000000",
+			"Attack: ^777777135^000000",
+			"Weight: ^7777770^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777Knight and Crusader^000000"
+		},
+		slotCount = 0,
+		ClassNum = 5
+	},
 	[1501] = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
@@ -15515,6 +16075,27 @@ tbl = {
 		slotCount = 2,
 		ClassNum = 65
 	},
+	[1533] = {
+		unidentifiedDisplayName = "One-Handed Sword",
+		unidentifiedResourceName = "바스타드소드",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Warrior's Balmung",
+		identifiedResourceName = "발뭉",
+		identifiedDescriptionName = {
+			"Any man holding the Warrior's Balmung will gather new inner strength.",
+			"All Stats +5",
+			"Class: ^777777One-Handed Sword^000000",
+			"Attack: ^777777170^000000",
+			"Weight: ^777777100^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^77777748^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 8
+	},
 	[1534] = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "클럽",
@@ -15564,6 +16145,52 @@ tbl = {
 			"Jobs: ^777777Swordman, Acolyte, and Merchant Classes^000000",
 		},
 		slotCount = 1,
+		ClassNum = 8
+	},
+	[1536] = {
+		unidentifiedDisplayName = "Mace",
+		unidentifiedResourceName = "클럽",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Good Morning Star",
+		identifiedResourceName = "모닝스타",
+		identifiedDescriptionName = {
+			"The adventurers who are brave the item which is provided from the hazard adventurer guild.",
+			"ATK +50%",
+			"^FF0000Unrefineable^000000",
+			"Class: ^777777Mace^000000",
+			"Attack: ^777777120^000000",
+			"Weight: ^7777770^000000",
+			"Weapon Level: ^7777771^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777Swordman Class, Acolyte Class, Merchant Class^000000"
+		},
+		slotCount = 0,
+		ClassNum = 8
+	},
+	[1537] = {
+		unidentifiedDisplayName = "Mace",
+		unidentifiedResourceName = "클럽",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Refined Quadrille",
+		identifiedResourceName = "쿼드릴",
+		identifiedDescriptionName = {
+			"^000088Rental Items^000000",
+			"A heavy and powerful iron mace with a rounded top.",
+			"Increases damage against Undead Property monster and Demon monster by 40%.",
+			"Increases damage against DemiHuman monsters by 30%.",
+			"^FF0000Unrefineable^000000",
+			"Class: ^777777Mace^000000",
+			"Attack: ^777777193^000000",
+			"Weight: ^7777770^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777Acolyte^000000"
+		},
+		slotCount = 0,
 		ClassNum = 8
 	},
 	[1538] = {
@@ -15781,6 +16408,28 @@ tbl = {
 			"Weapon Level: ^7777774^000000",
 			"Required Level: ^77777780^000000",
 			"Job : ^777777Novice Class / Swordman Class / Acolyte Class / Merchant Classes^000000",
+		},
+		slotCount = 0,
+		ClassNum = 8
+	},
+	[1547] = {
+		unidentifiedDisplayName = "Mace",
+		unidentifiedResourceName = "클럽",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Mace Of Madness",
+		identifiedResourceName = "스파이크",
+		identifiedDescriptionName = {
+			"^000088Rental Item^000000",
+			"Mace of Insanity.",
+			"STR +2",
+			"Increases 25% damage with Cart Revolution skill.",
+			"Class: ^777777Mace^000000",
+			"Attack: ^777777150^000000",
+			"Weight: ^7777770^000000",
+			"Weapon Level: ^7777773^000000",
+			"Jobs: ^777777Swordman and Merchant^000000"
 		},
 		slotCount = 0,
 		ClassNum = 8
@@ -16065,6 +16714,29 @@ tbl = {
 		slotCount = 1,
 		ClassNum = 15
 	},
+	[1562] = {
+		unidentifiedDisplayName = "Book",
+		unidentifiedResourceName = "북",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Battlefield Textbook",
+		identifiedResourceName = "전장의서",
+		identifiedDescriptionName = {
+			"A book containing the History of many wars and the dreams of the strategists that took part in them.",
+			"Add a 1% chance of auto casting Level 3 Blessing on the user when attacking.",
+			"If the user has Blessing, it will cast it at the user level already learned.",
+			"^FF0000Unrefineable^000000",
+			"Class: ^777777Book^000000",
+			"Attack: ^777777110^000000",
+			"Weight: ^77777770^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^77777780^000000",
+			"Jobs: ^777777Priest, Sage and Star Gladiator^000000"
+		},
+		slotCount = 1,
+		ClassNum = 15
+	},
 	[1563] = {
 		unidentifiedDisplayName = "Book",
 		unidentifiedResourceName = "북",
@@ -16147,6 +16819,53 @@ tbl = {
 			"Taekwon Master Job^000000",
 		},
 		slotCount = 2,
+		ClassNum = 15
+	},
+	[1566] = {
+		unidentifiedDisplayName = "Book",
+		unidentifiedResourceName = "북",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Diary Of Great Basil",
+		identifiedResourceName = "현자의일기",
+		identifiedDescriptionName = {
+			"The adventurers who are brave the item which is provided from the hazard adventurer guild.",
+			"MATK +15%",
+			"Increases physical damage by 50%",
+			"^FF0000Unrefineable^000000",
+			"Class: ^777777Book^000000",
+			"Attack: ^777777120^000000",
+			"Weight: ^7777770^000000",
+			"Weapon Level: ^7777771^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777Priest, Sage and Star Gladiator^000000"
+		},
+		slotCount = 0,
+		ClassNum = 15
+	},
+	[1567] = {
+		unidentifiedDisplayName = "Book",
+		unidentifiedResourceName = "북",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Refined Hardcover Book",
+		identifiedResourceName = "양장본",
+		identifiedDescriptionName = {
+			"^000088Rental Items^000000",
+			"A thick and heavy hardcover book that could really do some hurt if swung around.",
+			"STR +5, DEX +2",
+			"MATK +100",
+			"^FF0000Unrefineable^000000",
+			"Class: ^777777Book^000000",
+			"Attack: ^777777168^000000",
+			"Weight: ^7777770^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777Priest, Sage and Star Gladiator^000000"
+		},
+		slotCount = 0,
 		ClassNum = 15
 	},
 	[1568] = {
@@ -16397,6 +17116,82 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 15
 	},
+	[1578] = {
+		unidentifiedDisplayName = "Book",
+		unidentifiedResourceName = "북",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Book Of Prayer",
+		identifiedResourceName = "바이블",
+		identifiedDescriptionName = {
+			"^000088Rental Item^000000",
+			"Book Of Prayer.",
+			"VIT +2",
+			"MDEF +10",
+			"MaxSP +10%",
+			"Class: ^777777Book^000000",
+			"Attack: ^777777140^000000",
+			"Weight: ^7777770^000000",
+			"Weapon Level: ^7777773^000000",
+			"Jobs: ^777777Priest, Sage and Star Gladiator^000000"
+		},
+		slotCount = 0,
+		ClassNum = 15
+	},
+	[1579] = {
+		unidentifiedDisplayName = "Book",
+		unidentifiedResourceName = "북",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Book of the Dead",
+		identifiedResourceName = "사신의명부",
+		identifiedDescriptionName = {
+			"A book containing names, used by the agents of death. There are times when the book of the dead is circulated in this world because they have dropped the book in the realm of the living. There are tons of names written in here, and there seems to be names of people you might know well ... It says Holg ... <Can not see clearly due to paper being torn>.",
+			"STR +3, INT +3, LUK -20",
+			"MATK +15%",
+			"Add a 10% chance of auto casting ^FF0000Coma^000000 effect on DemiHuman monster.",
+			"ASPD increased depending on the refinement rate of this weapon.",
+			"[^008800Sage class^000000]",
+			"There is a small chance to cause damage and ^FF0000Curse^000000 status ailment to every enemies in the screen they are in.",
+			"Class: ^777777Book^000000",
+			"Attack: ^777777137^000000",
+			"Weight: ^777777100^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^77777785^000000",
+			"Jobs: ^777777Priest, Sage and Star Gladiator^000000"
+		},
+		slotCount = 2,
+		ClassNum = 15
+	},
+	[1580] = {
+		unidentifiedDisplayName = "Book",
+		unidentifiedResourceName = "북",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Giant Encyclopedia",
+		identifiedResourceName = "대백과사전",
+		identifiedDescriptionName = {
+			"^000088Rental Items^000000",
+			"A gigantic encyclopedia produced by X company in Prontera, known mostly for its sharp and hard edges.",
+			"It is so hard to the point that people who got hit by the edges of this book often ask \"Did you guys install 3 carat Diamond on this?\".",
+			"INT +3, DEX +2",
+			"MATK +100",
+			"Critical rate +20",
+			"CRI bonus increases according to the wearer's LUK.",
+			"Increases damage against small, medium, large size monsters by 40%.",
+			"Class: ^777777Book^000000",
+			"Attack: ^777777145^000000",
+			"Weight: ^7777770^000000",
+			"Weapon Level: ^7777773^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777Priest, Sage and Star Gladiator^000000"
+		},
+		slotCount = 0,
+		ClassNum = 15
+	},
 	[1581] = {
 		unidentifiedDisplayName = "Book",
 		unidentifiedResourceName = "북",
@@ -16406,18 +17201,32 @@ tbl = {
 		identifiedDisplayName = "Diary Of Great Sage",
 		identifiedResourceName = "현자의일기",
 		identifiedDescriptionName = {
-			"^000088Rental Item^000000",
 			"The diary of a great",
 			"sage that was published without him ever knowing.",
 			"Matk +20%, Increases",
 			"Attack Speed by 5%",
 			"This item cannot be Dropped or Traded.",
-			"Class: ^777777Book^000000      Attack: ^777777135^000000",
+			"Class: ^777777Book^000000",
+			"Attack: ^777777135^000000",
 			"Weight: ^7777770^000000",
 			"Weapon Level: ^7777773^000000",
 			"Required Level: ^7777771^000000",
 			"Jobs: ^777777Priest, Sage,",
 			"Taekwon Master^000000",
+		},
+		slotCount = 2,
+		ClassNum = 15
+	},
+	[1582] = {
+		unidentifiedDisplayName = "Book",
+		unidentifiedResourceName = "북",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
+		},
+		identifiedDisplayName = "Diary Of Great Sage",
+		identifiedResourceName = "현자의일기",
+		identifiedDescriptionName = {
+			"...",
 		},
 		slotCount = 2,
 		ClassNum = 15
@@ -17013,6 +17822,27 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 10
 	},
+	[1627] = {
+		unidentifiedDisplayName = "One-Handed Staff",
+		unidentifiedResourceName = "롯드",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Staffy",
+		identifiedResourceName = "스태프",
+		identifiedDescriptionName = {
+			"A gift for a brave traveler.",
+			"INT +4",
+			"MATK +120",
+			"Class: ^777777One-Handed Staff^000000",
+			"Attack: ^77777740^000000",
+			"Weight: ^7777770^000000",
+			"WeaponLevel : ^7777771^000000",
+			"Jobs: ^777777Wizard, Acolyte and Soul Linker^000000"
+		},
+		slotCount = 0,
+		ClassNum = 10
+	},
 	[1629] = {
 		unidentifiedDisplayName = "One-Handed Staff",
 		unidentifiedResourceName = "롯드",
@@ -17218,6 +18048,28 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 10
 	},
+	[1638] = {
+		unidentifiedDisplayName = "One-Handed Staff",
+		unidentifiedResourceName = "롯드",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Staff Of Healing",
+		identifiedResourceName = "치유의지팡이",
+		identifiedDescriptionName = {
+			"A staff made with a branch from the tree Yggdrasil, created with the sole purpose to heal. The staff has something inscribed in ancient language, saying \"Mubeungjangsugiwon\", or \"Forever free of disease, and have a long life\".",
+			"MATK +125",
+			"Increases Healing skills by 15%.",
+			"Class: ^777777One-Handed Staff^000000",
+			"Attack: ^77777710^000000",
+			"Weight: ^7777770^000000",
+			"Weapon Level: ^7777773^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777Acolyte^000000"
+		},
+		slotCount = 0,
+		ClassNum = 10
+	},
 	[1639] = {
 		unidentifiedDisplayName = "One-Handed Staff",
 		unidentifiedResourceName = "롯드",
@@ -17325,6 +18177,53 @@ tbl = {
 			"Job : ^777777Mage Class / Acolyte Class / Soul Linker^000000",
 		},
 		slotCount = 0,
+		ClassNum = 10
+	},
+	[1644] = {
+		unidentifiedDisplayName = "One-Handed Staff",
+		unidentifiedResourceName = "롯드",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Staff of Piercing",
+		identifiedResourceName = "스태프오브피어싱",
+		identifiedDescriptionName = {
+			"A staff with a jewel in it that causes shockwave every once in a while. The shockwave sometimes nullifies enemy's magic defense.",
+			"MATK +15%, INT +4",
+			"When you attack using magical ability, it will ignore 10% of their MDEF and deals damage accordingly. The amount ignored will increase depending on the refinement rate of this weapon.",
+			"Class: ^777777One-Handed Staff^000000",
+			"Attack: ^77777780^000000",
+			"Weight: ^77777750^000000",
+			"Weapon Level: ^7777773^000000",
+			"Required Level: ^77777770^000000",
+			"Jobs: ^777777Transcendent Mage and Acolyte^000000"
+		},
+		slotCount = 0,
+		ClassNum = 10
+	},
+	[1645] = {
+		unidentifiedDisplayName = "One-Handed Staff",
+		unidentifiedResourceName = "롯드",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Lich's Bone Wand",
+		identifiedResourceName = "리치해골지팡이",
+		identifiedDescriptionName = {
+			"A staff created with a skull of a powerful Lich. The curse eminating from this staff will threaten to all those who dare to threaten the wielder of this staff.",
+			"MATK +20%, INT +1, DEX +1",
+			"Whenever you take a Physical Damage, small chance to cause ^FF0000Curse^000000 status ailment to every enemies in the screen. This chance is increased depending on the refinement rate of this weapon.",
+			"[^333399Refined to +9^000000]",
+			"You will receive bonus MATK +3%, MaxSP +300.",
+			"Class: ^777777One-Handed Staff^000000",
+			"Attack: ^77777760^000000",
+			"Weight: ^77777780^000000",
+			"Property: ^777777Undead^000000",
+			"Weapon Level: ^7777773^000000",
+			"Required Level: ^77777770^000000",
+			"Jobs: ^777777Transcendent Mage and Acolyte^000000"
+		},
+		slotCount = 2,
 		ClassNum = 10
 	},
 	[1646] = {
@@ -18136,6 +19035,28 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 11
 	},
+	[1735] = {
+		unidentifiedDisplayName = "Bow",
+		unidentifiedResourceName = "보우",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Kkakkung",
+		identifiedResourceName = "각궁",
+		identifiedDescriptionName = {
+			"A bow provided by Adaventurer guild for brave adventurer.",
+			"Increases damage by 50%.",
+			"^FF0000Unrefineable^000000",
+			"Class: ^777777Bow^000000",
+			"Attack: ^777777120^000000",
+			"Weight: ^7777770^000000",
+			"Weapon Level: ^7777771^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777Archer, Thief and Rogue^000000"
+		},
+		slotCount = 0,
+		ClassNum = 11
+	},
 	[1736] = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "보우",
@@ -18318,6 +19239,28 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 76
+	},
+	[1744] = {
+		unidentifiedDisplayName = "Bow",
+		unidentifiedResourceName = "보우",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Bow Of Evil",
+		identifiedResourceName = "도둑의활",
+		identifiedDescriptionName = {
+			"^000088Rental Item^000000",
+			"The devil's bow.",
+			"DEX +2",
+			"Increases 25% damage with Double Strafe skill.",
+			"Class: ^777777Bow^000000",
+			"Attack: ^777777170^000000",
+			"Weight: ^7777770^000000",
+			"Weapon Level: ^7777774^000000",
+			"Jobs: ^777777Archer, Thief and Rogue^000000"
+		},
+		slotCount = 0,
+		ClassNum = 11
 	},
 	[1745] = {
 		unidentifiedDisplayName = "Bow",
@@ -19517,6 +20460,49 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 12
 	},
+	[1828] = {
+		unidentifiedDisplayName = "Knuckle",
+		unidentifiedResourceName = "카이저너클",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Monk Knuckle",
+		identifiedResourceName = "카이저너클",
+		identifiedDescriptionName = {
+			"^000088Rental Item^000000",
+			"Knuckle of monk.",
+			"INT +2",
+			"Increases 25% damage with Finger Offensive skill.",
+			"Class: ^777777Claw^000000",
+			"Attack: ^777777150^000000",
+			"Weight: ^7777770^000000",
+			"Weapon Level: ^7777774^000000",
+			"Jobs: ^777777Priest and Monk^000000"
+		},
+		slotCount = 0,
+		ClassNum = 12
+	},
+	[1829] = {
+		unidentifiedDisplayName = "Fist",
+		unidentifiedResourceName = "바그낙",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Fist",
+		identifiedResourceName = "피스트",
+		identifiedDescriptionName = {
+			"^000088Rental Items^000000",
+			"A weapon made in the form of a human fist which effectively inflicts damage on enemies.",
+			"Increases damage against small, medium, large size monsters by 40%.",
+			"Class: ^777777Claw^000000",
+			"Attack: ^777777150^000000",
+			"Weight: ^7777770^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777Priest and Monk^000000"
+		},
+		slotCount = 0,
+		ClassNum = 12
+	},
 	[1901] = {
 		unidentifiedDisplayName = "Musical Instrument",
 		unidentifiedResourceName = "바이올린",
@@ -19974,6 +20960,28 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 13
 	},
+	[1921] = {
+		unidentifiedDisplayName = "Musical Instrument",
+		unidentifiedResourceName = "바이올린",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Gun Moon Gom",
+		identifiedResourceName = "거문고",
+		identifiedDescriptionName = {
+			"The adventurers who are brave the item which is provided from the hazard adventurer guild.",
+			"Increases damage by 50%.",
+			"^FF0000Unrefineable^000000",
+			"Class: ^777777Musical Instrument^000000",
+			"Attack: ^777777120^000000",
+			"Weight: ^7777770^000000",
+			"Weapon Level: ^7777771^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777Clown^000000"
+		},
+		slotCount = 0,
+		ClassNum = 13
+	},
 	[1922] = {
 		unidentifiedDisplayName = "Musical Instrument",
 		unidentifiedResourceName = "바이올린",
@@ -20116,6 +21124,52 @@ tbl = {
 			"Weapon Level: ^7777774^000000",
 			"Required Level: ^77777780^000000",
 			"Job : ^777777Bard^000000",
+		},
+		slotCount = 0,
+		ClassNum = 13
+	},
+	[1928] = {
+		unidentifiedDisplayName = "Musical Instrument",
+		unidentifiedResourceName = "바이올린",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Berserk Guitar",
+		identifiedResourceName = "신들린기타",
+		identifiedDescriptionName = {
+			"^000088Rental item^000000",
+			"The legendary guitar known for when the player finally snaps out of stupor, you've already finished your performance.",
+			"ASPD +100%",
+			"Disable natural HP recovery.",
+			"Drain 50 HP every 5 seconds.",
+			"Heavily reduce DEX.",
+			"Class: ^777777Musical Instrument^000000",
+			"Attack: ^77777740^000000",
+			"Weight: ^7777770^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777Clown^000000"
+		},
+		slotCount = 0,
+		ClassNum = 13
+	},
+	[1929] = {
+		unidentifiedDisplayName = "Musical Instrument",
+		unidentifiedResourceName = "바이올린",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Guitar",
+		identifiedResourceName = "기타",
+		identifiedDescriptionName = {
+			"^000088Rental Items^000000",
+			"A six stringed musical instrument that is played by plucking the strings with fingers or a pick.",
+			"Increases damage against small, medium, large size monsters by 40%.",
+			"Class: ^777777Musical Instrument^000000",
+			"Attack: ^777777177^000000",
+			"Weight: ^7777770^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777Bard^000000"
 		},
 		slotCount = 0,
 		ClassNum = 13
@@ -20676,6 +21730,27 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 14
 	},
+	[1975] = {
+		unidentifiedDisplayName = "Whip",
+		unidentifiedResourceName = "로프",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Whip of The Queen",
+		identifiedResourceName = "여왕님의채찍",
+		identifiedDescriptionName = {
+			"Whip provided by Adventurer Guild for Brave adventurer.",
+			"Increases damage by 50%.",
+			"Class: ^777777Whip^000000",
+			"Attack: ^777777120^000000",
+			"Weight: ^7777770^000000",
+			"Weapon Level: ^7777771^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777Gypsy^000000"
+		},
+		slotCount = 0,
+		ClassNum = 14
+	},
 	[1976] = {
 		unidentifiedDisplayName = "Whip",
 		unidentifiedResourceName = "로프",
@@ -20813,6 +21888,49 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 14
 	},
+	[1982] = {
+		unidentifiedDisplayName = "Whip",
+		unidentifiedResourceName = "로프",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Phenomena Whip",
+		identifiedResourceName = "여왕님의채찍",
+		identifiedDescriptionName = {
+			"^000088Rental Item^000000",
+			"Phenomena Whip.",
+			"Increases 25% damage with Throw Arrow skill.",
+			"DEX +2",
+			"Class: ^777777Whip^000000",
+			"Attack: ^777777160^000000",
+			"Weight: ^7777770^000000",
+			"Weapon Level: ^7777774^000000",
+			"Jobs: ^777777Dancer^000000"
+		},
+		slotCount = 0,
+		ClassNum = 14
+	},
+	[1983] = {
+		unidentifiedDisplayName = "Whip",
+		unidentifiedResourceName = "로프",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Rante Whip",
+		identifiedResourceName = "란테",
+		identifiedDescriptionName = {
+			"^000088Rental Items^000000",
+			"A whip with a spiked ball attached at the end.",
+			"Increases damage against small, medium, large size monsters by 40%.",
+			"Class: ^777777Whip^000000",
+			"Attack: ^777777170^000000",
+			"Weight: ^7777770^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777Dancer^000000"
+		},
+		slotCount = 0,
+		ClassNum = 14
+	},
 	[2000] = {
 		unidentifiedDisplayName = "Two-Handed Staff",
 		unidentifiedResourceName = "롯드",
@@ -20913,6 +22031,31 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 97
 	},
+	[2003] = {
+		unidentifiedDisplayName = "Two-Handed Staff",
+		unidentifiedResourceName = "롯드",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Staff of Destruction",
+		identifiedResourceName = "디스트럭션롯드",
+		identifiedDescriptionName = {
+			"Two handed staff that seems to be possesing a tremendous power. The owner of the staff has to have a strong spiritual strength to use this staff properly.",
+			"MATK +280, INT +3, AGI +10",
+			"Reduces variable cast time of Mystical Amplification by 50%.",
+			"Increases MATK by 1% for every 2 Upgrade Levels, but raising the Upgrade Level also increases SP Consumption.",
+			"Has a chance of auto casting Level 5 Jupitel Thunder when attacked;",
+			"this chance can be increased by raising the weapon's Upgrade Level.",
+			"Class: ^777777Two-Handed Staff^000000",
+			"Attack: ^777777130^000000",
+			"Weight: ^777777250^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^77777780^000000",
+			"Jobs: ^777777High Wizard^000000"
+		},
+		slotCount = 1,
+		ClassNum = 23
+	},
 	[2004] = {
 		unidentifiedDisplayName = "Two-Handed Staff",
 		unidentifiedResourceName = "롯드",
@@ -20957,6 +22100,26 @@ tbl = {
 			"Job : ^777777Transcendent Acolyte Classes^000000",
 		},
 		slotCount = 1,
+		ClassNum = 23
+	},
+	[2006] = {
+		unidentifiedDisplayName = "Two-Handed Staff",
+		unidentifiedResourceName = "롯드",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Guardian Of Light Wand",
+		identifiedResourceName = "빛의수호지팡이",
+		identifiedDescriptionName = {
+			"A staff that possesses holy force and holds bright sunshine in it.",
+			"INT +6, MaxSP +150, MATK +18%",
+			"Class: ^777777Two-Handed Staff^000000",
+			"Attack: ^77777780^000000",
+			"Weight: ^777777190^000000",
+			"Required Level: ^77777760^000000",
+			"Jobs: ^777777Mage^000000"
+		},
+		slotCount = 0,
 		ClassNum = 23
 	},
 	[2101] = {
@@ -21767,20 +22930,6 @@ tbl = {
 			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Ahura Mazdah",
-		identifiedResourceName = "아후라마즈다",
-		identifiedDescriptionName = {
-			"''^339999The Shield of all Shields^000000\"",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[2200] = {
-		unidentifiedDisplayName = "Shield",
-		unidentifiedResourceName = "가드",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Shield",
 		identifiedResourceName = "아후라마즈다",
 		identifiedDescriptionName = {
 			"''^339999The Shield of all Shields^000000\"",
@@ -24970,6 +26119,27 @@ tbl = {
 		slotCount = 1,
 		ClassNum = 0
 	},
+	[2358] = {
+		unidentifiedDisplayName = "Clothing",
+		unidentifiedResourceName = "코튼셔츠",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Angel's Dress",
+		identifiedResourceName = "천사의예복",
+		identifiedDescriptionName = {
+			"A winged dress that is said to have been worn by an angel.",
+			"It makes you feel very lucky when you wear it.",
+			"LUK +4",
+			"^FF0000Unrefineable^000000",
+			"Class: ^777777Armor^000000",
+			"Defense: ^7777775^000000",
+			"Weight: ^777777100^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
 	[2359] = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
@@ -25020,6 +26190,66 @@ tbl = {
 			"and Soul Linker Jobs^000000",
 		},
 		slotCount = 1,
+		ClassNum = 0
+	},
+	[2361] = {
+		unidentifiedDisplayName = "Clothing",
+		unidentifiedResourceName = "코튼셔츠",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Blue Robe",
+		identifiedResourceName = "파란아오자이",
+		identifiedDescriptionName = {
+			"A type of traditional outfit. It brings out the hidden powers of the wearer through its spiritual power.",
+			"All Stats +5",
+			"MDEF +5",
+			"Class: ^777777Armor^000000",
+			"Defense: ^7777770^000000",
+			"Weight: ^77777750^000000",
+			"Jobs: ^777777All except Novice^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[2362] = {
+		unidentifiedDisplayName = "Clothing",
+		unidentifiedResourceName = "코튼셔츠",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Red Robe",
+		identifiedResourceName = "빨간아오자이",
+		identifiedDescriptionName = {
+			"A type of traditional outfit. It brings out the hidden powers of the wearer through its spiritual power.",
+			"All Stats +5",
+			"MDEF +5",
+			"Class: ^777777Armor^000000",
+			"Defense: ^7777770^000000",
+			"Weight: ^77777750^000000",
+			"Jobs: ^777777All except Novice^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[2363] = {
+		unidentifiedDisplayName = "Clothing",
+		unidentifiedResourceName = "코튼셔츠",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "White Robe",
+		identifiedResourceName = "하얀아오자이",
+		identifiedDescriptionName = {
+			"A type of traditional outfit. It brings out the hidden powers of the wearer through its spiritual power.",
+			"All Stats +3",
+			"MDEF +5",
+			"Class: ^777777Armor^000000",
+			"Defense: ^7777770^000000",
+			"Weight: ^77777750^000000",
+			"Jobs: ^777777Novice^000000"
+		},
+		slotCount = 0,
 		ClassNum = 0
 	},
 	[2364] = {
@@ -25130,6 +26360,26 @@ tbl = {
 			"Jobs: ^777777Sniper Job^000000",
 		},
 		slotCount = 1,
+		ClassNum = 0
+	},
+	[2368] = {
+		unidentifiedDisplayName = "Armor",
+		unidentifiedResourceName = "아머",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Golden Armor",
+		identifiedResourceName = "풀플레이트아머",
+		identifiedDescriptionName = {
+			"A special Armor made of a pure gold mixture.",
+			"According to legend you will gain magical strength whilst wearing this.",
+			"MDEF +4",
+			"Class: ^777777Armor^000000",
+			"Defense: ^7777774^000000",
+			"Weight: ^777777200^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
 		ClassNum = 0
 	},
 	[2369] = {
@@ -25655,6 +26905,28 @@ tbl = {
 		slotCount = 1,
 		ClassNum = 0
 	},
+	[2392] = {
+		unidentifiedDisplayName = "Clothing",
+		unidentifiedResourceName = "코튼셔츠",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Old Green Pantie",
+		identifiedResourceName = "삼각팬티",
+		identifiedDescriptionName = {
+			"^000088Rental item^000000",
+			"It looks has hanging for a long time in the closet. A little small, but you can still wear it.",
+			"STR +2, VIT +2, MaxHP +200",
+			"Add a 2% chance of auto casting ^008800Level 5 Call Spirit^000000 on the user when receives Physical Damage.",
+			"MDEF +1",
+			"Class: ^777777Armor^000000",
+			"Defense: ^77777710^000000",
+			"Weight: ^7777770^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
 	[2393] = {
 		unidentifiedDisplayName = "Clothing",
 		unidentifiedResourceName = "코튼셔츠",
@@ -25730,6 +27002,48 @@ tbl = {
 			"Jobs: ^777777All Jobs except Novice^000000",
 		},
 		slotCount = 0,
+		ClassNum = 0
+	},
+	[2397] = {
+		unidentifiedDisplayName = "Clothing",
+		unidentifiedResourceName = "코튼셔츠",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Jacket of Incredible Showman",
+		identifiedResourceName = "인크레디블외투",
+		identifiedDescriptionName = {
+			"A jacket wear by showman, it make body warm and protect from cold.",
+			"Class: ^777777Armor^000000",
+			"Defense: ^77777710^000000",
+			"Weight: ^77777790^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[2398] = {
+		unidentifiedDisplayName = "Clothing",
+		unidentifiedResourceName = "코튼셔츠",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Sniping Suit",
+		identifiedResourceName = "스나이핑슈츠",
+		identifiedDescriptionName = {
+			"Sniping suits helps required muscles to move effectively for shooting an arrow.",
+			"Reduces necessary time to shoot arrows and helps to achieve improved accuracy.",
+			"MDEF +5",
+			"Critical rate +6,",
+			"Increase critical rate depending on your LUK.",
+			"Reduces after-cast skill delay by 23%.",
+			"Class: ^777777Armor^000000",
+			"Defense: ^77777742^000000",
+			"Weight: ^77777775^000000",
+			"Required Level: ^77777750^000000",
+			"Jobs: ^777777Sniper^000000"
+		},
+		slotCount = 1,
 		ClassNum = 0
 	},
 	[2399] = {
@@ -26391,6 +27705,25 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
+	[2427] = {
+		unidentifiedDisplayName = "Shoes",
+		unidentifiedResourceName = "슈즈",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Golden Shoes",
+		identifiedResourceName = "유리구두",
+		identifiedDescriptionName = {
+			"A special Footgear made of a pure gold mixture. According to legend you will gain magical strength whilst wearing these.",
+			"MDEF +4",
+			"Class: ^777777Footgear^000000",
+			"Defense: ^7777774^000000",
+			"Weight: ^77777730^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
 	[2428] = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
@@ -26655,6 +27988,50 @@ tbl = {
 		slotCount = 1,
 		ClassNum = 0
 	},
+	[2441] = {
+		unidentifiedDisplayName = "Shoes",
+		unidentifiedResourceName = "슈즈",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Beach Sandals",
+		identifiedResourceName = "샌들",
+		identifiedDescriptionName = {
+			"A sandals received as a gift from Comodo Environmental Commission.",
+			"It seems to match perfect with Comodo beach.",
+			"STR +1, INT +1, AGI +1",
+			"Add a 10% resistance to the ^FF0000Fire^000000 Property.",
+			"FLEE +5 when worn with Beach Manteau.",
+			"Class: ^777777Footgear^000000",
+			"Defense: ^7777770^000000",
+			"Weight: ^77777720^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[2442] = {
+		unidentifiedDisplayName = "Shoes",
+		unidentifiedResourceName = "슈즈",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Red Stocking Boots",
+		identifiedResourceName = "부츠",
+		identifiedDescriptionName = {
+			"Torn in some places, but it even helps ventilation. Of course, not convenient in the rain.",
+			"LUK +2",
+			"Increases 10% recover HP/SP.",
+			"Add a 2% chance of auto casting ^008800Level 3 Quagmire^000000 on the user when receives Physical Damage.",
+			"MDEF +1",
+			"Class: ^777777Footgear^000000",
+			"Defense: ^7777777^000000",
+			"Weight: ^7777770^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
 	[2443] = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
@@ -26728,6 +28105,72 @@ tbl = {
 			"Defense: ^7777770^000000",
 			"Weight: ^7777770^000000",
 			"Jobs: ^777777All Jobs except Novice^000000",
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[2447] = {
+		unidentifiedDisplayName = "Shoes",
+		unidentifiedResourceName = "슈즈",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Army Boots",
+		identifiedResourceName = "군용부츠",
+		identifiedDescriptionName = {
+			"Boots popular among armymen.",
+			"It may not be the most comfortable shoe you've ever used, but Captain Alcimento approve.",
+			"Increase 10% resistance against ^cc5500Earth^000000 attack",
+			"Class: ^777777Footgear^000000",
+			"Defense: ^7777775^000000",
+			"Weight: ^777777100^000000",
+			"Jobs: ^777777All except Novice^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[2448] = {
+		unidentifiedDisplayName = "Shoes",
+		unidentifiedResourceName = "슈즈",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Fast shoes",
+		identifiedResourceName = "발키리의슈즈",
+		identifiedDescriptionName = {
+			"These are special shoes made by a craftsman of a place famous for its beaches and festivities.",
+			"There are many legends around these rarities, such as the inexplicable ability that your users get to dance.",
+			"Everyone who feel a little lighter, as if they are floating. The shoes also come with an anti-foot odor effect.",
+			"AGI +1",
+			"ASPD +3%",
+			"Reduce variable cast time by 3%.",
+			"Class: ^777777Footgear^000000",
+			"Defense: ^7777772^000000",
+			"Weight: ^77777750^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[2449] = {
+		unidentifiedDisplayName = "Shoes",
+		unidentifiedResourceName = "슈즈",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Variant Shoes",
+		identifiedResourceName = "배리언트슈즈",
+		identifiedDescriptionName = {
+			"Shoes that seem to be wrong somewhere. The intention of the maker to perfect the shoes can be seen but it seems to be a failure.",
+			"MaxHP +20%",
+			"MaxSP +20%",
+			"Reduce MaxHP and MaxSP for every refine of shoes.",
+			"Increase Defense for every 2 refine of shoes.",
+			"Class: ^777777Footgear^000000",
+			"Defense: ^7777773^000000",
+			"Weight: ^77777750^000000",
+			"Required Level: ^77777785^000000",
+			"Jobs: ^777777All Transcendent classes except Novice^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0
@@ -98411,231 +99854,6 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
-	[1191] = {
-		unidentifiedDisplayName = "Alca Bringer",
-		unidentifiedResourceName = "바스타드소드",
-		unidentifiedDescriptionName = {
-			"A reddish wide two-handed sword.",
-			"Attack Speed increases by 1 for every 2 upgrade levels.",
-			"Class: ^777777Two-Handed Sword^000000",
-			"Attack : 7777280^000000",
-			"Weight: ^777777340^000000",
-			"Weapon Level: ^7777773^000000",
-			"Required Level: ^777777100^000000",
-			"Jobs: ^777777Rune Knight^000000",
-		},
-		identifiedDisplayName = "Alca Bringer",
-		identifiedResourceName = "알카브링거",
-		identifiedDescriptionName = {
-			"A reddish wide two-handed sword.",
-			"Attack Speed increases by 1 for every 2 upgrade levels.",
-			"Class: ^777777Two-Handed Sword^000000",
-			"Attack : ^777777280^000000",
-			"Weight: ^777777340^000000",
-			"Weapon Level: ^7777773^000000",
-			"Required Level: ^777777100^000000",
-			"Jobs: ^777777Rune Knight^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[1192] = {
-		unidentifiedDisplayName = "P.SlayerⅠ",
-		unidentifiedResourceName = "브로드소드",
-		unidentifiedDescriptionName = {
-			"An unknown item requiring appraisal. It can be identified by using a magnifier.",
-		},
-		identifiedDisplayName = "Eden Slayer I",
-		identifiedResourceName = "브로드소드",
-		identifiedDescriptionName = {
-			"A two-handed sword that is made by the Eden Group for a beginner Swordman.",
-			"Cannot be upgraded.",
-			"Class: ^777777Two-Handed Sword^000000",
-			"Attack : ^777777162^000000",
-			"Weight: ^7777770^000000",
-			"Weapon Level: ^7777772^000000",
-			"Required Level: ^77777726^000000",
-			"Jobs: ^777777Swordman Class^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[1193] = {
-		unidentifiedDisplayName = "P.SlayerⅡ",
-		unidentifiedResourceName = "카츠발게르",
-		unidentifiedDescriptionName = {
-			"An unknown item requiring appraisal. It can be identified by using a magnifier.",
-		},
-		identifiedDisplayName = "Eden Slayer II",
-		identifiedResourceName = "카츠발게르",
-		identifiedDescriptionName = {
-			"A two-handed sword that is made by the Eden Group. It is suitable for intermediates who have more experience handling two-handed swords.",
-			"Cannot be upgraded.",
-			"Class: ^777777Two-Handed Sword^000000",
-			"Attack : ^777777185^000000",
-			"Weight: ^7777770^000000",
-			"Weapon Level: ^7777772^000000",
-			"Required Level: ^77777740^000000",
-			"Jobs: ^777777Swordman Class^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[1650] = {
-		unidentifiedDisplayName = "P.StaffⅠ",
-		unidentifiedResourceName = "생존의지팡이2",
-		unidentifiedDescriptionName = {
-			"An unknown item requiring appraisal. It can be identified by using a magnifier.",
-		},
-		identifiedDisplayName = "Eden Staff I",
-		identifiedResourceName = "생존의지팡이2",
-		identifiedDescriptionName = {
-			"A staff that is made by the Eden Group. A basic item for a beginning Mage.",
-			"INT +2 , Matk +125",
-			"Cannot be upgraded.",
-			"Class: ^777777Staff^000000",
-			"Attack : ^77777760^000000",
-			"Weight: ^7777770^000000",
-			"Weapon Level: ^7777772^000000",
-			"Required Level: ^77777726^000000",
-			"Jobs: ^777777Mage / Acolyte Class^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[1651] = {
-		unidentifiedDisplayName = "P.StaffⅡ",
-		unidentifiedResourceName = "최면술사지팡이",
-		unidentifiedDescriptionName = {
-			"An unknown item requiring appraisal. It can be identified by using a magnifier.",
-		},
-		identifiedDisplayName = "Eden Staff II",
-		identifiedResourceName = "최면술사지팡이",
-		identifiedDescriptionName = {
-			"A staff that is made by the Eden Group. A basic item for an intermediate Mage.",
-			"INT +3 , Matk +150",
-			"Cannot be upgraded.",
-			"Class: ^777777Staff^000000",
-			"Attack : ^77777760^000000",
-			"Weight: ^7777770^000000",
-			"Weapon Level: ^7777772^000000",
-			"Required Level: ^77777740^000000",
-			"Jobs: ^777777Mage / Acolyte Class^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[1747] = {
-		unidentifiedDisplayName = "P.BowⅠ",
-		unidentifiedResourceName = "도둑의활",
-		unidentifiedDescriptionName = {
-			"An unknown item requiring appraisal. It can be identified by using a magnifier.",
-		},
-		identifiedDisplayName = "Eden Bow I",
-		identifiedResourceName = "도둑의활",
-		identifiedDescriptionName = {
-			"A bow that is made by the Eden Group. It's been remodeled for beginning Archers.",
-			"Cannot be upgraded.",
-			"Class: ^777777Bow^000000",
-			"Attack : ^77777782^000000",
-			"Weight: ^7777770^000000",
-			"Weapon Level: ^7777772^000000",
-			"Required Level: ^77777726^000000",
-			"Jobs: ^777777Archer Class/Thief/Rogue^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[1748] = {
-		unidentifiedDisplayName = "P.BowⅡ",
-		unidentifiedResourceName = "헌터보우",
-		unidentifiedDescriptionName = {
-			"An unknown item requiring appraisal. It can be identified by using a magnifier.",
-		},
-		identifiedDisplayName = "Eden Bow II",
-		identifiedResourceName = "헌터보우",
-		identifiedDescriptionName = {
-			"A rich bow that is made by the Eden Group. It is suitable for intermediates who have handled a bow before.",
-			"Cannot be upgraded.",
-			"Class: ^777777Bow^000000",
-			"Attack : ^777777120^000000",
-			"Weight: ^7777770^000000",
-			"Weapon Level: ^7777772^000000",
-			"Required Level: ^77777740^000000",
-			"Jobs: ^777777Archer Class/Thief/Rogue^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[2456] = {
-		unidentifiedDisplayName = "Paradise Team BootsⅠ",
-		unidentifiedResourceName = "비다르의부츠",
-		unidentifiedDescriptionName = {
-			"An unknown item requiring appraisal. It can be identified by using a magnifier.",
-		},
-		identifiedDisplayName = "Eden Group Boots I",
-		identifiedResourceName = "비다르의부츠",
-		identifiedDescriptionName = {
-			"Boots that are provided only for members of the Eden Group.",
-			"These are designed to fit comfortably throughout long-walks.",
-			"HP recovery +10%.",
-			"SP recovery +2%.",
-			"Cannot be upgraded.",
-			"Class: ^777777Footwear^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^7777770^000000",
-			"Required Level: ^77777712^000000",
-			"Jobs: ^777777All Jobs^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[2457] = {
-		unidentifiedDisplayName = "Paradise Team BootsⅡ",
-		unidentifiedResourceName = "비다르의부츠",
-		unidentifiedDescriptionName = {
-			"An unknown item requiring appraisal. It can be identified by using a magnifier.",
-		},
-		identifiedDisplayName = "Eden Group Boots II",
-		identifiedResourceName = "비다르의부츠",
-		identifiedDescriptionName = {
-			"Boots that are provided only for members of the Eden Group.",
-			"These are designed to fit comfortably throughout long-walks.",
-			"HP recovery +12%",
-			"SP recovery +4%",
-			"Cannot be upgraded.",
-			"Class: ^777777Footwear^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^7777770^000000",
-			"Required Level: ^77777726^000000",
-			"Jobs: ^777777All Jobs^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[2458] = {
-		unidentifiedDisplayName = "Paradise Team BootsⅢ",
-		unidentifiedResourceName = "비다르의부츠",
-		unidentifiedDescriptionName = {
-			"An unknown item requiring appraisal. It can be identified by using a magnifier.",
-		},
-		identifiedDisplayName = "Eden Group Boots III",
-		identifiedResourceName = "비다르의부츠",
-		identifiedDescriptionName = {
-			"Boots that are provided only for members of the Eden Group.",
-			"These are designed to fit comfortably throughout long-walks.",
-			"HP recovery   +14%",
-			"SP recovery +6%",
-			"Cannot be upgraded.",
-			"Class: ^777777Footwear^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^7777770^000000",
-			"Required Level: ^77777740^000000",
-			"Jobs: ^777777All Jobs^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
 	[2560] = {
 		unidentifiedDisplayName = "Paradise Team Manteau",
 		unidentifiedResourceName = "울프헤딘",
@@ -98936,44 +100154,6 @@ tbl = {
 			"Weight :: ^7777775^000000",
 		},
 		slotCount = 0,
-		ClassNum = 0
-	},
-	[2146] = {
-		unidentifiedDisplayName = "Siver Guard",
-		unidentifiedResourceName = "실버가드",
-		unidentifiedDescriptionName = {
-			"An unknown item requiring appraisal. It can be identified by using a magnifier.",
-		},
-		identifiedDisplayName = "Siver Guard",
-		identifiedResourceName = "실버가드",
-		identifiedDescriptionName = {
-			"A shield which is a guard covered with thin layer of mixed silver and steel. It looks good when it reflects light.",
-			"Class: ^777777Shield^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^77777730^000000",
-			"Required Level: ^77777722^000000",
-			"Jobs: ^777777All Jobs^000000",
-		},
-		slotCount = 1,
-		ClassNum = 0
-	},
-	[2147] = {
-		unidentifiedDisplayName = "Round Buckler",
-		unidentifiedResourceName = "라운드버클러",
-		unidentifiedDescriptionName = {
-			"An unknown item requiring appraisal. It can be identified by using a magnifier.",
-		},
-		identifiedDisplayName = "Round Buckler",
-		identifiedResourceName = "라운드버클러",
-		identifiedDescriptionName = {
-			"A round-shape shield that is used generally. It has heightened a defense power by adding ernium thick at the round part. ",
-			"Class: ^777777Shield^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^77777760^000000",
-			"Required Level: ^77777722^000000",
-			"Jobs: ^777777All Transcendent Jobs except Novice^000000",
-		},
-		slotCount = 1,
 		ClassNum = 0
 	},
 	[15012] = {
@@ -104861,402 +106041,6 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
-	[1196] = {
-		unidentifiedDisplayName = "Two-Handed Sword",
-		unidentifiedResourceName = "바스타드소드",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Two-Handed Chrome Metal Sword",
-		identifiedResourceName = "크롬메탈투핸드소드",
-		identifiedDescriptionName = {
-			"A cold etched sword made with refined Bradium, a mineral from the Other World.",
-			"Cannot be destroyed.",
-			"AGI +3, MHP - 10%.",
-			"Class: ^777777Two-Handed Sword^000000",
-			"Attack : ^777777280^000000",
-			"Weight: ^77777740^000000",
-			"Weapon Level: ^7777773^000000",
-			"Required Level: ^777777110^000000",
-			"Jobs: ^777777Swordman Class Type^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[1433] = {
-		unidentifiedDisplayName = "One-handed Spear",
-		unidentifiedResourceName = "쟈벨린",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Imperial Spear",
-		identifiedResourceName = "임페리얼스피어",
-		identifiedDescriptionName = {
-			"A beautiful spear engraved with patterns of the Rune-Midgarts Kingdom.",
-			"20% ATK increase of Cannon Spear and Banishing Point. Additional 3% ATK increase with every +2 upgrades.",
-			"When used together with Imperial Guard, ATK of Grand Cross and Genesis Ray increases by 10%.",
-			"MATK + 40",
-			"Class: ^777777One-Handed Spear^000000",
-			"Attack : ^777777180^000000",
-			"Weight: ^777777180^000000",
-			"Weapon Level: ^7777773^000000",
-			"Required Level: ^777777102^000000",
-			"Jobs: ^777777Royal Guard Only^000000",
-		},
-		slotCount = 1,
-		ClassNum = 0
-	},
-	[1654] = {
-		unidentifiedDisplayName = "One-handed Staff",
-		unidentifiedResourceName = "롯드",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Mental Stick",
-		identifiedResourceName = "멘탈스틱",
-		identifiedDescriptionName = {
-			"A staff which converts elemental power into psychic energy.",
-			"Fluctuate casting time of Psychic Wave decreased by 3 secs. Increases SP of Psychic Wave by 60.",
-			"ATK increased by 2% and MHP decreased by 2% for every upgrade above level 6.",
-			"Loses SP 100 upon disrobement.",
-			"MATK + 170",
-			"Class: ^777777One-Hand Staff^000000",
-			"Attack : ^77777740^000000",
-			"Weight: ^77777750^000000",
-			"Weapon Level: ^7777773^000000",
-			"Required Level: ^777777102^000000",
-			"Jobs: ^777777Sorcerer Only^000000",
-		},
-		slotCount = 1,
-		ClassNum = 0
-	},
-	[1830] = {
-		unidentifiedDisplayName = "Knuckle",
-		unidentifiedResourceName = "바그낙",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Sura's Rampage",
-		identifiedResourceName = "패황난무",
-		identifiedDescriptionName = {
-			"A knuckle engraved with splendid patterns of a bronze dragon.",
-			"20% ATK increase of Earth Shaker and Sky Blow. 5% SP increase in every skill use.",
-			"1% SP decrease with every upgrade above level 6.",
-			"Class: ^777777Knuckle^000000",
-			"Attack : ^777777142^000000",
-			"Weight: ^77777750^000000",
-			"Weapon Level: ^7777773^000000",
-			"Required Level: ^777777102^000000",
-			"Jobs: ^777777Sura Only^000000",
-		},
-		slotCount = 1,
-		ClassNum = 0
-	},
-	[1930] = {
-		unidentifiedDisplayName = "Musical Instrument",
-		unidentifiedResourceName = "기타",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Green Whistle",
-		identifiedResourceName = "그린휘슬",
-		identifiedDescriptionName = {
-			"A flute made of sturdy plant stem.",
-			"Fluctuate casting time of Lullaby and Rush to Windmill decreased by 2 secs. SP of each skill decreased by 4 with every upgrade above level 6.",
-			"MATK + 50",
-			"Class: ^777777Instrument^000000",
-			"Attack : ^777777170^000000",
-			"Weight: ^77777780^000000",
-			"Weapon Level: ^7777773^000000",
-			"Required Level: ^777777102^000000",
-			"Jobs: ^777777Minstrel Only^000000",
-		},
-		slotCount = 1,
-		ClassNum = 0
-	},
-	[1984] = {
-		unidentifiedDisplayName = "Rope",
-		unidentifiedResourceName = "로프",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Stem Whip",
-		identifiedResourceName = "스템휩",
-		identifiedDescriptionName = {
-			"A flexible whip made of renovated plant stem.",
-			"Fluctuate casting time of Lullaby and Swing Dance decreased by 2 secs. SP of each skill decreased by 4 with every upgrade above level 6.",
-			"MATK + 50",
-			"Class: ^777777Whip^000000 ",
-			"Attack : ^777777170^000000",
-			"Weight: ^77777780^000000",
-			"Weapon Level: ^7777773^000000",
-			"Required Level: ^777777102^000000",
-			"Jobs: ^777777Wanderer Only^000000",
-		},
-		slotCount = 1,
-		ClassNum = 0
-	},
-	[1985] = {
-		unidentifiedDisplayName = "Rope",
-		unidentifiedResourceName = "로프",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Rosevine",
-		identifiedResourceName = "로제바인",
-		identifiedDescriptionName = {
-			"A whip of alluring fragrance made of a magical rose stem.",
-			"Low chance of triggering Lv1 Siren's Voice with every physical attack.",
-			"INT +2, AGI -2, MATK + 130.",
-			"Class: ^777777Whip^000000",
-			"Attack : ^777777100^000000",
-			"Weight: ^777777100^000000",
-			"Weapon Level: ^7777774^000000",
-			"Required Level: ^777777110^000000",
-			"Jobs: ^777777Wanderer Only^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[2153] = {
-		unidentifiedDisplayName = "Shield",
-		unidentifiedResourceName = "가드",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Imperial Guard",
-		identifiedResourceName = "임페리얼가드",
-		identifiedDescriptionName = {
-			"A beautiful shield engraved with the patterns of the Rune Kingdom.",
-			"MDEF +5.",
-			"20% ATK increase of Shield Press. ATK increased by 2% with every upgrade above level 6.",
-			"Class: ^777777Shield^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^777777250^000000",
-			"Required Level: ^777777102^000000",
-			"Jobs: ^777777Royal Guard Only^000000",
-		},
-		slotCount = 1,
-		ClassNum = 0
-	},
-	[2465] = {
-		unidentifiedDisplayName = "Shoes",
-		unidentifiedResourceName = "샌들",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Dance Shoes",
-		identifiedResourceName = "댄스구두",
-		identifiedDescriptionName = {
-			"Shoes fit for dancing.",
-			"AGI +1, Aspd increase. (2% decrease of delay after ATK).",
-			"32 SP decrease of Swing Dance.",
-			"Class: ^777777Shoes^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^77777730^000000",
-			"Required Level: ^777777105^000000",
-			"Jobs: ^777777Wanderer Only^000000",
-		},
-		slotCount = 1,
-		ClassNum = 0
-	},
-	[2853] = {
-		unidentifiedDisplayName = "Accessory",
-		unidentifiedResourceName = "링",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Telekinetic Orb",
-		identifiedResourceName = "텔레키네틱오브",
-		identifiedDescriptionName = {
-			"An orb filled with liquid of unknown powers.",
-			"INT +3, MDEF +1, MSP + 30.",
-			"10% ATK increase of Soul Expansion and Psychic Wave, SP of each skill increased by 50.",
-			"Class: ^777777Accessory^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^77777720^000000",
-			"Required Level: ^777777110^000000",
-			"Jobs: ^7777773rd Job Classes Only^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[2854] = {
-		unidentifiedDisplayName = "Accessory",
-		unidentifiedResourceName = "글러브",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Alchemy Glove",
-		identifiedResourceName = "연금술의글러브",
-		identifiedDescriptionName = {
-			"A white glove made especially for fire magic. Gives off a faint burnt smell.",
-			"INT +1, MDEF +2.",
-			"10% increase of all ^FF0000Fire^000000 ATK.",
-			"Low chance to trigger Lv 5 Auto-spell Fire Ball with every physical or magic ATK.",
-			"20% decrease of tolerance to all ^6996ADWater^000000 magic.",
-			"30% decrease of tolerance to all ^6996ADWater^000000 ATK.",
-			"Class: ^777777Accessory^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^77777710^000000",
-			"Required Level: ^777777125^000000",
-			"Jobs: ^7777773rd Job Classes Only^000000",
-		},
-		slotCount = 1,
-		ClassNum = 0
-	},
-	[13061] = {
-		unidentifiedDisplayName = "Dagger",
-		unidentifiedResourceName = "나이프",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Black Wing",
-		identifiedResourceName = "블랙윙",
-		identifiedDescriptionName = {
-			"A sawtooth dagger crafted by the Rogue Guild.",
-			"30% ATK increase of Fatal Menace. 2% ATK and +3 MATK increase with every upgrade above level 6.",
-			"HIT +5, MATK +5 when used with Black Cat. Masquerade: Enervation and Groomy SP decreased by 20.",
-			"Class: ^777777Dagger^000000",
-			"Attack : ^777777142^000000",
-			"Weight: ^77777760^000000",
-			"Weapon Level: ^7777773^000000",
-			"Required Level: ^777777102^000000",
-			"Jobs: ^777777Shadow Chaser Only^000000",
-		},
-		slotCount = 1,
-		ClassNum = 0
-	},
-	[13062] = {
-		unidentifiedDisplayName = "Dagger",
-		unidentifiedResourceName = "나이프",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Ancient Dagger",
-		identifiedResourceName = "에인션트대거",
-		identifiedDescriptionName = {
-			"An ancient ritual dagger with unknown powers.",
-			"MATK + 120, MSP + 100, SP Recovery increased by 5%.",
-			"Low chance of cursing self with every physical or magic ATK.",
-			"Class: ^777777Dagger^000000",
-			"Attack : ^777777107^000000",
-			"Weight: ^77777760^000000",
-			"Weapon Level: ^7777774^000000",
-			"Required Level: ^777777120^000000",
-			"Jobs: ^777777Swordman/Merchant/Thief/Archer/Mage Class Types Type^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[13431] = {
-		unidentifiedDisplayName = "Sword",
-		unidentifiedResourceName = "소드",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Chrome Metal Sword",
-		identifiedResourceName = "크롬메탈소드",
-		identifiedDescriptionName = {
-			"A cold etched sword made with refined Bradium, a mineral from the Other World.",
-			"Cannot be destroyed.",
-			"AGI +1, MHP - 5%.",
-			"Class: ^777777One-Handed Sword^000000",
-			"Attack : ^777777180^000000",
-			"Weight: ^777777220^000000",
-			"Weapon Level: ^7777773^000000",
-			"Required Level: ^777777110^000000",
-			"Jobs: ^777777Swordman/Merchant Class Types^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[16010] = {
-		unidentifiedDisplayName = "Mace",
-		unidentifiedResourceName = "클럽",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Red Ether Bag",
-		identifiedResourceName = "빨간에테르가방",
-		identifiedDescriptionName = {
-			"A new bag from the Alchemist Society: 'A weapon favorable for women!' ",
-			"20% ATK increase of Crazy Weed and Demonic Fire. 2% ATK increase of each skill for every upgrade above level 6.",
-			"MATK + 100",
-			"Class: ^777777Club^000000",
-			"Attack : ^77777715^000000",
-			"Weight: ^777777100^000000",
-			"Weapon Level: ^7777773^000000",
-			"Required Level: ^777777102^000000",
-			"Jobs: ^777777Generic Only^000000",
-		},
-		slotCount = 1,
-		ClassNum = 0
-	},
-	[18103] = {
-		unidentifiedDisplayName = "Bow",
-		unidentifiedResourceName = "보우",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Mystic Bow",
-		identifiedResourceName = "미스틱보우",
-		identifiedDescriptionName = {
-			"A small bow with magical powers.",
-			"SP decreased by 10 for Severe Rainstorm.",
-			"INT +4, MATK + 100.",
-			"Class: ^777777Bow^000000",
-			"Attack : ^77777775^000000",
-			"Weight: ^777777170^000000",
-			"Weapon Level: ^7777773^000000",
-			"Required Level: ^777777105^000000",
-			"Jobs: ^7777773rd Class Archer Type^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[2463] = {
-		unidentifiedDisplayName = "Shoes",
-		unidentifiedResourceName = "야성의부츠",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Feral Boots",
-		identifiedResourceName = "야성의부츠",
-		identifiedDescriptionName = {
-			"^ff0000This item cannot be traded with others.^000000",
-			"It has a message inscribed - Feline boots of a forgotten era, with both an unpolished and polished beauty.",
-			"Unable to Refine or Destroy.",
-			"Class: ^777777Shoes^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^7777770^000000",
-			"Required Level: ^77777775^000000",
-			"Job : ^777777All^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[2564] = {
-		unidentifiedDisplayName = "Garment",
-		unidentifiedResourceName = "야성의꼬리",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Feral Tail",
-		identifiedResourceName = "야성의꼬리",
-		identifiedDescriptionName = {
-			"^ff0000This item cannot be traded with others.^000000",
-			"It has a message inscribed - A symbol of valor made with the tail of a savage beast.",
-			"Unable to Refine or Destroy.",
-			"Class: ^777777Robe^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^7777770^000000",
-			"Required Level: ^77777775^000000",
-			"Class: ^777777All^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
 	[2843] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "황금방울",
@@ -106251,26 +107035,6 @@ tbl = {
 			"Weight: ^7777772^000000",
 		},
 		slotCount = 0,
-		ClassNum = 0
-	},
-	[2168] = {
-		unidentifiedDisplayName = "Immuned Shield",
-		unidentifiedResourceName = "가드",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Immune Shield",
-		identifiedResourceName = "이뮨드쉴드",
-		identifiedDescriptionName = {
-			"Very unique, square formed shield with a special jewel on it which protects from physical power.",
-			"If upgraded to +5 or higher, increases 1% of tolerance against Neutral attack. (The tolerance increase is limited to refine level 12) per refine level.",
-			"Class: ^777777Shield^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^77777770^000000",
-			"Required Level: ^7777771^000000",
-			"Job : ^777777All^000000",
-		},
-		slotCount = 1,
 		ClassNum = 0
 	},
 	[12690] = {
@@ -107333,6 +108097,29 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 2
+	},
+	[2137] = {
+		unidentifiedDisplayName = "Shield",
+		unidentifiedResourceName = "발키리아쉴드",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Neo Valkyrja's Shield",
+		identifiedResourceName = "발키리아쉴드",
+		identifiedDescriptionName = {
+			"^000088Rental Items^000000",
+			"A shield used by Gna, the messanger of Freyja while she served as a Valkyrie.",
+			"MaxHP +5%",
+			"Add a 30% resistance against DemiHuman monster.",
+			"Add a 20% resistance against ^FF0000Fire^000000 and ^0000FFWater^000000 Property attacks.",
+			"Class: ^777777Shield^000000",
+			"Defense: ^77777780^000000",
+			"Weight: ^7777770^000000",
+			"Required Level: ^77777795^000000",
+			"Jobs: ^777777All except Novice^000000"
+		},
+		slotCount = 0,
+		ClassNum = 4
 	},
 	[18522] = {
 		unidentifiedDisplayName = "Headgear",
@@ -108649,304 +109436,6 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
-	[2156] = {
-		unidentifiedDisplayName = "Book",
-		unidentifiedResourceName = "북",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Bible of Promise(1st Vol.)",
-		identifiedResourceName = "약속의성서",
-		identifiedDescriptionName = {
-			"An ancient book of sacred songs handed down in the cathedral. It is said to have sold like hotcakes, published as one of a series.",
-			"Allows the user to use Level 1 Odin's Power.",
-			"Type : ^777777Shield^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^77777750^000000",
-			"Required Level: ^777777110^000000",
-			"Job : ^777777Archbishop^000000",
-		},
-		slotCount = 1,
-		ClassNum = 0
-	},
-	[2467] = {
-		unidentifiedDisplayName = "Shoes",
-		unidentifiedResourceName = "슈즈",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Golden Rod Shoes",
-		identifiedResourceName = "골든로드슈즈",
-		identifiedDescriptionName = {
-			"A pair of golden long boots imbued with power of wind.",
-			"MDEF +2, MHP + 500, Increases resistance to wind attacks by 15%.",
-			"Type : ^777777Shoes^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^77777750^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Warlock^000000",
-		},
-		slotCount = 1,
-		ClassNum = 0
-	},
-	[2468] = {
-		unidentifiedDisplayName = "Shoes",
-		unidentifiedResourceName = "슈즈",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Aqua Shoes",
-		identifiedResourceName = "아쿠아슈즈",
-		identifiedDescriptionName = {
-			"A pair of sea-blue long boots imbued with power of water.",
-			"MDEF +2, MHP + 500, Increases resistance to water attacks by 15%.",
-			"Type : ^777777Shoes^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^77777750^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Warlock^000000",
-		},
-		slotCount = 1,
-		ClassNum = 0
-	},
-	[2469] = {
-		unidentifiedDisplayName = "Shoes",
-		unidentifiedResourceName = "슈즈",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Crimson Shoes",
-		identifiedResourceName = "크림즌슈즈",
-		identifiedDescriptionName = {
-			"A pair of red long boots imbued with power of fire.",
-			"MDEF +2, MHP + 500, Increases resistance to ^FF0000Fire^000000 attacks by 15%",
-			"Type : ^777777Shoes^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^77777750^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Warlock^000000",
-		},
-		slotCount = 1,
-		ClassNum = 0
-	},
-	[2470] = {
-		unidentifiedDisplayName = "Shoes",
-		unidentifiedResourceName = "슈즈",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Forest Shoes",
-		identifiedResourceName = "포레스트슈즈",
-		identifiedDescriptionName = {
-			"A pair of turquoise long boots imbued with power of earth.",
-			"MDEF +2, MHP + 500, Increases resistance to earth attacks by 15%",
-			"Type : ^777777Shoes^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^77777750^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Warlock^000000",
-		},
-		slotCount = 1,
-		ClassNum = 0
-	},
-	[2568] = {
-		unidentifiedDisplayName = "Garment",
-		unidentifiedResourceName = "후드",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Loki's Muffler",
-		identifiedResourceName = "로키의머플러",
-		identifiedDescriptionName = {
-			"^ff0000This item cannot be traded between accounts.^000000",
-			"A red scarf worn out from long use.",
-			"AGI +1.",
-			"Increases the effectiveness of the skill 'Cross Impact' by 5%.",
-			"Cannot be refined.",
-			"Type : ^777777Outerwear^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^77777740^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777All^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[2858] = {
-		unidentifiedDisplayName = "Accessory",
-		unidentifiedResourceName = "링",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Pendant Of Guardian",
-		identifiedResourceName = "수호자의펜던트",
-		identifiedDescriptionName = {
-			"^ff0000This item cannot be traded between accounts.^000000",
-			"A pendant with black wings. It possesses mysterious power.",
-			"Allows the user to use the skill [Call of Guardian].",
-			"Type : ^777777Accessory^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^7777770^000000",
-			"Required Level: ^77777770^000000",
-			"Job : ^777777All^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[2859] = {
-		unidentifiedDisplayName = "Accessory",
-		unidentifiedResourceName = "링",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Golden Rod Orb",
-		identifiedResourceName = "골든로드오브",
-		identifiedDescriptionName = {
-			"A golden crystal ball imbued with power of wind.",
-			"INT +1, MDEF +2.",
-			"Increases resistance to wind attacks by 15%.",
-			"Has a certain chance of casting LV 3 Jupitel Thunder when hit by physical/magical attacks.",
-			"Type : ^777777Accessory^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^77777720^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Warlock^000000",
-		},
-		slotCount = 1,
-		ClassNum = 0
-	},
-	[2860] = {
-		unidentifiedDisplayName = "Accessory",
-		unidentifiedResourceName = "링",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Aqua Orb",
-		identifiedResourceName = "아쿠아오브",
-		identifiedDescriptionName = {
-			"A sea-blue crystal ball imbued with power of water.",
-			"INT +1, MDEF +2.",
-			"Increases resistance to water attacks by 15%.",
-			"Has a certain chance of casting LV 3 Frost Nova when hit by physical/magical attacks.",
-			"Type : ^777777Accessory^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^77777720^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Warlock^000000",
-		},
-		slotCount = 1,
-		ClassNum = 0
-	},
-	[2861] = {
-		unidentifiedDisplayName = "Accessory",
-		unidentifiedResourceName = "링",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Crimson Orb",
-		identifiedResourceName = "크림즌오브",
-		identifiedDescriptionName = {
-			"A bloody crystal ball imbued with power of fire.",
-			"INT +1, MDEF +2.",
-			"Increases resistance to ^FF0000Fire^000000 attacks by 15%",
-			"Has a certain chance of casting LV 3 Sightrasher when hit by physical/magical attacks.",
-			"Type : ^777777Accessory^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^77777720^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Warlock^000000",
-		},
-		slotCount = 1,
-		ClassNum = 0
-	},
-	[2862] = {
-		unidentifiedDisplayName = "Accessory",
-		unidentifiedResourceName = "링",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Forest Orb",
-		identifiedResourceName = "포레스트오브",
-		identifiedDescriptionName = {
-			"A green crystal ball imbued with power of earth.",
-			"INT +1, MDEF +2.",
-			"Increases resistance to earth attacks by 15%",
-			"Has a certain chance of casting LV 3 Quagmire when hit by physical/magical attacks.",
-			"Type : ^777777Accessory^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^77777720^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Warlock^000000",
-		},
-		slotCount = 1,
-		ClassNum = 0
-	},
-	[2864] = {
-		unidentifiedDisplayName = "Accessory",
-		unidentifiedResourceName = "링",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Light Of Cure",
-		identifiedResourceName = "치유의빛",
-		identifiedDescriptionName = {
-			"^ff0000This item cannot be traded between accounts.^000000",
-			"An old but shiny gold ring entwined with rings. It is rumored to be a relic of a saint.",
-			"VIT +2, Increases the effectiveness of healing skills by 2%.",
-			"Allows the user to enchant items with effects related to Highness Heal.",
-			"Type : ^777777Accessory^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^7777770^000000",
-			"Required Level: ^777777110^000000",
-			"Job : ^777777Archbishop^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[2865] = {
-		unidentifiedDisplayName = "Accessory",
-		unidentifiedResourceName = "링",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Seal Of Cathedral",
-		identifiedResourceName = "대성당의인장",
-		identifiedDescriptionName = {
-			"^ff0000This item cannot be traded between accounts.^000000",
-			"A thick ring mounted with a purple stone, given to a training priest.",
-			"INT +2, Increases the effectiveness of healing skills by 2%.",
-			"Allows the user to enchant items with effects related to Coluseo Heal.",
-			"Type : ^777777Accessory^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^7777770^000000",
-			"Required Level: ^777777110^000000",
-			"Job : ^777777Archbishop^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[2866] = {
-		unidentifiedDisplayName = "Accessory",
-		unidentifiedResourceName = "링",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Ring Of Archbishop",
-		identifiedResourceName = "대주교의반지",
-		identifiedDescriptionName = {
-			"^ff0000This item cannot be traded between accounts.^000000",
-			"A ring mounted with clear mysterious stone. It is rumored to be a relic of a religious leader.",
-			"DEX +2, Increases the effectiveness of healing skills by 2%.",
-			"Allows the user to enchant items with effects related to the effectiveness of healing skills.",
-			"Type : ^777777Accessory^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^7777770^000000",
-			"Required Level: ^777777110^000000",
-			"Job : ^777777Archbishop^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
 	[5792] = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "리본",
@@ -108985,182 +109474,6 @@ tbl = {
 			"Job : ^777777All^000000",
 		},
 		slotCount = 0,
-		ClassNum = 0
-	},
-	[15025] = {
-		unidentifiedDisplayName = "Armor",
-		unidentifiedResourceName = "코튼셔츠",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Golden Rod Robe",
-		identifiedResourceName = "골든로드로브",
-		identifiedDescriptionName = {
-			"An ornate golden robe imbued with power of winds.",
-			"INT +1, MDEF +10.",
-			"Decreases the variable casting time of Lord of Vermilion by 3 seconds, INT +1 when unmodified INT is 120 or more.",
-			"Type : ^777777Armor^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^77777750^000000",
-			"Property : ^777777Wind^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Warlock^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[15026] = {
-		unidentifiedDisplayName = "Armor",
-		unidentifiedResourceName = "코튼셔츠",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Aqua Robe",
-		identifiedResourceName = "아쿠아로브",
-		identifiedDescriptionName = {
-			"An elegant blue robe imbued with power of water.",
-			"INT +1, MDEF +10.",
-			"Decreases the variable casting time of Storm Gust by 3 seconds, INT +1 when unmodified INT is 120 or more.",
-			"Type : ^777777Armor^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^77777750^000000",
-			"Property : ^777777Water^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Warlock^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[15027] = {
-		unidentifiedDisplayName = "Armor",
-		unidentifiedResourceName = "코튼셔츠",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Crimson Robe",
-		identifiedResourceName = "크림즌로브",
-		identifiedDescriptionName = {
-			"An elaborate red robe imbued with power of fire.",
-			"INT +1, MDEF +10.",
-			"Decreases the variable casting time of Meteor Storm by 3 seconds, INT +1 when unmodified INT is 120 or more.",
-			"Type : ^777777Armor^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^77777750^000000",
-			"Property : ^FF0000Fire^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Warlock^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[15028] = {
-		unidentifiedDisplayName = "Armor",
-		unidentifiedResourceName = "코튼셔츠",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Forest Robe",
-		identifiedResourceName = "포레스트로브",
-		identifiedDescriptionName = {
-			"A simple turquoise robe imbued with power of earth.",
-			"INT +1, MDEF +10.",
-			"Decreases the variable casting time of Heaven's Drive by 1 second, INT +1 when unmodified INT is 120 or more.",
-			"Type : ^777777Armor^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^77777750^000000",
-			"Property : ^777777Earth^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Warlock^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[2007] = {
-		unidentifiedDisplayName = "Two-handed Staff",
-		unidentifiedResourceName = "롯드",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Golden Rod Staff",
-		identifiedResourceName = "골든로드스태프",
-		identifiedDescriptionName = {
-			"A magic staff charged with whirling power of wind.",
-			"Increases the effectiveness of Jupitel Thunder by 12%.",
-			"INT +3, MATK + 230.",
-			"When you equip a whole set of Golden Rod items - the staff, the robe, the shoes, and the orb, the effectiveness of all the wind spells is increased by 40%, the effectiveness of all the earth spells is decreased by 30%, and resistance to earth attacks is decreased by 50%.",
-			"Type : ^777777Two-handed Staff^000000 Attack : ^77777730^000000",
-			"Weight: ^77777790^000000 Property : ^777777Wind^000000",
-			"Weapon Level: ^7777774^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Warlock^000000",
-		},
-		slotCount = 2,
-		ClassNum = 0
-	},
-	[2008] = {
-		unidentifiedDisplayName = "Two-handed Staff",
-		unidentifiedResourceName = "롯드",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Aqua Staff",
-		identifiedResourceName = "아쿠아스태프",
-		identifiedDescriptionName = {
-			"A magic staff charged with freezing power of water.",
-			"Increases the effectiveness of Cold Bolt and Frost Diver by 10%.",
-			"INT +3, MATK + 230.",
-			"When you equip a whole set of Aqua items - the staff, the robe, the shoes, and the orb, the effectiveness of all the water spells is increased by 40%, the effectiveness of all the wind spells is decreased by 30%, and resistance to wind attacks is decreased by 50%.",
-			"Type : ^777777Two-handed Staff^000000 Attack : ^77777730^000000",
-			"Weight: ^77777790^000000 Weight : ^777777Water^000000",
-			"Weapon Level: ^7777774^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Warlock^000000",
-		},
-		slotCount = 2,
-		ClassNum = 0
-	},
-	[2009] = {
-		unidentifiedDisplayName = "Two-handed Staff",
-		unidentifiedResourceName = "롯드",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Crimson Staff",
-		identifiedResourceName = "크림즌스태프",
-		identifiedDescriptionName = {
-			"A magic staff charged with blazing power of fire.",
-			"Increases the effectiveness of Fire Bolt and Fire Ball by 10%.",
-			"INT +3, MATK + 230.",
-			"When you equip a whole set of Crimson items - the staff, the robe, the shoes, and the orb, the effectiveness of all the ^FF0000Fire^000000 spells is increased by 40%, the effectiveness of all the ^6996ADWater^000000 spells is decreased by 30%, and resistance to ^6996ADWater^000000 attacks is decreased by 50%.",
-			"Type : ^777777Two-handed Staff^000000 Attack : ^77777730^000000",
-			"Weight: ^77777790^000000 Weight : ^777777Fire^000000",
-			"Weapon Level: ^7777774^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Warlock^000000",
-		},
-		slotCount = 2,
-		ClassNum = 0
-	},
-	[2010] = {
-		unidentifiedDisplayName = "Two-handed Staff",
-		unidentifiedResourceName = "롯드",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Forest Staff",
-		identifiedResourceName = "포레스트스태프",
-		identifiedDescriptionName = {
-			"A magic staff charged with massive power of earth.",
-			"Increases the effectiveness of Earth Spike and Heaven's Drive by 10%.",
-			"INT +3, MATK + 230.",
-			"When you equip a whole set of Forest items - the staff, the robe, the shoes, and the orb, the effectiveness of all the earth spells is increased by 40%, the effectiveness of all the fire spells is decreased by 30%, and resistance to fire attacks is decreased by 50%.",
-			"Type : ^777777Two-handed Staff^000000 Attack : ^77777730^000000",
-			"Weight: ^77777790^000000 Weight : ^777777Earth^000000",
-			"Weapon Level: ^7777774^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Warlock^000000",
-		},
-		slotCount = 2,
 		ClassNum = 0
 	},
 	[12561] = {
@@ -109728,44 +110041,6 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
-	[1773] = {
-		unidentifiedDisplayName = "Elven Arrow",
-		unidentifiedResourceName = "엘프의화살",
-		unidentifiedDescriptionName = {
-			"Arrows once used by the ancient elves guarding the forest. Increases Ranged Attack by 50%, when used together with an Elven Bow.",
-			"Type : ^777777Arrow^000000    Attack : ^77777745^000000",
-			"Weight: ^7777770.1^000000      Property : ^777777None^000000",
-			"Required Level: ^777777100^000000",
-		},
-		identifiedDisplayName = "Elven Arrow",
-		identifiedResourceName = "엘프의화살",
-		identifiedDescriptionName = {
-			"Arrows once used by the ancient elves guarding the forest. Increases Ranged Attack by 50%, when used together with an Elven Bow.",
-			"Type : ^777777Arrow^000000    Attack : ^77777745^000000",
-			"Weight: ^7777770.1^000000      Property : ^777777None^000000",
-			"Required Level: ^777777100^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[1774] = {
-		unidentifiedDisplayName = "Hunting Arrow",
-		unidentifiedResourceName = "사냥용화살",
-		unidentifiedDescriptionName = {
-			"Strong and rough arrows ideal for hunting large animals. Increases Ranged Attack by 50%, when used together with a Hunter Bow.",
-			"Type : ^777777Arrow^000000    Attack : ^77777735^000000",
-			"Weight: ^7777770.1^000000      Property : ^777777None^000000",
-		},
-		identifiedDisplayName = "Hunting Arrow",
-		identifiedResourceName = "사냥용화살",
-		identifiedDescriptionName = {
-			"Strong and rough arrows ideal for hunting large animals. Increases Ranged Attack by 50%, when used together with a Hunter Bow.",
-			"Type : ^777777Arrow^000000    Attack : ^77777735^000000",
-			"Weight: ^7777770.1^000000      Property : ^777777None^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
 	[12490] = {
 		unidentifiedDisplayName = "Christmas Music Box",
 		unidentifiedResourceName = "생명보험증서",
@@ -109778,839 +110053,6 @@ tbl = {
 		identifiedDescriptionName = {
 			"A parchment that plays random christmas music when used.",
 			"Weight: ^7777770^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[2011] = {
-		unidentifiedDisplayName = "Empowered Golden Rod Staff",
-		unidentifiedResourceName = "골든로드스태프",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Empowered Golden Rod Staff",
-		identifiedResourceName = "골든로드스태프",
-		identifiedDescriptionName = {
-			"A magic staff charged with massive power of wind.",
-			"Increase Jupitel Thunder damage by 30%.",
-			"INT +5, MATK + 270.",
-			"If worn with Golden Robe, Golden Shoes, and Golden Orb Increase Wind Magic damage by 60%.",
-			"Lower Earth Magic damage by 60% and resistance to Earth by 50%.",
-			"Type : ^777777Two-handed Staff^000000",
-			"Attack : ^77777730^000000",
-			"Weight: ^77777790^000000",
-			"Element : ^777777Wind^000000",
-			"Weapon Level: ^7777774^000000 ^ff0000",
-			"Required Level: ^777777130^000000",
-			"Job : ^777777Warlock^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[2012] = {
-		unidentifiedDisplayName = "Empowered Aqua Staff",
-		unidentifiedResourceName = "아쿠아스태프",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Empowered Aqua Staff",
-		identifiedResourceName = "아쿠아스태프",
-		identifiedDescriptionName = {
-			"A magic staff charged with freezing power of water.",
-			"Increases the effectiveness of Cold Bolt and Frost Diver by 30%.",
-			"INT +5, MATK + 270.",
-			"When you equip a whole set of Aqua items - the staff, the robe, the shoes, and the orb, the effectiveness of all the water spells is increased by 60%, the effectiveness of all the wind spells is decreased by 60%, and resistance to wind attacks is decreased by 50%.",
-			"Type : ^777777Two-handed Staff^000000",
-			"Attack : ^77777730^000000",
-			"Weight: ^77777790^000000",
-			"Element : ^777777Water^000000",
-			"Weapon Level: ^7777774^000000",
-			"Required Level: ^777777130^000000",
-			"Job : ^777777Warlock^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[2013] = {
-		unidentifiedDisplayName = "Empowered Crimson Staff",
-		unidentifiedResourceName = "크림즌스태프",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Empowered Crimson Staff",
-		identifiedResourceName = "크림즌스태프",
-		identifiedDescriptionName = {
-			"A magic staff charged with blazing power of fire.",
-			"Increases the effectiveness of Fire Bolt and Fire Ball by 30%.",
-			"INT +5, MATK + 270.",
-			"When you equip a whole set of Crimson items - the staff, the robe, the shoes, and the orb, the effectiveness of all the fire spells is increased by 60%, the effectiveness of all the water spells is decreased by 60%, and resistance to water attacks is decreased by 50%.",
-			"Type : ^777777Two-handed Staff^000000",
-			"Attack : ^77777730^000000",
-			"Weight: ^77777790^000000",
-			"Element : ^777777Fire^000000",
-			"Weapon Level: ^7777774^000000",
-			"Required Level: ^777777130^000000",
-			"Job : ^777777Warlock^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[2014] = {
-		unidentifiedDisplayName = "Empowered Forest Staff",
-		unidentifiedResourceName = "포레스트스태프",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Empowered Forest Staff",
-		identifiedResourceName = "포레스트스태프",
-		identifiedDescriptionName = {
-			"A magic staff charged with massive power of earth.",
-			"Increases the effectiveness of Earth Spike and Heaven's Drive by 30%.",
-			"INT +5, MATK + 270.",
-			"When you equip a whole set of Forest items - the staff, the robe, the shoes, and the orb, the effectiveness of all the earth spells is increased by 60%, the effectiveness of all the fire spells is decreased by 60%, and resistance to fire attacks is decreased by 50%.",
-			"Type : ^777777Two-handed Staff^000000",
-			"Attack : ^77777730^000000",
-			"Weight: ^77777790^000000",
-			"Element : ^777777Earth^000000",
-			"Weapon Level: ^7777774^000000",
-			"Required Level: ^777777130^000000",
-			"Job : ^777777Warlock^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[1660] = {
-		unidentifiedDisplayName = "Empowered Wand Of Affection",
-		unidentifiedResourceName = "자애의지팡이",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Empowered Wand Of Affection",
-		identifiedResourceName = "자애의지팡이",
-		identifiedDescriptionName = {
-			"A Staff that radiates concern for the welfare of others.",
-			"Adds 20% Heal Bonus.",
-			"MATK + 180, INT +4.",
-			"If worn with Robes, Shoes, and Robe of Mercy Increase Heal Bonus by an additional 45% and SP consumption of 'Heal' by 50.",
-			"Subtract 3 seconds from the reuse delay of Sacrement, Lauda Agnus and Lauda Ramus.",
-			"Type : ^777777Staff^000000",
-			"Attack : ^77777730^000000",
-			"Weight: ^77777750^000000",
-			"Weapon Level: ^7777774^000000",
-			"Required Level: ^777777130^000000",
-			"Job : ^777777\"Archbishop^000000",
-		},
-		slotCount = 1,
-		ClassNum = 0
-	},
-	[16018] = {
-		unidentifiedDisplayName = "Empowered Mace Of Judgement",
-		unidentifiedResourceName = "심판의메이스",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Empowered Mace Of Judgement",
-		identifiedResourceName = "심판의메이스",
-		identifiedDescriptionName = {
-			"A mace that strikes like the Judges gavel in deciding the fate of evil.",
-			"Physical and Magical Attacks have a chance to increase damage by 40% to Demon monsters for 7 seconds.",
-			"MATK + 180, STR +2, INT +2.",
-			"If worn with Judgement Golves, Shoes and Shawl, increase Damage against Undead by 30%.",
-			"Increase damage of Adoramus by 200%, and increase SP cost of Adoramus by 30.",
-			"Type : ^777777Mace^000000",
-			"Attack : ^777777170^000000",
-			"Weight: ^777777120^000000",
-			"Weapon Level: ^7777774^000000",
-			"Required Level: ^777777130^000000",
-			"Job : ^777777\"Archbishop^000000",
-		},
-		slotCount = 1,
-		ClassNum = 0
-	},
-	[1657] = {
-		unidentifiedDisplayName = "Wand Of Affection",
-		unidentifiedResourceName = "롯드",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Wand Of Affection",
-		identifiedResourceName = "자애의지팡이",
-		identifiedDescriptionName = {
-			"A Staff that radiates concern for the welfare of others.",
-			"Adds 10% Heal Bonus.",
-			"MATK + 160, INT +2.",
-			"If worn with Robes, Shoes, and Robe of Mercy Increase Heal Bonus by an additional 25% and SP consumption of 'Heal' by 20.",
-			"Subtract 2 seconds from the reuse delay of Sacrement, Lauda Agnus and Lauda Ramus.",
-			"Type : ^777777Staff^000000",
-			"Attack : ^77777730^000000",
-			"Weight: ^77777750^000000",
-			"Weapon Level: ^7777774^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777\"Archbishop^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[16013] = {
-		unidentifiedDisplayName = "Mace Of Judgement",
-		unidentifiedResourceName = "클럽",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Mace Of Judgement",
-		identifiedResourceName = "심판의메이스",
-		identifiedDescriptionName = {
-			"A mace that strikes like the Judges gavel in deciding the fate of evil.",
-			"Physical and Magical Attacks have a chance to increase damage by 20% to Demon monsters for 7 seconds.",
-			"MATK + 140, STR +1, INT +1.",
-			"If worn with Judgement Golves, Shoes and Shawl, increase Damage against Undead by 15%.",
-			"Increase damage of Adoramus by 200%, and increase SP cost of Adoramus by 30.",
-			"Type : ^777777Mace^000000",
-			"Attack : ^777777170^000000",
-			"Weight: ^777777120^000000",
-			"Weapon Level: ^7777774^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777\"Archbishop^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[2475] = {
-		unidentifiedDisplayName = "Ur's Greaves",
-		unidentifiedResourceName = "샌들",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Ur's Greaves",
-		identifiedResourceName = "우르의그리브",
-		identifiedDescriptionName = {
-			"Greaves made by purifying an Ur Rune.",
-			"MaxSP +40.",
-			"Reduces MaxHP by 7%. Refine rate reduces the MaxHP reduction by 1% for each level up to +8.",
-			"Class: ^777777Shoes^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^77777790^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Rune Knight^000000",
-		},
-		slotCount = 1,
-		ClassNum = 0
-	},
-	[2476] = {
-		unidentifiedDisplayName = "Peuz's Greaves",
-		unidentifiedResourceName = "샌들",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Peuz's Greaves",
-		identifiedResourceName = "페오즈의그리브",
-		identifiedDescriptionName = {
-			"Greates made by purifying a Peuz Rune.",
-			"MaxSP +40.",
-			"Reduces AGI by 7. Refine rate reduces the AGI reduction by 1% for each level up to +8.",
-			"Class: ^777777Shoes^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^77777790^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Rune Knight^000000",
-		},
-		slotCount = 1,
-		ClassNum = 0
-	},
-	[2574] = {
-		unidentifiedDisplayName = "Ur's Manteau",
-		unidentifiedResourceName = "후드",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Ur's Manteau",
-		identifiedResourceName = "우르의망토",
-		identifiedDescriptionName = {
-			"A manteau created by Ur Runestones",
-			"MHP + 2%, Increases tolerance to Neutral property attacks by 10%.",
-			"Class: ^777777Garment^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^77777760^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Rune Knight^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[2575] = {
-		unidentifiedDisplayName = "Peuz's Manteau",
-		unidentifiedResourceName = "후드",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Peuz's Manteau",
-		identifiedResourceName = "페오즈의망토",
-		identifiedDescriptionName = {
-			"A manteau created by refining Peuz Runestones",
-			"FLEE + 10, CRI + 10.",
-			"Class: ^777777Garment^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^77777760^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Rune Knight^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[2477] = {
-		unidentifiedDisplayName = "Sapha Shoes",
-		unidentifiedResourceName = "샌들",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Sapha Shoes",
-		identifiedResourceName = "사바흐의슈즈",
-		identifiedDescriptionName = {
-			"Shoes that have long been known to be from the world of darkness.",
-			"LUK +3, MSP + 30.",
-			"Class: ^777777Shoes^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^77777740^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Guillotine Cross^000000",
-		},
-		slotCount = 1,
-		ClassNum = 0
-	},
-	[2478] = {
-		unidentifiedDisplayName = "Nab Shoes",
-		unidentifiedResourceName = "샌들",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Nab Shoes",
-		identifiedResourceName = "나브의슈즈",
-		identifiedDescriptionName = {
-			"An assassin's famous historical relic.",
-			"FLEE + 3, INT +2.",
-			"Class: ^777777Shoes^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^77777740^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Guillotine Cross^000000",
-		},
-		slotCount = 1,
-		ClassNum = 0
-	},
-	[2577] = {
-		unidentifiedDisplayName = "Sapha Hood",
-		unidentifiedResourceName = "후드",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Sapha Hood",
-		identifiedResourceName = "사바흐의후드",
-		identifiedDescriptionName = {
-			"A manteau that contains the reliquery remains of an ancient Assassin",
-			"FLEE + 12, Increases CRI by 1% per refine level.",
-			"Class: ^777777Garment^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^77777710^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Guillotine Cross^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[2578] = {
-		unidentifiedDisplayName = "Nab Hood",
-		unidentifiedResourceName = "후드",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Nab Hood",
-		identifiedResourceName = "나브의후드",
-		identifiedDescriptionName = {
-			"An ancient relic that belonged to an unknown Assassin",
-			"Increases Flee and Attack Power per refine level times 2",
-			"Class: ^777777Garment^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^77777710^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Guillotine Cross^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[2479] = {
-		unidentifiedDisplayName = "White Wing Boots",
-		unidentifiedResourceName = "샌들",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "White Wing Boots",
-		identifiedResourceName = "흰날개의부츠",
-		identifiedDescriptionName = {
-			"Shoes of the brilliant archer guild known as Icarus.",
-			"AGI +2.",
-			"Reduces the SP cost of Aimed Bolt by 10.",
-			"Class: ^777777Shoes^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^77777740^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Ranger^000000",
-		},
-		slotCount = 1,
-		ClassNum = 0
-	},
-	[2480] = {
-		unidentifiedDisplayName = "Black Wing Boots",
-		unidentifiedResourceName = "샌들",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Black Wing Boots",
-		identifiedResourceName = "검은날개의부츠",
-		identifiedDescriptionName = {
-			"An ancient artifact that helps maintain clear mental focus.",
-			"INT +2, MSP + 5%.",
-			"Class: ^777777Shoes^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^77777740^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Ranger^000000",
-		},
-		slotCount = 1,
-		ClassNum = 0
-	},
-	[2580] = {
-		unidentifiedDisplayName = "White Wing Manteau",
-		unidentifiedResourceName = "후드",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "White Wing Manteau",
-		identifiedResourceName = "흰날개의망토",
-		identifiedDescriptionName = {
-			"A manteau from an archer guild known as Icarus",
-			"AGI +2, FLEE + 10,",
-			"Has a chance of activating FLEE +20 for 7 seconds while physically attacking.",
-			"Class: ^777777Garment^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^77777720^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Ranger^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[2581] = {
-		unidentifiedDisplayName = "Black Wing Manteau",
-		unidentifiedResourceName = "후드",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Black Wing Manteau",
-		identifiedResourceName = "검은날개의망토",
-		identifiedDescriptionName = {
-			"A cloak that helps maintain clear mental focus.",
-			"INT +2.",
-			"Adds perfect dodge +1 for every refine level above level 6.",
-			"Class: ^777777Garment^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^77777720^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Ranger^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[2883] = {
-		unidentifiedDisplayName = "Ur's Seal",
-		unidentifiedResourceName = "링",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Ur's Seal",
-		identifiedResourceName = "우르의인장",
-		identifiedDescriptionName = {
-			"A seal created by refining an Ur Runestone",
-			"MHP + 2%, ",
-			"Reduces the SP cost of Spiral Pierce and Hundred Spears by 5.",
-			"Class: ^777777Accessory^000000",
-			"Defense: ^7777774^000000",
-			"Weight: ^77777720^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Rune Knight^000000",
-		},
-		slotCount = 1,
-		ClassNum = 0
-	},
-	[2884] = {
-		unidentifiedDisplayName = "Peuz's Seal",
-		unidentifiedResourceName = "링",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Peuz's Seal",
-		identifiedResourceName = "페오즈의인장",
-		identifiedDescriptionName = {
-			"A seal created by refining a Peuz Runestone",
-			"ATK + 20, MSP + 20.",
-			"Class: ^777777Accessory^000000",
-			"Defense: ^7777773^000000",
-			"Weight: ^77777720^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Rune Knight^000000",
-		},
-		slotCount = 1,
-		ClassNum = 0
-	},
-	[2886] = {
-		unidentifiedDisplayName = "Sapha Ring",
-		unidentifiedResourceName = "링",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Sapha Ring",
-		identifiedResourceName = "사바흐의링",
-		identifiedDescriptionName = {
-			"A ring that has long been known to be from the world of darkness.",
-			"Class: ^777777Accessory^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^77777710^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Guillotine Cross^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[2887] = {
-		unidentifiedDisplayName = "Nab Ring",
-		unidentifiedResourceName = "링",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Nab Ring",
-		identifiedResourceName = "나브의링",
-		identifiedDescriptionName = {
-			"An assassin's famous historical relic",
-			"ATK + 10, MATK + 20.",
-			"Class: ^777777Accessory^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^77777710^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Guillotine Cross^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[2890] = {
-		unidentifiedDisplayName = "White Wing Brooch",
-		unidentifiedResourceName = "링",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "White Wing Brooch",
-		identifiedResourceName = "흰날개의브로치",
-		identifiedDescriptionName = {
-			"An accessory that belonged to the ",
-			"DEX +2, ",
-			"Ranged Attack Damage +3%",
-			"Class: ^777777Accessory^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^77777710^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Ranger^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[2891] = {
-		unidentifiedDisplayName = "Black Wing Brooch",
-		unidentifiedResourceName = "링",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Black Wing Brooch",
-		identifiedResourceName = "검은날개의브로치",
-		identifiedDescriptionName = {
-			"Black wings to help maintain clear mental focus.",
-			"INT +2, Perfect Dodge +3.",
-			"Class: ^777777Accessory^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^77777710^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Ranger^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[15036] = {
-		unidentifiedDisplayName = "Ur's Plate",
-		unidentifiedResourceName = "우든메일",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Ur's Plate",
-		identifiedResourceName = "우르의플레이트",
-		identifiedDescriptionName = {
-			"Armor created by purifying Ur runestones.",
-			"MDEF +10.",
-			"Increases MaxHP per refine level and tolerance to Demi-human and Neutral property damage by 5%.",
-			"MaxHP +14%, Increases damage of Hundred Spears by 50%,",
-			"enables Crusader skill Guard Level 1",
-			"Class: ^777777Armor^000000",
-			"Defense: ^777777110^000000",
-			"Weight: ^777777300^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Rune Knight^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[15037] = {
-		unidentifiedDisplayName = "Peuz's Plate",
-		unidentifiedResourceName = "우든메일",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Peuz's Plate",
-		identifiedResourceName = "페오즈의플레이트",
-		identifiedDescriptionName = {
-			"Armor created by purifying Peuz runestones.",
-			"MDEF +10.",
-			"ATK + 20, FLEE + 17.",
-			"If worn with Ur Greaves, Shoes and accessory,",
-			"Increases damage to all monster sizes by 10%.",
-			"Increases damage of Wind Cutter and Sonic Wave by 100%.",
-			"Has a chance of activating Spear Dynamo and adding 2 Aspd while physically attacking.",
-			"Increases SP costs of skills by 10.",
-			"Class: ^777777Armor^000000",
-			"Defense: ^777777110^000000",
-			"Weight: ^777777300^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Rune Knight^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[15038] = {
-		unidentifiedDisplayName = "Sapha's Cloth",
-		unidentifiedResourceName = "코튼셔츠",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Sapha's Cloth",
-		identifiedResourceName = "사바흐의클로스",
-		identifiedDescriptionName = {
-			"Armor that contains the reliquery remains of an ancient Assassin.",
-			"LUK +3, Has a chance of auto-casting Meteor Assault level 1 while physically attacking.",
-			"If higher level of this skill is learned then it will be cast.",
-			"If worn with Greaves, shoes and accessory,",
-			"Flee +10, Critical +15, Increases damage of Cross Impact by 20",
-			"Increases SP costs of skills by 10",
-			"Class: ^777777Armor^000000",
-			"Defense: ^77777745^000000",
-			"Weight: ^77777710^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Guillotine Cross^000000",
-		},
-		slotCount = 1,
-		ClassNum = 0
-	},
-	[15039] = {
-		unidentifiedDisplayName = "Nab's Cloth",
-		unidentifiedResourceName = "코튼셔츠",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Nab's Cloth",
-		identifiedResourceName = "나브의클로스",
-		identifiedDescriptionName = {
-			"An assassin's famous historical relic.",
-			"STR +2, INT +2.",
-			"If worn with Greaves, shoes and accessory,",
-			"Has a chance of auto-casting Soul Destroyer level 1 while physically attacking.",
-			"If higher level of this skill is learned then it will be cast.",
-			"If base STR is 120, +30 Atk.",
-			"Increases damage to all monster sizes by 10%",
-			"CRI - 20.",
-			"Class: ^777777Armor^000000",
-			"Defense: ^77777745^000000",
-			"Weight: ^77777710^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Guillotine Cross^000000",
-		},
-		slotCount = 1,
-		ClassNum = 0
-	},
-	[15042] = {
-		unidentifiedDisplayName = "White Wing Suits",
-		unidentifiedResourceName = "코튼셔츠",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "White Wing Suits",
-		identifiedResourceName = "흰날개의슈츠",
-		identifiedDescriptionName = {
-			"Armor of the brilliant archer guild known as Icarus.",
-			"Increases ranged attack damage by 2x refine level.",
-			"Increases Flee by 1 per refine level.",
-			"If worn with greaves, shoes, and accessory,",
-			"Increases Aspd by 2, Increases damage of Arrow Storm by 50%.",
-			"Increases ranged attack damage by 30.",
-			"Has a chance of auto-casting double strafe level while attacking with a ranged weapon.",
-			"Class: ^777777Armor^000000",
-			"Defense: ^77777745^000000",
-			"Weight: ^77777710^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Ranger^000000",
-		},
-		slotCount = 1,
-		ClassNum = 0
-	},
-	[15043] = {
-		unidentifiedDisplayName = "Black Wing Suits",
-		unidentifiedResourceName = "코튼셔츠",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Black Wing Suits",
-		identifiedResourceName = "검은날개의슈츠",
-		identifiedDescriptionName = {
-			"An ancient armor that helps maintain clear mental focus.",
-			"INT +2, ",
-			"Increases Atk by 3x refine level.",
-			"If worn with greaves, shoes, and accessory,",
-			"MaxHP +15%, Perfect Dodge +20, Increases damage of Cluster Bomb by 20%",
-			"Decreases attack damage by 30% and, Aspd - 7.",
-			"Class: ^777777Armor^000000",
-			"Defense: ^77777745^000000",
-			"Weight: ^77777710^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Ranger^000000",
-		},
-		slotCount = 1,
-		ClassNum = 0
-	},
-	[15029] = {
-		unidentifiedDisplayName = "Robe Of Affection",
-		unidentifiedResourceName = "자애의로브",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Robe Of Affection",
-		identifiedResourceName = "자애의로브",
-		identifiedDescriptionName = {
-			"Blesses the wearer with the Holy Property",
-			"Decreases SP Consumption of Clementia by 50",
-			"INT +1, MDEF +10",
-			"Type : ^777777Garment^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^77777730^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Archbishop^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[15030] = {
-		unidentifiedDisplayName = "Robe Of Judgement",
-		unidentifiedResourceName = "심판의로브",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Robe Of Judgement",
-		identifiedResourceName = "심판의로브",
-		identifiedDescriptionName = {
-			"Blesses the wearer with the Shadow Property",
-			"Increases damage of Judex skill by 30%",
-			"Increases SP Consumption of Judex skill by 40",
-			"STR +1, INT +1, MDEF +10",
-			"Type : ^777777Garment^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^77777730^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Archbishop^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[2471] = {
-		unidentifiedDisplayName = "Shoes Of Affection",
-		unidentifiedResourceName = "자애의슈즈",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Shoes Of Affection",
-		identifiedResourceName = "자애의슈즈",
-		identifiedDescriptionName = {
-			"Decreases tolerance to all races by 10%",
-			"Increases tolerance to Demihumans by 10%",
-			"MaxHP +500",
-			"Type : ^777777Shoes^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^77777730^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Archbishop^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[2472] = {
-		unidentifiedDisplayName = "Shoes Of Judgement",
-		unidentifiedResourceName = "심판의슈즈",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Shoes Of Judgement",
-		identifiedResourceName = "심판의슈즈",
-		identifiedDescriptionName = {
-			"Decreases tolerance to all races by 10%",
-			"Increases tolerance to Demon and Undead by 10%",
-			"MaxSP +150",
-			"Type : ^777777Shoes^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^77777730^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Archbishop^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[2569] = {
-		unidentifiedDisplayName = "Shawl Of Affection",
-		unidentifiedResourceName = "자애의숄",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Shawl Of Affection",
-		identifiedResourceName = "자애의숄",
-		identifiedDescriptionName = {
-			"Perfect Dodge +5",
-			"Has a chance of casting Renovatio Level 1 while being physically or magically attacked.",
-			"Type : ^777777Manteau^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^77777730^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Archbishop^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[2570] = {
-		unidentifiedDisplayName = "Shawl Of Judgement",
-		unidentifiedResourceName = "심판의숄",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Shawl Of Judgement",
-		identifiedResourceName = "심판의숄",
-		identifiedDescriptionName = {
-			"Flee +5",
-			"Has a chance of casting Oratio Level 2 while being physically or magically attacked",
-			"If a higher level of this skill is learned then that level will activate.",
-			"Type : ^777777Manteau^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^77777730^000000",
-			"Required Level: ^777777100^000000",
-			"Job : ^777777Archbishop^000000",
 		},
 		slotCount = 0,
 		ClassNum = 0
@@ -111285,350 +110727,6 @@ tbl = {
 		identifiedDescriptionName = {
 			"Increases heal efficiency by 20%",
 			"Increases SP consumption by 15%",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[1197] = {
-		unidentifiedDisplayName = "Eden Group Slayer III",
-		unidentifiedResourceName = "바스타드소드",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Eden Group Slayer III",
-		identifiedResourceName = "크레이모어",
-		identifiedDescriptionName = {
-			"A two-handed sword that is made by the Eden Group. It is suitable for those who have more advanced experience handling two-handed swords.",
-			"Cannot be upgraded.",
-			"Class: ^777777Two-Handed Sword^000000",
-			"Attack : ^777777200^000000",
-			"Weight: ^7777770^000000",
-			"Weapon Level: ^7777773^000000",
-			"Required Level: ^77777760^000000",
-			"Jobs: ^777777Swordman Class^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[1289] = {
-		unidentifiedDisplayName = "Eden Group Katar I",
-		unidentifiedResourceName = "카타르",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Eden Group Katar I",
-		identifiedResourceName = "로키의손톱",
-		identifiedDescriptionName = {
-			"A katar that is made by the Eden Group. It is suitable for those who have more advanced experience handling katars.",
-			"Cannot be upgraded.",
-			"Class: ^777777Katar^000000",
-			"Attack : ^777777155^000000",
-			"Weight: ^7777770^000000",
-			"Weapon Level: ^7777773^000000",
-			"Required Level: ^77777760^000000",
-			"Jobs: ^777777Assassin^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[1391] = {
-		unidentifiedDisplayName = "Eden Group Two Handed Axe I",
-		unidentifiedResourceName = "액스",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Eden Group Two Handed Axe I",
-		identifiedResourceName = "버디슈",
-		identifiedDescriptionName = {
-			"An axe that is made by the Eden Group. It is suitable for those who have more advanced experience handling two-handed axes.",
-			"Cannot be upgraded.",
-			"Class: ^777777Two-Handed Axe^000000",
-			"Attack : ^777777195^000000",
-			"Weight: ^7777770^000000",
-			"Weapon Level: ^7777773^000000",
-			"Required Level: ^77777760^000000",
-			"Job : ^777777Swordman Class / Merchant Class^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[1434] = {
-		unidentifiedDisplayName = "Eden Group Spear I",
-		unidentifiedResourceName = "쟈벨린",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Eden Group Spear I",
-		identifiedResourceName = "가에볼그",
-		identifiedDescriptionName = {
-			"A spear that is made by the Eden Group. It is suitable for those who have more advanced experience handling spears.",
-			"Cannot be upgraded.",
-			"Class: ^777777Spear^000000",
-			"Attack : ^777777165^000000",
-			"Weight: ^7777770^000000",
-			"Weapon Level: ^7777773^000000",
-			"Required Level: ^77777760^000000",
-			"Job : ^777777Swordman Class^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[1583] = {
-		unidentifiedDisplayName = "Eden Group Dictionary I",
-		unidentifiedResourceName = "북",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Eden Group Dictionary I",
-		identifiedResourceName = "메모라이즈북",
-		identifiedDescriptionName = {
-			"A book that is made by the Eden Group. It is suitable for those who have more advanced experience handling magic books.",
-			"Matk +110",
-			"Cannot be upgraded.",
-			"Class: ^777777Book^000000",
-			"Attack : ^777777135^000000",
-			"Weight: ^7777770^000000",
-			"Weapon Level: ^7777773^000000",
-			"Required Level: ^77777760^000000",
-			"Job : ^777777Priest / Sage / Taekwon Master^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[1658] = {
-		unidentifiedDisplayName = "Eden Group Staff III",
-		unidentifiedResourceName = "롯드",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Eden Group Staff III",
-		identifiedResourceName = "스태프오브윙",
-		identifiedDescriptionName = {
-			"A staff that is made by the Eden Group. An advanced item for an experienced magic practitioner.",
-			"INT +4 , Matk +170",
-			"Cannot be upgraded.",
-			"Class: ^777777Staff^000000",
-			"Attack : ^77777760^000000",
-			"Weight: ^7777770^000000",
-			"Weapon Level: ^7777773^000000",
-			"Required Level: ^77777760^000000",
-			"Jobs: ^777777Mage Class/Acolyte Class^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[1831] = {
-		unidentifiedDisplayName = "Eden Group Knuckle I",
-		unidentifiedResourceName = "바그낙",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Eden Group Knuckle I",
-		identifiedResourceName = "호라",
-		identifiedDescriptionName = {
-			"A clas that is made by the Eden Group. It is suitable for those who have more advanced experience as Champions.",
-			"Class: ^777777Claw^000000",
-			"Attack : ^777777120^000000",
-			"Weight: ^7777770^000000",
-			"Weapon Level: ^7777773^000000",
-			"Required Level: ^77777760^000000",
-			"Jobs: ^777777Priest and Monk Classes^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[1931] = {
-		unidentifiedDisplayName = "Eden Group Guitar I",
-		unidentifiedResourceName = "바이올린",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Eden Group Guitar I",
-		identifiedResourceName = "첼로",
-		identifiedDescriptionName = {
-			"An instrument that is made by the Eden Group. It is suitable for those who have more advanced experience as Bards.",
-			"Class: ^777777Musical Instrument^000000",
-			"Attack : ^777777125^000000",
-			"Weight: ^7777770^000000",
-			"Weapon Level: ^7777773^000000",
-			"Required Level: ^77777760^000000",
-			"Job : ^777777Bard^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[1986] = {
-		unidentifiedDisplayName = "Eden Group Whip I",
-		unidentifiedResourceName = "로프",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Eden Group Whip I",
-		identifiedResourceName = "테일",
-		identifiedDescriptionName = {
-			"A whip that is made by the Eden Group. It is suitable for those who have more advanced experience as Dancers.",
-			"Class: ^777777Whip^00000",
-			"Attack : ^777777125^000000",
-			"Weight: ^7777770^000000",
-			"Weapon Level: ^7777773^000000",
-			"Required Level: ^77777760^000000",
-			"Jobs: ^777777Dancer^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[2473] = {
-		unidentifiedDisplayName = "Eden Group Boots IV",
-		unidentifiedResourceName = "샌들",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Eden Group Boots IV",
-		identifiedResourceName = "군용부츠",
-		identifiedDescriptionName = {
-			"Boots that are provided only for members of the Eden Group.",
-			"These are designed to fit comfortably throughout long-walks.",
-			"HP recovery   +28%",
-			"SP recovery +12%",
-			"Cannot be upgraded.",
-			"Class: ^777777Footwear^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^7777770^000000",
-			"Required Level: ^77777760^000000",
-			"Jobs: ^777777All Jobs^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[2571] = {
-		unidentifiedDisplayName = "Eden Group Manteau II",
-		unidentifiedResourceName = "후드",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Eden Group Manteau II",
-		identifiedResourceName = "미스릴마법망토",
-		identifiedDescriptionName = {
-			"A manteau which is only for Eden Group members.",
-			"It is designed to flatter anyone's backside.",
-			"Increases tolerance to neutral property by 10%.",
-			"FLEE +12",
-			"Cannot be upgraded.",
-			"Class: ^777777Garment^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^7777770^000000",
-			"Required Level: ^77777760^000000",
-			"Jobs: ^777777All Jobs^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[13066] = {
-		unidentifiedDisplayName = "Eden Group Dagger III",
-		unidentifiedResourceName = "나이프",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Eden Group Dagger III",
-		identifiedResourceName = "흑요석단검",
-		identifiedDescriptionName = {
-			"A practical dagger that is made by the Eden Group.",
-			"It's suitable for those who have experience handling daggers.",
-			"Matk +70",
-			"Cannot be upgraded.",
-			"Class: ^777777Dagger^000000",
-			"Attack : ^777777165^000000",
-			"Weight: ^7777770^000000",
-			"Weapon Level: ^7777773^000000",
-			"Required Level: ^77777760^000000",
-			"Jobs: ^777777Novice / Swordman / Mage / Archer / Merchant / Thief / Soul Linker / Ninja^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[13310] = {
-		unidentifiedDisplayName = "Eden Group Huuma Shuriken I",
-		unidentifiedResourceName = "풍마_편익",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Eden Group Huuma Shuriken I",
-		identifiedResourceName = "풍마_명정",
-		identifiedDescriptionName = {
-			"A Huuma Shuriken that is made by the Eden Group.",
-			"It is suitable for experienced Ninjas only.",
-			"Class: ^777777Huuma^000000",
-			"Attack : ^777777150^000000",
-			"Weight: ^7777770^000000",
-			"Weapon Level: ^7777773^000000",
-			"Required Level: ^77777760^000000",
-			"Jobs :^777777Ninja^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[13114] = {
-		unidentifiedDisplayName = "Eden Group Revolver III",
-		unidentifiedResourceName = "식스슈터",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Eden Group Revolver III",
-		identifiedResourceName = "더개리슨",
-		identifiedDescriptionName = {
-			"A revolver that is made by the Eden Group. It's suitable for an advanced gun handler.",
-			"Hit -5.",
-			"Cannot be upgraded.",
-			"Class: ^777777Pistol^000000",
-			"Attack : ^77777776^000000",
-			"Weight: ^7777770^000000",
-			"Weapon Level: ^7777773^000000",
-			"Required Level: ^77777760^000000",
-			"Jobs: ^777777Gunslinger^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[13434] = {
-		unidentifiedDisplayName = "Eden Group Saber III",
-		unidentifiedResourceName = "소드",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Eden Group Saber III",
-		identifiedResourceName = "블레이드",
-		identifiedDescriptionName = {
-			"A one-handed sword that is made by the Eden Group. It's suitable for an experienced sword handler.",
-			"Cannot be upgraded.",
-			"Class: ^777777One-Handed Sword^000000",
-			"Attack : ^777777185^000000",
-			"Weight: ^7777770^000000",
-			"Weapon Level: ^7777773^000000",
-			"Required Level: ^77777760^000000",
-			"Jobs: ^777777Swordman / Merchant / Thief Class^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[15031] = {
-		unidentifiedDisplayName = "Eden Group Armor",
-		unidentifiedResourceName = "코튼셔츠",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Eden Group Armor",
-		identifiedResourceName = "인크레디블외투",
-		identifiedDescriptionName = {
-			"Armor that is only provided for members of the Eden Group.",
-			"There are various sizes so tall people don't have to worry about it. ",
-			"MaxHP +500, MaxSP  +50,",
-			"MDEF +5.",
-			"Cannot be upgraded.",
-			"Class: ^777777Armor^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^7777770^000000",
-			"Required Level: ^77777760^000000",
-			"Jobs: ^777777All Jobs^000000",
 		},
 		slotCount = 0,
 		ClassNum = 0

@@ -498,6 +498,11 @@ amount of HP and SP.^000000
 
 Weight: ^7777772^000000
 #
+583#
+Food Eaten Slowly to replenish your body from rituals of fasting Replenish the Weakened body and give energy to protect the body.
+^FFFFFF_^000000
+Weight: ^77777715^000000
+#
 584#
 A bowl filled with
 hot, hearty fish
@@ -506,25 +511,47 @@ helping of fish cake.
 ^ffffff_^000000
 Weight: ^7777776^000000
 #
+585#
+A sausage with delicious smell and taste. Tastes even better if you eat it with some wheat beer.
+^000088Recovers a small amount of HP^000000.
+^FFFFFF_^000000
+Weight: ^7777774^000000
+#
+586#
+A piece of cake filled with mother's love.
+^000088Restores about 325 HP^000000.
+^FFFFFF_^000000
+Weight: ^77777710^000000
+#
 587#
 A freshly scented,
 thorny fruit from a tree that restores a small
 amount of HP and SP.
 Weight: ^7777774^000000
 #
+588#
+A noodle dish from a far nation, made from water and flour. Many tastes can be achieved using various sauces.
+^FFFFFF_^000000
+Weight: ^77777710^000000
+#
+589#
+A delicious snack food that is a favorite of Teenagers everywhere.
+^000088Restore a moderate amount of HP^000000
+^FFFFFF_^000000
+Weight: ^77777715^000000
+#
+590#
+Looks so yummy that you will feel like to have a bite instantly.
+^000088Recover a small amount of HP^000000.
+^FFFFFF_^000000
+Weight: ^7777772^000000
+#
 591#
-	
-A pancake topped	
-with caviar. Average	
-people have trouble	
-telling the difference	
-between fine caviar	
-and common frog	
-spawn eggs. ^000088Cures	
-all abnormal statuses^000000,	
-^000088recovers HP and SP^000000.	
-^ffffff_^000000	
-Weight: ^77777715^000000	
+A pancake topped with caviar. Average people have trouble telling the difference between fine caviar and common frog spawn eggs.
+^000088Cures all abnormal statuses^000000
+^000088Recovers HP and SP^000000.
+^FFFFFF_^000000
+Weight: ^77777715^000000
 #
 592#
 	
@@ -3246,6 +3273,15 @@ Required Level: ^77777755^000000
 Jobs: ^777777Transcendent
 Swordman Classes^000000
 #
+1177#
+Item For Brave Guild Adventurers.
+ATK +50%
+Class: ^777777One-Handed Sword^000000
+Attack: ^777777120^000000
+Weight: ^7777770^000000
+Weapon Level: ^7777771^000000
+Jobs: ^777777Swordman^000000
+#
 1178#
 A two-handed, formal
 dress sword imbued 
@@ -3402,73 +3438,17 @@ Weapon Level:^7777772^000000
 Required Level: ^77777750^000000
 Job : ^777777Transcendent Swordman Classes^000000
 #
-1191#
-A reddish wide two-handed sword.
-Attack Speed increases by 1 for every 2 upgrade levels.
+1190#
+^000088Rental Items^000000
+Large, double-edged broad sword that was used by the Scottish highlanders.
+Increases damage against small, medium, large size monsters by 40%.
+[+^6A5ACDGold PC Cafe^000000]
+ATK +10, MATK +10
 Class: ^777777Two-Handed Sword^000000
-Attack : ^777777280^000000
-Weight: ^777777340^000000
-Weapon Level: ^7777773^000000
-Required Level: ^777777100^000000
-Jobs: ^777777Rune Knight^000000
-#
-1192#
-A two-handed sword that is made by the Eden Group for a beginner Swordman.
-Cannot be upgraded.
-Class: ^777777Two-Handed Sword^000000
-Attack : ^777777162^000000
+Attack: ^777777220^000000
 Weight: ^7777770^000000
-Weapon Level: ^7777772^000000
-Required Level: ^77777726^000000
-Jobs: ^777777Swordman Class^000000
-#
-1193#
-A two-handed sword that is made by the Eden Group. It is suitable for intermediates who have more experience handling two-handed swords.
-Cannot be upgraded.
-Class: ^777777Two-Handed Sword^000000
-Attack : ^777777185^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777772^000000
-Required Level: ^77777740^000000
-Jobs: ^777777Swordman Class^000000
-#
-1194#
-^000088Rental Item^000000
-A gruesome sword used
-to behead criminals judged with the death penalty.
-Pierces Defense of
-Demihuman monsters.
-Increases damage inflicted on Demihuman monsters by 20%, but increases damage received by Demihuman monsters by 10%.
-This item cannot be Dropped or Traded.
-Class :
-^777777Two-handed Sword^000000
-Attack: ^777777190^000000
-Weight: ^7777770^000000
-Property: ^777777Shadow^000000
-Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Swordman Class^000000
-#
-1196#
-A cold etched sword made with refined Bradium, a mineral from the Other World.
-Cannot be destroyed.
-AGI +3, MHP - 10%.
-Class: ^777777Two-Handed Sword^000000
-Attack : ^777777280^000000
-Weight: ^77777740^000000
-Weapon Level: ^7777773^000000
-Required Level: ^777777110^000000
-Jobs: ^777777Swordman Class Type^000000
-#
-1197#
-A two-handed sword that is made by the Eden Group. It is suitable for those who have more advanced experience handling two-handed swords.
-Cannot be upgraded.
-Class: ^777777Two-Handed Sword^000000
-Attack : ^777777200^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777773^000000
-Required Level: ^77777760^000000
-Jobs: ^777777Swordman Class^000000
+Jobs: ^777777Knight and Crusader^000000
 #
 1201#
 A simple knife.
@@ -4238,6 +4218,27 @@ Weapon LV: ^7777774^000000
 Required Level: ^77777755^000000
 Jobs: ^777777Assassin Cross^000000
 #
+1272#
+Katar from Guild of Brave Adventurers.
+ATK +50%
+Class: ^777777Katar^000000
+Attack: ^777777120^000000
+Weight: ^7777770^000000
+Weapon Level: ^7777771^000000
+Jobs: ^777777Assassin^000000
+#
+1273#
+^000088Rental Item^000000
+This katar, known for being effective against humans, is rumored to give a bestial roar when drenched in blood, hence its name.
+Ignores Demihuman Defense.
+Recover HP +3 every 5 seconds.
+Class: ^777777Katar^000000
+Attack: ^777777148^000000
+Weight: ^7777770^000000
+Weapon Level: ^7777774^000000
+Required Level: ^7777771^000000
+Jobs: ^777777Assassin^000000
+#
 1274#
 ^000088Rental Item^000000
 A katar said to be purely forged out of the resentment of the dead.
@@ -4350,6 +4351,17 @@ Weapon Level: ^7777774^000000
 Required Level: ^77777780^000000
 Job : ^777777Assassin^000000
 #
+1283#
+^000088Rental Item^000000
+ASPD +3%
+Increase damage of Sonic Blow by 25%.
+Class: ^777777Katar^000000
+Attack: ^777777170^000000
+Weight: ^77777770^000000
+Weapon Level: ^7777774^000000
+Required Level: ^77777780^000000
+Jobs: ^777777Assassin^000000
+#
 1284#
 A katar decorated in black. It requires huge strength just to wave it.
 Damage of 'Grim Tooth' increases by 10%.
@@ -4371,14 +4383,16 @@ Weapon Level:^7777773^000000
 Required Level: ^77777750^000000
 Job : ^777777Assassin Cross Only^000000
 #
-1289#
-A katar that is made by the Eden Group. It is suitable for those who have more advanced experience handling katars.
-Cannot be upgraded.
+1286#
+^000088Rental Items^000000
+A specially made katar with two blades that move like scissors to reveal a third blade from within.
+Increases damage against small, medium, large size monsters by 40%.
+[+^6A5ACDGold PC Cafe^000000]
+ATK +10, MATK +10
 Class: ^777777Katar^000000
-Attack : ^777777155^000000
+Attack: ^777777200^000000
 Weight: ^7777770^000000
-Weapon Level: ^7777773^000000
-Required Level: ^77777760^000000
+Required Level: ^7777771^000000
 Jobs: ^777777Assassin^000000
 #
 1301#
@@ -4496,6 +4510,27 @@ Weight: ^777777150^000000
 Weapon Level:^7777773^000000
 Required Level: ^77777750^000000
 Job : ^777777Transcendent Swordman/Merchant Classes^000000
+#
+1312#
+^000088Rental Items^000000
+An axe crafted by Orcish smiths for Orcish warriors.
+Increases damage against small, medium, large size monsters by 70%.
+[Equipped in Gold PC Cafe]ATK +10, MATK +10
+Class: ^777777One-Handed Axe^000000
+Attack: ^777777110^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777Novice, Swordman, Merchant and Assassin^000000
+#
+1313#
+Axe Travellers who travelled all around the world.
+STR +2.
+Class: ^777777One-Handed Axe^000000
+Attack: ^77777777^000000
+Weight: ^77777750^000000
+Weapon Level: ^7777771^000000
+Required Level: ^7777771^000000
+Jobs: ^777777Novice, Swordman, Merchant and Assassin^000000
 #
 1314#
 ^000088Rental Item^000000
@@ -4784,6 +4819,18 @@ Required Level: ^7777771^000000
 Jobs: ^777777Swordman
 and Merchant Classes^000000
 #
+1373#
+^000088Rental Items^000000
+A terrifying axe that is said to fill the entire battlefield with blood once it cuts flesh.
+MATK +20%, ASPD +5%
+^FF0000Unrefineable^000000
+Class: ^777777Two-Handed Axe^000000
+Attack: ^777777205^000000
+Weight: ^7777770^000000
+Weapon Level: ^7777774^000000
+Required Level: ^7777771^000000
+Jobs: ^777777Swordman and Merchant^000000
+#
 1374#
 ^000088Rental Item^000000
 A light axe imbued with the Wind property which can be hurled at enemies.
@@ -4817,60 +4864,44 @@ Swordman and
 Merchant Classes^000000
 #
 1376#
-A special Two-Handed
-Axe that was crafted
-by a great blacksmith;
-it seems capable of
-destroying any kind
-of armor. CRI +20,
-increase Attack Speed.
-delay after attacking reduces by 5%
-CRI bonus raises
-as weapon's Upgrade
-Level is increased.
-Has a chance of
-auto casting Lv.3
-Hammerfall when
-worn by Mastersmiths
-and Biochemists.
-Class: ^777777Axe^000000
-ATK: ^777777175^000000
+A special Two-Handed Axe that was crafted by a great blacksmith.
+It seems capable of destroying any kind of armor.
+ASPD +5%
+CRIT +20
+CRIT bonus raises as weapon's Upgrade Level is increased.
+Has a chance of auto casting Level 3 Hammerfall when worn by Whitesmith and Proffesor.
+Class: ^777777Two-Handed Axe^000000
+Attack: ^777777175^000000
 Weight: ^777777200^000000
-Weapon LV: ^7777774^000000
+Weapon Level: ^7777774^000000
 Required Level: ^77777770^000000
-Jobs: ^777777Transcendent
-Swordman and
-Merchant Classes^000000
+Jobs: ^777777Transcendent Swordman and Merchant^000000
 #
 1377#
-A massive Two-Handed
-Axe that is embedded
-with an orb imbued
-with the power of
-a hurricane. Reduces
-damage from Mid size
-monsters by 10%;
-raising this weapon's
-Upgrade Level will
-increase the amount
-by which this damage
-is reduced and add
-an Attack Speed bonus.
-Each attack has a
-chance of inflicting
-a fixed amount of
-damage to all enemies
-within a 15*15 cell
-area, and knock them
-7 cells backward.	
-Class: ^777777Axe^000000
-ATK: ^777777332^000000
+A massive Two-Handed Axe that is embedded with an orb imbued with the power of a hurricane.
+Reduces damage from medium size monsters by 10%;
+raising this weapon's Upgrade Level will increase the amount by which this damage is reduced and add an ASPD bonus.
+Each attack has a chance of inflicting a fixed amount of damage to all enemies within a 15*15 cell area, and knock them 7 cells backward.
+Class: ^777777Two-Handed Axe^000000
+Attack: ^777777332^000000
 Weight: ^777777350^000000
-Weapon LV: ^7777774^000000
+Weapon Level: ^7777774^000000
 Required Level: ^77777780^000000
-Jobs: ^777777Transcendent
-Swordman and
-Merchant Classes^000000
+Jobs: ^777777Transcendent Swordman and Merchant^000000
+#
+1378#
+^000088Rental Items^000000
+A humongous, double bladed axe.
+STR +5, HIT +20
+Inflict the ^FF0000Stun^000000 status on targets by a high chance.
+^008800Mammonite^000000 damage increased by 20%.
+^FF0000Unrefineable^000000
+Class: ^777777Two-Handed Axe^000000
+Attack: ^777777215^000000
+Weight: ^7777770^000000
+Weapon Level: ^7777774^000000
+Required Level: ^7777771^000000
+Jobs: ^777777Swordman and Merchant^000000
 #
 1379#
 A terrifying two-handed axe that is said to stimulate the nerves in order to kill Demihumans, once it's in the wearer's hands.
@@ -4924,6 +4955,16 @@ Weapon Lv : ^7777774^000000
 Required Lv : ^77777780^000000
 Job : ^777777Swordman Class / Merchant Class^000000
 #
+1383#
+Increases damage against Undead monster by 10%.
+Add a chance of auto casting ^008800Level 5 Blessing^000000 on the enemy when attacking.
+Class: ^777777Two-Handed Axe^000000
+Attack: ^777777200^000000
+Weight: ^777777150^000000
+Weapon Level: ^7777774^000000
+Required Level: ^77777760^000000
+Jobs: ^777777Merchant^000000
+#
 1384#
 An axe made out of the metal which the Ancient God of Blacksmiths gave to humans.
 VIT +2,
@@ -4954,6 +4995,21 @@ Weapon Level: ^7777774^000000
 Required Level: ^77777775^000000
 Job : ^777777Mastersmith^000000
 #
+1386#
+A gigantic and ridiculously heavy axe that requires great strength to use it properly.
+ASPD -25%
+Doubles SP consumption of all skills.
+[^008800Base STR >= 95^000000]
+ATK +400
+Causes ^FF0000Stun^000000 effect to enemies by 30% chance when receiving damage.
+Add a 5% chance of breaking the enemy's armor when attacking.
+Class: ^777777Two-Handed Axe^000000
+Attack: ^77777720^000000
+Weight: ^7777770^000000
+Weapon Level: ^7777774^000000
+Required Level: ^7777771^000000
+Jobs: ^777777Swordman and Merchant^000000
+#
 1387#
 This giant axe seems like it's impossible to pick up and wave.
 The attack power of 'High Speed Cart Ram' increases by 15%.
@@ -4965,15 +5021,21 @@ Weapon Level:^7777773^000000
 Required Level: ^77777750^000000
 Job : ^777777Transcendent Swordman/Merchant Classes^000000
 #
-1391#
-An axe that is made by the Eden Group. It is suitable for those who have more advanced experience handling two-handed axes.
-Cannot be upgraded.
+1388#
+^000088Rental Items^000000
+A two-handed, double bladed axe.
+Increases damage against small, medium, large size monsters by 40%.
 Class: ^777777Two-Handed Axe^000000
-Attack : ^777777195^000000
+Attack: ^777777220^000000
 Weight: ^7777770^000000
-Weapon Level: ^7777773^000000
-Required Level: ^77777760^000000
-Job : ^777777Swordman Class / Merchant Class^000000
+Required Level: ^7777771^000000
+Jobs: ^777777Swordman and Merchant^000000
+#
+1389#
+...
+#
+1390#
+...
 #
 1401#
 A light spear that can be thrown in an attack.
@@ -5209,6 +5271,30 @@ Required Level: ^77777760^000000
 Jobs: ^777777Transcendent
 Swordman Classes^000000
 #
+1423#
+The adventurers who are brave the item which is provided from the hazard adventurer guild.
+Increases damage by 50%.
+^FF0000Unrefineable^000000
+Class: ^777777One-Handed Spear^000000
+Attack: ^777777120^000000
+Weight: ^7777770^000000
+Weapon Level: ^7777771^000000
+Required Level: ^7777771^000000
+Jobs: ^777777Swordman^000000
+#
+1424#
+^000088Rental Items^000000
+A spear that has been made to puncture any armor worn by enemies.
+Pierces Defense of its target.
+Increase damage inflicted on Medium size monster by 20%.
+^FF0000Unrefineable^000000
+Class: ^777777One-Handed Spear^000000
+Attack: ^777777149^000000
+Weight: ^7777770^000000
+Weapon Level: ^7777774^000000
+Required Level: ^7777771^000000
+Jobs: ^777777Swordman^000000
+#
 1425#
 A special spear made for charging at the enemy's position. It is especially designed for battles against Demihumans.
 STR +2
@@ -5238,6 +5324,54 @@ Weapon Level: ^7777774^000000
 Required Level: ^77777780^000000
 Job : ^777777Swordman Class^000000
 #
+1427#
+^000088Rental Item^000000
+A good long spear.
+STR +2
+Increases 25% damage with Magnum Break skill.
+Class: ^777777One-Handed Spear^000000
+Attack: ^777777160^000000
+Weight: ^7777770^000000
+Weapon Level: ^7777773^000000
+Jobs: ^777777Swordman^000000
+#
+1428#
+A sword made with a holy horn. Has capacity to remove poison, and it is said being pierced by this spear causes you to bleed non-stop.
+Small chance to cause ^FF0000Bleeding^000000 status ailment on the target.
+Enables use of ^008800Level 1 Detoxify^000000.
+^702180Indestructible^000000
+[^000088+ Valkyrja's Shield^000000]
+Whenever you take damage, small chance to auto-cast ^008800Level 2 Assumptio^000000 on yourself.
+Class: ^777777One-Handed Spear^000000
+Attack: ^777777150^000000
+Weight: ^777777100^000000
+Property: ^777777Holy^000000
+Weapon Level: ^7777774^000000
+Required Level: ^77777765^000000
+Jobs: ^777777Transcendent Swordman^000000
+#
+1429#
+A spear designed specifically to hunt. The end tip looks like a leaf. This spear focused on using its weight to bring damage rather than to piercing the enemy.
+Ignores DEF of Brute type monsters.
+If you kill a Brute type monster, small chance to receive Meat.
+Add a 5% chance of auto casting ^008800Level 3 Joint Beat^000000 on the enemy when attacking.
+Class: ^777777One-Handed Spear^000000
+Attack: ^777777180^000000
+Weight: ^777777420^000000
+Weapon Level: ^7777774^000000
+Required Level: ^77777760^000000
+Jobs: ^777777Transcendent Swordman^000000
+#
+1430#
+^000088Rental Items^000000
+A long spear that is generally issued to foot soldiers.
+Increases damage against small, medium, large size monsters by 70%.
+Class: ^777777One-Handed Spear^000000
+Attack: ^77777774^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777Swordman^000000
+#
 1431#
 ^000088Rental Item^000000
 A weapon consisting
@@ -5254,27 +5388,8 @@ Weapon Level: ^7777773^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Swordman Class^000000
 #
-1433#
-A beautiful spear engraved with patterns of the Rune-Midgarts Kingdom.
-20% ATK increase of Cannon Spear and Banishing Point. Additional 3% ATK increase with every +2 upgrades.
-When used together with Imperial Guard, ATK of Grand Cross and Genesis Ray increases by 10%.
-MATK + 40
-Class: ^777777One-Handed Spear^000000
-Attack : ^777777180^000000
-Weight: ^777777180^000000
-Weapon Level: ^7777773^000000
-Required Level: ^777777102^000000
-Jobs: ^777777Royal Guard Only^000000
-#
-1434#
-A spear that is made by the Eden Group. It is suitable for those who have more advanced experience handling spears.
-Cannot be upgraded.
-Class: ^777777Spear^000000
-Attack : ^777777165^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777773^000000
-Required Level: ^77777760^000000
-Job : ^777777Swordman Class^000000
+1432#
+...
 #
 1451#
 Topped with a curved blade and puncturing spike.
@@ -5696,6 +5811,30 @@ Weapon Level: ^7777774^000000
 Required Level: ^77777780^000000
 Job : ^777777Swordman Class^000000
 #
+1487#
+^000088Rental Items^000000
+A spear that is commonly used by mounted knights.
+Increases damage against small, medium, large size monsters by 50%.
+Class: ^777777Two-Handed Spear^000000
+Attack: ^777777220^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777Swordman^000000
+#
+1488#
+^000088Rental item^000000
+Ignore enemy's defense.
+Chance to activate level 5 pierce when attacking.
+Increase damage against Demihuman monster by 20%.
+[+^6A5ACDGold PC Cafe^000000]
+Increase damage against Demihuman by 5%
+Class: ^777777Two-Handed Spear^000000
+Attack: ^777777135^000000
+Weight: ^7777770^000000
+Weapon Level: ^7777774^000000
+Required Level: ^7777771^000000
+Jobs: ^777777Knight and Crusader^000000
+#
 1501#
 A heavy bludgeon that makes a handy weapon in a pinch.
 Class: ^777777Mace^000000
@@ -6007,6 +6146,16 @@ Weapon Level: ^7777773^000000
 Required Level: ^77777727^000000
 Jobs: ^777777Acolyte Class^000000
 #
+1533#
+Any man holding the Warrior's Balmung will gather new inner strength.
+All Stats +5
+Class: ^777777One-Handed Sword^000000
+Attack: ^777777170^000000
+Weight: ^777777100^000000
+Weapon Level: ^7777774^000000
+Required Level: ^77777748^000000
+Jobs: ^777777All^000000
+#
 1534#
 ^000088Rental Item^000000
 A heavy tool with many practical applications.
@@ -6035,6 +6184,30 @@ Weight: ^77777744^000000
 Weapon LV: ^7777774^000000
 Required Level: ^77777744^000000
 Jobs: ^777777Swordman, Acolyte, and Merchant Classes^000000
+#
+1536#
+The adventurers who are brave the item which is provided from the hazard adventurer guild.
+ATK +50%
+^FF0000Unrefineable^000000
+Class: ^777777Mace^000000
+Attack: ^777777120^000000
+Weight: ^7777770^000000
+Weapon Level: ^7777771^000000
+Required Level: ^7777771^000000
+Jobs: ^777777Swordman Class, Acolyte Class, Merchant Class^000000
+#
+1537#
+^000088Rental Items^000000
+A heavy and powerful iron mace with a rounded top.
+Increases damage against Undead Property monster and Demon monster by 40%.
+Increases damage against DemiHuman monsters by 30%.
+^FF0000Unrefineable^000000
+Class: ^777777Mace^000000
+Attack: ^777777193^000000
+Weight: ^7777770^000000
+Weapon Level: ^7777774^000000
+Required Level: ^7777771^000000
+Jobs: ^777777Acolyte^000000
 #
 1538#
 A flail, entirely
@@ -6155,6 +6328,17 @@ Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777780^000000
 Job : ^777777Novice Class / Swordman Class / Acolyte Class / Merchant Classes^000000
+#
+1547#
+^000088Rental Item^000000
+Mace of Insanity.
+STR +2
+Increases 25% damage with Cart Revolution skill.
+Class: ^777777Mace^000000
+Attack: ^777777150^000000
+Weight: ^7777770^000000
+Weapon Level: ^7777773^000000
+Jobs: ^777777Swordman and Merchant^000000
 #
 1548#
 A hard hammer made out of the pieces of a meteorite from space.   
@@ -6293,6 +6477,18 @@ Weapon Level: ^7777774^000000
 Required Level: ^77777755^000000
 Jobs: ^777777Priest, Sage, and Taekwon Master^000000
 #
+1562#
+A book containing the History of many wars and the dreams of the strategists that took part in them.
+Add a 1% chance of auto casting Level 3 Blessing on the user when attacking.
+If the user has Blessing, it will cast it at the user level already learned.
+^FF0000Unrefineable^000000
+Class: ^777777Book^000000
+Attack: ^777777110^000000
+Weight: ^77777770^000000
+Weapon Level: ^7777774^000000
+Required Level: ^77777780^000000
+Jobs: ^777777Priest, Sage and Star Gladiator^000000
+#
 1563#
 ^000088Rental Item^000000
 The diary of a great
@@ -6343,6 +6539,31 @@ Required Level: ^77777785^000000
 Jobs: ^777777Priest and
 Sage Classes;
 Taekwon Master Job^000000
+#
+1566#
+The adventurers who are brave the item which is provided from the hazard adventurer guild.
+MATK +15%
+Increases physical damage by 50%
+^FF0000Unrefineable^000000
+Class: ^777777Book^000000
+Attack: ^777777120^000000
+Weight: ^7777770^000000
+Weapon Level: ^7777771^000000
+Required Level: ^7777771^000000
+Jobs: ^777777Priest, Sage and Star Gladiator^000000
+#
+1567#
+^000088Rental Items^000000
+A thick and heavy hardcover book that could really do some hurt if swung around.
+STR +5, DEX +2
+MATK +100
+^FF0000Unrefineable^000000
+Class: ^777777Book^000000
+Attack: ^777777168^000000
+Weight: ^7777770^000000
+Weapon Level: ^7777774^000000
+Required Level: ^7777771^000000
+Jobs: ^777777Priest, Sage and Star Gladiator^000000
 #
 1568#
 A hefty book with
@@ -6482,30 +6703,65 @@ Weapon Level: ^7777774^000000
 Required Level: ^77777780^000000
 Job : ^777777Priest / Sage / Taekwon Master^000000
 #
-1581#
+1578#
 ^000088Rental Item^000000
+Book Of Prayer.
+VIT +2
+MDEF +10
+MaxSP +10%
+Class: ^777777Book^000000
+Attack: ^777777140^000000
+Weight: ^7777770^000000
+Weapon Level: ^7777773^000000
+Jobs: ^777777Priest, Sage and Star Gladiator^000000
+#
+1579#
+A book containing names, used by the agents of death. There are times when the book of the dead is circulated in this world because they have dropped the book in the realm of the living. There are tons of names written in here, and there seems to be names of people you might know well ... It says Holg ... <Can not see clearly due to paper being torn>.
+STR +3, INT +3, LUK -20
+MATK +15%
+Add a 10% chance of auto casting ^FF0000Coma^000000 effect on DemiHuman monster.
+ASPD increased depending on the refinement rate of this weapon.
+[^008800Sage class^000000]
+There is a small chance to cause damage and ^FF0000Curse^000000 status ailment to every enemies in the screen they are in.
+Class: ^777777Book^000000
+Attack: ^777777137^000000
+Weight: ^777777100^000000
+Weapon Level: ^7777774^000000
+Required Level: ^77777785^000000
+Jobs: ^777777Priest, Sage and Star Gladiator^000000
+#
+1580#
+^000088Rental Items^000000
+A gigantic encyclopedia produced by X company in Prontera, known mostly for its sharp and hard edges.
+It is so hard to the point that people who got hit by the edges of this book often ask "Did you guys install 3 carat Diamond on this?".
+INT +3, DEX +2
+MATK +100
+Critical rate +20
+CRI bonus increases according to the wearer's LUK.
+Increases damage against small, medium, large size monsters by 40%.
+Class: ^777777Book^000000
+Attack: ^777777145^000000
+Weight: ^7777770^000000
+Weapon Level: ^7777773^000000
+Required Level: ^7777771^000000
+Jobs: ^777777Priest, Sage and Star Gladiator^000000
+#
+1581#
 The diary of a great
 sage that was published without him ever knowing.
 Matk +20%, Increases
 Attack Speed by 5%
 This item cannot be Dropped or Traded.
-Class: ^777777Book^000000      Attack: ^777777135^000000
+Class: ^777777Book^000000
+Attack: ^777777135^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Priest, Sage,
 Taekwon Master^000000
 #
-1583#
-A book that is made by the Eden Group. It is suitable for those who have more advanced experience handling magic books.
-Matk +110
-Cannot be upgraded.
-Class: ^777777Book^000000
-Attack : ^777777135^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777773^000000
-Required Level: ^77777760^000000
-Job : ^777777Priest / Sage / Taekwon Master^000000
+1582#
+...
 #
 1599#
 ''^339999The Real Holy Cross^000000''
@@ -6853,6 +7109,16 @@ Weapon LV: ^7777773^000000
 Required Level: ^77777770^000000
 Jobs: ^777777Trascendent Mage and Acolyte Classes^000000
 #
+1627#
+A gift for a brave traveler.
+INT +4
+MATK +120
+Class: ^777777One-Handed Staff^000000
+Attack: ^77777740^000000
+Weight: ^7777770^000000
+WeaponLevel : ^7777771^000000
+Jobs: ^777777Wizard, Acolyte and Soul Linker^000000
+#
 1628#
 ^000088Rental Item^000000
 DEX +4
@@ -6991,6 +7257,17 @@ Weapon Level: ^7777774^000000
 Required Level: ^77777770^000000
 Jobs: ^777777Transcendent Wizard / Acolyte Class^000000
 #
+1638#
+A staff made with a branch from the tree Yggdrasil, created with the sole purpose to heal. The staff has something inscribed in ancient language, saying "Mubeungjangsugiwon", or "Forever free of disease, and have a long life".
+MATK +125
+Increases Healing skills by 15%.
+Class: ^777777One-Handed Staff^000000
+Attack: ^77777710^000000
+Weight: ^7777770^000000
+Weapon Level: ^7777773^000000
+Required Level: ^7777771^000000
+Jobs: ^777777Acolyte^000000
+#
 1639#
 A simple magic wand.
 Matk +15%
@@ -7055,6 +7332,31 @@ Weapon Level: ^7777774^000000
 Required Level: ^77777770^000000
 Job : ^777777Mage Class / Acolyte Class / Soul Linker^000000
 #
+1644#
+A staff with a jewel in it that causes shockwave every once in a while. The shockwave sometimes nullifies enemy's magic defense.
+MATK +15%, INT +4
+When you attack using magical ability, it will ignore 10% of their MDEF and deals damage accordingly. The amount ignored will increase depending on the refinement rate of this weapon.
+Class: ^777777One-Handed Staff^000000
+Attack: ^77777780^000000
+Weight: ^77777750^000000
+Weapon Level: ^7777773^000000
+Required Level: ^77777770^000000
+Jobs: ^777777Transcendent Mage and Acolyte^000000
+#
+1645#
+A staff created with a skull of a powerful Lich. The curse eminating from this staff will threaten to all those who dare to threaten the wielder of this staff.
+MATK +20%, INT +1, DEX +1
+Whenever you take a Physical Damage, small chance to cause ^FF0000Curse^000000 status ailment to every enemies in the screen. This chance is increased depending on the refinement rate of this weapon.
+[^333399Refined to +9^000000]
+You will receive bonus MATK +3%, MaxSP +300.
+Class: ^777777One-Handed Staff^000000
+Attack: ^77777760^000000
+Weight: ^77777780^000000
+Property: ^777777Undead^000000
+Weapon Level: ^7777773^000000
+Required Level: ^77777770^000000
+Jobs: ^777777Transcendent Mage and Acolyte^000000
+#
 1646#
 A highclass mage's staff decorated with rich tail-feathers.  It has been especially treated for the ice elemental magical spell, 'Stormgust'.
 Matk +15%
@@ -7088,78 +7390,6 @@ Weight: ^77777750^000000
 Weapon Level:^7777774^000000
 Required Level: ^77777750^000000
 Job : ^777777Transcendent Mage Classes^000000
-#
-1650#
-A staff that is made by the Eden Group. A basic item for a beginning Mage.
-INT +2 , Matk +125
-Cannot be upgraded.
-Class: ^777777Staff^000000
-Attack : ^77777760^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777772^000000
-Required Level: ^77777726^000000
-Jobs: ^777777Mage / Acolyte Class^000000
-#
-1651#
-A staff that is made by the Eden Group. A basic item for an intermediate Mage.
-INT +3 , Matk +150
-Cannot be upgraded.
-Class: ^777777Staff^000000
-Attack : ^77777760^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777772^000000
-Required Level: ^77777740^000000
-Jobs: ^777777Mage / Acolyte Class^000000
-#
-1654#
-A staff which converts elemental power into psychic energy.
-Fluctuate casting time of Psychic Wave decreased by 3 secs. Increases SP of Psychic Wave by 60.
-ATK increased by 2% and MHP decreased by 2% for every upgrade above level 6.
-Loses SP 100 upon disrobement.
-MATK + 170
-Class: ^777777One-Hand Staff^000000
-Attack : ^77777740^000000
-Weight: ^77777750^000000
-Weapon Level: ^7777773^000000
-Required Level: ^777777102^000000
-Jobs: ^777777Sorcerer Only^000000
-#
-1657#
-A Staff that radiates concern for the welfare of others.
-Adds 10% Heal Bonus.
-MATK + 160, INT +2.
-If worn with Robes, Shoes, and Robe of Mercy Increase Heal Bonus by an additional 25% and SP consumption of 'Heal' by 20.
-Subtract 2 seconds from the reuse delay of Sacrement, Lauda Agnus and Lauda Ramus.
-Type : ^777777Staff^000000
-Attack : ^77777730^000000
-Weight: ^77777750^000000
-Weapon Level: ^7777774^000000
-Required Level: ^777777100^000000
-Job : ^777777"Archbishop^000000
-#
-1658#
-A staff that is made by the Eden Group. An advanced item for an experienced magic practitioner.
-INT +4 , Matk +170
-Cannot be upgraded.
-Class: ^777777Staff^000000
-Attack : ^77777760^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777773^000000
-Required Level: ^77777760^000000
-Jobs: ^777777Mage Class/Acolyte Class^000000
-#
-1660#
-A Staff that radiates concern for the welfare of others.
-Adds 20% Heal Bonus.
-MATK + 180, INT +4.
-If worn with Robes, Shoes, and Robe of Mercy Increase Heal Bonus by an additional 45% and SP consumption of 'Heal' by 50.
-Subtract 3 seconds from the reuse delay of Sacrement, Lauda Agnus and Lauda Ramus.
-Type : ^777777Staff^000000
-Attack : ^77777730^000000
-Weight: ^77777750^000000
-Weapon Level: ^7777774^000000
-Required Level: ^777777130^000000
-Job : ^777777"Archbishop^000000
 #
 1701#
 A common bow.
@@ -7546,6 +7776,17 @@ Required Level: ^77777765^000000
 Jobs: ^777777Archer Classes
 and Rogue Job^000000
 #
+1735#
+A bow provided by Adaventurer guild for brave adventurer.
+Increases damage by 50%.
+^FF0000Unrefineable^000000
+Class: ^777777Bow^000000
+Attack: ^777777120^000000
+Weight: ^7777770^000000
+Weapon Level: ^7777771^000000
+Required Level: ^7777771^000000
+Jobs: ^777777Archer, Thief and Rogue^000000
+#
 1736#
 A slim and smooth bow specialized for double attacks.
 When attacking, has a chance of autocasting ^FF0000Double Strafe^000000 of the level currently learned.
@@ -7641,6 +7882,17 @@ Weapon Level: ^7777774^000000
 Required Level: ^77777780^000000
 Job : ^777777Archer Class / Thief / Rogue^000000
 #
+1744#
+^000088Rental Item^000000
+The devil's bow.
+DEX +2
+Increases 25% damage with Double Strafe skill.
+Class: ^777777Bow^000000
+Attack: ^777777170^000000
+Weight: ^7777770^000000
+Weapon Level: ^7777774^000000
+Jobs: ^777777Archer, Thief and Rogue^000000
+#
 1745#
 An elegant and beautiful Red bow that looks like a flying falcon.
 Adds 10% Damage to Focused Arrow Strike, Double Strafe and Arrow Repel skills.
@@ -7650,26 +7902,6 @@ Weight: ^777777100^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777750^000000
 Jobs: ^777777Sniper^000000
-#
-1747#
-A bow that is made by the Eden Group. It's been remodeled for beginning Archers.
-Cannot be upgraded.
-Class: ^777777Bow^000000
-Attack : ^77777782^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777772^000000
-Required Level: ^77777726^000000
-Jobs: ^777777Archer Class/Thief/Rogue^000000
-#
-1748#
-A rich bow that is made by the Eden Group. It is suitable for intermediates who have handled a bow before.
-Cannot be upgraded.
-Class: ^777777Bow^000000
-Attack : ^777777120^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777772^000000
-Required Level: ^77777740^000000
-Jobs: ^777777Archer Class/Thief/Rogue^000000
 #
 1750#
 A common arrow.
@@ -7842,17 +8074,6 @@ with holy water. Inflicts 5% more damage against
 Demon race monsters.
 Class: ^777777Arrow^000000    Attack: ^77777750^000000
 Weight: ^7777770.2^000000      Property: ^777777Holy^000000
-#
-1773#
-Arrows once used by the ancient elves guarding the forest. Increases Ranged Attack by 50%, when used together with an Elven Bow.
-Type : ^777777Arrow^000000    Attack : ^77777745^000000
-Weight: ^7777770.1^000000      Property : ^777777None^000000
-Required Level: ^777777100^000000
-#
-1774#
-Strong and rough arrows ideal for hunting large animals. Increases Ranged Attack by 50%, when used together with a Hunter Bow.
-Type : ^777777Arrow^000000    Attack : ^77777735^000000
-Weight: ^7777770.1^000000      Property : ^777777None^000000
 #
 1801#
 A common, yet effective claw that's also known as the ''Tiger Fang.''
@@ -8187,25 +8408,26 @@ Weapon Level: ^7777774^000000
 Required Level: ^77777780^000000
 Job : ^777777Priest / Monk^000000
 #
-1830#
-A knuckle engraved with splendid patterns of a bronze dragon.
-20% ATK increase of Earth Shaker and Sky Blow. 5% SP increase in every skill use.
-1% SP decrease with every upgrade above level 6.
-Class: ^777777Knuckle^000000
-Attack : ^777777142^000000
-Weight: ^77777750^000000
-Weapon Level: ^7777773^000000
-Required Level: ^777777102^000000
-Jobs: ^777777Sura Only^000000
-#
-1831#
-A clas that is made by the Eden Group. It is suitable for those who have more advanced experience as Champions.
+1828#
+^000088Rental Item^000000
+Knuckle of monk.
+INT +2
+Increases 25% damage with Finger Offensive skill.
 Class: ^777777Claw^000000
-Attack : ^777777120^000000
+Attack: ^777777150^000000
 Weight: ^7777770^000000
-Weapon Level: ^7777773^000000
-Required Level: ^77777760^000000
-Jobs: ^777777Priest and Monk Classes^000000
+Weapon Level: ^7777774^000000
+Jobs: ^777777Priest and Monk^000000
+#
+1829#
+^000088Rental Items^000000
+A weapon made in the form of a human fist which effectively inflicts damage on enemies.
+Increases damage against small, medium, large size monsters by 40%.
+Class: ^777777Claw^000000
+Attack: ^777777150^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777Priest and Monk^000000
 #
 1901#
 The classical stringed instrument favored by Rocker,the grasshopper monster who'd rather play music than do actual work.
@@ -8444,6 +8666,17 @@ Weapon LV: ^7777774^000000
 Required Level: ^77777770^000000
 Jobs: ^777777Minstrel Job^000000
 #
+1921#
+The adventurers who are brave the item which is provided from the hazard adventurer guild.
+Increases damage by 50%.
+^FF0000Unrefineable^000000
+Class: ^777777Musical Instrument^000000
+Attack: ^777777120^000000
+Weight: ^7777770^000000
+Weapon Level: ^7777771^000000
+Required Level: ^7777771^000000
+Jobs: ^777777Clown^000000
+#
 1922#
 An ancient lute
 seen on display in
@@ -8524,25 +8757,29 @@ Weapon Level: ^7777774^000000
 Required Level: ^77777780^000000
 Job : ^777777Bard^000000
 #
-1930#
-A flute made of sturdy plant stem.
-Fluctuate casting time of Lullaby and Rush to Windmill decreased by 2 secs. SP of each skill decreased by 4 with every upgrade above level 6.
-MATK + 50
-Class: ^777777Instrument^000000
-Attack : ^777777170^000000
-Weight: ^77777780^000000
-Weapon Level: ^7777773^000000
-Required Level: ^777777102^000000
-Jobs: ^777777Minstrel Only^000000
-#
-1931#
-An instrument that is made by the Eden Group. It is suitable for those who have more advanced experience as Bards.
+1928#
+^000088Rental item^000000
+The legendary guitar known for when the player finally snaps out of stupor, you've already finished your performance.
+ASPD +100%
+Disable natural HP recovery.
+Drain 50 HP every 5 seconds.
+Heavily reduce DEX.
 Class: ^777777Musical Instrument^000000
-Attack : ^777777125^000000
+Attack: ^77777740^000000
 Weight: ^7777770^000000
-Weapon Level: ^7777773^000000
-Required Level: ^77777760^000000
-Job : ^777777Bard^000000
+Weapon Level: ^7777774^000000
+Required Level: ^7777771^000000
+Jobs: ^777777Clown^000000
+#
+1929#
+^000088Rental Items^000000
+A six stringed musical instrument that is played by plucking the strings with fingers or a pick.
+Increases damage against small, medium, large size monsters by 40%.
+Class: ^777777Musical Instrument^000000
+Attack: ^777777177^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777Bard^000000
 #
 1950#
 A strong, thick cord composed of tightly braided fiber.
@@ -8825,6 +9062,16 @@ Weapon LV: ^7777774^000000
 Required Level: ^77777770^000000
 Jobs: ^777777Gypsy^000000
 #
+1975#
+Whip provided by Adventurer Guild for Brave adventurer.
+Increases damage by 50%.
+Class: ^777777Whip^000000
+Attack: ^777777120^000000
+Weight: ^7777770^000000
+Weapon Level: ^7777771^000000
+Required Level: ^7777771^000000
+Jobs: ^777777Gypsy^000000
+#
 1976#
 The best of the best whips.
 Increase 10% attack strength of Arrow Vulcan, Slinging Arrow skills by 10%.
@@ -8896,35 +9143,25 @@ Weapon Level: ^7777774^000000
 Required Level: ^77777780^000000
 Job : ^777777Dancer^000000
 #
-1984#
-A flexible whip made of renovated plant stem.
-Fluctuate casting time of Lullaby and Swing Dance decreased by 2 secs. SP of each skill decreased by 4 with every upgrade above level 6.
-MATK + 50
-Class: ^777777Whip^000000 
-Attack : ^777777170^000000
-Weight: ^77777780^000000
-Weapon Level: ^7777773^000000
-Required Level: ^777777102^000000
-Jobs: ^777777Wanderer Only^000000
-#
-1985#
-A whip of alluring fragrance made of a magical rose stem.
-Low chance of triggering Lv1 Siren's Voice with every physical attack.
-INT +2, AGI -2, MATK + 130.
+1982#
+^000088Rental Item^000000
+Phenomena Whip.
+Increases 25% damage with Throw Arrow skill.
+DEX +2
 Class: ^777777Whip^000000
-Attack : ^777777100^000000
-Weight: ^777777100^000000
-Weapon Level: ^7777774^000000
-Required Level: ^777777110^000000
-Jobs: ^777777Wanderer Only^000000
-#
-1986#
-A whip that is made by the Eden Group. It is suitable for those who have more advanced experience as Dancers.
-Class: ^777777Whip^00000
-Attack : ^777777125^000000
+Attack: ^777777160^000000
 Weight: ^7777770^000000
-Weapon Level: ^7777773^000000
-Required Level: ^77777760^000000
+Weapon Level: ^7777774^000000
+Jobs: ^777777Dancer^000000
+#
+1983#
+^000088Rental Items^000000
+A whip with a spiked ball attached at the end.
+Increases damage against small, medium, large size monsters by 40%.
+Class: ^777777Whip^000000
+Attack: ^777777170^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
 Jobs: ^777777Dancer^000000
 #
 2000#
@@ -8994,6 +9231,20 @@ Weapon Level: ^7777774^000000
 Required Level: ^77777780^000000
 Job : ^777777Mage Class / Acolyte Class / Soul Linker^000000
 #
+2003#
+Two handed staff that seems to be possesing a tremendous power. The owner of the staff has to have a strong spiritual strength to use this staff properly.
+MATK +280, INT +3, AGI +10
+Reduces variable cast time of Mystical Amplification by 50%.
+Increases MATK by 1% for every 2 Upgrade Levels, but raising the Upgrade Level also increases SP Consumption.
+Has a chance of auto casting Level 5 Jupitel Thunder when attacked;
+this chance can be increased by raising the weapon's Upgrade Level.
+Class: ^777777Two-Handed Staff^000000
+Attack: ^777777130^000000
+Weight: ^777777250^000000
+Weapon Level: ^7777774^000000
+Required Level: ^77777780^000000
+Jobs: ^777777High Wizard^000000
+#
 2004#
 This piece's upper part is decorated with a golden dragon and a crystal with strong magical power compressed into it. It looks nice, but it's too heavy to easily carry around.
 Matk +20%, INT +3, MaxHP +300
@@ -9018,102 +9269,14 @@ Weapon Level:^7777773^000000
 Required Level: ^77777750^000000
 Job : ^777777Transcendent Acolyte Classes^000000
 #
-2007#
-A magic staff charged with whirling power of wind.
-Increases the effectiveness of Jupitel Thunder by 12%.
-INT +3, MATK + 230.
-When you equip a whole set of Golden Rod items - the staff, the robe, the shoes, and the orb, the effectiveness of all the wind spells is increased by 40%, the effectiveness of all the earth spells is decreased by 30%, and resistance to earth attacks is decreased by 50%.
-Type : ^777777Two-handed Staff^000000 Attack : ^77777730^000000
-Weight: ^77777790^000000 Property : ^777777Wind^000000
-Weapon Level: ^7777774^000000
-Required Level: ^777777100^000000
-Job : ^777777Warlock^000000
-#
-2008#
-A magic staff charged with freezing power of water.
-Increases the effectiveness of Cold Bolt and Frost Diver by 10%.
-INT +3, MATK + 230.
-When you equip a whole set of Aqua items - the staff, the robe, the shoes, and the orb, the effectiveness of all the water spells is increased by 40%, the effectiveness of all the wind spells is decreased by 30%, and resistance to wind attacks is decreased by 50%.
-Type : ^777777Two-handed Staff^000000 Attack : ^77777730^000000
-Weight: ^77777790^000000 Weight : ^777777Water^000000
-Weapon Level: ^7777774^000000
-Required Level: ^777777100^000000
-Job : ^777777Warlock^000000
-#
-2009#
-A magic staff charged with blazing power of fire.
-Increases the effectiveness of Fire Bolt and Fire Ball by 10%.
-INT +3, MATK + 230.
-When you equip a whole set of Crimson items - the staff, the robe, the shoes, and the orb, the effectiveness of all the ^FF0000Fire^000000 spells is increased by 40%, the effectiveness of all the ^6996ADWater^000000 spells is decreased by 30%, and resistance to ^6996ADWater^000000 attacks is decreased by 50%.
-Type : ^777777Two-handed Staff^000000 Attack : ^77777730^000000
-Weight: ^77777790^000000 Weight : ^777777Fire^000000
-Weapon Level: ^7777774^000000
-Required Level: ^777777100^000000
-Job : ^777777Warlock^000000
-#
-2010#
-A magic staff charged with massive power of earth.
-Increases the effectiveness of Earth Spike and Heaven's Drive by 10%.
-INT +3, MATK + 230.
-When you equip a whole set of Forest items - the staff, the robe, the shoes, and the orb, the effectiveness of all the earth spells is increased by 40%, the effectiveness of all the fire spells is decreased by 30%, and resistance to fire attacks is decreased by 50%.
-Type : ^777777Two-handed Staff^000000 Attack : ^77777730^000000
-Weight: ^77777790^000000 Weight : ^777777Earth^000000
-Weapon Level: ^7777774^000000
-Required Level: ^777777100^000000
-Job : ^777777Warlock^000000
-#
-2011#
-A magic staff charged with massive power of wind.
-Increase Jupitel Thunder damage by 30%.
-INT +5, MATK + 270.
-If worn with Golden Robe, Golden Shoes, and Golden Orb Increase Wind Magic damage by 60%.
-Lower Earth Magic damage by 60% and resistance to Earth by 50%.
-Type : ^777777Two-handed Staff^000000
-Attack : ^77777730^000000
-Weight: ^77777790^000000
-Element : ^777777Wind^000000
-Weapon Level: ^7777774^000000 ^ff0000
-Required Level: ^777777130^000000
-Job : ^777777Warlock^000000
-#
-2012#
-A magic staff charged with freezing power of water.
-Increases the effectiveness of Cold Bolt and Frost Diver by 30%.
-INT +5, MATK + 270.
-When you equip a whole set of Aqua items - the staff, the robe, the shoes, and the orb, the effectiveness of all the water spells is increased by 60%, the effectiveness of all the wind spells is decreased by 60%, and resistance to wind attacks is decreased by 50%.
-Type : ^777777Two-handed Staff^000000
-Attack : ^77777730^000000
-Weight: ^77777790^000000
-Element : ^777777Water^000000
-Weapon Level: ^7777774^000000
-Required Level: ^777777130^000000
-Job : ^777777Warlock^000000
-#
-2013#
-A magic staff charged with blazing power of fire.
-Increases the effectiveness of Fire Bolt and Fire Ball by 30%.
-INT +5, MATK + 270.
-When you equip a whole set of Crimson items - the staff, the robe, the shoes, and the orb, the effectiveness of all the fire spells is increased by 60%, the effectiveness of all the water spells is decreased by 60%, and resistance to water attacks is decreased by 50%.
-Type : ^777777Two-handed Staff^000000
-Attack : ^77777730^000000
-Weight: ^77777790^000000
-Element : ^777777Fire^000000
-Weapon Level: ^7777774^000000
-Required Level: ^777777130^000000
-Job : ^777777Warlock^000000
-#
-2014#
-A magic staff charged with massive power of earth.
-Increases the effectiveness of Earth Spike and Heaven's Drive by 30%.
-INT +5, MATK + 270.
-When you equip a whole set of Forest items - the staff, the robe, the shoes, and the orb, the effectiveness of all the earth spells is increased by 60%, the effectiveness of all the fire spells is decreased by 60%, and resistance to fire attacks is decreased by 50%.
-Type : ^777777Two-handed Staff^000000
-Attack : ^77777730^000000
-Weight: ^77777790^000000
-Element : ^777777Earth^000000
-Weapon Level: ^7777774^000000
-Required Level: ^777777130^000000
-Job : ^777777Warlock^000000
+2006#
+A staff that possesses holy force and holds bright sunshine in it.
+INT +6, MaxSP +150, MATK +18%
+Class: ^777777Two-Handed Staff^000000
+Attack: ^77777780^000000
+Weight: ^777777190^000000
+Required Level: ^77777760^000000
+Jobs: ^777777Mage^000000
 #
 2101#
 A square shield that is small, yet effective in combat.
@@ -9522,6 +9685,18 @@ Weight: ^777777100^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
+2137#
+^000088Rental Items^000000
+A shield used by Gna, the messanger of Freyja while she served as a Valkyrie.
+MaxHP +5%
+Add a 30% resistance against DemiHuman monster.
+Add a 20% resistance against ^FF0000Fire^000000 and ^0000FFWater^000000 Property attacks.
+Class: ^777777Shield^000000
+Defense: ^77777780^000000
+Weight: ^7777770^000000
+Required Level: ^77777795^000000
+Jobs: ^777777All except Novice^000000
+#
 2138#
 A heavy and strong shield made out of Bradium.
 MaxHP +500, Agi -1.
@@ -9532,54 +9707,7 @@ Weight: ^777777180^000000
 Required Level: ^77777765^000000
 Job : ^7777772nd Transcendent Job Classes^000000
 #
-2146#
-A shield which is a guard covered with thin layer of mixed silver and steel. It looks good when it reflects light.
-Class: ^777777Shield^000000
-Defense: ^7777770^000000
-Weight: ^77777730^000000
-Required Level: ^77777722^000000
-Jobs: ^777777All Jobs^000000
-#
-2147#
-A round-shape shield that is used generally. It has heightened a defense power by adding ernium thick at the round part. 
-Class: ^777777Shield^000000
-Defense: ^7777770^000000
-Weight: ^77777760^000000
-Required Level: ^77777722^000000
-Jobs: ^777777All Transcendent Jobs except Novice^000000
-#
-2153#
-A beautiful shield engraved with the patterns of the Rune Kingdom.
-MDEF +5.
-20% ATK increase of Shield Press. ATK increased by 2% with every upgrade above level 6.
-Class: ^777777Shield^000000
-Defense: ^7777770^000000
-Weight: ^777777250^000000
-Required Level: ^777777102^000000
-Jobs: ^777777Royal Guard Only^000000
-#
-2156#
-An ancient book of sacred songs handed down in the cathedral. It is said to have sold like hotcakes, published as one of a series.
-Allows the user to use Level 1 Odin's Power.
-Type : ^777777Shield^000000
-Defense: ^7777770^000000
-Weight: ^77777750^000000
-Required Level: ^777777110^000000
-Job : ^777777Archbishop^000000
-#
-2168#
-Very unique, square formed shield with a special jewel on it which protects from physical power.
-If upgraded to +5 or higher, increases 1% of tolerance against Neutral attack. (The tolerance increase is limited to refine level 12) per refine level.
-Class: ^777777Shield^000000
-Defense: ^7777770^000000
-Weight: ^77777770^000000
-Required Level: ^7777771^000000
-Job : ^777777All^000000
-#
 2199#
-''^339999The Shield of all Shields^000000"
-#
-2200#
 ''^339999The Shield of all Shields^000000"
 #
 2201#
@@ -11047,6 +11175,16 @@ Weight: ^777777280^000000
 Jobs:^777777All Transcendent
 Classes except Novice^000000
 #
+2358#
+A winged dress that is said to have been worn by an angel.
+It makes you feel very lucky when you wear it.
+LUK +4
+^FF0000Unrefineable^000000
+Class: ^777777Armor^000000
+Defense: ^7777775^000000
+Weight: ^777777100^000000
+Jobs: ^777777All^000000
+#
 2359#
 A sneaking suit that
 enables its wearer to
@@ -11076,6 +11214,33 @@ Weight: ^777777110^000000
 Required Level: ^77777775^000000
 Jobs: ^777777Wizard, Sage,
 and Soul Linker Jobs^000000
+#
+2361#
+A type of traditional outfit. It brings out the hidden powers of the wearer through its spiritual power.
+All Stats +5
+MDEF +5
+Class: ^777777Armor^000000
+Defense: ^7777770^000000
+Weight: ^77777750^000000
+Jobs: ^777777All except Novice^000000
+#
+2362#
+A type of traditional outfit. It brings out the hidden powers of the wearer through its spiritual power.
+All Stats +5
+MDEF +5
+Class: ^777777Armor^000000
+Defense: ^7777770^000000
+Weight: ^77777750^000000
+Jobs: ^777777All except Novice^000000
+#
+2363#
+A type of traditional outfit. It brings out the hidden powers of the wearer through its spiritual power.
+All Stats +3
+MDEF +5
+Class: ^777777Armor^000000
+Defense: ^7777770^000000
+Weight: ^77777750^000000
+Jobs: ^777777Novice^000000
 #
 2364#
 This plate armor
@@ -11142,6 +11307,15 @@ Defense: ^7777775^000000
 Weight: ^77777775^000000
 Required Level: ^77777750^000000
 Jobs: ^777777Sniper Job^000000
+#
+2368#
+A special Armor made of a pure gold mixture.
+According to legend you will gain magical strength whilst wearing this.
+MDEF +4
+Class: ^777777Armor^000000
+Defense: ^7777774^000000
+Weight: ^777777200^000000
+Jobs: ^777777All^000000
 #
 2369#
 placeholder
@@ -11413,6 +11587,17 @@ Weight: ^777777350^000000
 Required Level: ^77777782^000000
 Jobs: ^777777Transcendent Swordman Class^000000
 #
+2392#
+^000088Rental item^000000
+It looks has hanging for a long time in the closet. A little small, but you can still wear it.
+STR +2, VIT +2, MaxHP +200
+Add a 2% chance of auto casting ^008800Level 5 Call Spirit^000000 on the user when receives Physical Damage.
+MDEF +1
+Class: ^777777Armor^000000
+Defense: ^77777710^000000
+Weight: ^7777770^000000
+Jobs: ^777777All^000000
+#
 2393#
 A light, comfortable suit made just for young adventurers.
 Impossible to refine.
@@ -11445,6 +11630,26 @@ Class: ^777777Armor^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
 Jobs: ^777777All Jobs except Novice^000000
+#
+2397#
+A jacket wear by showman, it make body warm and protect from cold.
+Class: ^777777Armor^000000
+Defense: ^77777710^000000
+Weight: ^77777790^000000
+Jobs: ^777777All^000000
+#
+2398#
+Sniping suits helps required muscles to move effectively for shooting an arrow.
+Reduces necessary time to shoot arrows and helps to achieve improved accuracy.
+MDEF +5
+Critical rate +6,
+Increase critical rate depending on your LUK.
+Reduces after-cast skill delay by 23%.
+Class: ^777777Armor^000000
+Defense: ^77777742^000000
+Weight: ^77777775^000000
+Required Level: ^77777750^000000
+Jobs: ^777777Sniper^000000
 #
 2399#
 Inner wear made out of a draco's mane.
@@ -11808,6 +12013,14 @@ Required Level: ^77777775^000000
 Jobs: ^777777All Transcendent
 Jobs except Novice^000000
 #
+2427#
+A special Footgear made of a pure gold mixture. According to legend you will gain magical strength whilst wearing these.
+MDEF +4
+Class: ^777777Footgear^000000
+Defense: ^7777774^000000
+Weight: ^77777730^000000
+Jobs: ^777777All^000000
+#
 2428#
 placeholder
 #
@@ -11929,6 +12142,28 @@ Defense: ^7777772^000000
 Weight: ^77777730^000000
 Jobs: ^7777772nd Transcendent Class^000000
 #
+2441#
+A sandals received as a gift from Comodo Environmental Commission.
+It seems to match perfect with Comodo beach.
+STR +1, INT +1, AGI +1
+Add a 10% resistance to the ^FF0000Fire^000000 Property.
+FLEE +5 when worn with Beach Manteau.
+Class: ^777777Footgear^000000
+Defense: ^7777770^000000
+Weight: ^77777720^000000
+Jobs: ^777777All^000000
+#
+2442#
+Torn in some places, but it even helps ventilation. Of course, not convenient in the rain.
+LUK +2
+Increases 10% recover HP/SP.
+Add a 2% chance of auto casting ^008800Level 3 Quagmire^000000 on the user when receives Physical Damage.
+MDEF +1
+Class: ^777777Footgear^000000
+Defense: ^7777777^000000
+Weight: ^7777770^000000
+Jobs: ^777777All^000000
+#
 2443#
 Waterproof boots.
 Decrease fishing casting time by 2 seconds.
@@ -11962,6 +12197,39 @@ Defense: ^7777770^000000
 Weight: ^7777770^000000
 Jobs: ^777777All Jobs except Novice^000000
 #
+2447#
+Boots popular among armymen.
+It may not be the most comfortable shoe you've ever used, but Captain Alcimento approve.
+Increase 10% resistance against ^cc5500Earth^000000 attack
+Class: ^777777Footgear^000000
+Defense: ^7777775^000000
+Weight: ^777777100^000000
+Jobs: ^777777All except Novice^000000
+#
+2448#
+These are special shoes made by a craftsman of a place famous for its beaches and festivities.
+There are many legends around these rarities, such as the inexplicable ability that your users get to dance.
+Everyone who feel a little lighter, as if they are floating. The shoes also come with an anti-foot odor effect.
+AGI +1
+ASPD +3%
+Reduce variable cast time by 3%.
+Class: ^777777Footgear^000000
+Defense: ^7777772^000000
+Weight: ^77777750^000000
+Jobs: ^777777All^000000
+#
+2449#
+Shoes that seem to be wrong somewhere. The intention of the maker to perfect the shoes can be seen but it seems to be a failure.
+MaxHP +20%
+MaxSP +20%
+Reduce MaxHP and MaxSP for every refine of shoes.
+Increase Defense for every 2 refine of shoes.
+Class: ^777777Footgear^000000
+Defense: ^7777773^000000
+Weight: ^77777750^000000
+Required Level: ^77777785^000000
+Jobs: ^777777All Transcendent classes except Novice^000000
+#
 2450#
 Shoes made out of the stem of the Tree of Life.
 They are comfortable and provide life energy to the wearer.
@@ -11975,187 +12243,6 @@ Defense: ^7777774^000000
 Weight: ^77777750^000000
 Required Level: ^77777760^000000
 Job : ^777777All Transcendent Job Classes except Novice Classes^000000
-#
-2456#
-Boots that are provided only for members of the Eden Group.
-These are designed to fit comfortably throughout long-walks.
-HP recovery +10%.
-SP recovery +2%.
-Cannot be upgraded.
-Class: ^777777Footwear^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^77777712^000000
-Jobs: ^777777All Jobs^000000
-#
-2457#
-Boots that are provided only for members of the Eden Group.
-These are designed to fit comfortably throughout long-walks.
-HP recovery +12%
-SP recovery +4%
-Cannot be upgraded.
-Class: ^777777Footwear^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^77777726^000000
-Jobs: ^777777All Jobs^000000
-#
-2458#
-Boots that are provided only for members of the Eden Group.
-These are designed to fit comfortably throughout long-walks.
-HP recovery   +14%
-SP recovery +6%
-Cannot be upgraded.
-Class: ^777777Footwear^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^77777740^000000
-Jobs: ^777777All Jobs^000000
-#
-2463#
-^ff0000This item cannot be traded with others.^000000
-It has a message inscribed - Feline boots of a forgotten era, with both an unpolished and polished beauty.
-Unable to Refine or Destroy.
-Class: ^777777Shoes^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^77777775^000000
-Job : ^777777All^000000
-#
-2465#
-Shoes fit for dancing.
-AGI +1, Aspd increase. (2% decrease of delay after ATK).
-32 SP decrease of Swing Dance.
-Class: ^777777Shoes^000000
-Defense: ^7777770^000000
-Weight: ^77777730^000000
-Required Level: ^777777105^000000
-Jobs: ^777777Wanderer Only^000000
-#
-2467#
-A pair of golden long boots imbued with power of wind.
-MDEF +2, MHP + 500, Increases resistance to wind attacks by 15%.
-Type : ^777777Shoes^000000
-Defense: ^7777770^000000
-Weight: ^77777750^000000
-Required Level: ^777777100^000000
-Job : ^777777Warlock^000000
-#
-2468#
-A pair of sea-blue long boots imbued with power of water.
-MDEF +2, MHP + 500, Increases resistance to water attacks by 15%.
-Type : ^777777Shoes^000000
-Defense: ^7777770^000000
-Weight: ^77777750^000000
-Required Level: ^777777100^000000
-Job : ^777777Warlock^000000
-#
-2469#
-A pair of red long boots imbued with power of fire.
-MDEF +2, MHP + 500, Increases resistance to ^FF0000Fire^000000 attacks by 15%
-Type : ^777777Shoes^000000
-Defense: ^7777770^000000
-Weight: ^77777750^000000
-Required Level: ^777777100^000000
-Job : ^777777Warlock^000000
-#
-2470#
-A pair of turquoise long boots imbued with power of earth.
-MDEF +2, MHP + 500, Increases resistance to earth attacks by 15%
-Type : ^777777Shoes^000000
-Defense: ^7777770^000000
-Weight: ^77777750^000000
-Required Level: ^777777100^000000
-Job : ^777777Warlock^000000
-#
-2471#
-Decreases tolerance to all races by 10%
-Increases tolerance to Demihumans by 10%
-MaxHP +500
-Type : ^777777Shoes^000000
-Defense: ^7777770^000000
-Weight: ^77777730^000000
-Required Level: ^777777100^000000
-Job : ^777777Archbishop^000000
-#
-2472#
-Decreases tolerance to all races by 10%
-Increases tolerance to Demon and Undead by 10%
-MaxSP +150
-Type : ^777777Shoes^000000
-Defense: ^7777770^000000
-Weight: ^77777730^000000
-Required Level: ^777777100^000000
-Job : ^777777Archbishop^000000
-#
-2473#
-Boots that are provided only for members of the Eden Group.
-These are designed to fit comfortably throughout long-walks.
-HP recovery   +28%
-SP recovery +12%
-Cannot be upgraded.
-Class: ^777777Footwear^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^77777760^000000
-Jobs: ^777777All Jobs^000000
-#
-2475#
-Greaves made by purifying an Ur Rune.
-MaxSP +40.
-Reduces MaxHP by 7%. Refine rate reduces the MaxHP reduction by 1% for each level up to +8.
-Class: ^777777Shoes^000000
-Defense: ^7777770^000000
-Weight: ^77777790^000000
-Required Level: ^777777100^000000
-Job : ^777777Rune Knight^000000
-#
-2476#
-Greates made by purifying a Peuz Rune.
-MaxSP +40.
-Reduces AGI by 7. Refine rate reduces the AGI reduction by 1% for each level up to +8.
-Class: ^777777Shoes^000000
-Defense: ^7777770^000000
-Weight: ^77777790^000000
-Required Level: ^777777100^000000
-Job : ^777777Rune Knight^000000
-#
-2477#
-Shoes that have long been known to be from the world of darkness.
-LUK +3, MSP + 30.
-Class: ^777777Shoes^000000
-Defense: ^7777770^000000
-Weight: ^77777740^000000
-Required Level: ^777777100^000000
-Job : ^777777Guillotine Cross^000000
-#
-2478#
-An assassin's famous historical relic.
-FLEE + 3, INT +2.
-Class: ^777777Shoes^000000
-Defense: ^7777770^000000
-Weight: ^77777740^000000
-Required Level: ^777777100^000000
-Job : ^777777Guillotine Cross^000000
-#
-2479#
-Shoes of the brilliant archer guild known as Icarus.
-AGI +2.
-Reduces the SP cost of Aimed Bolt by 10.
-Class: ^777777Shoes^000000
-Defense: ^7777770^000000
-Weight: ^77777740^000000
-Required Level: ^777777100^000000
-Job : ^777777Ranger^000000
-#
-2480#
-An ancient artifact that helps maintain clear mental focus.
-INT +2, MSP + 5%.
-Class: ^777777Shoes^000000
-Defense: ^7777770^000000
-Weight: ^77777740^000000
-Required Level: ^777777100^000000
-Job : ^777777Ranger^000000
 #
 2501#
 A simple, soft garment that covers the head and neck.
@@ -12778,59 +12865,6 @@ Weight: ^7777770^000000
 Required Level: ^77777712^000000
 Jobs: ^777777All Jobs^000000
 #
-2564#
-^ff0000This item cannot be traded with others.^000000
-It has a message inscribed - A symbol of valor made with the tail of a savage beast.
-Unable to Refine or Destroy.
-Class: ^777777Robe^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^77777775^000000
-Class: ^777777All^000000
-#
-2568#
-^ff0000This item cannot be traded between accounts.^000000
-A red scarf worn out from long use.
-AGI +1.
-Increases the effectiveness of the skill 'Cross Impact' by 5%.
-Cannot be refined.
-Type : ^777777Outerwear^000000
-Defense: ^7777770^000000
-Weight: ^77777740^000000
-Required Level: ^777777100^000000
-Job : ^777777All^000000
-#
-2569#
-Perfect Dodge +5
-Has a chance of casting Renovatio Level 1 while being physically or magically attacked.
-Type : ^777777Manteau^000000
-Defense: ^7777770^000000
-Weight: ^77777730^000000
-Required Level: ^777777100^000000
-Job : ^777777Archbishop^000000
-#
-2570#
-Flee +5
-Has a chance of casting Oratio Level 2 while being physically or magically attacked
-If a higher level of this skill is learned then that level will activate.
-Type : ^777777Manteau^000000
-Defense: ^7777770^000000
-Weight: ^77777730^000000
-Required Level: ^777777100^000000
-Job : ^777777Archbishop^000000
-#
-2571#
-A manteau which is only for Eden Group members.
-It is designed to flatter anyone's backside.
-Increases tolerance to neutral property by 10%.
-FLEE +12
-Cannot be upgraded.
-Class: ^777777Garment^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^77777760^000000
-Jobs: ^777777All Jobs^000000
-#
 2573#
 White wings of a holy Archangel.
 Slot : ^7777771^000000
@@ -12839,24 +12873,6 @@ Defense: ^7777770^000000
 Weight: ^77777720^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
-#
-2574#
-A manteau created by Ur Runestones
-MHP + 2%, Increases tolerance to Neutral property attacks by 10%.
-Class: ^777777Garment^000000
-Defense: ^7777770^000000
-Weight: ^77777760^000000
-Required Level: ^777777100^000000
-Job : ^777777Rune Knight^000000
-#
-2575#
-A manteau created by refining Peuz Runestones
-FLEE + 10, CRI + 10.
-Class: ^777777Garment^000000
-Defense: ^7777770^000000
-Weight: ^77777760^000000
-Required Level: ^777777100^000000
-Job : ^777777Rune Knight^000000
 #
 2576#
 A backpack befitting of any hero.
@@ -12880,44 +12896,6 @@ Defense: ^7777770^000000
 Weight: ^77777720^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
-#
-2577#
-A manteau that contains the reliquery remains of an ancient Assassin
-FLEE + 12, Increases CRI by 1% per refine level.
-Class: ^777777Garment^000000
-Defense: ^7777770^000000
-Weight: ^77777710^000000
-Required Level: ^777777100^000000
-Job : ^777777Guillotine Cross^000000
-#
-2578#
-An ancient relic that belonged to an unknown Assassin
-Increases Flee and Attack Power per refine level times 2
-Class: ^777777Garment^000000
-Defense: ^7777770^000000
-Weight: ^77777710^000000
-Required Level: ^777777100^000000
-Job : ^777777Guillotine Cross^000000
-#
-2580#
-A manteau from an archer guild known as Icarus
-AGI +2, FLEE + 10,
-Has a chance of activating FLEE +20 for 7 seconds while physically attacking.
-Class: ^777777Garment^000000
-Defense: ^7777770^000000
-Weight: ^77777720^000000
-Required Level: ^777777100^000000
-Job : ^777777Ranger^000000
-#
-2581#
-A cloak that helps maintain clear mental focus.
-INT +2.
-Adds perfect dodge +1 for every refine level above level 6.
-Class: ^777777Garment^000000
-Defense: ^7777770^000000
-Weight: ^77777720^000000
-Required Level: ^777777100^000000
-Job : ^777777Ranger^000000
 #
 2589#
 Large, black wings of a fallen dark angel.
@@ -14795,171 +14773,6 @@ Defense: ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^77777780^000000
 Class: ^777777All^000000
-#
-2853#
-An orb filled with liquid of unknown powers.
-INT +3, MDEF +1, MSP + 30.
-10% ATK increase of Soul Expansion and Psychic Wave, SP of each skill increased by 50.
-Class: ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^77777720^000000
-Required Level: ^777777110^000000
-Jobs: ^7777773rd Job Classes Only^000000
-#
-2854#
-A white glove made especially for fire magic. Gives off a faint burnt smell.
-INT +1, MDEF +2.
-10% increase of all ^FF0000Fire^000000 ATK.
-Low chance to trigger Lv 5 Auto-spell Fire Ball with every physical or magic ATK.
-20% decrease of tolerance to all ^6996ADWater^000000 magic.
-30% decrease of tolerance to all ^6996ADWater^000000 ATK.
-Class: ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^77777710^000000
-Required Level: ^777777125^000000
-Jobs: ^7777773rd Job Classes Only^000000
-#
-2858#
-^ff0000This item cannot be traded between accounts.^000000
-A pendant with black wings. It possesses mysterious power.
-Allows the user to use the skill [Call of Guardian].
-Type : ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^77777770^000000
-Job : ^777777All^000000
-#
-2859#
-A golden crystal ball imbued with power of wind.
-INT +1, MDEF +2.
-Increases resistance to wind attacks by 15%.
-Has a certain chance of casting LV 3 Jupitel Thunder when hit by physical/magical attacks.
-Type : ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^77777720^000000
-Required Level: ^777777100^000000
-Job : ^777777Warlock^000000
-#
-2860#
-A sea-blue crystal ball imbued with power of water.
-INT +1, MDEF +2.
-Increases resistance to water attacks by 15%.
-Has a certain chance of casting LV 3 Frost Nova when hit by physical/magical attacks.
-Type : ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^77777720^000000
-Required Level: ^777777100^000000
-Job : ^777777Warlock^000000
-#
-2861#
-A bloody crystal ball imbued with power of fire.
-INT +1, MDEF +2.
-Increases resistance to ^FF0000Fire^000000 attacks by 15%
-Has a certain chance of casting LV 3 Sightrasher when hit by physical/magical attacks.
-Type : ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^77777720^000000
-Required Level: ^777777100^000000
-Job : ^777777Warlock^000000
-#
-2862#
-A green crystal ball imbued with power of earth.
-INT +1, MDEF +2.
-Increases resistance to earth attacks by 15%
-Has a certain chance of casting LV 3 Quagmire when hit by physical/magical attacks.
-Type : ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^77777720^000000
-Required Level: ^777777100^000000
-Job : ^777777Warlock^000000
-#
-2864#
-^ff0000This item cannot be traded between accounts.^000000
-An old but shiny gold ring entwined with rings. It is rumored to be a relic of a saint.
-VIT +2, Increases the effectiveness of healing skills by 2%.
-Allows the user to enchant items with effects related to Highness Heal.
-Type : ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^777777110^000000
-Job : ^777777Archbishop^000000
-#
-2865#
-^ff0000This item cannot be traded between accounts.^000000
-A thick ring mounted with a purple stone, given to a training priest.
-INT +2, Increases the effectiveness of healing skills by 2%.
-Allows the user to enchant items with effects related to Coluseo Heal.
-Type : ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^777777110^000000
-Job : ^777777Archbishop^000000
-#
-2866#
-^ff0000This item cannot be traded between accounts.^000000
-A ring mounted with clear mysterious stone. It is rumored to be a relic of a religious leader.
-DEX +2, Increases the effectiveness of healing skills by 2%.
-Allows the user to enchant items with effects related to the effectiveness of healing skills.
-Type : ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^777777110^000000
-Job : ^777777Archbishop^000000
-#
-2883#
-A seal created by refining an Ur Runestone
-MHP + 2%, 
-Reduces the SP cost of Spiral Pierce and Hundred Spears by 5.
-Class: ^777777Accessory^000000
-Defense: ^7777774^000000
-Weight: ^77777720^000000
-Required Level: ^777777100^000000
-Job : ^777777Rune Knight^000000
-#
-2884#
-A seal created by refining a Peuz Runestone
-ATK + 20, MSP + 20.
-Class: ^777777Accessory^000000
-Defense: ^7777773^000000
-Weight: ^77777720^000000
-Required Level: ^777777100^000000
-Job : ^777777Rune Knight^000000
-#
-2886#
-A ring that has long been known to be from the world of darkness.
-Class: ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^77777710^000000
-Required Level: ^777777100^000000
-Job : ^777777Guillotine Cross^000000
-#
-2887#
-An assassin's famous historical relic
-ATK + 10, MATK + 20.
-Class: ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^77777710^000000
-Required Level: ^777777100^000000
-Job : ^777777Guillotine Cross^000000
-#
-2890#
-An accessory that belonged to the 
-DEX +2, 
-Ranged Attack Damage +3%
-Class: ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^77777710^000000
-Required Level: ^777777100^000000
-Job : ^777777Ranger^000000
-#
-2891#
-Black wings to help maintain clear mental focus.
-INT +2, Perfect Dodge +3.
-Class: ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^77777710^000000
-Required Level: ^777777100^000000
-Job : ^777777Ranger^000000
 #
 3737#
 These points can be exchanged for various goods and services with ^ff0000Grandma Boxter^000000 at the second floor of the Eden Group Headquarters
@@ -37539,40 +37352,6 @@ Required Level: ^7777771^000000
 Jobs: ^777777Mage Class,
 Soul Linker Job^000000
 #
-13061#
-A sawtooth dagger crafted by the Rogue Guild.
-30% ATK increase of Fatal Menace. 2% ATK and +3 MATK increase with every upgrade above level 6.
-HIT +5, MATK +5 when used with Black Cat. Masquerade: Enervation and Groomy SP decreased by 20.
-Class: ^777777Dagger^000000
-Attack : ^777777142^000000
-Weight: ^77777760^000000
-Weapon Level: ^7777773^000000
-Required Level: ^777777102^000000
-Jobs: ^777777Shadow Chaser Only^000000
-#
-13062#
-An ancient ritual dagger with unknown powers.
-MATK + 120, MSP + 100, SP Recovery increased by 5%.
-Low chance of cursing self with every physical or magic ATK.
-Class: ^777777Dagger^000000
-Attack : ^777777107^000000
-Weight: ^77777760^000000
-Weapon Level: ^7777774^000000
-Required Level: ^777777120^000000
-Jobs: ^777777Swordman/Merchant/Thief/Archer/Mage Class Types Type^000000
-#
-13066#
-A practical dagger that is made by the Eden Group.
-It's suitable for those who have experience handling daggers.
-Matk +70
-Cannot be upgraded.
-Class: ^777777Dagger^000000
-Attack : ^777777165^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777773^000000
-Required Level: ^77777760^000000
-Jobs: ^777777Novice / Swordman / Mage / Archer / Merchant / Thief / Soul Linker / Ninja^000000
-#
 13067#
 A long time ago, the manufacturing process for the holy sword of the Jaty tribe in Dewata island disappeared, but it has been reproduced by Mastersmith Gatti again.
 Matk +70.
@@ -37758,17 +37537,6 @@ Attack : ^77777760^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777772^000000
 Required Level: ^77777740^000000
-Jobs: ^777777Gunslinger^000000
-#
-13114#
-A revolver that is made by the Eden Group. It's suitable for an advanced gun handler.
-Hit -5.
-Cannot be upgraded.
-Class: ^777777Pistol^000000
-Attack : ^77777776^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777773^000000
-Required Level: ^77777760^000000
 Jobs: ^777777Gunslinger^000000
 #
 13150#
@@ -38491,16 +38259,6 @@ Weapon Level: ^7777774^000000
 Required Level: ^77777780^000000
 Jobs: ^777777Ninja Jobs^000000
 #
-13310#
-A Huuma Shuriken that is made by the Eden Group.
-It is suitable for experienced Ninjas only.
-Class: ^777777Huuma^000000
-Attack : ^777777150^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777773^000000
-Required Level: ^77777760^000000
-Jobs :^777777Ninja^000000
-#
 13400#
 A practical sword
 that is typically
@@ -38780,27 +38538,6 @@ Required Level: ^7777771^000000
 Jobs: ^777777Swordman,
 Merchant, and
 Thief Classes^000000
-#
-13431#
-A cold etched sword made with refined Bradium, a mineral from the Other World.
-Cannot be destroyed.
-AGI +1, MHP - 5%.
-Class: ^777777One-Handed Sword^000000
-Attack : ^777777180^000000
-Weight: ^777777220^000000
-Weapon Level: ^7777773^000000
-Required Level: ^777777110^000000
-Jobs: ^777777Swordman/Merchant Class Types^000000
-#
-13434#
-A one-handed sword that is made by the Eden Group. It's suitable for an experienced sword handler.
-Cannot be upgraded.
-Class: ^777777One-Handed Sword^000000
-Attack : ^777777185^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777773^000000
-Required Level: ^77777760^000000
-Jobs: ^777777Swordman / Merchant / Thief Class^000000
 #
 13503#
 A box that contains:
@@ -42321,83 +42058,6 @@ Weight: ^7777771^000000
 Required Level: ^7777771^000000
 Job : ^777777All^000000
 #
-15025#
-An ornate golden robe imbued with power of winds.
-INT +1, MDEF +10.
-Decreases the variable casting time of Lord of Vermilion by 3 seconds, INT +1 when unmodified INT is 120 or more.
-Type : ^777777Armor^000000
-Defense: ^7777770^000000
-Weight: ^77777750^000000
-Property : ^777777Wind^000000
-Required Level: ^777777100^000000
-Job : ^777777Warlock^000000
-#
-15026#
-An elegant blue robe imbued with power of water.
-INT +1, MDEF +10.
-Decreases the variable casting time of Storm Gust by 3 seconds, INT +1 when unmodified INT is 120 or more.
-Type : ^777777Armor^000000
-Defense: ^7777770^000000
-Weight: ^77777750^000000
-Property : ^777777Water^000000
-Required Level: ^777777100^000000
-Job : ^777777Warlock^000000
-#
-15027#
-An elaborate red robe imbued with power of fire.
-INT +1, MDEF +10.
-Decreases the variable casting time of Meteor Storm by 3 seconds, INT +1 when unmodified INT is 120 or more.
-Type : ^777777Armor^000000
-Defense: ^7777770^000000
-Weight: ^77777750^000000
-Property : ^FF0000Fire^000000
-Required Level: ^777777100^000000
-Job : ^777777Warlock^000000
-#
-15028#
-A simple turquoise robe imbued with power of earth.
-INT +1, MDEF +10.
-Decreases the variable casting time of Heaven's Drive by 1 second, INT +1 when unmodified INT is 120 or more.
-Type : ^777777Armor^000000
-Defense: ^7777770^000000
-Weight: ^77777750^000000
-Property : ^777777Earth^000000
-Required Level: ^777777100^000000
-Job : ^777777Warlock^000000
-#
-15029#
-Blesses the wearer with the Holy Property
-Decreases SP Consumption of Clementia by 50
-INT +1, MDEF +10
-Type : ^777777Garment^000000
-Defense: ^7777770^000000
-Weight: ^77777730^000000
-Required Level: ^777777100^000000
-Job : ^777777Archbishop^000000
-#
-15030#
-Blesses the wearer with the Shadow Property
-Increases damage of Judex skill by 30%
-Increases SP Consumption of Judex skill by 40
-STR +1, INT +1, MDEF +10
-Type : ^777777Garment^000000
-Defense: ^7777770^000000
-Weight: ^77777730^000000
-Required Level: ^777777100^000000
-Job : ^777777Archbishop^000000
-#
-15031#
-Armor that is only provided for members of the Eden Group.
-There are various sizes so tall people don't have to worry about it. 
-MaxHP +500, MaxSP  +50,
-MDEF +5.
-Cannot be upgraded.
-Class: ^777777Armor^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^77777760^000000
-Jobs: ^777777All Jobs^000000
-#
 15032#
 An armor made with animal leather used by the Jaty tribe during battle.
 MDEF +10.
@@ -42426,88 +42086,6 @@ Defense: ^7777770^000000
 Weight: ^77777760^000000
 Required Level: ^7777771^000000
 Jobs: ^777777None^000000
-#
-15036#
-Armor created by purifying Ur runestones.
-MDEF +10.
-Increases MaxHP per refine level and tolerance to Demi-human and Neutral property damage by 5%.
-MaxHP +14%, Increases damage of Hundred Spears by 50%,
-enables Crusader skill Guard Level 1
-Class: ^777777Armor^000000
-Defense: ^777777110^000000
-Weight: ^777777300^000000
-Required Level: ^777777100^000000
-Job : ^777777Rune Knight^000000
-#
-15037#
-Armor created by purifying Peuz runestones.
-MDEF +10.
-ATK + 20, FLEE + 17.
-If worn with Ur Greaves, Shoes and accessory,
-Increases damage to all monster sizes by 10%.
-Increases damage of Wind Cutter and Sonic Wave by 100%.
-Has a chance of activating Spear Dynamo and adding 2 Aspd while physically attacking.
-Increases SP costs of skills by 10.
-Class: ^777777Armor^000000
-Defense: ^777777110^000000
-Weight: ^777777300^000000
-Required Level: ^777777100^000000
-Job : ^777777Rune Knight^000000
-#
-15038#
-Armor that contains the reliquery remains of an ancient Assassin.
-LUK +3, Has a chance of auto-casting Meteor Assault level 1 while physically attacking.
-If higher level of this skill is learned then it will be cast.
-If worn with Greaves, shoes and accessory,
-Flee +10, Critical +15, Increases damage of Cross Impact by 20
-Increases SP costs of skills by 10
-Class: ^777777Armor^000000
-Defense: ^77777745^000000
-Weight: ^77777710^000000
-Required Level: ^777777100^000000
-Job : ^777777Guillotine Cross^000000
-#
-15039#
-An assassin's famous historical relic.
-STR +2, INT +2.
-If worn with Greaves, shoes and accessory,
-Has a chance of auto-casting Soul Destroyer level 1 while physically attacking.
-If higher level of this skill is learned then it will be cast.
-If base STR is 120, +30 Atk.
-Increases damage to all monster sizes by 10%
-CRI - 20.
-Class: ^777777Armor^000000
-Defense: ^77777745^000000
-Weight: ^77777710^000000
-Required Level: ^777777100^000000
-Job : ^777777Guillotine Cross^000000
-#
-15042#
-Armor of the brilliant archer guild known as Icarus.
-Increases ranged attack damage by 2x refine level.
-Increases Flee by 1 per refine level.
-If worn with greaves, shoes, and accessory,
-Increases Aspd by 2, Increases damage of Arrow Storm by 50%.
-Increases ranged attack damage by 30.
-Has a chance of auto-casting double strafe level while attacking with a ranged weapon.
-Class: ^777777Armor^000000
-Defense: ^77777745^000000
-Weight: ^77777710^000000
-Required Level: ^777777100^000000
-Job : ^777777Ranger^000000
-#
-15043#
-An ancient armor that helps maintain clear mental focus.
-INT +2, 
-Increases Atk by 3x refine level.
-If worn with greaves, shoes, and accessory,
-MaxHP +15%, Perfect Dodge +20, Increases damage of Cluster Bomb by 20%
-Decreases attack damage by 30% and, Aspd - 7.
-Class: ^777777Armor^000000
-Defense: ^77777745^000000
-Weight: ^77777710^000000
-Required Level: ^777777100^000000
-Job : ^777777Ranger^000000
 #
 16000#
 This mace's shape is inspired by a Snake, which symbolizes the fountain of knowledge.
@@ -42569,30 +42147,6 @@ Weapon Level: ^7777773^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Acolyte Class^000000
 #
-16010#
-A new bag from the Alchemist Society: 'A weapon favorable for women!' 
-20% ATK increase of Crazy Weed and Demonic Fire. 2% ATK increase of each skill for every upgrade above level 6.
-MATK + 100
-Class: ^777777Club^000000
-Attack : ^77777715^000000
-Weight: ^777777100^000000
-Weapon Level: ^7777773^000000
-Required Level: ^777777102^000000
-Jobs: ^777777Generic Only^000000
-#
-16013#
-A mace that strikes like the Judges gavel in deciding the fate of evil.
-Physical and Magical Attacks have a chance to increase damage by 20% to Demon monsters for 7 seconds.
-MATK + 140, STR +1, INT +1.
-If worn with Judgement Golves, Shoes and Shawl, increase Damage against Undead by 15%.
-Increase damage of Adoramus by 200%, and increase SP cost of Adoramus by 30.
-Type : ^777777Mace^000000
-Attack : ^777777170^000000
-Weight: ^777777120^000000
-Weapon Level: ^7777774^000000
-Required Level: ^777777100^000000
-Job : ^777777"Archbishop^000000
-#
 16014#
 A mace that is made by the Eden Group. It's suitable for an experienced mace wielder.
 Cannot be upgraded.
@@ -42602,19 +42156,6 @@ Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777760^000000
 Jobs: ^777777Swordman / Acolyte / Merchant Class^000000
-#
-16018#
-A mace that strikes like the Judges gavel in deciding the fate of evil.
-Physical and Magical Attacks have a chance to increase damage by 40% to Demon monsters for 7 seconds.
-MATK + 180, STR +2, INT +2.
-If worn with Judgement Golves, Shoes and Shawl, increase Damage against Undead by 30%.
-Increase damage of Adoramus by 200%, and increase SP cost of Adoramus by 30.
-Type : ^777777Mace^000000
-Attack : ^777777170^000000
-Weight: ^777777120^000000
-Weapon Level: ^7777774^000000
-Required Level: ^777777130^000000
-Job : ^777777"Archbishop^000000
 #
 16186#
 A box containing 1 Baby Dragon Hat.
@@ -45204,17 +44745,6 @@ Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Archer Class;
 Rogue Job^000000
-#
-18103#
-A small bow with magical powers.
-SP decreased by 10 for Severe Rainstorm.
-INT +4, MATK + 100.
-Class: ^777777Bow^000000
-Attack : ^77777775^000000
-Weight: ^777777170^000000
-Weapon Level: ^7777773^000000
-Required Level: ^777777105^000000
-Jobs: ^7777773rd Class Archer Type^000000
 #
 18106#
 A rich bow that is made by the Eden Group. It is suitable for advanced level adventurers who know how to handle a bow.
