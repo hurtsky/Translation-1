@@ -10726,7 +10726,7 @@ Reduces damage from Demon monsters by 5%.
 ^3CB371Angel's Reincarnation^000000
 ^3CB371Angelic Guard^000000
 HP +900
-SP +100
+MaxSP +100
 Has low Chance of casting level 1 Assumptio when attacked physically.
 Class: ^777777Shield^000000
 Defense: ^77777730^000000
@@ -12111,6 +12111,7 @@ Jobs: ^777777All except Novice^000000
 2274#
 A traditional Japanese headpiece associated with the afterlife.
 AGI +2
+Increases resistance against Ghost property attack by 10%.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
@@ -12179,7 +12180,7 @@ Jobs: ^777777All except Novice^000000
 #
 2282#
 A spiritual symbol that typically appears over the heads of those who are holy.
-Increases resistance to the Holy property by 15%.
+Increases resistance against Holy property attack by 15%.
 ^FF0000Unrefineable^000000
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
@@ -12813,7 +12814,7 @@ MDEF +20
 ^3CB371Angel's Reincarnation^000000
 ^3CB371Angelic Guard^000000
 HP +900
-SP +100
+MaxSP +100
 Has low Chance of casting Level 1 Assumptio when attacked physically.
 Class: ^777777Armor^000000
 Defense: ^77777725^000000
@@ -17423,7 +17424,7 @@ Jobs: ^777777Mechanic^000000
 #
 2804#
 A component to use the Mechanic Magic Gear Skill, Emergency Cool.
-DEX +1.
+DEX +1
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^777777250^000000
@@ -17432,7 +17433,7 @@ Jobs: ^777777Mechanic^000000
 #
 2805#
 A component to use the Mechanic Magic Gear Skill, Magnetic Field.
-DEX +1.
+DEX +1
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^777777600^000000
@@ -17441,7 +17442,7 @@ Jobs: ^777777Mechanic^000000
 #
 2806#
 A component to use the Mechanic Magic Gear Skill, Neutral Barrier.
-DEX +1.
+DEX +1
 Class: ^777777Accessory^000000
 Defense: ^7777773^000000
 Weight: ^777777800^000000
@@ -17458,7 +17459,7 @@ Jobs: ^777777Mechanic^000000
 #
 2808#
 An armor to use the Mechanic Magic Gear Skill, Stealth Field.
-AGI +3.
+AGI +3
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^777777100^000000
@@ -17467,7 +17468,7 @@ Jobs: ^777777Mechanic^000000
 #
 2809#
 A component to use Mechanic Magic Gear Skill, Emergency Cool.
-DEX +1.
+DEX +1
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^777777250^000000
@@ -17476,7 +17477,7 @@ Jobs: ^777777Mechanic^000000
 #
 2810#
 A component to use the Mechanic Magic Gear Skill, Emergency Cool.
-DEX +1.
+DEX +1
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^777777250^000000
@@ -17528,10 +17529,11 @@ Required Level: ^77777720^000000
 Jobs: ^777777All^000000
 #
 2815#
-...
-[^000088Event Bonus, will NOT work outside of Event^000000]
-All stats +2, MDEF +2, SP +20.
-...
+A ring blessed with the power of water.
+All stats +2
+MDEF +2
+MaxSP +20
+When base level is below 41, increase potion restoration by 50%, this effect reduced as the base level increased.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777771^000000
@@ -17539,21 +17541,21 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 2816#
-...
+A radar used to look for something.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
 Jobs: ^777777All^000000
 #
 2817#
-...
+A radar used to look for something.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
 Jobs: ^777777All^000000
 #
 2818#
-...
+A radar used to look for something.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
@@ -17561,7 +17563,7 @@ Jobs: ^777777All^000000
 #
 2819#
 A guidebook that enables one to experience basic Swordman skills.
-SP +100.
+MaxSP +100
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -17570,7 +17572,7 @@ Jobs: ^777777Novice^000000
 #
 2820#
 A guidebook that enables one to experience basic Thief skills.
-SP +100.
+MaxSP +100
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -17579,7 +17581,7 @@ Jobs: ^777777Novice^000000
 #
 2821#
 A guidebook that enables one to experience basic Acolyte skills.
-SP +100.
+MaxSP +100
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -17588,7 +17590,7 @@ Jobs: ^777777Novice^000000
 #
 2822#
 A guidebook that enables one to experience basic Archer skills.
-SP +100.
+MaxSP +100
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -17597,7 +17599,7 @@ Jobs: ^777777Novice^000000
 #
 2823#
 A guidebook that enables one to experience basic Merchant skills.
-SP +100.
+MaxSP +100
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -17606,7 +17608,7 @@ Jobs: ^777777Novice^000000
 #
 2824#
 A guidebook that enables to experience basic Mage skills.
-SP +100.
+MaxSP +100
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -17614,7 +17616,7 @@ Required Level: ^7777771^000000
 Jobs: ^777777Novice^000000
 #
 2825#
-INT +2.
+INT +2
 ^FF0000Shaman Set^000000
 ^0000FFShaman Ring^000000
 ^0000FFShaman's Hair Ornament^000000
@@ -17630,13 +17632,13 @@ Jobs: ^777777All^000000
 #
 2826#
 A belt once worn by a Knight shrouded in darkness that gives dexterity to those who wear it.
-DEX +2, AGI +1
+AGI +1, DEX +2
 ^99FF66Dark Knight Set^000000
 ^99FF66Dark Knight Mask^000000
 ^99FF66Dark Knight Belt^000000
 ^99FF66Dark Knight Glove^000000
 MATK +15%, INT +5,
-10% of the damage is decreased when attacked by angel-type monsters.
+10% of the damage is decreased when attacked by Angel monsters.
 Class: ^777777Accessory^000000
 Defense: ^7777771^000000
 Weight: ^77777750^000000
@@ -17660,7 +17662,8 @@ Jobs: ^777777All^000000
 #
 2828#
 A Clip molded out of Elunium and pure gold mixture.
-MaxHP +3%. MaxSP +30.
+MaxHP +3%
+MaxSP +30
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -17677,7 +17680,8 @@ Jobs: ^777777All except Novice^000000
 #
 2830#
 A reproduction of the girdle of might that Thor wore to enhance his prodigious strength.
-STR +40, MDEF +7
+STR +40
+MDEF +7
 Class: ^777777Accessory^000000
 Defense: ^7777772^000000
 Weight: ^7777770^000000
@@ -17687,7 +17691,8 @@ Jobs: ^777777All^000000
 2831#
 An imitation of the necklace worn by the beautiful goddess Freya.
 STR +6, AGI +6, INT +6
-VIT +6, LUK +10, MDEF +5
+VIT +6, LUK +10
+MDEF +5
 Class: ^777777Accessory^000000
 Defense: ^7777771^000000
 Weight: ^7777770^000000
@@ -17697,8 +17702,8 @@ Jobs: ^777777All^000000
 2832#
 ^000088Rental Items^000000
 A ring decorated with a beautiful ruby.
-Enables use of ^008800Level 1 Heal^000000.
-Enables use of ^008800Level 1 Teleport^000000.
+Enables use of Level 1 ^008800Heal^000000.
+Enables use of Level 1 ^008800Teleport^000000.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
@@ -17709,7 +17714,7 @@ Jobs: ^777777All^000000
 ^000088Rental Items^000000
 An awesome ring that is only given to the members of the Order of Odin.
 All stats +1.
-Enables use of new skill called "^008800Odin Recall^000000".
+Enables use of ^008800Odin Recall^000000.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
@@ -17718,13 +17723,11 @@ Jobs: ^777777All^000000
 #
 2834#
 ^000088Rental Item^000000
-A Jewelry Ring
-that contains a
-3 Seal Magic Spell.
-Enables use of Level 1 Heal
-and Level 1 Teleport.
-Casting cannot be interrupted.
+A Jewelry Ring that contains a 3 Seal Magic Spell.
 All Stats +1.
+Enables use of Level 1 ^008800Heal^000000.
+Enables use of Level 1 ^008800Teleport^000000.
+Casting cannot be interrupted.
 Increases casting time by 10%.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
@@ -17734,9 +17737,8 @@ Jobs: ^777777All^000000
 #
 2835#
 ^000088Rental Item^000000
-An esoteric ring that
-enables its wearer to amplify his hidden powers.
-CRIT +10%
+An esoteric ring that enables its wearer to amplify his hidden powers.
+CRIT +10
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
@@ -17755,10 +17757,9 @@ Jobs: ^777777All except Novice^000000
 #
 2837#
 ^000088Rental Item^000000
-A strange ring that
-curiously raises its
-wearer's defenses.
-DEF +5 , MDEF +5
+A strange ring that curiously raises its wearer's defenses.
+DEF +5
+MDEF +5
 Class: ^777777Accessory^000000
 Defense: ^7777775^000000
 Weight: ^7777770^000000
@@ -17788,7 +17789,8 @@ Jobs: ^777777All except Novice^000000
 2840#
 ^000088Rental Item^000000
 An ancient rosary.
-LUK +4, MDEF +5
+LUK +4
+MDEF +5
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
@@ -17797,8 +17799,9 @@ Jobs: ^777777All except Novice^000000
 #
 2841#
 ^000088Rental Items^000000
-...
-INT +2, DEX +2, MDEF +2.
+A magic ring that hold special power.
+INT +2, DEX +2
+MDEF +2
 Experience +10%, Drop Rate +10%.
 Class: ^777777Accessory^000000
 Defense: ^7777772^000000
@@ -17808,7 +17811,7 @@ Jobs: ^777777Genetic, Sorcerer^000000
 #
 2842#
 ^000088Rental Items^000000
-...
+An ancient Earring.
 INT +3
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
@@ -17818,7 +17821,7 @@ Jobs: ^777777All except Novice^000000
 #
 2843#
 It has a message inscribed - An accessory hung over a beast's neck to show dignity.
-SP +50.
+MaxSP +50
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
@@ -17839,7 +17842,8 @@ Jobs: ^777777All^000000
 Strap this on and shut them up!
 MDEF +2, ATK +5%, MATK +5%.
 [^000088No Fear Shoes & No Fear Underwear Set^000000]
-Cannot be frozen, Increase EXP Gain by 5%.
+Immune to Frozen
+Increase EXP Gain by 5%.
 Class: ^777777Footgear^000000
 Defense: ^7777772^000000
 Weight: ^7777770^000000
@@ -17849,7 +17853,8 @@ Jobs: ^777777All^000000
 2853#
 An orb filled with liquid of unknown powers.
 INT +3, MDEF +1, MaxSP +30.
-10% ATK increase of Soul Expansion and Psychic Wave, SP of each skill increased by 50.
+Increase Soul Expansion and Psychic Wave damage by 10%,
+and increase SP consumption of both skills by 50.
 Class: ^777777Accessory^000000
 Defense: ^7777772^000000
 Weight: ^77777720^000000
@@ -17858,11 +17863,12 @@ Jobs: ^7777773rd Classes^000000
 #
 2854#
 A white glove made especially for fire magic. Gives off a faint burnt smell.
-INT +1, MDEF +2.
-10% increase of all Fire ATK.
-Low chance to trigger Lv 5 Auto-spell Fire Ball with every physical or magic ATK.
-20% decrease of tolerance to all Water magic.
-30% decrease of tolerance to all water ATK.
+INT +1
+MDEF +2
+Increase Fire property magic by 10%.
+Reduce Water property magic by 20%.
+Reduce tolerance against Water property attack by 30%.
+Has chance to trigger Level 5 Fire Ball with every physical or magical attack.
 Class: ^777777Accessory^000000
 Defense: ^7777771^000000
 Weight: ^77777710^000000
@@ -17871,7 +17877,8 @@ Jobs: ^7777773rd Classes^000000
 #
 2855#
 Morocc twon Hyuke's black tail style. It doesn't seem to be moving.
-ASPD +3%, Critical +7.
+ASPD +3%
+Critical +7
 Equip with [Whikebain's Black Ears], extra critical attack damage +10%.
 Equip with [Whikebain's Black Ears], Critical +5 if [Whikebain's Black Ears]'s refined more than +7
 Class: ^777777Accessory^000000
@@ -24890,13 +24897,13 @@ HP +400
 HP +500
 #
 4800#
-SP +50
+MaxSP +50
 #
 4801#
-SP +100
+MaxSP +100
 #
 4802#
-SP +150
+MaxSP +150
 #
 4803#
 Decreases cooldown time for Highness Heal by 3 seconds.
@@ -25150,10 +25157,10 @@ MaxHP +4%.
 Increase Attacking speed.(Decrease Delay after attacking by 4%)
 #
 4870#
-SP +25
+MaxSP +25
 #
 4871#
-SP +75
+MaxSP +75
 #
 4872#
 Increase Attacking speed.(Decrease Delay after attacking by 6%)
@@ -59097,7 +59104,7 @@ Weight: ^7777771^000000
 13920#
 A box containing a Satanic Chain.
 A hairband that's made of Devil's wings. It is cursed.
-SP +120. Curses itself with low chances when attacked.
+MaxSP +120. Curses itself with low chances when attacked.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
 Location: ^777777Upper^000000
@@ -66100,6 +66107,25 @@ Defense: ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^777777100^000000
 Jobs: ^777777All^000000
+#
+15148#
+A robotic suit that can amplify the muscles of its wearer.
+Increase physical ranged damage by 3%.
+Refined to +5, every refine increase physical ranged damage by 2%.
+When equipped with Powered Arm, Powered Tank and Powered Boots,
+increase Arms Cannon, Cold Slower and Flame Launcher damage by 50%,
+and give chance for 7 seconds, after cast delay reduced by 30%.
+When Powered Mail, Powered Tank and Powered Boots refined to +7,
+increase Arms Cannon, Cold Slower and Flame Launcher damage by 50%,
+and disable Mado Gear Fuel consumption when using skills.
+Class: ^777777Armor^000000
+Defense: ^777777100^000000
+Weight: ^777777200^000000
+Required Level: ^777777100^000000
+Jobs: ^777777Mechanic^000000
+#
+15149#
+[JRO Item]
 #
 16000#
 This mace's shape is inspired by a Snake, which symbolizes the fountain of knowledge.
@@ -75973,7 +75999,7 @@ Jobs: ^777777All^000000
 #
 18745#
 The choco stick let you taste slowly.
-SP +50.
+MaxSP +50.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Lower^000000
@@ -85565,6 +85591,15 @@ Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
+20320#
+A boldly red bandana that was possibly left over from the 80's.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
 20329#
 Nothin you need to worry in the World when wearing this on your head.
 Class: ^777777Costume^000000
@@ -86061,6 +86096,12 @@ Defense: ^77777740^000000
 Weight: ^77777790^000000
 Required Level: ^77777799^000000
 Jobs: ^777777All^000000
+#
+20776#
+[JRO Item]
+#
+20777#
+[JRO Item]
 #
 20778#
 An evolved stole designed by Mage guild.
@@ -86745,6 +86786,12 @@ Defense: ^77777710^000000
 Weight: ^77777740^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All jobs, Except Novice^000000
+#
+22073#
+[JRO Item]
+#
+22074#
+[JRO Item]
 #
 22507#
 This old, discolored scroll, sustained with the mana used for maintaining distorted spaces, sends its user to a random space.
@@ -87816,6 +87863,10 @@ Weight: ^7777771^000000
 Box that contain 5 LUK Reduction Potion.
 Weight: ^7777771^000000
 #
+22981#
+...
+Weight: ^77777710^000000
+#
 24000#
 STR +1
 Class: ^777777Shadow Equipment^000000
@@ -88380,7 +88431,7 @@ Jobs: ^777777All^000000
 #
 24050#
 Sacred earring protecting the owner. Enables user's potential ability.
-SP +50.
+MaxSP +50.
 Refined to +7: MaxSP +1%.
 Refined to +9: MaxSP +1%
 Class: ^777777Shadow Equipment^000000
@@ -88755,7 +88806,7 @@ Jobs: ^777777All^000000
 #
 24079#
 Said to protect the wearer that the sacred ring. Leads to the potential ability of the wearer.
-SP +50.
+MaxSP +50.
 Refined to +7 or more additional increase MaxSP +1%.
 When equipped with ^32CD32spiritual shadow set (weapon, earring, pendant)^000000
 1% chance to absorb 1% SP damage do on Physical attack.
@@ -90001,7 +90052,7 @@ Jobs: ^777777All^000000
 #
 24181#
 Wear shoes in addition to shoes. Also available as a single, but the effect is small.
-SP +50.
+MaxSP +50.
 Each 2 refines increase SP +5.
 [^6A5ACDBearer's Shadow set^000000]
 ^008800Bearer's Shadow Weapon^000000
@@ -91219,6 +91270,7 @@ Every level of Steel Crow, increase Blizz Beat damage by 10%.
 +Yobuko of Torikari, increase Blizz Beat damage by 100%.
 +Yugake of Torikari, reduce SP consumption by 2% for every level of Beast Bane.
 Torikari set : increase Blizz Beat damage by 200%.
++Flying Galapagos, reduce Blizz Beat damage by 200%.
 Class: ^777777Accessory^000000 
 Defense: ^7777775^000000
 Weight: ^77777710^000000
@@ -91355,6 +91407,12 @@ Defense: ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^777777120^000000
 Jobs: ^777777All^000000
+#
+28368#
+[JRO Item]
+#
+28369#
+[JRO Item]
 #
 28372#
 Rune Midgard emblem carved on it. Given to people who give contribution to nation.

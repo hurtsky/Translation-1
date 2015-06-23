@@ -8453,6 +8453,8 @@
 15145#Evil_Dragon_Armor#
 15146#Flattering_Robe#
 15147#Abusive_Robe#
+15148#Powered_Mail#
+15149#Guardian_Unit#
 16000#Erde#
 16001#Red_Square_Bag#
 16002#Stunner#
@@ -10926,6 +10928,7 @@
 20317#Costume_Nekomimi_Cyber_Headphone#
 20318#Costume_Charleston_Antenna#
 20319#Costume_Crimson_Booster#
+20320#Costume_Red_Bandana#
 20329#Costume_Very_Cute_Doll_Hat#
 20330#Costume_Sombrero#
 20331#Costume_Desert_Prince#
@@ -10979,6 +10982,8 @@
 20765#Costume_Archangel_Wing#
 20768#Large_Angel_Wings#
 20773#Excellion_Wing#
+20776#Powered_Tank#
+20777#Guardian_Engine#
 20778#Crimson_Stole#
 21000#Upgrade_Two-Handed_Sword#
 21001#Vellum_Claymore#
@@ -11048,6 +11053,8 @@
 22047#Tarlock's_Boots#
 22059#Egir_Shoes#
 22067#Witch_Shoes#
+22073#Powered_Boots#
+22074#Guardian_Boots#
 22507#Worn-Out-Scroll#
 22508#Paradise_Group_Mark#
 22510#King_Wolf_Scroll#
@@ -11254,6 +11261,7 @@
 22950#INT_Reduction_Potion_Box#
 22951#DEX_Reduction_Potion_Box#
 22952#LUK_Reduction_Potion_Box#
+22981#Gear_Induction_Beacon#
 24000#Tier1_Shadow_Armor#
 24001#Tier1_Shadow_Weapon#
 24002#Tier1_Shadow_Shield#
@@ -11535,6 +11543,8 @@
 28365#VIT_Glove#
 28366#DEX_Glove#
 28367#LUK_Glove#
+28368#Powered_Arm#
+28369#Guardian_Barrel#
 28372#Imperial_Ring#
 28600#Blue_Book#
 28604#Crimson_Bible#

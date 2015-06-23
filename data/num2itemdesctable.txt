@@ -13172,13 +13172,13 @@ HP +400
 HP +500
 #
 4800#
-SP +50
+MaxSP +50
 #
 4801#
-SP +100
+MaxSP +100
 #
 4802#
-SP +150
+MaxSP +150
 #
 4803#
 Decreases cooldown time for Highness Heal by 3 seconds.
@@ -13432,10 +13432,10 @@ MaxHP +4%.
 Increase Attacking speed.(Decrease Delay after attacking by 4%)
 #
 4870#
-SP +25
+MaxSP +25
 #
 4871#
-SP +75
+MaxSP +75
 #
 4872#
 Increase Attacking speed.(Decrease Delay after attacking by 6%)
@@ -37784,7 +37784,7 @@ Weight: ^7777771^000000
 13920#
 A box containing a Satanic Chain.
 A hairband that's made of Devil's wings. It is cursed.
-SP +120. Curses itself with low chances when attacked.
+MaxSP +120. Curses itself with low chances when attacked.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
 Location: ^777777Upper^000000
@@ -43545,6 +43545,12 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 15147#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+15148#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+15149#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 16000#
@@ -53096,6 +53102,9 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 20319#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
+20320#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
 20329#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
@@ -53253,6 +53262,12 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 20773#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20776#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+20777#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 20778#
@@ -53460,6 +53475,12 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 22067#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+22073#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+22074#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 22507#
@@ -54482,6 +54503,10 @@ Weight: ^7777771^000000
 Box that contain 5 LUK Reduction Potion.
 Weight: ^7777771^000000
 #
+22981#
+...
+Weight: ^77777710^000000
+#
 24000#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
@@ -55323,6 +55348,12 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 28367#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+28368#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+28369#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 28372#

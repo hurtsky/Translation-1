@@ -8453,6 +8453,8 @@
 15145#Armor#
 15146#Clothing#
 15147#Clothing#
+15148#Armor#
+15149#Armor#
 16000#Mace#
 16001#Mace#
 16002#Mace#
@@ -10926,6 +10928,7 @@
 20317#Hat#
 20318#Accessory#
 20319#Accessory#
+20320#Hairband#
 20329#Hat#
 20330#Hat#
 20331#Hat#
@@ -10979,6 +10982,8 @@
 20765#Garment#
 20768#Garment#
 20773#Garment#
+20776#Garment#
+20777#Garment#
 20778#Garment#
 21000#Two-Handed_Sword#
 21001#Two-Handed_Sword#
@@ -11048,6 +11053,8 @@
 22047#Shoes#
 22059#Shoes#
 22067#Shoes#
+22073#Shoes#
+22074#Shoes#
 22507#Worn-Out-Scroll#
 22508#Paradise_Group_Mark#
 22510#King_Wolf_Scroll#
@@ -11254,6 +11261,7 @@
 22950#INT_Reduction_Potion_Box#
 22951#DEX_Reduction_Potion_Box#
 22952#LUK_Reduction_Potion_Box#
+22981#Gear_Induction_Beacon#
 24000#Shadow_Armor#
 24001#Shadow_Weapon#
 24002#Shadow_Shield#
@@ -11535,6 +11543,8 @@
 28365#Accessory#
 28366#Accessory#
 28367#Accessory#
+28368#Accessory#
+28369#Accessory#
 28372#Accessory#
 28600#Book#
 28604#Book#
