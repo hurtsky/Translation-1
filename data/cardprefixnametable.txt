@@ -655,14 +655,14 @@
 4658#of Sorcery#
 
 // 2015 06 Infinite Dungeon
-4642#Side Staff#
+4642#Side Step#
 4643#Strike#
 4644#Magic Shield#
 4645#Physical#
 4646#Chimera#
 4647#Immortal#
 4648#Provocation#
-4649#Deadly Blow#
+4649#Fatal Blow#
 4650#Magic Stun#
 4651#Monarch#
 
