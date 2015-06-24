@@ -12763,6 +12763,78 @@ Class: ^777777Card^000000
 Compound on: ^777777Shield^000000
 Weight: ^7777771^000000
 #
+4642#
+Perfect dodge +2.
+Refined to +7, Perfect dodge +2.
+Refined to +9, Perfect dodge +3.
+Class: ^777777Card^000000
+Compound on: ^777777Shoes^000000
+Weight: ^7777771^000000
+#
+4643#
+ATK +10.
+Refined to +7, ATK +10.
+Refined to +9, ATK +15.
+Class: ^777777Card^000000
+Compound on: ^777777Shoes^000000
+Weight: ^7777771^000000
+#
+4644#
+MDEF +5.
+Refined to +7, MDEF +10.
+Refined to +9, MDEF +15.
+Class: ^777777Card^000000
+Compound on: ^777777Shoes^000000
+Weight: ^7777771^000000
+#
+4645#
+MaxHP +300.
+Refined to +7, MaxHP +300.
+Refined to +9, MaxHP +400.
+Class: ^777777Card^000000
+Compound on: ^777777Shoes^000000
+Weight: ^7777771^000000
+#
+4646#
+MaxHP +8%
+MaxSP +4%
+When equipped with shoes compounded with one of Infinite Toad Card, Infinite Wandering Wolf Card, Infinite Eclipse or Infinite Vocal Card, ATK +10% and MATK +10%.
+Class: ^777777Card^000000
+Compound on: ^777777Garment^000000
+Weight: ^7777771^000000
+#
+4647#
+When killing monster with melee physical attack, recover HP by 300.
+Class: ^777777Card^000000
+Compound on: ^777777Accessory^000000
+Weight: ^7777771^000000
+#
+4648#
+50% chance to auto cast Level 10 Provoke on enemy when attacked by physical attack.
+Class: ^777777Card^000000
+Compound on: ^777777Shoes^000000
+Weight: ^7777771^000000
+#
+4649#
+Critical +100
+Class: ^777777Card^000000
+Compound on: ^777777Weapon^000000
+Weight: ^7777771^000000
+#
+4650#
+When received magical attack, give 100% chance to stun the attacker.
+VIT +3
+Class: ^777777Card^000000
+Compound on: ^777777Headgear^000000
+Weight: ^7777771^000000
+#
+4651#
+MaxHP +10000
+AGI -10
+Class: ^777777Card^000000
+Compound on: ^777777Armor^000000
+Weight: ^7777771^000000
+#
 4652#
 Increase magic damage against Shadow and Undead property monsters by 50%.
 Increase magic damage against Demon and Undead race monsters by 50%.
@@ -53273,6 +53345,9 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 20778#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
+20779#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
 21000#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
@@ -53481,6 +53556,9 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 22074#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+22075#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 22507#

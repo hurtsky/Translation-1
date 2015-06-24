@@ -1993,7 +1993,7 @@
 2933#Amulet_of_Erudite_Versatile#
 2934#Amulet_of_Trading_Prosperity#
 2935#Sprint_Glove#
-2936#Rings_of_Recovery#
+2936#Ring_of_Recovery#
 2937#RJC2012EXP_Necklace#
 2938#RJC2012_Status_Necklace#
 2939#RJC2012_Spell_Necklace#
@@ -2685,6 +2685,16 @@
 4639#Taffy_Card#
 4640#Frozen_Wolf_Card#
 4641#Zombie_Guard_Card#
+4642#Infinite_Toad_Card#
+4643#Infinite_Vagabond_Wolf_Card#
+4644#Infinite_Vocal_Card#
+4645#Infinite_Eclipse_Card#
+4646#Infinite_Chimera_Card#
+4647#Infinite_Osiris_Card#
+4648#Infinite_Eddga_Card#
+4649#Infinite_Phreeoni_Card#
+4650#Infinite_Orc_Hero_Card#
+4651#Infinite_Tao_Gunka_Card#
 4652#Amenhotep_Card#
 4653#Nightmare_Arclouse_Card#
 4654#Nightmare_Mimic_Card#
@@ -8449,7 +8459,7 @@
 15123#Whikebain_Suit#
 15128#Excellion_Suit#
 15138#Aegir_Armor#
-15141#Ancient_Armor_Of_The_Goddess#
+15141#Ancient_Armor_Of_Crack#
 15145#Evil_Dragon_Armor#
 15146#Flattering_Robe#
 15147#Abusive_Robe#
@@ -10104,7 +10114,7 @@
 19029#Alice_Friesinger_Hat_69#
 19030#Rabbit_Hero_Hood#
 19031#Fallen_Angel_Blessing#
-19033#Ancient_Decoration_Of_The_Goddess#
+19033#Ancient_Decoration_of_Crack#
 19034#Pterios_Hat#
 19035#Fur_Seal_Hat#
 19037#Bloody_Butterfly_Ears#
@@ -10985,6 +10995,7 @@
 20776#Powered_Tank#
 20777#Guardian_Engine#
 20778#Crimson_Stole#
+20779#Manteau_of_Crack#
 21000#Upgrade_Two-Handed_Sword#
 21001#Vellum_Claymore#
 21002#Vellum_Katzbalger#
@@ -11055,6 +11066,7 @@
 22067#Witch_Shoes#
 22073#Powered_Boots#
 22074#Guardian_Boots#
+22075#Shoes_of_Crack#
 22507#Worn-Out-Scroll#
 22508#Paradise_Group_Mark#
 22510#King_Wolf_Scroll#
