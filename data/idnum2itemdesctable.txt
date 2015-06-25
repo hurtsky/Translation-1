@@ -7833,7 +7833,7 @@ Required Level: ^77777740^000000
 Jobs: ^777777Mage and Acolyte^000000
 #
 1652#
-...
+A staff that used by a traveler.
 MATK +15%, INT +2, AGI +1
 Class: ^777777One-Handed Staff^000000
 Attack: ^77777735^000000
@@ -17313,8 +17313,8 @@ Required Level: ^77777760^000000
 Jobs: ^777777All Transcendent classes except Novice Classes^000000
 #
 2791#
-...
-HIT +3.
+A fresh fish, he's still moving!
+HIT +3
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
@@ -25725,7 +25725,7 @@ Jobs: ^777777All except Novice^000000
 #
 5004#
 Ideal for situations is poisonous or polluted, this mask supplies pure oxygen to its wearer.
-Increases resistance to the ^FF0000Poison^000000 status by 20%.
+Increases resistance to^FF0000Poison^000000 status by 20%.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Lower^000000
@@ -27776,14 +27776,9 @@ Weight: ^77777720^000000
 Jobs: ^777777All^000000
 #
 5204#
-A brightly shining
-deer's nose that
-resembles Rudolph's.
-Increases tolerance
-to Blind by 30%. Adds
-a low Cookie Bag drop
-chance when killing
-monsters.
+A brightly shining deer's nose that resembles Rudolph's.
+Increases tolerance to Blind by 30%.
+Adds a low Cookie Bag drop chance when killing monsters.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Lower^000000
@@ -27811,8 +27806,8 @@ Jobs: ^777777All except Novice^000000
 #
 5207#
 A dazzling beautiful golden ring which is blessed by an angel. It is given to a great believer.
-Increases resistance to the Holy Property by 5%.
 LUK +1
+Increases resistance toHoly Property attack by 5%.
 ^FF0000Unrefineable^000000
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
@@ -27822,8 +27817,7 @@ Jobs: ^777777All^000000
 #
 5208#
 A hat designed to mimic the look of a terrible magic book which attacks people.
-When physically melee attacking, there is a 5% chance to recover 8% of your damage as HP.
-When physically melee attacking, there is a 1% chance to recover 4% of your damage as SP.
+When physically melee attacking, there is a 5% chance to recover 8% of your damage as HP and 1% chance to recover 4% of your damage as SP.
 Drains 10 HP every 5 seconds while equipped.
 Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
@@ -28255,7 +28249,7 @@ Weight: ^77777720^000000
 Jobs: ^777777All^000000
 #
 5250#
-...
+A robot's ears... no further description yet.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Middle^000000
@@ -28263,7 +28257,7 @@ Weight: ^77777710^000000
 Jobs: ^777777All^000000
 #
 5251#
-...
+A human blindfold... no further description yet.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Middle^000000
@@ -29941,11 +29935,12 @@ Weight: ^77777720^000000
 Jobs: ^777777All^000000
 #
 5408#
-...
+^000088Rental item^000000
+A bandana of legendary pioneer.
 INT +2, SP +50
 Reduce Casting Time by 10%.
 Class: ^777777Headgear^000000
-Defense: ^7777775^000000
+Defense: ^77777710^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
 Jobs: ^777777All^000000
@@ -30001,21 +29996,20 @@ Jobs: ^777777All^000000
 When a field camp in the Roman! Campfire hat!
 Increases resistance to ^FF0000Fire^000000 Property by 10%.
 Adds a chance autocast ^008800Level 5 Fire Ball^000000 on enemy when the user receives Physical Damage.
-...
 Class: ^777777Headgear^000000
-Defense: ^7777772^000000
+Defense: ^7777774^000000
 Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Jobs: ^777777All^000000
 #
 5415#
 A special hat created to celebrate 5th year anniversary of RO in the Philippines
-MDEF, CRI, FLEE, Perfect Dodge +5
+MDEF, CRIT, FLEE, Perfect Dodge +5
 ASPD +5%
 Reduces Variable casting Time by 5%
-Skill Delay reduced by 5%
+After cast delay reduced by 5%
 Class: ^777777Headgear^000000
-Defense: ^7777775^000000
+Defense: ^77777710^000000
 Location: ^777777Upper^000000
 Weight: ^777777100^000000
 Required Level: ^77777740^000000
@@ -30028,35 +30022,36 @@ Class: ^777777Headgear^000000
 Defense: ^7777774^000000
 Location: ^777777Upper^000000
 Weight: ^77777760^000000
-Required Level: ^77777721^000000
-Jobs: ^777777All^000000
+Required Level: ^77777718^000000
+Jobs: ^777777All except Novice^000000
 #
 5417#
-Parrot hat on the crown. Loud talking parrot might disgust them.
-Add a 100% resistance to the ^FF0000Silence^000000 status.
-Automatically cast ^008800Level 1 Scream^000000 by chance when struck by Physical attack.
-^FF0000Unrefineable^000000
+A Crown Parrot hat on your head. A chatter parrot that never get tired.
 INT +1
+Add a 100% resistance to the ^FF0000Silence^000000 status.
+Automatically cast Level 1 ^008800Scream^000000 by chance when struck by Physical attack.
+^FF0000Unrefineable^000000
 Class: ^777777Headgear^000000
-Defense: ^7777771^000000
+Defense: ^7777772^000000
 Location: ^777777Upper^000000
 Weight: ^77777720^000000
 Jobs: ^777777All^000000
 #
 5418#
-...
-Adds 3% physical damage to the monster.
-Increases SP Consumption of skills by 10%.
+It's feel like you're on the marching band just by wearing this hat.
 STR +1
+Increase 3% physical damage to the monster.
+Increases SP Consumption of skills by 10%.
 Class: ^777777Headgear^000000
-Defense: ^7777774^000000
+Defense: ^7777778^000000
 Location: ^777777Upper^000000
 Weight: ^77777740^000000
 Jobs: ^777777All^000000
 #
 5419#
 Thin leaves that attached to lips.
-VIT +1. Reduces damage from Plant monster by 5%.
+VIT +1
+Reduces damage from Plant monster by 5%.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Lower^000000
@@ -30073,7 +30068,7 @@ Has a chance of auto-casting Level 3 Meteor Storm when receiving physical attack
 Has a chance of auto-casting Level 3 Fire Bolt Level 3 dealing physical damage.
 ^FF0000Unrefineable^000000
 Class: ^777777Headgear^000000
-Defense: ^7777778^000000
+Defense: ^77777712^000000
 Location: ^777777Upper, Middle, Lower^000000
 Weight: ^7777770^000000
 Required Level: ^77777770^000000
@@ -30103,11 +30098,12 @@ Weight: ^7777777^000000
 Jobs: ^777777All^000000
 #
 5423#
-...
+A heart pounding hat that shows the the love for China.
+DEX +3
 Reduces damage from DemiHuman enemies by 10%.
-DEX +3, Unrefineable.
+^FF0000Unrefineable^000000
 Class: ^777777Headgear^000000
-Defense: ^7777775^000000
+Defense: ^77777710^000000
 Location: ^777777Upper^000000
 Weight: ^77777725^000000
 Jobs: ^777777All^000000
@@ -30116,7 +30112,7 @@ Jobs: ^777777All^000000
 Fanta Orange Can Hat.
 A refreshing orange drink.
 Class: ^777777Headgear^000000
-Defense: ^7777772^000000
+Defense: ^7777773^000000
 Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Jobs: ^777777All^000000
@@ -30125,15 +30121,16 @@ Jobs: ^777777All^000000
 Fanta Grape Can Hat.
 A refreshing grape drink.
 Class: ^777777Headgear^000000
-Defense: ^7777772^000000
+Defense: ^7777773^000000
 Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Jobs: ^777777All^000000
 #
 5426#
+Karada Meguricha Hat.
 LUK +1
 Class: ^777777Headgear^000000
-Defense: ^7777772^000000
+Defense: ^7777773^000000
 Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Jobs: ^777777All^000000
@@ -30141,14 +30138,14 @@ Jobs: ^777777All^000000
 5427#
 AGI +1
 Class: ^777777Headgear^000000
-Defense: ^7777772^000000
+Defense: ^7777773^000000
 Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Jobs: ^777777All^000000
 #
 5428#
-...
-Add a 12% resistance against DemiHuman monster.
+A bread bag specially designed to celebrate RWC.
+Increase 12% resistance against DemiHuman monster.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Upper, Middle, Lower^000000
@@ -30159,17 +30156,20 @@ Jobs: ^777777All^000000
 A hobgoblin's cute hat.
 Increases HP and SP recovery rate by 5%.
 Class: ^777777Headgear^000000
-Defense: ^7777772^000000
+Defense: ^7777774^000000
 Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Jobs: ^777777All^000000
 #
 5430#
-Adds 10% bonus experience for each monster killed.
-Class: ^777777Costume^000000
+A crown with sacred fire on it.
+Increase resistance against Fire property attack by 20%.
+Enable use of Level 5 Fire Ball.
+^FF0000Unrefineable^000000
+Class: ^777777Headgear^000000
+Defense: ^7777776^000000
 Location: ^777777Upper^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
+Weight: ^77777725^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
@@ -30181,12 +30181,13 @@ ASPD +5%
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
-Weight: ^77777710^000000
+Weight: ^777777100^000000
 Required Level: ^77777730^000000
 Jobs: ^777777All^000000
 #
 5432#
 Brazil's National Flag Hat which decorated in front the hat.
+For 24 days after 10 September, All stats +4.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
@@ -30209,7 +30210,7 @@ Jobs: ^777777All^000000
 5434#
 Hat made from Cocacola can.
 Class: ^777777Headgear^000000
-Defense: ^7777772^000000
+Defense: ^7777773^000000
 Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Jobs: ^777777All^000000
@@ -30227,7 +30228,7 @@ Jobs: ^777777All^000000
 #
 5436#
 A neatly made wedding corolla. A huge silk ribbon is attached to the back of it.
-LUK +3. MDEF +2
+LUK +3, MDEF +2
 Class: ^777777Headgear^000000
 Defense: ^7777771^000000
 Equip: ^777777Upper^000000
@@ -30246,7 +30247,8 @@ Jobs: ^777777All^000000
 #
 5438#
 A small Green ribbon emphasizes one's cuteness while wearing this hairband.
-MaxSP +20. Unrefinable.
+MaxSP +20
+^FF0000Unrefineable^000000
 Class: ^777777Headgear^000000
 Defense: ^7777771^000000
 Equip: ^777777Upper^000000
@@ -30255,7 +30257,8 @@ Jobs: ^777777All except Novice^000000
 #
 5439#
 A small Red ribbon emphasizes one's cuteness while wearing this hairband.
-MaxSP +20. Unrefinable.
+MaxSP +20
+^FF0000Unrefineable^000000
 Class: ^777777Headgear^000000
 Defense: ^7777771^000000
 Equip: ^777777Upper^000000
@@ -30264,7 +30267,8 @@ Jobs: ^777777All except Novice^000000
 #
 5440#
 A small Blue ribbon emphasizes one's cuteness while wearing this hairband.
-MaxSP +20. Unrefinable.
+MaxSP +20
+^FF0000Unrefineable^000000
 Class: ^777777Headgear^000000
 Defense: ^7777771^000000
 Equip: ^777777Upper^000000
@@ -30273,7 +30277,8 @@ Jobs: ^777777All except Novice^000000
 #
 5441#
 A small White ribbon emphasizes one's cuteness while wearing this hairband.
-MaxSP +20. Unrefinable.
+MaxSP +20
+^FF0000Unrefineable^000000
 Class: ^777777Headgear^000000
 Defense: ^7777771^000000
 Equip: ^777777Upper^000000
@@ -36458,74 +36463,74 @@ When you fail while upgrading defense weapon whose upgrade level is over +10, it
 Weight: ^7777771^000000
 #
 6328#
-...
-...
+A calender with 'January' word written on it.
+It's the begin of new year.
 ^FFFFFF_^000000
 Weight: ^7777770^000000
 #
 6329#
-...
-...
+A calender with 'February' word written on it.
+It's the month of giving and receiving chocolate.
 ^FFFFFF_^000000
 Weight: ^7777770^000000
 #
 6330#
-...
-...
+A calender with 'March' word written on it.
+It's the beginning of spring.
 ^FFFFFF_^000000
 Weight: ^7777770^000000
 #
 6331#
-...
-...
+A calender with 'April' word written on it.
+There is day when people plant trees for the blue planet.
 ^FFFFFF_^000000
 Weight: ^7777770^000000
 #
 6332#
-...
-...
+A calender with 'May' word written on it.
+There is day when kids and parents are having fun together.
 ^FFFFFF_^000000
 Weight: ^7777770^000000
 #
 6333#
-...
-...
+A calender with 'June' word written on it.
+There is day when people honoring their ancestors.
 ^FFFFFF_^000000
 Weight: ^7777770^000000
 #
 6334#
-...
-...
+A calender with 'July' word written on it.
+The beginning of exiting summer holidays.
 ^FFFFFF_^000000
 Weight: ^7777770^000000
 #
 6335#
-...
-...
+A calender with 'August' word written on it.
+This is the month when RO celebrating their anniversary.
 ^FFFFFF_^000000
 Weight: ^7777770^000000
 #
 6336#
-...
-...
+A calender with 'September' word written on it.
+This is the month when people celebrating crop harvest by watching the moon.
 ^FFFFFF_^000000
 Weight: ^7777770^000000
 #
 6337#
-...
-...
+A calender with 'October' word written on it.
+This is the birth month of great character.
 ^FFFFFF_^000000
 Weight: ^7777770^000000
 #
 6338#
-...
-...
+A calender with 'November' word written on it.
+This is the month when the wishing day celebrated.
 ^FFFFFF_^000000
 Weight: ^7777770^000000
 #
 6339#
-...
-...
+A calender with 'December' word written on it.
+This is the month when kids and adults ca have an exciting day.
 ^FFFFFF_^000000
 Weight: ^7777770^000000
 #
