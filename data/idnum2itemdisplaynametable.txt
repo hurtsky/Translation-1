@@ -9743,11 +9743,11 @@
 18591#Mini_Glasses#
 18592#Nestea_Hat#
 18593#Fancy_Mini_Crown#
-18594#Magni_Cap#
+18594#Magni's_Cap#
 18595#Ancient_Horns#
 18596#Sprout_Hat#
 18597#Mercury_Riser#
-18598#Holy_xmas_Tree#
+18598#Holy_Xmas_Tree#
 18599#Black_Devil's_Mask#
 18600#Cat_Ear_Beret#
 18601#Red_Pom_Band#

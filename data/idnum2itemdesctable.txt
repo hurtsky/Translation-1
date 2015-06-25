@@ -26887,12 +26887,8 @@ Required Level: ^77777770^000000
 Jobs: ^777777All except Novice^000000
 #
 5122#
-Once owned by Magni,
-son of Thor, the wearer
-of this cap is supposedly
-granted a measure of
-Magni's awesome might.
-STR +2.
+Once owned by Magni, son of Thor, the wearer of this cap is supposedly granted a measure of Magni's awesome might.
+STR +2
 ^6A5ACDMagni Set^000000
 ^3CB371Magni's Hat^000000
 ^3CB371Stone Buckler^000000
@@ -26902,7 +26898,6 @@ STR +2.
 +5 DEF
 Swordman Class:
 Additional +6 DEF
-(Total 11 DEF)
 Class: ^777777Headgear^000000
 Defense: ^7777779^000000
 Location: ^777777Upper^000000
@@ -74631,6 +74626,23 @@ Required Level: ^77777730^000000
 Jobs: ^777777All^000000
 #
 18594#
+Once owned by Magni, son of Thor, the wearer of this cap is supposedly granted a measure of Magni's awesome might.
+STR +2
+^6A5ACDMagni Set^000000
+^3CB371Magni's Hat^000000
+^3CB371Stone Buckler^000000
+^3CB371Odin's Blessing^000000
++2 STR
++5 MDEF
++5 DEF
+Swordman Class:
+Additional +6 DEF
+Class: ^777777Headgear^000000
+Defense: ^7777779^000000
+Location: ^777777Upper^000000
+Weight: ^777777100^000000
+Required Level: ^77777765^000000
+Jobs: ^777777All except Novice^000000
 #
 18595#
 If refined to +7 or higher, has a 1% chance of activating +100 attack for 10 seconds.
@@ -74651,6 +74663,7 @@ Required Level: ^77777770^000000
 Jobs: ^777777All^000000
 #
 18597#
+Created for military purpose, this hat boosts your fighting abilities.
 ASPD +3%, CRIT +3
 If refined to +7 or +8, adds an additional ASPD +2% and CRIT +2.
 If refined to +9 or higher, adds an additional ASPD +2% and CRIT +2.
@@ -74662,6 +74675,16 @@ Required Level: ^77777770^000000
 Jobs: ^777777All^000000
 #
 18598#
+A small shining christmas tree on your head.
+MDEF +20
++Holy Santa's Beard, MDEF +3, add small chance to drop Buche De Noel when killing a monster.
+^FF0000Unrefineable^000000
+Class: ^777777Headgear^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777775^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 18599#
 A grotesque headgear which covers a half of a person's face. But don't you worry. The part of eyes are open so you can see well.
@@ -74735,6 +74758,15 @@ Weight: ^77777720^000000
 Jobs: ^777777All^000000
 #
 18606#
+A crystalized tears of Princess Adelaide.
+MATK +3%
+Increase Healing skills by 1%.
+Class: ^777777Headgear^000000
+Defense: ^7777771^000000
+Location: ^777777Middle, Lower^000000
+Weight: ^77777710^000000
+Required Level: ^77777730^000000
+Jobs: ^777777All^000000
 #
 18607#
 Two red dots that can be worn on the face to give a blushing impression.
