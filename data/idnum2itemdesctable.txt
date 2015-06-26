@@ -29099,28 +29099,27 @@ Required Level: ^7777771^000000
 Jobs: ^777777All except Novice^000000
 #
 5328#
+^000088Rental item^000000
 As an ear accessory is made of black wings, feels proud of grace and charisma from devil. Wearer feels like get mystery power through the wing.
 STR +1
 Class: ^777777Headgear^000000
-Defense: ^7777772^000000
+Defense: ^7777774^000000
 Item Position: ^777777Middle^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 5329#
-The mystical Blindfold for those warriors that can see all. Part of the Eastern Costume Set, obtainable from the ^0000CCGoCash East West Costume Box^000000.
-East Costume Set:
-Costume Sakkat
-Costume Dark Blindfold,
-Costume Angry Mouth
-Untradable
-Class: ^777777Costume^000000
+^000088Rental item^000000
+The mystical Blindfold for those warriors that can see all.
+Immune to Stun.
+Increase tolerance against Stun by 5%.
+Class: ^777777Headgear^000000
+Defense: ^7777771^000000
 Location: ^777777Middle^000000
-Defense: ^7777770^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Jobs: ^777777All^000000
+Jobs: ^777777All except Novice^000000
 #
 5330#
 ^000088Rental Items^000000
@@ -29137,10 +29136,11 @@ Required Level: ^7777771^000000
 Jobs: ^777777All except Novice^000000
 #
 5331#
+^000088Rental Items^000000
 A big hat is used to captain of pirate. To honor for captain made as huge so it's look like a pirate ship. But, it's too old.
 VIT +3, INT +3.
 Class: ^777777Headgear^000000
-Defense: ^77777710^000000
+Defense: ^77777714^000000
 Item Position: ^777777Upper^000000
 Weight: ^7777770^000000
 Jobs: ^777777All except Novice^000000
@@ -29158,7 +29158,7 @@ Jobs: ^777777All^000000
 5333#
 A hat designed to transmit electric waves. Sometimes it receives electric waves from external worlds.
 MDEF +2
-Able to use Lightning_Bolt Lv1.
+Enable use of Level 1 Lightning Bolt.
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
 Location: ^777777Upper^000000
@@ -29181,7 +29181,8 @@ Jobs: ^777777All^000000
 5335#
 A Poring hat that feels like hopping on top of your head. It brings fortune to the wearer.
 LUK +1
-Unrefineable and Indestructible.
+^FF0000Unrefineable^000000
+^702180Indestructible^000000
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
 Location: ^777777Upper^000000
@@ -29227,7 +29228,7 @@ Jobs: ^777777All^000000
 5340#
 So hot! A headgear with the figure of Kafra Defolty! Numerous users are using Kafra storage more than 20 times a day, fascinated by her smiling face.
 Decreases 5% damage from Demihuman monsters.
-Autocasts Lv 10 Angelus when physically attacked within short range.
+Autocasts Level 10 Angelus when physically attacked within short range.
 ^FF0000Unrefineable^000000
 Class: ^777777Headgear^000000
 Defense: ^7777771^000000
@@ -29314,9 +29315,7 @@ Weight: ^77777710^000000
 Jobs: ^777777All except Novice^000000
 #
 5348#
-An over-sized red
-ribbon that contains
-hidden magical power.
+An over-sized red ribbon that contains hidden magical power.
 MDEF +3
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
@@ -29325,10 +29324,7 @@ Weight: ^77777720^000000
 Jobs: ^777777All except Novice^000000
 #
 5349#
-A black cap that is
-usually worn by boys
-attending schools that
-require uniforms.
+A black cap that is usually worn by boys attending schools that require uniforms.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
 Location: ^777777Upper^000000
@@ -29336,9 +29332,7 @@ Weight: ^77777710^000000
 Jobs: ^777777All except Novice^000000
 #
 5350#
-A bandana that is the
-mark of the lawless
-pirates of the oceans.
+A bandana that is the mark of the lawless pirates of the oceans.
 STR +1
 Class: ^777777Headgear^000000
 Defense: ^7777774^000000
@@ -29347,11 +29341,8 @@ Weight: ^77777710^000000
 Jobs: ^777777All except Novice^000000
 #
 5351#
-Peculiar headgear
-designed to look like
-a sunflower. Reduces
-damage from Insect
-monsters by 10%.
+Peculiar headgear designed to look like a sunflower.
+Reduces damage from Insect monsters by 10%.
 Class: ^777777Headgear^000000
 Defense: ^7777772^000000
 Location: ^777777Upper^000000
@@ -29361,22 +29352,20 @@ Jobs: ^777777All^000000
 5352#
 It looks like a Poporing, but don't worry about the poison!
 Class: ^777777Headgear^000000
-Defense: ^7777772^000000
+Defense: ^7777774^000000
 Location: ^777777Upper, Middle^000000
 Weight: ^77777770^000000
-Jobs: ^777777All^000000
+Required Level: ^77777738^000000
+Jobs: ^777777All except Novice^000000
 #
 5353#
-A hat that is said to
-have been worn by
-the god of the sun.
-STR +3 , INT +2
+A hat that is said to have been worn by the god of the sun.
+STR +3, INT +2
 Class: ^777777Headgear^000000
 Defense: ^7777774^000000
 Location: ^777777Upper, Middle^000000
 Weight: ^777777240^000000
-Jobs: ^7777772-1 and
-2-2 Classes^000000
+Jobs: ^7777772nd Classes^000000
 #
 5354#
 This is a traditional headgear for male Muslims.
