@@ -3110,7 +3110,7 @@
 5132#Hat#
 5133#Hat#
 5134#Hat#
-5135#Mask#
+5135#Glasses#
 5136#Hat#
 5137#Hat#
 5138#Hat#
@@ -3688,7 +3688,7 @@
 5752#Mask#
 5753#Hat#
 5754#Hairband#
-5755#Mask#
+5755#Mouth_Mask#
 5756#Hairband#
 5757#Helm#
 5758#Hat#
@@ -5756,7 +5756,7 @@
 9071#Grand_Pecopeco_Egg#
 9087#High_Orc_Egg#
 10001#Helm#
-10002#Mask#
+10002#Mouth_Mask#
 10003#Helm#
 10004#Accessory#
 10005#Accessory#
@@ -9709,7 +9709,7 @@
 18557#Glasses#
 18558#Hat#
 18559#Accessory#
-18560#Mask#
+18560#Mouth_Mask#
 18561#Hat#
 18562#Hat#
 18563#Hairband#

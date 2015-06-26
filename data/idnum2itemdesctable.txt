@@ -15374,17 +15374,17 @@ Jobs: ^777777All^000000
 Large, black wings of a fallen dark angel.
 All stats +1
 [^6A5ACDEvery 20 base STR^000000]
-Increase ATK +1%
+Increase ATK +1
 [^6A5ACDEvery 20 base INT^000000]
-Increase MATK +1%
+Increase MATK +1
 [^6A5ACDEvery 20 base VIT^000000]
-Increase Neutral resistance by 1%
+Increase resistance against Neutral property attack by 1%
 [^6A5ACDEvery 20 base AGI^000000]
-Increase ASPD +1%
+Increase ASPD by 1%
 [^6A5ACDEvery 20 base DEX^000000]
-Increase ranged damage by +1%
+Increase ranged damage by 1%
 [^6A5ACDEvery 20 base LUK^000000]
-Increase CRIT +1%
+Increase Critical damage by 1%
 Class: ^777777Garment^000000
 Defense: ^77777718^000000
 Weight: ^77777720^000000
@@ -74238,23 +74238,27 @@ Required Level: ^77777710^000000
 Jobs: ^777777All^000000
 #
 18559#
-영웅 시그르트에게 죽은 파브니르의 가죽으로 만들어진 날개달린 귀. 저주받은 재물에 닿은 부분으로 만들어져, 소유한 자를 괴롭힌다고 한다.
+A leather of Fafnir that made into winged ears that will Curse it's wearer.
 CRIT +3.
-HP가 자동회복하지 않는다.
-파브니르의 마스크와 함께 장비하면 크리티컬 데미지 +5%.
-계열 : ^777777투구^000000 방어 : ^7777773^000000
-위치 : ^777777중단 ^000000무게 : ^77777710^000000
-요구 레벨 : ^77777750^000000
-장착 : ^777777전직업^000000
+Disable natural HP regeneration.
+If equipped with Fafnir Mask, increase critical damage by 5%.
+Class: ^777777Headgear^000000
+Defense: ^7777773^000000
+Location: ^777777Middle^000000
+Weight: ^77777710^000000
+Required Level: ^77777750^000000
+Jobs: ^777777All^000000
 #
 18560#
-영웅 시그르트에게 죽은 파브니르의 가죽으로 만들어진 마스크. 행복을 담당하는 재물에 닿은 부분으로 만들어져 행운이 깃든다고 한다.
+A leather of Fafnir that made into mask that will Curse it's wearer.
 CRIT +2.
-파브니르의 스킨과 함께 장비하면 크리티컬 데미지 +5%.
-계열 : ^777777투구^000000 방어 : ^7777772^000000
-위치 : ^777777하단 ^000000무게 : ^77777730^000000
-요구 레벨 : ^77777750^000000
-장착 : ^777777전직업^000000
+If equipped with Fafnir Skin, increase critical damage by 5%.
+Class: ^777777Headgear^000000
+Defense: ^7777772^000000
+Location: ^777777Lower^000000
+Weight: ^77777730^000000
+Required Level: ^77777750^000000
+Jobs: ^777777All^000000
 #
 18561#
 A noble High quality hat made of luxury black cloth. Wihite feather make it more gorgeous.

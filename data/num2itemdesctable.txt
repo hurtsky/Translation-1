@@ -18066,74 +18066,74 @@ When you fail while upgrading defense weapon whose upgrade level is over +10, it
 Weight: ^7777771^000000
 #
 6328#
-...
-...
+A calender with 'January' word written on it.
+It's the begin of new year.
 ^FFFFFF_^000000
 Weight: ^7777770^000000
 #
 6329#
-...
-...
+A calender with 'February' word written on it.
+It's the month of giving and receiving chocolate.
 ^FFFFFF_^000000
 Weight: ^7777770^000000
 #
 6330#
-...
-...
+A calender with 'March' word written on it.
+It's the beginning of spring.
 ^FFFFFF_^000000
 Weight: ^7777770^000000
 #
 6331#
-...
-...
+A calender with 'April' word written on it.
+There is day when people plant trees for the blue planet.
 ^FFFFFF_^000000
 Weight: ^7777770^000000
 #
 6332#
-...
-...
+A calender with 'May' word written on it.
+There is day when kids and parents are having fun together.
 ^FFFFFF_^000000
 Weight: ^7777770^000000
 #
 6333#
-...
-...
+A calender with 'June' word written on it.
+There is day when people honoring their ancestors.
 ^FFFFFF_^000000
 Weight: ^7777770^000000
 #
 6334#
-...
-...
+A calender with 'July' word written on it.
+The beginning of exiting summer holidays.
 ^FFFFFF_^000000
 Weight: ^7777770^000000
 #
 6335#
-...
-...
+A calender with 'August' word written on it.
+This is the month when RO celebrating their anniversary.
 ^FFFFFF_^000000
 Weight: ^7777770^000000
 #
 6336#
-...
-...
+A calender with 'September' word written on it.
+This is the month when people celebrating crop harvest by watching the moon.
 ^FFFFFF_^000000
 Weight: ^7777770^000000
 #
 6337#
-...
-...
+A calender with 'October' word written on it.
+This is the birth month of great character.
 ^FFFFFF_^000000
 Weight: ^7777770^000000
 #
 6338#
-...
-...
+A calender with 'November' word written on it.
+This is the month when the wishing day celebrated.
 ^FFFFFF_^000000
 Weight: ^7777770^000000
 #
 6339#
-...
-...
+A calender with 'December' word written on it.
+This is the month when kids and adults ca have an exciting day.
 ^FFFFFF_^000000
 Weight: ^7777770^000000
 #
