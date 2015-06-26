@@ -207,8 +207,8 @@ Steal has failed.#
 Trade#
 Envenom skill has failed.#
 You cannot use this ID on this server.#
-Your Speed has increased.#
-Your Speed has decreased.#
+Speed has increased.#
+Speed has decreased.#
 /memo: To memorize a place as Warp Point (If you are an Acolyte Class character)#
 Random Area#
 Select an Area to Warp#
@@ -1273,7 +1273,7 @@ IP Bonus: EXP/JEXP %d%%, Death Penalty %d%%, Item Drop %d%%#
 Symbols in Character Names are forbidden.#
 Mercenary will follow custom AI.#
 Mercenary will follow basic AI.#
- %s's#
+ %s's #
 %s has acquired %s.#
 Public Chat Display#
 Whisper Display#
@@ -1622,8 +1622,8 @@ Experience Message Display#
 Party Experience Message Display#
 Quest Info Message Display#
 Battlefield Message Display#
-Cast to [%s] #
-by using [%s] skill.#
+#
+Casted [%s] skill.#
 Activate lock function#
 Deactivate lock function#
 [%s] opened [%s] and awarded with '%s'!!#
