@@ -32238,6 +32238,157 @@ tbl = {
 		slotCount = 1,
 		ClassNum = 0
 	},
+	[2755] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "링",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Clamorous Ring",
+		identifiedResourceName = "태국반지",
+		identifiedDescriptionName = {
+			"^000088Rental Items^000000",
+			"A ring that has special power in each shape.",
+			"Increases 15% experience gained from killing Brute monsters.",
+			"Class: ^777777Accessory^000000",
+			"Defense: ^7777770^000000",
+			"Weight: ^7777770^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[2758] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "링",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Fisher Ring",
+		identifiedResourceName = "태국반지",
+		identifiedDescriptionName = {
+			"^000088Rental Items^000000",
+			"A ring that has special power in each shape.",
+			"Increases 15% experience gained from killing Fish monsters.",
+			"Class: ^777777Accessory^000000",
+			"Defense: ^7777770^000000",
+			"Weight: ^7777770^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[2759] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "링",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Decussate Ring",
+		identifiedResourceName = "태국반지",
+		identifiedDescriptionName = {
+			"^000088Rental Items^000000",
+			"A ring that has special power in each shape.",
+			"Increases 15% experience gained from killing Demon monsters.",
+			"Class: ^777777Accessory^000000",
+			"Defense: ^7777770^000000",
+			"Weight: ^7777770^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[2760] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "링",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Bloody Ring",
+		identifiedResourceName = "태국반지",
+		identifiedDescriptionName = {
+			"^000088Rental Items^000000",
+			"A ring that has special power in each shape.",
+			"Increases 15% experience gained from killing Demihuman monsters.",
+			"Class: ^777777Accessory^000000",
+			"Defense: ^7777770^000000",
+			"Weight: ^7777770^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[2761] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "링",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Satanic Ring",
+		identifiedResourceName = "태국반지",
+		identifiedDescriptionName = {
+			"^000088Rental Items^000000",
+			"A ring that has special power in each shape.",
+			"Increases 15% experience gained from killing Angel monsters.",
+			"Class: ^777777Accessory^000000",
+			"Defense: ^7777770^000000",
+			"Weight: ^7777770^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[2762] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "링",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Dragon Ring",
+		identifiedResourceName = "태국반지",
+		identifiedDescriptionName = {
+			"^000088Rental Items^000000",
+			"A ring that has special power in each shape.",
+			"Increases 15% experience gained from killing Dragon monsters.",
+			"Class: ^777777Accessory^000000",
+			"Defense: ^7777770^000000",
+			"Weight: ^7777770^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[2763] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "링",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Neo Skull Ring",
+		identifiedResourceName = "해골반지",
+		identifiedDescriptionName = {
+			"^000088Rental Items^000000",
+			"A weird ring adorned with a skull in which the words, \"^990000Forever, until death...^000000\" are engraved.",
+			"MaxHP +5%",
+			"ATK +5%",
+			"MATK +5%",
+			"Increases heal effectiveness by 5%.",
+			"Enables use of ^008800Level 1 Sight^000000.",
+			"Class: ^777777Accessory^000000",
+			"Defense: ^7777770^000000",
+			"Weight: ^7777770^000000",
+			"Required Level: ^77777795^000000",
+			"Jobs: ^777777All except Novice^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},		
 	[2764] = {
 		unidentifiedDisplayName = "Accesory",
 		unidentifiedResourceName = "로프",
@@ -32685,6 +32836,57 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
+	[2785] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "링",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Orlean's Gloves",
+		identifiedResourceName = "오를레앙의장갑",
+		identifiedDescriptionName = {
+			"A pair of gloves that was once used by a palace chef. It feels like you can immitate the chef's way of using hand with this glove equipped on.",
+			"DEX +2",
+			"MATK +3%",
+			"[+^008800Orlean's Server^000000]",
+			"Reduce variable cast time by 10%.",
+			"Class: ^777777Accessory^000000",
+			"Defense: ^7777770^000000",
+			"Weight: ^77777710^000000",
+			"Required Level: ^77777790^000000",
+			"Jobs: ^777777Every Rebirth Job except High Novice^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0
+	},
+	[2786] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "링",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Spiritual Ring",
+		identifiedResourceName = "스피리츄얼링",
+		identifiedDescriptionName = {
+			"A beautiful ring which contains the spirits of the deceased.",
+			"It is said to be able to amplify magic if it comes in contact with spiritual power.",
+			"DEX +1, INT +2",
+			"[+^000088 Wizardry Staff or Soul Staff^000000]",
+			"MATK +6%, DEX +2",
+			"Reduce Casting Time by Wizardry Staff or Soul Staff Refine Rate.",
+			"[+^000088 Clip or Rosary^000000]",
+			"Inflict 50% more damage against Undead monster with Heal.",
+			"Inflict 30% more damage with ^008800Magnus Exorcismus^000000.",
+			"SP Recovery +9%",
+			"[^000088Divine Cross & Spiritual Ring Equip Set^000000]",
+			"Class: ^777777Accessory^000000",
+			"Defense: ^7777770^000000",
+			"Weight: ^77777710^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},	
 	[2787] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
@@ -32768,287 +32970,91 @@ tbl = {
 		slotCount = 1,
 		ClassNum = 0
 	},
-	[2825] = {
+	[2791] = {
 		unidentifiedDisplayName = "Accessory",
-		unidentifiedResourceName = "샤먼이어링",
+		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
 		},
-		identifiedDisplayName = "Shaman Earrings",
-		identifiedResourceName = "샤먼이어링",
+		identifiedDisplayName = "Fresh Fish",
+		identifiedResourceName = "등푸른생선",
 		identifiedDescriptionName = {
-			"INT +2.",
-			"^FF0000Shaman Set^000000",
-			"^0000FFShaman Ring^000000",
-			"^0000FFShaman's Hair Ornament^000000",
-			"^0000FFShaman Earring^000000.",
-			"MHP +300,",
-			"Increase tolerance to Neutral property by 5%,",
-			"Skill casting cannot be interrupted by damage from enemies but increases cast-time by 15%.",
+			"A fresh fish, he's still moving!",
+			"HIT +3",
+			"Class: ^777777Accessory^000000",
+			"Defense: ^7777770^000000",
+			"Weight: ^7777770^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0
+	},
+	[2792] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "링",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Ring of Flame Lord",
+		identifiedResourceName = "링오브플레임로드",
+		identifiedDescriptionName = {
+			"The power of a fire spirit king resides in this ring. The power of the spirit flows through you when you equip this ring.",
+			"It can be paired with the Ring of Resonance.",
+			"STR +2, VIT +1, ATK +15.",
+			"Increases resistance to ^FF0000Fire^000000 Property by 10%.",
+			"Has low chance of auto casting ^008800All kind of Skills^000000 when attacking.",
+			"[^000088+ Ring of Resonance^000000]",
+			"The chance of auto casting increases.",
+			"Class: ^777777Accessory^000000",
+			"Defense: ^7777770^000000",
+			"Weight: ^7777770^000000",
+			"Jobs: ^777777Rebirth 2nd Class or above^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[2793] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "링",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Ring of Resonance",
+		identifiedResourceName = "링오브레조넌스",
+		identifiedDescriptionName = {
+			"The pair to the Ring of Flame Lord. The two rings resonate togeather, and its said that their abilities are strengthened.",
+			"AGI +2, VIT +1, MDEF +2.",
+			"Add a ?% chance of auto casting ^008800All kind of Skills^000000 when attacking.",
+			"[^000088Ring of Flame Lord & Ring of Resonance Equip Set^000000]",
+			"Class: ^777777Accessory^000000",
+			"Defense: ^7777772^000000",
+			"Weight: ^7777770^000000",
+			"Jobs: ^777777Rebirth 2nd Class or above^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[2799] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "링",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Ring of Protection",
+		identifiedResourceName = "쿠이르펜링",
+		identifiedDescriptionName = {
+			"Developed by scientist after years of research.",
+			"It contain the magic power from Guardian Wing of Valkyrie.",
+			"MaxHP +150, MaxSP +30",
+			"When casting level 10 Blessing, there is chance to activate level 5 Call Spirit",
+			"When attacked by physical attack, there is chance to activate lv 10 Endure and lv 10 angelus",
 			"Class: ^777777Accessory^000000",
 			"Defense: ^7777770^000000",
 			"Weight: ^77777710^000000",
-			"Required Level: ^77777730^000000",
-			"Jobs: ^777777All^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[2826] = {
-		unidentifiedDisplayName = "Accessory",
-		unidentifiedResourceName = "다크나이트벨트",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Dark Knight Belt",
-		identifiedResourceName = "다크나이트벨트",
-		identifiedDescriptionName = {
-			"A belt once worn by a Knight shrouded in darkness that gives dexterity to those who wear it.",
-			"DEX +2, AGI +1",
-			"^99FF66Dark Knight Set^000000",
-			"^99FF66Dark Knight Mask^000000",
-			"^99FF66Dark Knight Belt^000000",
-			"^99FF66Dark Knight Glove^000000",
-			"Matk +15%, INT +5,",
-			"10% of the damage is decreased when attacked by angel-type monsters.",
-			"Class: ^777777Accessory^000000",
-			"Defense: ^7777771^000000",
-			"Weight: ^77777750^000000",
-			"Required Level: ^77777780^000000",
-			"Jobs: ^777777All^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[2827] = {
-		unidentifiedDisplayName = "Accessory",
-		unidentifiedResourceName = "다크나이트글로브",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Dark Knight Glove",
-		identifiedResourceName = "다크나이트글로브",
-		identifiedDescriptionName = {
-			"A glove worn by a cursed Dark Knight.",
-			"When attacked, has a chance of increasing MaxHP by 10% for 10 seconds.",
-			"^99FF66Dark Knight Set^000000",
-			"^99FF66Dark Knight Mask^000000",
-			"^99FF66Dark Knight Belt^000000",
-			"^99FF66Dark Knight Glove^000000",
-			"Matk +15%, INT +5,",
-			"10% of the damage is decreased when attacked by angel-type monsters.",
-			"Class: ^777777Accessory^000000",
-			"Defense: ^7777771^000000",
-			"Weight: ^77777750^000000",
-			"Required Level: ^77777780^000000",
-			"Jobs: ^777777All^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[2834] = {
-		unidentifiedDisplayName = "All In One Ring",
-		unidentifiedResourceName = "링오브레조넌스",
-		unidentifiedDescriptionName = {
-			"^000088Rental Item^000000",
-			"A Jewelry Ring that contains a 3 Seal Magic Spell.",
-			"Enables use of Level 1 Heal and Level 1 Teleport. Casting cannot be interrupted.",
-			"All Stats +1. Increases casting time by 10%.",
-			"Weapon Class : ^777777Accessory^000000",
-			"Defense: ^7777770^000000      Weight : ^7777770^000000",
-			"Jobs: ^777777All^000000",
-		},
-		identifiedDisplayName = "All In One Ring",
-		identifiedResourceName = "링오브레조넌스",
-		identifiedDescriptionName = {
-			"^000088Rental Item^000000",
-			"A Jewelry Ring",
-			"that contains a",
-			"3 Seal Magic Spell.",
-			"Enables use of Level 1 Heal ",
-			"and Level 1 Teleport.",
-			"Casting cannot be interrupted.",
-			"All Stats +1.",
-			"Increases casting time by 10%.",
-			"This item cannot be Dropped or Traded.",
-			"Class: ^777777Accessory^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^7777770^000000",
 			"Required Level: ^7777771^000000",
 			"Jobs: ^777777All^000000",
 		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[2835] = {
-		unidentifiedDisplayName = "Critical Ring",
-		unidentifiedResourceName = "크리티컬링",
-		unidentifiedDescriptionName = {
-			"^000088Rental Item^000000",
-			"An esoteric ring that enables its wearer to amplify his hidden powers.",
-			"Critical +10%",
-			"Weapon Class : ^777777Accessory^000000",
-			"Defense: ^7777770^000000      Weight : ^7777770^000000",
-			"Required Level: ^7777771^000000",
-			"Jobs: ^777777Except Novice^000000",
-		},
-		identifiedDisplayName = "Critical Ring",
-		identifiedResourceName = "크리티컬링",
-		identifiedDescriptionName = {
-			"^000088Rental Item^000000",
-			"An esoteric ring that",
-			"enables its wearer to^FFFFFF     ^000000 amplify his hidden powers.",
-			"Critical +10%",
-			"This item cannot be Dropped or Traded.",
-			"Class: ^777777Accessory^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^7777770^000000",
-			"Required Level: ^7777771^000000",
-			"Jobs: ^777777All Except Novice^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[2836] = {
-		unidentifiedDisplayName = "Glove",
-		unidentifiedResourceName = "글러브",
-		unidentifiedDescriptionName = {
-			"^000088Rental Item^000000",
-			"An ancient glove.",
-			"DEX +4",
-			"Weapon Class : ^777777Accessory^000000",
-			"Defense: ^7777770^000000      Weight : ^7777770^000000",
-			"Required Level: ^7777771^000000",
-			"Jobs: ^777777Except Novice^000000",
-		},
-		identifiedDisplayName = "Rental Glove",
-		identifiedResourceName = "글러브",
-		identifiedDescriptionName = {
-			"^000088Rental Item^000000",
-			"An ancient glove.",
-			"DEX +4",
-			"This item cannot be Dropped or Traded.",
-			"Class: ^777777Accessory^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^7777770^000000",
-			"Required Level: ^7777771^000000",
-			"Jobs: ^777777All Except Novice^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[2837] = {
-		unidentifiedDisplayName = "Safety Ring",
-		unidentifiedResourceName = "세이프티링",
-		unidentifiedDescriptionName = {
-			"^000088Rental Item^000000",
-			"A strange ring that curiously raises its wearer's defenses.",
-			"DEF + 5 , MDEF +5",
-			"Weapon Class : ^777777Accessory^000000",
-			"Defense: ^7777770^000000      Weight : ^7777770^000000",
-			"Required Level: ^7777771^000000",
-			"Jobs: ^777777Except Novice^000000",
-		},
-		identifiedDisplayName = "Safety Ring",
-		identifiedResourceName = "세이프티링",
-		identifiedDescriptionName = {
-			"^000088Rental Item^000000",
-			"A strange ring that",
-			"curiously raises its",
-			"wearer's defenses.",
-			"DEF +5 , MDEF +5",
-			"This item cannot be Dropped or Traded.",
-			"Class: ^777777Accessory^000000",
-			"Defense: ^7777775^000000",
-			"Weight: ^7777770^000000",
-			"Required Level: ^7777771^000000",
-			"Jobs: ^777777All Except Novice^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[2838] = {
-		unidentifiedDisplayName = "Necklace",
-		unidentifiedResourceName = "네클리스",
-		unidentifiedDescriptionName = {
-			"^000088Rental Item^000000",
-			"An ancient necklace.",
-			"VIT +4",
-			"Weapon Class : ^777777Accessory^000000",
-			"Defense: ^7777770^000000      Weight : ^7777770^000000",
-			"Required Level: ^7777771^000000",
-			"Jobs: ^777777Except Novice^000000",
-		},
-		identifiedDisplayName = "Necklace",
-		identifiedResourceName = "네클리스",
-		identifiedDescriptionName = {
-			"^000088Rental Item^000000",
-			"An ancient necklace.",
-			"Vit +4",
-			"This item cannot be Dropped or Traded.",
-			"Class: ^777777Accessory^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^7777770^000000",
-			"Required Level: ^7777771^000000",
-			"Jobs: ^777777All Except Novice^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[2839] = {
-		unidentifiedDisplayName = "Ring",
-		unidentifiedResourceName = "링",
-		unidentifiedDescriptionName = {
-			"^000088Rental Item^000000",
-			"An ancient ring.",
-			"STR +4",
-			"Weapon Class : ^777777Accessory^000000",
-			"Defense: ^7777770^000000      Weight : ^7777770^000000",
-			"Required Level: ^7777771^000000",
-			"Jobs: ^777777Except Novice^000000",
-		},
-		identifiedDisplayName = "Ring",
-		identifiedResourceName = "링",
-		identifiedDescriptionName = {
-			"^000088Rental Item^000000",
-			"An ancient ring.",
-			"STR +4",
-			"This item cannot be Dropped or Traded.",
-			"Class: ^777777Accessory^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^7777770^000000",
-			"Required Level: ^7777771^000000",
-			"Jobs: ^777777All Except Novice^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[2840] = {
-		unidentifiedDisplayName = "Rosary",
-		unidentifiedResourceName = "로자리",
-		unidentifiedDescriptionName = {
-			"^000088Rental Item^000000",
-			"An ancient rosary.",
-			"LUK +4, MDEF +5",
-			"Weapon Class : ^777777Accessory^000000",
-			"Defense: ^7777770^000000      Weight : ^7777770^000000",
-			"Required Level: ^7777771^000000",
-			"Jobs: ^777777Except Novice^000000",
-		},
-		identifiedDisplayName = "Rosary",
-		identifiedResourceName = "로자리",
-		identifiedDescriptionName = {
-			"^000088Rental Item^000000",
-			"An ancient rosary.",
-			"LUK +4, MDEF +5",
-			"This item cannot be Dropped or Traded.",
-			"Class: ^777777Accessory^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^7777770^000000",
-			"Required Level: ^7777771^000000",
-			"Jobs: ^777777All Except Novice^000000",
-		},
-		slotCount = 0,
+		slotCount = 1,
 		ClassNum = 0
 	},
 	[4001] = {
@@ -45240,32 +45246,6 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
-
-	[4446] = {
-		unidentifiedDisplayName = "Enhanced Skeleton Card",
-		unidentifiedResourceName = "이름없는카드",
-		unidentifiedDescriptionName = {
-			"ATK +15",
-			"Every attack has 2% chance to stun enemy.",
-			"When base level 100 or higher, increase stun chance by 1%",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Weapon^000000",
-			"Weight: ^7777771^000000"
-		},
-		identifiedDisplayName = "Enhanced Skeleton Card",
-		identifiedResourceName = "이름없는카드",
-		identifiedDescriptionName = {
-			"ATK +15",
-			"Every attack has 2% chance to stun enemy.",
-			"When base level 100 or higher, increase stun chance by 1%",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Weapon^000000",
-			"Weight: ^7777771^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-
 	[4447] = {
 		unidentifiedDisplayName = "Centipede Card",
 		unidentifiedResourceName = "이름없는카드",
@@ -45288,7 +45268,6 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
-
 	[4448] = {
 		unidentifiedDisplayName = "Cornus Card",
 		unidentifiedResourceName = "이름없는카드",
@@ -45311,7 +45290,6 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
-
 	[4449] = {
 		unidentifiedDisplayName = "Dark Shadow Card",
 		unidentifiedResourceName = "이름없는카드",
@@ -45334,7 +45312,6 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
-
 	[4450] = {
 		unidentifiedDisplayName = "Banshee Master Card",
 		unidentifiedResourceName = "이름없는카드",
@@ -45357,7 +45334,6 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
-
 	[4451] = {
 		unidentifiedDisplayName = "Entweihen Crothen Card",
 		unidentifiedResourceName = "이름없는카드",
@@ -45378,7 +45354,6 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
-
 	[4452] = {
 		unidentifiedDisplayName = "Centipede Larva Card",
 		unidentifiedResourceName = "이름없는카드",
@@ -45401,7 +45376,6 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
-
 	[4453] = {
 		unidentifiedDisplayName = "Hilsrion Card",
 		unidentifiedResourceName = "이름없는카드",
@@ -45422,555 +45396,6 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
-
-	[4454] = {
-		unidentifiedDisplayName = "Fake Valkyrie Card",
-		unidentifiedResourceName = "이름없는카드",
-		unidentifiedDescriptionName = {
-			"No effect.",
-			"\"This card is nothing more then a piece of paper that gives you no advantages. - Valkyrie,\" it says.",
-			"Collectible card that traders may buy.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Weapon^000000",
-			"Weight: ^7777771^000000"
-		},
-		identifiedDisplayName = "No name card",
-		identifiedResourceName = "이름없는카드",
-		identifiedDescriptionName = {
-			"No effect.",
-			"\"This card is nothing more then a piece of paper that gives you no advantages. - Valkyrie,\" it says.",
-			"Collectible card that traders may buy.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Weapon^000000",
-			"Weight: ^7777771^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-
-	[4455] = {
-		unidentifiedDisplayName = "Fake Valkyrie Card",
-		unidentifiedResourceName = "이름없는카드",
-		unidentifiedDescriptionName = {
-			"No effect.",
-			"\"This card is nothing more then a piece of paper that gives you no advantages. - Valkyrie,\" it says.",
-			"Collectible card that traders may buy.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Weapon^000000",
-			"Weight: ^7777771^000000"
-		},
-		identifiedDisplayName = "No name card",
-		identifiedResourceName = "이름없는카드",
-		identifiedDescriptionName = {
-			"No effect.",
-			"\"This card is nothing more then a piece of paper that gives you no advantages. - Valkyrie,\" it says.",
-			"Collectible card that traders may buy.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Weapon^000000",
-			"Weight: ^7777771^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-
-	[4456] = {
-		unidentifiedDisplayName = "Nidhoggur Shadow Card",
-		unidentifiedResourceName = "이름없는카드",
-		unidentifiedDescriptionName = {
-			"INT +5",
-			"[^6A5ACDHigh Wizard or Warlock^000000]",
-			"Reduce fixed cast time of all skills by 50%.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Armor^000000",
-			"Weight: ^7777771^000000"
-		},
-		identifiedDisplayName = "Nidhoggur Shadow Card",
-		identifiedResourceName = "이름없는카드",
-		identifiedDescriptionName = {
-			"INT +5",
-			"[^6A5ACDHigh Wizard or Warlock^000000]",
-			"Reduce fixed cast time of all skills by 50%.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Armor^000000",
-			"Weight: ^7777771^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-
-	[4457] = {
-		unidentifiedDisplayName = "Naght Seiger Card",
-		unidentifiedResourceName = "이름없는카드",
-		unidentifiedDescriptionName = {
-			"Increases damage of all ghost element magic attacks by 30%.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Armor^000000",
-			"Weight: ^7777771^000000"
-		},
-		identifiedDisplayName = "Naght Seiger Card",
-		identifiedResourceName = "이름없는카드",
-		identifiedDescriptionName = {
-			"Increases damage of all ghost element magic attacks by 30%.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Armor^000000",
-			"Weight: ^7777771^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-
-	[4458] = {
-		unidentifiedDisplayName = "Duneyrr Card",
-		unidentifiedResourceName = "이름없는카드",
-		unidentifiedDescriptionName = {
-			"ATK +10",
-			"When dealing physical damage, there's a chance that for 4 seconds your perfect dodge will increase by 10.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Headgear^000000",
-			"Weight: ^7777771^000000"
-		},
-		identifiedDisplayName = "Duneyrr Card",
-		identifiedResourceName = "이름없는카드",
-		identifiedDescriptionName = {
-			"ATK +10",
-			"When dealing physical damage, there's a chance that for 4 seconds your perfect dodge will increase by 10.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Headgear^000000",
-			"Weight: ^7777771^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-
-	[4459] = {
-		unidentifiedDisplayName = "Rata Card",
-		unidentifiedResourceName = "이름없는카드",
-		unidentifiedDescriptionName = {
-			"MATK +10",
-			"When dealing magic damage, there's a chance that for 4 seconds your fixed cast time will be reduced by 50%.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Headgear^000000",
-			"Weight: ^7777771^000000"
-		},
-		identifiedDisplayName = "Rata Card",
-		identifiedResourceName = "이름없는카드",
-		identifiedDescriptionName = {
-			"MATK +10",
-			"When dealing magic damage, there's a chance that for 4 seconds your fixed cast time will be reduced by 50%.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Headgear^000000",
-			"Weight: ^7777771^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-
-	[4460] = {
-		unidentifiedDisplayName = "Rhyncho Card",
-		unidentifiedResourceName = "이름없는카드",
-		unidentifiedDescriptionName = {
-			"Increase healing skills effectiveness by 3%.",
-			"Increases SP cost of Heal skill by 5%.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Headgear^000000",
-			"Weight: ^7777771^000000"
-		},
-		identifiedDisplayName = "Rhyncho Card",
-		identifiedResourceName = "이름없는카드",
-		identifiedDescriptionName = {
-			"Increase healing skills effectiveness by 3%.",
-			"Increases SP cost of Heal skill by 5%.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Headgear^000000",
-			"Weight: ^7777771^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-
-	[4461] = {
-		unidentifiedDisplayName = "Phylla Card",
-		unidentifiedResourceName = "이름없는카드",
-		unidentifiedDescriptionName = {
-			"DEX +1",
-			"AGI +1",
-			"When dealing physical damage, there's a chance that for 4 seconds you will recieve CRIT +20.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Headgear^000000",
-			"Weight: ^7777771^000000"
-		},
-		identifiedDisplayName = "Phylla Card",
-		identifiedResourceName = "이름없는카드",
-		identifiedDescriptionName = {
-			"DEX +1",
-			"AGI +1",
-			"When dealing physical damage, there's a chance that for 4 seconds you will recieve CRIT +20.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Headgear^000000",
-			"Weight: ^7777771^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-
-	[4462] = {
-		unidentifiedDisplayName = "Hardrock Mammoth Card",
-		unidentifiedResourceName = "이름없는카드",
-		unidentifiedDescriptionName = {
-			"DEF +5",
-			"If compounded armor is refined to +12 or higher, DEF +20, MaxHP +10%.",
-			"If compounded armor is refined to +14 or higher, MaxHP +3%.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Armor^000000",
-			"Weight: ^7777771^000000"
-		},
-		identifiedDisplayName = "Hardrock Mammoth Card",
-		identifiedResourceName = "이름없는카드",
-		identifiedDescriptionName = {
-			"DEF +5",
-			"If compounded armor is refined to +12 or higher, DEF +20, MaxHP +10%.",
-			"If compounded armor is refined to +14 or higher, MaxHP +3%.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Armor^000000",
-			"Weight: ^7777771^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-
-	[4463] = {
-		unidentifiedDisplayName = "Tendrillion Card",
-		unidentifiedResourceName = "이름없는카드",
-		unidentifiedDescriptionName = {
-			"CRIT +5",
-			"If compounded weapon is refined to +12 or higher, ATK +35.",
-			"If compounded weapon is refined to +14 or higher, CRIT +10.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Weapon^000000",
-			"Weight: ^7777771^000000"
-		},
-		identifiedDisplayName = "Tendrillion Card",
-		identifiedResourceName = "이름없는카드",
-		identifiedDescriptionName = {
-			"CRIT +5",
-			"If compounded weapon is refined to +12 or higher, ATK +35.",
-			"If compounded weapon is refined to +14 or higher, CRIT +10.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Weapon^000000",
-			"Weight: ^7777771^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-
-	[4464] = {
-		unidentifiedDisplayName = "Aunoe Card",
-		unidentifiedResourceName = "이름없는카드",
-		unidentifiedDescriptionName = {
-			"Critical attack damage +20%.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Weapon^000000",
-			"Weight: ^7777771^000000"
-		},
-		identifiedDisplayName = "Aunoe Card",
-		identifiedResourceName = "이름없는카드",
-		identifiedDescriptionName = {
-			"Critical attack damage +20%.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Weapon^000000",
-			"Weight: ^7777771^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-
-	[4465] = {
-		unidentifiedDisplayName = "Fanat Card",
-		unidentifiedResourceName = "이름없는카드",
-		unidentifiedDescriptionName = {
-			"ATK +10",
-			"If compounded on a two-hand sword, at +10 refine or higher grants ASPD +1",
-			"at +14 refine or higher grants an additional ASPD +1.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Weapon^000000",
-			"Weight: ^7777771^000000"
-		},
-		identifiedDisplayName = "Fanat Card",
-		identifiedResourceName = "이름없는카드",
-		identifiedDescriptionName = {
-			"ATK +10",
-			"If compounded on a two-hand sword, at +10 refine or higher grants ASPD +1",
-			"at +14 refine or higher grants an additional ASPD +1.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Weapon^000000",
-			"Weight: ^7777771^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-
-	[4466] = {
-		unidentifiedDisplayName = "Beholder Master Card",
-		unidentifiedResourceName = "이름없는카드",
-		unidentifiedDescriptionName = {
-			"Ranged attack damage +3%.",
-			"If compounded on a bow, at +10 refine or higher crants ASPD +1,",
-			"at +14 refine or higher grants an additional ASPD +1.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Weapon^000000",
-			"Weight: ^7777771^000000"
-		},
-		identifiedDisplayName = "Beholder Master Card",
-		identifiedResourceName = "이름없는카드",
-		identifiedDescriptionName = {
-			"Ranged attack damage +3%.",
-			"If compounded on a bow, at +10 refine or higher crants ASPD +1,",
-			"at +14 refine or higher grants an additional ASPD +1.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Weapon^000000",
-			"Weight: ^7777771^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-
-	[4467] = {
-		unidentifiedDisplayName = "Heavy Metaling Card",
-		unidentifiedResourceName = "이름없는카드",
-		unidentifiedDescriptionName = {
-			"STR +2",
-			"[^6A5ACDMerchant class^000000]",
-			"Increases Cart Revolution damage by 50%, but increases its SP cost by 12.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Footgear^000000",
-			"Weight: ^7777771^000000"
-		},
-		identifiedDisplayName = "Heavy Metaling Card",
-		identifiedResourceName = "이름없는카드",
-		identifiedDescriptionName = {
-			"STR +2",
-			"[^6A5ACDMerchant class^000000]",
-			"Increases Cart Revolution damage by 50%, but increases its SP cost by 12.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Footgear^000000",
-			"Weight: ^7777771^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-
-	[4468] = {
-		unidentifiedDisplayName = "Dark Pinguicula Card",
-		unidentifiedResourceName = "이름없는카드",
-		unidentifiedDescriptionName = {
-			"ATK +10",
-			"When killing a monster, adds a chance to have a poisonous herb drop.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Headgear^000000",
-			"Weight: ^7777771^000000"
-		},
-		identifiedDisplayName = "Dark Pinguicula Card",
-		identifiedResourceName = "이름없는카드",
-		identifiedDescriptionName = {
-			"ATK +10",
-			"When killing a monster, adds a chance to have a poisonous herb drop.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Headgear^000000",
-			"Weight: ^7777771^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-
-	[4469] = {
-		unidentifiedDisplayName = "Naga Card",
-		unidentifiedResourceName = "이름없는카드",
-		unidentifiedDescriptionName = {
-			"Increases magic damage on Fish type monsters by 10%.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Weapon^000000",
-			"Weight: ^7777771^000000"
-		},
-		identifiedDisplayName = "Naga Card",
-		identifiedResourceName = "이름없는카드",
-		identifiedDescriptionName = {
-			"Increases magic damage on Fish type monsters by 10%.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Weapon^000000",
-			"Weight: ^7777771^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-
-	[4470] = {
-		unidentifiedDisplayName = "Nepenthes Card",
-		unidentifiedResourceName = "이름없는카드",
-		unidentifiedDescriptionName = {
-			"Increases magic damage on Plant type monsters by 10%.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Weapon^000000",
-			"Weight: ^7777771^000000"
-		},
-		identifiedDisplayName = "Nepenthes Card",
-		identifiedResourceName = "이름없는카드",
-		identifiedDescriptionName = {
-			"Increases magic damage on Plant type monsters by 10%.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Weapon^000000",
-			"Weight: ^7777771^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-
-	[4471] = {
-		unidentifiedDisplayName = "Draco Egg Card",
-		unidentifiedResourceName = "이름없는카드",
-		unidentifiedDescriptionName = {
-			"Increases magic damage on Dragon type monsters by 10%.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Weapon^000000",
-			"Weight: ^7777771^000000"
-		},
-		identifiedDisplayName = "Draco Egg Card",
-		identifiedResourceName = "이름없는카드",
-		identifiedDescriptionName = {
-			"Increases magic damage on Dragon type monsters by 10%.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Weapon^000000",
-			"Weight: ^7777771^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-
-	[4472] = {
-		unidentifiedDisplayName = "Bradium Golem Card",
-		unidentifiedResourceName = "이름없는카드",
-		unidentifiedDescriptionName = {
-			"Increases magic damage on Brute type monsters by 10%.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Weapon^000000",
-			"Weight: ^7777771^000000"
-		},
-		identifiedDisplayName = "Bradium Golem Card",
-		identifiedResourceName = "이름없는카드",
-		identifiedDescriptionName = {
-			"Increases magic damage on Brute type monsters by 10%.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Weapon^000000",
-			"Weight: ^7777771^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-
-	[4473] = {
-		unidentifiedDisplayName = "Ancient Tree Card",
-		unidentifiedResourceName = "이름없는카드",
-		unidentifiedDescriptionName = {
-			"Increases magic damage on Undead type monsters by 10%.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Weapon^000000",
-			"Weight: ^7777771^000000"
-		},
-		identifiedDisplayName = "Ancient Tree Card",
-		identifiedResourceName = "이름없는카드",
-		identifiedDescriptionName = {
-			"Increases magic damage on Undead type monsters by 10%.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Weapon^000000",
-			"Weight: ^7777771^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-
-	[4474] = {
-		unidentifiedDisplayName = "Zakudam Card",
-		unidentifiedResourceName = "이름없는카드",
-		unidentifiedDescriptionName = {
-			"Increases magic damage on DemiHuman type monsters by 10%.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Weapon^000000",
-			"Weight: ^7777771^000000"
-		},
-		identifiedDisplayName = "Zakudam Card",
-		identifiedResourceName = "이름없는카드",
-		identifiedDescriptionName = {
-			"Increases magic damage on DemiHuman type monsters by 10%.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Weapon^000000",
-			"Weight: ^7777771^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-
-	[4475] = {
-		unidentifiedDisplayName = "Cobalt Mineral Card",
-		unidentifiedResourceName = "이름없는카드",
-		unidentifiedDescriptionName = {
-			"Increases magic damage on Formless type monsters by 10%.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Weapon^000000",
-			"Weight: ^7777771^000000"
-		},
-		identifiedDisplayName = "Cobalt Mineral Card",
-		identifiedResourceName = "이름없는카드",
-		identifiedDescriptionName = {
-			"Increases magic damage on Formless type monsters by 10%.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Weapon^000000",
-			"Weight: ^7777771^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-
-	[4476] = {
-		unidentifiedDisplayName = "Pinguicula Card",
-		unidentifiedResourceName = "이름없는카드",
-		unidentifiedDescriptionName = {
-			"Increases magic damage on Insect type monsters by 10%.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Weapon^000000",
-			"Weight: ^7777771^000000"
-		},
-		identifiedDisplayName = "Pinguicula Card",
-		identifiedResourceName = "이름없는카드",
-		identifiedDescriptionName = {
-			"Increases magic damage on Insect type monsters by 10%.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Weapon^000000",
-			"Weight: ^7777771^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-
-	[4477] = {
-		unidentifiedDisplayName = "Hell Apocalypse Card",
-		unidentifiedResourceName = "이름없는카드",
-		unidentifiedDescriptionName = {
-			"Increases magic damage on Demon type monsters by 10%.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Weapon^000000",
-			"Weight: ^7777771^000000"
-		},
-		identifiedDisplayName = "Hell Apocalypse Card",
-		identifiedResourceName = "이름없는카드",
-		identifiedDescriptionName = {
-			"Increases magic damage on Demon type monsters by 10%.",
-			"Class: ^777777Card^000000",
-			"Compound on: ^777777Weapon^000000",
-			"Weight: ^7777771^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-
 	[4700] = {
 		unidentifiedDisplayName = "STR+1",
 		unidentifiedResourceName = "용의보주_홍",
@@ -52486,6 +51911,68 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 264
 	},
+	[5270] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Autumn Leaves",
+		identifiedResourceName = "낙엽",
+		identifiedDescriptionName = {
+			"A headgear made from leaves fallen from an enchanted tree.",
+			"Perfect Dodge +5",
+			"Class: ^777777Headgear^000000",
+			"Defense: ^7777772^000000",
+			"Location: ^777777Upper^000000",
+			"Weight: ^77777710^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 241
+	},
+	[5271] = {
+		unidentifiedDisplayName = "Helm",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Phoenix Crown",
+		identifiedResourceName = "봉관",
+		identifiedDescriptionName = {
+			"A heavy looking hat with blue and silver jewery decorations. It will match with magnificent events.",
+			"MDEF +3",
+			"Depends on its Upgrade Level, damage from Boss monsters reduces.",
+			"Class: ^777777Headgear^000000",
+			"Defense: ^7777774^000000",
+			"Location: ^777777Upper^000000",
+			"Weight: ^77777750^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 221
+	},
+	[5272] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "스마일",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Tongue Mask",
+		identifiedResourceName = "메롱가면",
+		identifiedDescriptionName = {
+			"A mask with mischievous expressions, suitable to be worn by kids.",
+			"Add a 3% chance of auto casting Level 5 Provoke on the enemy when attacking.",
+			"Class: ^777777Headgear^000000",
+			"Defense: ^7777772^000000",
+			"Location: ^777777Middle, Lower^000000",
+			"Weight: ^77777720^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 253
+	},	
 	[5273] = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
@@ -52573,6 +52060,29 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 308
+	},
+	[5279] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Refined Drooping Cat",
+		identifiedResourceName = "늘어진고양이",
+		identifiedDescriptionName = {
+			"^000088Rental Items^000000",
+			"A cute kitty doll which can be worn on top of the head.",
+			"MDEF +15",
+			"Increase resistance to ^FF0000Curse^000000 status by 30%.",
+			"^FF0000Unrefineable^000000",
+			"Class: ^777777Headgear^000000",
+			"Defense: ^7777771^000000",
+			"Location: ^777777Upper^000000",
+			"Weight: ^7777770^000000",
+			"Jobs: ^777777All except Novice^000000"
+		},
+		slotCount = 0,
+		ClassNum = 142
 	},
 	[5280] = {
 		unidentifiedDisplayName = "Baphomet Horns",
@@ -59615,6 +59125,78 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
+	[6005] = {
+		unidentifiedDisplayName = "NewYear Ricecake",
+		unidentifiedResourceName = "가래떡",
+		unidentifiedDescriptionName = {
+			"...",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "NewYear Ricecake",
+		identifiedResourceName = "가래떡",
+		identifiedDescriptionName = {
+			"...",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[6006] = {
+		unidentifiedDisplayName = "Delivery Ricecake Box",
+		unidentifiedResourceName = "선물상자",
+		unidentifiedDescriptionName = {
+			"...",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Delivery Ricecake Box",
+		identifiedResourceName = "선물상자",
+		identifiedDescriptionName = {
+			"...",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[6007] = {
+		unidentifiedDisplayName = "NewYear Ricecake Soup",
+		unidentifiedResourceName = "떡국",
+		unidentifiedDescriptionName = {
+			"...",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "NewYear Ricecake Soup",
+		identifiedResourceName = "떡국",
+		identifiedDescriptionName = {
+			"...",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[6008] = {
+		unidentifiedDisplayName = "Wood",
+		unidentifiedResourceName = "통나무",
+		unidentifiedDescriptionName = {
+			"Good quality wood. It makes the wooden building it is a tightly good lumber.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Wood",
+		identifiedResourceName = "통나무",
+		identifiedDescriptionName = {
+			"Good quality wood. It makes the wooden building it is a tightly good lumber.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},	
 	[6009] = {
 		unidentifiedDisplayName = "Big Fan Of Magic",
 		unidentifiedResourceName = "마력깃든대형부채",
@@ -72065,6 +71647,24 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
+	[7600] = {
+		unidentifiedDisplayName = "Blue K Card",
+		unidentifiedResourceName = "파란카드K",
+		unidentifiedDescriptionName = {
+			"A card with the letter \"^000088K^000000\" printed on it.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Blue K Card",
+		identifiedResourceName = "파란카드K",
+		identifiedDescriptionName = {
+			"A card with the letter \"^000088K^000000\" printed on it.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},	
 	[7604] = {
 		unidentifiedDisplayName = "Flour",
 		unidentifiedResourceName = "나방의날개가루",
@@ -73212,6 +72812,40 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
+	[7758] = {
+		unidentifiedDisplayName = "Star Crystal",
+		unidentifiedResourceName = "엠펠리움",
+		unidentifiedDescriptionName = {
+			"...",
+			"^FFFFFF_^000000",
+			"Weight: ^77777710^000000"
+		},
+		identifiedDisplayName = "Star Crystal",
+		identifiedResourceName = "엠펠리움",
+		identifiedDescriptionName = {
+			"...",
+			"^FFFFFF_^000000",
+			"Weight: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7759] = {
+		unidentifiedDisplayName = "Geologist's Report",
+		unidentifiedResourceName = "서류철",
+		unidentifiedDescriptionName = {
+			"...",
+			"^FFFFFF_^000000"
+		},
+		identifiedDisplayName = "Geologist's Report",
+		identifiedResourceName = "서류철",
+		identifiedDescriptionName = {
+			"...",
+			"^FFFFFF_^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},	
 	[7760] = {
 		unidentifiedDisplayName = "Yaga's Magic Book",
 		unidentifiedResourceName = "야가할머니마법서",
@@ -73336,6 +72970,60 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
+	[7767] = {
+		unidentifiedDisplayName = "Chung E Cake",
+		unidentifiedResourceName = "조각케이크",
+		unidentifiedDescriptionName = {
+			"Cake which looked to be it is really delicious. Food manufactured to feed Chung E.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Chung E Cake",
+		identifiedResourceName = "조각케이크",
+		identifiedDescriptionName = {
+			"Cake which looked to be it is really delicious. Food manufactured to feed Chung E.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7768] = {
+		unidentifiedDisplayName = "Frozen Squid",
+		unidentifiedResourceName = "오징어",
+		unidentifiedDescriptionName = {
+			"A frozen squid ready for a long-term delivery, it value is cheaper compared to fresh one.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Frozen Squid",
+		identifiedResourceName = "오징어",
+		identifiedDescriptionName = {
+			"A frozen squid ready for a long-term delivery, it value is cheaper compared to fresh one.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7769] = {
+		unidentifiedDisplayName = "Egg Yolk",
+		unidentifiedResourceName = "노른자",
+		unidentifiedDescriptionName = {
+			"Egg yolk. A cooking ingredients. Can be use to make dumpling.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Egg Yolk",
+		identifiedResourceName = "노른자",
+		identifiedDescriptionName = {
+			"Egg yolk. A cooking ingredients. Can be use to make dumpling.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},	
 	[7770] = {
 		unidentifiedDisplayName = "Sweet Rice",
 		unidentifiedResourceName = "찹쌀",
@@ -73358,6 +73046,42 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
+	[7771] = {
+		unidentifiedDisplayName = "Lotus Leaf",
+		unidentifiedResourceName = "연잎",
+		unidentifiedDescriptionName = {
+			"Aquatic botany. The leaf is used to wrap the dumpling.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Lotus Leaf",
+		identifiedResourceName = "연잎",
+		identifiedDescriptionName = {
+			"Aquatic botany. The leaf is used to wrap the dumpling.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7772] = {
+		unidentifiedDisplayName = "String",
+		unidentifiedResourceName = "줄",
+		unidentifiedDescriptionName = {
+			"Strings that is use to tie the dumpling.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "String",
+		identifiedResourceName = "줄",
+		identifiedDescriptionName = {
+			"Strings that is use to tie the dumpling.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},	
 	[7773] = {
 		unidentifiedDisplayName = "War Badge",
 		unidentifiedResourceName = "전투휘장",
@@ -73376,6 +73100,42 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
+	[7774] = {
+		unidentifiedDisplayName = "Chung E Ticket",
+		unidentifiedResourceName = "쿠폰",
+		unidentifiedDescriptionName = {
+			"Written with big letters as 'You win 'Chung E Egg'!! Please come and get it now!\"",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Chung E Ticket",
+		identifiedResourceName = "쿠폰",
+		identifiedDescriptionName = {
+			"Written with big letters as 'You win 'Chung E Egg'!! Please come and get it now!\"",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7775] = {
+		unidentifiedDisplayName = "Spring Rabbit Ticket",
+		unidentifiedResourceName = "쿠폰",
+		unidentifiedDescriptionName = {
+			"Written with big letters as 'You win 'Spring Rabbit Egg'!! Please come and get it now!\"",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Spring Rabbit Ticket",
+		identifiedResourceName = "쿠폰",
+		identifiedDescriptionName = {
+			"Written with big letters as 'You win 'Spring Rabbit Egg'!! Please come and get it now!\"",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},	
 	[7776] = {
 		unidentifiedDisplayName = "Gym Pass Card",
 		unidentifiedResourceName = "카프라이용권",
@@ -73411,6 +73171,100 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
+	[7777] = {
+		unidentifiedDisplayName = "Sealed Golden Box",
+		unidentifiedResourceName = "액세서리상자",
+		unidentifiedDescriptionName = {
+			"...",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Sealed Golden Box",
+		identifiedResourceName = "액세서리상자",
+		identifiedDescriptionName = {
+			"...",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7778] = {
+		unidentifiedDisplayName = "Sealed Silver Box",
+		unidentifiedResourceName = "졸린상자",
+		unidentifiedDescriptionName = {
+			"...",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Sealed Silver Box",
+		identifiedResourceName = "졸린상자",
+		identifiedDescriptionName = {
+			"...",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7779] = {
+		unidentifiedDisplayName = "Golden Key",
+		unidentifiedResourceName = "황금열쇠",
+		unidentifiedDescriptionName = {
+			"A Golden key to open the box.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Golden Key",
+		identifiedResourceName = "황금열쇠",
+		identifiedDescriptionName = {
+			"A Golden key to open the box.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7780] = {
+		unidentifiedDisplayName = "Silver Key",
+		unidentifiedResourceName = "탑지하열쇠",
+		unidentifiedDescriptionName = {
+			"A Silver key to open the box.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Silver Key",
+		identifiedResourceName = "탑지하열쇠",
+		identifiedDescriptionName = {
+			"A Silver key to open the box.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7781] = {
+		unidentifiedDisplayName = "Engrave Treasure Box",
+		unidentifiedResourceName = "빨간상자",
+		unidentifiedDescriptionName = {
+			"The box which two hearts are coming to carve in the surface.",
+			"It is sinking with the latent heat iron which is strange is two holes.",
+			"To inside there probably is a what kind of thing, there is not a possibility of knowing.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Engrave Treasure Box",
+		identifiedResourceName = "빨간상자",
+		identifiedDescriptionName = {
+			"The box which two hearts are coming to carve in the surface.",
+			"It is sinking with the latent heat iron which is strange is two holes.",
+			"To inside there probably is a what kind of thing, there is not a possibility of knowing.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},	
 	[7782] = {
 		unidentifiedDisplayName = "Moscovia Poporing Key",
 		unidentifiedResourceName = "PoporingKey",
@@ -73461,6 +73315,186 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
+	[7784] = {
+		unidentifiedDisplayName = "Free Coupon 1",
+		unidentifiedResourceName = "쿠폰",
+		unidentifiedDescriptionName = {
+			"The coupon where the person who conveys the sorry be mind is coming to be put in full.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Free Coupon 1",
+		identifiedResourceName = "쿠폰",
+		identifiedDescriptionName = {
+			"The coupon where the person who conveys the sorry be mind is coming to be put in full.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7785] = {
+		unidentifiedDisplayName = "Free Coupon 2",
+		unidentifiedResourceName = "쿠폰",
+		unidentifiedDescriptionName = {
+			"The coupon where the person who conveys the sorry be mind is coming to be put in full.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Free Coupon 2",
+		identifiedResourceName = "쿠폰",
+		identifiedDescriptionName = {
+			"The coupon where the person who conveys the sorry be mind is coming to be put in full.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7786] = {
+		unidentifiedDisplayName = "Free Coupon 3",
+		unidentifiedResourceName = "쿠폰",
+		unidentifiedDescriptionName = {
+			"The coupon where the person who conveys the sorry be mind is coming to be put in full.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Free Coupon 3",
+		identifiedResourceName = "쿠폰",
+		identifiedDescriptionName = {
+			"The coupon where the person who conveys the sorry be mind is coming to be put in full.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7787] = {
+		unidentifiedDisplayName = "Free Coupon 4",
+		unidentifiedResourceName = "쿠폰",
+		unidentifiedDescriptionName = {
+			"The coupon where the person who conveys the sorry be mind is coming to be put in full.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Free Coupon 4",
+		identifiedResourceName = "쿠폰",
+		identifiedDescriptionName = {
+			"The coupon where the person who conveys the sorry be mind is coming to be put in full.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7788] = {
+		unidentifiedDisplayName = "Free Coupon 5",
+		unidentifiedResourceName = "쿠폰",
+		unidentifiedDescriptionName = {
+			"The coupon where the person who conveys the sorry be mind is coming to be put in full.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Free Coupon 5",
+		identifiedResourceName = "쿠폰",
+		identifiedDescriptionName = {
+			"The coupon where the person who conveys the sorry be mind is coming to be put in full.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7789] = {
+		unidentifiedDisplayName = "Free Coupon 6",
+		unidentifiedResourceName = "쿠폰",
+		unidentifiedDescriptionName = {
+			"The coupon where the person who conveys the sorry be mind is coming to be put in full.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Free Coupon 6",
+		identifiedResourceName = "쿠폰",
+		identifiedDescriptionName = {
+			"The coupon where the person who conveys the sorry be mind is coming to be put in full.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7790] = {
+		unidentifiedDisplayName = "Free Coupon 7",
+		unidentifiedResourceName = "쿠폰",
+		unidentifiedDescriptionName = {
+			"The coupon where the person who conveys the sorry be mind is coming to be put in full.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Free Coupon 7",
+		identifiedResourceName = "쿠폰",
+		identifiedDescriptionName = {
+			"The coupon where the person who conveys the sorry be mind is coming to be put in full.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7791] = {
+		unidentifiedDisplayName = "Free Coupon 8",
+		unidentifiedResourceName = "쿠폰",
+		unidentifiedDescriptionName = {
+			"The coupon where the person who conveys the sorry be mind is coming to be put in full.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Free Coupon 8",
+		identifiedResourceName = "쿠폰",
+		identifiedDescriptionName = {
+			"The coupon where the person who conveys the sorry be mind is coming to be put in full.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7792] = {
+		unidentifiedDisplayName = "Old",
+		unidentifiedResourceName = "구약",
+		unidentifiedDescriptionName = {
+			"...",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Old",
+		identifiedResourceName = "구약",
+		identifiedDescriptionName = {
+			"...",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7793] = {
+		unidentifiedDisplayName = "Golden Apple",
+		unidentifiedResourceName = "황금사과",
+		unidentifiedDescriptionName = {
+			"Magic apple shines gold.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "Golden Apple",
+		identifiedResourceName = "황금사과",
+		identifiedDescriptionName = {
+			"Magic apple shines gold.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},	
 	[7794] = {
 		unidentifiedDisplayName = "The Crow of Destiny",
 		unidentifiedResourceName = "북",
@@ -73579,6 +73613,347 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
+	[7800] = {
+		unidentifiedDisplayName = "Golden Charm Apple",
+		unidentifiedResourceName = "황금사과",
+		unidentifiedDescriptionName = {
+			"Exquisite aroma proceeds from the fairytale apple.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "Golden Charm Apple",
+		identifiedResourceName = "황금사과",
+		identifiedDescriptionName = {
+			"Exquisite aroma proceeds from the fairytale apple.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7801] = {
+		unidentifiedDisplayName = "Girl's Letter",
+		unidentifiedResourceName = "소녀의팬레터",
+		unidentifiedDescriptionName = {
+			"The pan letter of the young girl where ardent love where comes to feel.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Girl's Letter",
+		identifiedResourceName = "소녀의팬레터",
+		identifiedDescriptionName = {
+			"The pan letter of the young girl where ardent love where comes to feel.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7802] = {
+		unidentifiedDisplayName = "Signature Notebook",
+		unidentifiedResourceName = "싸인첩",
+		unidentifiedDescriptionName = {
+			"An enveloped and to receive every string one notebook of the use which keeps.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Signature Notebook",
+		identifiedResourceName = "싸인첩",
+		identifiedDescriptionName = {
+			"An enveloped and to receive every string one notebook of the use which keeps.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7803] = {
+		unidentifiedDisplayName = "Novice Battle Manual",
+		unidentifiedResourceName = "전투교범",
+		unidentifiedDescriptionName = {
+			"Only usable by a character level 40 or below. For 30 minutes, grants 3x exp for 30 minutes.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Beginner's Field Manual",
+		identifiedResourceName = "전투교범",
+		identifiedDescriptionName = {
+			"Only usable by a character level 40 or below. For 30 minutes, grants 3x exp for 30 minutes.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7805] = {
+		unidentifiedDisplayName = "Brown Jenoss's Family Ring",
+		unidentifiedResourceName = "갈색반지",
+		unidentifiedDescriptionName = {
+			"A brown colored family ring which it wears by Jenoss.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Brown Jenoss's Family Ring",
+		identifiedResourceName = "갈색반지",
+		identifiedDescriptionName = {
+			"A brown colored family ring which it wears by Jenoss.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7806] = {
+		unidentifiedDisplayName = "God Anvil",
+		unidentifiedResourceName = "검은모루",
+		unidentifiedDescriptionName = {
+			"\" Holffar \" Received a ^ff0000God's Anvil^000000.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "God Anvil",
+		identifiedResourceName = "검은모루",
+		identifiedDescriptionName = {
+			"\" Holffar \" Received a ^ff0000God's Anvil^000000.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7807] = {
+		unidentifiedDisplayName = "God Mineral",
+		unidentifiedResourceName = "광석",
+		unidentifiedDescriptionName = {
+			"\" Torros \" Received a ^ff0000God's Minerals^000000.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "God Mineral",
+		identifiedResourceName = "광석",
+		identifiedDescriptionName = {
+			"\" Torros \" Received a ^ff0000God's Minerals^000000.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7808] = {
+		unidentifiedDisplayName = "God Hammer",
+		unidentifiedResourceName = "금색망치",
+		unidentifiedDescriptionName = {
+			"\" Gonk \" Received a ^ff0000God's Hammer^000000.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "God Hammer",
+		identifiedResourceName = "금색망치",
+		identifiedDescriptionName = {
+			"\" Gonk \" Received a ^ff0000God's Hammer^000000.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7809] = {
+		unidentifiedDisplayName = "God Furnace",
+		unidentifiedResourceName = "금색용광로",
+		unidentifiedDescriptionName = {
+			"\" Lapio \" Received a ^ff0000God's Furnaces^000000.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "God Furnace",
+		identifiedResourceName = "금색용광로",
+		identifiedDescriptionName = {
+			"\" Lapio \" Received a ^ff0000God's Furnaces^000000.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7810] = {
+		unidentifiedDisplayName = "Symbol of Richness",
+		unidentifiedResourceName = "노란묘안석",
+		unidentifiedDescriptionName = {
+			"A symbol of Wealth to \"Ravela\".",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Symbol of Richness",
+		identifiedResourceName = "노란묘안석",
+		identifiedDescriptionName = {
+			"A symbol of Wealth to \"Ravela\".",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7811] = {
+		unidentifiedDisplayName = "Anvil",
+		unidentifiedResourceName = "모루",
+		unidentifiedDescriptionName = {
+			"Anvil gold.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Anvil",
+		identifiedResourceName = "모루",
+		identifiedDescriptionName = {
+			"Anvil gold.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7812] = {
+		unidentifiedDisplayName = "Symbol of Bravery",
+		unidentifiedResourceName = "붉은묘안석",
+		unidentifiedDescriptionName = {
+			"A symbol of Courage to \"Ravela\".",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Symbol of Bravery",
+		identifiedResourceName = "붉은묘안석",
+		identifiedDescriptionName = {
+			"A symbol of Courage to \"Ravela\".",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7813] = {
+		unidentifiedDisplayName = "Red Jenoss's Family Ring",
+		unidentifiedResourceName = "빨강반지",
+		unidentifiedDescriptionName = {
+			"A red colored family ring which it wears by Jenoss.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Red Jenoss's Family Ring",
+		identifiedResourceName = "빨강반지",
+		identifiedDescriptionName = {
+			"A red colored family ring which it wears by Jenoss.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7814] = {
+		unidentifiedDisplayName = "Green Jenoss's Family Ring",
+		unidentifiedResourceName = "초록반지",
+		unidentifiedDescriptionName = {
+			"A green colored family ring which it wears by Jenoss.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Green Jenoss's Family Ring",
+		identifiedResourceName = "초록반지",
+		identifiedDescriptionName = {
+			"A green colored family ring which it wears by Jenoss.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7815] = {
+		unidentifiedDisplayName = "Blue Jenoss's Family Ring",
+		unidentifiedResourceName = "파란반지",
+		unidentifiedDescriptionName = {
+			"A blue colored family ring which it wears by Jenoss.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Blue Jenoss's Family Ring",
+		identifiedResourceName = "파란반지",
+		identifiedDescriptionName = {
+			"A blue colored family ring which it wears by Jenoss.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7816] = {
+		unidentifiedDisplayName = "Symbol of Faith",
+		unidentifiedResourceName = "푸른묘안석",
+		unidentifiedDescriptionName = {
+			"A symbol of the Faith to \"Ravela\".",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Symbol of Faith",
+		identifiedResourceName = "푸른묘안석",
+		identifiedDescriptionName = {
+			"A symbol of the Faith to \"Ravela\".",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7817] = {
+		unidentifiedDisplayName = "Symbol of Peace",
+		unidentifiedResourceName = "하얀묘안석",
+		unidentifiedDescriptionName = {
+			"A symbol of the Peace to \"Ravela\".",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Symbol of Peace",
+		identifiedResourceName = "하얀묘안석",
+		identifiedDescriptionName = {
+			"A symbol of the Peace to \"Ravela\".",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7818] = {
+		unidentifiedDisplayName = "Jessur's Necklace",
+		unidentifiedResourceName = "rjc금목걸이",
+		unidentifiedDescriptionName = {
+			"The necklaces of the Jessur.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Jessur's Necklace",
+		identifiedResourceName = "rjc금목걸이",
+		identifiedDescriptionName = {
+			"The necklaces of the Jessur.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7819] = {
+		unidentifiedDisplayName = "Nokia5300",
+		unidentifiedResourceName = "노키아5300",
+		unidentifiedDescriptionName = {
+			"\"The new Nokia 5500 Sport features a stainless body for enhanced durability with resistance to shock, water, and dust elements. Use for Ragna_Nokia Festival.\"",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Nokia 5300",
+		identifiedResourceName = "노키아5300",
+		identifiedDescriptionName = {
+			"Get the musical vibe going with the Nokia 5300 XpressMusic phone. With the dedicated music keys that play / pause, forward and rewind, it's easy to be melodiously mobile.",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},		
 	[7820] = {
 		unidentifiedDisplayName = "Piece of Morocc Skin",
 		unidentifiedResourceName = "검은천조각",
@@ -73662,6 +74037,24 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
+	[7825] = {
+		unidentifiedDisplayName = "Heroic Stone",
+		unidentifiedResourceName = "현자의돌",
+		unidentifiedDescriptionName = {
+			"A mysterious stone that reveals its true power when a real hero has it.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Heroic Stone",
+		identifiedResourceName = "현자의돌",
+		identifiedDescriptionName = {
+			"A mysterious stone that reveals its true power when a real hero has it.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},	
 	[7826] = {
 		unidentifiedDisplayName = "Continental Guard Paper",
 		unidentifiedResourceName = "원고용지",
@@ -73684,6 +74077,24 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
+	[7827] = {
+		unidentifiedDisplayName = "Mineral Evals",
+		unidentifiedResourceName = "고대언어문서",
+		unidentifiedDescriptionName = {
+			"...",
+			"^FFFFFF_^000000",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "Mineral Evals",
+		identifiedResourceName = "고대언어문서",
+		identifiedDescriptionName = {
+			"...",
+			"^FFFFFF_^000000",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},	
 	[7828] = {
 		unidentifiedDisplayName = "Bravery Badge",
 		unidentifiedResourceName = "전투휘장",
@@ -73894,6 +74305,470 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
+	[7841] = {
+		unidentifiedDisplayName = "Stained Piece Of Paper",
+		unidentifiedResourceName = "낡은책장",
+		unidentifiedDescriptionName = {
+			"The pieces are painted something. Although it does not look good.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "Stained Piece Of Paper",
+		identifiedResourceName = "낡은책장",
+		identifiedDescriptionName = {
+			"The pieces are painted something. Although it does not look good.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7842] = {
+		unidentifiedDisplayName = "Torn Piece Of Paper",
+		unidentifiedResourceName = "낡은책장",
+		unidentifiedDescriptionName = {
+			"The pieces are painted something. Although it does not look good.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "Torn Piece Of Paper",
+		identifiedResourceName = "낡은책장",
+		identifiedDescriptionName = {
+			"The pieces are painted something. Although it does not look good.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7843] = {
+		unidentifiedDisplayName = "Old Piece Of Paper",
+		unidentifiedResourceName = "낡은책장",
+		unidentifiedDescriptionName = {
+			"The pieces are painted something. Although it does not look good.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "Old Piece Of Paper",
+		identifiedResourceName = "낡은책장",
+		identifiedDescriptionName = {
+			"The pieces are painted something. Although it does not look good.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7844] = {
+		unidentifiedDisplayName = "Burnt Pieces Of Paper",
+		unidentifiedResourceName = "낡은책장",
+		unidentifiedDescriptionName = {
+			"The pieces are painted something. Although it does not look good.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "Burnt Pieces Of Paper",
+		identifiedResourceName = "낡은책장",
+		identifiedDescriptionName = {
+			"The pieces are painted something. Although it does not look good.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7845] = {
+		unidentifiedDisplayName = "Copy Of Spotted Paper",
+		unidentifiedResourceName = "고대언어문서",
+		unidentifiedDescriptionName = {
+			"The pieces are painted something. Although you don't know further reply.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "Copy Of Spotted Paper",
+		identifiedResourceName = "고대언어문서",
+		identifiedDescriptionName = {
+			"The pieces are painted something. Although you don't know further reply.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7846] = {
+		unidentifiedDisplayName = "Copy Of Torn Paper",
+		unidentifiedResourceName = "고대언어문서",
+		unidentifiedDescriptionName = {
+			"The pieces are painted something. Although you don't know further reply.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "Copy Of Torn Paper",
+		identifiedResourceName = "고대언어문서",
+		identifiedDescriptionName = {
+			"The pieces are painted something. Although you don't know further reply.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7847] = {
+		unidentifiedDisplayName = "Copy Of Old Paper",
+		unidentifiedResourceName = "고대언어문서",
+		unidentifiedDescriptionName = {
+			"The pieces are painted something. Although you don't know further reply.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "Copy Of Old Paper",
+		identifiedResourceName = "고대언어문서",
+		identifiedDescriptionName = {
+			"The pieces are painted something. Although you don't know further reply.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7848] = {
+		unidentifiedDisplayName = "Copy Of Burnt Paper",
+		unidentifiedResourceName = "고대언어문서",
+		unidentifiedDescriptionName = {
+			"The pieces are painted something. Although you don't know further reply.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "Copy Of Burnt Paper",
+		identifiedResourceName = "고대언어문서",
+		identifiedDescriptionName = {
+			"The pieces are painted something. Although you don't know further reply.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7849] = {
+		unidentifiedDisplayName = "Soul Crystal",
+		unidentifiedResourceName = "검은수정조각",
+		unidentifiedDescriptionName = {
+			"This signal is modified of the soul...",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Soul Crystal",
+		identifiedResourceName = "검은수정조각",
+		identifiedDescriptionName = {
+			"This signal is modified of the soul...",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7850] = {
+		unidentifiedDisplayName = "Wooden Block",
+		unidentifiedResourceName = "나무조각",
+		unidentifiedDescriptionName = {
+			"The magic log, which can be used for the bonfire.",
+			"^FFFFFF_^000000",
+			"Weight: ^77777710^000000"
+		},
+		identifiedDisplayName = "Wooden Block",
+		identifiedResourceName = "나무조각",
+		identifiedDescriptionName = {
+			"The magic log, which can be used for the bonfire.",
+			"^FFFFFF_^000000",
+			"Weight: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7851] = {
+		unidentifiedDisplayName = "Wii Raffle Ticket",
+		unidentifiedResourceName = "통행증_F1",
+		unidentifiedDescriptionName = {
+			"RO together with Wii! Wii raffle ticket.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Wii Raffle Ticket",
+		identifiedResourceName = "통행증_F1",
+		identifiedDescriptionName = {
+			"RO together with Wii! Wii raffle ticket.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7852] = {
+		unidentifiedDisplayName = "Divx Player Raffle Ticket",
+		unidentifiedResourceName = "통행증_F2",
+		unidentifiedDescriptionName = {
+			"RO together with Divx! Divx Player raffle ticket.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Divx Player Raffle Ticket",
+		identifiedResourceName = "통행증_F2",
+		identifiedDescriptionName = {
+			"RO together with Divx! Divx Player raffle ticket.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7853] = {
+		unidentifiedDisplayName = "iPod nano Raffle Ticket",
+		unidentifiedResourceName = "통행증_F3",
+		unidentifiedDescriptionName = {
+			"RO together with iPod nano! iPod nano raffle ticket.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "iPod nano Raffle Ticket",
+		identifiedResourceName = "통행증_F3",
+		identifiedDescriptionName = {
+			"RO together with iPod nano! iPod nano raffle ticket.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7854] = {
+		unidentifiedDisplayName = "Comodo Festival Ticket",
+		unidentifiedResourceName = "통행증",
+		unidentifiedDescriptionName = {
+			"Joyful Comodo Festival! This Ticket is serviceable only from Comodo Festival.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Comodo Festival Ticket",
+		identifiedResourceName = "통행증",
+		identifiedDescriptionName = {
+			"Joyful Comodo Festival! This Ticket is serviceable only from Comodo Festival.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7855] = {
+		unidentifiedDisplayName = "Heart",
+		unidentifiedResourceName = "프레임하트",
+		unidentifiedDescriptionName = {
+			"It thinks a troublesome army song warm mind.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Heart",
+		identifiedResourceName = "프레임하트",
+		identifiedDescriptionName = {
+			"It thinks a troublesome army song warm mind.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7857] = {
+		unidentifiedDisplayName = "Hand-made Kitty Doll",
+		unidentifiedResourceName = "고양이인형",
+		unidentifiedDescriptionName = {
+			"A black cat doll which made by good craftsman.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777773^000000"
+		},
+		identifiedDisplayName = "Hand-made Kitty Doll",
+		identifiedResourceName = "고양이인형",
+		identifiedDescriptionName = {
+			"A black cat doll which made by good craftsman.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777773^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7858] = {
+		unidentifiedDisplayName = "Dragonball Yellow",
+		unidentifiedResourceName = "용의보주_황",
+		unidentifiedDescriptionName = {
+			"...",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Dragonball Yellow",
+		identifiedResourceName = "용의보주_황",
+		identifiedDescriptionName = {
+			"...",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7859] = {
+		unidentifiedDisplayName = "Game Ticket",
+		unidentifiedResourceName = "엘리멘탈_화",
+		unidentifiedDescriptionName = {
+			"...",
+			"^FFFFFF_^000000",
+			"Weight: ^77777710^000000"
+		},
+		identifiedDisplayName = "Game Ticket",
+		identifiedResourceName = "엘리멘탈_화",
+		identifiedDescriptionName = {
+			"...",
+			"^FFFFFF_^000000",
+			"Weight: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7860] = {
+		unidentifiedDisplayName = "Peeps",
+		unidentifiedResourceName = "유과",
+		unidentifiedDescriptionName = {
+			"A candy made with marshmallow. It is formed into a candy of various shapes, and children like it very much.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777775^000000"
+		},
+		identifiedDisplayName = "Peeps",
+		identifiedResourceName = "유과",
+		identifiedDescriptionName = {
+			"A candy made with marshmallow. It is formed into a candy of various shapes, and children like it very much.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777775^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7861] = {
+		unidentifiedDisplayName = "Jelly Bean",
+		unidentifiedResourceName = "터키석",
+		unidentifiedDescriptionName = {
+			"A jelly like confectionary in the shape of a bean. It is made with many flavors, primarily fruits.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777775^000000"
+		},
+		identifiedDisplayName = "Jelly Bean",
+		identifiedResourceName = "터키석",
+		identifiedDescriptionName = {
+			"A jelly like confectionary in the shape of a bean. It is made with many flavors, primarily fruits.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777775^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7862] = {
+		unidentifiedDisplayName = "Marshmallow",
+		unidentifiedResourceName = "무지개떡",
+		unidentifiedDescriptionName = {
+			"A soft confectionary make from sugar or corn syrup. It is tender and soft.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777775^000000"
+		},
+		identifiedDisplayName = "Marshmallow",
+		identifiedResourceName = "무지개떡",
+		identifiedDescriptionName = {
+			"A soft confectionary make from sugar or corn syrup. It is tender and soft.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777775^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7863] = {
+		unidentifiedDisplayName = "Special Gold",
+		unidentifiedResourceName = "황금",
+		unidentifiedDescriptionName = {
+			"A Hwang gold which commemorates the a special day.",
+			"^FFFFFF_^000000",
+			"Weight: ^77777720^000000"
+		},
+		identifiedDisplayName = "Special Gold",
+		identifiedResourceName = "황금",
+		identifiedDescriptionName = {
+			"A Hwang gold which commemorates the a special day.",
+			"^FFFFFF_^000000",
+			"Weight: ^77777720^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7865] = {
+		unidentifiedDisplayName = "Gold Pouch",
+		unidentifiedResourceName = "무한가죽주머니",
+		unidentifiedDescriptionName = {
+			"Gold bag receive from Baren. Must be deliver with the group protects environment.",
+			"^FFFFFF_^000000"
+		},
+		identifiedDisplayName = "Gold Pouch",
+		identifiedResourceName = "무한가죽주머니",
+		identifiedDescriptionName = {
+			"Gold bag receive from Baren. Must be deliver with the group protects environment.",
+			"^FFFFFF_^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7866] = {
+		unidentifiedDisplayName = "Certificate",
+		unidentifiedResourceName = "상인영수증",
+		unidentifiedDescriptionName = {
+			"Certificate from Tidy. Contribute to be with help the group protects environment.",
+			"^FFFFFF_^000000"
+		},
+		identifiedDisplayName = "Certificate",
+		identifiedResourceName = "상인영수증",
+		identifiedDescriptionName = {
+			"Certificate from Tidy. Contribute to be with help the group protects environment.",
+			"^FFFFFF_^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7867] = {
+		unidentifiedDisplayName = "Sesame Bag",
+		unidentifiedResourceName = "포장된가면",
+		unidentifiedDescriptionName = {
+			"A very small bag with Sesame seeds inside.",
+			"^FFFFFF_^000000",
+			"Weight: ^77777710^000000"
+		},
+		identifiedDisplayName = "Sesame Bag",
+		identifiedResourceName = "포장된가면",
+		identifiedDescriptionName = {
+			"A very small bag with Sesame seeds inside.",
+			"^FFFFFF_^000000",
+			"Weight: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7868] = {
+		unidentifiedDisplayName = "Fresh Water",
+		unidentifiedResourceName = "성수",
+		unidentifiedDescriptionName = {
+			"Fresh water that is pure and clean.",
+			"^FFFFFF_^000000",
+			"Weight: ^77777710^000000"
+		},
+		identifiedDisplayName = "Fresh Water",
+		identifiedResourceName = "성수",
+		identifiedDescriptionName = {
+			"Fresh water that is pure and clean.",
+			"^FFFFFF_^000000",
+			"Weight: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},		
 	[7869] = {
 		unidentifiedDisplayName = "Rice Pouch",
 		unidentifiedResourceName = "쌀가마니",
@@ -73915,6 +74790,96 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
+	[7870] = {
+		unidentifiedDisplayName = "Corn",
+		unidentifiedResourceName = "히나레의잎사귀",
+		unidentifiedDescriptionName = {
+			"Beautifully bred Corn which most people like to eat.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777772^000000"
+		},
+		identifiedDisplayName = "Corn",
+		identifiedResourceName = "히나레의잎사귀",
+		identifiedDescriptionName = {
+			"Beautifully bred Corn which most people like to eat.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777772^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7871] = {
+		unidentifiedDisplayName = "Bean Bag",
+		unidentifiedResourceName = "주머니",
+		unidentifiedDescriptionName = {
+			"A very small bag with Bean seeds inside.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777772^000000"
+		},
+		identifiedDisplayName = "Bean Bag",
+		identifiedResourceName = "주머니",
+		identifiedDescriptionName = {
+			"A very small bag with Bean seeds inside.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777772^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7872] = {
+		unidentifiedDisplayName = "Herb",
+		unidentifiedResourceName = "부드러운풀잎",
+		unidentifiedDescriptionName = {
+			"Light grass that is wet with dew.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777773^000000"
+		},
+		identifiedDisplayName = "Herb",
+		identifiedResourceName = "부드러운풀잎",
+		identifiedDescriptionName = {
+			"Light grass that is wet with dew.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777773^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7873] = {
+		unidentifiedDisplayName = "MVP Monster Scroll",
+		unidentifiedResourceName = "낡은마법진",
+		unidentifiedDescriptionName = {
+			"A scroll used to summon a very powerfull monster.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "MVP Monster Scroll",
+		identifiedResourceName = "낡은마법진",
+		identifiedDescriptionName = {
+			"A scroll used to summon a very powerfull monster.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7874] = {
+		unidentifiedDisplayName = "Create Monster Scroll",
+		unidentifiedResourceName = "찢어진스크롤",
+		unidentifiedDescriptionName = {
+			"A scroll used to summon monster.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Create Monster Scroll",
+		identifiedResourceName = "찢어진스크롤",
+		identifiedDescriptionName = {
+			"A scroll used to summon monster.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},		
 	[7875] = {
 		unidentifiedDisplayName = "Pirate Treasure",
 		unidentifiedResourceName = "보물상자",
@@ -74089,6 +75054,300 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
+	[7884] = {
+		unidentifiedDisplayName = "Jade Plate",
+		unidentifiedResourceName = "발키리의분노",
+		unidentifiedDescriptionName = {
+			"A broken jade that seems valuable, no one knows who it belongs to.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "Jade Plate",
+		identifiedResourceName = "발키리의분노",
+		identifiedDescriptionName = {
+			"A broken jade that seems valuable, no one knows who it belongs to.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7885] = {
+		unidentifiedDisplayName = "Sacred Arrow",
+		unidentifiedResourceName = "은화살",
+		unidentifiedDescriptionName = {
+			"Arrows make by the great smith in town. Sacred weapon as said by Hou Yi.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "Sacred Arrow",
+		identifiedResourceName = "은화살",
+		identifiedDescriptionName = {
+			"Arrows make by the great smith in town. Sacred weapon as said by Hou Yi.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7886] = {
+		unidentifiedDisplayName = "Bean Paste",
+		unidentifiedResourceName = "독가루",
+		unidentifiedDescriptionName = {
+			"Crushes cooked red beans into the form of paste so that it could be made into the fillings for cookies or bread.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Bean Paste",
+		identifiedResourceName = "독가루",
+		identifiedDescriptionName = {
+			"Crushes cooked red beans into the form of paste so that it could be made into the fillings for cookies or bread.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7887] = {
+		unidentifiedDisplayName = "Dried Fruit Box",
+		unidentifiedResourceName = "한방약재",
+		unidentifiedDescriptionName = {
+			"A present given by Mr.Taeum. A tool used to dry and increase the sugar capacity of fruits.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777773^000000"
+		},
+		identifiedDisplayName = "Dried Fruit Box",
+		identifiedResourceName = "한방약재",
+		identifiedDescriptionName = {
+			"A present given by Mr.Taeum. A tool used to dry and increase the sugar capacity of fruits.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777773^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7888] = {
+		unidentifiedDisplayName = "Bag of Nuts",
+		unidentifiedResourceName = "주머니",
+		unidentifiedDescriptionName = {
+			"Packet which contains certain fruits which posess a hard shell.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777773^000000"
+		},
+		identifiedDisplayName = "Bag of Nuts",
+		identifiedResourceName = "주머니",
+		identifiedDescriptionName = {
+			"Packet which contains certain fruits which posess a hard shell.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777773^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7889] = {
+		unidentifiedDisplayName = "Chicken Feed",
+		unidentifiedResourceName = "마녀의별모래",
+		unidentifiedDescriptionName = {
+			"Contain certain nutrition loved by chickens. However, the ingredients are unknown.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777772^000000"
+		},
+		identifiedDisplayName = "Chicken Feed",
+		identifiedResourceName = "마녀의별모래",
+		identifiedDescriptionName = {
+			"Contain certain nutrition loved by chickens. However, the ingredients are unknown.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777772^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7891] = {
+		unidentifiedDisplayName = "Mug",
+		unidentifiedResourceName = "인트요리03",
+		unidentifiedDescriptionName = {
+			"A cute mug crafted by hand.",
+			"^FFFFFF_^000000",
+			"Weight: ^77777710^000000"
+		},
+		identifiedDisplayName = "Mug",
+		identifiedResourceName = "인트요리03",
+		identifiedDescriptionName = {
+			"A cute mug crafted by hand.",
+			"^FFFFFF_^000000",
+			"Weight: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7892] = {
+		unidentifiedDisplayName = "Charcoal",
+		unidentifiedResourceName = "휘석",
+		unidentifiedDescriptionName = {
+			"A wood charcoal that was carbonized from the firm wood. It is a type of fuel and essential for making BBQ.",
+			"It's also used to make a gun powder.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Charcoal",
+		identifiedResourceName = "휘석",
+		identifiedDescriptionName = {
+			"A wood charcoal that was carbonized from the firm wood. It is a type of fuel and essential for making BBQ.",
+			"It's also used to make a gun powder.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7893] = {
+		unidentifiedDisplayName = "Sulphur",
+		unidentifiedResourceName = "셀",
+		unidentifiedDescriptionName = {
+			"A yellow crystalline solid that is also known for the distinctive smell.",
+			"It is also used to make a gun powder.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Sulphur",
+		identifiedResourceName = "셀",
+		identifiedDescriptionName = {
+			"A yellow crystalline solid that is also known for the distinctive smell.",
+			"It is also used to make a gun powder.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7894] = {
+		unidentifiedDisplayName = "Nitrogen Acid",
+		unidentifiedResourceName = "나비날개분",
+		unidentifiedDescriptionName = {
+			"A food additive which tastes salty and a bit refreshing.",
+			"It's also used to make a gun powder.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Nitrogen Acid",
+		identifiedResourceName = "나비날개분",
+		identifiedDescriptionName = {
+			"A food additive which tastes salty and a bit refreshing.",
+			"It's also used to make a gun powder.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7895] = {
+		unidentifiedDisplayName = "Rama5 Book",
+		unidentifiedResourceName = "낡은카드첩",
+		unidentifiedDescriptionName = {
+			"Rama was created five years for the commemorative of the book.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "Rama5 Book",
+		identifiedResourceName = "낡은카드첩",
+		identifiedDescriptionName = {
+			"Rama was created five years for the commemorative of the book.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7896] = {
+		unidentifiedDisplayName = "Loykrathong Book",
+		unidentifiedResourceName = "낡은카드첩",
+		unidentifiedDescriptionName = {
+			"Roy Krasnoyarsk created for the book to celebrate the Day of Thailand.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "Loykrathong Book",
+		identifiedResourceName = "낡은카드첩",
+		identifiedDescriptionName = {
+			"Roy Krasnoyarsk created for the book to celebrate the Day of Thailand.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7897] = {
+		unidentifiedDisplayName = "Constitution Book",
+		unidentifiedResourceName = "낡은카드첩",
+		unidentifiedDescriptionName = {
+			"The book was created to celebrate Constitution Day.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "Constitution Book",
+		identifiedResourceName = "낡은카드첩",
+		identifiedDescriptionName = {
+			"The book was created to celebrate Constitution Day.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7898] = {
+		unidentifiedDisplayName = "VV Strong Balmung",
+		unidentifiedResourceName = "발뭉",
+		unidentifiedDescriptionName = {
+			"VV Strong Balmung made by Meow.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "VV Strong Balmung",
+		identifiedResourceName = "발뭉",
+		identifiedDescriptionName = {
+			"VV Strong Balmung made by Meow.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7899] = {
+		unidentifiedDisplayName = "Dagger Of Psychic",
+		unidentifiedResourceName = "간눙가가프",
+		unidentifiedDescriptionName = {
+			"VV Strong Dagger made by Meow.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "Dagger Of Psychic",
+		identifiedResourceName = "간눙가가프",
+		identifiedDescriptionName = {
+			"VV Strong Dagger made by Meow.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[7900] = {
+		unidentifiedDisplayName = "Jonathan Family Ring",
+		unidentifiedResourceName = "금반지",
+		unidentifiedDescriptionName = {
+			"Jonathan 'family of exchange received a ring.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "Jonathan Family Ring",
+		identifiedResourceName = "금반지",
+		identifiedDescriptionName = {
+			"Jonathan 'family of exchange received a ring.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},	
 	[7906] = {
 		unidentifiedDisplayName = "Poppy Wreath",
 		unidentifiedResourceName = "풋사랑",
@@ -74338,6 +75597,24 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
+	[7933] = {
+		unidentifiedDisplayName = "Poison Herb Rantana",
+		unidentifiedResourceName = "독초_란타나",
+		unidentifiedDescriptionName = {
+			"Fragile. The red berry ripened but the fragrance seems like it's of a domestic animal.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Poison Herb Rantana",
+		identifiedResourceName = "독초_란타나",
+		identifiedDescriptionName = {
+			"Fragile. The red berry ripened but the fragrance seems like it's of a domestic animal.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},	
 	[7941] = {
 		unidentifiedDisplayName = "Halloween Ticket",
 		unidentifiedResourceName = "세뱃돈",
@@ -74466,6 +75743,24 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
+	[7977] = {
+		unidentifiedDisplayName = "Mercenary Badge",
+		unidentifiedResourceName = "락스타뱃지",
+		unidentifiedDescriptionName = {
+			"Mercenary Badge given out during the Midgard Crowd Control Event.",
+			"Save this up to trade for headgears with the quest NPC.",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "Hunting Medal Badge",
+		identifiedResourceName = "락스타뱃지",
+		identifiedDescriptionName = {
+			"Mercenary Badge given out during the Midgard Crowd Control Event.",
+			"Save this up to trade for headgears with the quest NPC.",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},	
 	[9001] = {
 		unidentifiedDisplayName = "Poring Egg",
 		unidentifiedResourceName = "수속성알",
@@ -84615,6 +85910,28 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
+	[12927] = {
+		unidentifiedDisplayName = "Aspersio Scroll Box",
+		unidentifiedResourceName = "오래된보라상자",
+		unidentifiedDescriptionName = {
+			"A box containing 10 Level 5 Aspersio Scrolls.",
+			"^FFFFFF_^000000",
+			"^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Aspersio Scroll Box",
+		identifiedResourceName = "오래된보라상자",
+		identifiedDescriptionName = {
+			"A box containing 10 Level 5 Aspersio Scrolls.",
+			"^FFFFFF_^000000",
+			"^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},	
 	[12929] = {
 		unidentifiedDisplayName = "Pet Egg Box 3",
 		unidentifiedResourceName = "펫알스크롤상자3",
@@ -85817,6 +87134,26 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
+	[12977] = {
+		unidentifiedDisplayName = "Warp Scroll",
+		unidentifiedResourceName = "마녀의주문서",
+		unidentifiedDescriptionName = {
+			"Scroll that contains the skill of ^008800Teleportation^000000. The word written on it can not be identified.",
+			"Allow character to teleport to the save point, Prontera, Geffen, Al De Baran and Izlude.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Teleport Scroll 1",
+		identifiedResourceName = "마녀의주문서",
+		identifiedDescriptionName = {
+			"Scroll that contains the skill of ^008800Teleportation^000000. The word written on it can not be identified.",
+			"Allow character to teleport to the save point, Prontera, Geffen, Al De Baran and Izlude.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},	
 	[12984] = {
 		unidentifiedDisplayName = "Pet Egg Scroll Box 7",
 		unidentifiedResourceName = "펫알스크롤상자7",
@@ -88575,6 +89912,27 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 21
 	},
+	[13175] = {
+		unidentifiedDisplayName = "Rifle",
+		unidentifiedResourceName = "레버액션라이플",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Lever Action Rifle",
+		identifiedResourceName = "레버액션라이플",
+		identifiedDescriptionName = {
+			"^000088Rental Items^000000",
+			"A masterpiece that brings the power of the Rifles to the max. This beautiful gun steals the heart of the Gunslingers, and its high performance will put a hole through the heart of the enemy. Only downside is that, due to the fact it is lever-action oriented, the Attack Speed is somewhat poor.",
+			"HIT+ 20, Cri+ 50, Adds 40% damage to the monster.",
+			"Class: ^777777Rifle^000000",
+			"Attack: ^777777170^000000",
+			"Weight: ^7777770^000000",
+			"Weapon Level: ^7777773^000000",
+			"Jobs: ^777777Gunslinger^000000"
+		},
+		slotCount = 0,
+		ClassNum = 18
+	},	
 	[13176] = {
 		unidentifiedDisplayName = "Glorious Rifle",
 		unidentifiedResourceName = "롱바렐",
@@ -89240,6 +90598,700 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 7
 	},
+	[13260] = {
+		unidentifiedDisplayName = "Apple Bomb",
+		unidentifiedResourceName = "사과폭탄",
+		unidentifiedDescriptionName = {
+			"A small apple shaped bomb. Though it has weak attack power, it has long range.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Apple Bomb",
+		identifiedResourceName = "사과폭탄",
+		identifiedDescriptionName = {
+			"A small apple shaped bomb. Though it has weak attack power, it has long range.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[13261] = {
+		unidentifiedDisplayName = "Coconut Bomb",
+		unidentifiedResourceName = "야자열매폭탄",
+		unidentifiedDescriptionName = {
+			"A bomb which is made of the hard part of a coconut.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Coconut Bomb",
+		identifiedResourceName = "야자열매폭탄",
+		identifiedDescriptionName = {
+			"A bomb which is made of the hard part of a coconut.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[13262] = {
+		unidentifiedDisplayName = "Melon Bomb",
+		unidentifiedResourceName = "멜론폭탄",
+		unidentifiedDescriptionName = {
+			"A bomb which uses sweet and sticky juice of a melon.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Melon Bomb",
+		identifiedResourceName = "멜론폭탄",
+		identifiedDescriptionName = {
+			"A bomb which uses sweet and sticky juice of a melon.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[13263] = {
+		unidentifiedDisplayName = "Pineapple Bomb",
+		unidentifiedResourceName = "파인애플폭탄",
+		unidentifiedDescriptionName = {
+			"Hard peel of pineapple that attacks wide range.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Pineapple Bomb",
+		identifiedResourceName = "파인애플폭탄",
+		identifiedDescriptionName = {
+			"Hard peel of pineapple that attacks wide range.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[13264] = {
+		unidentifiedDisplayName = "Banana Bomb",
+		unidentifiedResourceName = "바나나폭탄",
+		unidentifiedDescriptionName = {
+			"Use this banana peel bomb to make your enemies fall.",
+			"Class: ^777777Shuriken^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Banana Bomb",
+		identifiedResourceName = "바나나폭탄",
+		identifiedDescriptionName = {
+			"Use this banana peel bomb to make your enemies fall.",
+			"Class: ^777777Shuriken^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[13265] = {
+		unidentifiedDisplayName = "Black Lump",
+		unidentifiedResourceName = "검은덩어리",
+		unidentifiedDescriptionName = {
+			"A black lump that can used as a projctile.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777775^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Black Lump",
+		identifiedResourceName = "검은덩어리",
+		identifiedDescriptionName = {
+			"A black lump that can used as a projctile.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777775^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[13266] = {
+		unidentifiedDisplayName = "Black Hard Lump",
+		unidentifiedResourceName = "검고딱딱한덩어리",
+		unidentifiedDescriptionName = {
+			"A slightly larger black lump that can used as a projectile.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777775^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Black Hard Lump",
+		identifiedResourceName = "검고딱딱한덩어리",
+		identifiedDescriptionName = {
+			"A slightly larger black lump that can used as a projectile.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777775^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[13267] = {
+		unidentifiedDisplayName = "Very Hard Lump",
+		unidentifiedResourceName = "무지딱딱한덩어리",
+		unidentifiedDescriptionName = {
+			"A hardened black lump that can kill when thrown at someone.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777775^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Very Hard Lump",
+		identifiedResourceName = "무지딱딱한덩어리",
+		identifiedDescriptionName = {
+			"A hardened black lump that can kill when thrown at someone.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777775^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[13268] = {
+		unidentifiedDisplayName = "Mysterious Powder",
+		unidentifiedResourceName = "알수없는가루",
+		unidentifiedDescriptionName = {
+			"Mysterious unknown powder. You don't know what harm it will cause if thrown at someone.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777771^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Mysterious Powder",
+		identifiedResourceName = "알수없는가루",
+		identifiedDescriptionName = {
+			"Mysterious unknown powder. You don't know what harm it will cause if thrown at someone.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777771^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[13269] = {
+		unidentifiedDisplayName = "Throwing Boost500",
+		unidentifiedResourceName = "부스트500",
+		unidentifiedDescriptionName = {
+			"A refined Boost500 for throwing. Increases attack speed.",
+			"Class: ^777777Shell^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777771^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Throwing Boost500",
+		identifiedResourceName = "부스트500",
+		identifiedDescriptionName = {
+			"A refined Boost500 for throwing. Increases attack speed.",
+			"Class: ^777777Shell^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777771^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[13270] = {
+		unidentifiedDisplayName = "Throwing Full SwingK",
+		unidentifiedResourceName = "풀스윙K",
+		unidentifiedDescriptionName = {
+			"Slightly remodeled Full SwingK enabled for throwing. Increases ATK.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777775^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Throwing Full SwingK",
+		identifiedResourceName = "풀스윙K",
+		identifiedDescriptionName = {
+			"Slightly remodeled Full SwingK enabled for throwing. Increases ATK.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777775^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[13271] = {
+		unidentifiedDisplayName = "Throwing Mana Plus",
+		unidentifiedResourceName = "마나플러스",
+		unidentifiedDescriptionName = {
+			"Slightly remodeled Mana Plus enabled for throwing. Increases Magic attack.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777775^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Throwing Mana Plus",
+		identifiedResourceName = "마나플러스",
+		identifiedDescriptionName = {
+			"Slightly remodeled Mana Plus enabled for throwing. Increases Magic attack.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777775^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[13272] = {
+		unidentifiedDisplayName = "Throwing Cure Free",
+		unidentifiedResourceName = "큐어프리",
+		unidentifiedDescriptionName = {
+			"Slightly remodeled Cure Free enabled for throwing. Recovers several kinds of abnormal statuses. Recovers a small amount of HP.",
+			"(Silence, Bleeding, Poison, Curse, Reverse Orcish, Change Undead)",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight:: ^7777775^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Throwing Cure Free",
+		identifiedResourceName = "큐어프리",
+		identifiedDescriptionName = {
+			"Slightly remodeled Cure Free enabled for throwing. Recovers several kinds of abnormal statuses. Recovers a small amount of HP.",
+			"(Silence, Bleeding, Poison, Curse, Reverse Orcish, Change Undead)",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight:: ^7777775^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[13273] = {
+		unidentifiedDisplayName = "Throwing Muramura(M)",
+		unidentifiedResourceName = "불끈불끈M",
+		unidentifiedDescriptionName = {
+			"A remodeled Muramura M for throwing. Increases max HP.",
+			"Class: ^777777Shell^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777771^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Throwing Muramura(M)",
+		identifiedResourceName = "불끈불끈M",
+		identifiedDescriptionName = {
+			"A remodeled Muramura M for throwing. Increases max HP.",
+			"Class: ^777777Shell^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777771^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[13274] = {
+		unidentifiedDisplayName = "Throwing Falmons(F)",
+		unidentifiedResourceName = "활면수F",
+		unidentifiedDescriptionName = {
+			"A remodeled Falmons F for throwing. Increases max SP.",
+			"Class: ^777777Shell^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777775^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Throwing Falmons(F)",
+		identifiedResourceName = "활면수F",
+		identifiedDescriptionName = {
+			"A remodeled Falmons F for throwing. Increases max SP.",
+			"Class: ^777777Shell^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777775^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[13275] = {
+		unidentifiedDisplayName = "Throwing HP Increase Potion(Small)",
+		unidentifiedResourceName = "HP증가포션_소",
+		unidentifiedDescriptionName = {
+			"Slightly remodeled HP increase potion(S) enabled for throwing. MaxHP slightly increased for 500 sec, HP recovery +1%.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777772^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Throwing HP Increase Potion(Small)",
+		identifiedResourceName = "HP증가포션_소",
+		identifiedDescriptionName = {
+			"Slightly remodeled HP increase potion(S) enabled for throwing. MaxHP slightly increased for 500 sec, HP recovery +1%.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777772^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[13276] = {
+		unidentifiedDisplayName = "Throwing HP Increase Potion(Mid)",
+		unidentifiedResourceName = "HP증가포션_중",
+		unidentifiedDescriptionName = {
+			"Slightly remodeled HP increase potion(M) enabled for throwing. MaxHP moderately increased for 500 sec, HP recovery +2%.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777774^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Throwing HP Increase Potion(Mid)",
+		identifiedResourceName = "HP증가포션_중",
+		identifiedDescriptionName = {
+			"Slightly remodeled HP increase potion(M) enabled for throwing. MaxHP moderately increased for 500 sec, HP recovery +2%.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777774^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[13277] = {
+		unidentifiedDisplayName = "Throwing HP Increase Potion(Large)",
+		unidentifiedResourceName = "HP증가포션_대",
+		unidentifiedDescriptionName = {
+			"Slightly remodeled HP increase potion(L) enabled for throwing. MaxHP greatly increased for 500 sec, HP recovery +5%.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777778^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Throwing HP Increase Potion(Large)",
+		identifiedResourceName = "HP증가포션_대",
+		identifiedDescriptionName = {
+			"Slightly remodeled HP increase potion(L) enabled for throwing. MaxHP greatly increased for 500 sec, HP recovery +5%.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777778^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[13278] = {
+		unidentifiedDisplayName = "Throwing HP Increase Potion(Small)",
+		unidentifiedResourceName = "SP증가포션_소",
+		unidentifiedDescriptionName = {
+			"Slightly remodeled SP Increase Potion(S) enabled for throwing. MaxSP slightly increased for 500 sec, SP recovery +2%.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777772^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Throwing HP Increase Potion(Small)",
+		identifiedResourceName = "SP증가포션_소",
+		identifiedDescriptionName = {
+			"Slightly remodeled SP Increase Potion(S) enabled for throwing. MaxSP slightly increased for 500 sec, SP recovery +2%.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777772^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[13279] = {
+		unidentifiedDisplayName = "Throwing SP Increase Potion(Mid)",
+		unidentifiedResourceName = "SP증가포션_중",
+		unidentifiedDescriptionName = {
+			"Slightly remodeled SP Increase Potion(M) enabled for throwing. MaxSP increased for 500 sec, SP recovery +4%.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777774^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Throwing SP Increase Potion(Mid)",
+		identifiedResourceName = "SP증가포션_중",
+		identifiedDescriptionName = {
+			"Slightly remodeled SP Increase Potion(M) enabled for throwing. MaxSP increased for 500 sec, SP recovery +4%.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777774^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[13280] = {
+		unidentifiedDisplayName = "Throwing SP Increase Potion(Large)",
+		unidentifiedResourceName = "SP증가포션_대",
+		unidentifiedDescriptionName = {
+			"Slightly remodeled SP increase potion(L) enabled for throwing. MaxSP greatly increased for 500 sec, SP recovery +8%.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777778^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Throwing SP Increase Potion(Large)",
+		identifiedResourceName = "SP증가포션_대",
+		identifiedDescriptionName = {
+			"Slightly remodeled SP increase potion(L) enabled for throwing. MaxSP greatly increased for 500 sec, SP recovery +8%.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777778^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[13281] = {
+		unidentifiedDisplayName = "Throwing Enriched White PotionZ",
+		unidentifiedResourceName = "농축화이트포션Z",
+		unidentifiedDescriptionName = {
+			"Slightly remodeled Enriched White Potion enabled for throwing.",
+			"Recovers a large amount of HP, increases natural HP recovery speed by 20%. Duration: 500 sec.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777777^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Throwing Enriched White PotionZ",
+		identifiedResourceName = "농축화이트포션Z",
+		identifiedDescriptionName = {
+			"Slightly remodeled Enriched White Potion enabled for throwing.",
+			"Recovers a large amount of HP, increases natural HP recovery speed by 20%. Duration: 500 sec.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777777^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[13282] = {
+		unidentifiedDisplayName = "Throwing Vitata500",
+		unidentifiedResourceName = "비타타500",
+		unidentifiedDescriptionName = {
+			"Slightly remodeled Vitata 500 enabled for throwing.",
+			"Recovers SP, and increase SP recovery speed by 20%, increase MaxSP by 5%. Duration: 500 sec.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777775^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Throwing Vitata500",
+		identifiedResourceName = "비타타500",
+		identifiedDescriptionName = {
+			"Slightly remodeled Vitata 500 enabled for throwing.",
+			"Recovers SP, and increase SP recovery speed by 20%, increase MaxSP by 5%. Duration: 500 sec.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777775^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[13283] = {
+		unidentifiedDisplayName = "Throwing Enrich Celermine Juice",
+		unidentifiedResourceName = "농축샐러마인즙",
+		unidentifiedDescriptionName = {
+			"Slightly remodeled Enriched Cell Juice enabled for throwing.",
+			"Increases ASPD. Duration: 500 sec.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777775^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Throwing Enrich Celermine Juice",
+		identifiedResourceName = "농축샐러마인즙",
+		identifiedDescriptionName = {
+			"Slightly remodeled Enriched Cell Juice enabled for throwing.",
+			"Increases ASPD. Duration: 500 sec.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777775^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[13284] = {
+		unidentifiedDisplayName = "Throwing Savage BBQ",
+		unidentifiedResourceName = "세비지통구이",
+		unidentifiedDescriptionName = {
+			"Slightly remodeled Savage BBQ enabled for throwing.",
+			"Increases Str.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777775^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Throwing Savage BBQ",
+		identifiedResourceName = "세비지통구이",
+		identifiedDescriptionName = {
+			"Slightly remodeled Savage BBQ enabled for throwing.",
+			"Increases Str.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777775^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[13285] = {
+		unidentifiedDisplayName = "Throwing Wug Blood Cocktail",
+		unidentifiedResourceName = "칵테일워그블러드",
+		unidentifiedDescriptionName = {
+			"Slightly remodeled Wug Blood Cocktail enabled for throwing.",
+			"Increases Int.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777775^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Throwing Wug Blood Cocktail",
+		identifiedResourceName = "칵테일워그블러드",
+		identifiedDescriptionName = {
+			"Slightly remodeled Wug Blood Cocktail enabled for throwing.",
+			"Increases Int.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777775^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[13286] = {
+		unidentifiedDisplayName = "Throwing Minor Brisket",
+		unidentifiedResourceName = "마이너양지머리",
+		unidentifiedDescriptionName = {
+			"Slightly remodeled Minor Brisket enabled for throwing that increases Vit.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777775^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Throwing Minor Brisket",
+		identifiedResourceName = "마이너양지머리",
+		identifiedDescriptionName = {
+			"Slightly remodeled Minor Brisket enabled for throwing that increases Vit.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777775^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[13287] = {
+		unidentifiedDisplayName = "Throwing Siroma Icetea",
+		unidentifiedResourceName = "시로마아이스티",
+		unidentifiedDescriptionName = {
+			"Slightly remodeled Siroma Ice Tea enabled for throwing that increases Dex.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777775^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Throwing Siroma Icetea",
+		identifiedResourceName = "시로마아이스티",
+		identifiedDescriptionName = {
+			"Slightly remodeled Siroma Ice Tea enabled for throwing that increases Dex.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777775^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[13288] = {
+		unidentifiedDisplayName = "Throwing Drocera Herb Stew",
+		unidentifiedResourceName = "드로세라허브찜",
+		unidentifiedDescriptionName = {
+			"Slightly remodeled Drocera Herb Stew enabled for throwing that increases Agi.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777775^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Throwing Drocera Herb Stew",
+		identifiedResourceName = "드로세라허브찜",
+		identifiedDescriptionName = {
+			"Slightly remodeled Drocera Herb Stew enabled for throwing that increases Agi.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777775^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[13289] = {
+		unidentifiedDisplayName = "Throwing Petit Tail Noodle",
+		unidentifiedResourceName = "쁘띠꼬리국수",
+		unidentifiedDescriptionName = {
+			"Slightly remodeled Petit Tail Noodle enabled for throwing that increases Luk.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777775^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Throwing Petit Tail Noodle",
+		identifiedResourceName = "쁘띠꼬리국수",
+		identifiedDescriptionName = {
+			"Slightly remodeled Petit Tail Noodle enabled for throwing that increases Luk.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777775^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[13290] = {
+		unidentifiedDisplayName = "Throwing Black Thing",
+		unidentifiedResourceName = "검은물체",
+		unidentifiedDescriptionName = {
+			"Slightly remodeled Black lump enabled for throwing that decreases all Statuses.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777775^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Throwing Black Thing",
+		identifiedResourceName = "검은물체",
+		identifiedDescriptionName = {
+			"Slightly remodeled Black lump enabled for throwing that decreases all Statuses.",
+			"Class: ^777777Projectile^000000",
+			"Attack: ^7777770^000000",
+			"Weight: ^7777775^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},	
 	[13300] = {
 		unidentifiedDisplayName = "Huuma Shuriken",
 		unidentifiedResourceName = "풍마_편익",
@@ -89486,6 +91538,51 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 22
 	},
+	[13308] = {
+		unidentifiedDisplayName = "Huuma Shuriken",
+		unidentifiedResourceName = "풍마_편익",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Huuma Blaze Shuriken",
+		identifiedResourceName = "풍마_열화",
+		identifiedDescriptionName = {
+			"A ^FF0000Fire^000000 Property Huuma shuriken that sparks like a firecracker when it strikes enemies.",
+			"Add a 3% chance of auto casting ^008800Level 5 Fireball^000000 on the enemy when attacking.",
+			"DEX +2.",
+			"Class: ^777777Huuma Shuriken^000000",
+			"Attack: ^777777230^000000",
+			"Weight: ^7777770^000000",
+			"Property: ^FF0000 Fire^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777Ninja^000000"
+		},
+		slotCount = 0,
+		ClassNum = 22
+	},
+	[13309] = {
+		unidentifiedDisplayName = "Huuma Shuriken",
+		unidentifiedResourceName = "풍마_편익",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Huuma Giant Wheel Shuriken",
+		identifiedResourceName = "풍마_대차륜",
+		identifiedDescriptionName = {
+			"^000088Rental Items^000000",
+			"A heavy, giant shuriken shaped like a bladed wheel.",
+			"^FF0000External Bleeding^000000 an enemy when you attack (Success Chance ?%).",
+			"Increases damage against small, medium, large size monsters by 80%.",
+			"Class: ^777777Huuma Shuriken^000000",
+			"Attack: ^77777799^000000",
+			"Weight: ^7777770^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777Ninja^000000"
+		},
+		slotCount = 0,
+		ClassNum = 22
+	},	
 	[13400] = {
 		unidentifiedDisplayName = "One-handed Sword",
 		unidentifiedResourceName = "소드",
@@ -89689,6 +91786,103 @@ tbl = {
 		slotCount = 2,
 		ClassNum = 2
 	},
+	[13406] = {
+		unidentifiedDisplayName = "One-Handed Sword",
+		unidentifiedResourceName = "소드",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Edger",
+		identifiedResourceName = "엣지",
+		identifiedDescriptionName = {
+			"The adventurers who are brave the item which is provided from the hazard adventurer guild.",
+			"Increases damage by 50%.",
+			"^FF0000Unrefineable^000000",
+			"Class: ^777777One-Handed Sword^000000",
+			"Attack: ^777777120^000000",
+			"Weight: ^7777770^000000",
+			"Weapon Level: ^7777771^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777Swordman, Merchant and Thief^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2
+	},
+	[13407] = {
+		unidentifiedDisplayName = "One-Handed Sword",
+		unidentifiedResourceName = "소드",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Refined Nagan",
+		identifiedResourceName = "네이건",
+		identifiedDescriptionName = {
+			"^000088Rental Items^000000",
+			"An one-handed sword topped with several extra edges for making wounds deeper and more unsightly.",
+			"Increases damage against DemiHuman monster by 40%",
+			"...",
+			"^FF0000Unrefineable^000000",
+			"Class: ^777777One-Handed Sword^000000",
+			"Attack: ^777777148^000000",
+			"Weight: ^7777770^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777Swordman, Merchant and Thief^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2
+	},
+	[13408] = {
+		unidentifiedDisplayName = "One-Handed Sword",
+		unidentifiedResourceName = "소드",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Refined Fireblend",
+		identifiedResourceName = "화이어브랜드",
+		identifiedDescriptionName = {
+			"^000088Rental Items^000000",
+			"An one-handed, formal dress sword imbued with the ^FF0000Fire^000000 Property.",
+			"Enables use of ^008800Level 5 Fire Bolt^000000.",
+			"INT +2, Add a 10% chance of auto casting ^008800Level 5 Fire Bolt^000000 on the enemy when attacking.",
+			"^FF0000Unrefineable^000000",
+			"Class: ^777777One-Handed Sword^000000",
+			"Attack: ^777777120^000000",
+			"Weight: ^7777770^000000",
+			"Property: ^FF0000 Fire^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777Swordman, Merchant and Thief^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2
+	},
+	[13409] = {
+		unidentifiedDisplayName = "One-Handed Sword",
+		unidentifiedResourceName = "소드",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Refined Immaterial Sword",
+		identifiedResourceName = "무형검",
+		identifiedDescriptionName = {
+			"^000088Rental Items^000000",
+			"An one-handed, formless sword imbued with the ^777777Ghost^000000 Property that can derange the enemy's mind.",
+			"Drains 45% of target's SP by a low chance.",
+			"...",
+			"^FF0000Unrefineable^000000",
+			"^702180Indestructible^000000",
+			"Class: ^777777One-Handed Sword^000000",
+			"Attack: ^777777160^000000",
+			"Weight: ^7777770^000000",
+			"Property: ^777777Ghost^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777Swordman, Merchant and Thief^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2
+	},	
 	[13410] = {
 		unidentifiedDisplayName = "Valorous Gladiator Blade",
 		unidentifiedResourceName = "스타블레이드",
@@ -89991,6 +92185,48 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 2
 	},
+	[13419] = {
+		unidentifiedDisplayName = "One-Handed Sword",
+		unidentifiedResourceName = "소드",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Holy Saber",
+		identifiedResourceName = "세이버",
+		identifiedDescriptionName = {
+			"^000088Rental Item^000000",
+			"Saber Sacred.",
+			"Increases damage against Undead monster by 40%.",
+			"Class: ^777777One-Hand Sword^000000",
+			"Attack: ^777777160^000000",
+			"Weight: ^7777770^000000",
+			"Weapon Level: ^7777773^000000",
+			"Jobs: ^777777Swordman Class, Merchant Class, Rogue Class^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2
+	},
+	[13420] = {
+		unidentifiedDisplayName = "One-Handed Sword",
+		unidentifiedResourceName = "소드",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Honglyun's Sword",
+		identifiedResourceName = "홍련의검",
+		identifiedDescriptionName = {
+			"A sword used at rite for the heavenly god.",
+			"STR +2, INT +2.",
+			"Class: ^777777One-Handed Sword^000000",
+			"Attack: ^777777160^000000",
+			"Weight: ^777777120^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^77777770^000000",
+			"Jobs: ^777777Swordman, Merchant and Thief^000000"
+		},
+		slotCount = 1,
+		ClassNum = 2
+	},	
 	[13421] = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "소드",
@@ -90012,6 +92248,27 @@ tbl = {
 		slotCount = 1,
 		ClassNum = 2
 	},
+	[13422] = {
+		unidentifiedDisplayName = "One-Handed Sword",
+		unidentifiedResourceName = "소드",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Flamberge",
+		identifiedResourceName = "프람베르그",
+		identifiedDescriptionName = {
+			"^000088Rental Items^000000",
+			"A powerful one-handed sword with a decoratively wavy, flame-like blade.",
+			"Increases damage against small, medium, large size monsters by 40%.",
+			"Class: ^777777One-Handed Sword^000000",
+			"Attack: ^777777185^000000",
+			"Weight: ^7777770^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777Knight and Crusader^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2
+	},	
 	[13426] = {
 		unidentifiedDisplayName = "Cutlas",
 		unidentifiedResourceName = "커틀러스",
@@ -90086,6 +92343,32 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
+	[13500] = {
+		unidentifiedDisplayName = "Life Insurrance Box",
+		unidentifiedResourceName = "오래된보라상자",
+		unidentifiedDescriptionName = {
+			"A box containing 10 Life Insurance Certificate for 1 hours.",
+			"^FFFFFF_^000000",
+			"Life insurance - Within the active duration of 60 minutes, player will not lose any experience the first time he is KO'ed. Valid for just once.",
+			"^FFFFFF_^000000",
+			"^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Life Insurrance Box",
+		identifiedResourceName = "오래된보라상자",
+		identifiedDescriptionName = {
+			"A box containing 10 Life Insurance Certificate for 1 hours.",
+			"^FFFFFF_^000000",
+			"Life insurance - Within the active duration of 60 minutes, player will not lose any experience the first time he is KO'ed. Valid for just once.",
+			"^FFFFFF_^000000",
+			"^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},	
 	[13503] = {
 		unidentifiedDisplayName = "Baphomet Horns Box",
 		unidentifiedResourceName = "오래된보라상자",
@@ -93031,6 +95314,52 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
+	[13927] = {
+		unidentifiedDisplayName = "Alchemist Card Box",
+		unidentifiedResourceName = "오래된노란상자",
+		unidentifiedDescriptionName = {
+			"A gift box with cards only for Alchemist.",
+			"Contains 'Zipper Bear', 'Baby Leopard', 'Holden', 'Raggler' and 'Muka' Card.",
+			"^FFFFFF_^000000",
+			"^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Alchemist Card Box",
+		identifiedResourceName = "오래된노란상자",
+		identifiedDescriptionName = {
+			"A gift box with cards only for Alchemist.",
+			"Contains 'Zipper Bear', 'Baby Leopard', 'Holden', 'Raggler' and 'Muka' Card.",
+			"^FFFFFF_^000000",
+			"^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[13933] = {
+		unidentifiedDisplayName = "Undine Box",
+		unidentifiedResourceName = "빨간상자",
+		unidentifiedDescriptionName = {
+			"A box contains 4 'Laurell Weinder' Card.",
+			"^FFFFFF_^000000",
+			"^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Undine Box",
+		identifiedResourceName = "빨간상자",
+		identifiedDescriptionName = {
+			"A box contains 4 'Laurell Weinder' Card.",
+			"^FFFFFF_^000000",
+			"^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},		
 	[13940] = {
 		unidentifiedDisplayName = "WoE Teleport Scroll 100 Box",
 		unidentifiedResourceName = "햇빛의상자",
@@ -93190,6 +95519,32 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
+	[13977] = {
+		unidentifiedDisplayName = "Freshman Magic Powder Box",
+		unidentifiedResourceName = "새내기상자",
+		unidentifiedDescriptionName = {
+			"A box containing 1 Freshman Magic Powder. Available for one week.",
+			"When double clicked, your font changes, and when used again, your font goes back to normal.",
+			"Works only for chats said above your head and for vend names.",
+			"^FFFFFF_^000000",
+			"^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Freshman Magic Powder Box",
+		identifiedResourceName = "새내기상자",
+		identifiedDescriptionName = {
+			"A box containing 1 Freshman Magic Powder. Available for one week.",
+			"When double clicked, your font changes, and when used again, your font goes back to normal.",
+			"Works only for chats said above your head and for vend names.",
+			"^FFFFFF_^000000",
+			"^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},	
 	[13994] = {
 		unidentifiedDisplayName = "Old Blue Box",
 		unidentifiedResourceName = "빨간상자",
@@ -93248,6 +95603,28 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
+	[14000] = {
+		unidentifiedDisplayName = "Pill Box(500)",
+		unidentifiedResourceName = "오래된보라상자",
+		unidentifiedDescriptionName = {
+			"A box contains 500 Pill.",
+			"^FFFFFF_^000000",
+			"^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Pill Box(500)",
+		identifiedResourceName = "오래된보라상자",
+		identifiedDescriptionName = {
+			"A box contains 500 Pill.",
+			"^FFFFFF_^000000",
+			"^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},	
 	[14002] = {
 		unidentifiedDisplayName = "Advanced WoE Supply Box",
 		unidentifiedResourceName = "빨간상자",
@@ -96009,74 +98386,32 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
-	[14495] = {
-		unidentifiedDisplayName = "Aquarius Diadem Box",
-		unidentifiedResourceName = "스피어팩_수",
+	[14500] = {
+		unidentifiedDisplayName = "Life Insurrance Certificate",
+		unidentifiedResourceName = "생명보험증서",
 		unidentifiedDescriptionName = {
-			"A box that contains an Aquarius Diadem Headgear.",
-			"^ffffff_^000000",
-			"Weight: ^7777771^000000",
+			"A life insurance certificate issued by Kafra Center.",
+			"Once the player receives the benefit from this certificate, the item will lose its effect.",
+			"If the character dies within the 60 minutes duration, no loss of EXP will be made.",
+			"Corrected display suppose to be will not lose any experience the first time you ko'ed.",
+			"The effect will disappear after your first KO'.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
 		},
-		identifiedDisplayName = "Aquarius Diadem Box",
-		identifiedResourceName = "스피어팩_수",
+		identifiedDisplayName = "Life Insurrance Certificate",
+		identifiedResourceName = "생명보험증서",
 		identifiedDescriptionName = {
-			"A box that contains an Aquarius Diadem Headgear.",
-			"Weight: ^7777771^000000",
+			"A life insurance certificate issued by Kafra Center.",
+			"Once the player receives the benefit from this certificate, the item will lose its effect.",
+			"If the character dies within the 60 minutes duration, no loss of EXP will be made.",
+			"Corrected display suppose to be will not lose any experience the first time you ko'ed.",
+			"The effect will disappear after your first KO'.",
+			"^FFFFFF_^000000",
+			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0
-	},
-	[14496] = {
-		unidentifiedDisplayName = "Aquarius Crown Box",
-		unidentifiedResourceName = "스피어팩_수",
-		unidentifiedDescriptionName = {
-			"A box that contains an Aquarius Crown Headgaer.",
-			"^ffffff_^000000",
-			"Weight: ^7777771^000000",
-		},
-		identifiedDisplayName = "Aquarius Crown Box",
-		identifiedResourceName = "스피어팩_수",
-		identifiedDescriptionName = {
-			"A box that contains an Aquarius Crown Headgaer.",
-			"Weight: ^7777771^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[14497] = {
-		unidentifiedDisplayName = "Pisces Diadem Box",
-		unidentifiedResourceName = "스피어팩_독",
-		unidentifiedDescriptionName = {
-			"A box that contains a Pisces Diadem Headgear.",
-			"^ffffff_^000000",
-			"Weight: ^7777771^000000",
-		},
-		identifiedDisplayName = "Pisces Diadem Box",
-		identifiedResourceName = "스피어팩_독",
-		identifiedDescriptionName = {
-			"A box that contains a Pisces Diadem Headgear.",
-			"Weight: ^7777771^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[14498] = {
-		unidentifiedDisplayName = "Pisces Crown Box",
-		unidentifiedResourceName = "스피어팩_독",
-		unidentifiedDescriptionName = {
-			"A box that contains a Pisces Crown Headgear.",
-			"^ffffff_^000000",
-			"Weight: ^7777771^000000",
-		},
-		identifiedDisplayName = "Pisces Crown Box",
-		identifiedResourceName = "스피어팩_독",
-		identifiedDescriptionName = {
-			"A box that contains a Pisces Crown Headgear.",
-			"Weight: ^7777771^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
+	},	
 	[14509] = {
 		unidentifiedDisplayName = "Light Concentration Potion",
 		unidentifiedResourceName = "집중포션",
@@ -99480,6 +101815,116 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
+	[18000] = {
+		unidentifiedDisplayName = "Cannon Ball",
+		unidentifiedResourceName = "캐논볼",
+		unidentifiedDescriptionName = {
+			"A consumable item to use the Mechanic Magic Gear Skill, Arm's Cannon.",
+			"Class: ^777777Cannonball^000000",
+			"Attack: ^777777100^000000",
+			"Weight: ^7777771^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Cannon Ball",
+		identifiedResourceName = "캐논볼",
+		identifiedDescriptionName = {
+			"A consumable item to use the Mechanic Magic Gear Skill, Arm's Cannon.",
+			"Class: ^777777Cannonball^000000",
+			"Attack: ^777777100^000000",
+			"Weight: ^7777771^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[18001] = {
+		unidentifiedDisplayName = "Holy Cannon Ball",
+		unidentifiedResourceName = "홀리캐논볼",
+		unidentifiedDescriptionName = {
+			"A consumable item to use the Mechanic Magic Gear Skill, Arm's Cannon.",
+			"Class: ^777777Cannonball^000000",
+			"Attack: ^777777120^000000",
+			"Weight: ^7777771^000000",
+			"Property: ^777777Holy^000000"
+		},
+		identifiedDisplayName = "Holy Cannon Ball",
+		identifiedResourceName = "홀리캐논볼",
+		identifiedDescriptionName = {
+			"A consumable item to use the Mechanic Magic Gear Skill, Arm's Cannon.",
+			"Class: ^777777Cannonball^000000",
+			"Attack: ^777777120^000000",
+			"Weight: ^7777771^000000",
+			"Property: ^777777Holy^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[18002] = {
+		unidentifiedDisplayName = "Dark Cannon Ball",
+		unidentifiedResourceName = "다크캐논볼",
+		unidentifiedDescriptionName = {
+			"A consumable item to use the Mechanic Magic Gear Skill, Arm's Cannon.",
+			"Class: ^777777Cannonball^000000",
+			"Attack: ^777777120^000000",
+			"Weight: ^7777771^000000",
+			"Property: ^777777shadow^000000"
+		},
+		identifiedDisplayName = "Dark Cannon Ball",
+		identifiedResourceName = "다크캐논볼",
+		identifiedDescriptionName = {
+			"A consumable item to use the Mechanic Magic Gear Skill, Arm's Cannon.",
+			"Class: ^777777Cannonball^000000",
+			"Attack: ^777777120^000000",
+			"Weight: ^7777771^000000",
+			"Property: ^777777shadow^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[18003] = {
+		unidentifiedDisplayName = "Soul Cannon Ball",
+		unidentifiedResourceName = "소울캐논볼",
+		unidentifiedDescriptionName = {
+			"A consumable item to use the Mechanic Magic Gear Skill, Arm's Cannon.",
+			"Class: ^777777Cannonball^000000",
+			"Attack: ^777777120^000000",
+			"Weight: ^7777771^000000",
+			"Property: ^777777Ghost^000000"
+		},
+		identifiedDisplayName = "Soul Cannon Ball",
+		identifiedResourceName = "소울캐논볼",
+		identifiedDescriptionName = {
+			"A consumable item to use the Mechanic Magic Gear Skill, Arm's Cannon.",
+			"Class: ^777777Cannonball^000000",
+			"Attack: ^777777120^000000",
+			"Weight: ^7777771^000000",
+			"Property: ^777777Ghost^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[18004] = {
+		unidentifiedDisplayName = "Iron Cannon Ball",
+		unidentifiedResourceName = "아이언캐논볼",
+		unidentifiedDescriptionName = {
+			"A consumable item to use the Mechanic Magic Gear Skill, Arm's Cannon.",
+			"Class: ^777777Cannonball^000000",
+			"Attack: ^777777250^000000",
+			"Weight: ^7777771^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Iron Cannon Ball",
+		identifiedResourceName = "아이언캐논볼",
+		identifiedDescriptionName = {
+			"A consumable item to use the Mechanic Magic Gear Skill, Arm's Cannon.",
+			"Class: ^777777Cannonball^000000",
+			"Attack: ^777777250^000000",
+			"Weight: ^7777771^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},	
 	[18101] = {
 		unidentifiedDisplayName = "Bow Of Rudra",
 		unidentifiedResourceName = "루드라의활",
@@ -99517,6 +101962,27 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 77
 	},
+	[18500] = {
+		unidentifiedDisplayName = "Mouth Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
+		},
+		identifiedDisplayName = "Cheering scarf VI",
+		identifiedResourceName = "갱스카프",
+		identifiedDescriptionName = {
+			"^000088Rental item^000000",
+			"Passionate red scarf.",
+			"Increase experience received from killing monster by 60%.",
+			"Class: ^777777Headgear^000000",
+			"Defense: ^7777770^000000",
+			"Location: ^777777Lower^000000",
+			"Weight: ^7777770^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 369
+	},	
 	[18507] = {
 		unidentifiedDisplayName = "Elven Ears",
 		unidentifiedResourceName = "리본",
@@ -99986,48 +102452,6 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 17
-	},
-	[13423] = {
-		unidentifiedDisplayName = "P.SabreⅠ",
-		unidentifiedResourceName = "스타블레이드",
-		unidentifiedDescriptionName = {
-			"An unknown item requiring appraisal. It can be identified by using a magnifier.",
-		},
-		identifiedDisplayName = "Eden Sabre I",
-		identifiedResourceName = "스타블레이드",
-		identifiedDescriptionName = {
-			"A one-handed sword that is made by the Eden Group. A weapon that can be used by anyone easily.",
-			"Cannot be upgraded.",
-			"Class: ^777777One-Handed Sword^000000",
-			"Attack: ^777777147^000000",
-			"Weight: ^7777770^000000",
-			"Weapon Level: ^7777772^000000",
-			"Required Level: ^77777726^000000",
-			"Jobs: ^777777SwordmanClass/Merchant Class/Thief Class^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[13424] = {
-		unidentifiedDisplayName = "P.SabreⅡ",
-		unidentifiedResourceName = "레이피어",
-		unidentifiedDescriptionName = {
-			"An unknown item requiring appraisal. It can be identified by using a magnifier.",
-		},
-		identifiedDisplayName = "Eden Sabre II",
-		identifiedResourceName = "레이피어",
-		identifiedDescriptionName = {
-			"A one-handed sword that is made by the Eden Group. It's suitable for an intermediate sword handler.",
-			"Cannot be upgraded.",
-			"Class: ^777777One-Handed Sword^000000",
-			"Attack : ^777777170^000000",
-			"Weight: ^7777770^000000",
-			"Weapon Level: ^7777772^000000",
-			"Required Level: ^77777740^000000",
-			"Jobs: ^777777SwordmanClass/Merchant Class/Thief Class^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
 	},
 	[15009] = {
 		unidentifiedDisplayName = "Paradise TeamUniformⅠ",
@@ -104111,27 +106535,6 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
-	[18527] = {
-		unidentifiedDisplayName = "Gloomy Pumpkin Hat",
-		unidentifiedResourceName = "캡",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Gloomy Pumpkin Hat",
-		identifiedResourceName = "음침한호박모자",
-		identifiedDescriptionName = {
-			"A pumpkin hat that has glowing eyes.",
-			"When killing monsters, has a chance of dropping Pumpkin Pie's.",
-			"Class: ^777777headgear^000000",
-			"Defense: ^7777775^000000",
-			"Location: ^777777Upper^000000",
-			"Weight: ^77777750^000000",
-			"Required Level: ^77777745^000000",
-			"Jobs: ^777777All^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
 	[18532] = {
 		unidentifiedDisplayName = "Hairband",
 		unidentifiedResourceName = "머리띠",
@@ -105618,62 +108021,6 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 520
 	},
-	[6481] = {
-		unidentifiedDisplayName = "Sacred Rock Shard",
-		unidentifiedResourceName = "수정조각",
-		unidentifiedDescriptionName = {
-			"^ff0000Not available for trade.^000000",
-			"A shard of a Holy Rock, recreating the entire Holy rock will help unlock the past.",
-			"Weight: ^7777770^000000",
-		},
-		identifiedDisplayName = "Sacred Rock Shard",
-		identifiedResourceName = "수정조각",
-		identifiedDescriptionName = {
-			"^ff0000Not available for trade.^000000",
-			"A shard of a Holy Rock, recreating the entire Holy rock will help unlock the past.",
-			"Weight: ^7777770^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[6482] = {
-		unidentifiedDisplayName = "Ancient City Key",
-		unidentifiedResourceName = "황금열쇠",
-		unidentifiedDescriptionName = {
-			"^ff0000Not available for trade.^000000",
-			"A key with secrt power. Keys to allow you inside the old city.",
-			"Weight: ^7777770^000000",
-		},
-		identifiedDisplayName = "Ancient City Key",
-		identifiedResourceName = "황금열쇠",
-		identifiedDescriptionName = {
-			"^ff0000Not available for trade.^000000",
-			"A key with a secret power that allows access into the Old city of Payon.",
-			"Bring this item to the Old Timer in the Eden Group Bar and he can show you the pathway.",
-			"Weight: ^7777770^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[6483] = {
-		unidentifiedDisplayName = "Dream Scroll",
-		unidentifiedResourceName = "카프라명세서",
-		unidentifiedDescriptionName = {
-			"^ff0000Not available for trade.^000000",
-			"A scroll with secret power. Keys to allow you inside the old city.",
-			"Weight: ^7777770^000000",
-		},
-		identifiedDisplayName = "Dream Scroll",
-		identifiedResourceName = "카프라명세서",
-		identifiedDescriptionName = {
-			"^ff0000Not available for trade.^000000",
-			"A scroll with secret power. This allows access into the memory of Morroc.",
-			"Bring this item to the Old Timer in the Eden Group Bar and he can show you the pathway.",
-			"Weight: ^7777770^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
 	[17081] = {
 		unidentifiedDisplayName = "Yggdrasil Crown Box",
 		unidentifiedResourceName = "유그드라실box",
@@ -106041,49 +108388,6 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
-	[2843] = {
-		unidentifiedDisplayName = "Accessory",
-		unidentifiedResourceName = "황금방울",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Golden Bell",
-		identifiedResourceName = "황금방울",
-		identifiedDescriptionName = {
-			"^ff0000This item cannot be traded with others.^000000",
-			"It has a message inscribed - An accessory hung over a beast's neck to show dignity.",
-			"SP + 50.",
-			"Class: ^777777Accessory^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^7777770^000000",
-			"Required Level: ^77777775^000000",
-			"Class: ^777777All^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[2844] = {
-		unidentifiedDisplayName = "Accessory",
-		unidentifiedResourceName = "엘디카스테스의빛",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Light of El Dicastes",
-		identifiedResourceName = "엘디카스테스의빛",
-		identifiedDescriptionName = {
-			"^ff0000This item cannot be traded with others.^000000",
-			"A brooch made to resemble the El Dicastes Diel.",
-			"Allows teleportation to the Sapha Capital El Discastes at all times with the skill [To El Dicastes].",
-			"^00ff00Open your skill window and use the [To El Dicastes] skill to activate^000000.",
-			"Class: ^777777Accessory^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^77777710^000000",
-			"Required Level: ^77777780^000000",
-			"Class: ^777777All^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
 	[4760] = {
 		unidentifiedDisplayName = "MATK+1%",
 		unidentifiedResourceName = "안실라",
@@ -106200,6 +108504,222 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
+	[4768] = {
+		unidentifiedDisplayName = "STR+1",
+		unidentifiedResourceName = "용의보주_청",
+		unidentifiedDescriptionName = {
+		},
+		identifiedDisplayName = "STR+1",
+		identifiedResourceName = "용의보주_청",
+		identifiedDescriptionName = {
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[4769] = {
+		unidentifiedDisplayName = "STR+2",
+		unidentifiedResourceName = "용의보주_청",
+		unidentifiedDescriptionName = {
+		},
+		identifiedDisplayName = "STR+2",
+		identifiedResourceName = "용의보주_청",
+		identifiedDescriptionName = {
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[4770] = {
+		unidentifiedDisplayName = "STR+3",
+		unidentifiedResourceName = "용의보주_청",
+		unidentifiedDescriptionName = {
+		},
+		identifiedDisplayName = "STR+3",
+		identifiedResourceName = "용의보주_청",
+		identifiedDescriptionName = {
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[4771] = {
+		unidentifiedDisplayName = "INT+1",
+		unidentifiedResourceName = "용의보주_청",
+		unidentifiedDescriptionName = {
+		},
+		identifiedDisplayName = "INT+1",
+		identifiedResourceName = "용의보주_청",
+		identifiedDescriptionName = {
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[4772] = {
+		unidentifiedDisplayName = "INT+2",
+		unidentifiedResourceName = "용의보주_청",
+		unidentifiedDescriptionName = {
+		},
+		identifiedDisplayName = "INT+2",
+		identifiedResourceName = "용의보주_청",
+		identifiedDescriptionName = {
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[4773] = {
+		unidentifiedDisplayName = "INT+3",
+		unidentifiedResourceName = "용의보주_청",
+		unidentifiedDescriptionName = {
+		},
+		identifiedDisplayName = "INT+3",
+		identifiedResourceName = "용의보주_청",
+		identifiedDescriptionName = {
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[4774] = {
+		unidentifiedDisplayName = "VIT+1",
+		unidentifiedResourceName = "용의보주_청",
+		unidentifiedDescriptionName = {
+		},
+		identifiedDisplayName = "VIT+1",
+		identifiedResourceName = "용의보주_청",
+		identifiedDescriptionName = {
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[4775] = {
+		unidentifiedDisplayName = "VIT+2",
+		unidentifiedResourceName = "용의보주_청",
+		unidentifiedDescriptionName = {
+		},
+		identifiedDisplayName = "VIT+2",
+		identifiedResourceName = "용의보주_청",
+		identifiedDescriptionName = {
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[4776] = {
+		unidentifiedDisplayName = "VIT+3",
+		unidentifiedResourceName = "용의보주_청",
+		unidentifiedDescriptionName = {
+		},
+		identifiedDisplayName = "VIT+3",
+		identifiedResourceName = "용의보주_청",
+		identifiedDescriptionName = {
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[4777] = {
+		unidentifiedDisplayName = "AGI+1",
+		unidentifiedResourceName = "용의보주_청",
+		unidentifiedDescriptionName = {
+		},
+		identifiedDisplayName = "AGI+1",
+		identifiedResourceName = "용의보주_청",
+		identifiedDescriptionName = {
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[4778] = {
+		unidentifiedDisplayName = "AGI+2",
+		unidentifiedResourceName = "용의보주_청",
+		unidentifiedDescriptionName = {
+		},
+		identifiedDisplayName = "AGI+2",
+		identifiedResourceName = "용의보주_청",
+		identifiedDescriptionName = {
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[4779] = {
+		unidentifiedDisplayName = "AGI+3",
+		unidentifiedResourceName = "용의보주_청",
+		unidentifiedDescriptionName = {
+		},
+		identifiedDisplayName = "AGI+3",
+		identifiedResourceName = "용의보주_청",
+		identifiedDescriptionName = {
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[4780] = {
+		unidentifiedDisplayName = "DEX+1",
+		unidentifiedResourceName = "용의보주_청",
+		unidentifiedDescriptionName = {
+		},
+		identifiedDisplayName = "DEX+1",
+		identifiedResourceName = "용의보주_청",
+		identifiedDescriptionName = {
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[4781] = {
+		unidentifiedDisplayName = "DEX+2",
+		unidentifiedResourceName = "용의보주_청",
+		unidentifiedDescriptionName = {
+		},
+		identifiedDisplayName = "DEX+2",
+		identifiedResourceName = "용의보주_청",
+		identifiedDescriptionName = {
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[4782] = {
+		unidentifiedDisplayName = "DEX+3",
+		unidentifiedResourceName = "용의보주_청",
+		unidentifiedDescriptionName = {
+		},
+		identifiedDisplayName = "DEX+3",
+		identifiedResourceName = "용의보주_청",
+		identifiedDescriptionName = {
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[4783] = {
+		unidentifiedDisplayName = "LUK+1",
+		unidentifiedResourceName = "용의보주_청",
+		unidentifiedDescriptionName = {
+		},
+		identifiedDisplayName = "LUK+1",
+		identifiedResourceName = "용의보주_청",
+		identifiedDescriptionName = {
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[4784] = {
+		unidentifiedDisplayName = "LUK+2",
+		unidentifiedResourceName = "용의보주_청",
+		unidentifiedDescriptionName = {
+		},
+		identifiedDisplayName = "LUK+2",
+		identifiedResourceName = "용의보주_청",
+		identifiedDescriptionName = {
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[4785] = {
+		unidentifiedDisplayName = "LUK+3",
+		unidentifiedResourceName = "용의보주_청",
+		unidentifiedDescriptionName = {
+		},
+		identifiedDisplayName = "LUK+3",
+		identifiedResourceName = "용의보주_청",
+		identifiedDescriptionName = {
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},		
 	[6304] = {
 		unidentifiedDisplayName = "Exploit Certification of Sapha",
 		unidentifiedResourceName = "사파공훈증",
@@ -106656,38 +109176,6 @@ tbl = {
 			"Wearable by all, but lvl 70 required, no special attributes other than high Defense at this time.",
 			"Groove Pack is NOT tradable.",
 			"Weight :^7777771^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[6494] = {
-		unidentifiedDisplayName = "Kafra Coin",
-		unidentifiedResourceName = "골드코인",
-		unidentifiedDescriptionName = {
-			"A sparkling coin minted in the Kafra Headquarters in Aldebaran. These can be exchanged for various goods and services.",
-			"Weight: ^7777770^0000",
-		},
-		identifiedDisplayName = "Kafra Coin",
-		identifiedResourceName = "골드코인",
-		identifiedDescriptionName = {
-			"A sparkling coin minted in the Kafra Headquarters in Aldebaran. These can be exchanged for various goods and services.",
-			"Weight: ^7777770^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[6495] = {
-		unidentifiedDisplayName = "Eden Merit Badge",
-		unidentifiedResourceName = "아홉세계의권위",
-		unidentifiedDescriptionName = {
-			"The Eden group recognizes the bearer of this badge as one who has done great deeds. These can be exchanged for various goods and services.",
-			"Weight: ^7777770^0000",
-		},
-		identifiedDisplayName = "Eden Merit Badge",
-		identifiedResourceName = "아홉세계의권위",
-		identifiedDescriptionName = {
-			"The Eden group recognizes the bearer of this badge as one who has done great deeds. These can be exchanged for various goods and services.",
-			"Weight: ^7777770^000000",
 		},
 		slotCount = 0,
 		ClassNum = 0
@@ -107588,244 +110076,6 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
-	[4786] = {
-		unidentifiedDisplayName = "MDEF+2",
-		unidentifiedResourceName = "마력석_초록",
-		unidentifiedDescriptionName = {
-			"MDEF +2",
-		},
-		identifiedDisplayName = "MDEF+2",
-		identifiedResourceName = "마력석_초록",
-		identifiedDescriptionName = {
-			"MDEF +2",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4787] = {
-		unidentifiedDisplayName = "MDEF+4",
-		unidentifiedResourceName = "마력석_초록",
-		unidentifiedDescriptionName = {
-			"MDEF +4",
-		},
-		identifiedDisplayName = "MDEF+4",
-		identifiedResourceName = "마력석_초록",
-		identifiedDescriptionName = {
-			"MDEF +4",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4788] = {
-		unidentifiedDisplayName = "MDEF+6",
-		unidentifiedResourceName = "마력석_초록",
-		unidentifiedDescriptionName = {
-			"MDEF +6",
-		},
-		identifiedDisplayName = "MDEF+6",
-		identifiedResourceName = "마력석_초록",
-		identifiedDescriptionName = {
-			"MDEF +6",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4789] = {
-		unidentifiedDisplayName = "MDEF+8",
-		unidentifiedResourceName = "마력석_초록",
-		unidentifiedDescriptionName = {
-			"MDEF +8",
-		},
-		identifiedDisplayName = "MDEF+8",
-		identifiedResourceName = "마력석_초록",
-		identifiedDescriptionName = {
-			"MDEF +8",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4790] = {
-		unidentifiedDisplayName = "MDEF+10",
-		unidentifiedResourceName = "마력석_초록",
-		unidentifiedDescriptionName = {
-			"MDEF +10",
-		},
-		identifiedDisplayName = "MDEF+10",
-		identifiedResourceName = "마력석_초록",
-		identifiedDescriptionName = {
-			"MDEF +10",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4791] = {
-		unidentifiedDisplayName = "DEF+3",
-		unidentifiedResourceName = "마력석_검정",
-		unidentifiedDescriptionName = {
-			"DEF + 3",
-		},
-		identifiedDisplayName = "DEF+3",
-		identifiedResourceName = "마력석_검정",
-		identifiedDescriptionName = {
-			"DEF + 3",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4792] = {
-		unidentifiedDisplayName = "DEF+6",
-		unidentifiedResourceName = "마력석_검정",
-		unidentifiedDescriptionName = {
-			"DEF + 6",
-		},
-		identifiedDisplayName = "DEF+6",
-		identifiedResourceName = "마력석_검정",
-		identifiedDescriptionName = {
-			"DEF + 6",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4793] = {
-		unidentifiedDisplayName = "DEF+9",
-		unidentifiedResourceName = "마력석_검정",
-		unidentifiedDescriptionName = {
-			"DEF + 9",
-		},
-		identifiedDisplayName = "DEF+9",
-		identifiedResourceName = "마력석_검정",
-		identifiedDescriptionName = {
-			"DEF + 9",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4794] = {
-		unidentifiedDisplayName = "DEF+12",
-		unidentifiedResourceName = "마력석_검정",
-		unidentifiedDescriptionName = {
-			"DEF + 12",
-		},
-		identifiedDisplayName = "DEF+12",
-		identifiedResourceName = "마력석_검정",
-		identifiedDescriptionName = {
-			"DEF + 12",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4795] = {
-		unidentifiedDisplayName = "HP+100",
-		unidentifiedResourceName = "마력석_빨강",
-		unidentifiedDescriptionName = {
-			"HP + 100",
-		},
-		identifiedDisplayName = "HP+100",
-		identifiedResourceName = "마력석_빨강",
-		identifiedDescriptionName = {
-			"HP + 100",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4796] = {
-		unidentifiedDisplayName = "HP+200",
-		unidentifiedResourceName = "마력석_빨강",
-		unidentifiedDescriptionName = {
-			"HP + 200",
-		},
-		identifiedDisplayName = "HP+200",
-		identifiedResourceName = "마력석_빨강",
-		identifiedDescriptionName = {
-			"HP + 200",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4797] = {
-		unidentifiedDisplayName = "HP+300",
-		unidentifiedResourceName = "마력석_빨강",
-		unidentifiedDescriptionName = {
-			"HP + 300",
-		},
-		identifiedDisplayName = "HP+300",
-		identifiedResourceName = "마력석_빨강",
-		identifiedDescriptionName = {
-			"HP + 300",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4798] = {
-		unidentifiedDisplayName = "HP+400",
-		unidentifiedResourceName = "마력석_빨강",
-		unidentifiedDescriptionName = {
-			"HP + 400",
-		},
-		identifiedDisplayName = "HP+400",
-		identifiedResourceName = "마력석_빨강",
-		identifiedDescriptionName = {
-			"HP + 400",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4799] = {
-		unidentifiedDisplayName = "HP+500",
-		unidentifiedResourceName = "마력석_빨강",
-		unidentifiedDescriptionName = {
-			"HP + 500",
-		},
-		identifiedDisplayName = "HP+500",
-		identifiedResourceName = "마력석_빨강",
-		identifiedDescriptionName = {
-			"HP + 500",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4800] = {
-		unidentifiedDisplayName = "SP+50",
-		unidentifiedResourceName = "마력석_파랑",
-		unidentifiedDescriptionName = {
-			"SP + 50",
-		},
-		identifiedDisplayName = "SP+50",
-		identifiedResourceName = "마력석_파랑",
-		identifiedDescriptionName = {
-			"SP + 50",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4801] = {
-		unidentifiedDisplayName = "SP+100",
-		unidentifiedResourceName = "마력석_파랑",
-		unidentifiedDescriptionName = {
-			"SP + 100",
-		},
-		identifiedDisplayName = "SP+100",
-		identifiedResourceName = "마력석_파랑",
-		identifiedDescriptionName = {
-			"SP + 100",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4802] = {
-		unidentifiedDisplayName = "SP+150",
-		unidentifiedResourceName = "마력석_파랑",
-		unidentifiedDescriptionName = {
-			"SP + 150",
-		},
-		identifiedDisplayName = "SP+150",
-		identifiedResourceName = "마력석_파랑",
-		identifiedDescriptionName = {
-			"SP + 150",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
 	[6235] = {
 		unidentifiedDisplayName = "Safe to 7 Headgear Certificate",
 		unidentifiedResourceName = "쿠폰",
@@ -107911,54 +110161,6 @@ tbl = {
 		identifiedDescriptionName = {
 			"Traditional first time allows you to learn the good-natured character \"^0000FFC^000000\" card which is used for special events.",
 			"^FFFFFF_^000000",
-			"Weight: ^7777771^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[6485] = {
-		unidentifiedDisplayName = "Blue 2 Card",
-		unidentifiedResourceName = "파란카드2",
-		unidentifiedDescriptionName = {
-			"The letter ^0000882^000000 card which could be good for learning letters for the first time. It's frequently used for event.",
-			"Weight: ^7777771^000000"
-		},
-		identifiedDisplayName = "Blue 2 Card",
-		identifiedResourceName = "파란카드2",
-		identifiedDescriptionName = {
-			"The letter ^0000882^000000 card which could be good for learning letters for the first time. It's frequently used for event.",
-			"Weight: ^7777771^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[6486] = {
-		unidentifiedDisplayName = "Blue 0 Card",
-		unidentifiedResourceName = "파란카드0",
-		unidentifiedDescriptionName = {
-			"The letter ^0000880^000000 card which could be good for learning letters for the first time. It's frequently used for event.",
-			"Weight: ^7777771^000000"
-		},
-		identifiedDisplayName = "Blue 0 Card",
-		identifiedResourceName = "파란카드0",
-		identifiedDescriptionName = {
-			"The letter ^0000880^000000 card which could be good for learning letters for the first time. It's frequently used for event.",
-			"Weight: ^7777771^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[6487] = {
-		unidentifiedDisplayName = "Blue 1 Card",
-		unidentifiedResourceName = "파란카드1",
-		unidentifiedDescriptionName = {
-			"The letter ^0000881^000000 card which could be good for learning letters for the first time. It's frequently used for event.",
-			"Weight: ^7777771^000000"
-		},
-		identifiedDisplayName = "Blue 1 Card",
-		identifiedResourceName = "파란카드1",
-		identifiedDescriptionName = {
-			"The letter ^0000881^000000 card which could be good for learning letters for the first time. It's frequently used for event.",
 			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -109833,48 +112035,6 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
-	[4803] = {
-		unidentifiedDisplayName = "Cure1Lv.",
-		unidentifiedResourceName = "안실라",
-		unidentifiedDescriptionName = {
-			"Decreases cooldown time for Highness Heal by 3 seconds.",
-		},
-		identifiedDisplayName = "Cure1Lv.",
-		identifiedResourceName = "안실라",
-		identifiedDescriptionName = {
-			"Decreases cooldown time for Highness Heal by 3 seconds.",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4804] = {
-		unidentifiedDisplayName = "Catholic1Lv.",
-		unidentifiedResourceName = "안실라",
-		unidentifiedDescriptionName = {
-			"Decreases SP cost of Coluseo Heal by 30.",
-		},
-		identifiedDisplayName = "Catholic1Lv.",
-		identifiedResourceName = "안실라",
-		identifiedDescriptionName = {
-			"Decreases SP cost of Coluseo Heal by 30.",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4805] = {
-		unidentifiedDisplayName = "Archbishop1Lv.",
-		unidentifiedResourceName = "투명한보석",
-		unidentifiedDescriptionName = {
-			"Increases the effectiveness of healing skills by 3%.",
-		},
-		identifiedDisplayName = "Archbishop1Lv.",
-		identifiedResourceName = "투명한보석",
-		identifiedDescriptionName = {
-			"Increases the effectiveness of healing skills by 3%.",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
 	[11519] = {
 		unidentifiedDisplayName = "Beef Toast",
 		unidentifiedResourceName = "비프토스트",
@@ -110109,624 +112269,6 @@ tbl = {
 		identifiedResourceName = "맛있는젤리",
 		identifiedDescriptionName = {
 			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4859] = {
-		unidentifiedDisplayName = "Evasion1",
-		unidentifiedResourceName = "안실라",
-		unidentifiedDescriptionName = {
-			"Evasion1",
-		},
-		identifiedDisplayName = "Evasion1",
-		identifiedResourceName = "안실라",
-		identifiedDescriptionName = {
-			"FLEE +1",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4860] = {
-		unidentifiedDisplayName = "Evasion3",
-		unidentifiedResourceName = "안실라",
-		unidentifiedDescriptionName = {
-			"Evasion3",
-		},
-		identifiedDisplayName = "Evasion3",
-		identifiedResourceName = "안실라",
-		identifiedDescriptionName = {
-			"FLEE +3",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[6469] = {
-		unidentifiedDisplayName = "Will of Warrior",
-		unidentifiedResourceName = "용사의의지",
-		unidentifiedDescriptionName = {
-			"A collection of biological relics from various warriors",
-			"^ff0000Used for combining biological materials in a testing lab^000000",
-			"Weight: ^7777771^000000",
-		},
-		identifiedDisplayName = "Will of Warrior",
-		identifiedResourceName = "용사의의지",
-		identifiedDescriptionName = {
-			"A collection of biological relics from various warriors",
-			"^ff0000Used for combining biological materials in a testing lab^000000",
-			"Weight: ^7777771^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[6470] = {
-		unidentifiedDisplayName = "Blood Thirst",
-		unidentifiedResourceName = "피의갈증",
-		unidentifiedDescriptionName = {
-			"Reactionary forces causes the thirst for blood",
-			"^ff0000Used for combining biological materials in a testing lab^000000",
-			"Weight: ^7777771^000000",
-		},
-		identifiedDisplayName = "Blood Thirst",
-		identifiedResourceName = "피의갈증",
-		identifiedDescriptionName = {
-			"Reactionary forces causes the thirst for blood",
-			"^ff0000Used for combining biological materials in a testing lab^000000",
-			"Weight: ^7777771^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[6471] = {
-		unidentifiedDisplayName = "Ghost Chill",
-		unidentifiedResourceName = "망자의한기",
-		unidentifiedDescriptionName = {
-			"The darkness of Nifflheim is lumped into this.",
-			"^ff0000Used for combining biological materials in a testing lab^000000",
-			"Weight: ^7777771^000000",
-		},
-		identifiedDisplayName = "Ghost Chill",
-		identifiedResourceName = "망자의한기",
-		identifiedDescriptionName = {
-			"The darkness of Nifflheim is lumped into this.",
-			"^ff0000Used for combining biological materials in a testing lab^000000",
-			"Weight: ^7777771^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4807] = {
-		unidentifiedDisplayName = "Atk Speed1",
-		unidentifiedResourceName = "태양신의상징",
-		unidentifiedDescriptionName = {
-			"Aspd +1",
-		},
-		identifiedDisplayName = "Atk Speed1",
-		identifiedResourceName = "태양신의상징",
-		identifiedDescriptionName = {
-			"Aspd +1",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4808] = {
-		unidentifiedDisplayName = "Fighting Spirit4",
-		unidentifiedResourceName = "용의보주_녹",
-		unidentifiedDescriptionName = {
-			"Attack +15",
-			"Hit +5",
-		},
-		identifiedDisplayName = "Fighting Spirit4",
-		identifiedResourceName = "용의보주_녹",
-		identifiedDescriptionName = {
-			"Attack +15",
-			"Hit +5",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4809] = {
-		unidentifiedDisplayName = "Fighting Spirit3",
-		unidentifiedResourceName = "용의보주_녹",
-		unidentifiedDescriptionName = {
-			"Attack +12",
-			"Hit +4",
-		},
-		identifiedDisplayName = "Fighting Spirit3",
-		identifiedResourceName = "용의보주_녹",
-		identifiedDescriptionName = {
-			"Attack +12",
-			"Hit +4",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4810] = {
-		unidentifiedDisplayName = "Fighting Spirit2",
-		unidentifiedResourceName = "용의보주_녹",
-		unidentifiedDescriptionName = {
-			"Attack +9",
-			"Hit +3",
-		},
-		identifiedDisplayName = "Fighting Spirit2",
-		identifiedResourceName = "용의보주_녹",
-		identifiedDescriptionName = {
-			"Attack +9",
-			"Hit +3",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4811] = {
-		unidentifiedDisplayName = "Fighting Spirit1",
-		unidentifiedResourceName = "용의보주_녹",
-		unidentifiedDescriptionName = {
-			"Attack +6",
-			"Hit +2",
-		},
-		identifiedDisplayName = "Fighting Spirit1",
-		identifiedResourceName = "용의보주_녹",
-		identifiedDescriptionName = {
-			"Attack +6",
-			"Hit +2",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4812] = {
-		unidentifiedDisplayName = "Spell4",
-		unidentifiedResourceName = "용의보주_청",
-		unidentifiedDescriptionName = {
-			"Matk +15",
-			"Decrease Casting Time by 10%",
-		},
-		identifiedDisplayName = "Spell4",
-		identifiedResourceName = "용의보주_청",
-		identifiedDescriptionName = {
-			"Matk +15",
-			"Decrease Casting Time by 10%",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4813] = {
-		unidentifiedDisplayName = "Spell3",
-		unidentifiedResourceName = "용의보주_청",
-		unidentifiedDescriptionName = {
-			"Matk +12",
-			"Decrease Casting Time by 8%",
-		},
-		identifiedDisplayName = "Spell3",
-		identifiedResourceName = "용의보주_청",
-		identifiedDescriptionName = {
-			"Matk +12",
-			"Decrease Casting Time by 8%",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4814] = {
-		unidentifiedDisplayName = "Spell2",
-		unidentifiedResourceName = "용의보주_청",
-		unidentifiedDescriptionName = {
-			"Matk +9",
-			"Decrease Casting Time by 6%",
-		},
-		identifiedDisplayName = "Spell2",
-		identifiedResourceName = "용의보주_청",
-		identifiedDescriptionName = {
-			"Matk +9",
-			"Decrease Casting Time by 6%",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4815] = {
-		unidentifiedDisplayName = "Spell1",
-		unidentifiedResourceName = "용의보주_청",
-		unidentifiedDescriptionName = {
-			"Matk +6",
-			"Decrease Casting Time by 3%",
-		},
-		identifiedDisplayName = "Spell1",
-		identifiedResourceName = "용의보주_청",
-		identifiedDescriptionName = {
-			"Matk +6",
-			"Decrease Casting Time by 3%",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4816] = {
-		unidentifiedDisplayName = "Sharp3",
-		unidentifiedResourceName = "용의보주_녹",
-		unidentifiedDescriptionName = {
-			"Critical Rate +12%",
-			"HIt +4",
-		},
-		identifiedDisplayName = "Sharp3",
-		identifiedResourceName = "용의보주_녹",
-		identifiedDescriptionName = {
-			"Critical Rate +12%",
-			"HIt +4",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4817] = {
-		unidentifiedDisplayName = "Sharp2",
-		unidentifiedResourceName = "용의보주_녹",
-		unidentifiedDescriptionName = {
-			"Critical Rate +9%",
-			"Hit +3",
-		},
-		identifiedDisplayName = "Sharp2",
-		identifiedResourceName = "용의보주_녹",
-		identifiedDescriptionName = {
-			"Critical Rate +9%",
-			"Hit +3",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4818] = {
-		unidentifiedDisplayName = "Sharp1",
-		unidentifiedResourceName = "용의보주_녹",
-		unidentifiedDescriptionName = {
-			"Critical Rate +6%",
-			"Hit +2",
-		},
-		identifiedDisplayName = "Sharp1",
-		identifiedResourceName = "용의보주_녹",
-		identifiedDescriptionName = {
-			"Critical Rate +6%",
-			"Hit +2",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4819] = {
-		unidentifiedDisplayName = "Atk1",
-		unidentifiedResourceName = "안실라",
-		unidentifiedDescriptionName = {
-			"Increases damage on enemies by 1%",
-		},
-		identifiedDisplayName = "Atk1",
-		identifiedResourceName = "안실라",
-		identifiedDescriptionName = {
-			"Increases damage on enemies by 1%",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4820] = {
-		unidentifiedDisplayName = "Fighting Spirit5",
-		unidentifiedResourceName = "용의보주_녹",
-		unidentifiedDescriptionName = {
-			"Attack +18",
-			"Hit +5",
-		},
-		identifiedDisplayName = "Fighting Spirit5",
-		identifiedResourceName = "용의보주_녹",
-		identifiedDescriptionName = {
-			"Attack +18",
-			"Hit +5",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4821] = {
-		unidentifiedDisplayName = "Fighting Spirit6",
-		unidentifiedResourceName = "용의보주_녹",
-		unidentifiedDescriptionName = {
-			"Attack +21",
-			"Hit +5",
-		},
-		identifiedDisplayName = "Fighting Spirit6",
-		identifiedResourceName = "용의보주_녹",
-		identifiedDescriptionName = {
-			"Attack +21",
-			"Hit +5",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4822] = {
-		unidentifiedDisplayName = "Fighting Spirit7",
-		unidentifiedResourceName = "용의보주_녹",
-		unidentifiedDescriptionName = {
-			"Attack +24",
-			"Hit +5",
-		},
-		identifiedDisplayName = "Fighting Spirit7",
-		identifiedResourceName = "용의보주_녹",
-		identifiedDescriptionName = {
-			"Attack +24",
-			"Hit +5",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4823] = {
-		unidentifiedDisplayName = "Fighting Spirit8",
-		unidentifiedResourceName = "용의보주_녹",
-		unidentifiedDescriptionName = {
-			"Attack +27",
-			"Hit +5",
-		},
-		identifiedDisplayName = "Fighting Spirit8",
-		identifiedResourceName = "용의보주_녹",
-		identifiedDescriptionName = {
-			"Attack +27",
-			"Hit +5",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4824] = {
-		unidentifiedDisplayName = "Fighting Spirit9",
-		unidentifiedResourceName = "용의보주_녹",
-		unidentifiedDescriptionName = {
-			"Attack +30",
-			"Hit +5",
-		},
-		identifiedDisplayName = "Fighting Spirit9",
-		identifiedResourceName = "용의보주_녹",
-		identifiedDescriptionName = {
-			"Attack +30",
-			"Hit +5",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4825] = {
-		unidentifiedDisplayName = "Fighting Spirit10",
-		unidentifiedResourceName = "용의보주_녹",
-		unidentifiedDescriptionName = {
-			"Attack +50",
-			"HIT +15",
-		},
-		identifiedDisplayName = "Fighting Spirit10",
-		identifiedResourceName = "용의보주_녹",
-		identifiedDescriptionName = {
-			"Attack +50",
-			"HIT +15",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4832] = {
-		unidentifiedDisplayName = "Expert Archer1",
-		unidentifiedResourceName = "용의보주_황",
-		unidentifiedDescriptionName = {
-			"Ranged Attack +2%",
-		},
-		identifiedDisplayName = "Expert Archer1",
-		identifiedResourceName = "용의보주_황",
-		identifiedDescriptionName = {
-			"Ranged Attack +2%",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4833] = {
-		unidentifiedDisplayName = "Expert Archer2",
-		unidentifiedResourceName = "용의보주_황",
-		unidentifiedDescriptionName = {
-			"Ranged Attack +4%",
-		},
-		identifiedDisplayName = "Expert Archer2",
-		identifiedResourceName = "용의보주_황",
-		identifiedDescriptionName = {
-			"Ranged Attack +4%",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4834] = {
-		unidentifiedDisplayName = "Expert Archer3",
-		unidentifiedResourceName = "용의보주_황",
-		unidentifiedDescriptionName = {
-			"Ranged Attack +6%",
-		},
-		identifiedDisplayName = "Expert Archer3",
-		identifiedResourceName = "용의보주_황",
-		identifiedDescriptionName = {
-			"Ranged Attack +6%",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4835] = {
-		unidentifiedDisplayName = "Expert Archer4",
-		unidentifiedResourceName = "용의보주_황",
-		unidentifiedDescriptionName = {
-			"Ranged Attack +8%",
-		},
-		identifiedDisplayName = "Expert Archer4",
-		identifiedResourceName = "용의보주_황",
-		identifiedDescriptionName = {
-			"Ranged Attack +8%",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4836] = {
-		unidentifiedDisplayName = "Expert Archer5",
-		unidentifiedResourceName = "용의보주_황",
-		unidentifiedDescriptionName = {
-			"Ranged Attack +10%",
-		},
-		identifiedDisplayName = "Expert Archer5",
-		identifiedResourceName = "용의보주_황",
-		identifiedDescriptionName = {
-			"Ranged Attack +10%",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4837] = {
-		unidentifiedDisplayName = "Expert Archer6",
-		unidentifiedResourceName = "용의보주_황",
-		unidentifiedDescriptionName = {
-			"Ranged Attack +12%",
-		},
-		identifiedDisplayName = "Expert Archer6",
-		identifiedResourceName = "용의보주_황",
-		identifiedDescriptionName = {
-			"Ranged Attack +12%",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4838] = {
-		unidentifiedDisplayName = "Expert Archer7",
-		unidentifiedResourceName = "용의보주_황",
-		unidentifiedDescriptionName = {
-			"Ranged Attack +14%",
-		},
-		identifiedDisplayName = "Expert Archer7",
-		identifiedResourceName = "용의보주_황",
-		identifiedDescriptionName = {
-			"Ranged Attack +14%",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4839] = {
-		unidentifiedDisplayName = "Expert Archer8",
-		unidentifiedResourceName = "용의보주_황",
-		unidentifiedDescriptionName = {
-			"Ranged Attack +16%",
-		},
-		identifiedDisplayName = "Expert Archer8",
-		identifiedResourceName = "용의보주_황",
-		identifiedDescriptionName = {
-			"Ranged Attack +16%",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4840] = {
-		unidentifiedDisplayName = "Expert Archer9",
-		unidentifiedResourceName = "용의보주_황",
-		unidentifiedDescriptionName = {
-			"Ranged Attack +18%",
-		},
-		identifiedDisplayName = "Expert Archer9",
-		identifiedResourceName = "용의보주_황",
-		identifiedDescriptionName = {
-			"Ranged Attack +18%",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4841] = {
-		unidentifiedDisplayName = "Expert Archer10",
-		unidentifiedResourceName = "용의보주_황",
-		unidentifiedDescriptionName = {
-			"Ranged Attack +20%",
-			"Aspd +1",
-		},
-		identifiedDisplayName = "Expert Archer10",
-		identifiedResourceName = "용의보주_황",
-		identifiedDescriptionName = {
-			"Ranged Attack +20%",
-			"Aspd +1",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4842] = {
-		unidentifiedDisplayName = "Atk Speed2",
-		unidentifiedResourceName = "태양신의상징",
-		unidentifiedDescriptionName = {
-			"Aspd +2",
-		},
-		identifiedDisplayName = "Atk Speed2",
-		identifiedResourceName = "태양신의상징",
-		identifiedDescriptionName = {
-			"Aspd +2",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4843] = {
-		unidentifiedDisplayName = "Sharp4",
-		unidentifiedResourceName = "용의보주_녹",
-		unidentifiedDescriptionName = {
-			"Critical Rate +14%",
-			"Hit +5",
-		},
-		identifiedDisplayName = "Sharp4",
-		identifiedResourceName = "용의보주_녹",
-		identifiedDescriptionName = {
-			"Critical Rate +14%",
-			"Hit +5",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4844] = {
-		unidentifiedDisplayName = "Sharp5",
-		unidentifiedResourceName = "용의보주_녹",
-		unidentifiedDescriptionName = {
-			"Critical Rate +15%",
-			"Hit +6",
-		},
-		identifiedDisplayName = "Sharp5",
-		identifiedResourceName = "용의보주_녹",
-		identifiedDescriptionName = {
-			"Critical Rate +15%",
-			"Hit +6",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4850] = {
-		unidentifiedDisplayName = "Heal Amount3",
-		unidentifiedResourceName = "안실라",
-		unidentifiedDescriptionName = {
-			"Increases heal efficiency by 6%",
-			"Increases SP consumption by 5%",
-		},
-		identifiedDisplayName = "Heal Amount3",
-		identifiedResourceName = "안실라",
-		identifiedDescriptionName = {
-			"Increases heal efficiency by 6%",
-			"Increases SP consumption by 5%",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4851] = {
-		unidentifiedDisplayName = "Heal Amount4",
-		unidentifiedResourceName = "안실라",
-		unidentifiedDescriptionName = {
-			"Increases heal efficiency by 12%",
-			"Increases SP consumption by 10%",
-		},
-		identifiedDisplayName = "Heal Amount4",
-		identifiedResourceName = "안실라",
-		identifiedDescriptionName = {
-			"Increases heal efficiency by 12%",
-			"Increases SP consumption by 10%",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4852] = {
-		unidentifiedDisplayName = "Heal Amount5",
-		unidentifiedResourceName = "안실라",
-		unidentifiedDescriptionName = {
-			"Increases heal efficiency by 20%",
-			"Increases SP consumption by 15%",
-		},
-		identifiedDisplayName = "Heal Amount5",
-		identifiedResourceName = "안실라",
-		identifiedDescriptionName = {
-			"Increases heal efficiency by 20%",
-			"Increases SP consumption by 15%",
 		},
 		slotCount = 0,
 		ClassNum = 0
@@ -111193,25 +112735,6 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
-	[6484] = {
-		unidentifiedDisplayName = "Heroic Desocketing Book",
-		unidentifiedResourceName = "decard",
-		unidentifiedDescriptionName = {
-			"Bring this book to Troy at the second floor of Eden Group Headquarters and he will remove all cards from 1 item in your equipped inventory.",
-			"All cards will be returned but the item that they are slotted in will be destroyed forever.",
-			"Weight: ^7777771^000000",
-		},
-		identifiedDisplayName = "Heroic Desocketing Book",
-		identifiedResourceName = "decard",
-		identifiedDescriptionName = {
-			"Bring this book and 1 Slotting Advertisement to Troy at the second floor of Eden Group Headquarters and he will remove all cards from 1 item in your equipped inventory.",
-			"All cards will be returned but the item that they are slotted in will be destroyed forever.",
-			"^ff00001 Book is required for every card being removed.^000000",
-			"Weight: ^7777771^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
 	[17181] = {
 		unidentifiedDisplayName = "Getting Lucky Box",
 		unidentifiedResourceName = "음식보자기",
@@ -111252,38 +112775,6 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
-	[4846] = {
-		unidentifiedDisplayName = "Fully Loved Stone",
-		unidentifiedResourceName = "현자의돌",
-		unidentifiedDescriptionName = {
-			"Used to be a normal stone until it is filled with love.",
-			"ATK + 10, MATK + 10.",
-		},
-		identifiedDisplayName = "Fully Loved Stone",
-		identifiedResourceName = "현자의돌",
-		identifiedDescriptionName = {
-			"Used to be a normal stone until it is filled with love.",
-			"ATK + 10, MATK + 10.",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4847] = {
-		unidentifiedDisplayName = "Spelled Stone",
-		unidentifiedResourceName = "투명한보석",
-		unidentifiedDescriptionName = {
-			"Used to be a normal stone until it is filled with evil spirit.",
-			"ATK + 10, MATK + 10.",
-		},
-		identifiedDisplayName = "Spelled Stone",
-		identifiedResourceName = "투명한보석",
-		identifiedDescriptionName = {
-			"Used to be a normal stone until it is filled with evil spirit.",
-			"ATK + 10, MATK + 10.",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
 	[6345] = {
 		unidentifiedDisplayName = "Love Much",
 		unidentifiedResourceName = "사랑뭉치",
@@ -111295,24 +112786,6 @@ tbl = {
 		identifiedResourceName = "사랑뭉치",
 		identifiedDescriptionName = {
 			"Filled with loving varied colors.",
-			"Weight: ^7777770^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[6464] = {
-		unidentifiedDisplayName = "Hate Much",
-		unidentifiedResourceName = "검고딱딱한덩어리",
-		unidentifiedDescriptionName = {
-			"^ff0000Cannot be traded with others.^000000",
-			"Filled with darkness of hatred and jealousy.",
-			"Weight: ^7777770^000000",
-		},
-		identifiedDisplayName = "Hate Crate",
-		identifiedResourceName = "검고딱딱한덩어리",
-		identifiedDescriptionName = {
-			"^ff0000Cannot be traded with others.^000000",
-			"Filled with darkness of hatred and jealousy.",
 			"Weight: ^7777770^000000",
 		},
 		slotCount = 0,
@@ -111994,143 +113467,6 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
-	[4480] = {
-		unidentifiedDisplayName = "Sealed Kiel Card",
-		unidentifiedResourceName = "이름없는카드",
-		unidentifiedDescriptionName = {
-			"모든 스킬의 후 딜레이가 15% 감소한다.",
-			"15제련 이상 시 시전 후 딜레이 5% 추가 감소.",
-			"Class: ^777777Card^000000",
-			"Compound on : ^777777Headgear^000000",
-			"Weight: ^7777771^000000",
-		},
-		identifiedDisplayName = "Sealed Kiel Card",
-		identifiedResourceName = "이름없는카드",
-		identifiedDescriptionName = {
-			"After cast delay reduced by 15%",
-			"If this card is slotted into a headgear refined to +15 or higher, reduces after-cast delay by 5% more.",
-			"Class: ^777777Card^000000",
-			"Compound on : ^777777Headgear^000000",
-			"Weight: ^7777771^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4481] = {
-		unidentifiedDisplayName = "Sealed Ktullanux Card",
-		unidentifiedResourceName = "이름없는카드",
-		unidentifiedDescriptionName = {
-			"화속성 몬스터에게 물리 데미지 25% 추가.",
-			"물리, 마법 데미지를 입었을 때 일정 확률로 오토스펠 프로스트 노바 Lv10 발동.",
-			"15제련 이상일 경우 화속성 몬스터에게 물리 데미지 10% 추가증가.",
-			"Class: ^777777Card^000000",
-			"Compound on : ^777777갑옷^000000",
-			"Weight: ^7777771^000000",
-		},
-		identifiedDisplayName = "Sealed Ktullanux Card",
-		identifiedResourceName = "이름없는카드",
-		identifiedDescriptionName = {
-			"Increases damage to Fire Property monsters by 25%.",
-			"Has a low chance of auto-casting Frost Nova while being attacked.",
-			"If this card is slotted into an armor refined to +15 or higher, increases damage to Fire Property monsters by 10% more.",
-			"Class: ^777777Card^000000",
-			"Compound on : ^777777Armor^000000",
-			"Weight: ^7777771^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4482] = {
-		unidentifiedDisplayName = "Sealed B Ygnizem Card",
-		unidentifiedResourceName = "이름없는카드",
-		unidentifiedDescriptionName = {
-			"15초마다 50의 HP, 10의 Sp 회복.",
-			"MHP와 MSP가 5% 증가한다.",
-			"15제련 이상 일 경우 HP, SP회복속도 10초로 단축, MHP, MSP가 2% 추가 증가.",
-			"Class: ^777777Card^000000",
-			"Compound on : ^777777신발^000000",
-			"Weight: ^7777771^000000",
-		},
-		identifiedDisplayName = "Sealed B Ygnizem Card",
-		identifiedResourceName = "이름없는카드",
-		identifiedDescriptionName = {
-			"MaxHP +7%",
-			"MaxSP +7%",
-			"Every 15 seconds, you recover 50 HP and 10 SP.",
-			"If this card is slotted into shoes refined to +15 or higher, every 10 seconds, you recover 10 SP.",
-			"Class: ^777777Card^000000",
-			"Compound on : ^777777Shoes^000000",
-			"Weight: ^7777771^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4483] = {
-		unidentifiedDisplayName = "Sealed Dracula Card",
-		unidentifiedResourceName = "이름없는카드",
-		unidentifiedDescriptionName = {
-			"일정확률(5%)로 적에게 준 대미지의 5% 를 자신의 SP로 흡수 한다. 15제련 이상일 경우 흡수할 확률이 7%로 증가.",
-			"Class: ^777777Card^000000",
-			"Compound on : ^777777무기^000000",
-			"Weight: ^7777771^000000",
-		},
-		identifiedDisplayName = "Sealed Dracula Card",
-		identifiedResourceName = "이름없는카드",
-		identifiedDescriptionName = {
-			"일정확률(5%)로 적에게 준 대미지의 5% 를 자신의 SP로 흡수 한다. 15제련 이상일 경우 흡수할 확률이 7%로 증가.",
-			"Class: ^777777Card^000000",
-			"Compound on : ^777777무기^000000",
-			"Weight: ^7777771^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4484] = {
-		unidentifiedDisplayName = "Sealed Mistress Card",
-		unidentifiedResourceName = "이름없는카드",
-		unidentifiedDescriptionName = {
-			"젬스톤을 소모하는 마법들을 소모없이 사용가능하게 한다.",
-			"스킬 사용시 SP소모량이 50% 증가한다.",
-			"15제련 이상 일 경우 스킬 사용시 SP소모량이 35% 증가.",
-			"Class: ^777777Card^000000",
-			"Compound on : ^777777Headgear^000000",
-			"Weight: ^7777771^000000",
-		},
-		identifiedDisplayName = "Sealed Mistress Card",
-		identifiedResourceName = "이름없는카드",
-		identifiedDescriptionName = {
-			"젬스톤을 소모하는 마법들을 소모없이 사용가능하게 한다.",
-			"스킬 사용시 SP소모량이 50% 증가한다.",
-			"15제련 이상 일 경우 스킬 사용시 SP소모량이 35% 증가.",
-			"Class: ^777777Card^000000",
-			"Compound on : ^777777Headgear^000000",
-			"Weight: ^7777771^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[4485] = {
-		unidentifiedDisplayName = "Sealed Gloom Card",
-		unidentifiedResourceName = "이름없는카드",
-		unidentifiedDescriptionName = {
-			"성속성, 암속성, 천사형, 악마형 몬스터에게 물리 데미지 20% 추가.",
-			"15제련 이상일 경우, 성속성, 암속성, 천사형, 악마형 몬스터에게 물리 데미지 10% 추가 증가.",
-			"Class: ^777777Card^000000",
-			"Compound on : ^777777갑옷^000000",
-			"Weight: ^7777771^000000",
-		},
-		identifiedDisplayName = "Sealed Gloom Card",
-		identifiedResourceName = "이름없는카드",
-		identifiedDescriptionName = {
-			"성속성, 암속성, 천사형, 악마형 몬스터에게 물리 데미지 20% 추가.",
-			"15제련 이상일 경우, 성속성, 암속성, 천사형, 악마형 몬스터에게 물리 데미지 10% 추가 증가.",
-			"Class: ^777777Card^000000",
-			"Compound on : ^777777갑옷^000000",
-			"Weight: ^7777771^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
 	[2573] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
@@ -112439,98 +113775,6 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
-	[6496] = {
-		unidentifiedDisplayName = "Tikbalang's Thick Spine",
-		unidentifiedResourceName = "틱버렁의두꺼운등뼈",
-		unidentifiedDescriptionName = {
-			"Tikbalang's thick and tough spine. Sell to a collection dealer.",
-			"^ffffff_^000000",
-			"Weight: ^7777771^000000",
-		},
-		identifiedDisplayName = "Tikbalang's Thick Spine",
-		identifiedResourceName = "틱버렁의두꺼운등뼈",
-		identifiedDescriptionName = {
-			"Tikbalang's thick and tough spine. Sell to a collection dealer.",
-			"^ffffff_^000000",
-			"Weight: ^7777771^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[6497] = {
-		unidentifiedDisplayName = "Lesser Agimat",
-		unidentifiedResourceName = "소부적",
-		unidentifiedDescriptionName = {
-			"Paper that protects a player from harms way or casts special abilities.",
-			"A faint energy can be felt.",
-			"^ffffff_^000000",
-			"Weight: ^7777771^000000",
-		},
-		identifiedDisplayName = "Lesser Agimat",
-		identifiedResourceName = "소부적",
-		identifiedDescriptionName = {
-			"Paper that protects a player from harm's way or casts special abilities.",
-			"A faint energy can be felt.",
-			"^ffffff_^000000",
-			"Weight: ^7777775^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[6498] = {
-		unidentifiedDisplayName = "Jejellopy",
-		unidentifiedResourceName = "라지젤로피",
-		unidentifiedDescriptionName = {
-			"Looks similar to a Large Jellopy but with a shinier crystal.",
-			"^ffffff_^000000",
-			"Weight: ^7777771^000000",
-		},
-		identifiedDisplayName = "Jejellopy",
-		identifiedResourceName = "라지젤로피",
-		identifiedDescriptionName = {
-			"Looks similar to a Large Jellopy but with a shinier crystal.",
-			"^ffffff_^000000",
-			"Weight: ^7777771^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[6499] = {
-		unidentifiedDisplayName = "Ancient Grudge",
-		unidentifiedResourceName = "행운의부적",
-		unidentifiedDescriptionName = {
-			"Paper that protects a player from harm's way or casts special abilities.",
-			"^ffffff_^000000",
-			"Weight: ^7777771^000000",
-		},
-		identifiedDisplayName = "Ancient Grudge",
-		identifiedResourceName = "행운의부적",
-		identifiedDescriptionName = {
-			"Paper that protects a player from harm's way or casts special abilities.",
-			"^ffffff_^000000",
-			"Weight: ^7777771^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[6500] = {
-		unidentifiedDisplayName = "Sharpened Bamboo",
-		unidentifiedResourceName = "부러진대나무",
-		unidentifiedDescriptionName = {
-			"^ff0000Item cannot be traded with other characters.^000000",
-			"Bamboo piece trimmed to be pointy. Looks like it was cut tilted from a thick bamboo.",
-			"Weight: ^7777770^000000",
-		},
-		identifiedDisplayName = "Sharpened Bamboo",
-		identifiedResourceName = "부러진대나무",
-		identifiedDescriptionName = {
-			"^ff0000Item cannot be traded with other characters.^000000",
-			"Bamboo piece trimmed to be pointy. Looks like it was cut tilted from a thick bamboo.",
-			"Weight: ^7777770^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
 	[6501] = {
 		unidentifiedDisplayName = "Salt Bag",
 		unidentifiedResourceName = "무한가죽주머니",
@@ -112821,22 +114065,6 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
-	[6524] = {
-		unidentifiedDisplayName = "Piece of Bangungot's Spirit",
-		unidentifiedResourceName = "망자의한기",
-		unidentifiedDescriptionName = {
-			"Transparent item which imprisons Bangungot's Spirit. Rumor says you can hear Bangungot’s screeching screams when placed in a dark room.",
-			"Weight: ^7777771^000000",
-		},
-		identifiedDisplayName = "Piece of Bangungot's Spirit",
-		identifiedResourceName = "망자의한기",
-		identifiedDescriptionName = {
-			"Transparent item which imprisons Bangungot's Spirit. Rumor says you can hear Bangungot's screeching screams when placed in a dark room.",
-			"Weight: ^7777771^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
 	[6525] = {
 		unidentifiedDisplayName = "Piece of Buwaya's Spirit",
 		unidentifiedResourceName = "망자의한기",
@@ -112849,27 +114077,6 @@ tbl = {
 		identifiedDescriptionName = {
 			"Transparent item which imprisons Buwaya's Spirit. Rumor says you can hear Buwaya's angry shrieks when touched with water.",
 			"Weight: ^7777771^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[18647] = {
-		unidentifiedDisplayName = "Hat",
-		unidentifiedResourceName = "캡",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Stunning Star Eyepatch",
-		identifiedResourceName = "별모양안대",
-		identifiedDescriptionName = {
-			"The Stunning Star Eyepatch is absolutely fabulous!",
-			"It's fabulosity is such that you are 15% less likely to be inflicted by the Stun status.",
-			"^ff0000Account Bound^000000",
-			"Class: ^777777Headgear^000000",
-			"Defense: ^7777770^000000",
-			"Location: ^777777Upper^000000",
-			"Weight: ^77777710^000000",
-			"Jobs: ^777777All^000000",
 		},
 		slotCount = 0,
 		ClassNum = 0
@@ -113333,47 +114540,6 @@ tbl = {
 			"Defense: ^7777772^000000",
 			"Location: ^777777Upper^000000",
 			"Weight: ^77777720^000000",
-			"Location: ^777777All^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[18646] = {
-		unidentifiedDisplayName = "Hat",
-		unidentifiedResourceName = "캡",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Cow Hat",
-		identifiedResourceName = "젖소모자",
-		identifiedDescriptionName = {
-			"A hat which is modeled on a cow. There is rumor that If you put this on while you are sleeping, you could meet a benevolant godly cow",
-			"when defeat monsters, will have a chance to get a 'Milk'",
-			"DEX +2",
-			"Class: ^777777Headgear^000000",
-			"Defense: ^7777770^000000",
-			"Location: ^777777Upper^000000",
-			"Weight: ^77777730^000000",
-			"Location: ^777777All^000000",
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[18648] = {
-		unidentifiedDisplayName = "Accessory",
-		unidentifiedResourceName = "리본",
-		unidentifiedDescriptionName = {
-			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
-		},
-		identifiedDisplayName = "Tongue Charm",
-		identifiedResourceName = "혓바닥부적",
-		identifiedDescriptionName = {
-			"A charm, once it was used to scare and expel demons.",
-			"Reduce 3% of damage from Demon type monster",
-			"Class: ^777777Headgear^000000",
-			"Defense: ^7777770^000000",
-			"Location: ^777777Upper^000000",
-			"Weight: ^77777710^000000",
 			"Location: ^777777All^000000",
 		},
 		slotCount = 0,
