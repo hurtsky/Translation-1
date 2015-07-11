@@ -2326,16 +2326,12 @@ A test tube that contains an unidentified substance.
 Weight: ^7777773^000000
 #
 1088#
-A test tube
-that contains
-Morroc solution.
+A test tube that contains Morocc solution.
 ^FFFFFF_^000000
 Weight: ^7777773^000000
 #
 1089#
-A test tube
-that contains
-Payon solution.
+A test tube that contains Payon solution.
 ^FFFFFF_^000000
 Weight: ^7777773^000000
 #
@@ -2345,15 +2341,12 @@ A test tube that contains an unidentified substance.
 Weight: ^7777773^000000
 #
 1091#
-A small, wooden
-box marked with
-the word ''Fragile.''
+A small, wooden box marked with the word ''Fragile.''
 ^FFFFFF_^000000
 Weight: ^777777120^000000
 #
 1092#
-An empty test tube that can be used to contain
-some kind of solution.
+An empty test tube that can be used to contain some kind of solution.
 ^FFFFFF_^000000
 Weight: ^7777772^000000
 #
@@ -7400,7 +7393,7 @@ Weight: ^7777771^000000
 #
 4006#
 LUK +1
-Critical rate +1
+CRIT +1
 Perfect Dodge +1
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
@@ -7551,7 +7544,7 @@ Weight: ^7777771^000000
 #
 4029#
 ATK +15
-Critical rate +1
+CRIT +1
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -7939,7 +7932,7 @@ Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4086#
-Critical rate +9%
+CRIT +9%
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -7980,7 +7973,7 @@ Weight: ^7777771^000000
 #
 4091#
 STR +1
-Critical rate +4%
+CRIT +4%
 Class: ^777777Card^000000
 Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
@@ -8151,7 +8144,7 @@ Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4117#
-Enable ^008800Level 1 Double Attack^000000 on compounded weapon.
+Enable Level 1 ^008800Double Attack^000000 on compounded weapon.
 If character has learned Double Attack, that skill's level affects this card's effect.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
@@ -8230,7 +8223,7 @@ Weight: ^7777771^000000
 #
 4129#
 AGI +3
-Critical rate +1%
+CRIT +1%
 Class: ^777777Card^000000
 Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
@@ -8254,7 +8247,7 @@ Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4133#
-Increase resistance to ^777777Neutral^000000 property attacks by 20%.
+Increase resistance against Neutral property attack by 20%.
 Class: ^777777Card^000000
 Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
@@ -8503,8 +8496,8 @@ Weight: ^7777771^000000
 #
 4169#
 MaxHP and MaxSP -10%.
-Reduce variable casting time by 10%.
-If the user is equipped with an item compounded to the ^008800Dark Lord Card^000000, it reduces variable casting time by 20%.
+Reduce variable cast time by 10%.
+If the user is equipped with an item compounded to the ^008800Dark Lord Card^000000, it reduces variable cast time by 20%.
 Class: ^777777Card^000000
 Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
@@ -8554,8 +8547,8 @@ Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4174#
-Increase tolerance against ^777777Neutral^000000 property attack by 50%.
-Reduce tolerance against other property attack by 50%.
+Increase resistance against Neutral property attack by 50%.
+Reduce resistance against other property attack by 50%.
 Class: ^777777Card^000000
 Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
@@ -9061,8 +9054,8 @@ Weight: ^7777771^000000
 4218#
 VIT -3
 MaxHP +1000
-Natural HP recovery -20%
-If the user is equipped with an item compounded to the Inccubus card, it adds VIT +4 and HP natural recovery +30%.
+Reduce natural HP regeneration by 20%.
+If equipped with headgear compounded with ^008800Inccubus card^000000, VIT +4 and Increase natural HP regeneration by 30%.
 Class: ^777777Card^000000
 Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -9626,7 +9619,7 @@ Weight: ^7777771^000000
 #
 4263#
 Ignore normal monster's defense when attacking.
-Disable its user's natural HP recovery and drain 666 HP every 10 seconds.
+Disable natural HP regeneration and drain 666 HP every 10 seconds.
 Drain 999 HP as the weapon is unequipped.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
@@ -9670,9 +9663,8 @@ Weight: ^7777771^000000
 4269#
 INT -3
 MaxSP +150
-Natural SP recovery -20%
-If the user is equipped with an item compounded to the ^008800Succubus Card^000000,
-it adds INT +4 and SP natural recovery +30%.
+Reduce natural SP regeneration by 20%.
+If equipped with armor compounded with ^008800Succubus Card^000000, INT +4 and Increase natural SP regeneration by 30%.
 Class: ^777777Card^000000
 Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
@@ -9767,7 +9759,7 @@ Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4279#
-Diable natural SP recovery.
+Diable natural SP regeneration.
 Gain 10 SP each time a monster is killed by Physical Melee Attack.
 Drain 100 SP as the armor is unequipped.
 Class: ^777777Card^000000
@@ -10396,7 +10388,7 @@ Weight: ^7777771^000000
 #
 4327#
 Spell casting cannot be interrupted.
-Increase variable casting time by 30%.
+Increase variable cast time by 30%.
 Inflict 5% more damage with ^008800Fire Wall^000000.
 ^FFFFFF_^000000
 ^99FF66Sage Card Set^000000
@@ -10533,7 +10525,8 @@ Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4334#
-Adds 10% resistance against long ranged physical attacks, and reduces ^777777Neutral^000000 property damage by 10%.
+Increase resistance against long ranged physical attacks by 10%.
+Increase resistance against Neutral property attack by 10%.
 Class: ^777777Card^000000
 Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
@@ -10780,7 +10773,7 @@ Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4365#
-Increases variable casting time by 100%, and reduces SP Recovery by 100%,
+Increases variable cast time by 100%, and reduces SP Recovery by 100%,
 but the wearer's attacks will ignore the MDEF of Normal monsters.
 Drains 2,000 SP when the compounded headgear is unequipped.
 Class: ^777777Card^000000
@@ -10830,7 +10823,7 @@ Weight: ^7777771^000000
 #
 4371#
 ATK +10
-Increases variable casting time by 20%.
+Increases variable cast time by 20%.
 ^ffffff_^000000
 ^6A5ACDCrusader Card Set^000000
 ^3CB371Archdam Card^000000
@@ -10861,7 +10854,7 @@ Weight: ^7777771^000000
 #
 4373#
 LUK -5
-Adds an amount of LUK and CRIT equal to the coumpounded garment's upgrade level.
+Adds an amount of LUK and Critical equal to the coumpounded garment's upgrade level.
 Class: ^777777Card^000000
 Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
@@ -10874,7 +10867,7 @@ Compound on: ^777777Headgear^000000
 #
 4375#
 Flee +10
-Resistance to ^777777Neutral^000000 property attacks +10%.
+Increase resistance against Neutral property attack by 10%.
 When the compounded garmet's upgrade level is 9 or greater, increase Flee +5 and ^777777Neutral^000000 property resistance +5%
 Class: ^777777Card^000000
 Compound on: ^777777Garment^000000
@@ -11029,7 +11022,7 @@ Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4391#
-Adds a chance of dropping ^008800Fried Sweet Potatoes^000000 when defeating Angel type monsters.
+Adds a chance of dropping ^008800Fried Sweet Potatoes^000000 when defeating Angel monsters.
 Class: ^777777Card^000000
 Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
@@ -11188,7 +11181,7 @@ Weight: ^7777771^000000
 #
 4412#
 INT +2
-Each magic cast has a consistent chance of reducing Variable Casting Time by 50% and add +30 Flee for 5 seconds.
+Each magic cast has a consistent chance of reducing variable cast time by 50% and add +30 Flee for 5 seconds.
 Class: ^777777Card^000000
 Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
@@ -11220,7 +11213,7 @@ Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4416#
-Reduces Variable Casting Time of Cold Bolt skill by 25%, and increases that Cold Bolt's damage by 25%.
+Reduces variable cast time of Cold Bolt skill by 25%, and increases that Cold Bolt's damage by 25%.
 Class: ^777777Card^000000
 Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
@@ -11423,8 +11416,8 @@ Compound on: ^777777Footgear^000000
 Weight: ^7777771^000000
 #
 4442#
-Decreases damage received from ^777777Neutral^000000 property Monster by 20%.
-Increases damage dealt to ^777777Neutral^000000 property Monster by 5%.
+Increase resistance against Neutral property attack by 20%.
+Increase physical damage inflicted on Neutral property monster by 5%.
 Class: ^777777Card^000000
 Compound on: ^777777Shield^000000
 Weight: ^7777771^000000
@@ -11618,55 +11611,55 @@ Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4469#
-Increases magic damage on Fish type monsters by 10%.
+Increase magical damage inflicted on Fish monster by 10%.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4470#
-Increases magic damage on Plant type monsters by 10%.
+Increase magical damage inflicted on Plant monster by 10%.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4471#
-Increases magic damage on Dragon type monsters by 10%.
+Increase magical damage inflicted on Dragon monster by 10%.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4472#
-Increases magic damage on Brute type monsters by 10%.
+Increase magical damage inflicted on Brute monster by 10%.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4473#
-Increases magic damage on Undead type monsters by 10%.
+Increase magical damage inflicted on Undead monster by 10%.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4474#
-Increases magic damage on DemiHuman type monsters by 10%.
+Increase magical damage inflicted on Demihuman monster by 10%.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4475#
-Increases magic damage on Formless type monsters by 10%.
+Increase magical damage inflicted on Formless monster by 10%.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4476#
-Increases magic damage on Insect type monsters by 10%.
+Increase magical damage inflicted on Insect monster by 10%.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4477#
-Increases magic damage on Demon type monsters by 10%.
+Increase magical damage inflicted on Demon monster by 10%.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -11747,7 +11740,7 @@ Weight: ^7777771^000000
 4488#
 When character receives damage, there will be certain rate of activating Auto Spell to cast Level 5 skill of Meteor Storm.
 If equipped with Dark Illusion Card, MaxHP +10% and MaxSP +10%.
-If compounded equipment is refined to +15 and above, MaxHP +5% and MaxSP +5% upon equipped with Dark Illusion Card.
+If compounded equipment is refined to +15 or higher, MaxHP +5% and MaxSP +5% upon equipped with Dark Illusion Card.
 Class: ^777777Card^000000
 Compound: ^777777Shoe^000000
 Weight: ^7777771^000000
@@ -11760,14 +11753,14 @@ Weight: ^7777771^000000
 #
 4490#
 Can use Increase AGI Level 1.
-If compounded equipment is refined to +15 and above, can use Increase AGI Level 5.
+If compounded equipment is refined to +15 or higher, can use Increase AGI Level 5.
 Class: ^777777Card^000000
 Compound: ^777777Shoes^000000
 Weight: ^7777771^000000
 #
 4491#
 Adds 5% chance of absorbing 10% of the physical damage inflicted on an enemy by the wearer as HP, but also reduces HP Recovery by 100%.
-If compounded equipment is refined to +15 and above, 5% chance of absorbing 10% of the physical damage inflicted on an enemy by the wearer as HP,
+If compounded equipment is refined to +15 or higher, 5% chance of absorbing 10% of the physical damage inflicted on an enemy by the wearer as HP,
 Class: ^777777Card^000000
 Compound: ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -11790,7 +11783,7 @@ Weight: ^7777771^000000
 4494#
 ATK +10%
 Chance to automatically cast [Magnum Break] level 10 while attacking
-If refined to level 15 or higher : ATK +5%
+When refined to level 15 or higher : ATK +5%
 Class: ^777777Card^000000
 Compound on : ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -11798,7 +11791,7 @@ Weight: ^7777771^000000
 4495#
 All Stats +1
 Chance to automatically cast [Kyrie Eleison] level 5 when hit
-If refined to level 15 or higher : Kyrie Eleison will be level 8
+When refined to level 15 or higher : Kyrie Eleison will be level 8
 Class: ^777777Card^000000
 Compound on: ^777777 Shoes^000000
 Weight: ^7777771^000000
@@ -11812,7 +11805,7 @@ Weight: ^7777771^000000
 4497#
 Add the chance of auto casting [Storm Gust] level 1 on enemy when doing Physical Attack.
 Has 20% chance of Freezing an enemy when attacking.
-If refined to level 15 or higher : Chance rate increased.
+When refined to level 15 or higher : Chance rate increased.
 Class: ^777777Card^000000
 Compount on : ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -11821,7 +11814,7 @@ Weight: ^7777771^000000
 MaxHP -60%, MaxSP +50%.
 Chance to get Banana when killing a monster.
 Banana recovery rate increases by 50%
-If refined to level 15 or higher : Bonuses become 
+When refined to level 15 or higher : Bonuses become 
 MaxHP -50%, MaxSP +50%
 Chance to get Banana when killing a monster.
 Banana recovery rate +80%
@@ -11833,35 +11826,35 @@ Weight: ^7777771^000000
 Pierce Defense of normal monsters.
 HP of wearer will not recover automatically and losses 888 HP every 5 seconds.
 When equipped, wearers will losses 999 HP.
-If compounded equipment is refined to +15 and above, wearer will losses 777 HP every 8 seconds.
+If compounded equipment is refined to +15 or higher, wearer will losses 777 HP every 8 seconds.
 Class: ^777777Card^000000
 Compound: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4500#
 Can reflex 15% damage to enemies when being physically attacked in short range.
-If compounded equipment is refined to +15 and above, can reflex 25% damage to enemies.
+If compounded equipment is refined to +15 or higher, can reflex 25% damage to enemies.
 Class: ^777777Card^000000
 Compound: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4501#
 Adds a chance of autocasting Level 1 Assumptio on the wearer each time the wearer is physically or magically attacked.
-If compounded equipment is refined to +15 and above, it has higher chance to autocast the skill.
+If compounded equipment is refined to +15 or higher, it has higher chance to autocast the skill.
 Class: ^777777Card^000000
 Compound: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4502#
 Adds a 5% chance of destroying an enemy's weapo and a 4% chance of destroying its armor each time the wearer physically attacks.
-If compounded equipment is refined to +15 and above, has a 8% chance of destroying an enemy's weapo and a 6% chance of destroying its armor each time the wearer physically attacks.
+If compounded equipment is refined to +15 or higher, has a 8% chance of destroying an enemy's weapo and a 6% chance of destroying its armor each time the wearer physically attacks.
 Class: ^777777Card^000000
 Compound: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4503#
 Ignores 15% of Boss Monster's Magic Defense Rate when inflicting magic attacks againts them.
-If compounded equipment is refined to +15 and above, Ignores 25% of Boss Monster's Magic Defense Rate when inflicting magic attacks againts them.
+If compounded equipment is refined to +15 or higher, Ignores 25% of Boss Monster's Magic Defense Rate when inflicting magic attacks againts them.
 DEX +2
 Class: ^777777Card^000000
 Compound: ^777777Headgear^000000
@@ -11870,7 +11863,7 @@ Weight: ^7777771^000000
 4504#
 Unlimited use of [Endure] skill.
 Reduces 50% MaxHP,
-If compounded equipment is refined to +15 and above, Reduces 35% MaxHP.
+If compounded equipment is refined to +15 or higher, Reduces 35% MaxHP.
 Class: ^777777Card^000000
 Compound: ^777777Shoes^000000
 Weight: ^7777771^000000
@@ -11906,7 +11899,7 @@ Weight: ^7777771^000000
 4509#
 INT +3.
 Reduces damage from insect monsters by 10%.
-If refined to +9, adds an additional 5% resistance.
+When refined to +9, adds an additional 5% resistance.
 Class: ^777777Card^000000
 Compound: ^777777Headgear^000000
 Weight: ^7777771^000000
@@ -11972,7 +11965,7 @@ Compound: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4519#
-Increases damage against angel type monsters by 20%.
+Increases damage against Angel monsters by 20%.
 Class: ^777777Card^000000
 Compound: ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -12081,10 +12074,10 @@ Compound: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4535#
-^702180Indestructible^000000
 Increases Physical Attack Strength by 5%.
 Adds a chance of autocasting Level 1 Dispell with each physical attack.
-If compounded equipment is refined to +15 and above, Increases Physical Attack Strength by 8%.
+If compounded equipment is refined to +15 or higher, Increases Physical Attack Strength by 8%.
+Make Compounded weapon is indestructible, but it can still be destroyed by failed upgrade attempts.
 Class: ^777777Card^000000
 Compound: ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -12092,21 +12085,21 @@ Weight: ^7777771^000000
 4536#
 ATK +15.
 Has a chance ASPD increases by 50% for 10 seconds during physical attack.
-If compounded equipment is refined to +15 and above, ATK +25, Has a chance ASPD increases by 75% for 10 seconds during physical attack.
+If compounded equipment is refined to +15 or higher, ATK +25, Has a chance ASPD increases by 75% for 10 seconds during physical attack.
 Class: ^777777Card^000000
 Compound: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4537#
 HIT +50
-If compounded equipment is refined to +15 and above, HIT +75.
+If compounded equipment is refined to +15 or higher, HIT +75.
 Class: ^777777Card^000000
 Compound: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4538#
 Increases the effect of the Heal, Santuary and Potion Pitcher skills by 15% when they are cast by the wearer, but also increases SP Comsumption by 30%.
-If compounded equipment is refined to +15 and above, increases the effect of the Heal, Santuary and Potion Pitcher skills by 25% when they are cast by the wearer, but also increases SP Comsumption by 20%.
+If compounded equipment is refined to +15 or higher, increases the effect of the Heal, Santuary and Potion Pitcher skills by 25% when they are cast by the wearer, but also increases SP Comsumption by 20%.
 Class: ^777777Card^000000
 Compound: ^777777Headgear^000000
 Weight: ^7777771^000000
@@ -12114,7 +12107,7 @@ Weight: ^7777771^000000
 4539#
 MATK +5%, MaxSP -50%.
 Increases magic damage to Demihuman and Angel monsters by 25%.
-If compounded shoes is refined to +15 and above,
+If compounded shoes is refined to +15 or higher,
 MATK +3%
 Increases magic damage on Demihuman and Angel monsters by 8%.
 Class: ^777777Card^000000
@@ -12124,21 +12117,21 @@ Weight: ^7777771^000000
 4540#
 There is a certain rate to inflict Coma status on enemies,
 There is a certain rate to inflict Stunned, Cursed, Silence, Poisoned, Wound status in melee combat.
-If compounded equipment is refined to +15 and above, the rate to inflict the status above is increased.
+If compounded equipment is refined to +15 or higher, the rate to inflict the status above is increased.
 Class: ^777777Card^000000
 Compound: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4541#
 The wearer's attack will ignore the MDEF of regular monsters,
-Increase Variable Casting Time by 150% and reduces SP Recovery by 150%, drains 3000 SP when the compounded headgear is unequipped.
-If compounded equipment is refined to +15 and above, increase Variable Casting Time by 120%, reduces SP Recovery by 120%, drains 2000 SP when the compounded headgear is unequipped.
+Increase variable cast time by 150% and reduces SP Recovery by 150%, drains 3000 SP when the compounded headgear is unequipped.
+If compounded equipment is refined to +15 or higher, increase variable cast time by 120%, reduces SP Recovery by 120%, drains 2000 SP when the compounded headgear is unequipped.
 Class: ^777777Card^000000
 Compound: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4542#
-40$ resist freezing,
+40% resist freezing,
 When using magic attack, there is a certain chance of casting level 1 land protector,
 MDEF -20
 Refined to +15, +60% chance to resist freezing.
@@ -12148,7 +12141,7 @@ Weight: ^7777771^000000
 #
 4543#
 Whenever character receives damage from physical attack, there is 25% chance to inflict enemies with Frozen status.
-If compounded equipment is refined to +15 and above, there is 40% chance to inflict enemies with Frozen status.
+If compounded equipment is refined to +15 or higher, there is 40% chance to inflict enemies with Frozen status.
 Class: ^777777Card^000000
 Compound: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -12156,7 +12149,7 @@ Weight: ^7777771^000000
 4544#
 INT +3.
 Have chance resist to Blind and Curse.
-If compounded equipment is refined to +15 and above, have higher chance resist to Blind and Curse.
+If compounded equipment is refined to +15 or higher, have higher chance resist to Blind and Curse.
 Class: ^777777Card^000000
 Compound: ^777777Headgear^000000
 Weight: ^7777771^000000
@@ -12384,8 +12377,8 @@ Weight: ^7777771^000000
 4575#
 ATK +10.
 [+^000088Dagger Weapon^000000]
-If refine to +10 or more add ASPD +1.
-If refine to +14 or more add ASPD +1.
+When refined to +10 or more add ASPD +1.
+When refined to +14 or more add ASPD +1.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -12466,7 +12459,7 @@ Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4587#
-Add a Critical rate +12 on Demihuman, Brute and Fish monsters.
+Add a CRIT +12 on Demihuman, Brute and Fish monsters.
 Class: ^777777Card^000000
 Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
@@ -12530,28 +12523,28 @@ Weight: ^7777771^000000
 #
 4597#
 MATK +10, increases damage inflicted with magic ^0000FFWater^000000 Property by 5%.
-If refine to +9 or more increases damage inflicted with magic ^0000FFWater^000000 Property by 5%.
+When refined to +9 or more increases damage inflicted with magic ^0000FFWater^000000 Property by 5%.
 Class: ^777777Card^000000
 Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4598#
 MATK +10, increases damage inflicted with magic ^777777Ghost^000000 Property by 5%.
-If refine to +9 or more increases damage inflicted with magic ^777777Ghost^000000 Property by 5%.
+When refined to +9 or more increases damage inflicted with magic ^777777Ghost^000000 Property by 5%.
 Class: ^777777Card^000000
 Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4599#
 MATK +10, increases damage inflicted with magic ^FF0000Fire^000000 Property by 5%.
-If refine to +9 or more increases damage inflicted with magic ^FF0000Fire^000000 Property by 5%.
+When refined to +9 or more increases damage inflicted with magic ^FF0000Fire^000000 Property by 5%.
 Class: ^777777Card^000000
 Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4600#
 MATK +10, increases damage inflicted with magic ^996600Earth^000000 Property by 5%.
-If refine to +9 or more increases damage inflicted with magic ^996600Earth^000000 Property by 5%.
+When refined to +9 or more increases damage inflicted with magic ^996600Earth^000000 Property by 5%.
 Class: ^777777Card^000000
 Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
@@ -12588,10 +12581,11 @@ Weight: ^7777771^000000
 #
 4605#
 MaxHP -44%.
-When kill monster with physical attacks HP recovery 200, (Each refine increase recovery by 10).
+When kill monster with physical attacks, recover 200 HP (Each refine increase recovery by 10).
 Drain 4444 HP as the armor is unequipped.
 [^000088 +Grudge of Royal Knight Card ^000000]
-Increase resistance from ^777777Neutral^000000 Property attacks by 20%. FLEE +20.
+Increase resistance against Neutral property attack by 20%.
+FLEE +20
 Lost 100 HP each 6 seconds.
 Lost 6 SP each 6 seconds.
 Class: ^777777Card^000000
@@ -12603,7 +12597,8 @@ MaxSP -44%.
 Gain 20 SP each time an enemy is killed by Physical Melee Attack. Each 2 refine adds 1 SP gain.
 Drain 444 SP as the garment is unequipped.
 [^000088 +Agony Of Royal Knight Card ^000000]
-Increase resistance from ^777777Neutral^000000 Property attacks by 20%. FLEE +20.
+Increase resistance against Neutral property attack by 20%.
+FLEE +20
 Lost 100 HP each 6 seconds.
 Lost 6 SP each 6 seconds.
 Class: ^777777Card^000000
@@ -12611,39 +12606,44 @@ Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4607#
-ATK +5, MATK +5.
-[^000088 +Weapons Type Books ^000000]
-If refine to +10 or more add ATK +20, MATK +20.
-If refine to +14 or more add ATK +20, MATK +20.
+ATK +5
+MATK +5
+[^000088 +Book Weapon Class ^000000]
+When refined to +10 or higher, ATK +20 and MATK +20.
+When refined to +14 or higher, ATK +20 and MATK +20.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4608#
-ATK +15.
-Increase damage inflicted on medium and large size monsters by 20%.
+ATK +15
+Increase damage inflicted on Medium and Large size monsters by 20%.
 [^008800Khalitzburg Knight Card^000000]
-Increase damage inflicted on medium and large size monsters by 15%.
-Receive 5% less damage from medium and large size monsters.
+Increase damage inflicted on Medium and Large size monsters by 15%.
+Receive 5% less damage from Medium and Large size monsters.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4609#
-DEF +20.
-Receive 25% less physical damage from medium and large size monsters.
+DEF +20
+Receive 25% less physical damage from Medium and Large size monsters.
 [^000088+ White Knight Card^000000]
-Reduce physical and magical damage received from medium and large size monsters by 5%.
-Inflict 15% more physical damage to large size monsters.
+Reduce physical and magical damage received from Medium and Large size monsters by 5%.
+Inflict 15% more physical damage to Large size monsters.
 Class: ^777777Card^000000
 Compound on: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4610#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+When the damage taken exceeds the user's MaxHP, user will only take the amount that exceeds the user's MaxHP
+When the damage is create for skills with fixed damage also apply the reducci?.
+Class: ^777777Card^000000
+Compound on: ^777777Armor^000000
+Weight: ^7777771^000000
 #
 4625#
-Matk +20%.
+MATK +20%
 Increase SP consumption of skills by 10%.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
@@ -12651,72 +12651,72 @@ Weight: ^7777771^000000
 #
 4626#
 Increase magical damage against Formless and Demon races by 5%.
-If the user is equipped with a shield compounded to ^008800Neo Punk Card^000000, Ignores 50% of Formless and Demon monster's Magic Defense Rate.
+When equipped with a shield compounded to ^008800Neo Punk Card^000000, Ignores 50% of Formless and Demon monster's Magic Defense Rate.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4627#
 Increase physical damage against Formless and Demon races by 10%.
-If the user is equipped with a shield compounded to ^008800Neo Punk Card^000000, Ignores 50% of Formless and Demon monster's Defense Rate.
+When equipped with a shield compounded to ^008800Neo Punk Card^000000, Ignores 50% of Formless and Demon monster's Defense Rate.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4628#
 Reduce damage taken from Formless and Demon races by 25%.
-If the user is equipped with a weapon compounded to ^008800Big Ben Card^000000, Further reduce damage taken from Formless and Demon races by 5%.
-If the user is equipped with a weapon compounded to ^008800Big Bell Card^000000, Further reduce damage taken from Formless and Demon races by 5%.
+When equipped with a weapon compounded to ^008800Big Ben Card^000000, Further reduce damage taken from Formless and Demon races by 5%.
+When equipped with a weapon compounded to ^008800Big Bell Card^000000, Further reduce damage taken from Formless and Demon races by 5%.
 Class: ^777777Card^000000
 Compound on: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4629#
-Increase resistance to neutral property attack by 15%.
-Increases damage of earth element magic attacks by 3% per refine.
-If the user is equipped with a shoes compounded to ^008800Time Keeper Card^000000, Further increase resistance to neutral property attack by 5%.
+Increase resistance against Neutral property attack by 15%.
+Increases damage of Earth property magic by 3% per refine.
+When equipped with a shoes compounded to ^008800Time Keeper Card^000000, Further Increase resistance against Neutral property attack by 5%.
 Class: ^777777Card^000000
 Compound on: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4630#
 Adds a chance of inflicting the Curse status to all enemy in 11x11 around the wearer when attack.
-If the user is equipped with a garment compounded to ^008800Arc Elder Card^000000, A chance is further increased.
+When equipped with a garment compounded to ^008800Arc Elder Card^000000, A chance is further increased.
 Class: ^777777Card^000000
 Compound on: ^777777Footgear^000000
 Weight: ^7777771^000000
 #
 4631#
-ASPD +3%.
+ASPD +3%
 Class: ^777777Card^000000
 Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4632#
-Add a chance of auto casting level 1 Whirlwind when dealing physical attack.
-If the user has mastered the skill at level 5, it will cast level 5 instead.
-If the user is equipped with an accessory compounded to ^008800Owl Viscount Card^000000, add a chance of auto casting level 1 Lord of Vermilion when dealing physical attack.
+Add a chance of auto casting Level 1 Whirlwind when dealing physical attack.
+If the user has mastered the skill at Level 5, it will cast Level 5 instead.
+When equipped with an accessory compounded to ^008800Owl Viscount Card^000000, add a chance of auto casting level 1 Lord of Vermilion when dealing physical attack.
 Class: ^777777Card^000000
 Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4633#
-Increase ranged damage by 10%.
-When base level 100 or higher, increase ranged damage by 2%.
+Increase physical ranged damage by 10%.
+When base level 100 or higher, Increase physical ranged damage by 2%.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4634#
-CRIT +9.
-When base level 100 or higher, increase CRIT +1.
+CRIT +9
+When base level 100 or higher, CRIT +1.
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4635#
 Every refine increase DEF +10, decrease FLEE -2.
-When base level 100 or higher, increase MaxHP +500.
+When base level 100 or higher, MaxHP +500.
 Class: ^777777Card^000000
 Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -12724,14 +12724,14 @@ Weight: ^7777771^000000
 4636#
 Immune to Frozen.
 ATK +10%, MATK +10%.
-When equipped with Enhanced Amdarais Card, add an immunity to Burning.
+When equipped with an armor compunded with Enhanced Amdarais Card, add an immunity to Burning.
 Class: ^777777Card^000000
 Compound on: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4637#
 When killing enemy with melee attack, recover 50 HP and 5 SP.
-Disable HP and SP natural recovery.
+Disable HP and SP natural regeneration.
 When garment is unequipped, drain HP -1000 and SP -100
 Class: ^777777Card^000000
 Compound on: ^777777Garment^000000
@@ -12816,7 +12816,7 @@ Compound on: ^777777Shoes^000000
 Weight: ^7777771^000000
 #
 4649#
-Critical +100
+CRIT +100
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -12875,7 +12875,7 @@ Weight: ^7777771^000000
 4656#
 When physically and magically attacked, chance to cause Sleep to all targets on 11x11 cells.
 When equipped with equip compounded with Nightmare Ancient Mummy card:
-Reduce damage from Neutral property by 5%.
+Increase resistance against Neutral property attack by 5%.
 Increase the probability of causing Sleep to all targets on 11x11 cells.
 Class: ^777777Card^000000
 Compound on: ^777777Shoes^000000
@@ -12885,7 +12885,7 @@ Weight: ^7777771^000000
 Reduce damage from Neutral property by 15%.
 Every refine of garment increase magical Fire damage by 3%.
 When equipped with equip compounded with Nightmare Mummy card:
-Reduce damage from Neutral property by 5%.
+Increase resistance against Neutral property attack by 5%.
 Increase the probability of causing Sleep to all targets on 11x11 cells.
 Class: ^777777Card^000000
 Compound on: ^777777Garment^000000
@@ -13301,15 +13301,15 @@ MATK +6
 Decrease Casting Time by 3%
 #
 4816#
-Critical rate +12%
+CRIT +12%
 HIT +4
 #
 4817#
-Critical rate +9%
+CRIT +9%
 HIT +3
 #
 4818#
-Critical rate +6%
+CRIT +6%
 HIT +2
 #
 4819#
@@ -13398,11 +13398,11 @@ ASPD +1
 ASPD +2
 #
 4843#
-Critical rate +14%
+CRIT +14%
 HIT +5
 #
 4844#
-Critical rate +15%
+CRIT +15%
 HIT +6
 #
 4845#
@@ -13417,7 +13417,7 @@ Used to be a normal stone until it is filled with evil spirit.
 ATK +10, MATK +10.
 #
 4848#
-Increases tolerance to ^777777Neutral^000000 property monsters by 5%
+Increase resistance against Neutral property attack by 5%
 #
 4849#
 Increases Tolerance to Demihuman and other Players by 5%
@@ -13436,39 +13436,39 @@ Increases SP consumption by 15%
 #
 4853#
 STR +1
-If refined to +8 or higher, additional STR +3
-If refined to +9 or higher, ATK +1 to all monster sizes
-If refined to +12 or higher, ASPD +1% decreases fixed cast time by 7%.
+When refined to +8 or higher, additional STR +3
+When refined to +9 or higher, ATK +1 to all monster sizes
+When refined to +12 or higher, ASPD +1% decreases fixed cast time by 7%.
 #
 4854#
 AGI +1
-If refined to +8 or higher, additional AGI +3
-If refined to +9 or higher, ATK +1 to all monster sizes
-If refined to +12 or higher, ASPD +1% decreases fixed cast time by 7%.
+When refined to +8 or higher, additional AGI +3
+When refined to +9 or higher, ATK +1 to all monster sizes
+When refined to +12 or higher, ASPD +1% decreases fixed cast time by 7%.
 #
 4855#
 VIT +1
-If refined to +8 or higher, additional VIT +3
-If refined to +9 or higher, ATK +1 to all monster sizes
-If refined to +12 or higher, ASPD +1% decreases fixed cast time by 7%.
+When refined to +8 or higher, additional VIT +3
+When refined to +9 or higher, ATK +1 to all monster sizes
+When refined to +12 or higher, ASPD +1% decreases fixed cast time by 7%.
 #
 4856#
 INT +1
-If refined to +8 or higher, additional INT +3
-If refined to +9 or higher, ATK +1 to all monster sizes
-If refined to +12 or higher, ASPD +1% decreases fixed cast time by 7%.
+When refined to +8 or higher, additional INT +3
+When refined to +9 or higher, ATK +1 to all monster sizes
+When refined to +12 or higher, ASPD +1% decreases fixed cast time by 7%.
 #
 4857#
 DEX +1
-If refined to +8 or higher, additional DEX +3
-If refined to +9 or higher, ATK +1 to all monster sizes
-If refined to +12 or higher, ASPD +1% decreases fixed cast time by 7%.
+When refined to +8 or higher, additional DEX +3
+When refined to +9 or higher, ATK +1 to all monster sizes
+When refined to +12 or higher, ASPD +1% decreases fixed cast time by 7%.
 #
 4858#
 LUK +1
-If refined to +8 or higher, additional LUK +3
-If refined to +9 or higher, ATK +1 to all monster sizes
-If refined to +12 or higher, ASPD +1% decreases fixed cast time by 7%.
+When refined to +8 or higher, additional LUK +3
+When refined to +9 or higher, ATK +1 to all monster sizes
+When refined to +12 or higher, ASPD +1% decreases fixed cast time by 7%.
 #
 4859#
 FLEE +1
@@ -13813,22 +13813,22 @@ Each 10 seconds, recover 10 HP.
 When user kill monster with physically/magically attacking recovery 1 SP.
 #
 4933#
-Increase resistance from ^777777Neutral^000000 Property attacks by 1%.
+Increase resistance against Neutral property attack by 1%.
 #
 4934#
-Increase resistance from ^777777Neutral^000000 Property attacks by 2%.
+Increase resistance against Neutral property attack by 2%.
 #
 4935#
-Increase resistance from ^777777Neutral^000000 Property attacks by 3%.
+Increase resistance against Neutral property attack by 3%.
 #
 4936#
-Increases damage against large size monsters by 1%.
+Increase damage inflicted on Large size monster by 1%.
 #
 4937#
-Increases damage against medium size monsters by 1%.
+Increase damage inflicted on Medium size monster by 1%.
 #
 4938#
-Increases damage against small size monsters by 1%.
+Increase damage inflicted on Small size monster by 1%.
 #
 4939#
 CRIT +2
@@ -13858,13 +13858,13 @@ SP Consumption by -4%
 SP Consumption by -6%
 #
 4948#
-Delay After-Cast by -2%.
+Reduce after cast delay by 2%.
 #
 4949#
-Delay After-Cast by -4%.
+Reduce after cast delay by 4%.
 #
 4950#
-Delay After-Cast by -6%.
+Reduce after cast delay by 6%.
 #
 4970#
 Grant armor with Fire property.
@@ -17605,7 +17605,7 @@ A Mandragora flowerpot used for an experiment. Fragile. Never pull out recklessl
 Weight: ^7777770.1^000000
 #
 6218#
-A delivery box from Dieshin Man in Morroc Ruins.
+A delivery box from Dieshin Man in Morocc Ruins.
 Weight: ^7777770^000000
 #
 6219#
@@ -19552,7 +19552,7 @@ You can feel demonic aura from it.
 Weight: ^7777771^000000
 #
 6716#
-A stone that increases Critical rate.
+A stone that increases CRIT.
 Gives below stats on Costume upper slot
 CRIT +1.
 ^FFFFFF<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
@@ -19879,21 +19879,21 @@ Weight: ^7777770^000000
 6790#
 Stone effective against large size enemies.
 Costumes in the top slot grants the following abilities.
-Increases damage against large size monsters by 1%.
+Increase damage inflicted on Large size monster by 1%.
 ^FFFFFF<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6791#
 Stone effective against medium size enemies.
 Costumes in the top slot grants the following abilities.
-Increases damage against medium size monsters by 1%.
+Increase damage inflicted on Medium size monster by 1%.
 ^FFFFFF<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6792#
 Stone effective against small size enemies.
 Costumes in the top slot grants the following abilities.
-Increases damage against small size monsters by 1%.
+Increase damage inflicted on Small size monster by 1%.
 ^FFFFFF<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,22,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
@@ -22917,7 +22917,7 @@ A written request from the Dandelion Organization, asking you to capture Raiyan 
 Reward: 1 Wrapped Mask
 #
 7418#
-A written request from Mr. R, asking you to protect him and help complete his research, which should help in finding the children missing from Morroc.
+A written request from Mr. R, asking you to protect him and help complete his research, which should help in finding the children missing from Morocc.
 ^FFFFFF_^000000
 Request Reward: 1 Jewelry Box
 #
@@ -23299,7 +23299,7 @@ irresistable dishes thatare fit for nobility!''
 3 Green Herbs
 1 Sweet Sauce
 1 Lemon
-^0000ffMorroc Fruit Wine^000000
+^0000ffMorocc Fruit Wine^000000
 10 Strawberries
 4 Lemons
 10 Oranges
@@ -25212,7 +25212,7 @@ The Oliver Hilpert novel that received the Youngest Literary Award of Honor.
 Weight: ^7777770^000000
 #
 7795#
-Mami's photo album that contained various pictures of Mami, who used to be the envoy of Public Relations in Morroc.
+Mami's photo album that contained various pictures of Mami, who used to be the envoy of Public Relations in Morocc.
 On the cover, it says, "Love and a true heart message from Angel Mami, just for you!"
 ^FFFFFF_^000000
 Weight: ^7777771^000000
@@ -25799,7 +25799,7 @@ Weight: ^7777771^000000
 7912#
 A machine that holds
 the Essence of Cold, made
-by the scientist Willis in Morroc.
+by the scientist Willis in Morocc.
 It can holds a Snowman
 and protects it from heat
 while the Snowman is
@@ -26399,8 +26399,8 @@ Class: ^777777Monster Egg^000000
 9028#
 An egg in which a Hard Rice Cake Cute Pet rests.
 Can be hatched by using a ^33CC33Pet Incubator^000000.
-If pet intimacy is Cordial, increase resistance against neutral element by 1%.
-If pet intimacy is Loyal, increase resistance against neutral element by 2%.
+If pet intimacy is Cordial, Increase resistance against Neutral element by 1%.
+If pet intimacy is Loyal, Increase resistance against Neutral element by 2%.
 Class: ^777777Monster Egg^000000
 #
 9029#
@@ -27803,7 +27803,7 @@ Weight: ^77777750^000000
 A sweet and sour fruit
 wine that was invented
 by a merchant from
-Morroc. Ladies love it. INT +4
+Morocc. Ladies love it. INT +4
 ^FFFFFF_^000000
 Weight: ^77777730^000000
 #
@@ -28327,7 +28327,7 @@ Weight: ^77777720^000000
 A delicious alcoholic
 beverage made with
 exotic fruits found
-only in Morroc. It's
+only in Morocc. It's
 very sweet, so people
 can get drunk off it
 without realizing it.
@@ -30230,7 +30230,7 @@ MaxSP increased by a large amount for 500 sec, SP recovery +8%.
 Weight: ^7777778^000000
 #
 12428#
-Recovers a large amount of HP, increases natural HP recovery speed by 20%. Duration: 500 sec.
+Recovers a large amount of HP, Increase natural HP regeneration by 20%. Duration: 500 sec.
 Weight: ^7777777^000000
 #
 12429#
@@ -30276,7 +30276,7 @@ Duration: 30 min.
 Weight: ^7777775^000000
 #
 12436#
-Recovers SP, natural SP natural speed increased by 20% and MaxSP increased by 5%. Duration: 500 sec.
+Recovers SP, Increase natural SP regeneration by 20% and MaxSP +5%. Duration: 500 sec.
 Weight: ^7777775^000000
 #
 12437#
@@ -30363,7 +30363,7 @@ Weight: ^7777771^000000
 #
 12451#
 An enchanted butterfly's wing that instantly sends its user to the towns of the Rune Midgarts Kingdom.
-Locations: "Prontera", "Geffen", "Payon", "Morroc", "Al De Baran" or "Alberta" when waved in the air.
+Locations: "Prontera", "Geffen", "Payon", "Morocc", "Al De Baran" or "Alberta" when waved in the air.
 ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
@@ -30410,7 +30410,7 @@ Weight: ^7777771^000000
 #
 12458#
 An abrasive that adds sharpness to a weapon.
-Increases Critical rate by 30 for 5 minutes.
+Increases CRIT by 30 for 5 minutes.
 When a character is incapable of combat, the effect of item disappears.
 ^FFFFFF_^000000
 Weight: ^7777771^000000
@@ -32251,41 +32251,41 @@ Weight: ^7777771^000000
 12913#
 A box containing
 20 Blessing Scrolls.
-(Lvl 10 Blessing)
+(Level 10 Blessing)
 ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
 12914#
 A box containing
 20 AGI Scrolls.
-(Lvl 10 Increase AGI)
+(Level 10 Increase AGI)
 ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
 12915#
 A box containing
 20 Aspersio Scrolls.
-(Lvl 5 Aspersio)
+(Level 5 Aspersio)
 ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
 12916#
 A box containing
 20 Assumptio Scrolls.
-(Lvl 5 Assumptio)
+(Level 5 Assumptio)
 ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
 12917#
 A box containing
-20 Wind Walker Scrolls. (Lvl 10 Wind Walker Scrolls)
+20 Wind Walker Scrolls. (Level 10 Wind Walker Scrolls)
 ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
 12918#
 A box containing
 20 Adrenaline Rush
-Scrolls. (Lvl 5
+Scrolls. (Level 5
 Adrenaline Rush)
 ^FFFFFF_^000000
 Weight: ^7777771^000000
@@ -32485,7 +32485,7 @@ A dagger that has
 a high chance of
 inflicting critical
 damage to its target.
-CRIT +90%
+CRIT +90
 Class: ^777777Dagger^000000
 Attack: ^777777209^000000
 Weight: ^7777771^000000
@@ -32535,7 +32535,7 @@ A Greek ceremonial
 axe that possesses
 the power of holiness.
 STR +10, Holy property,
-Enables use of Lvl 3 Heal Increases damage inflicted
+Enables use of Level 3 Heal Increases damage inflicted
 on Demon monsters by 3%. Increases Movement Speed.
 Class: ^777777Axe^000000
 Attack: ^777777229^000000
@@ -32661,7 +32661,7 @@ A box that contains:
 Duration: 7 Days after opening
 A small flower made
 of steel. Has a low
-chance to cast Lvl 1
+chance to cast Level 1
 Recovery when its wearer receives physical damage.
 Class: ^777777Headgear^000000
 Defense: ^7777771^000000
@@ -32676,7 +32676,7 @@ A box that contains:
 Duration: 7 Days after opening
 An esoteric ring that
 enables its wearer to amplify his hidden powers.
-CRIT +10%
+CRIT +10
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777771^000000
@@ -34074,7 +34074,7 @@ Property: ^777777Neutral^000000
 #
 13281#
 Slightly remodeled Enriched White Potion enabled for throwing.
-Recovers a large amount of HP, increases natural HP recovery speed by 20%. Duration: 500 sec.
+Recovers a large amount of HP, Increase natural HP regeneration by 20%. Duration: 500 sec.
 Class: ^777777Projectile^000000
 Attack: ^7777770^000000
 Weight: ^7777777^000000
@@ -34422,7 +34422,7 @@ A box that contains:
 Duration: 7 Days after opening.
 A headgear made from the horns of Baphomet.
 Inflicts 12% more damage to Demihuman.
-Increases a certain amount of ATK based on the wearer's Job Lvl.
+Increases a certain amount of ATK based on the wearer's Job Level.
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
 Location: ^777777Upper^000000
@@ -36255,7 +36255,7 @@ Weight: ^7777771^000000
 A box that contains
 5 Abrasives. Each
 Abrasive increases
-Critical rate by 30 for a 5 minute duration.
+CRIT by 30 for a 5 minute duration.
 ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
@@ -36263,7 +36263,7 @@ Weight: ^7777771^000000
 A box that contains
 10 Abrasives. Each
 Abrasive increases
-Critical rate by 30 for a 5 minute duration.
+CRIT by 30 for a 5 minute duration.
 ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
@@ -37843,7 +37843,7 @@ Weight: ^7777771^000000
 A box containing 1 'Baphomet Horns' in it.
 A headgear made from the horns of Baphomet.
 Inflicts 12% more damage to Demihuman.
-Increases a certain amount of ATK based on the wearer's Job Lvl.
+Increases a certain amount of ATK based on the wearer's Job Level.
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
 Location: ^777777Upper^000000
@@ -38044,7 +38044,7 @@ Valkyrie Realms
 Britoniah
 Greenwood Lake
 Luina
-Valkfreyja
+ValkFreya
 Nidhoggur
 ^FFFFFF_^000000
 Cannot be sold.
@@ -38254,9 +38254,9 @@ Weight: ^7777771^000000
 #
 13962#
 Contains 1 Defolty Doll Hat, which is non-tradeable.
-Decreases 5% damage from Demihuman. Autocasts Lvl 10 Angelus when physically attacked by melee.
+Decreases 5% damage from Demihuman. Autocasts Level 10 Angelus when physically attacked by melee.
 Can't be upgraded, DEF 0.
-Lvl 60 requirement. Jobs: All
+Level 60 requirement. Jobs: All
 This Box can be traded.
 ^FFFFFF_^000000
 Weight: ^7777771^000000
@@ -38265,7 +38265,7 @@ Weight: ^7777771^000000
 Contains 1 Glaris Doll Hat, which is non-tradeable.
 Decreases 5% damage from Demihuman. Recovers 50 HP when a monster is killed magical attack.
 Can't be upgraded, DEF 0.
-Lvl 60 requirement. Jobs: All
+Level 60 requirement. Jobs: All
 This Box can be traded.
 ^FFFFFF_^000000
 Weight: ^7777771^000000
@@ -38886,7 +38886,7 @@ Weight: ^7777771^000000
 #
 14042#
 A box that contains: 10 scrolls that is recorded of Rune Midgarts villages. When used, user can move to the villages directly.
-"Prontera", "Geffen", "Payon", "Morroc, "Aldebaran", "Alberta"
+"Prontera", "Geffen", "Payon", "Morocc, "Aldebaran", "Alberta"
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 Warning: After use, if you don't select any within a minute, it will not be effective anymore.
 ^FFFFFF_^000000
@@ -39345,7 +39345,7 @@ Weight: ^7777771^000000
 #
 14111#
 A box that contains 10 Abrasives.
-Each Abrasive increases Critical rate by 30 for a 5 minute duration.
+Each Abrasive increases CRIT by 30 for a 5 minute duration.
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 When a character is incapable of combat, the effect of item disappears.
 ^FFFFFF_^000000
@@ -39419,7 +39419,7 @@ Weight: ^7777771^000000
 A box that contains:Dagger of Counter. Extremely fragile!
 ^000088Rental Item^000000
 A dagger that has a high chance of inflicting critical damage to its target.
-CRIT +90%
+CRIT +90
 Class: ^777777Dagger^000000
 Attack: ^777777209^000000
 Weight: ^7777770^000000
@@ -39450,7 +39450,7 @@ Weight: ^7777771^000000
 A box that contains:Light Epsilon. Extremely fragile!
 ^000088Rental Item^000000
 Holy property
-STR +10, Holy property, Enables use of Lvl 3 Heal
+STR +10, Holy property, Enables use of Level 3 Heal
 Increases damage inflicted on Demon monsters by 3%, Increases Movement Speed.
 Class: ^777777Axe^000000
 Attack: ^777777229^000000
@@ -39565,7 +39565,7 @@ Weight: ^7777771^000000
 A box that contains:Steel Flower. Extremely fragile!
 ^000088Rental Item^000000
 A small flower made of steel.
-Has a low chance to cast Lvl 1 Recovery when its wearer receives physical damage.
+Has a low chance to cast Level 1 Recovery when its wearer receives physical damage.
 Class: ^777777Headgear^000000
 Defense: ^7777771^000000
 Location: ^777777Lower^000000
@@ -39579,7 +39579,7 @@ Weight: ^7777771^000000
 A box that contains:Critical Ring. Extremely fragile!
 ^000088Rental Item^000000
 An esoteric ring that enables its wearer to amplify his hidden powers.
-CRIT +10%
+CRIT +10
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
@@ -39900,38 +39900,37 @@ some MVP monsters cannot be detected.
 Weight: ^7777771^000000
 #
 14169#
-A box containing 20 Blessing Scrolls. (Lvl 10 Blessing)
-^ff0000This item is excluded from subspscription withdrawal or refund.^000000
+A box containing 10 Blessing Scrolls.
+(Level 10 Blessing)
 ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
 14170#
-A box containing 20 AGI Scrolls. (Lvl 10 Increase AGI)
-^ff0000This item is excluded from subspscription withdrawal or refund.^000000
+A box containing 10 AGI Scrolls.
+(Level 10 Increase AGI)
 ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
 14171#
-A box containing 10 Aspersio Scrolls. (Lvl 5 Aspersio)
-^ff0000This item is excluded from subspscription withdrawal or refund.^000000
+A box containing 10 Aspersio Scrolls.
+(Level 5 Aspersio)
 ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
 14172#
-A box containing 10 Assumptio Scrolls. (Lvl 5 Assumptio)
-^ff0000This item is excluded from subspscription withdrawal or refund.^000000
+A box containing 10 Assumptio Scrolls.
+(Level 5 Assumptio)
 ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
 14173#
-A box containing 10 Wind Walker Scrolls. (Lvl 10 Wind Walker Scrolls)
-^ff0000This item is excluded from subspscription withdrawal or refund.^000000
+A box containing 10 Wind Walker Scrolls. (Level 10 Wind Walker Scrolls)
 ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
 14174#
-A box containing 10 Adrenaline Rush Scrolls. (Lvl 5 Adrenaline Rush)
-^ff0000This item is excluded from subspscription withdrawal or refund.^000000
+A box containing 20 Adrenaline Rush Scrolls.
+(Level 5 Adrenaline Rush)
 ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
@@ -40371,7 +40370,7 @@ Weight: ^7777771^000000
 #
 14223#
 A box that contains 50 Magic Amplification Scrolls.
-A scroll that will cast Magic Amplification Lvl 10 for you. Good for making the next magic attack do +50% Magic attack power.
+A scroll that will cast Level 10 Mystical Amplification for you. Good for making the next magic attack do +50% Magic attack power.
 ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
@@ -40902,7 +40901,7 @@ Weight: ^7777771^000000
 #
 14285#
 A box contains 1 "Neo Valkyrja's Shield". Available for one week.
-A shield used by Gna, the messanger of Freyja while she served as a Valkyrie.
+A shield used by Gna, the messanger of Freya while she served as a Valkyrie.
 Add a 30% resistance against DemiHuman monster.
 MaxHP +5%
 Add a 20% resistance against ^FF0000Fire^000000 and ^0000FFWater^000000 Property attacks.
@@ -41949,8 +41948,8 @@ A box that contains 1 Scallywag's Hat
 Description:
 Aaarrrgghhhh, this hat be made out of bona fide unidentified dead animal leather. With time, aging and weathering, most of the hat formed into it's current shape and dyed a bright red.
 ^0000ffIncreases EXP gained by 10%
-If refined to 5, EXP gained increases to 15%.
-If refined to 7, EXP gained increases to 25%.
+When refined to 5, EXP gained increases to 15%.
+When refined to 7, EXP gained increases to 25%.
 Increases EXP gained by 10% for every refine level above 7.^000000
 Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
@@ -42476,7 +42475,7 @@ Weight: ^7777771^000000
 An abrasive that
 adds sharpness to
 a weapon. Increases
-Critical rate by 30
+CRIT by 30
 for 5 minutes.
 ^FFFFFF_^000000
 Weight: ^7777771^000000
@@ -42807,7 +42806,7 @@ Weight: ^7777771^000000
 #
 14582#
 An enchanted butterfly's wing that instantly sends its user to the towns of the Rune Midgarts Kingdom.
-Locations: "Prontera", "Geffen", "Payon", "Morroc", "Al De Baran" or "Alberta" when waved in the air.
+Locations: "Prontera", "Geffen", "Payon", "Morocc", "Al De Baran" or "Alberta" when waved in the air.
 ^FFFFFF_^000000
 Warning: If you don't select any winthin a minute, it will not be effective anymore.
 #
@@ -42857,7 +42856,7 @@ Valkyrie Realms
 Britoniah
 Greenwood Lake
 Luina
-Valfreyja
+ValFreya
 Nidhoggur
 Weight: ^7777771^000000
 #
@@ -42873,7 +42872,7 @@ This bonus stacks with VIP and Battle Manuals to give an additional job bonus.^0
 Weight: ^7777771^000000
 #
 14593#
-A scroll that will cast Magic Amplification Lvl 10 for you. Good for making the next magic attack do +50% Magic attack power.
+A scroll that will cast Magic Amplification Level 10 for you. Good for making the next magic attack do +50% Magic attack power.
 ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
@@ -43057,9 +43056,9 @@ Weight: ^7777771^000000
 ^ff0000Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 This Bar was created to remember the day with most fireworks..
 Luck +15 for 30 Minutes.
-+11~33 CRIT For 10 Minutes.
++11~33 Critical For 10 Minutes.
 ^ff0000『 Applies the Highest Stat Amongst All Bonuses.^000000
-^ff0000『 CRIT Does not Overlap with other bonus. ^000000
+^ff0000『 Critical Does not Overlap with other bonus. ^000000
 Weight: ^7777771^000000
 #
 14623#
@@ -44236,7 +44235,7 @@ Weight: ^7777771^000000
 A box containing 1 Baby Dragon Hat
 Description:
 A hat depicting a sleeping baby dragon.
-It has the ability to grant it's wearer 20% more Base experience for each dragon type monster killed.
+It has the ability to grant it's wearer 20% more Base experience for each Dragon monster killed.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
 Location: ^777777Upper^000000
@@ -45189,7 +45188,7 @@ Weight: ^7777771^000000
 16341#
 A box that cotains 1 Greed Clip.
 Enable to use [Greed] skill.
-Class: ^777777Accessory^000000 DEF: ^7777770^000000
+Class: ^777777Accessory^000000DEF: ^7777770^000000
 Weight: ^7777770^000000
 Required Level: ^77777710^000000
 Jobs: ^777777All except Novice^000000
@@ -45465,7 +45464,7 @@ contains the following items:
 A hat which is very unique and rare, made from the feathers of a legendary bird Garuda.
 Reduces damage from all type of monster by 5%.
 LUK +5, HIT +10, Reduces casting delay by 5%.
-If refined to +7 or higher, has a chance of getting Mastela Fruit when attacking monsters. Chance to drop increases by 1% for each refine level over 7.
+When refined to +7 or higher, has a chance of getting Mastela Fruit when attacking monsters. Chance to drop increases by 1% for each refine level over 7.
 Class: ^777777Headgear^000000
 Defense: ^7777774^000000
 Location: ^777777Upper^000000
@@ -45485,7 +45484,7 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 ^0000ffGrand Peco Headdress^000000
 An elaborate multi-colored headdress made from the feathers of a Grand Peco.
-Increases attack against Demihuman and Brute type monsters 7%
+Increases attack against Demihuman and Brute monsters 7%
 Has a low chance of adding the curse status to your target while physically melee attacking.
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
@@ -45495,7 +45494,7 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 ^0000ffBeer Hat^000000
 A mug of beer sits precariously on your head. Drinking severely impairs your ability to steer mounts or operate machinery.
-If refined to 7 or higher, adds 100% resistance to Confusion status.
+When refined to 7 or higher, adds 100% resistance to Confusion status.
 Class: ^777777Headgear^000000
 Defense: ^7777774^000000
 Location: ^777777Upper^000000
@@ -45943,10 +45942,10 @@ A box that contains 1 Scorpio Crown.
 A magnificent crown created to pay tribute to the 8th sign of the zodiac, Scorpio the Scorpion. Attached to the crown is a Topaz gemstone, the birthstone for those born under this sign.
 ATK +5. ASPD +3% (Attck after delay 3%)
 Increases resistance against ^0000BBWater^000000 property by 5%.
-If refined to 7, when attacking, has a chance of autocasting Lv 3 Mild Wind.
-If refined to 8, ASPD +2%. (Attack after delay 2%)
-If refined to 9, has a chance of autocasting Lv 5 Frost Nova.
-If refined to 10, ASPD +2%. (Attack after delay 2&), ATK +5.
+When refined to 7, when attacking, has a chance of autocasting Lv 3 Mild Wind.
+When refined to 8, ASPD +2%. (Attack after delay 2%)
+When refined to 9, has a chance of autocasting Lv 5 Frost Nova.
+When refined to 10, ASPD +2%. (Attack after delay 2&), ATK +5.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
 Location: ^777777Upper^000000
@@ -45959,7 +45958,7 @@ Weight: ^7777771^000000
 A box that contains 1 Scorpio Diadem.
 A magnificent diadem created to pay tribute to the 8th sign of the zodiac, Scorpio the Scorpion. Attached to the crown is a Topaz gemstone, the birthstone for those born under this sign.
 DEX +2.
-If refined to 7,
+When refined to 7,
 DEX +1, ATK +5.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
@@ -45974,10 +45973,10 @@ A box that contains 1 Scorpio Crown.
 A magnificent crown created to pay tribute to the 8th sign of the zodiac, Scorpio the Scorpion. Attached to the crown is a Topaz gemstone, the birthstone for those born under this sign.
 ATK +5. ASPD +3% (Attck after delay 3%)
 Increases resistance against ^0000BBWater^000000 property by 5%.
-If refined to 7, when attacking, has a chance of autocasting Lv 3 Mild Wind.
-If refined to 8, ASPD +2%. (Attack after delay 2%)
-If refined to 9, has a chance of autocasting Lv 5 Frost Nova.
-If refined to 10, ASPD +2%. (Attack after delay 2&), ATK +5.
+When refined to 7, when attacking, has a chance of autocasting Lv 3 Mild Wind.
+When refined to 8, ASPD +2%. (Attack after delay 2%)
+When refined to 9, has a chance of autocasting Lv 5 Frost Nova.
+When refined to 10, ASPD +2%. (Attack after delay 2%), ATK +5.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
 Location: ^777777Upper^000000
@@ -45990,7 +45989,7 @@ Weight: ^7777771^000000
 A box that contains 1 Scorpio Diadem.
 A magnificent diadem created to pay tribute to the 8th sign of the zodiac, Scorpio the Scorpion. Attached to the crown is a Topaz gemstone, the birthstone for those born under this sign.
 DEX +2.
-If refined to 7,
+When refined to 7,
 DEX +1, ATK +5.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
@@ -46066,7 +46065,7 @@ A box that contains 1 Red Wing Hat
 A red driver's hat decorated by wings.
 STR +1, INT +1, DEX +1.
 If refiend to 7, increase ATK and MATK by 2%.
-If refined to 9, aditional increase ATK and MATK by 2%.
+When refined to 9, aditional increase ATK and MATK by 2%.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
@@ -46083,7 +46082,7 @@ A box that contains 1 Red Wing Hat
 A red driver's hat decorated by wings.
 STR +1, INT +1, DEX +1.
 If refiend to 7, increase ATK and MATK by 2%.
-If refined to 9, aditional increase ATK and MATK by 2%.
+When refined to 9, aditional increase ATK and MATK by 2%.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
@@ -46164,7 +46163,7 @@ Weight: ^7777771^000000
 16483#
 ^800080Event paid item.^000000
 A box containing 10 abrasive that adds sharpness to a weapon.
-For 5 minutes, the player will recieve +30 Critical rate.
+For 5 minutes, the player will recieve +30 CRIT.
 This rate is doubled by Katar weapons.
 If you die lost the effect!!
 Weight: ^7777771^000000
@@ -46226,7 +46225,7 @@ STR +1, INT +1, MDEF +3,
 Increases resistance to ^0000BBWater^000000 property by 7%.
 When killing monsters, has a low chance of dropping Buche De Noel or Candy Canes.
 When dealing physical or magical damage, has a low chance of activating Lv 1 Frost Joker.
-If refined to	8, activates Lv 5 Frost Joker.
+When refined to	8, activates Lv 5 Frost Joker.
 Class: ^777777Headgear^000000
 Defense: ^7777774^000000
 Location: ^777777Upper^000000
@@ -46243,7 +46242,7 @@ STR +1, INT +1, MDEF +3,
 Increases resistance to ^0000BBWater^000000 property by 7%.
 When killing monsters, has a low chance of dropping Buche De Noel or Candy Canes.
 When dealing physical or magical damage, has a low chance of activating Lv 1 Frost Joker.
-If refined to 8, activates Lv 5 Frost Joker.
+When refined to 8, activates Lv 5 Frost Joker.
 Class: ^777777Headgear^000000
 Defense: ^7777774^000000
 Location: ^777777Upper^000000
@@ -47176,398 +47175,594 @@ asgard scroll
 Weight: ^7777771^000000
 #
 16775#
+...
 #
 16776#
+...
 #
 16777#
+...
 #
 16778#
+...
 #
 16779#
+...
 #
 16780#
+...
 #
 16781#
+...
 #
 16782#
+...
 #
 16783#
+...
 #
 16784#
+...
 #
 16785#
+...
 #
 16786#
+...
 #
 16787#
+...
 #
 16788#
+...
 #
 16789#
+...
 #
 16790#
+...
 #
 16791#
+...
 #
 16792#
+...
 #
 16793#
+...
 #
 16794#
+...
 #
 16795#
+...
 #
 16796#
+...
 #
 16797#
+...
 #
 16798#
+...
 #
 16799#
+...
 #
 16800#
+...
 #
 16801#
+...
 #
 16802#
+...
 #
 16803#
+...
 #
 16804#
+...
 #
 16805#
+...
 #
 16806#
+...
 #
 16807#
+...
 #
 16808#
+...
 #
 16809#
+...
 #
 16810#
+...
 #
 16811#
+...
 #
 16812#
+...
 #
 16813#
+...
 #
 16814#
+...
 #
 16815#
+...
 #
 16816#
+...
 #
 16817#
+...
 #
 16818#
+...
 #
 16819#
+...
 #
 16820#
+...
 #
 16821#
+...
 #
 16822#
+...
 #
 16823#
+...
 #
 16824#
+...
 #
 16825#
+...
 #
 16826#
+...
 #
 16827#
+...
 #
 16828#
+...
 #
 16829#
+...
 #
 16830#
+...
 #
 16831#
+...
 #
 16832#
+...
 #
 16833#
+...
 #
 16834#
+...
 #
 16835#
 #
 16836#
+...
 #
 16837#
+...
 #
 16838#
+...
 #
 16839#
+...
 #
 16840#
+...
 #
 16841#
+...
 #
 16842#
+...
 #
 16843#
+...
 #
 16844#
+...
 #
 16845#
+...
 #
 16846#
+...
 #
 16847#
+...
 #
 16848#
+...
 #
 16849#
+...
 #
 16850#
+...
 #
 16851#
+...
 #
 16852#
+...
 #
 16853#
+...
 #
 16854#
+...
 #
 16855#
+...
 #
 16856#
+...
 #
 16857#
+...
 #
 16858#
+...
 #
 16859#
+...
 #
 16860#
+...
 #
 16861#
+...
 #
 16862#
+...
 #
 16863#
+...
 #
 16864#
+...
 #
 16865#
+...
 #
 16866#
+...
 #
 16867#
+...
 #
 16868#
+...
 #
 16869#
+...
 #
 16870#
+...
 #
 16871#
+...
 #
 16872#
+...
 #
 16873#
+...
 #
 16874#
+...
 #
 16875#
+...
 #
 16876#
+...
 #
 16877#
+...
 #
 16878#
+...
 #
 16879#
+...
 #
 16880#
+...
 #
 16881#
+...
 #
 16882#
+...
 #
 16883#
+...
 #
 16884#
+...
 #
 16885#
+...
 #
 16886#
+...
 #
 16887#
+...
 #
 16888#
+...
 #
 16889#
+...
 #
 16890#
+...
 #
 16891#
+...
 #
 16892#
+...
 #
 16893#
+...
 #
 16894#
+...
 #
 16895#
+...
 #
 16896#
+...
 #
 16897#
+...
 #
 16898#
+...
 #
 16899#
+...
 #
 16900#
+...
 #
 16901#
+...
 #
 16902#
+...
 #
 16903#
+...
 #
 16904#
+...
 #
 16905#
+...
 #
 16906#
+...
 #
 16907#
+...
 #
 16908#
+...
 #
 16909#
+...
 #
 16910#
+...
 #
 16911#
+...
 #
 16912#
+...
 #
 16913#
+...
 #
 16914#
+...
 #
 16915#
+...
 #
 16916#
+...
 #
 16917#
+...
 #
 16918#
+...
 #
 16919#
+...
 #
 16920#
+...
 #
 16921#
+...
 #
 16922#
+...
 #
 16923#
+...
 #
 16924#
+...
 #
 16925#
+...
 #
 16926#
+...
 #
 16927#
+...
 #
 16928#
+...
 #
 16929#
+...
 #
 16930#
+...
 #
 16931#
+...
 #
 16932#
+...
 #
 16933#
+...
 #
 16934#
+...
 #
 16935#
+...
 #
 16936#
+...
 #
 16937#
+...
 #
 16938#
+...
 #
 16939#
+...
 #
 16940#
+...
 #
 16941#
+...
 #
 16942#
+...
 #
 16943#
+...
 #
 16944#
+...
 #
 16945#
+...
 #
 16946#
+...
 #
 16947#
+...
 #
 16948#
+...
 #
 16949#
+...
 #
 16950#
+...
 #
 16951#
+...
 #
 16952#
+...
 #
 16953#
+...
 #
 16954#
+...
 #
 16955#
+...
 #
 16956#
+...
 #
 16957#
+...
 #
 16958#
+...
 #
 16959#
+...
 #
 16960#
+...
 #
 16961#
+...
 #
 16962#
+...
 #
 16963#
+...
 #
 16964#
+...
 #
 16965#
+...
 #
 16966#
+...
 #
 16967#
+...
 #
 16968#
+...
 #
 16969#
+...
 #
 16970#
+...
 #
 16971#
+...
 #
 16972#
 A box that contains 4 costume headgears that convey different patterns of the weather.
@@ -47677,14 +47872,14 @@ A box that contains 1 Heroic Backpack
 Description:
 A backpack befitting of any hero.
 Enables the use of level 1 Greed
-If refined to +7 or higher and base stats (without modifiers) is equal to 90 or higher,
+When refined to +7 or higher and base stats (without modifiers) is equal to 90 or higher,
 -STR -> Attack +20
 -INT -> Magic Attack +30
 -VIT -> Tolerance to ^777777Neutral^000000 property +5
 -AGI -> ASPD +8%
 -DEX -> Ranged Attack +5
 -LUK -> CRIT +10
-If refined to +9 or higher and base stats (without modifiers) is equal to 90 or higher,
+When refined to +9 or higher and base stats (without modifiers) is equal to 90 or higher,
 -STR -> Attack +30
 -INT -> Magic Attack +50
 -VIT -> Tolerance to ^777777Neutral^000000 property +10
@@ -47826,7 +48021,7 @@ Weight: ^7777771^000000
 A box that contains 10 of each colored Butterfly Wings and 10 Dungeon Teleport Scrolls.
 ^ffff00Yellow Butterfly Wing^000000:
 An enchanted butterfly's wing that instantly sends its user to the towns of the Rune Midgarts Kingdom.
-Locations: "Prontera", "Geffen", "Payon", "Morroc", "Al De Baran" or "Alberta" when waved in the air.
+Locations: "Prontera", "Geffen", "Payon", "Morocc", "Al De Baran" or "Alberta" when waved in the air.
 Warning: If no town is selected, the item will disappear.
 Weight: ^7777771^000000
 ^00ff00Green Butterfly Wing^000000:
@@ -47924,7 +48119,7 @@ A Box containing 1 Crown of Yggdrasil
 Weight: ^7777771^000000
 #
 17082#
-A special scroll to celebrate the month of Gemini. You would get Gemini Diadem, Salamander Card, Freyja's Overcoat, Boys Cap, Gang's Scarf and also other valuable items.
+A special scroll to celebrate the month of Gemini. You would get Gemini Diadem, Salamander Card, Freya's Overcoat, Boys Cap, Gang's Scarf and also other valuable items.
 Weight: ^7777771^000000
 #
 17083#
@@ -48535,7 +48730,7 @@ Contains 20 Bars in the box..
 ^ff0000Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 Every Year,We Celebrate 1 day with Special Bar made with sweets.
 LUK +15 For 30 Minutes.
-Gains CRIT for 10 minutes,11~33% Addtional Bonus
+Gains Critical for 10 minutes,11~33% Addtional Bonus
 ^ff0000『 Only Highest Bonus amongs all is applied ^000000.
 ^FFFFFF_^000000
 ^ff0000Opening this item will withdraw any offers available..^000000

@@ -1606,6 +1606,7 @@ SKILL_DESCRIPT = {
 	[SKID.AS_LEFT] = {
 		"Lefthand Mastery",
 		"Max Level: 5",
+		"^CC3399Requirement: Righthand Mastery 2^000000",
 		"Skill Form: ^6666ccPassive^000000",
 		"Description: ^777777Increases the damage of the",
 		"weapon in the left hand when equipped with",
@@ -3626,7 +3627,7 @@ SKILL_DESCRIPT = {
 		"Advanced Katar Mastery",
 		"Max Level: 5",
 		"^CC3399Requirement: Double Attack 5,",
-		"Katar Matery 7^000000",
+		"Katar Mastery 7^000000",
 		"Skill Form: ^6666ccPassive^000000",
 		"Description: ^777777Enhance the damage inflicted",
 		"with Katar Class Weapons.^000000",

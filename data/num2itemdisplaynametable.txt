@@ -425,7 +425,7 @@
 1085#Unknown_Test_Tube#
 1086#Unknown_Test_Tube#
 1087#Unknown_Test_Tube#
-1088#Morroc_Solution#
+1088#Morocc_Solution#
 1089#Payon_Solution#
 1090#Unknown_Test_Tube#
 1091#DEL_Box#
@@ -2669,13 +2669,13 @@
 4609#Khalitzburg_Knight_Card#
 4610#Sarah_Card#
 4625#Timeholder_Card#
-4626#Big_ben_Card#
-4627#Big_bell_Card#
+4626#Big_Ben_Card#
+4627#Big_Bell_Card#
 4628#Neo_Punk_Card#
 4629#Arc_Elder_Card#
 4630#Time_Keeper_Card#
 4631#Owl_Viscount_Card#
-4632#Owl_Marquis_Card#
+4632#Owl_Marquees_Card#
 4633#Enhanced_Archer_Skeleton_Card#
 4634#Enhanced_Soldier_Skeleton_Card#
 4635#Enhanced_Amdarais_Card#
@@ -3240,10 +3240,10 @@
 5262#Helm#
 5263#Hat#
 5264#Hat#
-5265#Apple_of_Archer#
+5265#Hat#
 5266#Hairband#
-5267#Sakkat#
-5268#Grand_Circlet#
+5267#Hat#
+5268#Helm#
 5269#Hairband#
 5270#Hat#
 5271#Helm#
@@ -3281,7 +3281,7 @@
 5303#Hairband#
 5304#Hat#
 5305#Mouth_Mask#
-5306#Freyja_Crown#
+5306#Helm#
 5307#Hat#
 5308#Hat#
 5309#Mask#
@@ -3301,7 +3301,7 @@
 5323#Hat#
 5324#Hat#
 5325#Glasses#
-5326#Masquerade_C#
+5326#Glasses#
 5327#Helm#
 5328#Accessory#
 5329#Accessory#
@@ -4522,7 +4522,7 @@
 6711#Valentine_Egg#
 6712#Love_Wand#
 6713#Heart_of_Soul#
-6714##
+6714#Sheena's_Soul#
 6715#Piece_of_Evil_Spirit#
 6716#Critical_Stone(Upper)#
 6717#Stamina_Stone(Middle)#
@@ -5063,7 +5063,7 @@
 7332#Complete_Tablet#
 7333#Prontera_Tablet#
 7334#Payon_Tablet#
-7335#Morroc_Tablet#
+7335#Morocc_Tablet#
 7336#Geffen_Tablet#
 7337#Eye_of_Hellion#
 7338#One-way_Ticket#
@@ -5989,7 +5989,7 @@
 12046#Grape_Juice_Herbal_Tea#
 12047#Autumn_Red_Tea#
 12048#Honey_Herbal_Tea#
-12049#Morroc_Fruit_Wine#
+12049#Morocc_Fruit_Wine#
 12050#Mastela_Fruit_Wine#
 12051#Steamed_Crab_Nippers#
 12052#Assorted_Seafood#
@@ -7372,7 +7372,7 @@
 13691#Freya's_Clothes_Box#
 13692#Freya's_Boots_Box#
 13693#Freya's_Manteau_Box#
-13694#Freyja_Crown_Box#
+13694#Freya_Crown_Box#
 13695#Basic_Field_Manual_Box#
 13696#Advanced_Field_Manual_Box#
 13697#Blessing_Scroll_Box(10)#
