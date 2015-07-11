@@ -16880,6 +16880,20 @@ You can get twice effect of Job Battle Manual for 24 hours.#
 아이들에게 골고루 나눠 주려면 인형이 더 필요합니다. 내일 다시 찾아 와 주시겠습니까?#
 04시 이후에 방문#
 
+// 존다 서포트 서비스
+
+14518#풍선껌 재사용 가능 시간#SG_FEEL#QUE_NOIMAGE#
+24시간 동안 풍선껌 효과 서비스를 2회 받으실 수 있습니다.#
+#
+
+14519#교범 재사용 가능 시간#SG_FEEL#QUE_NOIMAGE#
+24시간 동안 JOB 전투교범 효과 서비스를 2회 받으실 수 있습니다.#
+#
+
+14530#알의 조각 대기 시간#SG_FEEL#QUE_NOIMAGE#
+신비한 알의 조각 획득 대기 시간은 04시에 초기화 됩니다.#
+04시 초기화#
+
 //-1
 15000#Experiencing abnormal statuses#SG_FEEL#QUE_NOIMAGE#
 As an apology, I will let you experience the abnormal statuses in advance.#
