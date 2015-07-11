@@ -1355,5 +1355,7 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_Marine_Cap] = "_마린캡",
 	[ACCESSORY_IDs.ACCESSORY_Bio_Protector] = "_바이오프로텍터",
 	[ACCESSORY_IDs.ACCESSORY_Mask_of_Hero] = "_영웅의마스크",
-	[ACCESSORY_IDs.ACCESSORY_Parfait_V_Hat] = "_파르펠레자경단모자"
+	[ACCESSORY_IDs.ACCESSORY_Parfait_V_Hat] = "_파르펠레자경단모자",
+	[ACCESSORY_IDs.ACCESSORY_C_Flower_Summer_Hat] = "_C플라워섬머햇",
+	[ACCESSORY_IDs.ACCESSORY_Moon_Eyepatch] = "_달의_안대"
 }

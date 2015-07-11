@@ -1359,5 +1359,7 @@ ACCESSORY_IDs = {
 	ACCESSORY_Marine_Cap = 1365,
 	ACCESSORY_Bio_Protector = 1366,
 	ACCESSORY_Mask_of_Hero = 1367,
-	ACCESSORY_Parfait_V_Hat = 1368
+	ACCESSORY_Parfait_V_Hat = 1368,
+	ACCESSORY_C_Flower_Summer_Hat = 1369,
+	ACCESSORY_Moon_Eyepatch = 1370
 }
