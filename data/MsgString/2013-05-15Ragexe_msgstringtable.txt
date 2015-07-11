@@ -1396,7 +1396,6 @@ Your password has expired. Please log in again#
 3rdJob#
 This skill can't be used on that target.#
 You can't use skill because you have exceeded the number Ancilla possession limit#
-Unable to use the skill to exceed the number of Ancilla.#
 Holy water is required.#
 Ancilla is required.#
 Cannot be duplicated within a certain distance.#
@@ -1408,7 +1407,8 @@ Game guard initialization error or previous version game guard file is installed
 Either ini file is missing or altered. Install game guard setup file to fix the problem#
 There is a program found that conflicts with game guard#
 Incorrect client. Please run a normal client#
-Thank you to accept mobile authentication.#
+Please run a mobile verification#
+Verification failed#
 This skill can't be used alone#
 This skill can be used to certain direction only#
 Cannot summon spheres anymore.#
