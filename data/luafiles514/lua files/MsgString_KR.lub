@@ -142,6 +142,7 @@ MsgStrID = {
 	MSI_CASHSHOP_BTN_ONOFF = "/cashshop : Display Cash Shop Button. Show / Hide",
 	MSI_GOLDPCCAFE_BTN_ONOFF = "/goldpc : Display Gold PC Cafe Button. Show / Hide",
 	MSI_ROULETTE_BTN_ONOFF = "/roulette : Display Roulette button. Show / Hide",
+	MSI_QUAKE_EFFECT_ONOFF = "/quake : Flicker effect On/Off",
 	MSI_HI = "/hi or /hi message: Send greetings to people who are online and registered on your Friend List.",
 	MSI_BLACKSMITH = "/blacksmith : Shows top 10 Blacksmiths in the server.",
 	MSI_ALCHEMIST = "/alchemist : Shows top 10 Alchemists in the server.",
