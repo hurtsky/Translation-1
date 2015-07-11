@@ -6250,6 +6250,27 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 2749#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
+2755#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+2758#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+2759#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+2760#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+2761#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+2762#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+2763#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
 2764#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
@@ -6313,6 +6334,12 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 2784#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
+2785#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+2786#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
 2787#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
@@ -6323,6 +6350,15 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2790#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+2791#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+2792#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+2793#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2794#
@@ -6344,6 +6380,9 @@ Defense: ^7777770^000000
 Weight: ^77777720^000000
 Required Level: ^77777799^000000
 Jobs: ^777777Priest/Monk^000000
+#
+2799#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 2819#
 A guidebook that enables one to experience basic Swordman skills.
@@ -6398,84 +6437,6 @@ Defense: ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Novice Class^000000
-#
-2825#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-#
-2826#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-#
-2827#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-#
-2834#
-^000088Rental Item^000000
-A Jewelry Ring that contains a 3 Seal Magic Spell.
-Enables use of Level 1 Heal and Level 1 Teleport. Casting cannot be interrupted.
-All Stats +1. Increases casting time by 10%.
-Weapon Class : ^777777Accessory^000000
-Defense: ^7777770^000000      Weight : ^7777770^000000
-Jobs: ^777777All^000000
-#
-2835#
-^000088Rental Item^000000
-An esoteric ring that enables its wearer to amplify his hidden powers.
-Critical +10%
-Weapon Class : ^777777Accessory^000000
-Defense: ^7777770^000000      Weight : ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Except Novice^000000
-#
-2836#
-^000088Rental Item^000000
-An ancient glove.
-DEX +4
-Weapon Class : ^777777Accessory^000000
-Defense: ^7777770^000000      Weight : ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Except Novice^000000
-#
-2837#
-^000088Rental Item^000000
-A strange ring that curiously raises its wearer's defenses.
-DEF + 5 , MDEF +5
-Weapon Class : ^777777Accessory^000000
-Defense: ^7777770^000000      Weight : ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Except Novice^000000
-#
-2838#
-^000088Rental Item^000000
-An ancient necklace.
-VIT +4
-Weapon Class : ^777777Accessory^000000
-Defense: ^7777770^000000      Weight : ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Except Novice^000000
-#
-2839#
-^000088Rental Item^000000
-An ancient ring.
-STR +4
-Weapon Class : ^777777Accessory^000000
-Defense: ^7777770^000000      Weight : ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Except Novice^000000
-#
-2840#
-^000088Rental Item^000000
-An ancient rosary.
-LUK +4, MDEF +5
-Weapon Class : ^777777Accessory^000000
-Defense: ^7777770^000000      Weight : ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Except Novice^000000
-#
-2843#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-#
-2844#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 3737#
 These points can be exchanged for various goods and services.
@@ -10566,14 +10527,6 @@ Class: ^777777Card^000000
 Compound on: ^777777Shield^000000
 Weight: ^7777771^000000
 #
-4446#
-ATK +15
-Every attack has 2% chance to stun enemy.
-When base level 100 or higher, increase stun chance by 1%
-Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
-Weight: ^7777771^000000
-#
 4447#
 Decreases damage received from Poison Property Monster by 20%.
 Increases damage dealt to Poison Property Monster by 5%.
@@ -10619,216 +10572,6 @@ Weight: ^7777771^000000
 ATK +25
 Class: ^777777Card^000000
 Compound on: ^777777Weapon^000000
-Weight: ^7777771^000000
-#
-4454#
-No effect.
-"This card is nothing more then a piece of paper that gives you no advantages. - Valkyrie," it says.
-Collectible card that traders may buy.
-Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
-Weight: ^7777771^000000
-#
-4455#
-No effect.
-"This card is nothing more then a piece of paper that gives you no advantages. - Valkyrie," it says.
-Collectible card that traders may buy.
-Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
-Weight: ^7777771^000000
-#
-4456#
-INT +5
-[^6A5ACDHigh Wizard or Warlock^000000]
-Reduce fixed cast time of all skills by 50%.
-Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
-Weight: ^7777771^000000
-#
-4457#
-Increases damage of all ghost element magic attacks by 30%.
-Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
-Weight: ^7777771^000000
-#
-4458#
-ATK +10
-When dealing physical damage, there's a chance that for 4 seconds your perfect dodge will increase by 10.
-Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
-Weight: ^7777771^000000
-#
-4459#
-MATK +10
-When dealing magic damage, there's a chance that for 4 seconds your fixed cast time will be reduced by 50%.
-Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
-Weight: ^7777771^000000
-#
-4460#
-Increase healing skills effectiveness by 3%.
-Increases SP cost of Heal skill by 5%.
-Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
-Weight: ^7777771^000000
-#
-4461#
-DEX +1
-AGI +1
-When dealing physical damage, there's a chance that for 4 seconds you will recieve CRIT +20.
-Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
-Weight: ^7777771^000000
-#
-4462#
-DEF +5
-If compounded armor is refined to +12 or higher, DEF +20, MaxHP +10%.
-If compounded armor is refined to +14 or higher, MaxHP +3%.
-Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
-Weight: ^7777771^000000
-#
-4463#
-CRIT +5
-If compounded weapon is refined to +12 or higher, ATK +35.
-If compounded weapon is refined to +14 or higher, CRIT +10.
-Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
-Weight: ^7777771^000000
-#
-4464#
-Critical attack damage +20%.
-Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
-Weight: ^7777771^000000
-#
-4465#
-ATK +10
-If compounded on a two-hand sword, at +10 refine or higher grants ASPD +1
-at +14 refine or higher grants an additional ASPD +1.
-Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
-Weight: ^7777771^000000
-#
-4466#
-Ranged attack damage +3%.
-If compounded on a bow, at +10 refine or higher crants ASPD +1,
-at +14 refine or higher grants an additional ASPD +1.
-Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
-Weight: ^7777771^000000
-#
-4467#
-STR +2
-[^6A5ACDMerchant class^000000]
-Increases Cart Revolution damage by 50%, but increases its SP cost by 12.
-Class: ^777777Card^000000
-Compound on: ^777777Footgear^000000
-Weight: ^7777771^000000
-#
-4468#
-ATK +10
-When killing a monster, adds a chance to have a poisonous herb drop.
-Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
-Weight: ^7777771^000000
-#
-4469#
-Increases magic damage on Fish type monsters by 10%.
-Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
-Weight: ^7777771^000000
-#
-4470#
-Increases magic damage on Plant type monsters by 10%.
-Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
-Weight: ^7777771^000000
-#
-4471#
-Increases magic damage on Dragon type monsters by 10%.
-Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
-Weight: ^7777771^000000
-#
-4472#
-Increases magic damage on Brute type monsters by 10%.
-Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
-Weight: ^7777771^000000
-#
-4473#
-Increases magic damage on Undead type monsters by 10%.
-Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
-Weight: ^7777771^000000
-#
-4474#
-Increases magic damage on DemiHuman type monsters by 10%.
-Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
-Weight: ^7777771^000000
-#
-4475#
-Increases magic damage on Formless type monsters by 10%.
-Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
-Weight: ^7777771^000000
-#
-4476#
-Increases magic damage on Insect type monsters by 10%.
-Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
-Weight: ^7777771^000000
-#
-4477#
-Increases magic damage on Demon type monsters by 10%.
-Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
-Weight: ^7777771^000000
-#
-4480#
-모든 스킬의 후 딜레이가 15% 감소한다.
-15제련 이상 시 시전 후 딜레이 5% 추가 감소.
-Class: ^777777Card^000000
-Compound on : ^777777Headgear^000000
-Weight: ^7777771^000000
-#
-4481#
-화속성 몬스터에게 물리 데미지 25% 추가.
-물리, 마법 데미지를 입었을 때 일정 확률로 오토스펠 프로스트 노바 Lv10 발동.
-15제련 이상일 경우 화속성 몬스터에게 물리 데미지 10% 추가증가.
-Class: ^777777Card^000000
-Compound on : ^777777갑옷^000000
-Weight: ^7777771^000000
-#
-4482#
-15초마다 50의 HP, 10의 Sp 회복.
-MHP와 MSP가 5% 증가한다.
-15제련 이상 일 경우 HP, SP회복속도 10초로 단축, MHP, MSP가 2% 추가 증가.
-Class: ^777777Card^000000
-Compound on : ^777777신발^000000
-Weight: ^7777771^000000
-#
-4483#
-일정확률(5%)로 적에게 준 대미지의 5% 를 자신의 SP로 흡수 한다. 15제련 이상일 경우 흡수할 확률이 7%로 증가.
-Class: ^777777Card^000000
-Compound on : ^777777무기^000000
-Weight: ^7777771^000000
-#
-4484#
-젬스톤을 소모하는 마법들을 소모없이 사용가능하게 한다.
-스킬 사용시 SP소모량이 50% 증가한다.
-15제련 이상 일 경우 스킬 사용시 SP소모량이 35% 증가.
-Class: ^777777Card^000000
-Compound on : ^777777Headgear^000000
-Weight: ^7777771^000000
-#
-4485#
-성속성, 암속성, 천사형, 악마형 몬스터에게 물리 데미지 20% 추가.
-15제련 이상일 경우, 성속성, 암속성, 천사형, 악마형 몬스터에게 물리 데미지 10% 추가 증가.
-Class: ^777777Card^000000
-Compound on : ^777777갑옷^000000
 Weight: ^7777771^000000
 #
 4700#
@@ -11097,207 +10840,41 @@ ATK + 2%.
 4767#
 ATK + 3%.
 #
-4786#
-MDEF +2
+4768#
 #
-4787#
-MDEF +4
+4769#
 #
-4788#
-MDEF +6
+4770#
 #
-4789#
-MDEF +8
+4771#
 #
-4790#
-MDEF +10
+4772#
 #
-4791#
-DEF + 3
+4773#
 #
-4792#
-DEF + 6
+4774#
 #
-4793#
-DEF + 9
+4775#
 #
-4794#
-DEF + 12
+4776#
 #
-4795#
-HP + 100
+4777#
 #
-4796#
-HP + 200
+4778#
 #
-4797#
-HP + 300
+4779#
 #
-4798#
-HP + 400
+4780#
 #
-4799#
-HP + 500
+4781#
 #
-4800#
-SP + 50
+4782#
 #
-4801#
-SP + 100
+4783#
 #
-4802#
-SP + 150
+4784#
 #
-4803#
-Decreases cooldown time for Highness Heal by 3 seconds.
-#
-4804#
-Decreases SP cost of Coluseo Heal by 30.
-#
-4805#
-Increases the effectiveness of healing skills by 3%.
-#
-4807#
-Aspd +1
-#
-4808#
-Attack +15
-Hit +5
-#
-4809#
-Attack +12
-Hit +4
-#
-4810#
-Attack +9
-Hit +3
-#
-4811#
-Attack +6
-Hit +2
-#
-4812#
-Matk +15
-Decrease Casting Time by 10%
-#
-4813#
-Matk +12
-Decrease Casting Time by 8%
-#
-4814#
-Matk +9
-Decrease Casting Time by 6%
-#
-4815#
-Matk +6
-Decrease Casting Time by 3%
-#
-4816#
-Critical Rate +12%
-HIt +4
-#
-4817#
-Critical Rate +9%
-Hit +3
-#
-4818#
-Critical Rate +6%
-Hit +2
-#
-4819#
-Increases damage on enemies by 1%
-#
-4820#
-Attack +18
-Hit +5
-#
-4821#
-Attack +21
-Hit +5
-#
-4822#
-Attack +24
-Hit +5
-#
-4823#
-Attack +27
-Hit +5
-#
-4824#
-Attack +30
-Hit +5
-#
-4825#
-Attack +50
-HIT +15
-#
-4832#
-Ranged Attack +2%
-#
-4833#
-Ranged Attack +4%
-#
-4834#
-Ranged Attack +6%
-#
-4835#
-Ranged Attack +8%
-#
-4836#
-Ranged Attack +10%
-#
-4837#
-Ranged Attack +12%
-#
-4838#
-Ranged Attack +14%
-#
-4839#
-Ranged Attack +16%
-#
-4840#
-Ranged Attack +18%
-#
-4841#
-Ranged Attack +20%
-Aspd +1
-#
-4842#
-Aspd +2
-#
-4843#
-Critical Rate +14%
-Hit +5
-#
-4844#
-Critical Rate +15%
-Hit +6
-#
-4846#
-Used to be a normal stone until it is filled with love.
-ATK + 10, MATK + 10.
-#
-4847#
-Used to be a normal stone until it is filled with evil spirit.
-ATK + 10, MATK + 10.
-#
-4850#
-Increases heal efficiency by 6%
-Increases SP consumption by 5%
-#
-4851#
-Increases heal efficiency by 12%
-Increases SP consumption by 10%
-#
-4852#
-Increases heal efficiency by 20%
-Increases SP consumption by 15%
-#
-4859#
-Evasion1
-#
-4860#
-Evasion3
+4785#
 #
 4991#
 Kafra_Blossom_Card
@@ -12170,6 +11747,15 @@ Required Level: ^7777771^000000^FFFFFF         ^000000 Jobs: ^777777All Except N
 5269#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
+5270#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+5271#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+5272#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
 5273#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
@@ -12186,6 +11772,9 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 5278#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+5279#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 5280#
@@ -13411,6 +13000,26 @@ A Doll imbued with Baphomet's curse. It seems to be compounded with something.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
+6005#
+...
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+6006#
+...
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+6007#
+...
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+6008#
+Good quality wood. It makes the wooden building it is a tightly good lumber.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
 6009#
 		
 Magical Fan that can stir up a strong wind. Let's try it under the cherry blossom tree.		
@@ -14394,92 +14003,6 @@ Santa Bag
 #
 6457#
 #
-6464#
-^ff0000Cannot be traded with others.^000000
-Filled with darkness of hatred and jealousy.
-Weight: ^7777770^000000
-#
-6469#
-A collection of biological relics from various warriors
-^ff0000Used for combining biological materials in a testing lab^000000
-Weight: ^7777771^000000
-#
-6470#
-Reactionary forces causes the thirst for blood
-^ff0000Used for combining biological materials in a testing lab^000000
-Weight: ^7777771^000000
-#
-6471#
-The darkness of Nifflheim is lumped into this.
-^ff0000Used for combining biological materials in a testing lab^000000
-Weight: ^7777771^000000
-#
-6481#
-^ff0000Not available for trade.^000000
-A shard of a Holy Rock, recreating the entire Holy rock will help unlock the past.
-Weight: ^7777770^000000
-#
-6482#
-^ff0000Not available for trade.^000000
-A key with secrt power. Keys to allow you inside the old city.
-Weight: ^7777770^000000
-#
-6483#
-^ff0000Not available for trade.^000000
-A scroll with secret power. Keys to allow you inside the old city.
-Weight: ^7777770^000000
-#
-6484#
-Bring this book to Troy at the second floor of Eden Group Headquarters and he will remove all cards from 1 item in your equipped inventory.
-All cards will be returned but the item that they are slotted in will be destroyed forever.
-Weight: ^7777771^000000
-#
-6485#
-The letter ^0000882^000000 card which could be good for learning letters for the first time. It's frequently used for event.
-Weight: ^7777771^000000
-#
-6486#
-The letter ^0000880^000000 card which could be good for learning letters for the first time. It's frequently used for event.
-Weight: ^7777771^000000
-#
-6487#
-The letter ^0000881^000000 card which could be good for learning letters for the first time. It's frequently used for event.
-Weight: ^7777771^000000
-#
-6494#
-A sparkling coin minted in the Kafra Headquarters in Aldebaran. These can be exchanged for various goods and services.
-Weight: ^7777770^0000
-#
-6495#
-The Eden group recognizes the bearer of this badge as one who has done great deeds. These can be exchanged for various goods and services.
-Weight: ^7777770^0000
-#
-6496#
-Tikbalang's thick and tough spine. Sell to a collection dealer.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-6497#
-Paper that protects a player from harms way or casts special abilities.
-A faint energy can be felt.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-6498#
-Looks similar to a Large Jellopy but with a shinier crystal.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-6499#
-Paper that protects a player from harm's way or casts special abilities.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-6500#
-^ff0000Item cannot be traded with other characters.^000000
-Bamboo piece trimmed to be pointy. Looks like it was cut tilted from a thick bamboo.
-Weight: ^7777770^000000
-#
 6501#
 ^ff0000Item cannot be traded with other characters.^000000
 Bag used to contain sea salt manufactured from the seashore. Said to scare off bad spirits.
@@ -14555,10 +14078,6 @@ Weight: ^7777770^000000
 #
 6523#
 Transparent item which imprisons Bakonawa's Spirit. Rumor says you can see Bakonawa when held up to moonlight.
-Weight: ^7777771^000000
-#
-6524#
-Transparent item which imprisons Bangungot's Spirit. Rumor says you can hear Bangungot’s screeching screams when placed in a dark room.
 Weight: ^7777771^000000
 #
 6525#
@@ -18195,6 +17714,11 @@ A jewel which shines yellow.
 ^ffffff_^000000
 Weight: ^7777775^000000
 #
+7600#
+A card with the letter "^000088K^000000" printed on it.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
 7602#
 A card with the letter "^000088R^000000" printed on it.
 ^FFFFFF_^000000
@@ -18601,6 +18125,15 @@ behind a tight seal.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
+7758#
+...
+^FFFFFF_^000000
+Weight: ^77777710^000000
+#
+7759#
+...
+^FFFFFF_^000000
+#
 7760#
 Baba Yaga's magic book which tells the reader how to practice the strongest dark arts.
 ^ffffff_^000000
@@ -18634,6 +18167,21 @@ Weight: ^7777771^000000
 7766#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
+7767#
+Cake which looked to be it is really delicious. Food manufactured to feed Chung E.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7768#
+A frozen squid ready for a long-term delivery, it value is cheaper compared to fresh one.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7769#
+Egg yolk. A cooking ingredients. Can be use to make dumpling.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
 7770#
 						
 Steamed glutinous						
@@ -18642,10 +18190,30 @@ to make dumplings.
 Weight: ^7777771^000000						
 Weight: ^7777771^000000						
 #
+7771#
+Aquatic botany. The leaf is used to wrap the dumpling.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7772#
+Strings that is use to tie the dumpling.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
 7773#
 				
 A badge indicating that the wearer is currently participated in the war.  It was taken off from a failure of the battle.				
 ^ffffff_^000000				
+#
+7774#
+Written with big letters as 'You win 'Chung E Egg'!! Please come and get it now!"
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7775#
+Written with big letters as 'You win 'Spring Rabbit Egg'!! Please come and get it now!"
+^FFFFFF_^000000
+Weight: ^7777771^000000
 #
 7776#
 A Gym Membership
@@ -18659,6 +18227,33 @@ This special skill
 can only be learned
 up to Level 10.
 ^ffffff_^000000
+Weight: ^7777771^000000
+#
+7777#
+...
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7778#
+...
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7779#
+A Golden key to open the box.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7780#
+A Silver key to open the box.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7781#
+The box which two hearts are coming to carve in the surface.
+It is sinking with the latent heat iron which is strange is two holes.
+To inside there probably is a what kind of thing, there is not a possibility of knowing.
+^FFFFFF_^000000
 Weight: ^7777771^000000
 #
 7782#
@@ -18677,6 +18272,56 @@ at that time, the 12.0 content will be fully available to everyone on Valkyrie.
 ^ffffff_^000000
 This item can be put in storage.
 Weight: ^7777771^000000
+#
+7784#
+The coupon where the person who conveys the sorry be mind is coming to be put in full.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7785#
+The coupon where the person who conveys the sorry be mind is coming to be put in full.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7786#
+The coupon where the person who conveys the sorry be mind is coming to be put in full.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7787#
+The coupon where the person who conveys the sorry be mind is coming to be put in full.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7788#
+The coupon where the person who conveys the sorry be mind is coming to be put in full.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7789#
+The coupon where the person who conveys the sorry be mind is coming to be put in full.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7790#
+The coupon where the person who conveys the sorry be mind is coming to be put in full.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7791#
+The coupon where the person who conveys the sorry be mind is coming to be put in full.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7792#
+...
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7793#
+Magic apple shines gold.
+^FFFFFF_^000000
+Weight: ^7777770^000000
 #
 7794#
 The Oliver Hilpert novel that received the Youngest Literary Award of Honor.
@@ -18713,6 +18358,101 @@ You might feel a strong dangerous power from this crystal. When you are close to
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
+7800#
+Exquisite aroma proceeds from the fairytale apple.
+^FFFFFF_^000000
+Weight: ^7777770^000000
+#
+7801#
+The pan letter of the young girl where ardent love where comes to feel.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7802#
+An enveloped and to receive every string one notebook of the use which keeps.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7803#
+Only usable by a character level 40 or below. For 30 minutes, grants 3x exp for 30 minutes.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7805#
+A brown colored family ring which it wears by Jenoss.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7806#
+" Holffar " Received a ^ff0000God's Anvil^000000.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7807#
+" Torros " Received a ^ff0000God's Minerals^000000.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7808#
+" Gonk " Received a ^ff0000God's Hammer^000000.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7809#
+" Lapio " Received a ^ff0000God's Furnaces^000000.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7810#
+A symbol of Wealth to "Ravela".
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7811#
+Anvil gold.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7812#
+A symbol of Courage to "Ravela".
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7813#
+A red colored family ring which it wears by Jenoss.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7814#
+A green colored family ring which it wears by Jenoss.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7815#
+A blue colored family ring which it wears by Jenoss.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7816#
+A symbol of the Faith to "Ravela".
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7817#
+A symbol of the Peace to "Ravela".
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7818#
+The necklaces of the Jessur.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7819#
+"The new Nokia 5500 Sport features a stainless body for enhanced durability with resistance to shock, water, and dust elements. Use for Ragna_Nokia Festival."
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
 7820#
 It seems like a piece of Morocc skin. There is a burned mark on the edge of it.
 ^ffffff_^000000
@@ -18731,11 +18471,21 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 This highly toxic liquid is consumed by Wandering souls.
 Weight: ^7777775^000000
 #
+7825#
+A mysterious stone that reveals its true power when a real hero has it.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
 7826#
 It certifies that this adventurer has enough power and courage to be a member of the Continental Guard.
 ^ffffff_^000000
 Continental Guard. Balrog.
 ^ffffff_^000000
+Weight: ^7777770^000000
+#
+7827#
+...
+^FFFFFF_^000000
 Weight: ^7777770^000000
 #
 7828#
@@ -18791,9 +18541,137 @@ A flower from Valkyrie Wishmaiden. When it's decorated, the flower as a big fest
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
+7841#
+The pieces are painted something. Although it does not look good.
+^FFFFFF_^000000
+Weight: ^7777770^000000
+#
+7842#
+The pieces are painted something. Although it does not look good.
+^FFFFFF_^000000
+Weight: ^7777770^000000
+#
+7843#
+The pieces are painted something. Although it does not look good.
+^FFFFFF_^000000
+Weight: ^7777770^000000
+#
+7844#
+The pieces are painted something. Although it does not look good.
+^FFFFFF_^000000
+Weight: ^7777770^000000
+#
+7845#
+The pieces are painted something. Although you don't know further reply.
+^FFFFFF_^000000
+Weight: ^7777770^000000
+#
+7846#
+The pieces are painted something. Although you don't know further reply.
+^FFFFFF_^000000
+Weight: ^7777770^000000
+#
+7847#
+The pieces are painted something. Although you don't know further reply.
+^FFFFFF_^000000
+Weight: ^7777770^000000
+#
+7848#
+The pieces are painted something. Although you don't know further reply.
+^FFFFFF_^000000
+Weight: ^7777770^000000
+#
+7849#
+This signal is modified of the soul...
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7850#
+The magic log, which can be used for the bonfire.
+^FFFFFF_^000000
+Weight: ^77777710^000000
+#
+7851#
+RO together with Wii! Wii raffle ticket.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7852#
+RO together with Divx! Divx Player raffle ticket.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7853#
+RO together with iPod nano! iPod nano raffle ticket.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7854#
+Joyful Comodo Festival! This Ticket is serviceable only from Comodo Festival.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7855#
+It thinks a troublesome army song warm mind.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7857#
+A black cat doll which made by good craftsman.
+^FFFFFF_^000000
+Weight: ^7777773^000000
+#
+7858#
+...
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7859#
+...
+^FFFFFF_^000000
+Weight: ^77777710^000000
+#
+7860#
+A candy made with marshmallow. It is formed into a candy of various shapes, and children like it very much.
+^FFFFFF_^000000
+Weight: ^7777775^000000
+#
+7861#
+A jelly like confectionary in the shape of a bean. It is made with many flavors, primarily fruits.
+^FFFFFF_^000000
+Weight: ^7777775^000000
+#
+7862#
+A soft confectionary make from sugar or corn syrup. It is tender and soft.
+^FFFFFF_^000000
+Weight: ^7777775^000000
+#
+7863#
+A Hwang gold which commemorates the a special day.
+^FFFFFF_^000000
+Weight: ^77777720^000000
+#
 7864#
 Cacao stolen from Pinkamenia in Moscovia while she was baking. Return them to her and she will give you some rewards.
 Weight: ^7777770^000000
+#
+7865#
+Gold bag receive from Baren. Must be deliver with the group protects environment.
+^FFFFFF_^000000
+#
+7866#
+Certificate from Tidy. Contribute to be with help the group protects environment.
+^FFFFFF_^000000
+#
+7867#
+A very small bag with Sesame seeds inside.
+^FFFFFF_^000000
+Weight: ^77777710^000000
+#
+7868#
+Fresh water that is pure and clean.
+^FFFFFF_^000000
+Weight: ^77777710^000000
 #
 7869#
 						
@@ -18801,6 +18679,31 @@ A sack that
 contains rice.						
 ^ffffff_^000000						
 Weight: ^77777710^000000						
+#
+7870#
+Beautifully bred Corn which most people like to eat.
+^FFFFFF_^000000
+Weight: ^7777772^000000
+#
+7871#
+A very small bag with Bean seeds inside.
+^FFFFFF_^000000
+Weight: ^7777772^000000
+#
+7872#
+Light grass that is wet with dew.
+^FFFFFF_^000000
+Weight: ^7777773^000000
+#
+7873#
+A scroll used to summon a very powerfull monster.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7874#
+A scroll used to summon monster.
+^FFFFFF_^000000
+Weight: ^7777771^000000
 #
 7875#
 A recovered Treasure box
@@ -18851,6 +18754,89 @@ Weight: ^7777770^000000
 7883#
 A flute made by a shepherd who has an amazing talent for music.
 ^ffffff_^000000
+Weight: ^7777770^000000
+#
+7884#
+A broken jade that seems valuable, no one knows who it belongs to.
+^FFFFFF_^000000
+Weight: ^7777770^000000
+#
+7885#
+Arrows make by the great smith in town. Sacred weapon as said by Hou Yi.
+^FFFFFF_^000000
+Weight: ^7777770^000000
+#
+7886#
+Crushes cooked red beans into the form of paste so that it could be made into the fillings for cookies or bread.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7887#
+A present given by Mr.Taeum. A tool used to dry and increase the sugar capacity of fruits.
+^FFFFFF_^000000
+Weight: ^7777773^000000
+#
+7888#
+Packet which contains certain fruits which posess a hard shell.
+^FFFFFF_^000000
+Weight: ^7777773^000000
+#
+7889#
+Contain certain nutrition loved by chickens. However, the ingredients are unknown.
+^FFFFFF_^000000
+Weight: ^7777772^000000
+#
+7891#
+A cute mug crafted by hand.
+^FFFFFF_^000000
+Weight: ^77777710^000000
+#
+7892#
+A wood charcoal that was carbonized from the firm wood. It is a type of fuel and essential for making BBQ.
+It's also used to make a gun powder.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7893#
+A yellow crystalline solid that is also known for the distinctive smell.
+It is also used to make a gun powder.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7894#
+A food additive which tastes salty and a bit refreshing.
+It's also used to make a gun powder.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+7895#
+Rama was created five years for the commemorative of the book.
+^FFFFFF_^000000
+Weight: ^7777770^000000
+#
+7896#
+Roy Krasnoyarsk created for the book to celebrate the Day of Thailand.
+^FFFFFF_^000000
+Weight: ^7777770^000000
+#
+7897#
+The book was created to celebrate Constitution Day.
+^FFFFFF_^000000
+Weight: ^7777770^000000
+#
+7898#
+VV Strong Balmung made by Meow.
+^FFFFFF_^000000
+Weight: ^7777770^000000
+#
+7899#
+VV Strong Dagger made by Meow.
+^FFFFFF_^000000
+Weight: ^7777770^000000
+#
+7900#
+Jonathan 'family of exchange received a ring.
+^FFFFFF_^000000
 Weight: ^7777770^000000
 #
 7906#
@@ -18938,6 +18924,11 @@ A tribute to luck and fortune throughout the year.
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
+7933#
+Fragile. The red berry ripened but the fragrance seems like it's of a domestic animal.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
 7941#
 The mark of a foolish deed, like getting tagged by a zombie.
 ^ffffff_^000000
@@ -18972,6 +18963,11 @@ Weight: ^7777770^000000
 7975#
 A chocolate received from Cupid's Fairy to commemorate Valentine's Day.
 Remember to give it to someone special.
+Weight: ^7777770^000000
+#
+7977#
+Mercenary Badge given out during the Midgard Crowd Control Event.
+Save this up to trade for headgears with the quest NPC.
 Weight: ^7777770^000000
 #
 9001#
@@ -22624,6 +22620,13 @@ Inside, you have a chance of winning many great prizes.  See the Lucky Box page 
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
+12927#
+A box containing 10 Level 5 Aspersio Scrolls.
+^FFFFFF_^000000
+^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
 12929#
 A box that contains
 1 Pet Egg Scroll.
@@ -23059,6 +23062,12 @@ A box that contains
 1 Vesper Core 04.
 Handle with care.
 ^ffffff_^000000
+Weight: ^7777771^000000
+#
+12977#
+Scroll that contains the skill of ^008800Teleportation^000000. The word written on it can not be identified.
+Allow character to teleport to the save point, Prontera, Geffen, Al De Baran and Izlude.
+^FFFFFF_^000000
 Weight: ^7777771^000000
 #
 12983#
@@ -23741,6 +23750,9 @@ Weapon Level: ^7777773^000000
 Required Level: ^77777780^000000
 Jobs: ^777777Gunslinger^000000
 #
+13175#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
 13176#
 Increases Physical Attack Strength to Demihuman monster by 75%..
 Ignores physical defense from Demihuman monster by 20%.
@@ -23993,6 +24005,229 @@ ATK: ^77777730^000000
 Weight: ^7777772^000000
 Property:^777777Poison^000000
 #
+13260#
+A small apple shaped bomb. Though it has weak attack power, it has long range.
+Class: ^777777Projectile^000000
+Attack: ^7777770^000000
+Weight: ^7777770.1^000000
+Property: ^777777Neutral^000000
+#
+13261#
+A bomb which is made of the hard part of a coconut.
+Class: ^777777Projectile^000000
+Attack: ^7777770^000000
+Weight: ^7777770.1^000000
+Property: ^777777Neutral^000000
+#
+13262#
+A bomb which uses sweet and sticky juice of a melon.
+Class: ^777777Projectile^000000
+Attack: ^7777770^000000
+Weight: ^7777770.1^000000
+Property: ^777777Neutral^000000
+#
+13263#
+Hard peel of pineapple that attacks wide range.
+Class: ^777777Projectile^000000
+Attack: ^7777770^000000
+Weight: ^7777770.1^000000
+Property: ^777777Neutral^000000
+#
+13264#
+Use this banana peel bomb to make your enemies fall.
+Class: ^777777Shuriken^000000
+Attack: ^7777770^000000
+Weight: ^7777770.1^000000
+Property: ^777777Neutral^000000
+#
+13265#
+A black lump that can used as a projctile.
+Class: ^777777Projectile^000000
+Attack: ^7777770^000000
+Weight: ^7777775^000000
+Property: ^777777Neutral^000000
+#
+13266#
+A slightly larger black lump that can used as a projectile.
+Class: ^777777Projectile^000000
+Attack: ^7777770^000000
+Weight: ^7777775^000000
+Property: ^777777Neutral^000000
+#
+13267#
+A hardened black lump that can kill when thrown at someone.
+Class: ^777777Projectile^000000
+Attack: ^7777770^000000
+Weight: ^7777775^000000
+Property: ^777777Neutral^000000
+#
+13268#
+Mysterious unknown powder. You don't know what harm it will cause if thrown at someone.
+Class: ^777777Projectile^000000
+Attack: ^7777770^000000
+Weight: ^7777771^000000
+Property: ^777777Neutral^000000
+#
+13269#
+A refined Boost500 for throwing. Increases attack speed.
+Class: ^777777Shell^000000
+Attack: ^7777770^000000
+Weight: ^7777771^000000
+Property: ^777777Neutral^000000
+#
+13270#
+Slightly remodeled Full SwingK enabled for throwing. Increases ATK.
+Class: ^777777Projectile^000000
+Attack: ^7777770^000000
+Weight: ^7777775^000000
+Property: ^777777Neutral^000000
+#
+13271#
+Slightly remodeled Mana Plus enabled for throwing. Increases Magic attack.
+Class: ^777777Projectile^000000
+Attack: ^7777770^000000
+Weight: ^7777775^000000
+Property: ^777777Neutral^000000
+#
+13272#
+Slightly remodeled Cure Free enabled for throwing. Recovers several kinds of abnormal statuses. Recovers a small amount of HP.
+(Silence, Bleeding, Poison, Curse, Reverse Orcish, Change Undead)
+Class: ^777777Projectile^000000
+Attack: ^7777770^000000
+Weight:: ^7777775^000000
+Property: ^777777Neutral^000000
+#
+13273#
+A remodeled Muramura M for throwing. Increases max HP.
+Class: ^777777Shell^000000
+Attack: ^7777770^000000
+Weight: ^7777771^000000
+Property: ^777777Neutral^000000
+#
+13274#
+A remodeled Falmons F for throwing. Increases max SP.
+Class: ^777777Shell^000000
+Attack: ^7777770^000000
+Weight: ^7777775^000000
+Property: ^777777Neutral^000000
+#
+13275#
+Slightly remodeled HP increase potion(S) enabled for throwing. MaxHP slightly increased for 500 sec, HP recovery +1%.
+Class: ^777777Projectile^000000
+Attack: ^7777770^000000
+Weight: ^7777772^000000
+Property: ^777777Neutral^000000
+#
+13276#
+Slightly remodeled HP increase potion(M) enabled for throwing. MaxHP moderately increased for 500 sec, HP recovery +2%.
+Class: ^777777Projectile^000000
+Attack: ^7777770^000000
+Weight: ^7777774^000000
+Property: ^777777Neutral^000000
+#
+13277#
+Slightly remodeled HP increase potion(L) enabled for throwing. MaxHP greatly increased for 500 sec, HP recovery +5%.
+Class: ^777777Projectile^000000
+Attack: ^7777770^000000
+Weight: ^7777778^000000
+Property: ^777777Neutral^000000
+#
+13278#
+Slightly remodeled SP Increase Potion(S) enabled for throwing. MaxSP slightly increased for 500 sec, SP recovery +2%.
+Class: ^777777Projectile^000000
+Attack: ^7777770^000000
+Weight: ^7777772^000000
+Property: ^777777Neutral^000000
+#
+13279#
+Slightly remodeled SP Increase Potion(M) enabled for throwing. MaxSP increased for 500 sec, SP recovery +4%.
+Class: ^777777Projectile^000000
+Attack: ^7777770^000000
+Weight: ^7777774^000000
+Property: ^777777Neutral^000000
+#
+13280#
+Slightly remodeled SP increase potion(L) enabled for throwing. MaxSP greatly increased for 500 sec, SP recovery +8%.
+Class: ^777777Projectile^000000
+Attack: ^7777770^000000
+Weight: ^7777778^000000
+Property: ^777777Neutral^000000
+#
+13281#
+Slightly remodeled Enriched White Potion enabled for throwing.
+Recovers a large amount of HP, increases natural HP recovery speed by 20%. Duration: 500 sec.
+Class: ^777777Projectile^000000
+Attack: ^7777770^000000
+Weight: ^7777777^000000
+Property: ^777777Neutral^000000
+#
+13282#
+Slightly remodeled Vitata 500 enabled for throwing.
+Recovers SP, and increase SP recovery speed by 20%, increase MaxSP by 5%. Duration: 500 sec.
+Class: ^777777Projectile^000000
+Attack: ^7777770^000000
+Weight: ^7777775^000000
+Property: ^777777Neutral^000000
+#
+13283#
+Slightly remodeled Enriched Cell Juice enabled for throwing.
+Increases ASPD. Duration: 500 sec.
+Class: ^777777Projectile^000000
+Attack: ^7777770^000000
+Weight: ^7777775^000000
+Property: ^777777Neutral^000000
+#
+13284#
+Slightly remodeled Savage BBQ enabled for throwing.
+Increases Str.
+Class: ^777777Projectile^000000
+Attack: ^7777770^000000
+Weight: ^7777775^000000
+Property: ^777777Neutral^000000
+#
+13285#
+Slightly remodeled Wug Blood Cocktail enabled for throwing.
+Increases Int.
+Class: ^777777Projectile^000000
+Attack: ^7777770^000000
+Weight: ^7777775^000000
+Property: ^777777Neutral^000000
+#
+13286#
+Slightly remodeled Minor Brisket enabled for throwing that increases Vit.
+Class: ^777777Projectile^000000
+Attack: ^7777770^000000
+Weight: ^7777775^000000
+Property: ^777777Neutral^000000
+#
+13287#
+Slightly remodeled Siroma Ice Tea enabled for throwing that increases Dex.
+Class: ^777777Projectile^000000
+Attack: ^7777770^000000
+Weight: ^7777775^000000
+Property: ^777777Neutral^000000
+#
+13288#
+Slightly remodeled Drocera Herb Stew enabled for throwing that increases Agi.
+Class: ^777777Projectile^000000
+Attack: ^7777770^000000
+Weight: ^7777775^000000
+Property: ^777777Neutral^000000
+#
+13289#
+Slightly remodeled Petit Tail Noodle enabled for throwing that increases Luk.
+Class: ^777777Projectile^000000
+Attack: ^7777770^000000
+Weight: ^7777775^000000
+Property: ^777777Neutral^000000
+#
+13290#
+Slightly remodeled Black lump enabled for throwing that decreases all Statuses.
+Class: ^777777Projectile^000000
+Attack: ^7777770^000000
+Weight: ^7777775^000000
+Property: ^777777Neutral^000000
+#
 13300#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
@@ -24050,6 +24285,12 @@ Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777780^000000
 Jobs: ^777777Ninja Jobs^000000
+#
+13308#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+13309#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 13400#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
@@ -24110,6 +24351,18 @@ Thief Classes^000000
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 13405#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+13406#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+13407#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+13408#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+13409#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 13410#
@@ -24223,14 +24476,17 @@ Weapon Level: ^7777774^000000
 Required Level: ^77777780^000000
 Jobs: ^777777Swordman Class/Merchant Class Jobs^000000
 #
+13419#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+13420#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
 13421#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
-13423#
-An unknown item requiring appraisal. It can be identified by using a magnifier.
-#
-13424#
-An unknown item requiring appraisal. It can be identified by using a magnifier.
+13422#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 13426#
 ^000088Rental Item^000000
@@ -24252,6 +24508,15 @@ Weapon Class : ^777777One-handed Sword^^000000      Attack: ^777777120^000000
 Weight: ^7777770^000000     Property : ^777777화^000000
 Weapon Level: ^7777774^000000
 Jobs: ^777777Swordman, Merchant, and Thief Classes^000000
+#
+13500#
+A box containing 10 Life Insurance Certificate for 1 hours.
+^FFFFFF_^000000
+Life insurance - Within the active duration of 60 minutes, player will not lose any experience the first time he is KO'ed. Valid for just once.
+^FFFFFF_^000000
+^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
+^FFFFFF_^000000
+Weight: ^7777771^000000
 #
 13503#
 A box that contains:
@@ -25362,6 +25627,21 @@ Jobs: ^777777All^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
+13927#
+A gift box with cards only for Alchemist.
+Contains 'Zipper Bear', 'Baby Leopard', 'Holden', 'Raggler' and 'Muka' Card.
+^FFFFFF_^000000
+^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+13933#
+A box contains 4 'Laurell Weinder' Card.
+^FFFFFF_^000000
+^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
 13937#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
@@ -25416,6 +25696,15 @@ Weight: ^7777771^000000
 #
 13965#
 #
+13977#
+A box containing 1 Freshman Magic Powder. Available for one week.
+When double clicked, your font changes, and when used again, your font goes back to normal.
+Works only for chats said above your head and for vend names.
+^FFFFFF_^000000
+^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
 13990#
 A box that contains
 10 Job Battle Manuals.
@@ -25456,6 +25745,13 @@ Weight: ^7777771^000000
 #
 13998#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+14000#
+A box contains 500 Pill.
+^FFFFFF_^000000
+^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
+^FFFFFF_^000000
+Weight: ^7777771^000000
 #
 14002#
 A supply box containing WoE potions.
@@ -26434,24 +26730,13 @@ A prize that is given to the hottest character who is the winner of the Valentin
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
-14495#
-A box that contains an Aquarius Diadem Headgear.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-14496#
-A box that contains an Aquarius Crown Headgaer.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-14497#
-A box that contains a Pisces Diadem Headgear.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-14498#
-A box that contains a Pisces Crown Headgear.
-^ffffff_^000000
+14500#
+A life insurance certificate issued by Kafra Center.
+Once the player receives the benefit from this certificate, the item will lose its effect.
+If the character dies within the 60 minutes duration, no loss of EXP will be made.
+Corrected display suppose to be will not lose any experience the first time you ko'ed.
+The effect will disappear after your first KO'.
+^FFFFFF_^000000
 Weight: ^7777771^000000
 #
 14509#
@@ -28209,6 +28494,41 @@ Opening this randomly give you one of the following item sets
 ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
+18000#
+A consumable item to use the Mechanic Magic Gear Skill, Arm's Cannon.
+Class: ^777777Cannonball^000000
+Attack: ^777777100^000000
+Weight: ^7777771^000000
+Property: ^777777Neutral^000000
+#
+18001#
+A consumable item to use the Mechanic Magic Gear Skill, Arm's Cannon.
+Class: ^777777Cannonball^000000
+Attack: ^777777120^000000
+Weight: ^7777771^000000
+Property: ^777777Holy^000000
+#
+18002#
+A consumable item to use the Mechanic Magic Gear Skill, Arm's Cannon.
+Class: ^777777Cannonball^000000
+Attack: ^777777120^000000
+Weight: ^7777771^000000
+Property: ^777777shadow^000000
+#
+18003#
+A consumable item to use the Mechanic Magic Gear Skill, Arm's Cannon.
+Class: ^777777Cannonball^000000
+Attack: ^777777120^000000
+Weight: ^7777771^000000
+Property: ^777777Ghost^000000
+#
+18004#
+A consumable item to use the Mechanic Magic Gear Skill, Arm's Cannon.
+Class: ^777777Cannonball^000000
+Attack: ^777777250^000000
+Weight: ^7777771^000000
+Property: ^777777Neutral^000000
+#
 18101#
 ^000088Rental Item^000000
 A bow imbued with the sacred essense of Rudra, one of the ancient gods.
@@ -28221,6 +28541,9 @@ Weapon Level: ^7777774^000000
 Jobs: ^777777Archer Class;Rogue Job^000000
 #
 18106#
+Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
+#
+18500#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18505#
@@ -28239,9 +28562,6 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18522#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-#
-18527#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18532#
@@ -28400,15 +28720,6 @@ Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18645#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-#
-18646#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-#
-18647#
-Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
-#
-18648#
 Unknown Item, can be identified by ^6A5ACDMagnifier^000000.
 #
 18656#
