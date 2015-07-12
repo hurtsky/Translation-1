@@ -2814,23 +2814,23 @@ A request from Wallah from Payon. Collect 40 Huge Leaf to help him make a specia
 
 3259#Puppet Master's Agony#SG_FEEL#QUE_NOIMAGE#
 A request from Woonute from Geffen. Hunt 30 Marionettes and collect 30 Golden Hair. Report back to Sparkle at the Eden Group after the request is done.#
-#
+Hunt 30 Marionette and collect 30 Golden Hair#
 
 3260#Tiresome Flies#SG_FEEL#QUE_NOIMAGE#
 A request by an exterminator from Prontera. Hunt 30 Hunter Fly monsters in Geffen Tower. Report back to Sparkle at the Eden Group after the request is done.#
-#
+Hunt 30 Hunter Fly#
 
 3261#Dangerous Munak#SG_FEEL#QUE_NOIMAGE#
 A request by Cheese Dongja from Payon to hunt 30 Munak monsters in Payon Dungeon.#
-#
+Hunt 30 Munak#
 
 3262#Make the World green#SG_FEEL#QUE_NOIMAGE#
-A request by a gem dealer from Morocc. Collect 40 Maneater Blossoms from Flora in Comodo.#
-Report back to Sparkle at the Eden Group after the request is done.#
+A request by a gem dealer from Morocc. Collect 40 Maneater Blossoms from Flora in Comodo. Report back to Sparkle at the Eden Group after the request is done.#
+Collect 40 Maneater Blossom#
 
 3263#Magic Wand#SG_FEEL#QUE_NOIMAGE#
 A request from Blacksmith Antonio. Collect 30 Dokebi Horn and 30 Trunks and he will lend you his Magic Wand once.#
-Collect  ^0000FF30 Dokebi Horn^000000 and ^0000FF3 Trunk^000000s#
+Collect 30 Trunk, 30 Dokebi Horn#
 
 3265#Request - Missing occult mania#SG_FEEL#QUE_NOIMAGE#
 A request from a place taking request. You found a missing boy in the first floor of geffen dungeon, so go back to a place taking request for reporting.#
@@ -3485,9 +3485,9 @@ You have heard the explanation about the upper class jobs#
 Remove the target at the space of back side of wall within a minute#
 Drops 10#
 
-4276#닌자 훈련-연습2#SG_FEEL#QUE_NOIMAGE#
-벽 뒤편의 공간에서 1분 안에 목표를 제거하라#
-포링 10#
+4276#Ninja training-Exercise1#SG_FEEL#QUE_NOIMAGE#
+Remove the target at the back space of wall within a minute#
+Poring 10#
 
 4277#Ninja training-Actual battle2#SG_FEEL#QUE_NOIMAGE#
 Come back after hunting 10 rockers#
@@ -7499,20 +7499,20 @@ Speak with Mr. Hun#
 You received a glass of Apple Juice from Mr. Hun. Drink it with one swallow!#
 Drink the Apple Juice then talk to Mr. Hun#
 
-7474#Gift from a guide staff#SG_FEEL#QUE_NOIMAGE#
-Find the hidden treasure at the place the guide staff told you about.#
-Find the hidden gift#
-
-7475#I am one step behind.-1#SG_FEEL#QUE_NOIMAGE#
-You heard that Butterly Wings were hidden at the place of the free airship...#
+7474#Searching for treasure#SG_FEEL#QUE_NOIMAGE#
+Find the hidden treasure at the 3 places indicated by the Information Staff on your mini-map.#
 #
 
-7476#I am one step behind2#SG_FEEL#QUE_NOIMAGE#
-You heard that potions were hidden near the Arena.#
+7475#Discovered the Airship#SG_FEEL#QUE_NOIMAGE#
+You arrived at the Free Airship sign but didn't find any treasure there. Find the other two spots if you haven't yet and return to the Information Staff.#
 #
 
-7477#I am one step behind-3#SG_FEEL#QUE_NOIMAGE#
-You heard that Fly Wings were hidden at the refinery...#
+7476#Discovered the Arena#SG_FEEL#QUE_NOIMAGE#
+You arrived the Arena bulletin board but didn't find any treasure there. Find the other two spots if you haven't yet and return to the Information Staff.#
+#
+
+7477#Bridge to Prontera#SG_FEEL#QUE_NOIMAGE#
+You arrived at the bridge to Prontera but didn't find any treasure there. Find the other two spots if you haven't yet and return to the Information Staff.#
 #
 
 7478#Basic Medical Botany#SG_FEEL#QUE_NOIMAGE#

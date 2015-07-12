@@ -17,7 +17,7 @@ hatEffectTable = {
 	[HatEFID.HAT_EF_LJOSALFAR] = { resourceFileName = "efst_ljosalfar\\ljosalfar.str", hatEffectPos = 0 },
 	[HatEFID.HAT_EF_MAPLE_FALLS] = { resourceFileName = "efst_maple_falls\\maple_falls.str", hatEffectPos = 0 },
 	[HatEFID.HAT_EF_TIME_ACCESSORY] = { resourceFileName = "EFST_Time_ Accessory\\Time_ Accessory.str", hatEffectPos = 0 },
-	[HatEFID.HAT_EF_MERMAID_LONGING] = { resourceFileName = "efst_mermaid_loging\\bubblebubble.str", hatEffectPos = 0 },
+	[HatEFID.HAT_EF_MERMAID_LONGING] = { resourceFileName = "efst_mermaid_loging\\bubblebubble.str", hatEffectPos = -6 },
 	[HatEFID.HAT_EF_GLORIA] = { resourceFileName = "gloria.str", hatEffectPos = 0 },
 	[HatEFID.HAT_EF_BLACK_MAXMIZE] = { resourceFileName = "black_maxmize.str", hatEffectPos = 0 },
 	[HatEFID.HAT_EF_MOONLIGHT1] = { resourceFileName = "moonlight_1.str", hatEffectPos = 0 }
