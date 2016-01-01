@@ -3,4 +3,6 @@
 
 Please use following repository for getting latest decompiled kRO Lua Files:
 
-https://github.com/ROClientSide/kRO-RAW-Mains
+Mains: https://github.com/ROClientSide/kRO-RAW-Mains
+
+RE: https://github.com/ROClientSide/kRO-RAW-Re
