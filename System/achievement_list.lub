@@ -60,12 +60,12 @@ achievement_tbl_raw = {
 		minor = 0,
 		title = "North Prontera Field Exploration(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding north prontera field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding North Prontera Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding north prontera field",
+				text = "Discover the treasure surrounding North Prontera Field",
 			},
 		},
 		reward = {
@@ -80,12 +80,12 @@ achievement_tbl_raw = {
 		minor = 0,
 		title = "North Prontera Field Exploration(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding north prontera field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding North Prontera Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding north prontera field",
+				text = "Discover the treasure surrounding North Prontera Field",
 			},
 		},
 		reward = {
@@ -100,12 +100,12 @@ achievement_tbl_raw = {
 		minor = 0,
 		title = "North Prontera Field Exploration(3)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding north prontera field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding North Prontera Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding north prontera field",
+				text = "Discover the treasure surrounding North Prontera Field",
 			},
 		},
 		reward = {
@@ -120,12 +120,12 @@ achievement_tbl_raw = {
 		minor = 0,
 		title = "West Prontera Field Exploration(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding west prontera field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding West Prontera Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding west prontera field",
+				text = "Discover the treasure surrounding West Prontera Field",
 			},
 		},
 		reward = {
@@ -140,12 +140,12 @@ achievement_tbl_raw = {
 		minor = 0,
 		title = "West Prontera Field Exploration(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding west prontera field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding West Prontera Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding west prontera field",
+				text = "Discover the treasure surrounding West Prontera Field",
 			},
 		},
 		reward = {
@@ -160,12 +160,12 @@ achievement_tbl_raw = {
 		minor = 0,
 		title = "East Prontera Field Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding east prontera field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding East Prontera Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding east prontera field",
+				text = "Discover the treasure surrounding East Prontera Field",
 			},
 		},
 		reward = {
@@ -180,12 +180,12 @@ achievement_tbl_raw = {
 		minor = 0,
 		title = "South Prontera Field Exploration(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding south prontera field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding South Prontera Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding south prontera field",
+				text = "Discover the treasure surrounding South Prontera Field",
 			},
 		},
 		reward = {
@@ -200,12 +200,12 @@ achievement_tbl_raw = {
 		minor = 0,
 		title = "South Prontera Field Exploration(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding south prontera field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding South Prontera Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding south prontera field",
+				text = "Discover the treasure surrounding South Prontera Field",
 			},
 		},
 		reward = {
@@ -220,12 +220,12 @@ achievement_tbl_raw = {
 		minor = 0,
 		title = "South Prontera Field Exploration(3)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding south prontera field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding South Prontera Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding south prontera field",
+				text = "Discover the treasure surrounding South Prontera Field",
 			},
 		},
 		reward = {
@@ -240,12 +240,12 @@ achievement_tbl_raw = {
 		minor = 0,
 		title = "South Prontera Field Exploration(4)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding south prontera field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding South Prontera Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding south prontera field",
+				text = "Discover the treasure surrounding South Prontera Field",
 			},
 		},
 		reward = {
@@ -260,12 +260,12 @@ achievement_tbl_raw = {
 		minor = 0,
 		title = "East Geffen Field Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding east geffen field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding East Geffen Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding east geffen field",
+				text = "Discover the treasure surrounding East Geffen Field",
 			},
 		},
 		reward = {
@@ -278,14 +278,14 @@ achievement_tbl_raw = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Southeast Geffen Field Exploration",
+		title = "SouthEast Geffen Field Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding southeast geffen field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding SouthEast Geffen Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding southeast geffen field",
+				text = "Discover the treasure surrounding SouthEast Geffen Field",
 			},
 		},
 		reward = {
@@ -298,14 +298,14 @@ achievement_tbl_raw = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Northwest Geffen Field Exploration(1)",
+		title = "NorthWest Geffen Field Exploration(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding northwest geffen field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding NorthWest Geffen Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding northwest geffen field",
+				text = "Discover the treasure surrounding NorthWest Geffen Field",
 			},
 		},
 		reward = {
@@ -318,14 +318,14 @@ achievement_tbl_raw = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Northwest Geffen Field Exploration(2)",
+		title = "NorthWest Geffen Field Exploration(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding northwest geffen field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding NorthWest Geffen Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding northwest geffen field",
+				text = "Discover the treasure surrounding NorthWest Geffen Field",
 			},
 		},
 		reward = {
@@ -338,14 +338,14 @@ achievement_tbl_raw = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Northwest Geffen Field Exploration(3)",
+		title = "NorthWest Geffen Field Exploration(3)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding northwest geffen field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding NorthWest Geffen Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding northwest geffen field",
+				text = "Discover the treasure surrounding NorthWest Geffen Field",
 			},
 		},
 		reward = {
@@ -360,12 +360,12 @@ achievement_tbl_raw = {
 		minor = 0,
 		title = "South Geffen Field Exploration(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding south geffen field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding South Geffen Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding south geffen field",
+				text = "Discover the treasure surrounding South Geffen Field",
 			},
 		},
 		reward = {
@@ -380,12 +380,12 @@ achievement_tbl_raw = {
 		minor = 0,
 		title = "South Geffen Field Exploration(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding south geffen field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding South Geffen Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding south geffen field",
+				text = "Discover the treasure surrounding South Geffen Field",
 			},
 		},
 		reward = {
@@ -400,12 +400,12 @@ achievement_tbl_raw = {
 		minor = 0,
 		title = "Sograt Desert Field Exploration(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding sograt desert field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding sograt desert Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding sograt desert field",
+				text = "Discover the treasure surrounding sograt desert Field",
 			},
 		},
 		reward = {
@@ -420,12 +420,12 @@ achievement_tbl_raw = {
 		minor = 0,
 		title = "Sograt Desert Field Exploration(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding sograt desert field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding sograt desert Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding sograt desert field",
+				text = "Discover the treasure surrounding sograt desert Field",
 			},
 		},
 		reward = {
@@ -440,12 +440,12 @@ achievement_tbl_raw = {
 		minor = 0,
 		title = "Sograt Desert Field Exploration(3)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding sograt desert field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding sograt desert Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding sograt desert field",
+				text = "Discover the treasure surrounding sograt desert Field",
 			},
 		},
 		reward = {
@@ -460,12 +460,12 @@ achievement_tbl_raw = {
 		minor = 0,
 		title = "Sograt Desert Field Exploration(4)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding sograt desert field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding sograt desert Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding sograt desert field",
+				text = "Discover the treasure surrounding sograt desert Field",
 			},
 		},
 		reward = {
@@ -480,12 +480,12 @@ achievement_tbl_raw = {
 		minor = 0,
 		title = "Sograt Desert Field Exploration(5)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding sograt desert field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding sograt desert Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding sograt desert field",
+				text = "Discover the treasure surrounding sograt desert Field",
 			},
 		},
 		reward = {
@@ -500,12 +500,12 @@ achievement_tbl_raw = {
 		minor = 0,
 		title = "Sograt Desert Field Exploration(6)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding sograt desert field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding sograt desert Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding sograt desert field",
+				text = "Discover the treasure surrounding sograt desert Field",
 			},
 		},
 		reward = {
@@ -518,14 +518,14 @@ achievement_tbl_raw = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Southwest Payon Field Exploration(1)",
+		title = "SouthWest Payon Field Exploration(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding southwest payon field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding SouthWest Payon Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding southwest payon field",
+				text = "Discover the treasure surrounding SouthWest Payon Field",
 			},
 		},
 		reward = {
@@ -538,14 +538,14 @@ achievement_tbl_raw = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Southwest Payon Field Exploration(2)",
+		title = "SouthWest Payon Field Exploration(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding southwest payon field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding SouthWest Payon Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding southwest payon field",
+				text = "Discover the treasure surrounding SouthWest Payon Field",
 			},
 		},
 		reward = {
@@ -558,14 +558,14 @@ achievement_tbl_raw = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Southwest Payon Field Exploration(3)",
+		title = "SouthWest Payon Field Exploration(3)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding southwest payon field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding SouthWest Payon Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding southwest payon field",
+				text = "Discover the treasure surrounding SouthWest Payon Field",
 			},
 		},
 		reward = {
@@ -578,14 +578,14 @@ achievement_tbl_raw = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Southwest Payon Field Exploration(4)",
+		title = "SouthWest Payon Field Exploration(4)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding southwest payon field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding SouthWest Payon Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding southwest payon field",
+				text = "Discover the treasure surrounding SouthWest Payon Field",
 			},
 		},
 		reward = {
@@ -600,12 +600,12 @@ achievement_tbl_raw = {
 		minor = 0,
 		title = "East Payon Field Exploration(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding east payon field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding East Payon Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding east payon field",
+				text = "Discover the treasure surrounding East Payon Field",
 			},
 		},
 		reward = {
@@ -620,12 +620,12 @@ achievement_tbl_raw = {
 		minor = 0,
 		title = "East Payon Field Exploration(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding east payon field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding East Payon Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding east payon field",
+				text = "Discover the treasure surrounding East Payon Field",
 			},
 		},
 		reward = {
@@ -640,12 +640,12 @@ achievement_tbl_raw = {
 		minor = 0,
 		title = "East Payon Field Exploration(3)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding east payon field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding East Payon Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding east payon field",
+				text = "Discover the treasure surrounding East Payon Field",
 			},
 		},
 		reward = {
@@ -660,12 +660,12 @@ achievement_tbl_raw = {
 		minor = 0,
 		title = "East Payon Field Exploration(4)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding east payon field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding East Payon Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding east payon field",
+				text = "Discover the treasure surrounding East Payon Field",
 			},
 		},
 		reward = {
@@ -680,12 +680,12 @@ achievement_tbl_raw = {
 		minor = 0,
 		title = "North Mjolnir Field Exploration(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding north mjolnir field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding North Mjolnir Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding north mjolnir field",
+				text = "Discover the treasure surrounding North Mjolnir Field",
 			},
 		},
 		reward = {
@@ -700,12 +700,12 @@ achievement_tbl_raw = {
 		minor = 0,
 		title = "North Mjolnir Field Exploration(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding north mjolnir field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding North Mjolnir Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding north mjolnir field",
+				text = "Discover the treasure surrounding North Mjolnir Field",
 			},
 		},
 		reward = {
@@ -720,12 +720,12 @@ achievement_tbl_raw = {
 		minor = 0,
 		title = "North Mjolnir Field Exploration(3)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding north mjolnir field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding North Mjolnir Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding north mjolnir field",
+				text = "Discover the treasure surrounding North Mjolnir Field",
 			},
 		},
 		reward = {
@@ -740,12 +740,12 @@ achievement_tbl_raw = {
 		minor = 0,
 		title = "North Mjolnir Field Exploration(4)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding north mjolnir field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding North Mjolnir Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding north mjolnir field",
+				text = "Discover the treasure surrounding North Mjolnir Field",
 			},
 		},
 		reward = {
@@ -760,12 +760,12 @@ achievement_tbl_raw = {
 		minor = 0,
 		title = "North Mjolnir Field Exploration(5)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding north mjolnir field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding North Mjolnir Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding north mjolnir field",
+				text = "Discover the treasure surrounding North Mjolnir Field",
 			},
 		},
 		reward = {
@@ -780,12 +780,12 @@ achievement_tbl_raw = {
 		minor = 0,
 		title = "South Mjolnir Field Exploration(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding south mjolnir field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding South Mjolnir Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding south mjolnir field",
+				text = "Discover the treasure surrounding South Mjolnir Field",
 			},
 		},
 		reward = {
@@ -800,12 +800,12 @@ achievement_tbl_raw = {
 		minor = 0,
 		title = "South Mjolnir Field Exploration(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding south mjolnir field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding South Mjolnir Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding south mjolnir field",
+				text = "Discover the treasure surrounding South Mjolnir Field",
 			},
 		},
 		reward = {
@@ -820,12 +820,12 @@ achievement_tbl_raw = {
 		minor = 0,
 		title = "South Mjolnir Field Exploration(3)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding south mjolnir field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding South Mjolnir Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding south mjolnir field",
+				text = "Discover the treasure surrounding South Mjolnir Field",
 			},
 		},
 		reward = {
@@ -840,12 +840,12 @@ achievement_tbl_raw = {
 		minor = 0,
 		title = "South Mjolnir Field Exploration(4)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding south mjolnir field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding South Mjolnir Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding south mjolnir field",
+				text = "Discover the treasure surrounding South Mjolnir Field",
 			},
 		},
 		reward = {
@@ -860,12 +860,12 @@ achievement_tbl_raw = {
 		minor = 0,
 		title = "South Mjolnir Field Exploration(5)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding south mjolnir field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding South Mjolnir Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding south mjolnir field",
+				text = "Discover the treasure surrounding South Mjolnir Field",
 			},
 		},
 		reward = {
@@ -880,12 +880,12 @@ achievement_tbl_raw = {
 		minor = 0,
 		title = "South Mjolnir Field Exploration(6)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding south mjolnir field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding South Mjolnir Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding south mjolnir field",
+				text = "Discover the treasure surrounding South Mjolnir Field",
 			},
 		},
 		reward = {
@@ -900,12 +900,12 @@ achievement_tbl_raw = {
 		minor = 0,
 		title = "South Aldebaran Field Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding south aldebaran field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding South aldebaran Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding south aldebaran field",
+				text = "Discover the treasure surrounding South aldebaran Field",
 			},
 		},
 		reward = {
@@ -920,12 +920,12 @@ achievement_tbl_raw = {
 		minor = 0,
 		title = "Comodo Field Exploration(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding comodo field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Comodo Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding comodo field",
+				text = "Discover the treasure surrounding Comodo Field",
 			},
 		},
 		reward = {
@@ -940,12 +940,12 @@ achievement_tbl_raw = {
 		minor = 0,
 		title = "Comodo Field Exploration(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding comodo field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Comodo Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding comodo field",
+				text = "Discover the treasure surrounding Comodo Field",
 			},
 		},
 		reward = {
@@ -960,12 +960,12 @@ achievement_tbl_raw = {
 		minor = 0,
 		title = "Comodo Field Exploration(3)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding comodo field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Comodo Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding comodo field",
+				text = "Discover the treasure surrounding Comodo Field",
 			},
 		},
 		reward = {
@@ -980,12 +980,12 @@ achievement_tbl_raw = {
 		minor = 0,
 		title = "Comodo Field Exploration(4)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding comodo field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Comodo Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding comodo field",
+				text = "Discover the treasure surrounding Comodo Field",
 			},
 		},
 		reward = {
@@ -1000,12 +1000,12 @@ achievement_tbl_raw = {
 		minor = 0,
 		title = "Comodo Field Exploration(5)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding comodo field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Comodo Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding comodo field",
+				text = "Discover the treasure surrounding Comodo Field",
 			},
 		},
 		reward = {
@@ -1020,12 +1020,12 @@ achievement_tbl_raw = {
 		minor = 0,
 		title = "Comodo Field Exploration(6)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding comodo field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Comodo Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding comodo field",
+				text = "Discover the treasure surrounding Comodo Field",
 			},
 		},
 		reward = {
@@ -1040,12 +1040,12 @@ achievement_tbl_raw = {
 		minor = 0,
 		title = "Comodo Field Exploration(7)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding comodo field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Comodo Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding comodo field",
+				text = "Discover the treasure surrounding Comodo Field",
 			},
 		},
 		reward = {
@@ -1060,12 +1060,12 @@ achievement_tbl_raw = {
 		minor = 0,
 		title = "Comodo Field Exploration(8)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding comodo field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Comodo Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding comodo field",
+				text = "Discover the treasure surrounding Comodo Field",
 			},
 		},
 		reward = {
@@ -1080,12 +1080,12 @@ achievement_tbl_raw = {
 		minor = 1,
 		title = "Border Checkpoint Field Exploration(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding border checkpoint field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Border Checkpoint Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding border checkpoint field",
+				text = "Discover the treasure surrounding Border Checkpoint Field",
 			},
 		},
 		reward = {
@@ -1100,12 +1100,12 @@ achievement_tbl_raw = {
 		minor = 1,
 		title = "Border Checkpoint Field Exploration(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding border checkpoint field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Border Checkpoint Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding border checkpoint field",
+				text = "Discover the treasure surrounding Border Checkpoint Field",
 			},
 		},
 		reward = {
@@ -1120,12 +1120,12 @@ achievement_tbl_raw = {
 		minor = 1,
 		title = "Kiel Hyre Mansion Field Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding kiel hyre mansion field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Kiel Hyre Mansion Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding kiel hyre mansion field",
+				text = "Discover the treasure surrounding Kiel Hyre Mansion Field",
 			},
 		},
 		reward = {
@@ -1140,12 +1140,12 @@ achievement_tbl_raw = {
 		minor = 1,
 		title = "El Mes Plateau Field Exploration(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding el mes plateau field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding El Mes Plateau Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding el mes plateau field",
+				text = "Discover the treasure surrounding El Mes Plateau Field",
 			},
 		},
 		reward = {
@@ -1160,12 +1160,12 @@ achievement_tbl_raw = {
 		minor = 1,
 		title = "El Mes Plateau Field Exploration(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding el mes plateau field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding El Mes Plateau Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding el mes plateau field",
+				text = "Discover the treasure surrounding El Mes Plateau Field",
 			},
 		},
 		reward = {
@@ -1180,12 +1180,12 @@ achievement_tbl_raw = {
 		minor = 1,
 		title = "El Mes Plateau Field Exploration(3)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding el mes plateau field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding El Mes Plateau Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding el mes plateau field",
+				text = "Discover the treasure surrounding El Mes Plateau Field",
 			},
 		},
 		reward = {
@@ -1200,12 +1200,12 @@ achievement_tbl_raw = {
 		minor = 1,
 		title = "El Mes Gorge Field Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding el mes gorge field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding El Mes Gorge Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding el mes gorge field",
+				text = "Discover the treasure surrounding El Mes Gorge Field",
 			},
 		},
 		reward = {
@@ -1220,12 +1220,12 @@ achievement_tbl_raw = {
 		minor = 1,
 		title = "Kiel Hyre Academy Field Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding kiel hyre academy field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Kiel Hyre Academy Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding kiel hyre academy field",
+				text = "Discover the treasure surrounding Kiel Hyre Academy Field",
 			},
 		},
 		reward = {
@@ -1240,12 +1240,12 @@ achievement_tbl_raw = {
 		minor = 1,
 		title = "Guard Camp Field Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding guard camp field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Guard Camp Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding guard camp field",
+				text = "Discover the treasure surrounding Guard Camp Field",
 			},
 		},
 		reward = {
@@ -1260,12 +1260,12 @@ achievement_tbl_raw = {
 		minor = 1,
 		title = "Yuno Field Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding yuno field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Yuno Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding yuno field",
+				text = "Discover the treasure surrounding Yuno Field",
 			},
 		},
 		reward = {
@@ -1280,12 +1280,12 @@ achievement_tbl_raw = {
 		minor = 1,
 		title = "Front of Thanatos Tower Field Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding front of thanatos tower field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Front of Thanatos Tower Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding front of thanatos tower field",
+				text = "Discover the treasure surrounding Front of Thanatos Tower Field",
 			},
 		},
 		reward = {
@@ -1300,12 +1300,12 @@ achievement_tbl_raw = {
 		minor = 1,
 		title = "Hugel Field Exploration(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding hugel field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Hugel Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding hugel field",
+				text = "Discover the treasure surrounding Hugel Field",
 			},
 		},
 		reward = {
@@ -1320,12 +1320,12 @@ achievement_tbl_raw = {
 		minor = 1,
 		title = "Hugel Field Exploration(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding hugel field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Hugel Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding hugel field",
+				text = "Discover the treasure surrounding Hugel Field",
 			},
 		},
 		reward = {
@@ -1340,12 +1340,12 @@ achievement_tbl_raw = {
 		minor = 1,
 		title = "Hugel Field Exploration(3)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding hugel field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Hugel Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding hugel field",
+				text = "Discover the treasure surrounding Hugel Field",
 			},
 		},
 		reward = {
@@ -1360,12 +1360,12 @@ achievement_tbl_raw = {
 		minor = 1,
 		title = "Abyss Lake Field Exploration(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding abyss lake field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Abyss Lake Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding abyss lake field",
+				text = "Discover the treasure surrounding Abyss Lake Field",
 			},
 		},
 		reward = {
@@ -1380,12 +1380,12 @@ achievement_tbl_raw = {
 		minor = 1,
 		title = "Einbroch Field Exploration(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding Einbroch field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Einbroch Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Einbroch field",
+				text = "Discover the treasure surrounding Einbroch Field",
 			},
 		},
 		reward = {
@@ -1400,12 +1400,12 @@ achievement_tbl_raw = {
 		minor = 1,
 		title = "Einbroch Field Exploration(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding Einbroch field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Einbroch Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Einbroch field",
+				text = "Discover the treasure surrounding Einbroch Field",
 			},
 		},
 		reward = {
@@ -1420,12 +1420,12 @@ achievement_tbl_raw = {
 		minor = 1,
 		title = "Einbroch Field Exploration(3)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding Einbroch field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Einbroch Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Einbroch field",
+				text = "Discover the treasure surrounding Einbroch Field",
 			},
 		},
 		reward = {
@@ -1440,12 +1440,12 @@ achievement_tbl_raw = {
 		minor = 1,
 		title = "Einbroch Field Exploration(4)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding Einbroch field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Einbroch Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Einbroch field",
+				text = "Discover the treasure surrounding Einbroch Field",
 			},
 		},
 		reward = {
@@ -1460,12 +1460,12 @@ achievement_tbl_raw = {
 		minor = 1,
 		title = "Einbroch Field Exploration(5)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding Einbroch field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Einbroch Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Einbroch field",
+				text = "Discover the treasure surrounding Einbroch Field",
 			},
 		},
 		reward = {
@@ -1480,12 +1480,12 @@ achievement_tbl_raw = {
 		minor = 1,
 		title = "Einbroch Field Exploration(6)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding Einbroch field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Einbroch Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Einbroch field",
+				text = "Discover the treasure surrounding Einbroch Field",
 			},
 		},
 		reward = {
@@ -1500,12 +1500,12 @@ achievement_tbl_raw = {
 		minor = 1,
 		title = "Einbroch Field Exploration(7)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding Einbroch field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Einbroch Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Einbroch field",
+				text = "Discover the treasure surrounding Einbroch Field",
 			},
 		},
 		reward = {
@@ -1520,12 +1520,12 @@ achievement_tbl_raw = {
 		minor = 1,
 		title = "Einbroch Field Exploration(8)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding Einbroch field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Einbroch Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Einbroch field",
+				text = "Discover the treasure surrounding Einbroch Field",
 			},
 		},
 		reward = {
@@ -1540,12 +1540,12 @@ achievement_tbl_raw = {
 		minor = 1,
 		title = "Lighthalzen Field Exploration(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding lighthalzen field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Lighthalzen Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding lighthalzen field",
+				text = "Discover the treasure surrounding Lighthalzen Field",
 			},
 		},
 		reward = {
@@ -1560,12 +1560,12 @@ achievement_tbl_raw = {
 		minor = 1,
 		title = "Lighthalzen Field Exploration(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding lighthalzen field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Lighthalzen Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding lighthalzen field",
+				text = "Discover the treasure surrounding Lighthalzen Field",
 			},
 		},
 		reward = {
@@ -1580,12 +1580,12 @@ achievement_tbl_raw = {
 		minor = 1,
 		title = "Lighthalzen Field Exploration(3)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding lighthalzen field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Lighthalzen Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding lighthalzen field",
+				text = "Discover the treasure surrounding Lighthalzen Field",
 			},
 		},
 		reward = {
@@ -1600,12 +1600,12 @@ achievement_tbl_raw = {
 		minor = 2,
 		title = "Rachel Audhumbla Plains Field Exploration(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding rachel audhumbla plains field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Rachel Audhumbla Plains Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding rachel audhumbla plains field",
+				text = "Discover the treasure surrounding Rachel Audhumbla Plains Field",
 			},
 		},
 		reward = {
@@ -1620,12 +1620,12 @@ achievement_tbl_raw = {
 		minor = 2,
 		title = "Rachel Plains Field Exploration(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding rachel plains field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Rachel Plains Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding rachel plains field",
+				text = "Discover the treasure surrounding Rachel Plains Field",
 			},
 		},
 		reward = {
@@ -1640,12 +1640,12 @@ achievement_tbl_raw = {
 		minor = 2,
 		title = "Rachel Plains Field Exploration(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding rachel plains field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Rachel Plains Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding rachel plains field",
+				text = "Discover the treasure surrounding Rachel Plains Field",
 			},
 		},
 		reward = {
@@ -1660,12 +1660,12 @@ achievement_tbl_raw = {
 		minor = 2,
 		title = "Rachel Plains Field Exploration(3)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding rachel plains field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Rachel Plains Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding rachel plains field",
+				text = "Discover the treasure surrounding Rachel Plains Field",
 			},
 		},
 		reward = {
@@ -1680,12 +1680,12 @@ achievement_tbl_raw = {
 		minor = 2,
 		title = "Rachel Audhumbla Grassland Field Exploration(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding rachel audhumbla grassland field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Rachel Audhumbla Grassland Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding rachel audhumbla grassland field",
+				text = "Discover the treasure surrounding Rachel Audhumbla Grassland Field",
 			},
 		},
 		reward = {
@@ -1700,12 +1700,12 @@ achievement_tbl_raw = {
 		minor = 2,
 		title = "Rachel Audhumbla Grassland Field Exploration(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding rachel audhumbla grassland field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Rachel Audhumbla Grassland Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding rachel audhumbla grassland field",
+				text = "Discover the treasure surrounding Rachel Audhumbla Grassland Field",
 			},
 		},
 		reward = {
@@ -1720,12 +1720,12 @@ achievement_tbl_raw = {
 		minor = 2,
 		title = "Portus Luna Field Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding portus luna field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Portus Luna Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding portus luna field",
+				text = "Discover the treasure surrounding Portus Luna Field",
 			},
 		},
 		reward = {
@@ -1740,12 +1740,12 @@ achievement_tbl_raw = {
 		minor = 2,
 		title = "Veins Field Exploration(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding veins field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Veins Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding veins field",
+				text = "Discover the treasure surrounding Veins Field",
 			},
 		},
 		reward = {
@@ -1760,12 +1760,12 @@ achievement_tbl_raw = {
 		minor = 2,
 		title = "Veins Field Exploration(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding veins field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Veins Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding veins field",
+				text = "Discover the treasure surrounding Veins Field",
 			},
 		},
 		reward = {
@@ -1780,12 +1780,12 @@ achievement_tbl_raw = {
 		minor = 2,
 		title = "Veins Field Exploration(3)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding veins field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Veins Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding veins field",
+				text = "Discover the treasure surrounding Veins Field",
 			},
 		},
 		reward = {
@@ -1800,12 +1800,12 @@ achievement_tbl_raw = {
 		minor = 2,
 		title = "Veins Field Exploration(4)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding veins field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Veins Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding veins field",
+				text = "Discover the treasure surrounding Veins Field",
 			},
 		},
 		reward = {
@@ -1820,12 +1820,12 @@ achievement_tbl_raw = {
 		minor = 2,
 		title = "Veins Field Exploration(5)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding veins field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Veins Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding veins field",
+				text = "Discover the treasure surrounding Veins Field",
 			},
 		},
 		reward = {
@@ -1840,12 +1840,12 @@ achievement_tbl_raw = {
 		minor = 3,
 		title = "Eclage Field Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding eclage field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Eclage Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding eclage field",
+				text = "Discover the treasure surrounding Eclage Field",
 			},
 		},
 		reward = {
@@ -1858,14 +1858,14 @@ achievement_tbl_raw = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "North Bitfrost Field Exploration(1)",
+		title = "North Bifrost Field Exploration(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding north bitfrost field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding North Bifrost Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding north bitfrost field",
+				text = "Discover the treasure surrounding North Bifrost Field",
 			},
 		},
 		reward = {
@@ -1878,14 +1878,14 @@ achievement_tbl_raw = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "South Bitfrost Field Exploration(1)",
+		title = "South Bifrost Field Exploration(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding south bitfrost field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding South Bifrost Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding south bitfrost field",
+				text = "Discover the treasure surrounding South Bifrost Field",
 			},
 		},
 		reward = {
@@ -1900,12 +1900,12 @@ achievement_tbl_raw = {
 		minor = 3,
 		title = "Splendide Field Exploration(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding splendide field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Splendide Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding splendide field",
+				text = "Discover the treasure surrounding Splendide Field",
 			},
 		},
 		reward = {
@@ -1920,12 +1920,12 @@ achievement_tbl_raw = {
 		minor = 3,
 		title = "Splendide Field Exploration(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding splendide field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Splendide Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding splendide field",
+				text = "Discover the treasure surrounding Splendide Field",
 			},
 		},
 		reward = {
@@ -1940,12 +1940,12 @@ achievement_tbl_raw = {
 		minor = 3,
 		title = "Splendide Field Exploration(3)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding splendide field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Splendide Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding splendide field",
+				text = "Discover the treasure surrounding Splendide Field",
 			},
 		},
 		reward = {
@@ -1960,12 +1960,12 @@ achievement_tbl_raw = {
 		minor = 3,
 		title = "Manuk Field Exploration(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding manuk field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Manuk Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding manuk field",
+				text = "Discover the treasure surrounding Manuk Field",
 			},
 		},
 		reward = {
@@ -1980,12 +1980,12 @@ achievement_tbl_raw = {
 		minor = 3,
 		title = "Manuk Field Exploration(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding manuk field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Manuk Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding manuk field",
+				text = "Discover the treasure surrounding Manuk Field",
 			},
 		},
 		reward = {
@@ -2000,12 +2000,12 @@ achievement_tbl_raw = {
 		minor = 3,
 		title = "Manuk Field Exploration(3)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding manuk field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Manuk Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding manuk field",
+				text = "Discover the treasure surrounding Manuk Field",
 			},
 		},
 		reward = {
@@ -2020,12 +2020,12 @@ achievement_tbl_raw = {
 		minor = 3,
 		title = "Outskirts of Kamidal Field Exploration(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding outskirts of kamidal field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Outskirts of Kamidal Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding outskirts of kamidal field",
+				text = "Discover the treasure surrounding Outskirts of Kamidal Field",
 			},
 		},
 		reward = {
@@ -2040,12 +2040,12 @@ achievement_tbl_raw = {
 		minor = 3,
 		title = "Outskirts of Kamidal Field Exploration(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding outskirts of kamidal field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Outskirts of Kamidal Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding outskirts of kamidal field",
+				text = "Discover the treasure surrounding Outskirts of Kamidal Field",
 			},
 		},
 		reward = {
@@ -2060,12 +2060,12 @@ achievement_tbl_raw = {
 		minor = 4,
 		title = "Amatsu Field Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding amatsu field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Amatsu Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding amatsu field",
+				text = "Discover the treasure surrounding Amatsu Field",
 			},
 		},
 		reward = {
@@ -2080,12 +2080,12 @@ achievement_tbl_raw = {
 		minor = 4,
 		title = "Kunlun Field Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding kunlun field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Kunlun Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding kunlun field",
+				text = "Discover the treasure surrounding Kunlun Field",
 			},
 		},
 		reward = {
@@ -2100,12 +2100,12 @@ achievement_tbl_raw = {
 		minor = 4,
 		title = "Gonryun Field Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding gonryun field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Gonryun Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding gonryun field",
+				text = "Discover the treasure surrounding Gonryun Field",
 			},
 		},
 		reward = {
@@ -2120,12 +2120,12 @@ achievement_tbl_raw = {
 		minor = 4,
 		title = "Ayothaya Field Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding ayothaya field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Ayothaya Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding ayothaya field",
+				text = "Discover the treasure surrounding Ayothaya Field",
 			},
 		},
 		reward = {
@@ -2140,12 +2140,12 @@ achievement_tbl_raw = {
 		minor = 4,
 		title = "Moscovia Field Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding moscovia field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Moscovia Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding moscovia field",
+				text = "Discover the treasure surrounding Moscovia Field",
 			},
 		},
 		reward = {
@@ -2160,12 +2160,12 @@ achievement_tbl_raw = {
 		minor = 4,
 		title = "Brasilis Field Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding brasilis field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Brasilis Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding brasilis field",
+				text = "Discover the treasure surrounding Brasilis Field",
 			},
 		},
 		reward = {
@@ -2180,12 +2180,12 @@ achievement_tbl_raw = {
 		minor = 4,
 		title = "Dewata Field Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding dewata field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Dewata Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding dewata field",
+				text = "Discover the treasure surrounding Dewata Field",
 			},
 		},
 		reward = {
@@ -2200,12 +2200,12 @@ achievement_tbl_raw = {
 		minor = 4,
 		title = "Malaya Field Exploration(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding malaya field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Malaya Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding malaya field",
+				text = "Discover the treasure surrounding Malaya Field",
 			},
 		},
 		reward = {
@@ -2220,12 +2220,12 @@ achievement_tbl_raw = {
 		minor = 4,
 		title = "Malaya Field Exploration(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding malaya field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Malaya Field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding malaya field",
+				text = "Discover the treasure surrounding Malaya Field",
 			},
 		},
 		reward = {
@@ -2240,12 +2240,12 @@ achievement_tbl_raw = {
 		minor = 5,
 		title = "Abbey Underground Dungeon Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding abbey underground dungeon",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Abbey Underground Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding abbey underground dungeon",
+				text = "Discover the treasure surrounding Abbey Underground Dungeon",
 			},
 		},
 		reward = {
@@ -2260,12 +2260,12 @@ achievement_tbl_raw = {
 		minor = 5,
 		title = "Abyss Lake Dungeon Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding abyss lake dungeon",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Abyss Lake Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding abyss lake dungeon",
+				text = "Discover the treasure surrounding Abyss Lake Dungeon",
 			},
 		},
 		reward = {
@@ -2280,12 +2280,12 @@ achievement_tbl_raw = {
 		minor = 5,
 		title = "Clock Tower Dungeon Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding clock tower dungeon",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Clock Tower Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding clock tower dungeon",
+				text = "Discover the treasure surrounding Clock Tower Dungeon",
 			},
 		},
 		reward = {
@@ -2300,12 +2300,12 @@ achievement_tbl_raw = {
 		minor = 5,
 		title = "Amatsu Dungeon Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding amatsu dungeon",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Amatsu Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding amatsu dungeon",
+				text = "Discover the treasure surrounding Amatsu Dungeon",
 			},
 		},
 		reward = {
@@ -2318,14 +2318,14 @@ achievement_tbl_raw = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Ant Hell Dungeon Exploration",
+		title = "AntHell Dungeon Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding ant hell dungeon",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding AntHell Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding ant hell dungeon",
+				text = "Discover the treasure surrounding AntHell Dungeon",
 			},
 		},
 		reward = {
@@ -2340,12 +2340,12 @@ achievement_tbl_raw = {
 		minor = 5,
 		title = "Ayothaya Dungeon Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding ayothaya dungeon",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Ayothaya Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding ayothaya dungeon",
+				text = "Discover the treasure surrounding Ayothaya Dungeon",
 			},
 		},
 		reward = {
@@ -2360,12 +2360,12 @@ achievement_tbl_raw = {
 		minor = 5,
 		title = "Comodo Dungeon Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding comodo dungeon",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Comodo Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding comodo dungeon",
+				text = "Discover the treasure surrounding Comodo Dungeon",
 			},
 		},
 		reward = {
@@ -2380,12 +2380,12 @@ achievement_tbl_raw = {
 		minor = 5,
 		title = "Brasilis Dungeon Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding brasilis dungeon",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Brasilis Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding brasilis dungeon",
+				text = "Discover the treasure surrounding Brasilis Dungeon",
 			},
 		},
 		reward = {
@@ -2400,12 +2400,12 @@ achievement_tbl_raw = {
 		minor = 5,
 		title = "Clock Tower Dungeon Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding clock tower dungeon",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Clock Tower Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding clock tower dungeon",
+				text = "Discover the treasure surrounding Clock Tower Dungeon",
 			},
 		},
 		reward = {
@@ -2420,12 +2420,12 @@ achievement_tbl_raw = {
 		minor = 5,
 		title = "Istana Dungeon Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding istana dungeon",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Istana Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding istana dungeon",
+				text = "Discover the treasure surrounding Istana Dungeon",
 			},
 		},
 		reward = {
@@ -2440,12 +2440,12 @@ achievement_tbl_raw = {
 		minor = 5,
 		title = "Scaraba Hole Dungeon Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding scaraba hole dungeon",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Scaraba Hole Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding scaraba hole dungeon",
+				text = "Discover the treasure surrounding Scaraba Hole Dungeon",
 			},
 		},
 		reward = {
@@ -2458,14 +2458,14 @@ achievement_tbl_raw = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Bitfrost Dungeon Exploration",
+		title = "Bifrost Dungeon Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding bitfrost dungeon",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Bifrost Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding bitfrost dungeon",
+				text = "Discover the treasure surrounding Bifrost Dungeon",
 			},
 		},
 		reward = {
@@ -2480,12 +2480,12 @@ achievement_tbl_raw = {
 		minor = 5,
 		title = "Einbroch Dungeon Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding einbroch dungeon",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Einbroch Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding einbroch dungeon",
+				text = "Discover the treasure surrounding Einbroch Dungeon",
 			},
 		},
 		reward = {
@@ -2500,12 +2500,12 @@ achievement_tbl_raw = {
 		minor = 5,
 		title = "Geffen Underground Dungeon Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding geffen underground dungeon",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Geffen Underground Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding geffen underground dungeon",
+				text = "Discover the treasure surrounding Geffen Underground Dungeon",
 			},
 		},
 		reward = {
@@ -2520,12 +2520,12 @@ achievement_tbl_raw = {
 		minor = 5,
 		title = "Glastheim Dungeon Exploration(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding glastheim dungeon",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Glastheim Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding glastheim dungeon",
+				text = "Discover the treasure surrounding Glastheim Dungeon",
 			},
 		},
 		reward = {
@@ -2540,12 +2540,12 @@ achievement_tbl_raw = {
 		minor = 5,
 		title = "Glastheim Dungeon Exploration(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding glastheim dungeon",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Glastheim Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding glastheim dungeon",
+				text = "Discover the treasure surrounding Glastheim Dungeon",
 			},
 		},
 		reward = {
@@ -2560,12 +2560,12 @@ achievement_tbl_raw = {
 		minor = 5,
 		title = "Glastheim Dungeon Exploration(3)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding glastheim dungeon",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Glastheim Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding glastheim dungeon",
+				text = "Discover the treasure surrounding Glastheim Dungeon",
 			},
 		},
 		reward = {
@@ -2580,12 +2580,12 @@ achievement_tbl_raw = {
 		minor = 5,
 		title = "Glastheim Dungeon Exploration(4)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding glastheim dungeon",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Glastheim Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding glastheim dungeon",
+				text = "Discover the treasure surrounding Glastheim Dungeon",
 			},
 		},
 		reward = {
@@ -2600,12 +2600,12 @@ achievement_tbl_raw = {
 		minor = 5,
 		title = "Kunlun Dungeon Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding dungeon field",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Kunlun Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding kunlun dungeon",
+				text = "Discover the treasure surrounding Kunlun Dungeon",
 			},
 		},
 		reward = {
@@ -2620,12 +2620,12 @@ achievement_tbl_raw = {
 		minor = 5,
 		title = "Rachel Dungeon Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding rachel dungeon",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Rachel Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding rachel dungeon",
+				text = "Discover the treasure surrounding Rachel Dungeon",
 			},
 		},
 		reward = {
@@ -2640,12 +2640,12 @@ achievement_tbl_raw = {
 		minor = 5,
 		title = "Sphinx Dungeon Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding sphinx dungeon",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Sphinx Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding sphinx dungeon",
+				text = "Discover the treasure surrounding Sphinx Dungeon",
 			},
 		},
 		reward = {
@@ -2660,12 +2660,12 @@ achievement_tbl_raw = {
 		minor = 5,
 		title = "Izlude Dungeon Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding izlude dungeon",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Izlude Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding izlude dungeon",
+				text = "Discover the treasure surrounding Izlude Dungeon",
 			},
 		},
 		reward = {
@@ -2680,12 +2680,12 @@ achievement_tbl_raw = {
 		minor = 5,
 		title = "Machine Doll Factory Dungeon Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding machine doll factory dungeon",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Machine Doll Factory Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding machine doll factory dungeon",
+				text = "Discover the treasure surrounding Machine Doll Factory Dungeon",
 			},
 		},
 		reward = {
@@ -2698,14 +2698,14 @@ achievement_tbl_raw = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Bio Lab Dungeon Exploration",
+		title = "BioLab Dungeon Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding bio lab dungeon",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding BioLab Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding bio lab dungeon",
+				text = "Discover the treasure surrounding BioLab Dungeon",
 			},
 		},
 		reward = {
@@ -2720,12 +2720,12 @@ achievement_tbl_raw = {
 		minor = 5,
 		title = "Gonryun Dungeon Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding gonryun dungeon",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Gonryun Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding gonryun dungeon",
+				text = "Discover the treasure surrounding Gonryun Dungeon",
 			},
 		},
 		reward = {
@@ -2738,14 +2738,14 @@ achievement_tbl_raw = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Nogg Road Dungeon Exploration",
+		title = "Nydhogg Dungeon Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding nogg road dungeon",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Nydhogg Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding nogg road dungeon",
+				text = "Discover the treasure surrounding Nydhogg Dungeon",
 			},
 		},
 		reward = {
@@ -2760,12 +2760,12 @@ achievement_tbl_raw = {
 		minor = 5,
 		title = "Abandoned Mine Dungeon Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding abandoned mine dungeon",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Abandoned Mine Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding abandoned mine dungeon",
+				text = "Discover the treasure surrounding Abandoned Mine Dungeon",
 			},
 		},
 		reward = {
@@ -2780,12 +2780,12 @@ achievement_tbl_raw = {
 		minor = 5,
 		title = "Pyramid Dungeon Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding pyramid dungeon",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Pyramid Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding pyramid dungeon",
+				text = "Discover the treasure surrounding Pyramid Dungeon",
 			},
 		},
 		reward = {
@@ -2800,12 +2800,12 @@ achievement_tbl_raw = {
 		minor = 5,
 		title = "Orc Underground Dungeon Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding orc underground dungeon",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Orc Underground Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding orc underground dungeon",
+				text = "Discover the treasure surrounding Orc Underground Dungeon",
 			},
 		},
 		reward = {
@@ -2820,12 +2820,12 @@ achievement_tbl_raw = {
 		minor = 5,
 		title = "Payon Dungeon Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding payon dungeon",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Payon Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding payon dungeon",
+				text = "Discover the treasure surrounding Payon Dungeon",
 			},
 		},
 		reward = {
@@ -2840,12 +2840,12 @@ achievement_tbl_raw = {
 		minor = 5,
 		title = "Labyrinth Dungeon Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding labyrinth dungeon",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Labyrinth Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding labyrinth dungeon",
+				text = "Discover the treasure surrounding Labyrinth Dungeon",
 			},
 		},
 		reward = {
@@ -2860,12 +2860,12 @@ achievement_tbl_raw = {
 		minor = 5,
 		title = "Undersea Tunnel Dungeon Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding undersea tunnel dungeon",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Undersea Tunnel Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding undersea tunnel dungeon",
+				text = "Discover the treasure surrounding Undersea Tunnel Dungeon",
 			},
 		},
 		reward = {
@@ -2880,12 +2880,12 @@ achievement_tbl_raw = {
 		minor = 5,
 		title = "Thanatos Tower Dungeon Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding thanatos tower dungeon",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Thanatos Tower Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding thanatos tower dungeon",
+				text = "Discover the treasure surrounding Thanatos Tower Dungeon",
 			},
 		},
 		reward = {
@@ -2900,12 +2900,12 @@ achievement_tbl_raw = {
 		minor = 5,
 		title = "Thor Volcano Dungeon Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding thor volcano dungeon",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Thor Volcano Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding thor volcano dungeon",
+				text = "Discover the treasure surrounding Thor Volcano Dungeon",
 			},
 		},
 		reward = {
@@ -2920,12 +2920,12 @@ achievement_tbl_raw = {
 		minor = 5,
 		title = "Sunken Ship Dungeon Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding sunken ship dungeon",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Sunken Ship Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding sunken ship dungeon",
+				text = "Discover the treasure surrounding Sunken Ship Dungeon",
 			},
 		},
 		reward = {
@@ -2940,12 +2940,12 @@ achievement_tbl_raw = {
 		minor = 5,
 		title = "Turtle Dungeon Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding turtle dungeon",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Turtle Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding turtle dungeon",
+				text = "Discover the treasure surrounding Turtle Dungeon",
 			},
 		},
 		reward = {
@@ -2960,12 +2960,12 @@ achievement_tbl_raw = {
 		minor = 5,
 		title = "Toy Factory Dungeon Exploration",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover the treasure surrounding toy factory dungeon",
+			summary = "Discover Hidden Treasure",
+			details = "Discover the treasure surrounding Toy Factory Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding toy factory dungeon",
+				text = "Discover the treasure surrounding Toy Factory Dungeon",
 			},
 		},
 		reward = {
@@ -4359,19 +4359,19 @@ achievement_tbl_raw = {
 				shortcut = 120011,
 			},
 			[2] = {
-				text = "Southeast Geffen Field Exploration(1) completed",
+				text = "SouthEast Geffen Field Exploration(1) completed",
 				shortcut = 120012,
 			},
 			[3] = {
-				text = "Northwest Geffen Field Exploration(1) completed",
+				text = "NorthWest Geffen Field Exploration(1) completed",
 				shortcut = 120013,
 			},
 			[4] = {
-				text = "Northwest Geffen Field Exploration(2) completed",
+				text = "NorthWest Geffen Field Exploration(2) completed",
 				shortcut = 120014,
 			},
 			[5] = {
-				text = "Northwest Geffen Field Exploration(3) completed",
+				text = "NorthWest Geffen Field Exploration(3) completed",
 				shortcut = 120015,
 			},
 			[6] = {
@@ -4441,19 +4441,19 @@ achievement_tbl_raw = {
 		},
 		resource = {
 			[1] = {
-				text = "Southwest Payon Field Exploration(1) completed",
+				text = "SouthWest Payon Field Exploration(1) completed",
 				shortcut = 120024,
 			},
 			[2] = {
-				text = "Southwest Payon Field Exploration(2) completed",
+				text = "SouthWest Payon Field Exploration(2) completed",
 				shortcut = 120025,
 			},
 			[3] = {
-				text = "Southwest Payon Field Exploration(3) completed",
+				text = "SouthWest Payon Field Exploration(3) completed",
 				shortcut = 120026,
 			},
 			[4] = {
-				text = "Southwest Payon Field Exploration(4) completed",
+				text = "SouthWest Payon Field Exploration(4) completed",
 				shortcut = 120027,
 			},
 			[5] = {
@@ -4982,11 +4982,11 @@ achievement_tbl_raw = {
 				shortcut = 120090,
 			},
 			[2] = {
-				text = "North Bitfrost Field Exploration(1) completed",
+				text = "North Bifrost Field Exploration(1) completed",
 				shortcut = 120091,
 			},
 			[3] = {
-				text = "South Bitfrost Field Exploration(1) completed",
+				text = "South Bifrost Field Exploration(1) completed",
 				shortcut = 120092,
 			},
 			[4] = {
