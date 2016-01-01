@@ -14,3 +14,11 @@ Network: Rizon
 Host: irc.rizon.net
 
 Channel: #ROClientSide
+
+
+#####Converting itemInfo to idnum tables:
+
+* Open /Dev/Tools/SeperateItemInfo Folder
+* Copy itemInfo.lub to that folder
+* Run seperate.bat
+* idnum tables will be generated, copy it to your GRF
