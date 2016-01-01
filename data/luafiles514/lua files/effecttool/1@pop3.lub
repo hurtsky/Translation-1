@@ -1,5 +1,5 @@
-_prt_cas_effect_version = 2
-_prt_cas_emitterInfo = {
+_1pop3_effect_version = 2
+_1pop3_emitterInfo = {
   [0] = {
     dir1 = {
       -3,
@@ -17,9 +17,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      -514.2,
-      -10,
-      -612.3
+      -70.2,
+      -42,
+      17.8
     },
     radius = {
       0,
@@ -27,19 +27,19 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      255,
-      255,
-      255,
-      255
+      50,
+      30,
+      50,
+      100
     },
     rate = {1, 3},
-    size = {10, 15},
+    size = {3, 5},
     life = {3, 4},
-    texture = "effect\ copy.bmp",
-    speed = {1},
-    srcmode = {5},
+    texture = "smoke2.bmp",
+    speed = {0},
+    srcmode = {7},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [1] = {
@@ -59,9 +59,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      -532.4,
-      -68,
-      592.9
+      -16,
+      -22,
+      24.4
     },
     radius = {
       0,
@@ -69,17 +69,17 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      20,
-      18,
-      10,
+      50,
+      30,
+      50,
       100
     },
-    rate = {2, 2},
-    size = {27, 30},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
+    rate = {1, 3},
+    size = {2, 3},
+    life = {3, 4},
+    texture = "smoke2.bmp",
     speed = {0},
-    srcmode = {9},
+    srcmode = {7},
     destmode = {2},
     maxcount = {10},
     zenable = {1}
@@ -101,9 +101,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      -526.5,
-      -10,
-      -595.4
+      12.6,
+      -37,
+      25.5
     },
     radius = {
       0,
@@ -111,19 +111,19 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      255,
-      255,
-      255,
-      255
+      30,
+      20,
+      50,
+      100
     },
     rate = {1, 3},
-    size = {10, 15},
+    size = {3, 5},
     life = {3, 4},
-    texture = "effect\ copy.bmp",
-    speed = {1},
-    srcmode = {5},
+    texture = "smoke2.bmp",
+    speed = {0},
+    srcmode = {7},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [3] = {
@@ -143,9 +143,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      -566.5,
-      -60,
-      601.2
+      -87,
+      -34,
+      -58
     },
     radius = {
       0,
@@ -153,19 +153,19 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
+      30,
       20,
-      18,
-      15,
-      30
+      40,
+      100
     },
-    rate = {3, 5},
-    size = {22, 25},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
+    rate = {1, 3},
+    size = {3, 5},
+    life = {3, 4},
+    texture = "smoke2.bmp",
     speed = {0},
-    srcmode = {9},
+    srcmode = {7},
     destmode = {2},
-    maxcount = {5},
+    maxcount = {10},
     zenable = {1}
   },
   [4] = {
@@ -185,9 +185,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      -532.4,
-      -86,
-      608.4
+      9.4,
+      -27,
+      87.1
     },
     radius = {
       0,
@@ -195,17 +195,17 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      20,
-      18,
-      5,
-      50
+      50,
+      30,
+      50,
+      100
     },
-    rate = {3, 4},
-    size = {7, 10},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
+    rate = {1, 3},
+    size = {3, 5},
+    life = {3, 4},
+    texture = "smoke2.bmp",
     speed = {0},
-    srcmode = {5},
+    srcmode = {7},
     destmode = {2},
     maxcount = {10},
     zenable = {1}
@@ -227,9 +227,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      -496.7,
-      -58,
-      601.7
+      58.7,
+      -39,
+      -16.2
     },
     radius = {
       0,
@@ -237,19 +237,19 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      20,
-      18,
-      15,
-      30
+      50,
+      30,
+      50,
+      100
     },
-    rate = {3, 5},
-    size = {22, 25},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
+    rate = {1, 3},
+    size = {2, 3},
+    life = {3, 4},
+    texture = "smoke2.bmp",
     speed = {0},
-    srcmode = {9},
+    srcmode = {7},
     destmode = {2},
-    maxcount = {5},
+    maxcount = {10},
     zenable = {1}
   },
   [6] = {
@@ -269,9 +269,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      -530,
-      -26,
-      369.5
+      -67.2,
+      -28,
+      73.9
     },
     radius = {
       0,
@@ -279,19 +279,19 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      20,
-      18,
-      5,
-      60
+      50,
+      30,
+      50,
+      100
     },
-    rate = {3, 4},
-    size = {10, 15},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
+    rate = {1, 3},
+    size = {3, 5},
+    life = {3, 4},
+    texture = "smoke2.bmp",
     speed = {0},
-    srcmode = {9},
+    srcmode = {7},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [7] = {
@@ -311,9 +311,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      -471,
-      -50,
-      507.3
+      35.5,
+      -40,
+      -59.6
     },
     radius = {
       0,
@@ -321,19 +321,19 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      20,
-      18,
-      5,
-      50
+      60,
+      40,
+      70,
+      150
     },
-    rate = {3, 4},
-    size = {10, 15},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
+    rate = {1, 3},
+    size = {10, 10},
+    life = {3, 4},
+    texture = "smoke2.bmp",
     speed = {0},
     srcmode = {9},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [8] = {
@@ -353,9 +353,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      -469.9,
-      -46,
-      460.4
+      -40.2,
+      -40,
+      -59
     },
     radius = {
       0,
@@ -363,19 +363,19 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      20,
-      18,
-      5,
-      50
+      60,
+      40,
+      70,
+      150
     },
-    rate = {3, 4},
-    size = {10, 15},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
+    rate = {1, 3},
+    size = {10, 10},
+    life = {3, 4},
+    texture = "smoke2.bmp",
     speed = {0},
     srcmode = {9},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [9] = {
@@ -395,9 +395,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      -602.9,
-      -48,
-      505.6
+      78.7,
+      -42,
+      9.3
     },
     radius = {
       0,
@@ -405,19 +405,19 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      20,
-      18,
-      5,
-      50
+      60,
+      40,
+      70,
+      150
     },
-    rate = {3, 4},
-    size = {10, 15},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
+    rate = {1, 3},
+    size = {10, 10},
+    life = {3, 4},
+    texture = "smoke2.bmp",
     speed = {0},
     srcmode = {9},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [10] = {
@@ -437,9 +437,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      -604.5,
-      -48,
-      459.8
+      -13.5,
+      -39,
+      78.8
     },
     radius = {
       0,
@@ -447,19 +447,19 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      20,
-      18,
-      5,
-      50
+      60,
+      40,
+      70,
+      150
     },
-    rate = {3, 4},
-    size = {10, 15},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
+    rate = {1, 3},
+    size = {10, 10},
+    life = {3, 4},
+    texture = "smoke2.bmp",
     speed = {0},
     srcmode = {9},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [11] = {
@@ -479,9 +479,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      -521.5,
-      -39,
-      -607.6
+      -100,
+      -40,
+      60.1
     },
     radius = {
       0,
@@ -489,19 +489,19 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      20,
-      18,
-      5,
-      50
+      60,
+      40,
+      70,
+      150
     },
-    rate = {3, 4},
-    size = {10, 15},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
+    rate = {1, 3},
+    size = {10, 10},
+    life = {3, 4},
+    texture = "smoke2.bmp",
     speed = {0},
     srcmode = {9},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [12] = {
@@ -521,9 +521,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      -392.3,
-      -31,
-      -600.2
+      -93.3,
+      -40,
+      -15.9
     },
     radius = {
       0,
@@ -531,19 +531,19 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      20,
-      18,
-      5,
-      50
+      60,
+      40,
+      70,
+      150
     },
-    rate = {3, 4},
-    size = {20, 30},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
+    rate = {1, 3},
+    size = {10, 10},
+    life = {3, 4},
+    texture = "smoke2.bmp",
     speed = {0},
     srcmode = {9},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [13] = {
@@ -563,9 +563,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      -512.9,
-      -23,
-      -616.1
+      53,
+      -39,
+      71.1
     },
     radius = {
       0,
@@ -573,19 +573,19 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      5,
-      15,
-      20,
-      50
+      60,
+      40,
+      70,
+      150
     },
-    rate = {3, 4},
-    size = {15, 20},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
+    rate = {1, 3},
+    size = {10, 10},
+    life = {3, 4},
+    texture = "smoke2.bmp",
     speed = {0},
     srcmode = {9},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [14] = {
@@ -605,9 +605,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      -531.2,
-      -22,
-      -612.3
+      -7.5,
+      -17,
+      -81.6
     },
     radius = {
       0,
@@ -615,19 +615,19 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      5,
-      15,
-      20,
-      50
+      70,
+      50,
+      30,
+      100
     },
-    rate = {3, 4},
-    size = {15, 20},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
+    rate = {1, 3},
+    size = {5, 7},
+    life = {3, 4},
+    texture = "smoke2.bmp",
     speed = {0},
     srcmode = {9},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [15] = {
@@ -647,9 +647,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      -421.9,
-      -35,
-      -674.2
+      -107.6,
+      -8,
+      17.3
     },
     radius = {
       0,
@@ -657,25 +657,25 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      20,
-      18,
-      5,
-      50
+      70,
+      50,
+      30,
+      100
     },
-    rate = {3, 4},
-    size = {20, 30},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
+    rate = {1, 3},
+    size = {5, 7},
+    life = {3, 4},
+    texture = "smoke2.bmp",
     speed = {0},
     srcmode = {9},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [16] = {
     dir1 = {
       -3,
-      -5,
+      0,
       -3
     },
     dir2 = {
@@ -685,13 +685,13 @@ _prt_cas_emitterInfo = {
     },
     gravity = {
       0.7,
-      -2,
+      0,
       0.7
     },
     pos = {
-      -575.2,
-      -46,
-      -518.4
+      -39.9,
+      -5,
+      -71.7
     },
     radius = {
       0,
@@ -699,25 +699,25 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      20,
-      18,
-      5,
+      50,
+      50,
+      50,
       50
     },
-    rate = {3, 4},
-    size = {20, 30},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
-    speed = {0},
-    srcmode = {9},
+    rate = {3, 5},
+    size = {12, 12},
+    life = {4, 5},
+    texture = "smoke2.bmp",
+    speed = {1.5},
+    srcmode = {5},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [17] = {
     dir1 = {
       -3,
-      -5,
+      0,
       -3
     },
     dir2 = {
@@ -727,13 +727,13 @@ _prt_cas_emitterInfo = {
     },
     gravity = {
       0.7,
-      -2,
+      0,
       0.7
     },
     pos = {
-      -620.9,
-      -47,
-      -669.3
+      58.5,
+      -5,
+      -69.1
     },
     radius = {
       0,
@@ -741,25 +741,25 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      20,
-      18,
-      5,
+      50,
+      50,
+      50,
       50
     },
-    rate = {3, 4},
-    size = {20, 30},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
-    speed = {0},
-    srcmode = {9},
+    rate = {3, 5},
+    size = {12, 12},
+    life = {4, 5},
+    texture = "smoke2.bmp",
+    speed = {1.5},
+    srcmode = {5},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [18] = {
     dir1 = {
-      -3,
-      -5,
+      3,
+      0,
       -3
     },
     dir2 = {
@@ -768,14 +768,14 @@ _prt_cas_emitterInfo = {
       5
     },
     gravity = {
-      0.7,
-      -2,
+      0.2,
+      0,
       0.7
     },
     pos = {
-      -459.8,
-      -46,
-      -540.7
+      -6.9,
+      -5,
+      -41.4
     },
     radius = {
       0,
@@ -783,41 +783,41 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      20,
-      18,
-      5,
+      50,
+      50,
+      50,
       50
     },
-    rate = {3, 4},
-    size = {20, 30},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
-    speed = {0},
-    srcmode = {9},
+    rate = {3, 5},
+    size = {12, 12},
+    life = {4, 5},
+    texture = "smoke2.bmp",
+    speed = {1.5},
+    srcmode = {5},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [19] = {
     dir1 = {
-      -3,
-      -5,
+      3,
+      0,
       -3
     },
     dir2 = {
       5,
       0,
-      5
+      -5
     },
     gravity = {
-      0.7,
-      -2,
+      0.2,
+      0,
       0.7
     },
     pos = {
-      -528.1,
-      -38,
-      -765.7
+      -136.4,
+      -5,
+      38.1
     },
     radius = {
       0,
@@ -825,41 +825,41 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      20,
-      18,
-      5,
+      50,
+      50,
+      50,
       50
     },
-    rate = {3, 4},
-    size = {20, 30},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
-    speed = {0},
-    srcmode = {9},
+    rate = {3, 5},
+    size = {12, 12},
+    life = {4, 5},
+    texture = "smoke2.bmp",
+    speed = {2},
+    srcmode = {5},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [20] = {
     dir1 = {
-      -3,
-      -5,
+      3,
+      0,
       -3
     },
     dir2 = {
       5,
       0,
-      5
+      -5
     },
     gravity = {
-      0.7,
-      -2,
+      0.2,
+      0,
       0.7
     },
     pos = {
-      -514.1,
-      -58,
-      -740.7
+      -126.9,
+      -5,
+      -17.7
     },
     radius = {
       0,
@@ -867,41 +867,41 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      20,
-      18,
-      5,
+      50,
+      50,
+      50,
       50
     },
-    rate = {3, 4},
-    size = {20, 30},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
-    speed = {0},
-    srcmode = {9},
+    rate = {3, 5},
+    size = {12, 12},
+    life = {4, 5},
+    texture = "smoke2.bmp",
+    speed = {2},
+    srcmode = {5},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [21] = {
     dir1 = {
-      -3,
-      -5,
+      3,
+      0,
       -3
     },
     dir2 = {
       5,
       0,
-      5
+      -5
     },
     gravity = {
-      0.7,
-      -2,
+      0.2,
+      0,
       0.7
     },
     pos = {
-      181.7,
-      -20,
-      711.2
+      14.9,
+      -5,
+      98
     },
     radius = {
       0,
@@ -909,41 +909,41 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      20,
-      18,
-      5,
+      50,
+      50,
+      50,
       50
     },
-    rate = {3, 4},
-    size = {10, 15},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
-    speed = {0},
-    srcmode = {9},
+    rate = {3, 5},
+    size = {12, 12},
+    life = {4, 5},
+    texture = "smoke2.bmp",
+    speed = {2},
+    srcmode = {5},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [22] = {
     dir1 = {
-      -3,
       -5,
-      -3
+      0,
+      -5
     },
     dir2 = {
       5,
       0,
-      5
+      -5
     },
     gravity = {
-      0.7,
-      -2,
+      0.2,
+      0,
       0.7
     },
     pos = {
-      720.3,
-      -20,
-      740.7
+      -75.1,
+      -4,
+      91.6
     },
     radius = {
       0,
@@ -951,41 +951,41 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      20,
-      18,
-      5,
+      50,
+      50,
+      50,
       50
     },
-    rate = {3, 4},
-    size = {10, 15},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
-    speed = {0},
-    srcmode = {9},
+    rate = {3, 5},
+    size = {12, 12},
+    life = {4, 5},
+    texture = "smoke2.bmp",
+    speed = {2},
+    srcmode = {5},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [23] = {
     dir1 = {
-      -3,
       -5,
-      -3
+      0,
+      -5
     },
     dir2 = {
       5,
       0,
-      5
+      -5
     },
     gravity = {
-      0.7,
-      -2,
+      0.2,
+      0,
       0.7
     },
     pos = {
-      606.8,
-      -30,
-      425.2
+      -61.6,
+      -5,
+      46.9
     },
     radius = {
       0,
@@ -993,41 +993,41 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      20,
-      18,
-      5,
+      50,
+      50,
+      50,
       50
     },
-    rate = {3, 4},
-    size = {10, 15},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
-    speed = {0},
-    srcmode = {9},
+    rate = {3, 5},
+    size = {12, 12},
+    life = {4, 5},
+    texture = "smoke2.bmp",
+    speed = {2},
+    srcmode = {5},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [24] = {
     dir1 = {
-      -3,
       -5,
-      -3
+      0,
+      -5
     },
     dir2 = {
       5,
       0,
-      5
+      -5
     },
     gravity = {
-      0.7,
-      -2,
+      0.2,
+      0,
       0.7
     },
     pos = {
-      650.1,
-      -14,
-      198.2
+      -83.6,
+      -5,
+      -60.7
     },
     radius = {
       0,
@@ -1035,41 +1035,41 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      20,
-      18,
-      5,
+      50,
+      50,
+      50,
       50
     },
-    rate = {3, 4},
-    size = {10, 15},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
-    speed = {0},
-    srcmode = {9},
+    rate = {3, 5},
+    size = {12, 12},
+    life = {4, 5},
+    texture = "smoke2.bmp",
+    speed = {2},
+    srcmode = {5},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [25] = {
     dir1 = {
-      -3,
-      -5,
-      -3
-    },
-    dir2 = {
       5,
       0,
-      5
+      0
+    },
+    dir2 = {
+      -5,
+      0,
+      -5
     },
     gravity = {
-      0.7,
-      -2,
+      0.2,
+      0,
       0.7
     },
     pos = {
-      559.5,
-      -12,
-      183.7
+      -47.1,
+      -3,
+      -110
     },
     radius = {
       0,
@@ -1077,41 +1077,41 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      20,
-      18,
-      5,
+      50,
+      50,
+      50,
       50
     },
-    rate = {3, 4},
-    size = {10, 15},
-    life = {4, 7},
-    texture = "effect\\smoke2.bmp",
-    speed = {0},
-    srcmode = {9},
+    rate = {3, 5},
+    size = {13, 13},
+    life = {4, 5},
+    texture = "smoke2.bmp",
+    speed = {2},
+    srcmode = {5},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [26] = {
     dir1 = {
-      -3,
       -5,
-      -3
+      0,
+      5
     },
     dir2 = {
-      5,
+      -5,
       0,
       5
     },
     gravity = {
       0.7,
-      -2,
+      0,
       0.7
     },
     pos = {
-      628.1,
-      -14,
-      199.4
+      73.2,
+      -5,
+      -44.1
     },
     radius = {
       0,
@@ -1119,41 +1119,41 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      20,
-      18,
-      5,
+      50,
+      50,
+      50,
       50
     },
-    rate = {3, 4},
-    size = {7, 9},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
-    speed = {0},
-    srcmode = {9},
+    rate = {3, 5},
+    size = {12, 12},
+    life = {4, 5},
+    texture = "smoke2.bmp",
+    speed = {1.5},
+    srcmode = {5},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [27] = {
     dir1 = {
-      -3,
       -5,
-      -3
+      0,
+      -5
     },
     dir2 = {
-      5,
+      -5,
       0,
       5
     },
     gravity = {
       0.7,
-      -2,
+      0,
       0.7
     },
     pos = {
-      661,
-      -15,
-      140.3
+      117.1,
+      -4,
+      6.8
     },
     radius = {
       0,
@@ -1161,41 +1161,41 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      20,
-      18,
-      5,
+      50,
+      50,
+      50,
       50
     },
-    rate = {3, 4},
-    size = {10, 15},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
-    speed = {0},
-    srcmode = {9},
+    rate = {3, 5},
+    size = {12, 12},
+    life = {4, 5},
+    texture = "smoke2.bmp",
+    speed = {2},
+    srcmode = {5},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [28] = {
     dir1 = {
-      -3,
       -5,
+      0,
       -3
     },
     dir2 = {
-      5,
+      -5,
       0,
-      5
+      -5
     },
     gravity = {
       0.7,
-      -2,
+      0,
       0.7
     },
     pos = {
-      685.3,
-      -9,
-      102.1
+      -33.3,
+      -5,
+      -1.7
     },
     radius = {
       0,
@@ -1203,41 +1203,41 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      20,
-      15,
-      5,
+      50,
+      50,
+      50,
       50
     },
-    rate = {3, 4},
-    size = {5, 6},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
-    speed = {0},
-    srcmode = {9},
+    rate = {3, 5},
+    size = {12, 12},
+    life = {4, 5},
+    texture = "smoke2.bmp",
+    speed = {2},
+    srcmode = {5},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [29] = {
     dir1 = {
-      -3,
       -5,
+      0,
       -3
     },
     dir2 = {
-      5,
+      -5,
       0,
-      5
+      0
     },
     gravity = {
       0.7,
-      -2,
+      0,
       0.7
     },
     pos = {
-      681.9,
-      -13,
-      75.6
+      50.7,
+      -5,
+      46.8
     },
     radius = {
       0,
@@ -1245,41 +1245,41 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      20,
-      18,
-      5,
+      50,
+      50,
+      50,
       50
     },
-    rate = {3, 4},
-    size = {10, 15},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
-    speed = {0},
-    srcmode = {9},
+    rate = {3, 5},
+    size = {12, 12},
+    life = {4, 5},
+    texture = "smoke2.bmp",
+    speed = {2},
+    srcmode = {5},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [30] = {
     dir1 = {
-      -3,
-      -5,
-      -3
+      0,
+      0,
+      -5
     },
     dir2 = {
-      5,
       0,
-      5
+      0,
+      -5
     },
     gravity = {
       0.7,
-      -2,
+      0,
       0.7
     },
     pos = {
-      816.4,
-      -13,
-      -140.2
+      -25.9,
+      -4,
+      76.5
     },
     radius = {
       0,
@@ -1287,19 +1287,19 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      20,
-      18,
-      5,
+      50,
+      50,
+      50,
       50
     },
-    rate = {3, 4},
-    size = {10, 15},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
-    speed = {0},
-    srcmode = {9},
+    rate = {3, 5},
+    size = {12, 12},
+    life = {4, 5},
+    texture = "smoke2.bmp",
+    speed = {2},
+    srcmode = {5},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [31] = {
@@ -1319,9 +1319,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      782.4,
-      -15,
-      -193.7
+      -75.4,
+      -27,
+      -94.3
     },
     radius = {
       0,
@@ -1329,19 +1329,19 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      20,
-      18,
-      5,
-      50
+      50,
+      30,
+      50,
+      100
     },
-    rate = {3, 4},
-    size = {10, 15},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
+    rate = {1, 3},
+    size = {3, 5},
+    life = {3, 4},
+    texture = "smoke2.bmp",
     speed = {0},
-    srcmode = {9},
+    srcmode = {7},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [32] = {
@@ -1361,9 +1361,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      879.3,
-      -16,
-      -226.7
+      -14.6,
+      -25,
+      -92.1
     },
     radius = {
       0,
@@ -1371,19 +1371,19 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
+      40,
       20,
-      18,
-      5,
-      50
+      50,
+      100
     },
-    rate = {3, 4},
-    size = {10, 15},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
+    rate = {1, 3},
+    size = {2, 3},
+    life = {3, 4},
+    texture = "smoke2.bmp",
     speed = {0},
-    srcmode = {9},
+    srcmode = {7},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [33] = {
@@ -1403,9 +1403,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      788.9,
-      -14,
-      -275.4
+      25,
+      -35,
+      -85.5
     },
     radius = {
       0,
@@ -1413,19 +1413,19 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      20,
-      18,
-      5,
-      50
+      50,
+      30,
+      50,
+      100
     },
-    rate = {3, 4},
-    size = {10, 15},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
+    rate = {1, 3},
+    size = {3, 5},
+    life = {3, 4},
+    texture = "smoke2.bmp",
     speed = {0},
-    srcmode = {9},
+    srcmode = {7},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [34] = {
@@ -1445,9 +1445,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      -645.9,
-      -15,
-      341.3
+      49.4,
+      -35,
+      97
     },
     radius = {
       0,
@@ -1455,19 +1455,19 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      20,
-      18,
-      5,
-      50
+      60,
+      30,
+      70,
+      100
     },
-    rate = {3, 4},
-    size = {7, 8},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
+    rate = {1, 3},
+    size = {2, 3},
+    life = {3, 4},
+    texture = "smoke2.bmp",
     speed = {0},
-    srcmode = {9},
+    srcmode = {7},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [35] = {
@@ -1487,9 +1487,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      -645.1,
-      -14,
-      283.1
+      -119.6,
+      -39,
+      44.9
     },
     radius = {
       0,
@@ -1497,19 +1497,19 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      20,
-      18,
-      5,
-      50
+      50,
+      30,
+      50,
+      100
     },
-    rate = {3, 4},
-    size = {7, 8},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
+    rate = {1, 3},
+    size = {3, 5},
+    life = {3, 4},
+    texture = "smoke2.bmp",
     speed = {0},
-    srcmode = {9},
+    srcmode = {7},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [36] = {
@@ -1529,9 +1529,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      -646,
-      -13,
-      224.4
+      -118.5,
+      -30,
+      32
     },
     radius = {
       0,
@@ -1539,19 +1539,19 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
+      30,
       20,
-      18,
-      5,
-      50
+      40,
+      100
     },
-    rate = {3, 4},
-    size = {7, 8},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
+    rate = {1, 3},
+    size = {2, 3},
+    life = {3, 4},
+    texture = "smoke2.bmp",
     speed = {0},
-    srcmode = {9},
+    srcmode = {7},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [37] = {
@@ -1571,9 +1571,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      -435.5,
-      -12,
-      225.1
+      92,
+      -67,
+      -21.7
     },
     radius = {
       0,
@@ -1581,19 +1581,19 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      20,
-      18,
-      5,
-      50
+      30,
+      10,
+      90,
+      100
     },
-    rate = {3, 4},
-    size = {7, 8},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
+    rate = {1, 3},
+    size = {6, 7},
+    life = {3, 4},
+    texture = "smoke2.bmp",
     speed = {0},
     srcmode = {9},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [38] = {
@@ -1613,9 +1613,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      -435.2,
-      -11,
-      285.2
+      85.6,
+      -59,
+      -8.8
     },
     radius = {
       0,
@@ -1624,18 +1624,18 @@ _prt_cas_emitterInfo = {
     },
     color = {
       20,
-      18,
-      5,
-      50
+      10,
+      70,
+      100
     },
-    rate = {3, 4},
-    size = {7, 8},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
+    rate = {1, 3},
+    size = {6, 7},
+    life = {3, 4},
+    texture = "smoke2.bmp",
     speed = {0},
     srcmode = {9},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [39] = {
@@ -1655,9 +1655,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      -435.3,
-      -13,
-      345.5
+      71,
+      -59,
+      -56.3
     },
     radius = {
       0,
@@ -1665,19 +1665,19 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      20,
-      18,
-      5,
-      50
+      30,
+      10,
+      90,
+      100
     },
-    rate = {3, 4},
-    size = {7, 8},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
+    rate = {1, 3},
+    size = {6, 7},
+    life = {3, 4},
+    texture = "smoke2.bmp",
     speed = {0},
     srcmode = {9},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [40] = {
@@ -1697,9 +1697,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      228.2,
-      -8,
-      723.3
+      -20.6,
+      -62,
+      -122.2
     },
     radius = {
       0,
@@ -1707,19 +1707,19 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      20,
-      18,
-      8,
-      50
+      30,
+      10,
+      90,
+      100
     },
-    rate = {5, 10},
-    size = {9, 10},
-    life = {3, 5},
-    texture = "effect\\dust_part.bmp",
+    rate = {1, 3},
+    size = {6, 7},
+    life = {3, 4},
+    texture = "smoke2.bmp",
     speed = {0},
     srcmode = {9},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [41] = {
@@ -1739,9 +1739,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      308.1,
-      -7,
-      723.8
+      14.1,
+      -54,
+      -123.8
     },
     radius = {
       0,
@@ -1749,19 +1749,19 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      20,
-      18,
-      8,
-      50
+      30,
+      10,
+      90,
+      100
     },
-    rate = {5, 10},
-    size = {9, 10},
-    life = {3, 5},
-    texture = "effect\\dust_part.bmp",
+    rate = {1, 3},
+    size = {6, 7},
+    life = {3, 4},
+    texture = "smoke2.bmp",
     speed = {0},
     srcmode = {9},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [42] = {
@@ -1781,9 +1781,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      -434.3,
-      -19,
-      -601.3
+      -11.8,
+      -53,
+      -110.6
     },
     radius = {
       0,
@@ -1791,19 +1791,19 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      20,
-      18,
-      5,
-      50
+      30,
+      10,
+      90,
+      100
     },
-    rate = {3, 4},
-    size = {20, 30},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
+    rate = {1, 3},
+    size = {6, 7},
+    life = {3, 4},
+    texture = "smoke2.bmp",
     speed = {0},
     srcmode = {9},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [43] = {
@@ -1823,9 +1823,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      -588.9,
-      -21,
-      -549.5
+      -117.3,
+      -52,
+      -49.8
     },
     radius = {
       0,
@@ -1833,19 +1833,19 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
+      10,
       20,
-      18,
-      5,
+      10,
       50
     },
-    rate = {3, 4},
-    size = {20, 30},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
+    rate = {1, 3},
+    size = {6, 7},
+    life = {3, 4},
+    texture = "smoke2.bmp",
     speed = {0},
     srcmode = {9},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [44] = {
@@ -1865,9 +1865,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      -548.8,
-      -29,
-      -616.6
+      -105.2,
+      -55,
+      -74
     },
     radius = {
       0,
@@ -1875,19 +1875,19 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
+      10,
       20,
-      18,
-      5,
+      10,
       50
     },
-    rate = {3, 4},
-    size = {20, 30},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
+    rate = {1, 3},
+    size = {10, 10},
+    life = {3, 4},
+    texture = "smoke2.bmp",
     speed = {0},
     srcmode = {9},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [45] = {
@@ -1907,9 +1907,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      686.3,
-      -10,
-      89
+      -129.1,
+      -65,
+      -63.7
     },
     radius = {
       0,
@@ -1917,19 +1917,19 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
+      10,
       20,
-      15,
-      5,
+      10,
       50
     },
-    rate = {3, 4},
-    size = {5, 6},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
+    rate = {1, 3},
+    size = {6, 7},
+    life = {3, 4},
+    texture = "smoke2.bmp",
     speed = {0},
     srcmode = {9},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [46] = {
@@ -1949,9 +1949,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      665.3,
-      -12,
-      193.5
+      13.7,
+      -53,
+      89
     },
     radius = {
       0,
@@ -1959,19 +1959,19 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      22,
-      15,
-      5,
-      60
+      10,
+      20,
+      10,
+      50
     },
-    rate = {3, 4},
-    size = {4, 5},
-    life = {4, 8},
-    texture = "effect\\smoke2.bmp",
+    rate = {1, 3},
+    size = {9, 10},
+    life = {3, 4},
+    texture = "smoke2.bmp",
     speed = {0},
     srcmode = {9},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [47] = {
@@ -1991,9 +1991,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      324,
-      -12,
-      -433.6
+      2.3,
+      -66,
+      112.1
     },
     radius = {
       0,
@@ -2001,19 +2001,19 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
+      10,
       20,
-      18,
-      5,
+      10,
       50
     },
-    rate = {3, 4},
-    size = {10, 15},
-    life = {4, 7},
-    texture = "effect\\smoke2.bmp",
+    rate = {1, 3},
+    size = {9, 10},
+    life = {3, 4},
+    texture = "smoke2.bmp",
     speed = {0},
     srcmode = {9},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [48] = {
@@ -2033,9 +2033,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      -52.5,
-      -11,
-      -405.9
+      29.5,
+      -58,
+      105.5
     },
     radius = {
       0,
@@ -2043,19 +2043,19 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
+      10,
       20,
-      18,
-      5,
+      10,
       50
     },
-    rate = {3, 4},
-    size = {10, 15},
-    life = {4, 7},
-    texture = "effect\\smoke2.bmp",
+    rate = {1, 3},
+    size = {9, 10},
+    life = {3, 4},
+    texture = "smoke2.bmp",
     speed = {0},
     srcmode = {9},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [49] = {
@@ -2075,9 +2075,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      -903.5,
-      -11,
-      -716.3
+      -39.1,
+      -46,
+      87.8
     },
     radius = {
       0,
@@ -2085,19 +2085,19 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
+      10,
       20,
-      18,
-      5,
+      10,
       50
     },
-    rate = {3, 4},
-    size = {7, 8},
-    life = {4, 7},
-    texture = "effect\\smoke2.bmp",
+    rate = {1, 3},
+    size = {9, 10},
+    life = {3, 4},
+    texture = "smoke2.bmp",
     speed = {0},
     srcmode = {9},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [50] = {
@@ -2117,9 +2117,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      -882.7,
-      -10,
-      -356.8
+      -51.9,
+      -52,
+      109.8
     },
     radius = {
       0,
@@ -2127,19 +2127,19 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
+      10,
       20,
-      18,
-      5,
+      10,
       50
     },
-    rate = {3, 4},
-    size = {7, 8},
-    life = {4, 7},
-    texture = "effect\\smoke2.bmp",
+    rate = {1, 3},
+    size = {9, 10},
+    life = {3, 4},
+    texture = "smoke2.bmp",
     speed = {0},
     srcmode = {9},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [51] = {
@@ -2159,9 +2159,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      -529.8,
-      -90,
-      547.6
+      -80.1,
+      -55,
+      85.2
     },
     radius = {
       0,
@@ -2169,17 +2169,17 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
+      10,
       20,
-      15,
-      5,
-      60
+      10,
+      50
     },
-    rate = {3, 4},
-    size = {10, 10},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
+    rate = {1, 3},
+    size = {9, 10},
+    life = {3, 4},
+    texture = "smoke2.bmp",
     speed = {0},
-    srcmode = {5},
+    srcmode = {9},
     destmode = {2},
     maxcount = {10},
     zenable = {1}
@@ -2201,9 +2201,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      -530.7,
-      -60,
-      283.2
+      -113.7,
+      -49,
+      0.4
     },
     radius = {
       0,
@@ -2211,17 +2211,17 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
+      10,
       20,
-      15,
-      5,
-      60
+      10,
+      50
     },
-    rate = {3, 4},
-    size = {10, 10},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
+    rate = {1, 3},
+    size = {9, 10},
+    life = {3, 4},
+    texture = "smoke2.bmp",
     speed = {0},
-    srcmode = {5},
+    srcmode = {9},
     destmode = {2},
     maxcount = {10},
     zenable = {1}
@@ -2243,9 +2243,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      -530.9,
-      -26,
-      364.8
+      7.7,
+      -10,
+      -23.7
     },
     radius = {
       0,
@@ -2253,17 +2253,17 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      20,
-      15,
-      5,
-      60
+      50,
+      30,
+      50,
+      100
     },
-    rate = {3, 4},
-    size = {10, 10},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
+    rate = {1, 3},
+    size = {2, 3},
+    life = {3, 4},
+    texture = "smoke2.bmp",
     speed = {0},
-    srcmode = {5},
+    srcmode = {7},
     destmode = {2},
     maxcount = {10},
     zenable = {1}
@@ -2285,9 +2285,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      -834,
+      -36.2,
       -21,
-      -303.8
+      -36
     },
     radius = {
       0,
@@ -2295,41 +2295,41 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
+      30,
       20,
-      18,
-      8,
+      50,
       100
     },
-    rate = {5, 10},
-    size = {4, 5},
-    life = {5, 7},
-    texture = "effect\\dust_part.bmp",
+    rate = {1, 3},
+    size = {3, 5},
+    life = {3, 4},
+    texture = "smoke2.bmp",
     speed = {0},
-    srcmode = {9},
+    srcmode = {7},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [55] = {
     dir1 = {
-      -3,
-      -5,
+      3,
+      0,
       -3
     },
     dir2 = {
       5,
       0,
-      5
+      -5
     },
     gravity = {
-      0.7,
-      -2,
+      0.2,
+      0,
       0.7
     },
     pos = {
-      -833.4,
-      -20,
-      -343
+      -11.1,
+      -4,
+      14.2
     },
     radius = {
       0,
@@ -2337,19 +2337,19 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      20,
-      18,
-      8,
-      100
+      50,
+      50,
+      50,
+      50
     },
-    rate = {5, 10},
-    size = {4, 5},
-    life = {5, 7},
-    texture = "effect\\dust_part.bmp",
-    speed = {0},
-    srcmode = {9},
+    rate = {3, 5},
+    size = {12, 12},
+    life = {4, 5},
+    texture = "smoke2.bmp",
+    speed = {2},
+    srcmode = {5},
     destmode = {2},
-    maxcount = {20},
+    maxcount = {10},
     zenable = {1}
   },
   [56] = {
@@ -2369,9 +2369,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      1446,
-      -16,
-      -114.3
+      97.1,
+      -5,
+      46.9
     },
     radius = {
       0,
@@ -2379,19 +2379,19 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      20,
-      18,
-      15,
-      30
+      70,
+      50,
+      30,
+      100
     },
-    rate = {3, 5},
-    size = {22, 25},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
+    rate = {1, 3},
+    size = {5, 7},
+    life = {3, 4},
+    texture = "smoke2.bmp",
     speed = {0},
     srcmode = {9},
     destmode = {2},
-    maxcount = {5},
+    maxcount = {10},
     zenable = {1}
   },
   [57] = {
@@ -2411,9 +2411,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      636.2,
-      -25,
-      188
+      110.5,
+      -7,
+      39.8
     },
     radius = {
       0,
@@ -2421,19 +2421,19 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      20,
-      18,
-      15,
-      30
+      70,
+      50,
+      30,
+      100
     },
-    rate = {3, 5},
-    size = {22, 25},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
+    rate = {1, 3},
+    size = {5, 7},
+    life = {3, 4},
+    texture = "smoke2.bmp",
     speed = {0},
     srcmode = {9},
     destmode = {2},
-    maxcount = {5},
+    maxcount = {10},
     zenable = {1}
   },
   [58] = {
@@ -2453,9 +2453,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      644.4,
-      -27,
-      -510
+      88.1,
+      -5,
+      27.4
     },
     radius = {
       0,
@@ -2463,19 +2463,19 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      20,
-      18,
-      15,
-      30
+      70,
+      50,
+      30,
+      100
     },
-    rate = {3, 5},
-    size = {22, 25},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
+    rate = {1, 3},
+    size = {5, 7},
+    life = {3, 4},
+    texture = "smoke2.bmp",
     speed = {0},
     srcmode = {9},
     destmode = {2},
-    maxcount = {5},
+    maxcount = {10},
     zenable = {1}
   },
   [59] = {
@@ -2495,9 +2495,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      819,
-      -24,
-      -507.1
+      67.6,
+      -3.6,
+      27.7
     },
     radius = {
       0,
@@ -2505,19 +2505,19 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      20,
-      18,
-      15,
-      30
+      70,
+      50,
+      30,
+      100
     },
-    rate = {3, 5},
-    size = {22, 25},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
+    rate = {1, 3},
+    size = {5, 6},
+    life = {3, 4},
+    texture = "smoke2.bmp",
     speed = {0},
     srcmode = {9},
     destmode = {2},
-    maxcount = {5},
+    maxcount = {10},
     zenable = {1}
   },
   [60] = {
@@ -2537,9 +2537,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      904,
-      -20,
-      -532.6
+      72.8,
+      -5,
+      43.9
     },
     radius = {
       0,
@@ -2547,19 +2547,19 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      20,
-      18,
-      15,
-      30
+      70,
+      50,
+      30,
+      100
     },
-    rate = {3, 5},
-    size = {22, 25},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
+    rate = {1, 3},
+    size = {5, 7},
+    life = {3, 4},
+    texture = "smoke2.bmp",
     speed = {0},
     srcmode = {9},
     destmode = {2},
-    maxcount = {5},
+    maxcount = {10},
     zenable = {1}
   },
   [61] = {
@@ -2579,9 +2579,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      810.8,
-      10,
-      -611.1
+      50.9,
+      -5.2,
+      36.6
     },
     radius = {
       0,
@@ -2589,19 +2589,19 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      20,
-      18,
-      15,
-      30
+      70,
+      50,
+      30,
+      100
     },
-    rate = {3, 5},
-    size = {22, 25},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
+    rate = {1, 3},
+    size = {4, 5},
+    life = {3, 4},
+    texture = "smoke2.bmp",
     speed = {0},
     srcmode = {9},
     destmode = {2},
-    maxcount = {5},
+    maxcount = {10},
     zenable = {1}
   },
   [62] = {
@@ -2621,9 +2621,9 @@ _prt_cas_emitterInfo = {
       0.7
     },
     pos = {
-      682.8,
-      6,
-      -722
+      48,
+      -4.3,
+      21.8
     },
     radius = {
       0,
@@ -2631,41 +2631,41 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      20,
-      18,
-      15,
-      30
+      70,
+      50,
+      30,
+      100
     },
-    rate = {3, 5},
-    size = {22, 25},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
+    rate = {1, 3},
+    size = {3, 4},
+    life = {3, 4},
+    texture = "smoke2.bmp",
     speed = {0},
     srcmode = {9},
     destmode = {2},
-    maxcount = {5},
+    maxcount = {10},
     zenable = {1}
   },
   [63] = {
     dir1 = {
-      -3,
-      -5,
+      3,
+      0,
       -3
     },
     dir2 = {
       5,
       0,
-      5
+      -5
     },
     gravity = {
-      0.7,
-      -2,
+      0.2,
+      0,
       0.7
     },
     pos = {
-      805.6,
-      9,
-      -720.4
+      -44.9,
+      -5,
+      101.1
     },
     radius = {
       0,
@@ -2673,187 +2673,19 @@ _prt_cas_emitterInfo = {
       0
     },
     color = {
-      20,
-      18,
-      15,
-      30
+      50,
+      50,
+      50,
+      50
     },
     rate = {3, 5},
-    size = {22, 25},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
-    speed = {0},
-    srcmode = {9},
+    size = {12, 12},
+    life = {4, 5},
+    texture = "smoke2.bmp",
+    speed = {2},
+    srcmode = {5},
     destmode = {2},
-    maxcount = {5},
-    zenable = {1}
-  },
-  [64] = {
-    dir1 = {
-      -3,
-      -5,
-      -3
-    },
-    dir2 = {
-      5,
-      0,
-      5
-    },
-    gravity = {
-      0.7,
-      -2,
-      0.7
-    },
-    pos = {
-      674.2,
-      4,
-      -551.8
-    },
-    radius = {
-      0,
-      0,
-      0
-    },
-    color = {
-      20,
-      18,
-      15,
-      30
-    },
-    rate = {3, 5},
-    size = {22, 25},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
-    speed = {0},
-    srcmode = {9},
-    destmode = {2},
-    maxcount = {5},
-    zenable = {1}
-  },
-  [65] = {
-    dir1 = {
-      -3,
-      -5,
-      -3
-    },
-    dir2 = {
-      5,
-      0,
-      5
-    },
-    gravity = {
-      0.7,
-      -2,
-      0.7
-    },
-    pos = {
-      902.6,
-      -22,
-      -719.5
-    },
-    radius = {
-      0,
-      0,
-      0
-    },
-    color = {
-      20,
-      18,
-      15,
-      30
-    },
-    rate = {3, 5},
-    size = {22, 25},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
-    speed = {0},
-    srcmode = {9},
-    destmode = {2},
-    maxcount = {5},
-    zenable = {1}
-  },
-  [66] = {
-    dir1 = {
-      -3,
-      -5,
-      -3
-    },
-    dir2 = {
-      5,
-      0,
-      5
-    },
-    gravity = {
-      0.7,
-      -2,
-      0.7
-    },
-    pos = {
-      740,
-      -4,
-      -570.1
-    },
-    radius = {
-      0,
-      0,
-      0
-    },
-    color = {
-      20,
-      18,
-      15,
-      30
-    },
-    rate = {3, 5},
-    size = {22, 25},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
-    speed = {0},
-    srcmode = {9},
-    destmode = {2},
-    maxcount = {5},
-    zenable = {1}
-  },
-  [67] = {
-    dir1 = {
-      -3,
-      -5,
-      -3
-    },
-    dir2 = {
-      5,
-      0,
-      5
-    },
-    gravity = {
-      0.7,
-      -2,
-      0.7
-    },
-    pos = {
-      211.4,
-      -19,
-      638
-    },
-    radius = {
-      0,
-      0,
-      0
-    },
-    color = {
-      20,
-      18,
-      15,
-      30
-    },
-    rate = {3, 5},
-    size = {22, 25},
-    life = {4, 4},
-    texture = "effect\\smoke2.bmp",
-    speed = {0},
-    srcmode = {9},
-    destmode = {2},
-    maxcount = {5},
+    maxcount = {10},
     zenable = {1}
   }
 }

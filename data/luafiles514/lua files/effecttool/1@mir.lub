@@ -161,7 +161,7 @@ _1mir_emitterInfo = {
     rate = {1, 20},
     size = {10, 30},
     life = {2, 10},
-    texture = "effect\\13 copy.bmp",
+    texture = "effect\ copy.bmp",
     speed = {0},
     srcmode = {5},
     destmode = {2},
