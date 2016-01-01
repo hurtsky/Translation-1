@@ -1,4 +1,4 @@
-SKILL_INFO_LISTX = {
+SKILL_INFO_LIST = {
 	[SKID.NPC_HALLUCINATIONWALK] = {
 		"NPC_HALLUCINATIONWALK",
 		SkillName = "Hallucination Walk",
@@ -4375,7 +4375,7 @@ SKILL_INFO_LISTX = {
 		SkillName = "Cannon Spear",
 		MaxLv = 5,
 		SpAmount = { 12, 16, 20, 24, 28 },
-		bSeperateLv = false,
+		bSeperateLv = true,
 		AttackRange = { 11, 11, 11, 11, 11 },
 		_NeedSkillList = {
 			{ SKID.LG_PINPOINTATTACK, 1 }
@@ -4386,7 +4386,7 @@ SKILL_INFO_LISTX = {
 		SkillName = "Reflect Damage",
 		MaxLv = 5,
 		SpAmount = { 60, 80, 100, 120, 140 },
-		bSeperateLv = false,
+		bSeperateLv = true,
 		AttackRange = { 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
 			{ SKID.CR_REFLECTSHIELD, 5 }
@@ -4421,7 +4421,7 @@ SKILL_INFO_LISTX = {
 		SkillName = "Earth Drive",
 		MaxLv = 5,
 		SpAmount = { 52, 60, 68, 76, 84 },
-		bSeperateLv = false,
+		bSeperateLv = true,
 		AttackRange = { 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
 			{ SKID.LG_REFLECTDAMAGE, 3 }
@@ -4586,7 +4586,7 @@ SKILL_INFO_LISTX = {
 		SkillName = "Fire Walk",
 		MaxLv = 5,
 		SpAmount = { 30, 34, 38, 42, 46 },
-		bSeperateLv = false,
+		bSeperateLv = true,
 		AttackRange = { 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
 			{ SKID.SA_VOLCANO, 1 }
@@ -4622,7 +4622,7 @@ SKILL_INFO_LISTX = {
 		SkillName = "Arrullo",
 		MaxLv = 5,
 		SpAmount = { 30, 35, 40, 45, 50 },
-		bSeperateLv = false,
+		bSeperateLv = true,
 		AttackRange = { 7, 7, 7, 7, 9 },
 		_NeedSkillList = {
 			{ SKID.SO_WARMER, 2 }
@@ -4727,7 +4727,7 @@ SKILL_INFO_LISTX = {
 		SkillName = "Sacrament",
 		MaxLv = 5,
 		SpAmount = { 100, 120, 140, 160, 180 },
-		bSeperateLv = false,
+		bSeperateLv = true,
 		AttackRange = { 11, 11, 11, 11, 11 },
 		_NeedSkillList = {
 			{ SKID.AB_EXPIATIO, 1 },
@@ -6119,7 +6119,7 @@ SKILL_INFO_LISTX = {
 		SkillName = "Moon Slasher",
 		MaxLv = 5,
 		SpAmount = { 20, 24, 28, 32, 36 },
-		bSeperateLv = false,
+		bSeperateLv = true,
 		AttackRange = { 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
 			{ SKID.KN_SPEARMASTERY, 1 }
@@ -6142,7 +6142,7 @@ SKILL_INFO_LISTX = {
 		SkillName = "Earth Shaker",
 		MaxLv = 5,
 		SpAmount = { 36, 40, 44, 48, 52 },
-		bSeperateLv = false,
+		bSeperateLv = true,
 		AttackRange = { 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
 			{ SKID.SR_DRAGONCOMBO, 1 },
@@ -6254,7 +6254,7 @@ SKILL_INFO_LISTX = {
 		SkillName = "Siren's Voice",
 		MaxLv = 5,
 		SpAmount = { 48, 56, 64, 72, 80 },
-		bSeperateLv = false,
+		bSeperateLv = true,
 		AttackRange = { 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
 			{ SKID.WM_POEMOFNETHERWORLD, 3 }
@@ -6848,7 +6848,7 @@ SKILL_INFO_LISTX = {
 		SkillName = "Dragon Combo",
 		MaxLv = 10,
 		SpAmount = { 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 },
-		bSeperateLv = false,
+		bSeperateLv = true,
 		AttackRange = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
 			{ SKID.MO_TRIPLEATTACK, 5 }
@@ -7023,7 +7023,7 @@ SKILL_INFO_LISTX = {
 		SkillName = "Shield Press",
 		MaxLv = 5,
 		SpAmount = { 10, 12, 14, 16, 18 },
-		bSeperateLv = false,
+		bSeperateLv = true,
 		AttackRange = { 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
 			{ SKID.CR_SHIELDCHARGE, 3 }
@@ -7486,7 +7486,7 @@ SKILL_INFO_LISTX = {
 		SkillName = "Howling of Lion",
 		MaxLv = 5,
 		SpAmount = { 80, 90, 100, 110, 120 },
-		bSeperateLv = false,
+		bSeperateLv = true,
 		AttackRange = { 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
 			{ SKID.SR_RIDEINLIGHTNING, 3 },
@@ -7906,7 +7906,7 @@ SKILL_INFO_LISTX = {
 		SkillName = "Rising Dragon",
 		MaxLv = 10,
 		SpAmount = { 120, 120, 120, 120, 120, 120, 120, 120, 120, 120 },
-		bSeperateLv = false,
+		bSeperateLv = true,
 		AttackRange = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
 			{ SKID.SR_RAMPAGEBLASTER, 3 },
@@ -8187,7 +8187,7 @@ SKILL_INFO_LISTX = {
 		SkillName = "Earth Grave",
 		MaxLv = 5,
 		SpAmount = { 62, 70, 78, 86, 94 },
-		bSeperateLv = false,
+		bSeperateLv = true,
 		AttackRange = { 9, 9, 9, 9, 9 },
 		_NeedSkillList = {
 			{ SKID.WZ_EARTHSPIKE, 5 }
@@ -8231,7 +8231,7 @@ SKILL_INFO_LISTX = {
 		SkillName = "Electric Walk",
 		MaxLv = 5,
 		SpAmount = { 30, 34, 38, 42, 46 },
-		bSeperateLv = false,
+		bSeperateLv = true,
 		AttackRange = { 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
 			{ SKID.SA_VIOLENTGALE, 1 }
@@ -8740,7 +8740,7 @@ SKILL_INFO_LISTX = {
 		SkillName = "Vanguard Force",
 		MaxLv = 5,
 		SpAmount = { 30, 30, 30, 30, 30 },
-		bSeperateLv = false,
+		bSeperateLv = true,
 		AttackRange = { 1, 1, 1, 1, 1 }
 	},
 	[SKID.SA_ABRACADABRA] = {
@@ -8918,7 +8918,7 @@ SKILL_INFO_LISTX = {
 		SkillName = "Reverberation",
 		MaxLv = 5,
 		SpAmount = { 28, 32, 38, 42, 48 },
-		bSeperateLv = false,
+		bSeperateLv = true,
 		AttackRange = { 9, 9, 9, 9, 9 },
 		NeedSkillList = {
 			[JOBID.JT_MINSTREL] = {
@@ -9077,7 +9077,7 @@ SKILL_INFO_LISTX = {
 		SkillName = "Psychic Wave",
 		MaxLv = 5,
 		SpAmount = { 48, 56, 64, 70, 78 },
-		bSeperateLv = false,
+		bSeperateLv = true,
 		AttackRange = { 9, 9, 9, 9, 9 },
 		_NeedSkillList = {
 			{ SKID.SA_DISPELL, 2 }
@@ -9258,7 +9258,7 @@ SKILL_INFO_LISTX = {
 		SkillName = "Inspiration",
 		MaxLv = 5,
 		SpAmount = { 80, 90, 100, 110, 120 },
-		bSeperateLv = false,
+		bSeperateLv = true,
 		AttackRange = { 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
 			{ SKID.LG_PIETY, 5 },
@@ -9279,7 +9279,7 @@ SKILL_INFO_LISTX = {
 		SkillName = "Piety",
 		MaxLv = 5,
 		SpAmount = { 40, 45, 50, 55, 60 },
-		bSeperateLv = false,
+		bSeperateLv = true,
 		AttackRange = { 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
 			{ SKID.CR_TRUST, 3 }
@@ -9301,7 +9301,7 @@ SKILL_INFO_LISTX = {
 		SkillName = "Prestige",
 		MaxLv = 5,
 		SpAmount = { 75, 80, 85, 90, 95 },
-		bSeperateLv = false,
+		bSeperateLv = true,
 		AttackRange = { 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
 			{ SKID.LG_TRAMPLE, 3 }
@@ -9343,7 +9343,7 @@ SKILL_INFO_LISTX = {
 		SkillName = "Exceed Break",
 		MaxLv = 5,
 		SpAmount = { 20, 32, 44, 56, 68 },
-		bSeperateLv = false,
+		bSeperateLv = true,
 		AttackRange = { 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
 			{ SKID.LG_BANISHINGPOINT, 3 }
@@ -9425,7 +9425,7 @@ SKILL_INFO_LISTX = {
 		SkillName = "Trample",
 		MaxLv = 3,
 		SpAmount = { 30, 45, 60 },
-		bSeperateLv = false,
+		bSeperateLv = true,
 		AttackRange = { 1, 1, 1 }
 	},
 	[SKID.DC_DANCINGLESSON] = {
