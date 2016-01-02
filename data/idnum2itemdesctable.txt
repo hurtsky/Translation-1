@@ -30232,15 +30232,15 @@ MATK +6
 Decrease Casting Time by 3%
 #
 4816#
-CRIT +12%
+CRIT +12
 HIT +4
 #
 4817#
-CRIT +9%
+CRIT +9
 HIT +3
 #
 4818#
-CRIT +6%
+CRIT +6
 HIT +2
 #
 4819#
@@ -30329,11 +30329,11 @@ ASPD +1
 ASPD +2
 #
 4843#
-CRIT +14%
+CRIT +14
 HIT +5
 #
 4844#
-CRIT +15%
+CRIT +15
 HIT +6
 #
 4845#
