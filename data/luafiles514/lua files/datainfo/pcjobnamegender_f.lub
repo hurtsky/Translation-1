@@ -139,7 +139,11 @@ pcJobTbl2 = {
   JT_WOLF_RANGER_B = 4111,
   JT_MADOGEAR_B = 4112,
   JT_SUPERNOVICE2 = 4190,
-  JT_SUPERNOVICE2_B = 4191
+  JT_SUPERNOVICE2_B = 4191,
+  JT_KAGEROU = 4211,
+  JT_OBORO = 4212,
+  JT_REBELLION = 4215,
+  JT_SUMMONER = 4218
 }
 function ReqPCJobNameMan(jobID)
   if PCJobNameTableMan[jobID] ~= nil then
