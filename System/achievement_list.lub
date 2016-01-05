@@ -5914,14 +5914,14 @@ achievement_tbl = {
 		group = "ADD_FRIEND",
 		major = 1,
 		minor = 2,
-		title = "친구야~ 친구야~",
+		title = "Friend~ Friend~",
 		content = {
-			summary = "친구를 1명 등록한다",
-			details = "모험을 함께 할 친구를 모집하자. 친구 1명을 등록한다.",
+			summary = "Register 1 Friend",
+			details = "Let's Recruit a friend to join your adventure. Be Friend with 1 person.",
 		},
 		resource = {
 			[1] = {
-				text = "친구를 1명 등록",
+				text = "Have 1 Friend",
 			},
 		},
 		reward = {},
@@ -5932,14 +5932,14 @@ achievement_tbl = {
 		group = "ADD_FRIEND",
 		major = 1,
 		minor = 2,
-		title = "인기쟁이",
+		title = "Popularity",
 		content = {
-			summary = "친구를 10명 등록한다",
-			details = "친구는 많을수록 좋다. 10명과 친구를 맺는다.",
+			summary = "Register 10 friends",
+			details = "More friends is better. Be Friend with 10 persons.",
 		},
 		resource = {
 			[1] = {
-				text = "친구를 10명 등록",
+				text = "Have 10 friends",
 			},
 		},
 		reward = {},
