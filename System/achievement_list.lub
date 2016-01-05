@@ -5797,14 +5797,14 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "애증의 화신",
+		title = "Avatar of Hate and Love",
 		content = {
-			summary = "노비스로 99 베이스 레벨을 달성한다",
-			details = "직업이 노비스 상태에서 베이스 레벨을 99 까지 달성한다.",
+			summary = "Achieve BaseLevel 99 by Novice",
+			details = "Job is to achieve baselevel of 99 by Novice.",
 		},
 		resource = {
 			[1] = {
-				text = "노비스 상태에서 99 베이스 레벨을 달성",
+				text = "Achieve BaseLevel 99 by Novice",
 			},
 		},
 		reward = {
@@ -5818,14 +5818,14 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "정말 좋아한다구요!",
+		title = "Really! I Like it!",
 		content = {
-			summary = "1차 직업군으로 99 베이스 레벨 달성한다",
-			details = "1차 직업군으로 전직한 상태에서 캐릭터의 베이스 레벨을 99 까지 달성한다.",
+			summary = "Achieve BaseLevel 99 by 1st Job",
+			details = "Job is to achieve baselevel of 99 by 1st Job.",
 		},
 		resource = {
 			[1] = {
-				text = "1차 직업군으로 99 베이스 레벨 달성",
+				text = "Achieve BaseLevel 99 by 1st Job",
 			},
 		},
 		reward = {
