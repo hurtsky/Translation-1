@@ -220,9 +220,9 @@ Cancel#
 There is a Delay after using a Skill.#
 You can't have this item because you will exceed the weight limit.#
 Out of the maximum capacity#
-Rent a Cart Items#
-Take Off Rent a Cart#
-Vend a Shop#
+Cart Items#
+Take off Cart#
+Opening a stall#
 Please Name your Shop.#
 My Shop#
 Merchant Shop#
@@ -235,7 +235,7 @@ Skill has failed because you do not have enough zeny.#
 Select a Target.#
 /pk on: Turns PK On. /pk off: Turns PK Off.#
 Shop#
-Rent a Cart Items [Alt+W]#
+Cart Items [Alt+W]#
 Basic Information#
 The skill cannot be used with this weapon.#
 Buying %s has been failed. Out of Stock. Current Stock %d.#
@@ -325,7 +325,7 @@ Change Skill#
 Sprite Resolution#
 Texture Resolution#
 Arrange Detail#
-You got %Zeny#
+You got %s Zeny#
 Guild Name#
 Guild lvl#
 ClanMaster Name#
@@ -382,7 +382,7 @@ Offer Accepted#
 Your Guild is Full.#
 Send (%s) a Guild invitation#
 You haven't learned enough skills for aligning.#
-Alignning completed.#
+Aligning completed.#
 You already spent your point for today.#
 Hasn't been a month yet since you aligned this person.#
 Remember, Spamming isn't nice.#
@@ -481,12 +481,12 @@ Power-Thrust Canceled.#
 Maximize-Power Initiated.#
 Maximize-Power Canceled.#
 [New Server]#
-(%d)#
+(%d players)#
 (On the maintenance)#
-Guildsman %s has connected.#
-Guildsman %s has disconnected.#
-You got %s Base EXP.#
-You got %s Job EXP.#
+Guild member %s has connected.#
+Guild member %s has disconnected.#
+You got %d Base EXP.#
+You got %d Job EXP.#
 You left the guild.#
 You have been expelled from the Guild.#
 Item Appraisal has completed successfully.#
@@ -499,7 +499,7 @@ Already set as an Antagonist#
 Upgrade has been completed successfully.#
 Upgrade has failed.#
 Unavailable Area to Teleport#
-Unavailable Area to Teleport#
+Unable to memorize this place as Warp Point#
 Please wait 10 seconds before trying to log out.#
 Position#
 Job#
@@ -586,7 +586,7 @@ Pet Info#
 Hunger#
 Intimacy#
 Please avoid opening a chatroom while vending.#
-Total#
+ea#
 You have knocked down %s.#
 You have been knocked down by %s.#
 Feed - "%s" is not available.#
@@ -823,11 +823,11 @@ You have become friends with (%s).#
 (%s) does not want to be friends with you.#
 This character will be blocked to use until %s.#
 Price will be fixed at 10,000,000 zeny, even if you enter higher price.#
-(Down below)#
-(Below)#
-(Average)#
-(Above)#
-(Up below)#
+(Very low)#
+(Low)#
+(Normal)#
+(High)#
+(Very high)#
 You have been blocked from using chat and skills for %d minutes by the GM Team.#
 %d minutes remain until release from the GM penalty.#
 You have been released from the GM penalty.#
@@ -1060,7 +1060,7 @@ Sale Status#
 Purchase Status#
 Item#
 Name#
-Current Bid / Buyout#
+Current Bid / Max Bid#
 Seller#
 Buyer#
 End Time#
@@ -1089,9 +1089,9 @@ Place another Bid#
 You have placed a bid.#
 You have failed to place a bid.#
 You do not have enough zeny.#
-Armors#
+Armor#
 Card#
-Other#
+Etc.#
 Bid#
 Search#
 You have ended the auction.#
@@ -1123,7 +1123,7 @@ Soul Linker (Male)#
 Soul Linker (Female)#
 Please check the connection, more than 2 accounts are connected with Internet Cafe Time Plan.#
 Your account is using monthly payment. (Remaining day: %d day)#
-Your account is using time limited. (Remaining time: %d hour % minute % second)#
+Your account is using time limited. (Remaining time: %d hour %d minute %d second)#
 This item cannot be mailed.#
 You cannot accept any more items. Please try again later.#
 Male#
@@ -1373,7 +1373,7 @@ The Memorial Dungeon is now open.#
 This account has not been confirmed by connecting to the safe communication key. Please connect to the key first, and then log into the game.#
 The number of accounts connected to this IP has exceeded the limit.#
 You have received a new quest.#
-^777777Acquirement conditions:#
+^CC3399Requirement:#
 View Skill Info#
 Once used, skill points cannot be re-allocated. Would you like to use the skill points?#
 1st#
@@ -1813,7 +1813,7 @@ The map is not available.#
 The selected name or prefix/suffix does not exist.#
 You can purchase up to 10 items.#
 Some items could not be purchased.#
-Enter your birthday (e.g: 20101126)#
+Enter your 6-digit DOB(YYMMDD) (e.g: 801122)#
 Now Logging Out.#
 A database error has occurred.#
 Please leave your guild first in order to remove your character.#
@@ -1829,7 +1829,7 @@ results have been found.#
 Failed to remove result.#
 No results have been found.#
 No payment information has been found.#
-Screenshot Trade On/Off#
+Screenshot Trade#
 [Trade_%s]#
 Death due to the auto insurance young people are spending.#
 Chat Dialog#
@@ -2457,20 +2457,20 @@ Bank balance is low.#
 You don't have enough zeny#
 Minimum Deposit Amount: 1 zeny#
 Minimum Withdrawal Amount: 1 zeny#
-You cannot hold more than 2,147,483,647 billion#
-your account is lock by mobil otp#
+You cannot hold more than 2,147,483,647 Zeny#
+your account is lock by mobile otp#
 MOTP auth fail#
 For %d minutes,Job Experience obtained from monster is increased by %d%%#
 Current Zeny: %s Zeny#
 Zeny#
-The Maximum amount is 2,147,483,647Billion zeny#
-Your bullet is not enough#
+The Maximum amount is 2,147,483,647 Zeny#
+Insufficient bullet#
 You entered more than 1 Billion Zeny, the price will be set to 1 Billion Zeny.#
 AuthTicket is Not Valid#
 ErrorCategory: %d, ErrorCode: %d (%d,%d,%d,%d)#
-%d%% ( Basic 100%% + Premium %d%% + PCCafe %d%% + %s Server %d%% )#
- %d�а� ���� ����� ���� ���� �� �ִ� �⺻ �������� ��ӷ��� %d%%�� �����մϴ�.#
- %d�� %.2d�а� ���� ����� ���� ���� �� �ִ� �⺻ �������� ��ӷ��� %d%%�� �����մϴ�.#
+%d%% ( Basic 100%% + Premium %d%% + Internet cafe %d%% + %s Server %d%% )#
+Basic item drop rate from monster hunting is increased for %dmins by %dtimes.#
+Basic item drop rate from monster hunting is increased for %dhour %.2dmins  by %dtimes.#
 The price of %s#
 100000000#
  ^ff0000%d^0000ffbillion#
@@ -2556,7 +2556,7 @@ Gatling Gun should be equipped with bullets.#
 Shotguns should be equipped with bullets.#
 Rifle should be equipped with bullets.#
 Pair of Revolver should be equipped with bullets.#
-¼º¼Ó¼º ºí¸´À» ÀåÂøÇØ¾ß ÇÕ´Ï´Ù#
+[Silver Bullet] weapon class must be equipped.#
 Item Sell History#
 Item Purchase History#
 Grenade Launcher should be equipped with bullets.#
@@ -2650,9 +2650,9 @@ Achieve rank#
 The following compensation box until [% 5d] point#
 Progress#
 Recent Achievements#
-���  Item#
-���  : %d / %d #
-���  is low.#
+Cracker  Item#
+Cracker  : %d / %d #
+Cracker  is low.#
 %s#
 Overview#
 General#
@@ -2810,3 +2810,12 @@ Send Mail#
 E X P : %.1f%% ( basic 100.0%% VIP Bonus %.1f%% + %s %.1f%%)#
 DROP  : %.1f%% ( basic 100.0%% VIP Bonus %.1f%% + %s %.1f%%)#
 DEATH : %.1f%% ( basic 100.0%% VIP Bonus %.1f%% + %s %.1f%%)#
+Name with this tag cannot be used.#
+Style Shop#
+No serial number, Please visit the store to buy.#
+Please turn on Serial item number window box.#
+Bank#
+Slot is full, please delete a character.#
+Item cannot be restored, are you sure want to apply it?#
+Registered as the following style.#
+There are plenty of golds in the bank, Please go to the bank now.#
