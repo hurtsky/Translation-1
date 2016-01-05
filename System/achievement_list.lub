@@ -7283,14 +7283,14 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "달성등급 1 도달",
+		title = "Achieve Rank 1",
 		content = {
-			summary = "달성등급 1을 도달한다",
-			details = "달성등급 1을 도달한다.",
+			summary = "Reach Rank 1",
+			details = "Reach Rank 1.",
 		},
 		resource = {
 			[1] = {
-				text = "달성등급 1을 도달",
+				text = "Achieving Rank 1",
 			},
 		},
 		reward = {
@@ -7304,14 +7304,14 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "달성등급 2 도달",
+		title = "Achieve Rank 2",
 		content = {
-			summary = "달성등급 2을 도달한다",
-			details = "달성등급 2을 도달한다.",
+			summary = "Reach Rank 2",
+			details = "Reach Rank 2.",
 		},
 		resource = {
 			[1] = {
-				text = "달성등급 2을 도달",
+				text = "Achieving Rank 2",
 			},
 		},
 		reward = {
@@ -7325,14 +7325,14 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "달성등급 3 도달",
+		title = "Achieve Rank 3",
 		content = {
-			summary = "달성등급 3을 도달한다",
-			details = "달성등급 3을 도달한다.",
+			summary = "Reach Rank 3",
+			details = "Reach Rank 3.",
 		},
 		resource = {
 			[1] = {
-				text = "달성등급 3을 도달",
+				text = "Achieving Rank 3",
 			},
 		},
 		reward = {
@@ -7346,14 +7346,14 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "달성등급 4 도달",
+		title = "Achieve Rank 4",
 		content = {
-			summary = "달성등급 4을 도달한다",
-			details = "달성등급 4을 도달한다.",
+			summary = "Reach Rank 4",
+			details = "Reach Rank 4.",
 		},
 		resource = {
 			[1] = {
-				text = "달성등급 4을 도달",
+				text = "Achieving Rank 4",
 			},
 		},
 		reward = {
@@ -7367,14 +7367,14 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "달성등급 5 도달",
+		title = "Achieve Rank 5",
 		content = {
-			summary = "달성등급 5을 도달한다",
-			details = "달성등급 5을 도달한다.",
+			summary = "Reach Rank 5",
+			details = "Reach Rank 5.",
 		},
 		resource = {
 			[1] = {
-				text = "달성등급 5을 도달",
+				text = "Achieving Rank 5",
 			},
 		},
 		reward = {
@@ -7388,14 +7388,14 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "달성등급 6 도달",
+		title = "Achieve Rank 6",
 		content = {
-			summary = "달성등급 6을 도달한다",
-			details = "달성등급 6을 도달한다.",
+			summary = "Reach Rank 6",
+			details = "Reach Rank 6.",
 		},
 		resource = {
 			[1] = {
-				text = "달성등급 6을 도달",
+				text = "Achieving Rank 6",
 			},
 		},
 		reward = {
@@ -7409,14 +7409,14 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "달성등급 7 도달",
+		title = "Achieve Rank 7",
 		content = {
-			summary = "달성등급 7을 도달한다",
-			details = "달성등급 7을 도달한다.",
+			summary = "Reach Rank 7",
+			details = "Reach Rank 7.",
 		},
 		resource = {
 			[1] = {
-				text = "달성등급 7을 도달",
+				text = "Achieving Rank 7",
 			},
 		},
 		reward = {
@@ -7430,14 +7430,14 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "달성등급 8 도달",
+		title = "Achieve Rank 8",
 		content = {
-			summary = "달성등급 8을 도달한다",
-			details = "달성등급 8을 도달한다.",
+			summary = "Reach Rank 8",
+			details = "Reach Rank 8.",
 		},
 		resource = {
 			[1] = {
-				text = "달성등급 8을 도달",
+				text = "Achieving Rank 8",
 			},
 		},
 		reward = {
@@ -7451,14 +7451,14 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "달성등급 9 도달",
+		title = "Achieve Rank 9",
 		content = {
-			summary = "달성등급 9을 도달한다",
-			details = "달성등급 9을 도달한다.",
+			summary = "Reach Rank 9",
+			details = "Reach Rank 9.",
 		},
 		resource = {
 			[1] = {
-				text = "달성등급 9을 도달",
+				text = "Achieving Rank 9",
 			},
 		},
 		reward = {
@@ -7472,14 +7472,14 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "달성등급 10 도달",
+		title = "Achieve Rank 10",
 		content = {
-			summary = "달성등급 10을 도달한다",
-			details = "달성등급 10을 도달한다. 노력상으로 칭호를 받을 수 있다.",
+			summary = "Reach Rank 10",
+			details = "Reach Rank 10. 노력상으로 칭호를 받을 수 있다.",
 		},
 		resource = {
 			[1] = {
-				text = "달성등급 10을 도달",
+				text = "Achieving Rank 10",
 			},
 		},
 		reward = {
@@ -7494,14 +7494,14 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "달성등급 11 도달",
+		title = "Achieve Rank 11",
 		content = {
-			summary = "달성등급 11을 도달한다",
-			details = "달성등급 11을 도달한다.",
+			summary = "Reach Rank 11",
+			details = "Reach Rank 11.",
 		},
 		resource = {
 			[1] = {
-				text = "달성등급 11을 도달",
+				text = "Achieving Rank 11",
 			},
 		},
 		reward = {
@@ -7515,14 +7515,14 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "달성등급 12 도달",
+		title = "Achieve Rank 12",
 		content = {
-			summary = "달성등급 12을 도달한다",
-			details = "달성등급 12을 도달한다.",
+			summary = "Reach Rank 12",
+			details = "Reach Rank 12.",
 		},
 		resource = {
 			[1] = {
-				text = "달성등급 12을 도달",
+				text = "Achieving Rank 12",
 			},
 		},
 		reward = {
@@ -7536,14 +7536,14 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "달성등급 13 도달",
+		title = "Achieve Rank 13",
 		content = {
-			summary = "달성등급 13을 도달한다",
-			details = "달성등급 13을 도달한다.",
+			summary = "Reach Rank 13",
+			details = "Reach Rank 13.",
 		},
 		resource = {
 			[1] = {
-				text = "달성등급 13을 도달",
+				text = "Achieving Rank 13",
 			},
 		},
 		reward = {
@@ -7557,14 +7557,14 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "달성등급 14 도달",
+		title = "Achieve Rank 14",
 		content = {
-			summary = "달성등급 14을 도달한다",
-			details = "달성등급 14을 도달한다.",
+			summary = "Reach Rank 14",
+			details = "Reach Rank 14.",
 		},
 		resource = {
 			[1] = {
-				text = "달성등급 14을 도달",
+				text = "Achieving Rank 14",
 			},
 		},
 		reward = {
@@ -7578,14 +7578,14 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "달성등급 15 도달",
+		title = "Achieve Rank 15",
 		content = {
-			summary = "달성등급 15을 도달한다",
-			details = "달성등급 15을 도달한다.",
+			summary = "Reach Rank 15",
+			details = "Reach Rank 15.",
 		},
 		resource = {
 			[1] = {
-				text = "달성등급 15을 도달",
+				text = "Achieving Rank 15",
 			},
 		},
 		reward = {
@@ -7599,14 +7599,14 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "달성등급 16 도달",
+		title = "Achieve Rank 16",
 		content = {
-			summary = "달성등급 16을 도달한다",
-			details = "달성등급 16을 도달한다.",
+			summary = "Reach Rank 16",
+			details = "Reach Rank 16.",
 		},
 		resource = {
 			[1] = {
-				text = "달성등급 16을 도달",
+				text = "Achieving Rank 16",
 			},
 		},
 		reward = {
@@ -7620,14 +7620,14 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "달성등급 17 도달",
+		title = "Achieve Rank 17",
 		content = {
-			summary = "달성등급 17을 도달한다",
-			details = "달성등급 17을 도달한다.",
+			summary = "Reach Rank 17",
+			details = "Reach Rank 17.",
 		},
 		resource = {
 			[1] = {
-				text = "달성등급 17을 도달",
+				text = "Achieving Rank 17",
 			},
 		},
 		reward = {
@@ -7641,14 +7641,14 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "달성등급 18 도달",
+		title = "Achieve Rank 18",
 		content = {
-			summary = "달성등급 18을 도달한다",
-			details = "달성등급 18을 도달한다.",
+			summary = "Reach Rank 18",
+			details = "Reach Rank 18.",
 		},
 		resource = {
 			[1] = {
-				text = "달성등급 18을 도달",
+				text = "Achieving Rank 18",
 			},
 		},
 		reward = {
@@ -7662,14 +7662,14 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "달성등급 19 도달",
+		title = "Achieve Rank 19",
 		content = {
-			summary = "달성등급 19을 도달한다",
-			details = "달성등급 19을 도달한다.",
+			summary = "Reach Rank 19",
+			details = "Reach Rank 19.",
 		},
 		resource = {
 			[1] = {
-				text = "달성등급 19을 도달",
+				text = "Achieving Rank 19",
 			},
 		},
 		reward = {
@@ -7683,14 +7683,14 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "달성등급 20 도달",
+		title = "Achieve Rank 20",
 		content = {
-			summary = "달성등급 20을 도달한다",
-			details = "달성등급 20을 도달한다. 노력상으로 칭호를 받을 수 있다.",
+			summary = "Reach Rank 20",
+			details = "Reach Rank 20. 노력상으로 칭호를 받을 수 있다.",
 		},
 		resource = {
 			[1] = {
-				text = "달성등급 20을 도달",
+				text = "Achieving Rank 20",
 			},
 		},
 		reward = {
