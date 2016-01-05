@@ -3878,6 +3878,7 @@
 5865#Accessory#
 5866#Accessory#
 5867#Hat#
+5868#Accessory#
 5869#Helmet#
 5870#Helmet#
 5871#Helmet#
@@ -10848,6 +10849,7 @@
 22775#Grilled Eel Skewer#
 22776#Grilled Carp Skewer#
 22777#Gift Buff Set#
+22808#Special Gift Box#
 22814#Cat Hand Ticket#
 22816#Mysterious of Life Gin#
 22817#Small Water of Life Gin#
@@ -11325,6 +11327,46 @@
 29055#Delay After Skill1 Lower#
 29056#Reduce Fixed Cast#
 29057#Kyrie Eleison#
+29081#Expect1Lv#
+29082#Expect2Lv#
+29083#Expect3Lv#
+29084#Expect4Lv#
+29085#Expect5Lv#
+29086#Expect6Lv#
+29087#Expect7Lv#
+29088#Expect8Lv#
+29089#Expect9Lv#
+29090#Expect10Lv#
+29091#ArchLine1Lv#
+29092#ArchLine2Lv#
+29093#ArchLine3Lv#
+29094#ArchLine4Lv#
+29095#ArchLine5Lv#
+29096#ArchLine6Lv#
+29097#ArchLine7Lv#
+29098#ArchLine8Lv#
+29099#ArchLine9Lv#
+29100#ArchLine10Lv#
+29101#Steel1Lv#
+29102#Steel2Lv#
+29103#Steel3Lv#
+29104#Steel4Lv#
+29105#Steel5Lv#
+29106#Steel6Lv#
+29107#Steel7Lv#
+29108#Steel8Lv#
+29109#Steel9Lv#
+29110#Steel10Lv#
+29111#Mercy1Lv#
+29112#Mercy2Lv#
+29113#Mercy3Lv#
+29114#Mercy4Lv#
+29115#Mercy5Lv#
+29116#Mercy6Lv#
+29117#Mercy7Lv#
+29118#Mercy8Lv#
+29119#Mercy9Lv#
+29120#Mercy10Lv#
 29121#Goddess of Justice A#
 29122#Goddess of Justice S#
 29123#Goddess of Mercy A#
@@ -11340,3 +11382,20 @@
 29145#Exp+2%#
 29146#Item Appraisal#
 29147#Ressurection#
+29154#Minor Reduce Fixed Cast#
+29155#Lex Aeterna#
+29156#Reduce Variable Cast#
+29157#Reduce Variable Cast#
+29158#Reduce Variable Cast#
+29159#Experience+2%#
+29160#Blue Aura Effect#
+29161#Pink Glow Effect#
+29162#Shadow Effect#
+31016#Spirit Decorated Tree Card#
+31017#Outrageous Cookie Card#
+31018#Spirit Enchanted Box Card#
+31019#Eerie Spirit Card#
+31020#Malicious Cold Ghost Card#
+31021#Dancing Marionette Card#
+31022#Abandoned Teddy Bear Card#
+31023#Celine Kimi Card#
