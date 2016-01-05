@@ -6411,14 +6411,14 @@ achievement_tbl = {
 		group = "GET_ZENY",
 		major = 1,
 		minor = 1,
-		title = "부자왕 (1)",
+		title = "Rich King (1)",
 		content = {
-			summary = "소지금 1만 제니 이상 보유한다",
-			details = "돈이 전부는 아니지만 없어서도 안된다. 소지금 1만 제니를 모아본다.",
+			summary = "Hold more than 10k Zeny in hand",
+			details = "돈이 전부는 아니지만 없어서도 안된다. Collect 10k Zeny.",
 		},
 		resource = {
 			[1] = {
-				text = "1만 제니 이상 보유",
+				text = "Hold more than 10k Zeny",
 			},
 		},
 		reward = {},
@@ -6429,14 +6429,14 @@ achievement_tbl = {
 		group = "GET_ZENY",
 		major = 1,
 		minor = 1,
-		title = "부자왕 (2)",
+		title = "Rich King (2)",
 		content = {
-			summary = "소지금 10만 제니 이상 보유한다",
-			details = "돈이 전부는 아니지만 없어서도 안된다. 소지금 10만 제니를 모아본다.",
+			summary = "Hold more than 100k Zeny in hand",
+			details = "돈이 전부는 아니지만 없어서도 안된다. Collect 100k Zeny.",
 		},
 		resource = {
 			[1] = {
-				text = "10만 제니 이상 소지",
+				text = "Hold more than 100k Zeny",
 			},
 		},
 		reward = {},
@@ -6447,14 +6447,14 @@ achievement_tbl = {
 		group = "GET_ZENY",
 		major = 1,
 		minor = 1,
-		title = "부자왕 (3)",
+		title = "Rich King (3)",
 		content = {
-			summary = "소지금 100만 제니 이상 보유한다",
-			details = "돈이 전부는 아니지만 없어서도 안된다. 소지금 100만 제니를 모아본다.",
+			summary = "Hold more than 1 Million Zeny in hand",
+			details = "돈이 전부는 아니지만 없어서도 안된다. Collect 1 Million Zeny.",
 		},
 		resource = {
 			[1] = {
-				text = "100만 제니 이상 소지",
+				text = "Hold more than 1 Million Zeny",
 			},
 		},
 		reward = {},
@@ -6465,14 +6465,14 @@ achievement_tbl = {
 		group = "GET_ZENY",
 		major = 1,
 		minor = 1,
-		title = "부자왕 (4)",
+		title = "Rich King (4)",
 		content = {
-			summary = "소지금 1000만 제니 이상 보유한다",
-			details = "돈이 전부는 아니지만 없어서도 안된다. 소지금 1000만 제니를 모아본다.",
+			summary = "Hold more than 10 Million Zeny in hand",
+			details = "돈이 전부는 아니지만 없어서도 안된다. Collect 10 Million Zeny.",
 		},
 		resource = {
 			[1] = {
-				text = "1000만 제니 이상 소지",
+				text = "Hold more than 10 Million Zeny",
 			},
 		},
 		reward = {},
@@ -6483,14 +6483,14 @@ achievement_tbl = {
 		group = "GET_ZENY",
 		major = 1,
 		minor = 1,
-		title = "부자왕 (5)",
+		title = "Rich King (5)",
 		content = {
-			summary = "소지금 1억 제니 이상 보유한다",
-			details = "돈이 전부는 아니지만 없어서도 안된다. 소지금 1억 제니를 모아본다.",
+			summary = "Hold more than 100 Million Zeny in hand",
+			details = "돈이 전부는 아니지만 없어서도 안된다. Collect 100 Million Zeny.",
 		},
 		resource = {
 			[1] = {
-				text = "1억 제니 이상 소지",
+				text = "Hold more than 100 Million Zeny",
 			},
 		},
 		reward = {},
@@ -6501,14 +6501,14 @@ achievement_tbl = {
 		group = "GET_ZENY",
 		major = 1,
 		minor = 1,
-		title = "부자왕 (6)",
+		title = "Rich King (6)",
 		content = {
-			summary = "소지금 10억 제니 이상 보유한다",
-			details = "돈이 전부는 아니지만 없어서도 안된다. 소지금 10억만 제니를 모아본다.",
+			summary = "Hold more than 1 Billion Zeny in hand",
+			details = "돈이 전부는 아니지만 없어서도 안된다. Collect 1 Billion Zeny.",
 		},
 		resource = {
 			[1] = {
-				text = "10억 제니 이상 소지",
+				text = "Hold more than 1 Billion Zeny",
 			},
 		},
 		reward = {},
