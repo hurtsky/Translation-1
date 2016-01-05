@@ -144,7 +144,7 @@ Ppl#
 Congratulations! You are the MVP! Your reward item is #
 !!#
 Congratulations! You are the MVP! Your reward EXP Points are #
- acquired!#
+!!#
 You are the MVP, but you can't take the reward because you are over your weight limit.#
 There is no such character name or the user is offline.#
  doesn't want to receive your messages.#
@@ -789,7 +789,7 @@ Skills assigned to shortcut windows 1, 2, 3 are Disabled. [/bm OFF]#
 A ~ L keys allow you to use skills assigned to Shortcut Window 3.#
 Please remember, programs running in the background while playing may affect the game's performance.#
 Dear angel, can you hear my voice?#
-Super Novice#
+I am#
 Super Novice~#
 Help me out~ Please~ T_T#
  wishes to adopt you. Do you accept?#
@@ -901,9 +901,9 @@ You cannot adopt more than 1 child.#
 You must be at least character level 70 in order to adopt someone.#
 [Point] You have been rewarded with %d Blacksmith rank points. Your point total is %d.#
 [Point] You have been rewarded with %d Alchemist rank points. Your point total is %d.#
-Help me out~ Please~ T_T#
-Help me out~ Please~ T_T#
-Help me out~ Please~ T_T#
+Dear angel, can you hear my voice?#
+I am#
+Super Novice~#
 Help me out~ Please~ T_T#
 /notalkmsg2: Hides chat messages(including guild chat). On Off#
 Show chat messages. [/nm2 ON]#
