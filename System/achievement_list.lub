@@ -5571,8 +5571,8 @@ achievement_tbl = {
 		minor = 0,
 		title = "곰 같은 힘이여!",
 		content = {
-			summary = "순수 STR 90 를 달성한다",
-			details = "스테이터스 STR 포인트를 순수 90 이상까지 달성한다.",
+			summary = "Achieve 90 STR",
+			details = "Achieve More than 90 STR by adding through status window.",
 		},
 		resource = {
 			[1] = {
@@ -5589,12 +5589,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "넘치는 마력!",
 		content = {
-			summary = "순수 INT 90 를 달성한다",
-			details = "스테이터스 INT 포인트를 순수 90 이상까지 달성한다.",
+			summary = "Achieve 90 INT",
+			details = "Achieve More than 90 INT by adding through status window.",
 		},
 		resource = {
 			[1] = {
-				text = "순수 INT 90 를 달성",
+				text = "Achieve 90 INT",
 			},
 		},
 		reward = {},
@@ -5607,12 +5607,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "건강한 육체에 건강한 정신!",
 		content = {
-			summary = "순수 VIT 90 를 달성한다",
-			details = "스테이터스 VIT 포인트를 순수 90 이상까지 달성한다.",
+			summary = "Achieve 90 VIT",
+			details = "Achieve More than 90 VIT by adding through status window.",
 		},
 		resource = {
 			[1] = {
-				text = "순수 VIT 90 를 달성",
+				text = "Achieve 90 VIT",
 			},
 		},
 		reward = {},
@@ -5625,12 +5625,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "속도광",
 		content = {
-			summary = "순수 AGI 90 를 달성한다",
-			details = "스테이터스 AGI 포인트를 순수 90 이상까지 달성한다.",
+			summary = "Achieve 90 AGI",
+			details = "Achieve More than 90 AGI by adding through status window.",
 		},
 		resource = {
 			[1] = {
-				text = "순수 AGI 90 를 달성",
+				text = "Achieve 90 AGI",
 			},
 		},
 		reward = {},
@@ -5643,12 +5643,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "매의 눈",
 		content = {
-			summary = "순수 DEX 90 를 달성한다",
-			details = "스테이터스 DEX 포인트를 순수 90 이상까지 달성한다.",
+			summary = "Achieve 90 DEX",
+			details = "Achieve More than 90 DEX by adding through status window.",
 		},
 		resource = {
 			[1] = {
-				text = "순수 DEX 90 를 달성",
+				text = "Achieve 90 DEX",
 			},
 		},
 		reward = {},
@@ -5661,12 +5661,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "럭키 맥스",
 		content = {
-			summary = "순수 LUK 90 를 달성한다",
-			details = "스테이터스 LUK 포인트를 순수 90 이상까지 달성한다.",
+			summary = "Achieve 90 LUK",
+			details = "Achieve More than 90 LUK by adding through status window.",
 		},
 		resource = {
 			[1] = {
-				text = "순수 LUK 90 를 달성",
+				text = "Achieve 90 LUK",
 			},
 		},
 		reward = {},
@@ -5679,8 +5679,8 @@ achievement_tbl = {
 		minor = 0,
 		title = "용 같은 힘이여!",
 		content = {
-			summary = "순수 STR 125 를 달성한다",
-			details = "스테이터스 STR 포인트를 순수 125 이상까지 달성한다.",
+			summary = "Achieve 125 STR",
+			details = "Achieve More than 125 STR by adding through status window.",
 		},
 		resource = {
 			[1] = {
@@ -5699,12 +5699,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "광기의 마력",
 		content = {
-			summary = "순수 INT 125 를 달성한다",
-			details = "스테이터스 INT 포인트를 순수 125 이상까지 달성한다.",
+			summary = "Achieve 125 INT",
+			details = "Achieve More than 125 INT by adding through status window.",
 		},
 		resource = {
 			[1] = {
-				text = "순수 INT 125 를 달성",
+				text = "Achieve 125 INT",
 			},
 		},
 		reward = {
@@ -5719,12 +5719,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "합금강석",
 		content = {
-			summary = "순수 VIT 125 를 달성한다",
-			details = "스테이터스 VIT 포인트를 순수 125 이상까지 달성한다.",
+			summary = "Achieve 125 VIT",
+			details = "Achieve More than 125 VIT by adding through status window.",
 		},
 		resource = {
 			[1] = {
-				text = "순수 VIT 125 를 달성",
+				text = "Achieve 125 VIT",
 			},
 		},
 		reward = {
@@ -5739,12 +5739,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "빛의 속도",
 		content = {
-			summary = "순수 AGI 125 를 달성한다",
-			details = "스테이터스 AGI 포인트를 순수 125 이상까지 달성한다.",
+			summary = "Achieve 125 AGI",
+			details = "Achieve More than 125 AGI by adding through status window.",
 		},
 		resource = {
 			[1] = {
-				text = "순수 AGI 125 를 달성",
+				text = "Achieve 125 AGI",
 			},
 		},
 		reward = {
@@ -5759,12 +5759,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "팔콘의 눈",
 		content = {
-			summary = "순수 DEX 125 를 달성한다",
-			details = "스테이터스 DEX 포인트를 순수 125 이상까지 달성한다.",
+			summary = "Achieve 125 DEX",
+			details = "Achieve More than 125 DEX by adding through status window.",
 		},
 		resource = {
 			[1] = {
-				text = "순수 DEX 125 를 달성",
+				text = "Achieve 125 DEX",
 			},
 		},
 		reward = {
@@ -5779,12 +5779,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "럭키 피버",
 		content = {
-			summary = "순수 LUK 125 를 달성한다",
-			details = "스테이터스 LUK 포인트를 순수 125 이상까지 달성한다.",
+			summary = "Achieve 125 LUK",
+			details = "Achieve More than 125 LUK by adding through status window.",
 		},
 		resource = {
 			[1] = {
-				text = "순수 LUK 125 를 달성",
+				text = "Achieve 125 LUK",
 			},
 		},
 		reward = {
