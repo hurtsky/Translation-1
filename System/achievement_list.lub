@@ -1,4 +1,4 @@
-achievement_tbl_raw = {
+achievement_tbl = {
 	[110000] = {
 		UI_Type = 0,
 		group = "EAT",
