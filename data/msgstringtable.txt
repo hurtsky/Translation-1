@@ -403,7 +403,7 @@ You have failed to disband the guild due to your incorrect SSN.#
 You have failed to disband the guild because there are guildsmen still present.#
 Set this guild as an Antagonist#
 Choose Hair Color#
-You need the necessary item to create a Guild.#
+You don't have necessary item to create a Guild.#
 Monster Info#
 Name#
 Level#
@@ -2062,7 +2062,7 @@ Player Name:#
  accepted your party invitation.#
 Recruitment is already a party.#
 Same conditions such as the previous search.#
-Guild after withdrawl.#
+Guild after withdrwal.#
 Party after secession.#
 The player can not be summoned to this map.#
 Party Leader is on a map that is restricted to summon players.#
@@ -2072,7 +2072,7 @@ Only the leader can invite.#
 Search item:#
 You must enter a character name.#
 You must enter the name of the party.#
-Guild Companion#
+Guild Creation Window#
 Join a guild or start your own!#
 Create Guild#
 Guild Name#
