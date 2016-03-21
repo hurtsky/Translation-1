@@ -691,6 +691,8 @@
 1386#Two-Handed Axe#
 1387#Two-Handed Axe#
 1388#Two-Handed Axe#
+1389#One-Handed Axe#
+1390#Two-Handed Axe#
 1391#Two-Handed Axe#
 1392#Two-Handed Axe#
 1393#Two-Handed Axe#
@@ -732,6 +734,7 @@
 1429#One-Handed Spear#
 1430#One-Handed Spear#
 1431#One-Handed Spear#
+1432#One-Handed Spear#
 1433#One-Handed Spear#
 1434#One-Handed Spear#
 1435#One-Handed Spear#
@@ -745,6 +748,7 @@
 1444#One-Handed Spear#
 1445#One-Handed Spear#
 1446#One-Handed Spear#
+1447#One-Handed Spear#
 1450#Two-Handed Spear#
 1451#Two-Handed Spear#
 1452#Two-Handed Spear#
@@ -876,6 +880,7 @@
 1579#Book#
 1580#Book#
 1581#Book#
+1582#Book#
 1583#Book#
 1584#Book#
 1585#Book#
@@ -979,7 +984,15 @@
 1688#One-Handed Staff#
 1689#One-Handed Staff#
 1690#One-Handed Staff#
+1691#One-Handed Staff#
+1692#One-Handed Staff#
+1693#One-Handed Staff#
+1694#One-Handed Staff#
+1695#One-Handed Staff#
+1696#One-Handed Staff#
+1697#One-Handed Staff#
 1698#One-Handed Staff#
+1699#One-Handed Staff#
 1701#Bow#
 1702#Bow#
 1703#Bow#
@@ -1221,6 +1234,7 @@
 2030#Two-Handed Staff#
 2031#Two-Handed Staff#
 2032#Two-Handed Staff#
+2033#Two-Handed Staff#
 2101#Shield#
 2102#Shield#
 2103#Shield#
@@ -2760,6 +2774,32 @@
 4668#Trance Spore Card#
 4669#Jungle Mandragora Card#
 4670#Fruit Pom Spider Card#
+4671#Sorcerer Celia Card#
+4672#Sura Chen Card#
+4673#Minstrel Alphoccio Card#
+4674#Guillotine Cross Eremes Card#
+4675#Arcbishop Margaretha Card#
+4676#Ranger Cecil Card#
+4677#Mechanic Howard Card#
+4678#Warlock Kathryne Card#
+4679#Rune Knight Seyren Card#
+4680#Royal Guard Randel Card#
+4681#Geneticist Flamel Card#
+4682#Shadow Chaser Gertie Card#
+4683#Wanderer Trentini Card#
+4684#True Eremes Guile Card#
+4685#True Margaretha Sorin Card#
+4686#True Kathryne Keyron Card#
+4687#True Cecil Damon Card#
+4688#True Howard Alt-Eisen Card#
+4689#True Seyren Windsor Card#
+4690#True Randel Lawrence Card#
+4691#True Flamel Emure Card#
+4692#True Celia Aldea Card#
+4693#True Chen Liu Card#
+4694#True Gertie Wi Card#
+4695#True Trentini Card#
+4696#True Alphoccio Basil Card#
 4700#STR+1#
 4701#STR+2#
 4702#STR+3#
@@ -3788,6 +3828,7 @@
 5768#Hairband#
 5769#Hat#
 5770#Hat#
+5771#Hat#
 5772#Hat#
 5773#Hat#
 5774#Hat#
@@ -3809,6 +3850,7 @@
 5791#Hat#
 5792#Accessory#
 5793#Accessory#
+5794#Ribbon#
 5795#Hat#
 5796#Mouth Mask#
 5797#Mouth Mask#
@@ -3896,6 +3938,7 @@
 5889#Helmet#
 5890#Hat#
 5891#Hat#
+5896#Hat#
 5897#Helmet#
 5898#Hairband#
 5899#Hairband#
@@ -3933,6 +3976,7 @@
 5938#Hat#
 5941#Hat#
 5942#Hat#
+5943#Hat#
 5944#Hat#
 5966#Accessory#
 5967#Accessory#
@@ -3947,6 +3991,7 @@
 5977#Mouth Mask#
 5979#Accessory#
 5980#Hat#
+5981#Hairband#
 5982#Accessory#
 5983#Accessory#
 5985#Mask#
@@ -4257,6 +4302,7 @@
 6306#Cotted Bloodstain#
 6307#Strange Magic Stone#
 6308#Unknown Relic#
+6316#[Not for sale]Token of Siegfried#
 6319#Small Bradium#
 6320#Reset Stone#
 6321#Rake Horn Helm#
@@ -6015,6 +6061,12 @@
 11711#Sakura Milk Tea#
 11712#Flower#
 11713#Julia's Candy#
+11714#Ma'moul#
+11715#Fruit Salad#
+11716#Shepherd Salad#
+11717#Yogurt#
+11718#Sushi Kebab#
+11719#Bisket Dessert#
 12000#Level 5 Frost Diver#
 12001#Level 3 Heal#
 12002#Level 5 Heal#
@@ -6505,6 +6557,8 @@
 12531#White Potion 100 Box#
 12532#Royal Jelly Box#
 12533#Blue Herb Box#
+12534#Yggdrasil Seed Box#
+12535#Yggdrasil Berry Box#
 12537#Gift Basket#
 12538#Firecracker Basket#
 12545#Fortune Egg#
@@ -7219,6 +7273,9 @@
 13456#One-Handed Sword#
 13457#Dagger#
 13459#One-Handed Sword#
+13460#One-Handed Sword#
+13461#One-Handed Sword#
+13462#One-Handed Sword#
 13500#Life Insurrance Box#
 13501#Experience Scroll Box#
 13502#Refined Drooping Cat Box#
@@ -8436,8 +8493,11 @@
 15119#Clothing#
 15120#Shoes#
 15121#Clothing#
+15122#Armor#
 15123#Clothing#
+15126#Clothing#
 15128#Clothing#
+15129#Clothing#
 15138#Armor#
 15141#Armor#
 15145#Armor#
@@ -8445,11 +8505,16 @@
 15147#Clothing#
 15148#Armor#
 15149#Armor#
+15150#Clothing#
+15151#Clothing#
 15152#Armor#
 15153#Clothing#
 15154#Clothing#
 15155#Clothing#
+15156#Clothing#
 15162#Clothing#
+15163#Clothing#
+15164#Clothing#
 16000#Mace#
 16001#Mace#
 16002#Mace#
@@ -9011,13 +9076,24 @@
 17104#HD Oridecon 50 Box#
 17105#HD Elunium 50 Box#
 17106#Heavy Lifter Box#
+17107#Gemini Crown Scroll#
+17108#Gemini Crown Scroll 10 Box#
+17110#Aquarius Scroll#
 17114#Ancient Horns Box#
 17115#Sprout Hat Box#
 17116#Mercury Riser Box#
+17117#Aries Scroll#
+17120#Taurus Scroll#
+17121#Starry Scroll#
 17122#Immuned Shield Box#
 17123#Black Devil's Mask Box#
 17124#Cat Ears Beret Box#
 17125#Red Bread Hat Box#
+17138#Cancer Scroll#
+17140#Leo Scroll#
+17141#Virgo Scroll#
+17142#Libra Scrol#
+17143#Scorpius Scroll#
 17155#Upgrade Huuma Shuriken Box#
 17159#Name Change Box#
 17246#HD Elunium Box(30)#
@@ -9112,6 +9188,8 @@
 17608#Infinite Giant Fly Wing Box 1Day#
 17609#Smelting Ore Box XI#
 17610#Smelting Ore Box XI(10)#
+17672#Ultimate Box V#
+17673#Ultimate 10set Box V#
 18000#Cannon Ball#
 18001#Holy Cannon Ball#
 18002#Dark Cannon Ball#
@@ -9226,6 +9304,7 @@
 18576#Hat#
 18577#Hat#
 18578#Hat#
+18579#Hat#
 18580#Helmet#
 18581#Hat#
 18582#Hat#
@@ -9520,6 +9599,7 @@
 18878#Hat#
 18879#Hat#
 18880#Hat#
+18882#Hat#
 18883#Hat#
 18885#Hat#
 18886#Hat#
@@ -9574,10 +9654,12 @@
 18946#Hat#
 18953#Hat#
 18956#Mouth Mask#
+18959#Hat#
 18961#Hat#
 18962#Accessory#
 18963#Accessory#
 18964#Helmet#
+18965#Mouth Mask#
 18969#Hat#
 18970#Hat#
 18971#Helmet#
@@ -9594,6 +9676,9 @@
 18982#Helmet#
 18983#Helmet#
 18984#Helmet#
+18985#Mouth Mask#
+18986#Hat#
+18987#Helmet#
 18997#Helmet#
 19012#Hat#
 19014#Hairband#
@@ -9631,6 +9716,7 @@
 19081#Hat#
 19082#Glasses#
 19083#Mask#
+19084#Hat#
 19085#Accessory#
 19086#Glasses#
 19087#Glasses#
@@ -9642,6 +9728,7 @@
 19093#Glasses#
 19094#Mask#
 19095#Accessory#
+19096#Hat#
 19097#Accessory#
 19098#Hat#
 19099#Hat#
@@ -9659,6 +9746,8 @@
 19112#Accessory#
 19113#Glasses#
 19114#Accessory#
+19115#Hat#
+19116#Hat#
 19377#Shiny Marinade Beef#
 19378#Chile Shrimp Gratin#
 19379#Red Mushroom Wine#
@@ -10029,6 +10118,7 @@
 19849#Hat#
 19850#Hat#
 19851#Hat#
+19852#Hat#
 19853#Accessory#
 19855#Hat#
 19856#Hat#
@@ -10563,13 +10653,38 @@
 20432#Helmet#
 20433#Hat#
 20434#Hat#
+20435#Hairband#
+20436#Hat#
+20437#Hairband#
+20438#Mouth Mask#
+20439#Ribbon#
+20440#Hairband#
+20441#Hairband#
+20442#Hairband#
 20447#Hairband#
 20448#Accessory#
 20449#Hairband#
 20450#Hat#
 20451#Hat#
 20452#Hairband#
+20455#Hat#
+20456#Hat#
+20458#Hat#
+20459#Ribbon#
+20460#Hairband#
+20461#Ribbon#
+20462#Hat#
+20463#Hat#
+20464#Ribbon#
+20465#Glasses#
+20466#Ribbon#
+20467#Hat#
+20470#Hat#
 20500#Garment#
+20504#Garment#
+20506#Garment#
+20507#Garment#
+20508#Hairband#
 20700#Garment#
 20701#Garment#
 20702#Manteau#
@@ -10613,9 +10728,12 @@
 20740#Garment#
 20743#Garment#
 20744#Garment#
+20745#Garment#
 20746#Garment#
+20747#Garment#
 20748#Garment#
 20749#Garment#
+20752#Garment#
 20756#Garment#
 20757#Garment#
 20758#Garment#
@@ -10630,9 +10748,16 @@
 20777#Garment#
 20778#Garment#
 20779#Garment#
+20780#Garment#
 20783#Garment#
 20784#Garment#
 20785#Garment#
+20788#Garment#
+20789#Garment#
+20790#Garment#
+20798#Ribbon#
+20801#Garment#
+20802#Garment#
 21000#Two-Handed Sword#
 21001#Two-Handed Sword#
 21002#Two-Handed Sword#
@@ -10652,6 +10777,7 @@
 21016#Two-Handed Sword#
 21018#Two-Handed Sword#
 21019#Two-Handed Sword#
+21023#Two-Handed Sword#
 22000#Shoes#
 22001#Shoes#
 22002#Shoes#
@@ -10704,6 +10830,15 @@
 22073#Shoes#
 22074#Shoes#
 22075#Shoes#
+22076#Shoes#
+22077#Shoes#
+22078#Shoes#
+22079#Shoes#
+22080#Shoes#
+22081#Shoes#
+22083#Shoes#
+22084#Shoes#
+22085#Shoes#
 22089#Shoes#
 22100#Shoes#
 22507#Worn-Out-Scroll#
@@ -10784,6 +10919,7 @@
 22657#Honey Songpyun#
 22658#Cow Steamed Ribs#
 22659#Pig Steamed Ribs#
+22660#Sealed Envelope#
 22669#Halloween Witch's Box#
 22670#Invitation of Darkness#
 22671#March gift box#
@@ -10910,6 +11046,11 @@
 22951#DEX Reduction Potion Box#
 22952#LUK Reduction Potion Box#
 22981#Gear Induction Beacon#
+23076#Enhanced Potion SS#
+23077#Enhanced Potion SC#
+23078#Enhanced Potion AC#
+23115#Class Shadow Cube#
+23116#Shadow Scroll#
 24000#Shadow Armor#
 24001#Shadow Weapon#
 24002#Shadow Shield#
@@ -11167,6 +11308,17 @@
 24254#Shadow Accessory#
 24255#Shadow Accessory#
 24256#Shadow Shoes#
+24257#Shadow Shoes#
+24258#Shadow Shoes#
+24259#Shadow Shoes#
+24260#Shadow Shoes#
+24261#Shadow Shoes#
+24262#Shadow Shoes#
+24263#Shadow Shoes#
+24264#Shadow Shoes#
+24265#Shadow Shoes#
+24266#Shadow Shoes#
+24267#Shadow Shoes#
 25058#Twinkle Effect(Upper)#
 25059#Ghost Effect(Middle)#
 25060#Critical Stone(Middle)#
@@ -11205,9 +11357,26 @@
 25139#Item Appraisal Stone(Lower)#
 25140#Resurrection Stone(Lower)#
 25141#Exp Stone(Middle)#
+25143#Gift Stuffed Doll#
+25144#Bridge Postured Doll#
+25145#Burned Black Demon Doll#
+25146#Cold Blooded Queen Doll#
+25147#Well Eaten Rabbit Doll#
+25148#Cute Starved Demon Doll#
+25149#Doll With Warm Shawl#
+25150#Hugging Alice Pilow#
+25179#Star of Blessing#
+25180#A pair of Old Rings#
+25181#Wooden Rosary#
+25182#Assassin Dagger with Glyph#
+25183#Bow Thimble Decoration#
+25184#Portable Sewing Kit#
+25185#Loki's Pendant#
 26000#Two-Handed Spear#
+26001#Two-Handed Spear#
 26100#One-Handed Staff#
 26101#One-Handed Staff#
+26807#Book#
 28000#Katar#
 28001#Katar#
 28002#Katar#
@@ -11217,6 +11386,7 @@
 28010#Katar#
 28011#Katar#
 28014#Katar#
+28015#Katar#
 28100#Two-Handed Axe#
 28101#Two-Handed Axe#
 28103#Two-Handed Axe#
@@ -11224,15 +11394,19 @@
 28106#Two-Handed Axe#
 28107#Two-Handed Axe#
 28110#Two-Handed Axe#
+28113#Two-Handed Axe#
 28200#Grenade Launcher#
 28201#Grenade Launcher#
 28202#Grenade Launcher#
+28204#Shotgun#
 28306#Accessory#
 28310#Accessory#
 28311#Accessory#
 28319#Accessory#
 28320#Accessory#
 28321#Accessory#
+28322#Accessory#
+28324#Accessory#
 28326#Accessory#
 28327#Accessory#
 28332#Accessory#
@@ -11262,6 +11436,20 @@
 28392#Shadow Accessory#
 28393#Accessory#
 28412#Accessory#
+28413#Accessory#
+28414#Accessory#
+28415#Accessory#
+28416#Accessory#
+28417#Accessory#
+28418#Accessory#
+28419#Accessory#
+28420#Accessory#
+28421#Accessory#
+28422#Accessory#
+28423#Accessory#
+28424#Accessory#
+28425#Accessory#
+28426#Accessory#
 28600#Book#
 28604#Book#
 28605#Book#
@@ -11274,12 +11462,15 @@
 28709#Dagger#
 28712#Dagger#
 28713#Dagger#
+28714#Dagger#
 28900#Shield#
 28901#Shield#
 28902#Shield#
 28903#Shield#
 28904#Shield#
 28905#Shield#
+28913#Shield#
+28914#Shield#
 29000#Rune of Magic Power 1Lv#
 29001#Rune of Magic Power 2Lv#
 29002#Rune of Magic Power 3Lv#
@@ -11327,6 +11518,29 @@
 29055#Delay After Skill1 Lower#
 29056#Reduce Fixed Cast#
 29057#Kyrie Eleison#
+29058#Magic Bead of Flowing Sky Dragon#
+29059#Magic Bead of Breathing Flute Ten Thousand Wave#
+29060#Magic Bead of Cosmic Origin#
+29061#Ambition1Lv#
+29062#Ambition2Lv#
+29063#Ambition3Lv#
+29064#Ambition4Lv#
+29065#Ambition5Lv#
+29066#Ambition6Lv#
+29067#Ambition7Lv#
+29068#Ambition8Lv#
+29069#Ambition9Lv#
+29070#Ambition10Lv#
+29071#Tab1Lv#
+29072#Tab2Lv#
+29073#Tab3Lv#
+29074#Tab4Lv#
+29075#Tab5Lv#
+29076#Tab6Lv#
+29077#Tab7Lv#
+29078#Tab8Lv#
+29079#Tab9Lv#
+29080#Tab10Lv#
 29081#Expect1Lv#
 29082#Expect2Lv#
 29083#Expect3Lv#
@@ -11382,6 +11596,12 @@
 29145#Exp+2%#
 29146#Item Appraisal#
 29147#Ressurection#
+29148#Leo Stone#
+29149#Pisces Stone#
+29150#Capricorn Stone#
+29151#Aquarius Stone#
+29152#Scorpio Stone#
+29153#Taurus Stone#
 29154#Minor Reduce Fixed Cast#
 29155#Lex Aeterna#
 29156#Reduce Variable Cast#
