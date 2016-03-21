@@ -1067,7 +1067,7 @@ End Time#
 %m %d %H#
 Time (Hr)#
 Fee#
-No items found in auction search.#
+No items found in search.#
 Your Sale List is empty.#
 Your Purchase List is empty.#
 Auction Information is incorrect or incomplete.#
@@ -1841,14 +1841,14 @@ Failed to authenticate.#
 User is offline.#
 The age limit from commandment tables cannot connect to this server.#
 Buy#
-Cart is empty.#
+Cancel.#
 First page#
 Last page#
 New#
 Headgears#
 Limited#
-Rental Equipment#
-Permanent Equipment#
+Rental Items#
+Equipments#
 Scrolls#
 Consumables#
 Other#
@@ -2336,7 +2336,7 @@ This is PK region. Minors,Please leave immediately.#
 Fatigue#
 Health and gaming revenue is 100%%.#
 Fatigue because it is now a guest of the gaming revenue is down 50 percent.Hope for the proper health#
-Now because it is a non-health to the health of the guests want to offline games.  If you still are online gaming revenue because the damage to the health of the game falls to 0% again after 5 hours will be restored offline.#
+Now because it is a non-health to the health of the guests want to offline games. If you still are online gaming revenue because the damage to the health of the game falls to 0% again after 5 hours will be restored offline.#
 Online since %d minutes#
 Online Time: %d#
 Online since %d hours and %d minutes#
