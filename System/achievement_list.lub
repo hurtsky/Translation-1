@@ -1,4 +1,4 @@
-achievement_tbl = {
+achievement_tbl_raw = {
 	[110000] = {
 		UI_Type = 0,
 		group = "EAT",
@@ -7,7 +7,7 @@ achievement_tbl = {
 		title = "At this time I live to eat",
 		content = {
 			summary = "The Bullseye midnight snack at 1 AM",
-			details = "Bring the food to Bigfoot at this hour."
+			details = "Bring the food to Bigfoot at this hour.",
 		},
 		resource = {
 			[1] = {
@@ -22,32 +22,32 @@ achievement_tbl = {
 		group = "SEE",
 		major = 4,
 		minor = 0,
-		title = "이것이 극성 팬이다",
+		title = "A fan of this polarity",
 		content = {
-			summary = "극성 팬들의 삶을 엿보기",
-			details = "위그너가에 몰려든 극성 팬들을 모두 만나 보자",
+			summary = "Peeking in the lives of polarity fans",
+			details = "Let's meet all the gathered polarity fans of Wigner.",
 		},
 		resource = {
 			[1] = {
-				text = "양갓집 규수",
+				text = "Lady of the house",
 			},
 			[2] = {
-				text = "곱디 고운 아낙",
+				text = "Beautiful fine anak",
 			},
 			[3] = {
-				text = "분위기있는 아씨",
+				text = "Mistress in ambience",
 			},
 			[4] = {
-				text = "아리따운 처자",
+				text = "Beautiful wife and children",
 			},
 			[5] = {
-				text = "아랫마을 총각",
+				text = "Down town Bachelor",
 			},
 			[6] = {
-				text = "행동력 최고의 아낙",
+				text = "Great act ability anak",
 			},
 			[7] = {
-				text = "전투력 최고의 총각",
+				text = "Great attack power bachelor",
 			},
 		},
 		reward = {},
@@ -60,12 +60,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "North Prontera Field Exploration(1)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding North Prontera Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding north prontera field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding North Prontera Field",
+				text = "Discover the treasure surrounding north prontera field",
 			},
 		},
 		reward = {
@@ -80,12 +80,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "North Prontera Field Exploration(2)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding North Prontera Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding north prontera field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding North Prontera Field",
+				text = "Discover the treasure surrounding north prontera field",
 			},
 		},
 		reward = {
@@ -100,12 +100,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "North Prontera Field Exploration(3)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding North Prontera Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding north prontera field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding North Prontera Field",
+				text = "Discover the treasure surrounding north prontera field",
 			},
 		},
 		reward = {
@@ -120,12 +120,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "West Prontera Field Exploration(1)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding West Prontera Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding west prontera field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding West Prontera Field",
+				text = "Discover the treasure surrounding west prontera field",
 			},
 		},
 		reward = {
@@ -140,12 +140,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "West Prontera Field Exploration(2)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding West Prontera Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding west prontera field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding West Prontera Field",
+				text = "Discover the treasure surrounding west prontera field",
 			},
 		},
 		reward = {
@@ -160,12 +160,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "East Prontera Field Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding East Prontera Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding east prontera field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding East Prontera Field",
+				text = "Discover the treasure surrounding east prontera field",
 			},
 		},
 		reward = {
@@ -180,12 +180,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "South Prontera Field Exploration(1)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding South Prontera Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding south prontera field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding South Prontera Field",
+				text = "Discover the treasure surrounding south prontera field",
 			},
 		},
 		reward = {
@@ -200,12 +200,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "South Prontera Field Exploration(2)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding South Prontera Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding south prontera field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding South Prontera Field",
+				text = "Discover the treasure surrounding south prontera field",
 			},
 		},
 		reward = {
@@ -220,12 +220,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "South Prontera Field Exploration(3)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding South Prontera Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding south prontera field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding South Prontera Field",
+				text = "Discover the treasure surrounding south prontera field",
 			},
 		},
 		reward = {
@@ -240,12 +240,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "South Prontera Field Exploration(4)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding South Prontera Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding south prontera field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding South Prontera Field",
+				text = "Discover the treasure surrounding south prontera field",
 			},
 		},
 		reward = {
@@ -260,12 +260,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "East Geffen Field Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding East Geffen Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding east geffen field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding East Geffen Field",
+				text = "Discover the treasure surrounding east geffen field",
 			},
 		},
 		reward = {
@@ -278,14 +278,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "SouthEast Geffen Field Exploration",
+		title = "Southeast Geffen Field Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding SouthEast Geffen Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding southeast geffen field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding SouthEast Geffen Field",
+				text = "Discover the treasure surrounding southeast geffen field",
 			},
 		},
 		reward = {
@@ -298,14 +298,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "NorthWest Geffen Field Exploration(1)",
+		title = "Northwest Geffen Field Exploration(1)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding NorthWest Geffen Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding northwest geffen field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding NorthWest Geffen Field",
+				text = "Discover the treasure surrounding northwest geffen field",
 			},
 		},
 		reward = {
@@ -318,14 +318,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "NorthWest Geffen Field Exploration(2)",
+		title = "Northwest Geffen Field Exploration(2)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding NorthWest Geffen Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding northwest geffen field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding NorthWest Geffen Field",
+				text = "Discover the treasure surrounding northwest geffen field",
 			},
 		},
 		reward = {
@@ -338,14 +338,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "NorthWest Geffen Field Exploration(3)",
+		title = "Northwest Geffen Field Exploration(3)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding NorthWest Geffen Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding northwest geffen field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding NorthWest Geffen Field",
+				text = "Discover the treasure surrounding northwest geffen field",
 			},
 		},
 		reward = {
@@ -360,12 +360,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "South Geffen Field Exploration(1)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding South Geffen Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding south geffen field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding South Geffen Field",
+				text = "Discover the treasure surrounding south geffen field",
 			},
 		},
 		reward = {
@@ -380,12 +380,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "South Geffen Field Exploration(2)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding South Geffen Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding south geffen field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding South Geffen Field",
+				text = "Discover the treasure surrounding south geffen field",
 			},
 		},
 		reward = {
@@ -400,12 +400,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "Sograt Desert Field Exploration(1)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding sograt desert Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding sograt desert field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding sograt desert Field",
+				text = "Discover the treasure surrounding sograt desert field",
 			},
 		},
 		reward = {
@@ -420,12 +420,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "Sograt Desert Field Exploration(2)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding sograt desert Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding sograt desert field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding sograt desert Field",
+				text = "Discover the treasure surrounding sograt desert field",
 			},
 		},
 		reward = {
@@ -440,12 +440,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "Sograt Desert Field Exploration(3)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding sograt desert Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding sograt desert field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding sograt desert Field",
+				text = "Discover the treasure surrounding sograt desert field",
 			},
 		},
 		reward = {
@@ -460,12 +460,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "Sograt Desert Field Exploration(4)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding sograt desert Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding sograt desert field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding sograt desert Field",
+				text = "Discover the treasure surrounding sograt desert field",
 			},
 		},
 		reward = {
@@ -480,12 +480,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "Sograt Desert Field Exploration(5)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding sograt desert Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding sograt desert field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding sograt desert Field",
+				text = "Discover the treasure surrounding sograt desert field",
 			},
 		},
 		reward = {
@@ -500,12 +500,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "Sograt Desert Field Exploration(6)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding sograt desert Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding sograt desert field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding sograt desert Field",
+				text = "Discover the treasure surrounding sograt desert field",
 			},
 		},
 		reward = {
@@ -518,14 +518,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "SouthWest Payon Field Exploration(1)",
+		title = "Southwest Payon Field Exploration(1)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding SouthWest Payon Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding southwest payon field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding SouthWest Payon Field",
+				text = "Discover the treasure surrounding southwest payon field",
 			},
 		},
 		reward = {
@@ -538,14 +538,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "SouthWest Payon Field Exploration(2)",
+		title = "Southwest Payon Field Exploration(2)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding SouthWest Payon Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding southwest payon field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding SouthWest Payon Field",
+				text = "Discover the treasure surrounding southwest payon field",
 			},
 		},
 		reward = {
@@ -558,14 +558,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "SouthWest Payon Field Exploration(3)",
+		title = "Southwest Payon Field Exploration(3)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding SouthWest Payon Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding southwest payon field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding SouthWest Payon Field",
+				text = "Discover the treasure surrounding southwest payon field",
 			},
 		},
 		reward = {
@@ -578,14 +578,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "SouthWest Payon Field Exploration(4)",
+		title = "Southwest Payon Field Exploration(4)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding SouthWest Payon Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding southwest payon field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding SouthWest Payon Field",
+				text = "Discover the treasure surrounding southwest payon field",
 			},
 		},
 		reward = {
@@ -600,12 +600,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "East Payon Field Exploration(1)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding East Payon Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding east payon field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding East Payon Field",
+				text = "Discover the treasure surrounding east payon field",
 			},
 		},
 		reward = {
@@ -620,12 +620,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "East Payon Field Exploration(2)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding East Payon Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding east payon field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding East Payon Field",
+				text = "Discover the treasure surrounding east payon field",
 			},
 		},
 		reward = {
@@ -640,12 +640,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "East Payon Field Exploration(3)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding East Payon Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding east payon field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding East Payon Field",
+				text = "Discover the treasure surrounding east payon field",
 			},
 		},
 		reward = {
@@ -660,12 +660,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "East Payon Field Exploration(4)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding East Payon Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding east payon field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding East Payon Field",
+				text = "Discover the treasure surrounding east payon field",
 			},
 		},
 		reward = {
@@ -680,12 +680,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "North Mjolnir Field Exploration(1)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding North Mjolnir Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding north mjolnir field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding North Mjolnir Field",
+				text = "Discover the treasure surrounding north mjolnir field",
 			},
 		},
 		reward = {
@@ -700,12 +700,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "North Mjolnir Field Exploration(2)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding North Mjolnir Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding north mjolnir field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding North Mjolnir Field",
+				text = "Discover the treasure surrounding north mjolnir field",
 			},
 		},
 		reward = {
@@ -720,12 +720,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "North Mjolnir Field Exploration(3)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding North Mjolnir Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding north mjolnir field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding North Mjolnir Field",
+				text = "Discover the treasure surrounding north mjolnir field",
 			},
 		},
 		reward = {
@@ -740,12 +740,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "North Mjolnir Field Exploration(4)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding North Mjolnir Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding north mjolnir field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding North Mjolnir Field",
+				text = "Discover the treasure surrounding north mjolnir field",
 			},
 		},
 		reward = {
@@ -760,12 +760,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "North Mjolnir Field Exploration(5)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding North Mjolnir Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding north mjolnir field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding North Mjolnir Field",
+				text = "Discover the treasure surrounding north mjolnir field",
 			},
 		},
 		reward = {
@@ -780,12 +780,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "South Mjolnir Field Exploration(1)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding South Mjolnir Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding south mjolnir field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding South Mjolnir Field",
+				text = "Discover the treasure surrounding south mjolnir field",
 			},
 		},
 		reward = {
@@ -800,12 +800,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "South Mjolnir Field Exploration(2)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding South Mjolnir Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding south mjolnir field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding South Mjolnir Field",
+				text = "Discover the treasure surrounding south mjolnir field",
 			},
 		},
 		reward = {
@@ -820,12 +820,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "South Mjolnir Field Exploration(3)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding South Mjolnir Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding south mjolnir field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding South Mjolnir Field",
+				text = "Discover the treasure surrounding south mjolnir field",
 			},
 		},
 		reward = {
@@ -840,12 +840,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "South Mjolnir Field Exploration(4)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding South Mjolnir Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding south mjolnir field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding South Mjolnir Field",
+				text = "Discover the treasure surrounding south mjolnir field",
 			},
 		},
 		reward = {
@@ -860,12 +860,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "South Mjolnir Field Exploration(5)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding South Mjolnir Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding south mjolnir field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding South Mjolnir Field",
+				text = "Discover the treasure surrounding south mjolnir field",
 			},
 		},
 		reward = {
@@ -880,12 +880,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "South Mjolnir Field Exploration(6)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding South Mjolnir Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding south mjolnir field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding South Mjolnir Field",
+				text = "Discover the treasure surrounding south mjolnir field",
 			},
 		},
 		reward = {
@@ -900,12 +900,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "South Aldebaran Field Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding South aldebaran Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding south aldebaran field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding South aldebaran Field",
+				text = "Discover the treasure surrounding south aldebaran field",
 			},
 		},
 		reward = {
@@ -920,12 +920,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "Comodo Field Exploration(1)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Comodo Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding comodo field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Comodo Field",
+				text = "Discover the treasure surrounding comodo field",
 			},
 		},
 		reward = {
@@ -940,12 +940,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "Comodo Field Exploration(2)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Comodo Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding comodo field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Comodo Field",
+				text = "Discover the treasure surrounding comodo field",
 			},
 		},
 		reward = {
@@ -960,12 +960,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "Comodo Field Exploration(3)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Comodo Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding comodo field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Comodo Field",
+				text = "Discover the treasure surrounding comodo field",
 			},
 		},
 		reward = {
@@ -980,12 +980,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "Comodo Field Exploration(4)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Comodo Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding comodo field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Comodo Field",
+				text = "Discover the treasure surrounding comodo field",
 			},
 		},
 		reward = {
@@ -1000,12 +1000,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "Comodo Field Exploration(5)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Comodo Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding comodo field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Comodo Field",
+				text = "Discover the treasure surrounding comodo field",
 			},
 		},
 		reward = {
@@ -1020,12 +1020,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "Comodo Field Exploration(6)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Comodo Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding comodo field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Comodo Field",
+				text = "Discover the treasure surrounding comodo field",
 			},
 		},
 		reward = {
@@ -1040,12 +1040,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "Comodo Field Exploration(7)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Comodo Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding comodo field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Comodo Field",
+				text = "Discover the treasure surrounding comodo field",
 			},
 		},
 		reward = {
@@ -1060,12 +1060,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "Comodo Field Exploration(8)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Comodo Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding comodo field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Comodo Field",
+				text = "Discover the treasure surrounding comodo field",
 			},
 		},
 		reward = {
@@ -1080,12 +1080,12 @@ achievement_tbl = {
 		minor = 1,
 		title = "Border Checkpoint Field Exploration(1)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Border Checkpoint Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding border checkpoint field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Border Checkpoint Field",
+				text = "Discover the treasure surrounding border checkpoint field",
 			},
 		},
 		reward = {
@@ -1100,12 +1100,12 @@ achievement_tbl = {
 		minor = 1,
 		title = "Border Checkpoint Field Exploration(2)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Border Checkpoint Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding border checkpoint field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Border Checkpoint Field",
+				text = "Discover the treasure surrounding border checkpoint field",
 			},
 		},
 		reward = {
@@ -1120,12 +1120,12 @@ achievement_tbl = {
 		minor = 1,
 		title = "Kiel Hyre Mansion Field Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Kiel Hyre Mansion Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding kiel hyre mansion field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Kiel Hyre Mansion Field",
+				text = "Discover the treasure surrounding kiel hyre mansion field",
 			},
 		},
 		reward = {
@@ -1140,12 +1140,12 @@ achievement_tbl = {
 		minor = 1,
 		title = "El Mes Plateau Field Exploration(1)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding El Mes Plateau Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding el mes plateau field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding El Mes Plateau Field",
+				text = "Discover the treasure surrounding el mes plateau field",
 			},
 		},
 		reward = {
@@ -1160,12 +1160,12 @@ achievement_tbl = {
 		minor = 1,
 		title = "El Mes Plateau Field Exploration(2)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding El Mes Plateau Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding el mes plateau field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding El Mes Plateau Field",
+				text = "Discover the treasure surrounding el mes plateau field",
 			},
 		},
 		reward = {
@@ -1180,12 +1180,12 @@ achievement_tbl = {
 		minor = 1,
 		title = "El Mes Plateau Field Exploration(3)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding El Mes Plateau Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding el mes plateau field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding El Mes Plateau Field",
+				text = "Discover the treasure surrounding el mes plateau field",
 			},
 		},
 		reward = {
@@ -1200,12 +1200,12 @@ achievement_tbl = {
 		minor = 1,
 		title = "El Mes Gorge Field Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding El Mes Gorge Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding el mes gorge field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding El Mes Gorge Field",
+				text = "Discover the treasure surrounding el mes gorge field",
 			},
 		},
 		reward = {
@@ -1220,12 +1220,12 @@ achievement_tbl = {
 		minor = 1,
 		title = "Kiel Hyre Academy Field Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Kiel Hyre Academy Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding kiel hyre academy field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Kiel Hyre Academy Field",
+				text = "Discover the treasure surrounding kiel hyre academy field",
 			},
 		},
 		reward = {
@@ -1240,12 +1240,12 @@ achievement_tbl = {
 		minor = 1,
 		title = "Guard Camp Field Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Guard Camp Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding guard camp field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Guard Camp Field",
+				text = "Discover the treasure surrounding guard camp field",
 			},
 		},
 		reward = {
@@ -1260,12 +1260,12 @@ achievement_tbl = {
 		minor = 1,
 		title = "Yuno Field Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Yuno Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding yuno field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Yuno Field",
+				text = "Discover the treasure surrounding yuno field",
 			},
 		},
 		reward = {
@@ -1280,12 +1280,12 @@ achievement_tbl = {
 		minor = 1,
 		title = "Front of Thanatos Tower Field Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Front of Thanatos Tower Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding front of thanatos tower field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Front of Thanatos Tower Field",
+				text = "Discover the treasure surrounding front of thanatos tower field",
 			},
 		},
 		reward = {
@@ -1300,12 +1300,12 @@ achievement_tbl = {
 		minor = 1,
 		title = "Hugel Field Exploration(1)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Hugel Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding hugel field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Hugel Field",
+				text = "Discover the treasure surrounding hugel field",
 			},
 		},
 		reward = {
@@ -1320,12 +1320,12 @@ achievement_tbl = {
 		minor = 1,
 		title = "Hugel Field Exploration(2)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Hugel Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding hugel field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Hugel Field",
+				text = "Discover the treasure surrounding hugel field",
 			},
 		},
 		reward = {
@@ -1340,12 +1340,12 @@ achievement_tbl = {
 		minor = 1,
 		title = "Hugel Field Exploration(3)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Hugel Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding hugel field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Hugel Field",
+				text = "Discover the treasure surrounding hugel field",
 			},
 		},
 		reward = {
@@ -1360,12 +1360,12 @@ achievement_tbl = {
 		minor = 1,
 		title = "Abyss Lake Field Exploration(1)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Abyss Lake Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding abyss lake field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Abyss Lake Field",
+				text = "Discover the treasure surrounding abyss lake field",
 			},
 		},
 		reward = {
@@ -1380,12 +1380,12 @@ achievement_tbl = {
 		minor = 1,
 		title = "Einbroch Field Exploration(1)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Einbroch Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding Einbroch field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Einbroch Field",
+				text = "Discover the treasure surrounding Einbroch field",
 			},
 		},
 		reward = {
@@ -1400,12 +1400,12 @@ achievement_tbl = {
 		minor = 1,
 		title = "Einbroch Field Exploration(2)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Einbroch Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding Einbroch field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Einbroch Field",
+				text = "Discover the treasure surrounding Einbroch field",
 			},
 		},
 		reward = {
@@ -1420,12 +1420,12 @@ achievement_tbl = {
 		minor = 1,
 		title = "Einbroch Field Exploration(3)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Einbroch Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding Einbroch field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Einbroch Field",
+				text = "Discover the treasure surrounding Einbroch field",
 			},
 		},
 		reward = {
@@ -1440,12 +1440,12 @@ achievement_tbl = {
 		minor = 1,
 		title = "Einbroch Field Exploration(4)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Einbroch Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding Einbroch field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Einbroch Field",
+				text = "Discover the treasure surrounding Einbroch field",
 			},
 		},
 		reward = {
@@ -1460,12 +1460,12 @@ achievement_tbl = {
 		minor = 1,
 		title = "Einbroch Field Exploration(5)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Einbroch Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding Einbroch field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Einbroch Field",
+				text = "Discover the treasure surrounding Einbroch field",
 			},
 		},
 		reward = {
@@ -1480,12 +1480,12 @@ achievement_tbl = {
 		minor = 1,
 		title = "Einbroch Field Exploration(6)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Einbroch Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding Einbroch field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Einbroch Field",
+				text = "Discover the treasure surrounding Einbroch field",
 			},
 		},
 		reward = {
@@ -1500,12 +1500,12 @@ achievement_tbl = {
 		minor = 1,
 		title = "Einbroch Field Exploration(7)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Einbroch Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding Einbroch field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Einbroch Field",
+				text = "Discover the treasure surrounding Einbroch field",
 			},
 		},
 		reward = {
@@ -1520,12 +1520,12 @@ achievement_tbl = {
 		minor = 1,
 		title = "Einbroch Field Exploration(8)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Einbroch Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding Einbroch field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Einbroch Field",
+				text = "Discover the treasure surrounding Einbroch field",
 			},
 		},
 		reward = {
@@ -1540,12 +1540,12 @@ achievement_tbl = {
 		minor = 1,
 		title = "Lighthalzen Field Exploration(1)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Lighthalzen Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding lighthalzen field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Lighthalzen Field",
+				text = "Discover the treasure surrounding lighthalzen field",
 			},
 		},
 		reward = {
@@ -1560,12 +1560,12 @@ achievement_tbl = {
 		minor = 1,
 		title = "Lighthalzen Field Exploration(2)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Lighthalzen Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding lighthalzen field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Lighthalzen Field",
+				text = "Discover the treasure surrounding lighthalzen field",
 			},
 		},
 		reward = {
@@ -1580,12 +1580,12 @@ achievement_tbl = {
 		minor = 1,
 		title = "Lighthalzen Field Exploration(3)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Lighthalzen Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding lighthalzen field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Lighthalzen Field",
+				text = "Discover the treasure surrounding lighthalzen field",
 			},
 		},
 		reward = {
@@ -1600,12 +1600,12 @@ achievement_tbl = {
 		minor = 2,
 		title = "Rachel Audhumbla Plains Field Exploration(1)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Rachel Audhumbla Plains Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding rachel audhumbla plains field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Rachel Audhumbla Plains Field",
+				text = "Discover the treasure surrounding rachel audhumbla plains field",
 			},
 		},
 		reward = {
@@ -1620,12 +1620,12 @@ achievement_tbl = {
 		minor = 2,
 		title = "Rachel Plains Field Exploration(1)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Rachel Plains Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding rachel plains field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Rachel Plains Field",
+				text = "Discover the treasure surrounding rachel plains field",
 			},
 		},
 		reward = {
@@ -1640,12 +1640,12 @@ achievement_tbl = {
 		minor = 2,
 		title = "Rachel Plains Field Exploration(2)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Rachel Plains Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding rachel plains field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Rachel Plains Field",
+				text = "Discover the treasure surrounding rachel plains field",
 			},
 		},
 		reward = {
@@ -1660,12 +1660,12 @@ achievement_tbl = {
 		minor = 2,
 		title = "Rachel Plains Field Exploration(3)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Rachel Plains Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding rachel plains field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Rachel Plains Field",
+				text = "Discover the treasure surrounding rachel plains field",
 			},
 		},
 		reward = {
@@ -1680,12 +1680,12 @@ achievement_tbl = {
 		minor = 2,
 		title = "Rachel Audhumbla Grassland Field Exploration(1)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Rachel Audhumbla Grassland Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding rachel audhumbla grassland field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Rachel Audhumbla Grassland Field",
+				text = "Discover the treasure surrounding rachel audhumbla grassland field",
 			},
 		},
 		reward = {
@@ -1700,12 +1700,12 @@ achievement_tbl = {
 		minor = 2,
 		title = "Rachel Audhumbla Grassland Field Exploration(2)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Rachel Audhumbla Grassland Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding rachel audhumbla grassland field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Rachel Audhumbla Grassland Field",
+				text = "Discover the treasure surrounding rachel audhumbla grassland field",
 			},
 		},
 		reward = {
@@ -1720,12 +1720,12 @@ achievement_tbl = {
 		minor = 2,
 		title = "Portus Luna Field Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Portus Luna Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding portus luna field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Portus Luna Field",
+				text = "Discover the treasure surrounding portus luna field",
 			},
 		},
 		reward = {
@@ -1740,12 +1740,12 @@ achievement_tbl = {
 		minor = 2,
 		title = "Veins Field Exploration(1)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Veins Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding veins field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Veins Field",
+				text = "Discover the treasure surrounding veins field",
 			},
 		},
 		reward = {
@@ -1760,12 +1760,12 @@ achievement_tbl = {
 		minor = 2,
 		title = "Veins Field Exploration(2)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Veins Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding veins field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Veins Field",
+				text = "Discover the treasure surrounding veins field",
 			},
 		},
 		reward = {
@@ -1780,12 +1780,12 @@ achievement_tbl = {
 		minor = 2,
 		title = "Veins Field Exploration(3)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Veins Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding veins field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Veins Field",
+				text = "Discover the treasure surrounding veins field",
 			},
 		},
 		reward = {
@@ -1800,12 +1800,12 @@ achievement_tbl = {
 		minor = 2,
 		title = "Veins Field Exploration(4)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Veins Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding veins field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Veins Field",
+				text = "Discover the treasure surrounding veins field",
 			},
 		},
 		reward = {
@@ -1820,12 +1820,12 @@ achievement_tbl = {
 		minor = 2,
 		title = "Veins Field Exploration(5)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Veins Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding veins field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Veins Field",
+				text = "Discover the treasure surrounding veins field",
 			},
 		},
 		reward = {
@@ -1840,12 +1840,12 @@ achievement_tbl = {
 		minor = 3,
 		title = "Eclage Field Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Eclage Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding eclage field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Eclage Field",
+				text = "Discover the treasure surrounding eclage field",
 			},
 		},
 		reward = {
@@ -1858,14 +1858,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "North Bifrost Field Exploration(1)",
+		title = "North Bitfrost Field Exploration(1)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding North Bifrost Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding north bitfrost field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding North Bifrost Field",
+				text = "Discover the treasure surrounding north bitfrost field",
 			},
 		},
 		reward = {
@@ -1878,14 +1878,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "South Bifrost Field Exploration(1)",
+		title = "South Bitfrost Field Exploration(1)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding South Bifrost Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding south bitfrost field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding South Bifrost Field",
+				text = "Discover the treasure surrounding south bitfrost field",
 			},
 		},
 		reward = {
@@ -1900,12 +1900,12 @@ achievement_tbl = {
 		minor = 3,
 		title = "Splendide Field Exploration(1)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Splendide Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding splendide field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Splendide Field",
+				text = "Discover the treasure surrounding splendide field",
 			},
 		},
 		reward = {
@@ -1920,12 +1920,12 @@ achievement_tbl = {
 		minor = 3,
 		title = "Splendide Field Exploration(2)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Splendide Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding splendide field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Splendide Field",
+				text = "Discover the treasure surrounding splendide field",
 			},
 		},
 		reward = {
@@ -1940,12 +1940,12 @@ achievement_tbl = {
 		minor = 3,
 		title = "Splendide Field Exploration(3)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Splendide Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding splendide field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Splendide Field",
+				text = "Discover the treasure surrounding splendide field",
 			},
 		},
 		reward = {
@@ -1960,12 +1960,12 @@ achievement_tbl = {
 		minor = 3,
 		title = "Manuk Field Exploration(1)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Manuk Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding manuk field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Manuk Field",
+				text = "Discover the treasure surrounding manuk field",
 			},
 		},
 		reward = {
@@ -1980,12 +1980,12 @@ achievement_tbl = {
 		minor = 3,
 		title = "Manuk Field Exploration(2)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Manuk Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding manuk field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Manuk Field",
+				text = "Discover the treasure surrounding manuk field",
 			},
 		},
 		reward = {
@@ -2000,12 +2000,12 @@ achievement_tbl = {
 		minor = 3,
 		title = "Manuk Field Exploration(3)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Manuk Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding manuk field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Manuk Field",
+				text = "Discover the treasure surrounding manuk field",
 			},
 		},
 		reward = {
@@ -2020,12 +2020,12 @@ achievement_tbl = {
 		minor = 3,
 		title = "Outskirts of Kamidal Field Exploration(1)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Outskirts of Kamidal Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding outskirts of kamidal field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Outskirts of Kamidal Field",
+				text = "Discover the treasure surrounding outskirts of kamidal field",
 			},
 		},
 		reward = {
@@ -2040,12 +2040,12 @@ achievement_tbl = {
 		minor = 3,
 		title = "Outskirts of Kamidal Field Exploration(2)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Outskirts of Kamidal Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding outskirts of kamidal field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Outskirts of Kamidal Field",
+				text = "Discover the treasure surrounding outskirts of kamidal field",
 			},
 		},
 		reward = {
@@ -2060,12 +2060,12 @@ achievement_tbl = {
 		minor = 4,
 		title = "Amatsu Field Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Amatsu Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding amatsu field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Amatsu Field",
+				text = "Discover the treasure surrounding amatsu field",
 			},
 		},
 		reward = {
@@ -2080,12 +2080,12 @@ achievement_tbl = {
 		minor = 4,
 		title = "Kunlun Field Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Kunlun Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding kunlun field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Kunlun Field",
+				text = "Discover the treasure surrounding kunlun field",
 			},
 		},
 		reward = {
@@ -2100,12 +2100,12 @@ achievement_tbl = {
 		minor = 4,
 		title = "Gonryun Field Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Gonryun Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding gonryun field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Gonryun Field",
+				text = "Discover the treasure surrounding gonryun field",
 			},
 		},
 		reward = {
@@ -2120,12 +2120,12 @@ achievement_tbl = {
 		minor = 4,
 		title = "Ayothaya Field Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Ayothaya Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding ayothaya field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Ayothaya Field",
+				text = "Discover the treasure surrounding ayothaya field",
 			},
 		},
 		reward = {
@@ -2140,12 +2140,12 @@ achievement_tbl = {
 		minor = 4,
 		title = "Moscovia Field Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Moscovia Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding moscovia field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Moscovia Field",
+				text = "Discover the treasure surrounding moscovia field",
 			},
 		},
 		reward = {
@@ -2160,12 +2160,12 @@ achievement_tbl = {
 		minor = 4,
 		title = "Brasilis Field Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Brasilis Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding brasilis field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Brasilis Field",
+				text = "Discover the treasure surrounding brasilis field",
 			},
 		},
 		reward = {
@@ -2180,12 +2180,12 @@ achievement_tbl = {
 		minor = 4,
 		title = "Dewata Field Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Dewata Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding dewata field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Dewata Field",
+				text = "Discover the treasure surrounding dewata field",
 			},
 		},
 		reward = {
@@ -2200,12 +2200,12 @@ achievement_tbl = {
 		minor = 4,
 		title = "Malaya Field Exploration(1)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Malaya Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding malaya field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Malaya Field",
+				text = "Discover the treasure surrounding malaya field",
 			},
 		},
 		reward = {
@@ -2220,12 +2220,12 @@ achievement_tbl = {
 		minor = 4,
 		title = "Malaya Field Exploration(2)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Malaya Field",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding malaya field",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Malaya Field",
+				text = "Discover the treasure surrounding malaya field",
 			},
 		},
 		reward = {
@@ -2240,12 +2240,12 @@ achievement_tbl = {
 		minor = 5,
 		title = "Abbey Underground Dungeon Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Abbey Underground Dungeon",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding abbey underground dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Abbey Underground Dungeon",
+				text = "Discover the treasure surrounding abbey underground dungeon",
 			},
 		},
 		reward = {
@@ -2260,12 +2260,12 @@ achievement_tbl = {
 		minor = 5,
 		title = "Abyss Lake Dungeon Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Abyss Lake Dungeon",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding abyss lake dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Abyss Lake Dungeon",
+				text = "Discover the treasure surrounding abyss lake dungeon",
 			},
 		},
 		reward = {
@@ -2280,12 +2280,12 @@ achievement_tbl = {
 		minor = 5,
 		title = "Clock Tower Dungeon Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Clock Tower Dungeon",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding clock tower dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Clock Tower Dungeon",
+				text = "Discover the treasure surrounding clock tower dungeon",
 			},
 		},
 		reward = {
@@ -2300,12 +2300,12 @@ achievement_tbl = {
 		minor = 5,
 		title = "Amatsu Dungeon Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Amatsu Dungeon",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding amatsu dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Amatsu Dungeon",
+				text = "Discover the treasure surrounding amatsu dungeon",
 			},
 		},
 		reward = {
@@ -2318,14 +2318,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "AntHell Dungeon Exploration",
+		title = "Ant Hell Dungeon Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding AntHell Dungeon",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding ant hell dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding AntHell Dungeon",
+				text = "Discover the treasure surrounding ant hell dungeon",
 			},
 		},
 		reward = {
@@ -2340,12 +2340,12 @@ achievement_tbl = {
 		minor = 5,
 		title = "Ayothaya Dungeon Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Ayothaya Dungeon",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding ayothaya dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Ayothaya Dungeon",
+				text = "Discover the treasure surrounding ayothaya dungeon",
 			},
 		},
 		reward = {
@@ -2360,12 +2360,12 @@ achievement_tbl = {
 		minor = 5,
 		title = "Comodo Dungeon Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Comodo Dungeon",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding comodo dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Comodo Dungeon",
+				text = "Discover the treasure surrounding comodo dungeon",
 			},
 		},
 		reward = {
@@ -2380,12 +2380,12 @@ achievement_tbl = {
 		minor = 5,
 		title = "Brasilis Dungeon Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Brasilis Dungeon",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding brasilis dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Brasilis Dungeon",
+				text = "Discover the treasure surrounding brasilis dungeon",
 			},
 		},
 		reward = {
@@ -2400,12 +2400,12 @@ achievement_tbl = {
 		minor = 5,
 		title = "Clock Tower Dungeon Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Clock Tower Dungeon",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding clock tower dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Clock Tower Dungeon",
+				text = "Discover the treasure surrounding clock tower dungeon",
 			},
 		},
 		reward = {
@@ -2420,12 +2420,12 @@ achievement_tbl = {
 		minor = 5,
 		title = "Istana Dungeon Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Istana Dungeon",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding istana dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Istana Dungeon",
+				text = "Discover the treasure surrounding istana dungeon",
 			},
 		},
 		reward = {
@@ -2440,12 +2440,12 @@ achievement_tbl = {
 		minor = 5,
 		title = "Scaraba Hole Dungeon Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Scaraba Hole Dungeon",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding scaraba hole dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Scaraba Hole Dungeon",
+				text = "Discover the treasure surrounding scaraba hole dungeon",
 			},
 		},
 		reward = {
@@ -2458,14 +2458,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Bifrost Dungeon Exploration",
+		title = "Bitfrost Dungeon Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Bifrost Dungeon",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding bitfrost dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Bifrost Dungeon",
+				text = "Discover the treasure surrounding bitfrost dungeon",
 			},
 		},
 		reward = {
@@ -2480,12 +2480,12 @@ achievement_tbl = {
 		minor = 5,
 		title = "Einbroch Dungeon Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Einbroch Dungeon",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding einbroch dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Einbroch Dungeon",
+				text = "Discover the treasure surrounding einbroch dungeon",
 			},
 		},
 		reward = {
@@ -2500,12 +2500,12 @@ achievement_tbl = {
 		minor = 5,
 		title = "Geffen Underground Dungeon Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Geffen Underground Dungeon",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding geffen underground dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Geffen Underground Dungeon",
+				text = "Discover the treasure surrounding geffen underground dungeon",
 			},
 		},
 		reward = {
@@ -2520,12 +2520,12 @@ achievement_tbl = {
 		minor = 5,
 		title = "Glastheim Dungeon Exploration(1)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Glastheim Dungeon",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding glastheim dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Glastheim Dungeon",
+				text = "Discover the treasure surrounding glastheim dungeon",
 			},
 		},
 		reward = {
@@ -2540,12 +2540,12 @@ achievement_tbl = {
 		minor = 5,
 		title = "Glastheim Dungeon Exploration(2)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Glastheim Dungeon",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding glastheim dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Glastheim Dungeon",
+				text = "Discover the treasure surrounding glastheim dungeon",
 			},
 		},
 		reward = {
@@ -2560,12 +2560,12 @@ achievement_tbl = {
 		minor = 5,
 		title = "Glastheim Dungeon Exploration(3)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Glastheim Dungeon",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding glastheim dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Glastheim Dungeon",
+				text = "Discover the treasure surrounding glastheim dungeon",
 			},
 		},
 		reward = {
@@ -2580,12 +2580,12 @@ achievement_tbl = {
 		minor = 5,
 		title = "Glastheim Dungeon Exploration(4)",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Glastheim Dungeon",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding glastheim dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Glastheim Dungeon",
+				text = "Discover the treasure surrounding glastheim dungeon",
 			},
 		},
 		reward = {
@@ -2600,12 +2600,12 @@ achievement_tbl = {
 		minor = 5,
 		title = "Kunlun Dungeon Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Kunlun Dungeon",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding Kunlun dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Kunlun Dungeon",
+				text = "Discover the treasure surrounding Kunlun dungeon",
 			},
 		},
 		reward = {
@@ -2620,12 +2620,12 @@ achievement_tbl = {
 		minor = 5,
 		title = "Rachel Dungeon Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Rachel Dungeon",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding rachel dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Rachel Dungeon",
+				text = "Discover the treasure surrounding rachel dungeon",
 			},
 		},
 		reward = {
@@ -2640,12 +2640,12 @@ achievement_tbl = {
 		minor = 5,
 		title = "Sphinx Dungeon Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Sphinx Dungeon",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding sphinx dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Sphinx Dungeon",
+				text = "Discover the treasure surrounding sphinx dungeon",
 			},
 		},
 		reward = {
@@ -2660,12 +2660,12 @@ achievement_tbl = {
 		minor = 5,
 		title = "Izlude Dungeon Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Izlude Dungeon",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding izlude dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Izlude Dungeon",
+				text = "Discover the treasure surrounding izlude dungeon",
 			},
 		},
 		reward = {
@@ -2678,14 +2678,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Machine Doll Factory Dungeon Exploration",
+		title = "Robot Factory Dungeon Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Machine Doll Factory Dungeon",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding robot factory dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Machine Doll Factory Dungeon",
+				text = "Discover the treasure surrounding robot factory dungeon",
 			},
 		},
 		reward = {
@@ -2698,14 +2698,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "BioLab Dungeon Exploration",
+		title = "Bio Lab Dungeon Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding BioLab Dungeon",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding bio lab dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding BioLab Dungeon",
+				text = "Discover the treasure surrounding bio lab dungeon",
 			},
 		},
 		reward = {
@@ -2720,12 +2720,12 @@ achievement_tbl = {
 		minor = 5,
 		title = "Gonryun Dungeon Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Gonryun Dungeon",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding gonryun dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Gonryun Dungeon",
+				text = "Discover the treasure surrounding gonryun dungeon",
 			},
 		},
 		reward = {
@@ -2738,14 +2738,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Nydhogg Dungeon Exploration",
+		title = "Nogg Road Dungeon Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Nydhogg Dungeon",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding nogg road dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Nydhogg Dungeon",
+				text = "Discover the treasure surrounding nogg road dungeon",
 			},
 		},
 		reward = {
@@ -2758,14 +2758,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Abandoned Mine Dungeon Exploration",
+		title = "Coal Mine Dungeon Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Abandoned Mine Dungeon",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding Coal mine dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Abandoned Mine Dungeon",
+				text = "Discover the treasure surrounding Coal mine dungeon",
 			},
 		},
 		reward = {
@@ -2780,12 +2780,12 @@ achievement_tbl = {
 		minor = 5,
 		title = "Pyramid Dungeon Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Pyramid Dungeon",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding pyramid dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Pyramid Dungeon",
+				text = "Discover the treasure surrounding pyramid dungeon",
 			},
 		},
 		reward = {
@@ -2798,14 +2798,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Orc Underground Dungeon Exploration",
+		title = "Orc Dungeon Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Orc Underground Dungeon",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding orc dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Orc Underground Dungeon",
+				text = "Discover the treasure surrounding orc dungeon",
 			},
 		},
 		reward = {
@@ -2820,12 +2820,12 @@ achievement_tbl = {
 		minor = 5,
 		title = "Payon Dungeon Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Payon Dungeon",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding payon dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Payon Dungeon",
+				text = "Discover the treasure surrounding payon dungeon",
 			},
 		},
 		reward = {
@@ -2840,12 +2840,12 @@ achievement_tbl = {
 		minor = 5,
 		title = "Labyrinth Dungeon Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Labyrinth Dungeon",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding labyrinth dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Labyrinth Dungeon",
+				text = "Discover the treasure surrounding labyrinth dungeon",
 			},
 		},
 		reward = {
@@ -2860,12 +2860,12 @@ achievement_tbl = {
 		minor = 5,
 		title = "Undersea Tunnel Dungeon Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Undersea Tunnel Dungeon",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding undersea tunnel dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Undersea Tunnel Dungeon",
+				text = "Discover the treasure surrounding undersea tunnel dungeon",
 			},
 		},
 		reward = {
@@ -2880,12 +2880,12 @@ achievement_tbl = {
 		minor = 5,
 		title = "Thanatos Tower Dungeon Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Thanatos Tower Dungeon",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding thanatos tower dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Thanatos Tower Dungeon",
+				text = "Discover the treasure surrounding thanatos tower dungeon",
 			},
 		},
 		reward = {
@@ -2900,12 +2900,12 @@ achievement_tbl = {
 		minor = 5,
 		title = "Thor Volcano Dungeon Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Thor Volcano Dungeon",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding thor volcano dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Thor Volcano Dungeon",
+				text = "Discover the treasure surrounding thor volcano dungeon",
 			},
 		},
 		reward = {
@@ -2920,12 +2920,12 @@ achievement_tbl = {
 		minor = 5,
 		title = "Sunken Ship Dungeon Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Sunken Ship Dungeon",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding sunken ship dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Sunken Ship Dungeon",
+				text = "Discover the treasure surrounding sunken ship dungeon",
 			},
 		},
 		reward = {
@@ -2940,12 +2940,12 @@ achievement_tbl = {
 		minor = 5,
 		title = "Turtle Dungeon Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Turtle Dungeon",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding turtle dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Turtle Dungeon",
+				text = "Discover the treasure surrounding turtle dungeon",
 			},
 		},
 		reward = {
@@ -2960,12 +2960,12 @@ achievement_tbl = {
 		minor = 5,
 		title = "Toy Factory Dungeon Exploration",
 		content = {
-			summary = "Discover Hidden Treasure",
-			details = "Discover the treasure surrounding Toy Factory Dungeon",
+			summary = "Discover hidden treasure",
+			details = "Discover the treasure surrounding toy factory dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "Discover the treasure surrounding Toy Factory Dungeon",
+				text = "Discover the treasure surrounding toy factory dungeon",
 			},
 		},
 		reward = {
@@ -2978,30 +2978,30 @@ achievement_tbl = {
 		group = "CHATTING",
 		major = 4,
 		minor = 1,
-		title = "프론테라 공헌도",
+		title = "Prontera Contribution",
 		content = {
-			summary = "룬 미드가츠 대도시 명성",
-			details = "당신에 대한 프론테라의 평가",
+			summary = "Rune Midgard metropolitan reputation",
+			details = "Prontera evaluation about you",
 		},
 		resource = {
 			[1] = {
-				text = "이방인",
+				text = "Stranger",
 				count = 3000,
 			},
 			[2] = {
-				text = "마을 새내기",
+				text = "Village Freshman",
 				count = 6000,
 			},
 			[3] = {
-				text = "이웃 사촌",
+				text = "Neighbor",
 				count = 12000,
 			},
 			[4] = {
-				text = "저명 인사",
+				text = "Celebrity",
 				count = 20000,
 			},
 			[5] = {
-				text = "도시의 권력자",
+				text = "City Dictator",
 				count = 1000,
 			},
 		},
@@ -3012,30 +3012,30 @@ achievement_tbl = {
 		group = "CHATTING",
 		major = 4,
 		minor = 1,
-		title = "게펜 공헌도",
+		title = "Geffen Contribution",
 		content = {
-			summary = "룬 미드가츠 대도시 명성",
-			details = "당신에 대한 게펜의 평가",
+			summary = "Rune Midgard metropolitan reputation",
+			details = "Geffen evaluation about you",
 		},
 		resource = {
 			[1] = {
-				text = "이방인",
+				text = "Stranger",
 				count = 3000,
 			},
 			[2] = {
-				text = "마을 새내기",
+				text = "Village Freshman",
 				count = 6000,
 			},
 			[3] = {
-				text = "이웃 사촌",
+				text = "Neighbor",
 				count = 12000,
 			},
 			[4] = {
-				text = "저명 인사",
+				text = "Celebrity",
 				count = 20000,
 			},
 			[5] = {
-				text = "도시의 권력자",
+				text = "City Dictator",
 				count = 1000,
 			},
 		},
@@ -3046,30 +3046,30 @@ achievement_tbl = {
 		group = "CHATTING",
 		major = 4,
 		minor = 1,
-		title = "모로크 공헌도",
+		title = "Morocc Contribution",
 		content = {
-			summary = "룬 미드가츠 대도시 명성",
-			details = "당신에 대한 모로크의 평가",
+			summary = "Rune Midgard metropolitan reputation",
+			details = "Morocc evaluation about you",
 		},
 		resource = {
 			[1] = {
-				text = "이방인",
+				text = "Stranger",
 				count = 3000,
 			},
 			[2] = {
-				text = "마을 새내기",
+				text = "Village Freshman",
 				count = 6000,
 			},
 			[3] = {
-				text = "이웃 사촌",
+				text = "Neighbor",
 				count = 12000,
 			},
 			[4] = {
-				text = "저명 인사",
+				text = "Celebrity",
 				count = 20000,
 			},
 			[5] = {
-				text = "도시의 권력자",
+				text = "City Dictator",
 				count = 1000,
 			},
 		},
@@ -3080,30 +3080,30 @@ achievement_tbl = {
 		group = "CHATTING",
 		major = 4,
 		minor = 1,
-		title = "페이욘 공헌도",
+		title = "Payon Contribution",
 		content = {
-			summary = "룬 미드가츠 대도시 명성",
-			details = "당신에 대한 페이욘의 평가",
+			summary = "Rune Midgard metropolitan reputation",
+			details = "Payon evaluation about you",
 		},
 		resource = {
 			[1] = {
-				text = "이방인",
+				text = "Stranger",
 				count = 3000,
 			},
 			[2] = {
-				text = "마을 새내기",
+				text = "Village Freshman",
 				count = 6000,
 			},
 			[3] = {
-				text = "이웃 사촌",
+				text = "Neighbor",
 				count = 12000,
 			},
 			[4] = {
-				text = "저명 인사",
+				text = "Celebrity",
 				count = 20000,
 			},
 			[5] = {
-				text = "도시의 권력자",
+				text = "City Dictator",
 				count = 1000,
 			},
 		},
@@ -3114,30 +3114,30 @@ achievement_tbl = {
 		group = "CHATTING",
 		major = 4,
 		minor = 1,
-		title = "유노 공헌도",
+		title = "Yuno Contribution",
 		content = {
-			summary = "슈발츠발드 대도시 명성",
-			details = "당신에 대한 유노의 평가",
+			summary = "Schwartzvald metropolitan reputation",
+			details = "Yuno evaluation about you",
 		},
 		resource = {
 			[1] = {
-				text = "이방인",
+				text = "Stranger",
 				count = 3000,
 			},
 			[2] = {
-				text = "마을 새내기",
+				text = "Village Freshman",
 				count = 6000,
 			},
 			[3] = {
-				text = "이웃 사촌",
+				text = "Neighbor",
 				count = 12000,
 			},
 			[4] = {
-				text = "저명 인사",
+				text = "Celebrity",
 				count = 20000,
 			},
 			[5] = {
-				text = "도시의 권력자",
+				text = "City Dictator",
 				count = 1000,
 			},
 		},
@@ -3148,30 +3148,30 @@ achievement_tbl = {
 		group = "CHATTING",
 		major = 4,
 		minor = 1,
-		title = "리히타르젠 공헌도",
+		title = "Lighthalzen Contribution",
 		content = {
-			summary = "슈발츠발드 대도시 명성",
-			details = "당신에 대한 리히타르젠의 평가",
+			summary = "Schwartzvald metropolitan reputation",
+			details = "Lighthalzen evaluation about you",
 		},
 		resource = {
 			[1] = {
-				text = "이방인",
+				text = "Stranger",
 				count = 3000,
 			},
 			[2] = {
-				text = "마을 새내기",
+				text = "Village Freshman",
 				count = 6000,
 			},
 			[3] = {
-				text = "이웃 사촌",
+				text = "Neighbor",
 				count = 12000,
 			},
 			[4] = {
-				text = "저명 인사",
+				text = "Celebrity",
 				count = 20000,
 			},
 			[5] = {
-				text = "도시의 권력자",
+				text = "City Dictator",
 				count = 1000,
 			},
 		},
@@ -3182,30 +3182,30 @@ achievement_tbl = {
 		group = "CHATTING",
 		major = 4,
 		minor = 1,
-		title = "아인브로크 공헌도",
+		title = "Einbroch Contribution",
 		content = {
-			summary = "슈발츠발드 대도시 명성",
-			details = "당신에 대한 아인브로크의 평가",
+			summary = "Schwartzvald metropolitan reputation",
+			details = "Einbroch evaluation about you",
 		},
 		resource = {
 			[1] = {
-				text = "이방인",
+				text = "Stranger",
 				count = 3000,
 			},
 			[2] = {
-				text = "마을 새내기",
+				text = "Village Freshman",
 				count = 6000,
 			},
 			[3] = {
-				text = "이웃 사촌",
+				text = "Neighbor",
 				count = 12000,
 			},
 			[4] = {
-				text = "저명 인사",
+				text = "Celebrity",
 				count = 20000,
 			},
 			[5] = {
-				text = "도시의 권력자",
+				text = "City Dictator",
 				count = 1000,
 			},
 		},
@@ -3216,30 +3216,30 @@ achievement_tbl = {
 		group = "CHATTING",
 		major = 4,
 		minor = 1,
-		title = "라헬 공헌도",
+		title = "Rachel Contribution",
 		content = {
-			summary = "아루나펠츠 대도시 명성",
-			details = "당신에 대한 라헬의 평가",
+			summary = "Arunafeltz metropolitan reputation",
+			details = "Rachel evaluation about you",
 		},
 		resource = {
 			[1] = {
-				text = "이방인",
+				text = "Stranger",
 				count = 3000,
 			},
 			[2] = {
-				text = "마을 새내기",
+				text = "Village Freshman",
 				count = 6000,
 			},
 			[3] = {
-				text = "이웃 사촌",
+				text = "Neighbor",
 				count = 12000,
 			},
 			[4] = {
-				text = "저명 인사",
+				text = "Celebrity",
 				count = 20000,
 			},
 			[5] = {
-				text = "도시의 권력자",
+				text = "City Dictator",
 				count = 1000,
 			},
 		},
@@ -3250,30 +3250,30 @@ achievement_tbl = {
 		group = "CHATTING",
 		major = 4,
 		minor = 1,
-		title = "베인스 공헌도",
+		title = "Veins Contribution",
 		content = {
-			summary = "아루나펠츠 대도시 명성",
-			details = "당신에 대한 베인스의 평가",
+			summary = "Arunafeltz metropolitan reputation",
+			details = "Veins evaluation about you",
 		},
 		resource = {
 			[1] = {
-				text = "이방인",
+				text = "Stranger",
 				count = 3000,
 			},
 			[2] = {
-				text = "마을 새내기",
+				text = "Village Freshman",
 				count = 6000,
 			},
 			[3] = {
-				text = "이웃 사촌",
+				text = "Neighbor",
 				count = 12000,
 			},
 			[4] = {
-				text = "저명 인사",
+				text = "Celebrity",
 				count = 20000,
 			},
 			[5] = {
-				text = "도시의 권력자",
+				text = "City Dictator",
 				count = 1000,
 			},
 		},
@@ -3550,7 +3550,7 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 2,
-		title = "Hard to digest meat",
+		title = "Digest hard meat",
 		content = {
 			summary = "Eliminate Buwaya",
 			details = "Proceed until the end of the Dungeon",
@@ -3607,7 +3607,7 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 1,
-		title = "Stood up the overcame despair",
+		title = "Stood up and overcame despair",
 		content = {
 			summary = "Eliminate God of Despair Morocc",
 			details = "Proceed until the end of the Dungeon",
@@ -3702,14 +3702,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 1,
-		title = "모로크의 군대에 자비는 있었다",
+		title = "There was mercy in Morocc army",
 		content = {
-			summary = "모로크의 네크로맨서 처치",
+			summary = "Eliminate Morocc necromancer",
 			details = "Proceed until the end of the Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "모로크의 네크로맨서 1회 처치",
+				text = "Eliminate 1 Morocc necromancer",
 				count = 1,
 			},
 		},
@@ -3721,14 +3721,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 1,
-		title = "모로크의 군대에 두려움도 있었다.",
+		title = "There was fear in Morocc army",
 		content = {
-			summary = "모로크의 네크로맨서 처치",
+			summary = "Eliminate Morocc necromancer",
 			details = "Proceed until the end of the Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "모로크의 네크로맨서 10회 처치",
+				text = "Eliminate Morocc 10 necromancer",
 				count = 10,
 			},
 		},
@@ -3740,14 +3740,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 1,
-		title = "수문장이 약골이군",
+		title = "Guard of weak army",
 		content = {
-			summary = "모로크의 네크로맨서 처치",
+			summary = "Eliminate Morocc necromancer",
 			details = "Proceed until the end of the Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "모로크의 네크로맨서 50회 처치",
+				text = "Eliminate Morocc 50 necromancer",
 				count = 50,
 			},
 		},
@@ -3759,14 +3759,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "여왕님을 알현합니다.",
+		title = "Audience with the queen",
 		content = {
-			summary = "페이스웜 퀸 처치",
+			summary = "Eliminate Faceworm Queen",
 			details = "Proceed until the end of the Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "페이스웜 퀸 1회 처치",
+				text = "Eliminate 1 Faceworm Queen",
 				count = 1,
 			},
 		},
@@ -3778,14 +3778,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "포근한 대지",
+		title = "Warm earth",
 		content = {
-			summary = "지속성 페이스웜 퀸 처치",
+			summary = "Eliminate Earth Faceworm Queen",
 			details = "Proceed until the end of the Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "지속성 페이스웜 퀸 1회 처치",
+				text = "Eliminate 1 Earth Faceworm Queen",
 				count = 1,
 			},
 		},
@@ -3797,14 +3797,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "물이 아주 딱 좋아",
+		title = "Water is very good exactly",
 		content = {
-			summary = "수속성 페이스웜 퀸 처치",
+			summary = "Eliminate Water Faceworm Queen",
 			details = "Proceed until the end of the Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "수속성 페이스웜 퀸 1회 처치",
+				text = "Eliminate 1 Water Faceworm Queen",
 				count = 1,
 			},
 		},
@@ -3816,14 +3816,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "기분좋은 바람",
+		title = "Pleasant breeze",
 		content = {
-			summary = "풍속성 페이스웜 퀸 처치",
+			summary = "Eliminate Wind Faceworm Queen",
 			details = "Proceed until the end of the Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "풍속성 페이스웜 퀸 1회 처치",
+				text = "Eliminate 1 Wind Faceworm Queen",
 				count = 1,
 			},
 		},
@@ -3835,14 +3835,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "낡은 성의 방문자",
+		title = "Visitor of old castle",
 		content = {
-			summary = "암다라이스 처치",
+			summary = "Eliminate Amdarais",
 			details = "Proceed until the end of the Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "암다라이스 1회 처치",
+				text = "Eliminate 1 Amdarais",
 				count = 1,
 			},
 		},
@@ -3854,14 +3854,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "낡은 성의 군주",
+		title = "Lord of old castle",
 		content = {
-			summary = "암다라이스 처치",
+			summary = "Eliminate Amdarais",
 			details = "Proceed until the end of the Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "암다라이스 10회 처치",
+				text = "Eliminate 10 Amdarais",
 				count = 10,
 			},
 		},
@@ -3873,14 +3873,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "낡은 성의 정복자",
+		title = "Conqueror of old castle",
 		content = {
-			summary = "암다라이스 처치",
+			summary = "Eliminate Amdarais",
 			details = "Proceed until the end of the Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "암다라이스 50회 처치",
+				text = "Eliminate 50 Amdarais",
 				count = 50,
 			},
 		},
@@ -3892,14 +3892,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "매서운 풋내기",
+		title = "Haggard sucker",
 		content = {
-			summary = "암다라이스(상급) 처치",
+			summary = "Eliminate Amdarais (Superior)",
 			details = "Proceed until the end of the Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "암다라이스(상급) 1회 처치",
+				text = "Eliminate 1 Amdarais (Superior)",
 				count = 1,
 			},
 		},
@@ -3911,14 +3911,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "기사단의 희망",
+		title = "Hope of the Knight",
 		content = {
-			summary = "암다라이스(상급) 처치",
+			summary = "Eliminate Amdarais (Superior)",
 			details = "Proceed until the end of the Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "암다라이스(상급) 10회 처치",
+				text = "Eliminate 10 Amdarais (Superior)",
 				count = 10,
 			},
 		},
@@ -3930,14 +3930,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "여명의 수호자",
+		title = "Guardian of the Dawn",
 		content = {
-			summary = "암다라이스(상급) 처치",
+			summary = "Eliminate Amdarais (Superior)",
 			details = "Proceed until the end of the Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "암다라이스(상급) 50회 처치",
+				text = "Eliminate 50 Amdarais (Superior)",
 				count = 50,
 			},
 		},
@@ -3949,14 +3949,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "시간 여행자",
+		title = "Time Traveler",
 		content = {
-			summary = "사라 아이린 처치",
+			summary = "Eliminate Sarah Irene",
 			details = "Proceed until the end of the Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "사라 아이린 1회 처치",
+				text = "Eliminate 1 Sarah Irene",
 				count = 1,
 			},
 		},
@@ -3968,14 +3968,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "고대 유물 복원가",
+		title = "Restore ancient relic",
 		content = {
-			summary = "사라 아이린 처치",
+			summary = "Eliminate Sarah Irene",
 			details = "Proceed until the end of the Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "사라 아이린 10회 처치",
+				text = "Eliminate 10 Sarah Irene",
 				count = 10,
 			},
 		},
@@ -3987,14 +3987,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "유물 운반의 달인",
+		title = "Master of relic transport",
 		content = {
-			summary = "사라 아이린 처치",
+			summary = "Eliminate Sarah Irene",
 			details = "Proceed until the end of the Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "사라 아이린 50회 처치",
+				text = "Eliminate 50 Sarah Irene",
 				count = 50,
 			},
 		},
@@ -4006,14 +4006,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "선장에게 본때 보이기",
+		title = "Show Jailbreak to the captain",
 		content = {
-			summary = "펠록 처치",
+			summary = "Eliminate Ferlock",
 			details = "Proceed until the end of the Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "펠록 1회 처치",
+				text = "Eliminate 1 Ferlock",
 				count = 1,
 			},
 		},
@@ -4025,14 +4025,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "조금 약골 선장에게 본때 보이기",
+		title = "Show Jailbreak to the weak captain",
 		content = {
-			summary = "펠록 처치",
+			summary = "Eliminate Ferlock",
 			details = "Proceed until the end of the Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "펠록 1회 처치",
+				text = "Eliminate 1 Ferlock",
 				count = 1,
 			},
 		},
@@ -4044,14 +4044,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "선상 폭동",
+		title = "Riot on board",
 		content = {
-			summary = "펠록 처치",
+			summary = "Eliminate Ferlock",
 			details = "Proceed until the end of the Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "펠록 10회 처치",
+				text = "Eliminate 10 Ferlock",
 				count = 10,
 			},
 		},
@@ -4063,14 +4063,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "선상의 소동",
+		title = "Turmoil on board",
 		content = {
-			summary = "펠록 처치",
+			summary = "Eliminate Ferlock",
 			details = "Proceed until the end of the Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "펠록 10회 처치",
+				text = "Eliminate 10 Ferlock",
 				count = 10,
 			},
 		},
@@ -4082,14 +4082,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "선상 반란",
+		title = "Rebellion on board",
 		content = {
-			summary = "펠록 처치",
+			summary = "Eliminate Ferlock",
 			details = "Proceed until the end of the Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "펠록 50회 처치",
+				text = "Eliminate 50 Ferlock",
 				count = 50,
 			},
 		},
@@ -4101,14 +4101,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "반란같은 폭동",
+		title = "Revolt of Riot",
 		content = {
-			summary = "펠록 처치",
+			summary = "Eliminate Ferlock",
 			details = "Proceed until the end of the Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "펠록 50회 처치",
+				text = "Eliminate 50 Ferlock",
 				count = 50,
 			},
 		},
@@ -4120,14 +4120,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "마법대회 우승자",
+		title = "Magic tournament champion",
 		content = {
-			summary = "펜릴 처치",
+			summary = "Eliminate Fenrir",
 			details = "Proceed until the end of the Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "펜릴 1회 처치",
+				text = "Eliminate 1 Fenrir",
 				count = 1,
 			},
 		},
@@ -4139,14 +4139,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "콜로세움의 검투사",
+		title = "Gladiator of Coliseum",
 		content = {
-			summary = "펜릴 처치",
+			summary = "Eliminate Fenrir",
 			details = "Proceed until the end of the Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "펜릴 10회 처치",
+				text = "Eliminate 10 Fenrir",
 				count = 10,
 			},
 		},
@@ -4158,14 +4158,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "콜로세움의 학살자",
+		title = "Slayer of Colosseum",
 		content = {
-			summary = "펜릴 처치",
+			summary = "Eliminate Fenrir",
 			details = "Proceed until the end of the Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "펜릴 50회 처치",
+				text = "Eliminate 50 Fenrir",
 				count = 50,
 			},
 		},
@@ -4177,14 +4177,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "엔들리스 타워의 도전자",
+		title = "Endless Tower challenger",
 		content = {
-			summary = "나흐트지거 처치",
+			summary = "Eliminate Naght Sieger",
 			details = "Proceed until the end of the Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "나흐트지거 1회 처치",
+				text = "Eliminate 1 Naght Sieger",
 				count = 1,
 			},
 		},
@@ -4196,14 +4196,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "엔들리스 타워의 학살자",
+		title = "Endless Tower Slayer",
 		content = {
-			summary = "나흐트지거 처치",
+			summary = "Eliminate Naght Sieger",
 			details = "Proceed until the end of the Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "나흐트지거 10회 처치",
+				text = "Eliminate 10 Naght Sieger",
 				count = 10,
 			},
 		},
@@ -4215,14 +4215,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "탑의 군주",
+		title = "Lord of the tower",
 		content = {
-			summary = "나흐트지거 처치",
+			summary = "Eliminate Naght Sieger",
 			details = "Proceed until the end of the Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "나흐트지거 50회 처치",
+				text = "Eliminate 50 Naght Sieger",
 				count = 50,
 			},
 		},
@@ -4234,14 +4234,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "초보 퇴마사",
+		title = "Novice Exorcist",
 		content = {
-			summary = "벙웅곳 영혼의 기둥 처치",
+			summary = "Eliminate Bangungot soul pillar",
 			details = "Proceed until the end of the Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "벙웅곳 영혼의 기둥 1회 처치",
+				text = "Eliminate 1 Bangungot soul pillar",
 				count = 1,
 			},
 		},
@@ -4253,14 +4253,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "숙련 퇴마사",
+		title = "Experienced Exorcist",
 		content = {
-			summary = "벙웅곳 영혼의 기둥 처치",
+			summary = "Eliminate Bangungot soul pillar",
 			details = "Proceed until the end of the Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "벙웅곳 영혼의 기둥 10회 처치",
+				text = "Eliminate 10 Bangungot soul pillar",
 				count = 10,
 			},
 		},
@@ -4272,14 +4272,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "전설적인 퇴마사",
+		title = "Legendary Exorcist",
 		content = {
-			summary = "벙웅곳 영혼의 기둥 처치",
+			summary = "Eliminate Bangungot soul pillar",
 			details = "Proceed until the end of the Dungeon",
 		},
 		resource = {
 			[1] = {
-				text = "벙웅곳 영혼의 기둥 50회 처치",
+				text = "Eliminate 50 Bangungot soul pillar",
 				count = 50,
 			},
 		},
@@ -4293,8 +4293,8 @@ achievement_tbl = {
 		minor = 0,
 		title = "Prontera Explorer",
 		content = {
-			summary = "Field exploration objective completed",
-			details = "Exploring Prontera completed",
+			summary = "Complete field exploration objectives",
+			details = "Complete exploring surrounding Prontera",
 		},
 		resource = {
 			[1] = {
@@ -4350,8 +4350,8 @@ achievement_tbl = {
 		minor = 0,
 		title = "Geffen Explorer",
 		content = {
-			summary = "Field exploration objective completed",
-			details = "Exploring Geffen completed",
+			summary = "Complete field exploration objectives",
+			details = "Complete exploring surrounding Geffen",
 		},
 		resource = {
 			[1] = {
@@ -4359,19 +4359,19 @@ achievement_tbl = {
 				shortcut = 120011,
 			},
 			[2] = {
-				text = "SouthEast Geffen Field Exploration(1) completed",
+				text = "Southeast Geffen Field Exploration(1) completed",
 				shortcut = 120012,
 			},
 			[3] = {
-				text = "NorthWest Geffen Field Exploration(1) completed",
+				text = "Northwest Geffen Field Exploration(1) completed",
 				shortcut = 120013,
 			},
 			[4] = {
-				text = "NorthWest Geffen Field Exploration(2) completed",
+				text = "Northwest Geffen Field Exploration(2) completed",
 				shortcut = 120014,
 			},
 			[5] = {
-				text = "NorthWest Geffen Field Exploration(3) completed",
+				text = "Northwest Geffen Field Exploration(3) completed",
 				shortcut = 120015,
 			},
 			[6] = {
@@ -4395,8 +4395,8 @@ achievement_tbl = {
 		minor = 0,
 		title = "Sograt Desert Explorer",
 		content = {
-			summary = "Field exploration objective completed",
-			details = "Exploring Sograt Desert completed",
+			summary = "Complete field exploration objectives",
+			details = "Complete exploring surrounding Sograt Desert",
 		},
 		resource = {
 			[1] = {
@@ -4436,24 +4436,24 @@ achievement_tbl = {
 		minor = 0,
 		title = "Payon Explorer",
 		content = {
-			summary = "Field exploration objective completed",
-			details = "Exploring Payon completed",
+			summary = "Complete field exploration objectives",
+			details = "Complete exploring surrounding Payon",
 		},
 		resource = {
 			[1] = {
-				text = "SouthWest Payon Field Exploration(1) completed",
+				text = "Southwest Payon Field Exploration(1) completed",
 				shortcut = 120024,
 			},
 			[2] = {
-				text = "SouthWest Payon Field Exploration(2) completed",
+				text = "Southwest Payon Field Exploration(2) completed",
 				shortcut = 120025,
 			},
 			[3] = {
-				text = "SouthWest Payon Field Exploration(3) completed",
+				text = "Southwest Payon Field Exploration(3) completed",
 				shortcut = 120026,
 			},
 			[4] = {
-				text = "SouthWest Payon Field Exploration(4) completed",
+				text = "Southwest Payon Field Exploration(4) completed",
 				shortcut = 120027,
 			},
 			[5] = {
@@ -4485,8 +4485,8 @@ achievement_tbl = {
 		minor = 0,
 		title = "North Mjolnir Explorer",
 		content = {
-			summary = "Field exploration objective completed",
-			details = "Exploring North Mjolnir completed",
+			summary = "Complete field exploration objectives",
+			details = "Complete exploring surrounding North Mjolnir",
 		},
 		resource = {
 			[1] = {
@@ -4522,8 +4522,8 @@ achievement_tbl = {
 		minor = 0,
 		title = "South Mjolnir Explorer",
 		content = {
-			summary = "Field exploration objective completed",
-			details = "Exploring South Mjolnir completed",
+			summary = "Complete field exploration objectives",
+			details = "Complete exploring surrounding South Mjolnir",
 		},
 		resource = {
 			[1] = {
@@ -4567,8 +4567,8 @@ achievement_tbl = {
 		minor = 0,
 		title = "Comodo Explorer",
 		content = {
-			summary = "Field exploration objective completed",
-			details = "Exploring Comodo completed",
+			summary = "Complete field exploration objectives",
+			details = "Complete exploring surrounding Comodo",
 		},
 		resource = {
 			[1] = {
@@ -4616,8 +4616,8 @@ achievement_tbl = {
 		minor = 0,
 		title = "Rune Midgard Explorer",
 		content = {
-			summary = "Field exploration objective completed",
-			details = "Exploring Rune Midgard completed",
+			summary = "Complete field exploration objectives",
+			details = "Complete exploring surrounding Rune Midgard",
 		},
 		resource = {
 			[1] = {
@@ -4661,8 +4661,8 @@ achievement_tbl = {
 		minor = 1,
 		title = "Yuno Explorer",
 		content = {
-			summary = "Field exploration objective completed",
-			details = "Exploring Yuno completed",
+			summary = "Complete field exploration objectives",
+			details = "Complete exploring surrounding Yuno",
 		},
 		resource = {
 			[1] = {
@@ -4718,8 +4718,8 @@ achievement_tbl = {
 		minor = 1,
 		title = "Hugel Explorer",
 		content = {
-			summary = "Field exploration objective completed",
-			details = "Exploring Hugel completed",
+			summary = "Complete field exploration objectives",
+			details = "Complete exploring surrounding Hugel",
 		},
 		resource = {
 			[1] = {
@@ -4755,8 +4755,8 @@ achievement_tbl = {
 		minor = 1,
 		title = "Einbroch Explorer",
 		content = {
-			summary = "Field exploration objective completed",
-			details = "Exploring Einbroch completed",
+			summary = "Complete field exploration objectives",
+			details = "Complete exploring surrounding Einbroch",
 		},
 		resource = {
 			[1] = {
@@ -4804,8 +4804,8 @@ achievement_tbl = {
 		minor = 1,
 		title = "Lighthalzen Explorer",
 		content = {
-			summary = "Field exploration objective completed",
-			details = "Exploring Lighthalzen completed",
+			summary = "Complete field exploration objectives",
+			details = "Complete exploring surrounding Lighthalzen",
 		},
 		resource = {
 			[1] = {
@@ -4833,8 +4833,8 @@ achievement_tbl = {
 		minor = 1,
 		title = "Schwarzwald Explorer",
 		content = {
-			summary = "Field exploration objective completed",
-			details = "Exploring Schwarzwald completed",
+			summary = "Complete field exploration objectives",
+			details = "Complete exploring surrounding Schwarzwald",
 		},
 		resource = {
 			[1] = {
@@ -4866,8 +4866,8 @@ achievement_tbl = {
 		minor = 2,
 		title = "Rachel Explorer",
 		content = {
-			summary = "Field exploration objective completed",
-			details = "Exploring Rachel completed",
+			summary = "Complete field exploration objectives",
+			details = "Complete exploring surrounding Rachel",
 		},
 		resource = {
 			[1] = {
@@ -4911,8 +4911,8 @@ achievement_tbl = {
 		minor = 2,
 		title = "Veins Explorer",
 		content = {
-			summary = "Field exploration objective completed",
-			details = "Exploring Veins completed",
+			summary = "Complete field exploration objectives",
+			details = "Complete exploring surrounding Veins",
 		},
 		resource = {
 			[1] = {
@@ -4948,8 +4948,8 @@ achievement_tbl = {
 		minor = 2,
 		title = "Arunafeltz Explorer",
 		content = {
-			summary = "Field exploration objective completed",
-			details = "Exploring Arunafeltz completed",
+			summary = "Complete field exploration objectives",
+			details = "Complete exploring surrounding Arunafeltz",
 		},
 		resource = {
 			[1] = {
@@ -4973,8 +4973,8 @@ achievement_tbl = {
 		minor = 3,
 		title = "Laphine Explorer",
 		content = {
-			summary = "Field exploration objective completed",
-			details = "Exploring Laphine completed",
+			summary = "Complete field exploration objectives",
+			details = "Complete exploring surrounding Laphine",
 		},
 		resource = {
 			[1] = {
@@ -4982,11 +4982,11 @@ achievement_tbl = {
 				shortcut = 120090,
 			},
 			[2] = {
-				text = "North Bifrost Field Exploration(1) completed",
+				text = "North Bitfrost Field Exploration(1) completed",
 				shortcut = 120091,
 			},
 			[3] = {
-				text = "South Bifrost Field Exploration(1) completed",
+				text = "South Bitfrost Field Exploration(1) completed",
 				shortcut = 120092,
 			},
 			[4] = {
@@ -5014,8 +5014,8 @@ achievement_tbl = {
 		minor = 3,
 		title = "Manuk Explorer",
 		content = {
-			summary = "Field exploration objective completed",
-			details = "Exploring Manuk completed",
+			summary = "Complete field exploration objectives",
+			details = "Complete exploring surrounding Manuk",
 		},
 		resource = {
 			[1] = {
@@ -5049,10 +5049,10 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "이계의 탐험가",
+		title = "Eclage Explorer",
 		content = {
-			summary = "Field exploration objective completed",
-			details = "이계 주변 탐험 완료",
+			summary = "Complete field exploration objectives",
+			details = "Complete exploring surrounding Eclage",
 		},
 		resource = {
 			[1] = {
@@ -5076,8 +5076,8 @@ achievement_tbl = {
 		minor = 4,
 		title = "Localizing fields explorer",
 		content = {
-			summary = "Field exploration objective completed",
-			details = "Exploring Localizing fields completed",
+			summary = "Complete field exploration objectives",
+			details = "Complete exploring surrounding Localizing fields",
 		},
 		resource = {
 			[1] = {
@@ -5127,32 +5127,32 @@ achievement_tbl = {
 		group = "CHATTING",
 		major = 4,
 		minor = 0,
-		title = "사교계 데뷔",
+		title = "Socialite debut",
 		content = {
-			summary = "일곱 왕가 방문하기",
-			details = "동쪽과 서쪽 별궁에 기거하는 일곱 왕가를 방문해 존재감을 드러내세요.",
+			summary = "Visit the Seven Royal Family",
+			details = "Visit the seven Royal Family in the east and west detached palace.",
 		},
 		resource = {
 			[1] = {
-				text = "하이네 가문을 방문해 첫 대화 나누기",
+				text = "Visit Heine Royal Family and start conversation",
 			},
 			[2] = {
-				text = "네리우스 가문을 방문해 첫 대화 나누기",
+				text = "Visit Nerius Royal Family and start conversation",
 			},
 			[3] = {
-				text = "발터 가문을 방문해 첫 대화 나누기",
+				text = "Visit Walter Royal Family and start conversation",
 			},
 			[4] = {
-				text = "위그너 가문을 방문해 첫 대화 나누기",
+				text = "Visit Wigner Royal Family and start conversation",
 			},
 			[5] = {
-				text = "리하르트 가문을 방문해 첫 대화 나누기",
+				text = "Visit Richard Royal Family and start conversation",
 			},
 			[6] = {
-				text = "게오보르그 가문을 방문해 첫 대화 나누기",
+				text = "Visit Gaebolg Royal Family and start conversation",
 			},
 			[7] = {
-				text = "뢰겐부르그 가문을 방문해 첫 대화 나누기",
+				text = "Visit Lugenburg Royal Family and start conversation",
 			},
 		},
 		reward = {
@@ -5165,14 +5165,14 @@ achievement_tbl = {
 		group = "HEAR",
 		major = 4,
 		minor = 0,
-		title = "방송 사고는 아닙니다",
+		title = "Song chamber is not an accident",
 		content = {
-			summary = "궁정악사의 비밀선곡 감상",
-			details = "프론테라 궁정악사 오린트가 추천하는 비밀선곡 듣기",
+			summary = "Listening the secret song of court musician",
+			details = "Listen the secret song of five recomended court musician",
 		},
 		resource = {
 			[1] = {
-				text = "프론테라 궁정악사 오린트가 추천하는 비밀선곡 듣기",
+				text = "Listen the secret song of five recomended court musician",
 			},
 		},
 		reward = {},
@@ -5183,26 +5183,26 @@ achievement_tbl = {
 		group = "CHATTING",
 		major = 4,
 		minor = 1,
-		title = "도시상인연합의 노동자",
+		title = "Alliance workers of merchant city",
 		content = {
-			summary = "훌륭한 도시상인연합의 노동자",
-			details = "도시상인연합의 모든 의뢰에 도전하고 싶은가? 그렇다면 더욱 열심히 일하라!! 도시상인연합은 결코 만만한 곳이 아니다.",
+			summary = "Alliance workers in the great city of merchant",
+			details = "Do you want to challenge all requests of Merchant city alliance? Then work harder! merchant city is not place for pushy.",
 		},
 		resource = {
 			[1] = {
-				text = "초보자 아메디스트 등급",
+				text = "Novice Amethyst class",
 				count = 1,
 			},
 			[2] = {
-				text = "숙련자 사드오닉스 등급",
+				text = "Expert Sardonyx class",
 				count = 10,
 			},
 			[3] = {
-				text = "능력자 아쿠아마린 등급",
+				text = "Competence Person Aquamarine class",
 				count = 30,
 			},
 			[4] = {
-				text = "찬란한 다이아몬드 등급",
+				text = "Sparkling Diamond class",
 				count = 100,
 			},
 		},
@@ -5216,7 +5216,7 @@ achievement_tbl = {
 		minor = 0,
 		title = "Acquire the first aura!",
 		content = {
-			summary = "Base Lv99 achieved!",
+			summary = "Achieve Base Level 99!",
 			details = "Achieve base level 99.",
 		},
 		resource = {
@@ -5238,7 +5238,7 @@ achievement_tbl = {
 		minor = 0,
 		title = "Acquire the second aura!",
 		content = {
-			summary = "Base Lv150 achieved!",
+			summary = "Achieve Base Level 150!",
 			details = "Achieve base level 150.",
 		},
 		resource = {
@@ -5260,7 +5260,7 @@ achievement_tbl = {
 		minor = 0,
 		title = "Acquire the third aura!",
 		content = {
-			summary = "Base Lv175 achieved!",
+			summary = "Achieve Base Level 175!",
 			details = "Achieve base level 175.",
 		},
 		resource = {
@@ -5282,7 +5282,7 @@ achievement_tbl = {
 		minor = 0,
 		title = "Master Job level!",
 		content = {
-			summary = "Job Lv50 achieved!",
+			summary = "Achieve Job Level 50!",
 			details = "Achieve job level 50.",
 		},
 		resource = {
@@ -5304,7 +5304,7 @@ achievement_tbl = {
 		minor = 0,
 		title = "Grandmaster Job level!",
 		content = {
-			summary = "Job Lv70 achieved!",
+			summary = "Achieve Job Level 70!",
 			details = "Achieve job level 70.",
 		},
 		resource = {
@@ -5364,14 +5364,14 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "베테랑 모험가! (1)",
+		title = "Veteran Adventurer! (1)",
 		content = {
-			summary = "2-1차 직업군으로 전직한다",
-			details = "나이트, 블랙스미스, 어쌔신, 위저드, 프리스트, 헌터 중 하나로 전직한다.",
+			summary = "Job change to 2-1 classes",
+			details = "Knight, Blacksmith, Assassin, Wizard, Priest or Hunter.",
 		},
 		resource = {
 			[1] = {
-				text = "2-1차 직업군으로 전직",
+				text = "Job change to 2-1 classes",
 			},
 		},
 		reward = {
@@ -5384,14 +5384,14 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "베테랑 모험가! (2)",
+		title = "Veteran Adventurer! (2)",
 		content = {
-			summary = "2-2차 직업군으로 전직한다",
-			details = "크루세이더, 알케미스트, 로그, 세이지, 몽크, 바드, 댄서 중 하나로 전직한다.",
+			summary = "Job change to 2-2 classes",
+			details = "Crusader, Alchemist, Rogue, Sage, Monk, Bard or Dancer.",
 		},
 		resource = {
 			[1] = {
-				text = "2-2차 직업군으로 전직",
+				text = "Job change to 2-2 classes",
 			},
 		},
 		reward = {
@@ -5404,14 +5404,14 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "용사 (1)",
+		title = "Warrior (1)",
 		content = {
-			summary = "전승 2-1차 직업군으로 전직한다",
-			details = "로드나이트, 화이트스미스, 어쌔신크로스, 하이위저드, 하이프리스트, 스나이퍼 중 하나로 전직한다.",
+			summary = "Job change to transcendent 2-1 classes",
+			details = "Lord Knight, White Smith, Assassin Cross, High Wizard, High Priest or Sniper.",
 		},
 		resource = {
 			[1] = {
-				text = "전승 2-1차 직업군으로 전직",
+				text = "Job change to transcendent 2-1 classes",
 			},
 		},
 		reward = {
@@ -5424,14 +5424,14 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "용사 (2)",
+		title = "Warrior (2)",
 		content = {
-			summary = "전승 2-2차 직업군으로 전직한다",
-			details = "팔라딘, 크리에이터, 스토커, 프로페서, 챔피온, 집시, 크로운 중 하나로 전직한다.",
+			summary = "Job change to transcendent 2-2 classes",
+			details = "Paladin, Creator, Stalker, Proffesor, Champion, Clown or Gypsi.",
 		},
 		resource = {
 			[1] = {
-				text = "전승 2-2차 직업군으로 전직",
+				text = "Job change to transcendent 2-2 classes",
 			},
 		},
 		reward = {
@@ -5444,14 +5444,14 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "엘리트 모험가! (1)",
+		title = "Elite Adventurer! (1)",
 		content = {
-			summary = "3-1차 직업군으로 전직한다",
-			details = "룬나이트, 미케닉, 길로틴크로스, 워록, 아크비숍, 레인저 중 하나로 전직한다.",
+			summary = "Job change to 3-1 classes",
+			details = "Rune Knight, Mechanic, Guillotine Cross, Warlock, Arch Bishop or Ranger.",
 		},
 		resource = {
 			[1] = {
-				text = "3-1차 직업군으로 전직",
+				text = "Job change to 3-1 classes",
 			},
 		},
 		reward = {
@@ -5465,14 +5465,14 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "초월자! (1)",
+		title = "Transcendentaler! (1)",
 		content = {
-			summary = "전승 3-1차 직업군으로 전직한다",
-			details = "전승 후, 룬나이트, 미케닉, 길로틴크로스, 워록, 아크비숍, 레인저 중 하나로 전직한다.",
+			summary = "Job change to 3-1 classes after transcendent",
+			details = "Rune Knight, Mechanic, Guillotine Cross, Warlock, Arch Bishop or Ranger after transcendent.",
 		},
 		resource = {
 			[1] = {
-				text = "전승 3-1차 직업군으로 전직",
+				text = "Job change to 3-1 classes after transcendent",
 			},
 		},
 		reward = {
@@ -5486,14 +5486,14 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "엘리트 모험가! (2)",
+		title = "Elite Adventurer! (2)",
 		content = {
-			summary = "3-2차 직업군으로 전직한다",
-			details = "로얄가드, 제네릭, 쉐도우체이서, 소서러, 수라, 민스트렐, 원더러 중 하나로 전직한다.",
+			summary = "Job change to 3-2 classes",
+			details = "Royal Guard, Geneticist, Shadow Chaser, Sorcerer, Sura, Minstrel or Wanderer.",
 		},
 		resource = {
 			[1] = {
-				text = "3-2차 직업군으로 전직",
+				text = "Job change to 3-2 classes",
 			},
 		},
 		reward = {
@@ -5507,14 +5507,14 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "초월자! (2)",
+		title = "Transcendentaler! (2)",
 		content = {
-			summary = "전승 3-2차 직업군으로 전직한다",
-			details = "전승 후, 로얄가드, 제네릭, 쉐도우체이서, 소서러, 수라, 민스트렐, 원더러 중 하나로 전직한다.",
+			summary = "Job change to 3-2 classes after transcendent",
+			details = "Royal Guard, Geneticist, Shadow Chaser, Sorcerer, Sura, Minstrel or Wanderer after transcendent.",
 		},
 		resource = {
 			[1] = {
-				text = "전승 3-2차 직업군으로 전직",
+				text = "Job change to 3-2 classes after transcendent",
 			},
 		},
 		reward = {
@@ -5528,14 +5528,14 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "특별한 길을 걷는 자.",
+		title = "The way of exceptional character",
 		content = {
-			summary = "확장 직업군으로 전직한다",
-			details = "태권, 건슬링거, 슈퍼노비스, 닌자 중 하나로 전직한다.",
+			summary = "Job change to expanded classes",
+			details = "Taekwondo, Gunslinger, Super Novice or Ninja.",
 		},
 		resource = {
 			[1] = {
-				text = "확장 직업군으로 전직",
+				text = "Job change to expanded classes",
 			},
 		},
 		reward = {
@@ -5548,14 +5548,14 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "이것이 나의 길!",
+		title = "This is My way!",
 		content = {
-			summary = "확장 2차 직업군으로 전직한다",
-			details = "소울링커, 권성, 리벨리온, 오보로, 카게로우 중 하나로 전직한다.",
+			summary = "Job change to expanded 2nd classes",
+			details = "Soul Linker, Star Gladiator, Rebellion, Oboro or Kagerou.",
 		},
 		resource = {
 			[1] = {
-				text = "확장 2차 직업군으로 전직",
+				text = "Expanded 2nd classes",
 			},
 		},
 		reward = {
@@ -5569,14 +5569,14 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "곰 같은 힘이여!",
+		title = "Bearish Power!",
 		content = {
-			summary = "Achieve 90 STR",
-			details = "Achieve More than 90 STR by adding through status window.",
+			summary = "Achieve base STR 90",
+			details = "Achieve 90 base STR or higher.",
 		},
 		resource = {
 			[1] = {
-				text = "순수 STR 90를 달성",
+				text = "Achieve base STR 90�",
 			},
 		},
 		reward = {},
@@ -5587,14 +5587,14 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "넘치는 마력!",
+		title = "Overflowing Magic!",
 		content = {
-			summary = "Achieve 90 INT",
-			details = "Achieve More than 90 INT by adding through status window.",
+			summary = "Achieve base INT 90",
+			details = "Achieve 90 base INT or higher.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieve 90 INT",
+				text = "Achieve base INT 90",
 			},
 		},
 		reward = {},
@@ -5605,14 +5605,14 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "건강한 육체에 건강한 정신!",
+		title = "Healthy Body and Mental Health!",
 		content = {
-			summary = "Achieve 90 VIT",
-			details = "Achieve More than 90 VIT by adding through status window.",
+			summary = "Achieve base VIT 90",
+			details = "Achieve 90 base VIT or higher.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieve 90 VIT",
+				text = "Achieve base VIT 90",
 			},
 		},
 		reward = {},
@@ -5623,14 +5623,14 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "속도광",
+		title = "Speed of Light",
 		content = {
-			summary = "Achieve 90 AGI",
-			details = "Achieve More than 90 AGI by adding through status window.",
+			summary = "Achieve base AGI 90",
+			details = "Achieve 90 base AGI or higher.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieve 90 AGI",
+				text = "Achieve base AGI 90",
 			},
 		},
 		reward = {},
@@ -5641,14 +5641,14 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "매의 눈",
+		title = "Hawk Eyes",
 		content = {
-			summary = "Achieve 90 DEX",
-			details = "Achieve More than 90 DEX by adding through status window.",
+			summary = "Achieve base DEX 90",
+			details = "Achieve 90 base DEX or higher.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieve 90 DEX",
+				text = "Achieve base DEX 90",
 			},
 		},
 		reward = {},
@@ -5659,14 +5659,14 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "럭키 맥스",
+		title = "Maximum Luck",
 		content = {
-			summary = "Achieve 90 LUK",
-			details = "Achieve More than 90 LUK by adding through status window.",
+			summary = "Achieve base LUK 90",
+			details = "Achieve 90 base LUK or higher.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieve 90 LUK",
+				text = "Achieve base LUK 90",
 			},
 		},
 		reward = {},
@@ -5677,14 +5677,14 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "용 같은 힘이여!",
+		title = "Dragonlike Power!",
 		content = {
-			summary = "Achieve 125 STR",
-			details = "Achieve More than 125 STR by adding through status window.",
+			summary = "Achieve base STR 125",
+			details = "Achieve 125 base STR or higher.",
 		},
 		resource = {
 			[1] = {
-				text = "순수 STR 125를 달성",
+				text = "Achieve base STR 125",
 			},
 		},
 		reward = {
@@ -5697,14 +5697,14 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "광기의 마력",
+		title = "Magic Insanity",
 		content = {
-			summary = "Achieve 125 INT",
-			details = "Achieve More than 125 INT by adding through status window.",
+			summary = "Achieve base INT 125",
+			details = "Achieve 125 base INT or higher.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieve 125 INT",
+				text = "Achieve base INT 125",
 			},
 		},
 		reward = {
@@ -5717,14 +5717,14 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "합금강석",
+		title = "Rock Alloy",
 		content = {
-			summary = "Achieve 125 VIT",
-			details = "Achieve More than 125 VIT by adding through status window.",
+			summary = "Achieve base VIT 125",
+			details = "Achieve 125 base VIT or higher.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieve 125 VIT",
+				text = "Achieve base VIT 125",
 			},
 		},
 		reward = {
@@ -5737,14 +5737,14 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "빛의 속도",
+		title = "Speed of Light",
 		content = {
-			summary = "Achieve 125 AGI",
-			details = "Achieve More than 125 AGI by adding through status window.",
+			summary = "Achieve base AGI 125",
+			details = "Achieve 125 base AGI or higher.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieve 125 AGI",
+				text = "Achieve base AGI 125",
 			},
 		},
 		reward = {
@@ -5757,14 +5757,14 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "팔콘의 눈",
+		title = "Falcon's Eyes",
 		content = {
-			summary = "Achieve 125 DEX",
-			details = "Achieve More than 125 DEX by adding through status window.",
+			summary = "Achieve base DEX 125",
+			details = "Achieve 125 base DEX or higher.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieve 125 DEX",
+				text = "Achieve base DEX 125",
 			},
 		},
 		reward = {
@@ -5777,14 +5777,14 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "럭키 피버",
+		title = "Lucky Fever",
 		content = {
-			summary = "Achieve 125 LUK",
-			details = "Achieve More than 125 LUK by adding through status window.",
+			summary = "Achieve base LUK 125",
+			details = "Achieve 125 base LUK or higher.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieve 125 LUK",
+				text = "Achieve base LUK 125",
 			},
 		},
 		reward = {
@@ -5797,14 +5797,14 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Avatar of Hate and Love",
+		title = "Incarnation of Love and Hate",
 		content = {
-			summary = "Achieve BaseLevel 99 by Novice",
-			details = "Job is to achieve baselevel of 99 by Novice.",
+			summary = "Achieve 99 base level as Novice",
+			details = "Achieve 99 base level as Novice class.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieve BaseLevel 99 by Novice",
+				text = "Achieve 99 base level as Novice�",
 			},
 		},
 		reward = {
@@ -5818,14 +5818,14 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Really! I Like it!",
+		title = "I really love it!",
 		content = {
-			summary = "Achieve BaseLevel 99 by 1st Job",
-			details = "Job is to achieve baselevel of 99 by 1st Job.",
+			summary = "Achieve 99 base level as 1st classes",
+			details = "Achieve 99 base level as 1st classes.",
 		},
 		resource = {
 			[1] = {
-				text = "Achieve BaseLevel 99 by 1st Job",
+				text = "Achieve 99 base level as 1st classes",
 			},
 		},
 		reward = {
@@ -5839,14 +5839,14 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "발할라에서 환생!",
+		title = "Reborn in Valhalla!",
 		content = {
-			summary = "전승 노비스로 전직한다",
-			details = "전승 노비스로 전직한다. 발키리와의 대화를 통해서만 가능하다.",
+			summary = "Job change to transcendent Novice",
+			details = "Talk with Valkyrie to job change to transcendent Novice.",
 		},
 		resource = {
 			[1] = {
-				text = "전승 노비스로 전직",
+				text = "Job change to transcendent Novice",
 			},
 		},
 		reward = {
@@ -5860,14 +5860,14 @@ achievement_tbl = {
 		group = "CHATTING",
 		major = 1,
 		minor = 2,
-		title = "커뮤니티 시작",
+		title = "Community begin",
 		content = {
-			summary = "대화창을 생성한다",
-			details = "대화창을 생성해보자. 단축키는 ALT + C (기본) 이다.",
+			summary = "Create a chatroom",
+			details = "Let's create a chatroom. Press keyboard shortcut Alt+C.",
 		},
 		resource = {
 			[1] = {
-				text = "대화창을 생성",
+				text = "Create a chatroom",
 			},
 		},
 		reward = {},
@@ -5878,14 +5878,14 @@ achievement_tbl = {
 		group = "CHATTING_DYING",
 		major = 1,
 		minor = 2,
-		title = "입만 동동 뜸",
+		title = "A mouth only moment",
 		content = {
-			summary = "죽은 상태에서 대화방을 생성한다",
-			details = "입만 살아가지곤.. 죽은 상태에서 대화창을 생성해보자. 단축키는 ALT + C (기본) 이다.",
+			summary = "Create a chatroom when KO'ed",
+			details = "Create a chatroom when KO'ed. Press keyboard shortcut Alt+C.",
 		},
 		resource = {
 			[1] = {
-				text = "죽은 상태에서 대화창을 생성",
+				text = "Create a chatroom when KO'ed",
 			},
 		},
 		reward = {},
@@ -5896,14 +5896,14 @@ achievement_tbl = {
 		group = "CHATTING20",
 		major = 1,
 		minor = 2,
-		title = "수다 삼매경",
+		title = "Admiring the chatter",
 		content = {
-			summary = "대화창 인원을 20명 채운다",
-			details = "모두 모여 수다를 떨어본다. 생성한 대화방에 인원을 20명 가득 채운다.",
+			summary = "Fill the chatroom with 20 people",
+			details = "Gather people and start chatting. Fill the chatroom with 20 people.",
 		},
 		resource = {
 			[1] = {
-				text = "대화창 인원을 20명 채움",
+				text = "Fill the chatroom with 20 people",
 			},
 		},
 		reward = {},
@@ -5914,14 +5914,14 @@ achievement_tbl = {
 		group = "ADD_FRIEND",
 		major = 1,
 		minor = 2,
-		title = "Friend~ Friend~",
+		title = "My friend's friend~",
 		content = {
-			summary = "Register 1 Friend",
-			details = "Let's Recruit a friend to join your adventure. Be Friend with 1 person.",
+			summary = "Add 1 person as a friend",
+			details = "Let's recruit a friend and start a journey together. Add 1 person as a friend.",
 		},
 		resource = {
 			[1] = {
-				text = "Have 1 Friend",
+				text = "Add 1 person as a friend",
 			},
 		},
 		reward = {},
@@ -5932,14 +5932,14 @@ achievement_tbl = {
 		group = "ADD_FRIEND",
 		major = 1,
 		minor = 2,
-		title = "Popularity",
+		title = "A competition of popularity",
 		content = {
-			summary = "Register 10 friends",
-			details = "More friends is better. Be Friend with 10 persons.",
+			summary = "Add 10 person as a friend",
+			details = "Let's recruit a friend and start a journey together. Add 10 person as a friend.",
 		},
 		resource = {
 			[1] = {
-				text = "Have 10 friends",
+				text = "Add 10 person as a friend",
 			},
 		},
 		reward = {},
@@ -5952,12 +5952,12 @@ achievement_tbl = {
 		minor = 2,
 		title = "Let's Party~",
 		content = {
-			summary = "파티를 결성한다",
-			details = "홀로 힘겨운 모험은 그만! 파티로 함께 헤쳐 나가자.",
+			summary = "Create a party",
+			details = "Adventuring alone is tough! Let's create a party.",
 		},
 		resource = {
 			[1] = {
-				text = "파티를 결성",
+				text = "Create a party",
 			},
 		},
 		reward = {},
@@ -5968,14 +5968,14 @@ achievement_tbl = {
 		group = "MARRY",
 		major = 1,
 		minor = 2,
-		title = "결혼은 하셨는지..?",
+		title = "Married with who..?",
 		content = {
-			summary = "결혼에 성공한다",
-			details = "어렵고 힘든 세상, 사랑만이 서로를 지켜준다. 표식이 될 수 있는 결혼을 해보자.",
+			summary = "Succeed on marriage",
+			details = "Living in this world is tough, let's fill it with love. Let's get married with someone you love.",
 		},
 		resource = {
 			[1] = {
-				text = "결혼에 성공",
+				text = "Succeed on marriage",
 			},
 		},
 		reward = {
@@ -5988,14 +5988,14 @@ achievement_tbl = {
 		group = "BABY",
 		major = 1,
 		minor = 2,
-		title = "키워주실래요?",
+		title = "Can you grow?",
 		content = {
-			summary = "부모에게 입양 된다",
-			details = "부모의 도움을 받아 험한 세상을 헤쳐 나가자.",
+			summary = "Adopted by parents",
+			details = "Overcome the tough world with the help of parents.",
 		},
 		resource = {
 			[1] = {
-				text = "부모에게 입양 됨",
+				text = "Adopted by parents",
 			},
 		},
 		reward = {
@@ -6008,14 +6008,14 @@ achievement_tbl = {
 		group = "BABY",
 		major = 1,
 		minor = 2,
-		title = "부모가 된다는 것",
+		title = "Being a parent",
 		content = {
-			summary = "아이를 입양 한다",
-			details = "아이가 있어 행복하다. 입양을 통해 예쁜 가족 이야기를 만들어 보자.",
+			summary = "Adopt a children",
+			details = "Get a happy children and create a beatiful family story through adoption.",
 		},
 		resource = {
 			[1] = {
-				text = "아이를 입양 함",
+				text = "Adopt a child",
 			},
 		},
 		reward = {
@@ -6028,14 +6028,14 @@ achievement_tbl = {
 		group = "SPEND_ZENY",
 		major = 1,
 		minor = 1,
-		title = "시장 경제 활성화 (1)",
+		title = "Activating the market economy (1)",
 		content = {
-			summary = "노점을 통해 1만 제니 이상 소비한다",
-			details = "돈은 돌고 도는 법. 다른 플레이어의 노점에서 아이템을 1만 제니 만큼 구매한다. ",
+			summary = "Spend 10,000 zeny on vending merchant",
+			details = "There is turn around money law. Spend 10,000 zeny on vending merchant.",
 		},
 		resource = {
 			[1] = {
-				text = "노점을 통해 1만 제니 이상 소비",
+				text = "Spend 10,000 zeny on vending merchant",
 				count = 10000,
 			},
 		},
@@ -6047,14 +6047,14 @@ achievement_tbl = {
 		group = "SPEND_ZENY",
 		major = 1,
 		minor = 1,
-		title = "시장 경제 활성화 (2)",
+		title = "Activating the market economy (2)",
 		content = {
-			summary = "노점을 통해 100만 제니 이상 소비한다",
-			details = "돈은 돌고 도는 법. 다른 플레이어의 노점에서 아이템을 100만 제니 만큼 구매한다. ",
+			summary = "Spend 100,000 zeny on vending merchant",
+			details = "There is turn around money law. Spend 100,000 zeny on vending merchant.",
 		},
 		resource = {
 			[1] = {
-				text = "노점을 통해 100만 제니 이상 소비",
+				text = "Spend 100,000 zeny on vending merchant",
 				count = 1000000,
 			},
 		},
@@ -6066,14 +6066,14 @@ achievement_tbl = {
 		group = "SPEND_ZENY",
 		major = 1,
 		minor = 1,
-		title = "시장 경제 활성화 (3)",
+		title = "Activating the market economy (3)",
 		content = {
-			summary = "노점을 통해 500만 제니 이상 소비한다",
-			details = "돈은 돌고 도는 법. 다른 플레이어의 노점에서 아이템을 500만 제니 만큼 구매한다. ",
+			summary = "Spend 500,000 zeny on vending merchant",
+			details = "There is turn around money law. Spend 500,000 zeny on vending merchant.",
 		},
 		resource = {
 			[1] = {
-				text = "노점을 통해 500만 제니 이상 소비",
+				text = "Spend 500,000 zeny on vending merchant",
 				count = 5000000,
 			},
 		},
@@ -6085,14 +6085,14 @@ achievement_tbl = {
 		group = "SPEND_ZENY",
 		major = 1,
 		minor = 1,
-		title = "시장 경제 활성화 (4)",
+		title = "Activating the market economy (4)",
 		content = {
-			summary = "노점을 통해 1억 제니 이상 소비한다",
-			details = "돈은 돌고 도는 법. 다른 플레이어의 노점에서 아이템을 1억만 제니 만큼 구매한다. ",
+			summary = "Spend 1.000,000 zeny on vending merchant",
+			details = "There is turn around money law. Spend 1.000,000 zeny on vending merchant.",
 		},
 		resource = {
 			[1] = {
-				text = "노점을 통해 1억 제니 이상 소비",
+				text = "Spend 1.000,000 zeny on vending merchant",
 				count = 100000000,
 			},
 		},
@@ -6104,14 +6104,14 @@ achievement_tbl = {
 		group = "SPEND_ZENY",
 		major = 1,
 		minor = 1,
-		title = "시장 경제 활성화 (5)",
+		title = "Activating the market economy (5)",
 		content = {
-			summary = "노점을 통해 5억 제니 이상 소비한다",
-			details = "돈은 돌고 도는 법. 다른 플레이어의 노점에서 아이템을 5억만 제니 만큼 구매한다. ",
+			summary = "Spend 5.000,000 zeny on vending merchant",
+			details = "There is turn around money law. Spend 5.000,000 zeny on vending merchant.",
 		},
 		resource = {
 			[1] = {
-				text = "노점을 통해 5억 제니 이상 소비",
+				text = "Spend 5.000,000 zeny on vending merchant",
 				count = 500000000,
 			},
 		},
@@ -6123,14 +6123,14 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "제련은 그만둘 수 없어! (1)",
+		title = "I can't quit from refining! (1)",
 		content = {
-			summary = "무기 1레벨급을 7제련까지 성공한다",
-			details = "나의 행운은 어디까지인가? 무기 1레벨급을 7제련까지 성공한다.",
+			summary = "Succeed on refining level 1 weapon to +7",
+			details = "Where is my luck? Succeed on refining level 1 weapon to +7.",
 		},
 		resource = {
 			[1] = {
-				text = "무기 1레벨급을 7제련까지 성공",
+				text = "Succeed on refining level 1 weapon to +7",
 			},
 		},
 		reward = {},
@@ -6141,14 +6141,14 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "제련은 그만둘 수 없어! (2)",
+		title = "I can't quit from refining! (2)",
 		content = {
-			summary = "무기 1레벨급을 12제련까지 성공한다",
-			details = "나의 행운은 어디까지인가? 무기 1레벨급을 12제련까지 성공한다.",
+			summary = "Succeed on refining level 1 weapon to +12",
+			details = "Where is my luck? Succeed on refining level 1 weapon to +12.",
 		},
 		resource = {
 			[1] = {
-				text = "무기 1레벨급을 12제련까지 성공",
+				text = "Succeed on refining level 1 weapon to +12",
 			},
 		},
 		reward = {},
@@ -6159,14 +6159,14 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "제련은 그만둘 수 없어! (3)",
+		title = "I can't quit from refining! (3)",
 		content = {
-			summary = "무기 2레벨급을 7제련까지 성공한다",
-			details = "나의 행운은 어디까지인가? 무기 2레벨급을 7제련까지 성공한다.",
+			summary = "Succeed on refining level 2 weapon to +7",
+			details = "Where is my luck? Succeed on refining level 2 weapon to +7.",
 		},
 		resource = {
 			[1] = {
-				text = "무기 2레벨급을 7제련까지 성공",
+				text = "Succeed on refining level 2 weapon to +7",
 			},
 		},
 		reward = {},
@@ -6177,14 +6177,14 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "제련은 그만둘 수 없어! (4)",
+		title = "I can't quit from refining! (4)",
 		content = {
-			summary = "무기 2레벨급을 12제련까지 성공한다",
-			details = "나의 행운은 어디까지인가? 무기 2레벨급을 12제련까지 성공한다.",
+			summary = "Succeed on refining level 2 weapon to +12",
+			details = "Where is my luck? Succeed on refining level 2 weapon to +12.",
 		},
 		resource = {
 			[1] = {
-				text = "무기 2레벨급을 12제련까지 성공",
+				text = "Succeed on refining level 2 weapon to +12",
 			},
 		},
 		reward = {},
@@ -6195,14 +6195,14 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "제련은 그만둘 수 없어! (5)",
+		title = "I can't quit from refining! (5)",
 		content = {
-			summary = "무기 3레벨급을 7제련까지 성공한다",
-			details = "나의 행운은 어디까지인가? 무기 3레벨급을 7제련까지 성공한다.",
+			summary = "Succeed on refining level 3 weapon to +7",
+			details = "Where is my luck? Succeed on refining level 3 weapon to +7.",
 		},
 		resource = {
 			[1] = {
-				text = "무기 3레벨급을 7제련까지 성공",
+				text = "Succeed on refining level 3 weapon to +7",
 			},
 		},
 		reward = {},
@@ -6213,14 +6213,14 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "제련은 그만둘 수 없어! (6)",
+		title = "I can't quit from refining! (6)",
 		content = {
-			summary = "무기 3레벨급을 12제련까지 성공한다",
-			details = "나의 행운은 어디까지인가? 무기 3레벨급을 12제련까지 성공한다.",
+			summary = "Succeed on refining level 3 weapon to +12",
+			details = "Where is my luck? Succeed on refining level 3 weapon to +12.",
 		},
 		resource = {
 			[1] = {
-				text = "무기 3레벨급을 12제련까지 성공",
+				text = "Succeed on refining level 3 weapon to +12",
 			},
 		},
 		reward = {},
@@ -6231,14 +6231,14 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "제련은 그만둘 수 없어! (7)",
+		title = "I can't quit from refining! (7)",
 		content = {
-			summary = "무기 4레벨급을 7제련까지 성공한다",
-			details = "나의 행운은 어디까지인가? 무기 4레벨급을 7제련까지 성공한다.",
+			summary = "Succeed on refining level 4 weapon to +7",
+			details = "Where is my luck? Succeed on refining level 4 weapon to +7.",
 		},
 		resource = {
 			[1] = {
-				text = "무기 4레벨급을 7제련까지 성공",
+				text = "Succeed on refining level 4 weapon to +7",
 			},
 		},
 		reward = {},
@@ -6249,14 +6249,14 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "제련은 그만둘 수 없어! (8)",
+		title = "I can't quit from refining! (8)",
 		content = {
-			summary = "무기 4레벨급을 12제련까지 성공한다",
-			details = "나의 행운은 어디까지인가? 무기 4레벨급을 12제련까지 성공한다.",
+			summary = "Succeed on refining level 4 weapon to +12",
+			details = "Where is my luck? Succeed on refining level 4 weapon to +12.",
 		},
 		resource = {
 			[1] = {
-				text = "무기 4레벨급을 12제련까지 성공",
+				text = "Succeed on refining level 4 weapon to +12",
 			},
 		},
 		reward = {},
@@ -6267,14 +6267,14 @@ achievement_tbl = {
 		group = "ENCHANT_FAIL",
 		major = 1,
 		minor = 1,
-		title = "인간의 욕심은 끝이 없고..",
+		title = "Human's greed has no ending..",
 		content = {
-			summary = "제련 실패를 경험한다",
-			details = "인간의 욕심은 끝이 없고 같은 실수를 반복한다. 하지만 실수속에서 교훈을 찾고 성장하기도 한다. 제련 실패를 경험해 보자.",
+			summary = "Experience the fail of refining",
+			details = "Human's greed has no ending and it's always repeat. But let's take a lesson from the mistake. Experience the fail of refining.",
 		},
 		resource = {
 			[1] = {
-				text = "제련 실패를 경험",
+				text = "Experience the fail of refining",
 			},
 		},
 		reward = {},
@@ -6285,14 +6285,14 @@ achievement_tbl = {
 		group = "GET_ITEM",
 		major = 1,
 		minor = 1,
-		title = "심봤다! (1)",
+		title = "I found it! (1)",
 		content = {
-			summary = "100 제니 이상 값어치 하는 아이템 획득한다",
-			details = "나에게도 이런 행운이! NPC 에게 판매 시 값어치 100 제니 이상의 아이템을 획득한다.",
+			summary = "Obtain an item with worth of more than 100 zeny",
+			details = "I have a luck too! Obtain an item with worth of more than 100 zeny when sold to an NPC.",
 		},
 		resource = {
 			[1] = {
-				text = "100 제니 이상 값어치 하는 아이템 획득",
+				text = "Obtain an item with worth of more than 100 zeny",
 			},
 		},
 		reward = {},
@@ -6303,14 +6303,14 @@ achievement_tbl = {
 		group = "GET_ITEM",
 		major = 1,
 		minor = 1,
-		title = "심봤다! (2)",
+		title = "I found it! (2)",
 		content = {
-			summary = "1000 제니 이상 값어치 하는 아이템 획득한다",
-			details = "나에게도 이런 행운이! NPC 에게 판매 시 값어치 1000 제니 이상의 아이템을 획득한다.",
+			summary = "Obtain an item with worth of more than 1,000 zeny",
+			details = "I have a luck too! Obtain an item with worth of more than 1,000 zeny when sold to an NPC.",
 		},
 		resource = {
 			[1] = {
-				text = "1000 제니 이상 값어치 하는 아이템 획득",
+				text = "Obtain an item with worth of more than 1,000 zeny",
 			},
 		},
 		reward = {},
@@ -6321,14 +6321,14 @@ achievement_tbl = {
 		group = "GET_ITEM",
 		major = 1,
 		minor = 1,
-		title = "심봤다! (3)",
+		title = "I found it! (3)",
 		content = {
-			summary = "5000 제니 이상 값어치 하는 아이템 획득한다",
-			details = "나에게도 이런 행운이! NPC 에게 판매 시 값어치 5000 제니 이상의 아이템을 획득한다.",
+			summary = "Obtain an item with worth of more than 5,000 zeny",
+			details = "I have a luck too! Obtain an item with worth of more than 5,000 zeny when sold to an NPC.",
 		},
 		resource = {
 			[1] = {
-				text = "5000 제니 이상 값어치 하는 아이템 획득",
+				text = "Obtain an item with worth of more than 5,000 zeny",
 			},
 		},
 		reward = {},
@@ -6339,14 +6339,14 @@ achievement_tbl = {
 		group = "GET_ITEM",
 		major = 1,
 		minor = 1,
-		title = "심봤다! (4)",
+		title = "I found it! (4)",
 		content = {
-			summary = "1만 제니 이상 값어치 하는 아이템 획득한다",
-			details = "나에게도 이런 행운이! NPC 에게 판매 시 값어치 1만 제니 이상의 아이템을 획득한다.",
+			summary = "Obtain an item with worth of more than 10,000 zeny",
+			details = "I have a luck too! Obtain an item with worth of more than 10,000 zeny when sold to an NPC.",
 		},
 		resource = {
 			[1] = {
-				text = "1만 제니 이상 값어치 하는 아이템 획득",
+				text = "Obtain an item with worth of more than 10,000 zeny",
 			},
 		},
 		reward = {},
@@ -6357,14 +6357,14 @@ achievement_tbl = {
 		group = "GET_ITEM",
 		major = 1,
 		minor = 1,
-		title = "심봤다! (5)",
+		title = "I found it! (5)",
 		content = {
-			summary = "5만 제니 이상 값어치 하는 아이템 획득한다",
-			details = "나에게도 이런 행운이! NPC 에게 판매 시 값어치 5만 제니 이상의 아이템을 획득한다.",
+			summary = "Obtain an item with worth of more than 50,000 zeny",
+			details = "I have a luck too! Obtain an item with worth of more than 50,000 zeny when sold to an NPC.",
 		},
 		resource = {
 			[1] = {
-				text = "5만 제니 이상 값어치 하는 아이템 획득",
+				text = "Obtain an item with worth of more than 50,000 zeny",
 			},
 		},
 		reward = {},
@@ -6375,14 +6375,14 @@ achievement_tbl = {
 		group = "GET_ITEM",
 		major = 1,
 		minor = 1,
-		title = "심봤다! (6)",
+		title = "I found it! (6)",
 		content = {
-			summary = "10만 제니 이상 값어치 하는 아이템 획득한다",
-			details = "나에게도 이런 행운이! NPC 에게 판매 시 값어치 10만 제니 이상의 아이템을 획득한다.",
+			summary = "Obtain an item with worth of more than 100,000 zeny",
+			details = "I have a luck too! Obtain an item with worth of more than 100,000 zeny when sold to an NPC.",
 		},
 		resource = {
 			[1] = {
-				text = "10만 제니 이상 값어치 하는 아이템 획득",
+				text = "Obtain an item with worth of more than 100,000 zeny",
 			},
 		},
 		reward = {},
@@ -6393,14 +6393,14 @@ achievement_tbl = {
 		group = "GET_ITEM",
 		major = 1,
 		minor = 1,
-		title = "심봤다! (7)",
+		title = "I found it! (7)",
 		content = {
-			summary = "15만 제니 이상 값어치 하는 아이템 획득한다",
-			details = "나에게도 이런 행운이! NPC 에게 판매 시 값어치 15만 제니 이상의 아이템을 획득한다.",
+			summary = "Obtain an item with worth of more than 150,000 zeny",
+			details = "I have a luck too! Obtain an item with worth of more than 150,000 zeny when sold to an NPC.",
 		},
 		resource = {
 			[1] = {
-				text = "15만 제니 이상 값어치 하는 아이템 획득",
+				text = "Obtain an item with worth of more than 150,000 zeny",
 			},
 		},
 		reward = {},
@@ -6413,12 +6413,12 @@ achievement_tbl = {
 		minor = 1,
 		title = "Rich King (1)",
 		content = {
-			summary = "Hold more than 10k Zeny in hand",
-			details = "돈이 전부는 아니지만 없어서도 안된다. Collect 10k Zeny.",
+			summary = "Hold more than 10,000 zeny in pocket",
+			details = "Money is not everything, that because you're poor. Hold more than 10,000 zeny in pocket.",
 		},
 		resource = {
 			[1] = {
-				text = "Hold more than 10k Zeny",
+				text = "Hold more than 10,000 zeny in pocket",
 			},
 		},
 		reward = {},
@@ -6431,12 +6431,12 @@ achievement_tbl = {
 		minor = 1,
 		title = "Rich King (2)",
 		content = {
-			summary = "Hold more than 100k Zeny in hand",
-			details = "돈이 전부는 아니지만 없어서도 안된다. Collect 100k Zeny.",
+			summary = "Hold more than 100,000 zeny in pocket",
+			details = "Money is not everything, that because you're poor. Hold more than 100,000 zeny in pocket.",
 		},
 		resource = {
 			[1] = {
-				text = "Hold more than 100k Zeny",
+				text = "Hold more than 100,000 zeny in pocket",
 			},
 		},
 		reward = {},
@@ -6449,12 +6449,12 @@ achievement_tbl = {
 		minor = 1,
 		title = "Rich King (3)",
 		content = {
-			summary = "Hold more than 1 Million Zeny in hand",
-			details = "돈이 전부는 아니지만 없어서도 안된다. Collect 1 Million Zeny.",
+			summary = "Hold more than 1,000,000 zeny in pocket",
+			details = "Money is not everything, that because you're poor. Hold more than 1,000,000 zeny in pocket.",
 		},
 		resource = {
 			[1] = {
-				text = "Hold more than 1 Million Zeny",
+				text = "Hold more than 1,000,000 zeny in pocket",
 			},
 		},
 		reward = {},
@@ -6467,12 +6467,12 @@ achievement_tbl = {
 		minor = 1,
 		title = "Rich King (4)",
 		content = {
-			summary = "Hold more than 10 Million Zeny in hand",
-			details = "돈이 전부는 아니지만 없어서도 안된다. Collect 10 Million Zeny.",
+			summary = "Hold more than 10,000,000 zeny in pocket",
+			details = "Money is not everything, that because you're poor. Hold more than 10,000,000 zeny in pocket.",
 		},
 		resource = {
 			[1] = {
-				text = "Hold more than 10 Million Zeny",
+				text = "Hold more than 10,000,000 zeny in pocket",
 			},
 		},
 		reward = {},
@@ -6485,12 +6485,12 @@ achievement_tbl = {
 		minor = 1,
 		title = "Rich King (5)",
 		content = {
-			summary = "Hold more than 100 Million Zeny in hand",
-			details = "돈이 전부는 아니지만 없어서도 안된다. Collect 100 Million Zeny.",
+			summary = "Hold more than 100,000,000 zeny in pocket",
+			details = "Money is not everything, that because you're poor. Hold more than 100,000,000 zeny in pocket.",
 		},
 		resource = {
 			[1] = {
-				text = "Hold more than 100 Million Zeny",
+				text = "Hold more than 100,000,000 zeny in pocket",
 			},
 		},
 		reward = {},
@@ -6503,12 +6503,12 @@ achievement_tbl = {
 		minor = 1,
 		title = "Rich King (6)",
 		content = {
-			summary = "Hold more than 1 Billion Zeny in hand",
-			details = "돈이 전부는 아니지만 없어서도 안된다. Collect 1 Billion Zeny.",
+			summary = "Hold more than 1,000,000,000 zeny in pocket",
+			details = "Money is not everything, that because you're poor. Hold more than 1,000,000,000 zeny in pocket.",
 		},
 		resource = {
 			[1] = {
-				text = "Hold more than 1 Billion Zeny",
+				text = "Hold more than 1,000,000,000 zeny in pocket",
 			},
 		},
 		reward = {},
@@ -6519,26 +6519,26 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 3,
 		minor = 1,
-		title = "포링은 사랑입니다",
+		title = "Poring is Love",
 		content = {
-			summary = "목표 과제를 모두 완료한다",
-			details = "자다가도 포링 생각에 깨어나는 당신은 진정한 포링 매니아!",
+			summary = "Complete all objective tasks",
+			details = "You're the true enthusiasts of poring things!",
 		},
 		resource = {
 			[1] = {
-				text = "과제 '포링 - 길들이기' 완료",
+				text = "Complete 'Poring - taming' challenge",
 				shortcut = 230101,
 			},
 			[2] = {
-				text = "과제 '드롭프스 - 길들이기' 완료",
+				text = "Complete 'Drops - taming' challenge",
 				shortcut = 230102,
 			},
 			[3] = {
-				text = "과제 '포포링 - 길들이기' 완료",
+				text = "Complete 'Poporing - taming' challenge",
 				shortcut = 230103,
 			},
 			[4] = {
-				text = "과제 '풋내기 포링 - 길들이기' 완료",
+				text = "Complete 'Novice Poring - taming' challenge",
 				shortcut = 230104,
 			},
 		},
@@ -6553,14 +6553,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "포링 - 길들이기",
+		title = "Poring - taming",
 		content = {
-			summary = "포링을 테이밍에 성공한다",
-			details = "포링을 펫으로 만들자. '덜익은 사과' 아이템으로 꼬실 수 있다.",
+			summary = "Succeed on Taming Poring",
+			details = "Let's get a Poring pet. You can use 'Unripe Apple'.",
 		},
 		resource = {
 			[1] = {
-				text = "포링을 테이밍에 성공",
+				text = "Succeed on Taming Poring",
 			},
 		},
 		reward = {},
@@ -6571,14 +6571,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "드롭프스 - 길들이기",
+		title = "Drops - taming",
 		content = {
-			summary = "드롭프스를 테이밍에 성공한다",
-			details = "드롭프스를 펫으로 만들자. '오렌지 쥬스' 아이템으로 꼬실 수 있다.",
+			summary = "Succeed on Taming Drops",
+			details = "Let's get a Drops pet. You can use 'Orange Juice'.",
 		},
 		resource = {
 			[1] = {
-				text = "드롭프스를 테이밍에 성공",
+				text = "Succeed on Taming Drops",
 			},
 		},
 		reward = {},
@@ -6589,14 +6589,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "포포링 - 길들이기",
+		title = "Poporing - taming",
 		content = {
-			summary = "포포링을 테이밍에 성공한다",
-			details = "포포링을 펫으로 만들자. '쓰디쓴 풀' 아이템으로 꼬실 수 있다.",
+			summary = "Succeed on Taming Poporing",
+			details = "Let's get a Poporing pet. You can use 'Bitter Herb'.",
 		},
 		resource = {
 			[1] = {
-				text = "포포링을 테이밍에 성공",
+				text = "Succeed on Taming Poporing",
 			},
 		},
 		reward = {},
@@ -6607,14 +6607,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "풋내기 포링 - 길들이기",
+		title = "Novice Poring - taming",
 		content = {
-			summary = "풋내기 포링을 테이밍에 성공한다",
-			details = "풋내기 포링을 펫으로 만들자. '풋사과' 아이템으로 꼬실 수 있다.",
+			summary = "Succeed on Taming Novice Poring",
+			details = "Let's get a Novice Poring pet. You can use 'Little Unripe Apple'.",
 		},
 		resource = {
 			[1] = {
-				text = "풋내기 포링을 테이밍에 성공",
+				text = "Succeed on Taming Novice Poring",
 			},
 		},
 		reward = {},
@@ -6625,34 +6625,34 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 3,
 		minor = 1,
-		title = "곤충학자",
+		title = "Entomologist",
 		content = {
-			summary = "목표 과제를 모두 완료한다",
-			details = "자다가도 채집 생각에 깨어나는 당신은 진정한 곤충학자!",
+			summary = "Complete all objective tasks",
+			details = "You're awakened with the idea of collecting bugs to become a true Entomologist!",
 		},
 		resource = {
 			[1] = {
-				text = "과제 '촌촌 - 길들이기' 완료",
+				text = "Complete 'Chonchon - taming' challenge",
 				shortcut = 230111,
 			},
 			[2] = {
-				text = "과제 '스틸 촌촌 - 길들이기' 완료",
+				text = "Complete 'Steel Chonchon - taming' challenge",
 				shortcut = 230112,
 			},
 			[3] = {
-				text = "과제 '헌터 플라이 - 길들이기' 완료",
+				text = "Complete 'Hunter Fly - taming' challenge",
 				shortcut = 230113,
 			},
 			[4] = {
-				text = "과제 '로커 - 길들이기' 완료",
+				text = "Complete 'Rocker - taming' challenge",
 				shortcut = 230114,
 			},
 			[5] = {
-				text = "과제 '스포아 - 길들이기' 완료",
+				text = "Complete 'Spore - taming' challenge",
 				shortcut = 230115,
 			},
 			[6] = {
-				text = "과제 '포이즌 스포아 - 길들이기' 완료",
+				text = "Complete 'Poison Spore - taming' challenge",
 				shortcut = 230116,
 			},
 		},
@@ -6667,14 +6667,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "촌촌 - 길들이기",
+		title = "Chonchon - taming",
 		content = {
-			summary = "촌촌을 테이밍에 성공한다",
-			details = "촌촌을 펫으로 만들자. '썩은 생선' 아이템으로 꼬실 수 있다.",
+			summary = "Succeed on Taming Chonchon",
+			details = "Let's get a Chonchon pet. You can use 'Rotten Fish'.",
 		},
 		resource = {
 			[1] = {
-				text = "촌촌을 테이밍에 성공",
+				text = "Succeed on Taming Chonchon",
 			},
 		},
 		reward = {},
@@ -6685,14 +6685,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "스틸 촌촌 - 길들이기",
+		title = "Steel Chonchon - taming",
 		content = {
-			summary = "스틸 촌촌을 테이밍에 성공한다",
-			details = "스틸 촌촌을 펫으로 만들자. '녹슬어버린 철' 아이템으로 꼬실 수 있다.",
+			summary = "Succeed on Taming Steel Chonchon",
+			details = "Let's get a Steel Chonchon pet. You can use 'Rusty Iron'.",
 		},
 		resource = {
 			[1] = {
-				text = "스틸 촌촌을 테이밍에 성공",
+				text = "Succeed on Taming Steel Chonchon",
 			},
 		},
 		reward = {},
@@ -6703,14 +6703,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "헌터 플라이 - 길들이기",
+		title = "Hunter Fly - taming",
 		content = {
-			summary = "헌터 플라이를 테이밍에 성공한다",
-			details = "헌터 플라이를 펫으로 만들자. '몬스터 쥬스' 아이템으로 꼬실 수 있다.",
+			summary = "Succeed on Taming Hunter Fly",
+			details = "Let's get a Hunter Fly pet. You can use 'Monster Juice'.",
 		},
 		resource = {
 			[1] = {
-				text = "헌터 플라이를 테이밍에 성공",
+				text = "Succeed on Taming Hunter Fly",
 			},
 		},
 		reward = {},
@@ -6721,14 +6721,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "로커 - 길들이기",
+		title = "Rocker - taming",
 		content = {
-			summary = "로커를 테이밍에 성공한다",
-			details = "로커를 펫으로 만들자. '노래하는 꽃' 아이템으로 꼬실 수 있다.",
+			summary = "Succeed on Taming Rocker",
+			details = "Let's get a Rocker pet. You can use 'Singing Flower'.",
 		},
 		resource = {
 			[1] = {
-				text = "로커를 테이밍에 성공",
+				text = "Succeed on Taming Rocker",
 			},
 		},
 		reward = {},
@@ -6739,14 +6739,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "스포아 - 길들이기",
+		title = "Spore - taming",
 		content = {
-			summary = "스포아를 테이밍에 성공한다",
-			details = "스포아를 펫으로 만들자. '아침이슬을 머금은 이끼' 아이템으로 꼬실 수 있다.",
+			summary = "Succeed on Taming Spore",
+			details = "Let's get a Spore pet. You can use 'Dew Laden Moss'.",
 		},
 		resource = {
 			[1] = {
-				text = "스포아를 테이밍에 성공",
+				text = "Succeed on Taming Spore",
 			},
 		},
 		reward = {},
@@ -6757,14 +6757,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "포이즌 스포아 - 길들이기",
+		title = "Poison Spore - taming",
 		content = {
-			summary = "포이즌 스포아를 테이밍에 성공한다",
-			details = "포이즌 스포아를 펫으로 만들자. '맹독초' 아이템으로 꼬실 수 있다.",
+			summary = "Succeed on Taming Poison Spore",
+			details = "Let's get a Poison Spore pet. You can use 'Deadly Noxious Herb'.",
 		},
 		resource = {
 			[1] = {
-				text = "포이즌 스포아를 테이밍에 성공",
+				text = "Succeed on Taming Poison Spore",
 			},
 		},
 		reward = {},
@@ -6775,42 +6775,42 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 3,
 		minor = 1,
-		title = "동물들도 우리 친구이지요",
+		title = "Animals are also our friend",
 		content = {
-			summary = "목표 과제를 모두 완료한다",
-			details = "자다가도 동물 친구들 생각에 깨어나는 당신은 진정한 동물 애호가!",
+			summary = "Complete all objective tasks",
+			details = "You're awakened with the idea of becoming the true animal lover!",
 		},
 		resource = {
 			[1] = {
-				text = "과제 '루나틱 - 길들이기' 완료",
+				text = "Complete 'Lunatic - taming' challenge",
 				shortcut = 230121,
 			},
 			[2] = {
-				text = "과제 '픽키 - 길들이기' 완료",
+				text = "Complete 'Picky - taming' challenge",
 				shortcut = 230122,
 			},
 			[3] = {
-				text = "과제 '세비지 베베 - 길들이기' 완료",
+				text = "Complete 'Savage Bebe - taming' challenge",
 				shortcut = 230123,
 			},
 			[4] = {
-				text = "과제 '어린 데저트 울프 - 길들이기' 완료",
+				text = "Complete 'Baby Desert Wolf - taming' challenge",
 				shortcut = 230124,
 			},
 			[5] = {
-				text = "과제 '스모키 - 길들이기' 완료",
+				text = "Complete 'Smokie - taming' challenge",
 				shortcut = 230125,
 			},
 			[6] = {
-				text = "과제 '요요 - 길들이기' 완료",
+				text = "Complete 'Yoyo - taming' challenge",
 				shortcut = 230126,
 			},
 			[7] = {
-				text = "과제 '페코페코 - 길들이기' 완료",
+				text = "Complete 'Peco Peco - taming' challenge",
 				shortcut = 230127,
 			},
 			[8] = {
-				text = "과제 '쁘띠 - 길들이기' 완료",
+				text = "Complete 'Petite - taming' challenge",
 				shortcut = 230128,
 			},
 		},
@@ -6825,14 +6825,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "루나틱 - 길들이기",
+		title = "Lunatic - taming",
 		content = {
-			summary = "루나틱을 테이밍에 성공한다",
-			details = "루나틱을 펫으로 만들자. '무지개 당근' 아이템으로 꼬실 수 있다.",
+			summary = "Succeed on Taming Lunatic",
+			details = "Let's get a Lunatic pet. You can use 'Rainbow Carrot'.",
 		},
 		resource = {
 			[1] = {
-				text = "루나틱을 테이밍에 성공",
+				text = "Succeed on Taming Lunatic",
 			},
 		},
 		reward = {},
@@ -6843,14 +6843,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "픽키 - 길들이기",
+		title = "Picky - taming",
 		content = {
-			summary = "픽키를 테이밍에 성공한다",
-			details = "픽키를 펫으로 만들자. '멋쟁이 지렁이' 아이템으로 꼬실 수 있다.",
+			summary = "Succeed on Taming Picky",
+			details = "Let's get a Picky pet. You can use 'Earthworm the Dude'.",
 		},
 		resource = {
 			[1] = {
-				text = "픽키를 테이밍에 성공",
+				text = "Succeed on Taming Picky",
 			},
 		},
 		reward = {},
@@ -6861,14 +6861,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "세비지 베베 - 길들이기",
+		title = "Savage Bebe - taming",
 		content = {
-			summary = "세비지 베베을 테이밍에 성공한다",
-			details = "세비지 베베을 펫으로 만들자. '달콤한 우유' 아이템으로 꼬실 수 있다.",
+			summary = "Succeed on Taming Savage Bebe",
+			details = "Let's get a Savage Bebe pet. You can use 'Sweet Milk'.",
 		},
 		resource = {
 			[1] = {
-				text = "세비지 베베을 테이밍에 성공",
+				text = "Succeed on Taming Savage Bebe",
 			},
 		},
 		reward = {},
@@ -6879,14 +6879,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "어린 데저트 울프 - 길들이기",
+		title = "Baby Desert Wolf - taming",
 		content = {
-			summary = "어린 데저트 울프를 테이밍에 성공한다",
-			details = "어린 데저트 울프를 펫으로 만들자. '말린 뼈다귀' 아이템으로 꼬실 수 있다.",
+			summary = "Succeed on Taming Baby Desert Wolf",
+			details = "Let's get a Baby Desert Wolf pet. You can use 'Well-Dried Bone'.",
 		},
 		resource = {
 			[1] = {
-				text = "어린 데저트 울프를 테이밍에 성공",
+				text = "Succeed on Taming Baby Desert Wolf",
 			},
 		},
 		reward = {},
@@ -6897,14 +6897,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "스모키 - 길들이기",
+		title = "Smokie - taming",
 		content = {
-			summary = "스모키를 테이밍에 성공한다",
-			details = "스모키를 펫으로 만들자. '구운 고구마' 아이템으로 꼬실 수 있다.",
+			summary = "Succeed on Taming Smokie",
+			details = "Let's get a Smokie pet. You can use 'Baked Yam'.",
 		},
 		resource = {
 			[1] = {
-				text = "스모키를 테이밍에 성공",
+				text = "Succeed on Taming Smokie",
 			},
 		},
 		reward = {},
@@ -6915,14 +6915,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "요요 - 길들이기",
+		title = "Yoyo - taming",
 		content = {
-			summary = "요요를 테이밍에 성공한다",
-			details = "요요를 펫으로 만들자. '열대의 바나나' 아이템으로 꼬실 수 있다.",
+			summary = "Succeed on Taming Yoyo",
+			details = "Let's get a Yoyo pet. You can use 'Tropical Banana'.",
 		},
 		resource = {
 			[1] = {
-				text = "요요를 테이밍에 성공",
+				text = "Succeed on Taming Yoyo",
 			},
 		},
 		reward = {},
@@ -6933,14 +6933,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "페코페코 - 길들이기",
+		title = "Peco Peco - taming",
 		content = {
-			summary = "페코페코를 테이밍에 성공한다",
-			details = "페코페코를 펫으로 만들자. '토실토실 지렁이' 아이템으로 꼬실 수 있다.",
+			summary = "Succeed on Taming Peco Peco",
+			details = "Let's get a Peco Peco pet. You can use 'Fatty Chubby Earthworm'.",
 		},
 		resource = {
 			[1] = {
-				text = "페코페코를 테이밍에 성공",
+				text = "Succeed on Taming Peco Peco",
 			},
 		},
 		reward = {},
@@ -6951,14 +6951,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "쁘띠 - 길들이기",
+		title = "Petite - taming",
 		content = {
-			summary = "쁘띠를 테이밍에 성공한다",
-			details = "쁘띠를 펫으로 만들자. '반짝이는 돌' 아이템으로 꼬실 수 있다.",
+			summary = "Succeed on Taming Petite",
+			details = "Let's get a Petite pet. You can use 'Shining Stone'.",
 		},
 		resource = {
 			[1] = {
-				text = "쁘띠를 테이밍에 성공",
+				text = "Succeed on Taming Petite",
 			},
 		},
 		reward = {},
@@ -6969,38 +6969,38 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 3,
 		minor = 1,
-		title = "결성! 몬스터 걸즈!!",
+		title = "Monster Girls Unite!!",
 		content = {
-			summary = "목표 과제를 모두 완료한다",
-			details = "자다가도 몬스터 걸즈 결성 생각에 깨어나는 당신은 진정한 프로듀셔!",
+			summary = "Complete all objective tasks",
+			details = "You're awakened with the idea of becoming the producer of monster girls!",
 		},
 		resource = {
 			[1] = {
-				text = "과제 '무낙 - 길들이기' 완료",
+				text = "Complete 'Munak - taming' challenge",
 				shortcut = 230141,
 			},
 			[2] = {
-				text = "과제 '이시스 - 길들이기' 완료",
+				text = "Complete 'Isis - taming' challenge",
 				shortcut = 230142,
 			},
 			[3] = {
-				text = "과제 '소희 - 길들이기' 완료",
+				text = "Complete 'Sohee - taming' challenge",
 				shortcut = 230143,
 			},
 			[4] = {
-				text = "과제 '지르타스 - 길들이기' 완료",
+				text = "Complete 'Zherlthsh - taming' challenge",
 				shortcut = 230144,
 			},
 			[5] = {
-				text = "과제 '엘리스 - 길들이기' 완료",
+				text = "Complete 'Alice - taming' challenge",
 				shortcut = 230145,
 			},
 			[6] = {
-				text = "과제 '서큐버스 - 길들이기' 완료",
+				text = "Complete 'Succubus - taming' challenge",
 				shortcut = 230146,
 			},
 			[7] = {
-				text = "과제 '로리루리 - 길들이기' 완료",
+				text = "Complete 'Loli Ruri - taming' challenge",
 				shortcut = 230147,
 			},
 		},
@@ -7015,14 +7015,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "무낙 - 길들이기",
+		title = "Munak - taming",
 		content = {
-			summary = "무낙을 테이밍에 성공한다",
-			details = "무낙을 펫으로 만들자. '수취인 불명' 아이템으로 꼬실 수 있다.",
+			summary = "Succeed on Taming Munak",
+			details = "Let's get a Munak pet. You can use 'No Recipient'.",
 		},
 		resource = {
 			[1] = {
-				text = "무낙을 테이밍에 성공",
+				text = "Succeed on Taming Munak",
 			},
 		},
 		reward = {},
@@ -7033,14 +7033,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "이시스 - 길들이기",
+		title = "Isis - taming",
 		content = {
-			summary = "이시스를 테이밍에 성공한다",
-			details = "이시스를 펫으로 만들자. '복종의 팔찌' 아이템으로 꼬실 수 있다.",
+			summary = "Succeed on Taming Isis",
+			details = "Let's get a Isis pet. You can use 'Armlet of Obedience'.",
 		},
 		resource = {
 			[1] = {
-				text = "이시스를 테이밍에 성공",
+				text = "Succeed on Taming Isis",
 			},
 		},
 		reward = {},
@@ -7051,14 +7051,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "소희 - 길들이기",
+		title = "Sohee - taming",
 		content = {
-			summary = "소희을 테이밍에 성공한다",
-			details = "소희을 펫으로 만들자. '순결의 은장도' 아이템으로 꼬실 수 있다.",
+			summary = "Succeed on Taming Sohee",
+			details = "Let's get a Sohee pet. You can use 'Silver Knife of Chastity'.",
 		},
 		resource = {
 			[1] = {
-				text = "소희을 테이밍에 성공",
+				text = "Succeed on Taming Sohee",
 			},
 		},
 		reward = {},
@@ -7069,14 +7069,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "지르타스 - 길들이기",
+		title = "Zherlthsh - taming",
 		content = {
-			summary = "지르타스를 테이밍에 성공한다",
-			details = "지르타스를 펫으로 만들자. '금단의 붉은양초' 아이템으로 꼬실 수 있다.",
+			summary = "Succeed on Taming Zherlthsh",
+			details = "Let's get a Zherlthsh pet. You can use 'Forbidden Red Candle'.",
 		},
 		resource = {
 			[1] = {
-				text = "지르타스를 테이밍에 성공",
+				text = "Succeed on Taming Zherlthsh",
 			},
 		},
 		reward = {},
@@ -7087,14 +7087,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "엘리스 - 길들이기",
+		title = "Alice - taming",
 		content = {
-			summary = "엘리스를 테이밍에 성공한다",
-			details = "엘리스를 펫으로 만들자. '하늘하늘 앞치마' 아이템으로 꼬실 수 있다.",
+			summary = "Succeed on Taming Alice",
+			details = "Let's get a Alice pet. You can use 'Soft Apron'.",
 		},
 		resource = {
 			[1] = {
-				text = "엘리스를 테이밍에 성공",
+				text = "Succeed on Taming Alice",
 			},
 		},
 		reward = {},
@@ -7105,14 +7105,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "서큐버스 - 길들이기",
+		title = "Succubus - taming",
 		content = {
-			summary = "서큐버스를 테이밍에 성공한다",
-			details = "서큐버스를 펫으로 만들자. '소년의 순정' 아이템으로 꼬실 수 있다.",
+			summary = "Succeed on Taming Succubus",
+			details = "Let's get a Succubus pet. You can use 'Boy's Pure Heart'.",
 		},
 		resource = {
 			[1] = {
-				text = "서큐버스를 테이밍에 성공",
+				text = "Succeed on Taming Succubus",
 			},
 		},
 		reward = {},
@@ -7123,14 +7123,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "로리루리 - 길들이기",
+		title = "Loli Ruri - taming",
 		content = {
-			summary = "로리루리를 테이밍에 성공한다",
-			details = "로리루리를 펫으로 만들자. '새빨간 쥬스' 아이템으로 꼬실 수 있다.",
+			summary = "Succeed on Taming Loli Ruri",
+			details = "Let's get a Loli Ruri pet. You can use 'Very Red Juice'.",
 		},
 		resource = {
 			[1] = {
-				text = "로리루리를 테이밍에 성공",
+				text = "Succeed on Taming Loli Ruri",
 			},
 		},
 		reward = {},
@@ -7141,22 +7141,22 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 3,
 		minor = 1,
-		title = "포링 탐구자",
+		title = "Poring seeker",
 		content = {
-			summary = "목표 과제를 모두 완료한다",
-			details = "식물도 아니고 동물도 아닌 기묘한 생물체 포링. 포링에 대해 알아보려면 직접 대면하여 체험하는 것이 최고의 방법이다.",
+			summary = "Complete all objective tasks",
+			details = "Poring is a strange creature, neither plant nor animal. To learn more about Poring, the best way is to experience face-to-face directly.",
 		},
 		resource = {
 			[1] = {
-				text = "과제 '포링 탐구생활 (1)' 완료",
+				text = "Complete 'Exploring Poring's life (1)' challenge",
 				shortcut = 230201,
 			},
 			[2] = {
-				text = "과제 '포링 탐구생활 (2)' 완료",
+				text = "Complete 'Exploring Poring's life (2)' challenge",
 				shortcut = 230202,
 			},
 			[3] = {
-				text = "과제 '포링 탐구생활 (3)' 완료",
+				text = "Complete 'Exploring Poring's life (3)' challenge",
 				shortcut = 230203,
 			},
 		},
@@ -7168,30 +7168,30 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "포링 탐구생활 (1)",
+		title = "Exploring Poring's life (1)",
 		content = {
-			summary = "목표의 대상들을 사냥한다",
-			details = "서식지 환경에 따른 외형이 도드라진 것이 특징이다. 쉬운 상대이니 가볍게 접해보자.",
+			summary = "Hunting the targeted object",
+			details = "The appearance of poring affected by their habitat. Let's face an easy opponent.",
 		},
 		resource = {
 			[1] = {
-				text = "포링 10회 사냥",
+				text = "Hunt 10 Poring",
 				count = 10,
 			},
 			[2] = {
-				text = "풋내기 포링 10회 사냥",
+				text = "Hunt 10 Novice Poring",
 				count = 10,
 			},
 			[3] = {
-				text = "드롭프스 10회 사냥",
+				text = "Hunt 10 Drops",
 				count = 10,
 			},
 			[4] = {
-				text = "포포링 10회 사냥",
+				text = "Hunt 10 Poporing",
 				count = 10,
 			},
 			[5] = {
-				text = "마린 10회 사냥",
+				text = "Hunt 10 Marin",
 				count = 10,
 			},
 		},
@@ -7203,30 +7203,30 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "포링 탐구생활 (2)",
+		title = "Exploring Poring's life (2)",
 		content = {
-			summary = "목표의 대상들을 사냥한다",
-			details = "세상엔 강한 포링도 존재한다. 얼마나 강한지 직접 경험해보자.",
+			summary = "Hunting the targeted object",
+			details = "There is also a strong one in Poring world. Let's not directly face the strong one.",
 		},
 		resource = {
 			[1] = {
-				text = "마스터링 1회 사냥",
+				text = "Hunt 1 Mastering",
 				count = 1,
 			},
 			[2] = {
-				text = "데빌링 1회 사냥",
+				text = "Hunt 1 Devilring",
 				count = 1,
 			},
 			[3] = {
-				text = "엔젤링 1회 사냥",
+				text = "Hunt 1 Angelring",
 				count = 1,
 			},
 			[4] = {
-				text = "아크엔젤링 1회 사냥",
+				text = "Hunt 1 Arch Angelring",
 				count = 1,
 			},
 			[5] = {
-				text = "고스트링 1회 사냥",
+				text = "Hunt 1 Ghostring",
 				count = 1,
 			},
 		},
@@ -7238,22 +7238,22 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "포링 탐구생활 (3)",
+		title = "Exploring Poring's life (3)",
 		content = {
-			summary = "목표의 대상들을 사냥한다",
-			details = "일반적인 포링계열에서 벗어난 듯한 외형을 가진 포링. 지속적인 연구가 필요하다.",
+			summary = "Hunting the targeted object",
+			details = "In Poring family, there are porings that has a glowing appearance. A further research is required.",
 		},
 		resource = {
 			[1] = {
-				text = "메탈링 5회 사냥",
+				text = "Hunt 5 Metalring",
 				count = 5,
 			},
 			[2] = {
-				text = "헤비 메탈링 5회 사냥",
+				text = "Hunt 5 Heavy Metalring",
 				count = 5,
 			},
 			[3] = {
-				text = "마그마링 5회 사냥",
+				text = "Hunt 5 Magmaring",
 				count = 5,
 			},
 		},
@@ -7265,14 +7265,14 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 6,
 		minor = 0,
-		title = "달성과제 도입 후 첫 접속",
+		title = "Complete challenges after first introduction",
 		content = {
-			summary = "달성과제 시스템 도입 후 첫 접속을 완료.",
-			details = "달성과제 시스템이 도입된 이후에 첫 접속을 기념한다.",
+			summary = "Complete challenges after first introduction.",
+			details = "Complete challenges after first introduction.",
 		},
 		resource = {
 			[1] = {
-				text = "달성과제 시스템 도입 후 첫 접속을 완료",
+				text = "Complete challenges after first introduction",
 			},
 		},
 		reward = {},
@@ -7283,7 +7283,7 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Achieve Rank 1",
+		title = "Achieve Level 1",
 		content = {
 			summary = "Reach Rank 1",
 			details = "Reach Rank 1.",
@@ -7304,7 +7304,7 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Achieve Rank 2",
+		title = "Achieve Level 2",
 		content = {
 			summary = "Reach Rank 2",
 			details = "Reach Rank 2.",
@@ -7325,7 +7325,7 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Achieve Rank 3",
+		title = "Achieve Level 3",
 		content = {
 			summary = "Reach Rank 3",
 			details = "Reach Rank 3.",
@@ -7346,7 +7346,7 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Achieve Rank 4",
+		title = "Achieve Level 4",
 		content = {
 			summary = "Reach Rank 4",
 			details = "Reach Rank 4.",
@@ -7367,7 +7367,7 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Achieve Rank 5",
+		title = "Achieve Level 5",
 		content = {
 			summary = "Reach Rank 5",
 			details = "Reach Rank 5.",
@@ -7388,7 +7388,7 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Achieve Rank 6",
+		title = "Achieve Level 6",
 		content = {
 			summary = "Reach Rank 6",
 			details = "Reach Rank 6.",
@@ -7409,7 +7409,7 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Achieve Rank 7",
+		title = "Achieve Level 7",
 		content = {
 			summary = "Reach Rank 7",
 			details = "Reach Rank 7.",
@@ -7430,7 +7430,7 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Achieve Rank 8",
+		title = "Achieve Level 8",
 		content = {
 			summary = "Reach Rank 8",
 			details = "Reach Rank 8.",
@@ -7451,7 +7451,7 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Achieve Rank 9",
+		title = "Achieve Level 9",
 		content = {
 			summary = "Reach Rank 9",
 			details = "Reach Rank 9.",
@@ -7472,10 +7472,10 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Achieve Rank 10",
+		title = "Achieve Level 10",
 		content = {
 			summary = "Reach Rank 10",
-			details = "Reach Rank 10. 노력상으로 칭호를 받을 수 있다.",
+			details = "Reach Rank 10. Title will be rewarded.",
 		},
 		resource = {
 			[1] = {
@@ -7494,7 +7494,7 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Achieve Rank 11",
+		title = "Achieve Level 11",
 		content = {
 			summary = "Reach Rank 11",
 			details = "Reach Rank 11.",
@@ -7515,7 +7515,7 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Achieve Rank 12",
+		title = "Achieve Level 12",
 		content = {
 			summary = "Reach Rank 12",
 			details = "Reach Rank 12.",
@@ -7536,7 +7536,7 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Achieve Rank 13",
+		title = "Achieve Level 13",
 		content = {
 			summary = "Reach Rank 13",
 			details = "Reach Rank 13.",
@@ -7557,7 +7557,7 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Achieve Rank 14",
+		title = "Achieve Level 14",
 		content = {
 			summary = "Reach Rank 14",
 			details = "Reach Rank 14.",
@@ -7578,7 +7578,7 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Achieve Rank 15",
+		title = "Achieve Level 15",
 		content = {
 			summary = "Reach Rank 15",
 			details = "Reach Rank 15.",
@@ -7599,7 +7599,7 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Achieve Rank 16",
+		title = "Achieve Level 16",
 		content = {
 			summary = "Reach Rank 16",
 			details = "Reach Rank 16.",
@@ -7620,7 +7620,7 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Achieve Rank 17",
+		title = "Achieve Level 17",
 		content = {
 			summary = "Reach Rank 17",
 			details = "Reach Rank 17.",
@@ -7641,7 +7641,7 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Achieve Rank 18",
+		title = "Achieve Level 18",
 		content = {
 			summary = "Reach Rank 18",
 			details = "Reach Rank 18.",
@@ -7662,7 +7662,7 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Achieve Rank 19",
+		title = "Achieve Level 19",
 		content = {
 			summary = "Reach Rank 19",
 			details = "Reach Rank 19.",
@@ -7683,10 +7683,10 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Achieve Rank 20",
+		title = "Achieve Level 20",
 		content = {
 			summary = "Reach Rank 20",
-			details = "Reach Rank 20. 노력상으로 칭호를 받을 수 있다.",
+			details = "Reach Rank 20. Title will be rewarded.",
 		},
 		resource = {
 			[1] = {
