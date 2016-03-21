@@ -6517,6 +6517,56 @@ H구역의 탐색을 마쳤다. 현재 상황을 엘론드 로렌스에게 전달하자.#
 레이딘 커스에게 의뢰물품을 전달하고 인수증을 받았다.#
 #
 
+// 2016 점핑 장비지급
+5738#장비를지급받았습니다.#SG_FEEL#QUE_NOIMAGE#
+점핑2016지원장비지급#
+#
+
+// 텔레포트 자유를 위하여..
+5727#갑자기 맡게 된 일#SG_FEEL#QUE_NOIMAGE#
+갑자기 나타난 베로란 남자가 같이 일을 하자고 한다. 다음날 새벽 4시 이후에 출발할 예정이라고 하니 시간이 지난 후 찾아가보자.#
+#
+
+5728#두통#SG_FEEL#QUE_NOIMAGE#
+베로는 평소 사용하지 않던 머릴 써서 두통이 있나 보다. 잠깐 쉬었다 다시 시작하자.#
+#
+
+5729#아인베흐로#SG_FEEL#QUE_NOIMAGE#
+아인베흐 화물열차 맨 뒤 칸으로 ^C33120불 속성의 기운이 가득 담긴 물건^000000을 가지고 가자.#
+#
+
+5730#장치를 파괴할 물건#SG_FEEL#QUE_NOIMAGE#
+장치를 파괴하기 위해서는 물속성의 기운이 가득한 물건이 필요하다는 것 같다. 1개론 부족하다고 하니 3개쯤 가져 가기로 할까?#
+#
+
+5731#클라나 네미에리로#SG_FEEL#QUE_NOIMAGE#
+아인베흐의 장치를 파괴했다. 일단 클라나 네미에리로 되돌아가자.#
+#
+
+5732#리히타르젠으로#SG_FEEL#QUE_NOIMAGE#
+정보원에 의해 정보가 입수되었다. 리히타르젠 대저택 사방이 물로 둘러 쌓인 장소로 미스틱프로즌 1개와 러프윈드 3개를 챙겨가자.#
+#
+
+5733#클라나 네미에리로#SG_FEEL#QUE_NOIMAGE#
+리히타르젠의 장치를 파괴했다. 일단 클라나 네미에리로 되돌아가자.#
+#
+
+5734#핵심재료는 항상 문제#SG_FEEL#QUE_NOIMAGE#
+너무 대놓고 뻔뻔하게 부탁을 해오니 거절하기 어렵다. 별의 조각 1개만 있으면 바로 수리할 수 있다고 하니 구해다 주자.#
+#
+
+5735#유노로#SG_FEEL#QUE_NOIMAGE#
+장치가 설치된 좌표가 확인 되었다. 베로는 유노 206 224 좌표로 그레이트 네이쳐 4개를 챙겨가자.#
+#
+
+5736#아인브로크로#SG_FEEL#QUE_NOIMAGE#
+베로가 무언가에 쫓기듯 서두르는 듯한 느낌이 든다. 프레임하트 3개를 챙겨 아인브로크 풍력발전기가 있는 장소로 가자.#
+#
+
+5737#클라나 네미에리로#SG_FEEL#QUE_NOIMAGE#
+장치를 파괴하자마자 베로 녀석도 갑자기 사라져 버리고 일단은 클라나 네미에리로 되돌아 가기로 할까?#
+#
+
 //-- 6000
 //Taekwondo
 6000#Job Change to Taekwon#SG_FEEL#QUE_NOIMAGE#
@@ -9404,6 +9454,136 @@ Return to Bori after the timer has expired#
 스태이터스, 능력치라는 것에 대해 알게 되었다. 근처에 있는 자경단원 뇨키에게 좀 더 자세한 설명을 들어보자.#
 뇨키와 대화#
 
+//-- ep16.2 
+
+7731#은밀한 움직임#SG_FEEL#QUE_NOIMAGE#
+리히타르젠에서 브루노라는 시종을 찾기로 했다. 우선 리히타르젠 공항에서 크룩스와 합류하자.#
+크룩스와 대화#
+
+7732#용의자 수색#SG_FEEL#QUE_NOIMAGE#
+브루노를 찾기 위해 리히타르젠 북부, 북동부를 수색하기로 했다.#
+브루노 찾기#
+
+7733#추적!#SG_FEEL#QUE_NOIMAGE#
+브루노가 향한 곳을 알게 되었다. 리히타르젠 백화점 근처에서 기다리고 있을 스키아에게 알리고 빈민가로 가서 브루노를 찾자!#
+빈민가 수색#
+
+7734#체포#SG_FEEL#QUE_NOIMAGE#
+브루노를 사로잡는데 성공했다. 우선 프론테라 왕궁으로 돌아가 다음 일에 대해 협의하자.#
+니힐과 대화#
+
+7735#은밀한 움직임2#SG_FEEL#QUE_NOIMAGE#
+아무래도 슈발츠발드 공화국 정보와의 협조가 필요한 상황인 것 같다. 몰래 협상을 하러 떠난 스피카의 호위를 맡았다. 유노 공항에서 합류하자.#
+크룩스와 대화#
+
+7736#관광과 밀담은 종잇장 차이#SG_FEEL#QUE_NOIMAGE#
+유노에서 합류하기로 한 스피카는 보안을 위해 리히타르젠의 호텔로 이동한 뒤라고 한다. 관광을 위장한 스피카를 만나러 리히타르젠 호텔로 이동하자.#
+스피카와 대화#
+
+7737#리벨리온과 함께#SG_FEEL#QUE_NOIMAGE#
+리벨리온을 끌어들이기 위해 준비중인 요원과 함께 리벨리온을 설득하기로 했다. 아인브로크 기차역에서 협상요원 레이지를 만나 리벨리온과의 협상을 성공하자.#
+리벨리온#
+
+7738#다음 작전을 위해#SG_FEEL#QUE_NOIMAGE#
+리벨리온의 협조를 얻는데 성공하자 계획은 빨리 진행되었다. 아인브로크 호텔로 이동해 다음 지시를 듣자.#
+니힐과 대화#
+
+7739#축복의 별을 찾아라!#SG_FEEL#QUE_NOIMAGE#
+작전지점은 아인브로크 북부 필드. 좌표 280 332 라고 한다. 리벨리온측에서 펼치는 작전을 성공시키고 축복의 별을 되찾자.#
+축복의 별 회수#
+
+7740#되찾은 별#SG_FEEL#QUE_NOIMAGE#
+축복의 별을 되찾았다. 아인브로크의 호텔에서 결과를 기다리고 있을 일행에게 돌아가자.#
+니힐과 대화#
+
+7741#귀환#SG_FEEL#QUE_NOIMAGE#
+축복의 별을 되찾았다. 사건의 마무리를 위해 프론테라 왕궁으로 돌아가기로 했다.#
+스키아와 대화#
+
+7742#잔당 소탕#SG_FEEL#QUE_NOIMAGE#
+베르너 연구소 중추실에서 그간 보지 못했던 강력한 키메라가 나타난다고 한다. 루키는 괴물 키메라 '귀염둥이'를 처치해 달라고 의뢰했다.#
+귀염둥이 처치#
+
+7743#잔당 소탕-대기#SG_FEEL#QUE_NOIMAGE#
+영문을 모를 노릇이지만, 괴물 키메라는 지속적으로 나타나고 있다고. 당분간 매일 처리해 주어야 할 것이다.#
+04시 초기화#
+
+7744#숨어있는 연구원#SG_FEEL#QUE_NOIMAGE#
+베르너 연구소 내부 곳곳에는 미처 몸을 빼지 못한 연구원들이 숨어있다. 필로폰테스는 숨어있는 직원이나 연구원을 찾아달라고 했다.#
+연구원 3명 찾기#
+
+7745#숨어있는 연구원-대기#SG_FEEL#QUE_NOIMAGE#
+필로폰테스의 연구소 수색은 계속 될 듯 하다. 시간이 나면 가서 도와주자.#
+04시 초기화#
+
+7746#한쌍의 낡은 반지#SG_FEEL#QUE_NOIMAGE#
+세이렌의 유품을 전달했습니다.#
+#
+
+7747#로켓 펜던트#SG_FEEL#QUE_NOIMAGE#
+카트린느 케이론의 유품을 전달했습니다.#
+#
+
+7748#나무로 만든 로자리#SG_FEEL#QUE_NOIMAGE#
+마가레타 소린의 유품을 전달했습니다.#
+#
+
+7749#장식된 활골무#SG_FEEL#QUE_NOIMAGE#
+알트아이젠 하워드의 유품을 전달했습니다.#
+#
+
+7750#어쌔신 문양의 단검#SG_FEEL#QUE_NOIMAGE#
+에레메스 가일의 유품을 전달했습니다.#
+#
+
+7751#휴대용 반짇고리#SG_FEEL#QUE_NOIMAGE#
+셰실 디먼의 유품을 전달했습니다.#
+#
+
+7752#꼭꼭 숨어라#SG_FEEL#QUE_NOIMAGE#
+숨어있던 연구원을 찾았습니다.#
+#
+
+7753#꼭꼭 숨어라#SG_FEEL#QUE_NOIMAGE#
+숨어있던 연구원을 찾았습니다.#
+#
+
+7754#꼭꼭 숨어라#SG_FEEL#QUE_NOIMAGE#
+숨어있던 연구원을 찾았습니다.#
+#
+
+7755#꼭꼭 숨어라#SG_FEEL#QUE_NOIMAGE#
+숨어있던 연구원을 찾았습니다.#
+#
+
+7756#꼭꼭 숨어라#SG_FEEL#QUE_NOIMAGE#
+숨어있던 연구원을 찾았습니다.#
+#
+
+7757#꼭꼭 숨어라#SG_FEEL#QUE_NOIMAGE#
+숨어있던 연구원을 찾았습니다.#
+#
+
+7758#꼭꼭 숨어라#SG_FEEL#QUE_NOIMAGE#
+숨어있던 연구원을 찾았습니다.#
+#
+
+7759#꼭꼭 숨어라#SG_FEEL#QUE_NOIMAGE#
+숨어있던 연구원을 찾았습니다.#
+#
+
+7760#꼭꼭 숨어라#SG_FEEL#QUE_NOIMAGE#
+숨어있던 연구원을 얼추 찾은 것 같다. 작전이에서 대기중인 테스에게 보고하자.#
+테스와 대화#
+
+7761#키메라에게 안식을#SG_FEEL#QUE_NOIMAGE#
+연구소 내부에서 날뛰고 있는 실험체 처리에 대원들이 힘들어 하고 있다. ^4d4dff물질형 키메라, 인간형 키메라^000000를 각각 ^4d4dff 10 체^000000 처리해 주자.#
+키메라 처치#
+
+7762#키메라에게 안식을-대기#SG_FEEL#QUE_NOIMAGE#
+해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행 할 수 있습니다. 점령한 하트헌터 군수기지의 유슬란을 통해 퀘스트 수주가 가능합니다.#
+04시 초기화#
+
 // 이경숙
 
 8000#Quitting Job Change#SG_FEEL#QUE_NOIMAGE#
@@ -11438,17 +11618,17 @@ Come back after 23 hours.#
 ^8B4513하루가 지난 후^000000 ^0000FF프로 낚시꾼^000000에게 다시 낚시 명당 위치를 받자.#
 ^8B4513하루가 지난 후^000000 낚시 명당 위치 받기.#
 
-9335#기간테스의 파편을 찾아서#SG_FEEL#QUE_NOIMAGE#
-^8B4513번하드 박사^000000의 메세지: ^0000FF시간의 균열^000000 안 으로 가서 기간테스의 파편을 가져다 주길 바라네.#
-고대의 기간테스에게 파편 획득.#
+9335#Search for Fragments of Gigantes#SG_FEEL#QUE_NOIMAGE#
+Message from ^8B4513Professor Bernhard ^000000: I ask that you enter the ^0000FF fissure of time^000000 and bring back Fragments of Gigantes.#
+Can be obtained from Ancient Gigantes.#
 
-9336#번하드 박사를 다시 찾아가기#SG_FEEL#QUE_NOIMAGE#
-^8B4513번하드 박사^000000의 메세지: 강력한 병기를 만들기 위한 파편이 아직 부족하네, 차원의 문을 열 에너지가 모이면 다시 찾아오길 바라네.#
-7일이 지난 후 재회.#
+9336#Go back to Professor Bernhard#SG_FEEL#QUE_NOIMAGE#
+Message from ^8B4513 Professor Bernhard^000000: I don't have enough shards to create powerful weapons, come back when there is enough energy to open the dimensional door.#
+Reunited after 7 days.#
 
-9337#모험을 마치며#SG_FEEL#QUE_NOIMAGE#
-^8B4513펜릴^000000과 대화를 나누고 차원의 균열 번하드 박사에게 돌아가야 한다..#
-번하드 박사와 재회.#
+9337#Wrapping up the Adventure#SG_FEEL#QUE_NOIMAGE#
+Talk to ^8B4513Fenrir^000000 and go back to time fissure Professor Bernhard.. #
+Reunite with Professor Bernhard.#
 
 9340#쥐의 영혼 조각을 모아오기.#SG_FEEL#QUE_NOIMAGE#
 프론테라 지하수로에서 타로우, 프론테라 필드와 페이욘 숲속에 있는 코코를 잡아 쥐의 영혼 조각을 100개 모아와야 한다.#
@@ -14116,6 +14296,84 @@ Complete Hat manufacture.#
 필드 및 던전 어딘가에 있는 도망치는 잭을 10개정도 잡고, 잭을 잡으면 떨어지는 호박장식 10개, 잘 마른 하얀줄기 20개를 호로링에게 가져오자.#
 잭을 니플헤임으로#
 
+// 2016 신년
+11452#손님을 위한 배려#SG_FEEL#QUE_NOIMAGE#
+필드에 출몰하는 나들이 문어와 문어다리를 잡아서 끈적끈적한 점액 16개를 가져오자.#
+끈적끈적한 점액 수집#
+
+11453#손님을 위한 배려#SG_FEEL#QUE_NOIMAGE#
+오늘의 덕담 이벤트는 종료! 내일 다시 찾아오자.#
+내일 다시!#
+
+// 16.2
+11454#앙금#SG_FEEL#QUE_NOIMAGE#
+리벨리온의 대장인 루퍼드를 설득하는데 실패 했다. 다른 사람들을 먼저 만나 보도록 하자.#
+다른 사람들을 먼저 만나보자.#
+
+11455#앙금#SG_FEEL#QUE_NOIMAGE#
+디엔의 방에 들어 왔다. 디엔과 대화를 해보자.#
+디엔과 대화#
+
+11456#앙금#SG_FEEL#QUE_NOIMAGE#
+사정을 설명하자 디엔은 잠깐 생각할 시간을 달라고 한다. 잠시 후 다시 디엔과 대화 하자.#
+디엔과 대화#
+
+11457#앙금#SG_FEEL#QUE_NOIMAGE#
+디엔의 승낙을 받아냈다. 다른 원로중 하나인 특수부대 대대장 에스트를 만나보자.#
+에스트와 대화#
+
+11458#앙금#SG_FEEL#QUE_NOIMAGE#
+에스트의 승낙도 받아냈다. 다시 루퍼드와 대화하자.#
+루퍼드와 대화#
+
+11459#앙금#SG_FEEL#QUE_NOIMAGE#
+디엔이 보낸 편지를 읽은 루퍼드는 편지 내용을 믿을 수 없는지 라시스에게 다시 읽어보라고 전해줬다. 라시스에게서 내용을 확인하자.#
+라시스와 대화#
+
+11460#앙금#SG_FEEL#QUE_NOIMAGE#
+내용을 확인해 보았지만 틀린 내용은 없었다. 다시 루퍼드와대화하자.#
+루퍼드와 대화#
+
+11461#앙금#SG_FEEL#QUE_NOIMAGE#
+루퍼드와 대화중 디엔이 나타났다. 디엔과 대화하자.#
+디엔과 대화#
+
+11462#앙금#SG_FEEL#QUE_NOIMAGE#
+갑자기 나타난 디엔과 루퍼드가 싸우기 시작했다. 루퍼드의 이야기를 들어보자.#
+루퍼드와 대화#
+
+11463#파티준비라고 그랬잖아요?#SG_FEEL#QUE_NOIMAGE#
+디엔의 방 앞에서 뭔가 수상한 이야기를 들었지만 아는척 해서는 안될 것 같다. 일단 심부름을 도와주기로 약속 했으니 방으로 들어가 디엔과 대화하자.#
+디엔과 대화#
+
+11464#파티준비라고 그랬잖아요?#SG_FEEL#QUE_NOIMAGE#
+일에 대해서는 라시스에게 말해 두었다고 한다. 라시스와 대화하자.#
+라시스와 대화#
+
+11465#디엔의 고급차#SG_FEEL#QUE_NOIMAGE#
+리벨리온의 장로인 디엔이 아인브로크 북쪽필드 북동쪽 구석에 있는 율리안에게 안으로 들여보내달라고한 다음, 하트 헌터 이블과의 전투에서 승리하고 고급차 1개를 구해 달라고 한다.#
+디엔의 심부름#
+
+11466#디엔의 고급차#SG_FEEL#QUE_NOIMAGE#
+디엔의 심부름을 완료했다. 내일 다시 오자.#
+내일 다시!#
+
+11467#리드쉬의 오래된 편지#SG_FEEL#QUE_NOIMAGE#
+리벨리온의 장로인 리드쉬가 아인브로크 북쪽필드 북동쪽 구석에 있는 율리안에게 안으로 들여보내달라고한 다음, 강화 하트 헌터를 처치하고 오래된 편지 1개를 구해 달라고 한다.#
+리드쉬의 심부름#
+
+11468#리드쉬의 오래된 편지#SG_FEEL#QUE_NOIMAGE#
+리드쉬의 심부름을 완료했다. 내일 다시 오자.#
+내일 다시!#
+
+11469#코트네스의 번쩍이는 링#SG_FEEL#QUE_NOIMAGE#
+리벨리온의 장로인 코트네스가 아인브로크 북쪽필드 북동쪽 구석에 있는 율리안에게 안으로 들여보내달라고한 다음, 하트헌터 가드를 5명 처치하고 번쩍이는 링 4개를 구해 달라고 한다.#
+코트네스의 심부름#
+
+11470#코트네스의 번쩍이는 링#SG_FEEL#QUE_NOIMAGE#
+코트네스의 심부름을 완료했다. 내일 다시 오자.#
+내일 다시!#
+
 
 // 박해리슨
 12000#An old friend#SG_FEEL#QUE_NOIMAGE#
@@ -15584,6 +15842,15 @@ Coversation with Suspicious Prisoner#
 12372#금일 유물 수거 완료#SG_FEEL#QUE_NOIMAGE#
 오늘의 유물 수거는 종료되었습니다. 폐기할 유물이 생기면 하루가 지난 뒤 다시 방문해 봅시다#
 유물 수거 완료#
+
+//-- ep16.2
+12374#하트헌터 기지점령#SG_FEEL#QUE_NOIMAGE#
+하트헌터 기지로 통하는 길목을 완벽히 장악하고 리벨리온의 거점으로 삼을것.#
+기지점령#
+
+12375#기지 정비중#SG_FEEL#QUE_NOIMAGE#
+지금은 기지 내부 정비중입니다. 공병대의 활동을 위해 잠시 출입을 막고있습니다#
+기지 정비 안내#
 
 //---------yj 퀘스트필드 13000 ~ 13999
 13000#RWC 2011Card Gathering#SG_FEEL#QUE_NOIMAGE#
@@ -17174,7 +17441,7 @@ Give the Boss hat#
 드디어 범인을 만났지만 상태가 매우 좋지 않다. 이동마차가 오기 전엔 한발짝도 움직일수 없다 하니 일단 클랜마스터에게 돌아가 보고하자.#
 마스터에게 보고#
 
-14302#재수색#G_FEEL#QUE_NOIMAGE#
+14302#재수색#SG_FEEL#QUE_NOIMAGE#
 아무래도 제이드씨가 수상해. 제이드씨의 집을 다시 한번 방문해서 은밀히 조사해야 할 것 같은데.. 다녀 와.#
 제이드씨 집 재수색#
 
@@ -18372,6 +18639,92 @@ Bring Chocoins to Bitta in Einbroch#
 꿈길을 걸을 준비를 마치셨다면 저를 다시 찾아 주십시오.#
 니르엔에게#
 
+// EP. 16.2
+
+14595#아인베흐 기차역으로#SG_FEEL#QUE_NOIMAGE#
+우리는 아인베흐 기차역으로 가야 하니까 내 흔적을 잘 보고 따라 와. 혹시 흔적을 놓치면 아인베흐 기차역에서 만나자.#
+아인베흐 기차역으로#
+
+14596#흔적을 따라 가기#SG_FEEL#QUE_NOIMAGE#
+여기서부터는 길이 복잡해. 흔적을 남길테니 잘 보고 따라 와야 돼. 지도에도 표시해 뒀어. 혹시 흔적을 놓치면 일단 아래로 쭉 내려 가.#
+길을 따라 아래로#
+
+14597#아인베흐의 구석#SG_FEEL#QUE_NOIMAGE#
+우리는 아인베흐의 남동쪽의 후미진 곳에 가야 해. 흔적을 잘 보고 따라 와. 지도에도 표시해 뒀어.#
+구석진 곳으로#
+
+14598#보이지 않는 입구#SG_FEEL#QUE_NOIMAGE#
+레이지는 이곳에 볼일이 있는듯 하다. 어서 들어 가자.#
+보이지 않는 문으로#
+
+14599#차 한 잔의 보답#SG_FEEL#QUE_NOIMAGE#
+여기까지 왔는데 차 한 잔은 얻어 마셔야지. 네미씨나 에리씨에게 말을 걸면 안으로 들여 보내 줄 거야.#
+안쪽으로#
+
+14600#2층의 젠틀맨#SG_FEEL#QUE_NOIMAGE#
+가장 먼저 2층에 있는 젠틀맨, 루퍼드를 찾아가서 이야기를 나눠 보세요. 설득이 쉽진 않겠지만, 그럴 땐 레이디들에게 가보세요. .#
+우선 2층의 젠틀맨에게#
+
+14601#2층의 레이디들#SG_FEEL#QUE_NOIMAGE#
+2층에 계신 레이디들을 찾아가서 이야기를 나눠 보세요. 최대한 예의를 차려야 한다는 것. 알죠?#
+2층의 레이디들에게#
+
+14602#2층의 사냥개#SG_FEEL#QUE_NOIMAGE#
+2층의 엘레나를 찾아가서 이야기를 나눠 보세요. 아무때나 가도 강해보이는 모험가라면 반겨 주실 거예요. 아마도...#
+2층의 엘레나에게#
+
+14603#파이프 수리를 위한 재료#SG_FEEL#QUE_NOIMAGE#
+파이프 수리를 하기 위해서는 강철 5개랑 낡은 철판 15개가 필요해요. 고철 난로도 한 10마리 잡아 줬음 좋겠어요.#
+수리를 위한 재료#
+
+14604#국민 연료 태양 연료#SG_FEEL#QUE_NOIMAGE#
+타다만 나무 10개랑 석탄 3개가 필요해. 고철 난로를 10마리쯤, 어쩌면 더 많이 잡아야 할 거야. 너무 추워. 얼어 죽기 전에 어서 다녀 와!#
+국민 연료 수집#
+
+14605#반짝반짝 빛나는 것#SG_FEEL#QUE_NOIMAGE#
+반짝반짝 빛나는 수정의 조각과 검은 수정의 조각이 10개씩 필요해요. 옵시디언이랑 미네랄을 기술적으로 쓰러뜨려야 더 반짝이는 걸 얻을 수 있으니까 각각 5마리씩 잡으면 되지 않을까요?#
+수정의 조각 수집#
+
+14606#파이프 수리를 위한 재료#SG_FEEL#QUE_NOIMAGE#
+파이프 수리를 하기 위해서는 강철 5개랑 낡은 철판 15개가 필요해요. 고철 난로도 한 10마리 잡아 줬음 좋겠어요.#
+수리를 위한 재료#
+
+14607#국민 연료 태양 연료#SG_FEEL#QUE_NOIMAGE#
+타다만 나무 10개랑 석탄 3개가 필요해. 고철 난로를 10마리쯤, 어쩌면 더 많이 잡아야 할 거야. 너무 추워. 얼어 죽기 전에 어서 다녀 와!#
+국민 연료 수집#
+
+14608#반짝반짝 빛나는 것#SG_FEEL#QUE_NOIMAGE#
+반짝반짝 빛나는 수정의 조각과 검은 수정의 조각이 10개씩 필요해요. 옵시디언이랑 미네랄을 기술적으로 쓰러뜨려야 더 반짝이는 걸 얻을 수 있으니까 각각 5마리씩 잡으면 되지 않을까요?#
+수정의 조각 수집#
+
+14609#고요한 시간#SG_FEEL#QUE_NOIMAGE#
+지금은 모험가님의 도움이 필요하지 않으니 잠시 쉬세요.#
+초기화 시간 04시#
+
+14610#총기 회수#SG_FEEL#QUE_NOIMAGE#
+아인베흐에서 밑으로 내려가면 수상해 보이는 흙더미가 곳곳에 있을 거예요. 그걸 파헤쳐보면 부서진 총의 잔해가 나올텐데 그걸 가져다 주세요. 3개 정도요. 수상한 흙더미를 만질 땐 조심해야 돼요. 원한이 튀어나올 수 있거든요.#
+총기 회수#
+
+14611#총기 회수#SG_FEEL#QUE_NOIMAGE#
+아인베흐에서 밑으로 내려가면 수상해 보이는 흙더미가 곳곳에 있을 거예요. 그걸 파헤쳐보면 부서진 총의 잔해가 나올텐데 그걸 가져다 주세요. 3개 정도요. 수상한 흙더미를 만질 땐 조심해야 돼요. 원한이 튀어나올 수 있거든요.#
+총기 회수#
+
+14612#수리를 위한 시간#SG_FEEL#QUE_NOIMAGE#
+지금은 회수해 오신 것들을 수리 하는 중이에요. 새벽이 지난 후 다시 찾아 주시면 감사하겠어요.#
+초기화 시간 04시#
+
+14613#2층의 에스트#SG_FEEL#QUE_NOIMAGE#
+2층에 있는 에스트를 찾아가서 이야기를 나눠 보세요. 그 분을 설득하면 다음 일은 쉬울 겁니다.#
+2층의 에스트에게#
+
+14614#실세 설득#SG_FEEL#QUE_NOIMAGE#
+2층에 있다는 실세들을 만나 설득하고 와. 다른 길로 새면 안되고 꼭 나한테 와야 돼! 우리 모험가 힘내!#
+실세 설득 후 보고#
+
+14615#협상과 협잡 사이#SG_FEEL#QUE_NOIMAGE#
+우리 쪽에서 협력을 진행할 사람을 준비해 뒀대요. 상점 쪽 복도에 있는 리벨리온 대원을 만나 봐요.#
+리벨리온 대원에게#
+
 //-1
 15000#Experiencing abnormal statuses#SG_FEEL#QUE_NOIMAGE#
 As an apology, I will let you experience the abnormal statuses in advance.#
@@ -18523,17 +18876,17 @@ Kill 20 Byorgue Mercenary#
 퀘스트 완료 후 23시간 이후에 다시 퀘스트가 가능합니다.#
 23시간 이후 퀘스트 가능#
 
-15050#메모리얼 던전: 비공정 습격#SG_FEEL#QUE_NOIMAGE#
-입장 후 23시간 동안 던전의 입장이 금지됩니다. 아래 적힌 마감시간 이후에 입장 가능합니다.#
-23시간 이내 재입장 금지#
+15050#Memorial Dungeon: Airship Assault#SG_FEEL#QUE_NOIMAGE#
+Entry to dungeon is prohibited after 23 hours of entry. Entry is possible after the deadline written below.#
+Reentry within 23 hours is not permitted#
 
-15051#메모리얼 던전: 비공정 습격#SG_FEEL#QUE_NOIMAGE#
-던전 입장 후 5분 동안은 재입장이 가능합니다. 아래 적힌 마감시간 이후부터는 입장이 불가능합니다.#
-입장 5분이내 재입장 가능#
+15051#Memorial Dungeon: Airship Assault#SG_FEEL#QUE_NOIMAGE#
+Reentry is possible for 5 minutes after entering dungeon. Entry is possible starting from the deadline written below.#
+Reentry possible within 5 minutes after entry#
 
-15052#메모리얼 던전: 비공정 습격#SG_FEEL#QUE_NOIMAGE#
-입장한지 5분 이내에 던전을 클리어하여 23시간 동안 던전 입장이 금지됩니다.#
-23시간 이내 재입장 금지#
+15052#Memorial Dungeon: Airship Assault#SG_FEEL#QUE_NOIMAGE#
+Dungeon has been cleared within 5 minutes of entry so entry to dungeon is prohibited for 23 hours.#
+Reentry within 23 hours is not permitted#
 
 15055#Christmas : We are the great Single Union Army!#SG_FEEL#QUE_NOIMAGE#
 Find single cats in Lutie and ask them to join the Single Union Army.#
@@ -20473,6 +20826,35 @@ You can only challenge Troy once the timer has expired.#
 난파선에 오래된 동전을 숨기도록 하자.#
 난파선에 오래된 동전 숨기기#
 
+//게펜, 알베르타 일퀘 대기 수정
+
+21167#마을의 신뢰#SG_FEEL#QUE_NOIMAGE#
+마을에서 헌터플라이 사냥 의뢰를 받았다.#
+04시 초기화#
+
+21168#마을의 신뢰#SG_FEEL#QUE_NOIMAGE#
+마을에서 구울과 잭 사냥 의뢰를 받았다.#
+04시 초기화#
+
+21169#마을의 신뢰#SG_FEEL#QUE_NOIMAGE#
+마을에서 마리오네트와 데비루치 사냥 의뢰를 받았다.#
+04시 초기화#
+
+21170#마을의 신뢰#SG_FEEL#QUE_NOIMAGE#
+마을에서 쿠크레 사냥 의뢰를 받았다.#
+04시 초기화#
+
+21171#마을의 신뢰#SG_FEEL#QUE_NOIMAGE#
+마을에서 드래곤 테일과 스프링 래빗 사냥 의뢰를 받았다.#
+04시 초기화#
+
+21172#마을의 신뢰#SG_FEEL#QUE_NOIMAGE#
+마을에서 거북이 떼 사냥 의뢰를 받았다.#
+04시 초기화#
+
+21173#마을의 신뢰#SG_FEEL#QUE_NOIMAGE#
+마을에서 공중 쁘띠 사냥 의뢰를 받았다.#
+04시 초기화#
 
 //-- 모로크
 
@@ -26607,6 +26989,54 @@ Deliver 15 Well Baked Cookies to Austin's friends in Veins.#
 
 62876#Parcel Service Ishmael#SG_FEEL#QUE_NOIMAGE#
 Deliver 20 Fishtail to Jiro in Amatsu.#
+#
+
+62877#Dally Quen Bonus Ticket#SG_FEEL#QUE_NOIMAGE#
+Visit Dally Quen for your reward.#
+#
+
+62878#Deviling's Love#SG_FEEL#QUE_NOIMAGE#
+Talk with Deviling to hear out his story!#
+#
+
+62879#Deviling's Love#SG_FEEL#QUE_NOIMAGE#
+Talk with Angeling to try and see if she prefers any particular present!#
+#
+
+62880#Deviling's Love#SG_FEEL#QUE_NOIMAGE#
+Talk with townspeople in order to see what kind of gifts Angeling may like.#
+#
+
+62881#Deviling's Love#SG_FEEL#QUE_NOIMAGE#
+Report to Deviling with your findings. Help him decide what gift to give!#
+#
+
+62882#Deviling's Love#SG_FEEL#QUE_NOIMAGE#
+Help Deviling give a chocolate box to Angeling to show his feelings! Find Master Chocolatier Kevin for assistance! #
+#
+
+62883#Deviling's Love#SG_FEEL#QUE_NOIMAGE#
+Collect 10 Candy and 50 Apple. Return to Master Chocolatier Kevin to make a chocolate box.#
+#
+
+62884#Deviling's Love#SG_FEEL#QUE_NOIMAGE#
+Help deviling create a beautiful bouquet to give to Angeling! Report to Expert Florist Maya for assistance!#
+#
+
+62885#Deviling's Love#SG_FEEL#QUE_NOIMAGE#
+Collect 5 Illusion_Flower and 10 Love Flower in order to make a bouquet. Return to Expert Florist Maya to make bouquet.#
+#
+
+62886#Deviling's Love#SG_FEEL#QUE_NOIMAGE#
+Help Deviling create a Valentine's Card to give to Angeling! Seek out Master Artist Bruno for assistance!#
+#
+
+62887#Deviling's Love#SG_FEEL#QUE_NOIMAGE#
+Kill to collect 5 Burning Heartss and 10 Slick Paper in order to make the card.#
+#
+
+62888#Deviling's Love#SG_FEEL#QUE_NOIMAGE#
+Help Deviling talk to Angeling!#
 #
 
 70001#Searching for the Treasure Map#SG_FEEL#QUE_NOIMAGE#
