@@ -4,14 +4,14 @@ achievement_tbl = {
 		group = "EAT",
 		major = 4,
 		minor = 0,
-		title = "이 시간에 먹는건 살 안쪄",
+		title = "At this time I live to eat",
 		content = {
-			summary = "야식이 땡기는 시간 새벽 1시",
-			details = "빅풋이 요구한 음식을 야심한 시각에 가져다 준다",
+			summary = "The Bullseye midnight snack at 1 AM",
+			details = "Bring the food to Bigfoot at this hour."
 		},
 		resource = {
 			[1] = {
-				text = "빅풋이 요구한 음식을 야심한 시각에 가져다 준다",
+				text = "Bring the food to Bigfoot at this hour",
 			},
 		},
 		reward = {},

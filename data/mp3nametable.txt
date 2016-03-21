@@ -1,6 +1,13 @@
 //-- Last updated 2015-10-26 10:27 PM
 //∏ ¿Ã∏ß.rsw#bgm\\¿Ωæ«π¯»£#
 
+// ep16.2
+1@slw.rsw#bgm\\124.mp3#
+1@swat.rsw#bgm\\87.mp3#
+que_swat.rsw#bgm\\87.mp3#
+slabw01.rsw#bgm\\87.mp3#
+rebel_in.rsw#bgm\\86.mp3#
+
 //--- ≈ÎªÛ∆« ∏∂¿ª¿Ωæ«
 //prt_church.rsw#bgm\\10.mp3#
 //izlude.rsw#bgm\\26.mp3#
