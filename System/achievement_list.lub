@@ -1,4 +1,4 @@
-achievement_tbl_raw = {
+achievement_tbl = {
 	[110000] = {
 		UI_Type = 0,
 		group = "EAT",
@@ -5576,7 +5576,7 @@ achievement_tbl_raw = {
 		},
 		resource = {
 			[1] = {
-				text = "Achieve base STR 90º",
+				text = "Achieve base STR 90Âº",
 			},
 		},
 		reward = {},
@@ -5804,7 +5804,7 @@ achievement_tbl_raw = {
 		},
 		resource = {
 			[1] = {
-				text = "Achieve 99 base level as Noviceº",
+				text = "Achieve 99 base level as NoviceÂº",
 			},
 		},
 		reward = {
