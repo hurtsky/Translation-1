@@ -9355,13 +9355,13 @@ MATK +160
 Adds 10% Heal Bonus.
 -------------------------
 [^6666CCAffection Set^000000]
-^3CB371Wand of Affection^000000
-^3CB371Robe of Affection^000000
-^3CB371Shawl of Affection^000000
-^3CB371Shoes of Affection^000000
+^008800Wand of Affection^000000
+^008800Robe of Affection^000000
+^008800Shawl of Affection^000000
+^008800Shoes of Affection^000000
 Increase Healing skills by 25%.
 Increases SP consumption of ^6666CCHeal^000000 by 20.
-Reduces 2 seconds reuse delay of [Sacrement], [Lauda Agnus] and [Lauda Ramus].
+Reduces 2 seconds reuse delay of Sacrement, Lauda Agnus and Lauda Ramus.
 -------------------------
 Class:^6666CC One-Handed Staff^000000
 Attack:^CC0000 30^000000
@@ -9412,13 +9412,13 @@ MATK +180
 Adds 20% Heal Bonus.
 -------------------------
 [^6666CCAffection Set^000000]
-^3CB371Wand of Affection II^000000
-^3CB371Robe of Affection^000000
-^3CB371Shawl of Affection^000000
-^3CB371Shoes of Affection^000000
+^008800Empowered Wand of Affection^000000
+^008800Robe of Affection^000000
+^008800Shawl of Affection^000000
+^008800Shoes of Affection^000000
 Increase Healing skills by 45%.
 Increases SP consumption of ^6666CCHeal^000000 by 50.
-Reduces 3 seconds reuse delay of [Sacrement], [Lauda Agnus] and [Lauda Ramus].
+Reduces 3 seconds reuse delay of Sacrement, Lauda Agnus and Lauda Ramus.
 -------------------------
 Class:^6666CC One-handed Staff^000000
 Attack:^CC0000 30^000000
@@ -12600,15 +12600,15 @@ A magic staff charged with whirling power of wind.
 INT +3
 MATK +230
 -------------------------
-Increases damage of [Jupitel Thunder] by 12%.
+Increases damage of ^7BCC70Jupitel Thunder^000000 by 12%.
 -------------------------
-[^008800Goldenrod set^000000]
-^00FF00Goldenrod Staff^000000
-^00FF00Goldenrod Robe^000000
-^00FF00Goldenrod Shoes^000000
-^00FF00Goldenrod Orb^000000
-Increases ^7BCC70Wind^000000 element magics damage by 40%.
-Reduces ^CC5500Earth^000000 element magics damage by 30%.
+[^008800Golden Rod set^000000]
+^00FF00Golden Rod Staff^000000
+^00FF00Golden Rod Robe^000000
+^00FF00Golden Rod Shoes^000000
+^00FF00Golden Rod Orb^000000
+Increases ^7BCC70Wind^000000 element magic damage by 40%.
+Reduces ^CC5500Earth^000000 element magic damage by 30%.
 Reduces resistance against ^CC5500Earth^000000 element attacks by 50%.
 -------------------------
 Class:^6666CC Two-Handed Staff^000000
@@ -12625,15 +12625,15 @@ A magic staff charged with freezing power of water.
 INT +3
 MATK +230
 -------------------------
-Increases damage of ^6666CCCold Bolt^000000 and ^008800Frost Diver^000000 by 10%.
+Increases damage of ^0000BBCold Bolt^000000 and ^0000BBFrost Diver^000000 by 10%.
 -------------------------
 [^008800Aqua set^000000]
 ^00FF00Aqua Staff^000000
 ^00FF00Aqua Robe^000000
 ^00FF00Aqua Shoes^000000
 ^00FF00Aqua Orb^000000
-Increases ^0000BBWater^000000 element magics damage by 40%.
-Reduces ^7BCC70Wind^000000 element magics damage by 30%.
+Increases ^0000BBWater^000000 element magic damage by 40%.
+Reduces ^7BCC70Wind^000000 element magic damage by 30%.
 Reduces resistance against ^7BCC70Wind^000000 element attacks by 50%.
 -------------------------
 Class:^6666CC Two-Handed Staff^000000
@@ -12650,15 +12650,15 @@ A magic staff charged with blazing power of fire.
 INT +3
 MATK +230
 -------------------------
-Increases damage of ^6666CCFire Bolt^000000 and [Fire Ball] by 10%.
+Increases damage of ^FF0000Fire Bolt^000000 and ^FF0000Fire Ball^000000 by 10%.
 -------------------------
 [^008800Crimson set^000000]
 ^00FF00Crimson Staff^000000
 ^00FF00Crimson Robe^000000
 ^00FF00Crimson Shoes^000000
 ^00FF00Crimson Orb^000000
-Increases ^FF0000Fire^000000 element magics damage by 40%.
-Reduces ^0000BBWater^000000 element magics damage by 30%.
+Increases ^FF0000Fire^000000 element magic damage by 40%.
+Reduces ^0000BBWater^000000 element magic damage by 30%.
 Reduces resistance against ^0000BBWater^000000 element attacks by 50%.
 -------------------------
 Class:^6666CC Two-Handed Staff^000000
@@ -12675,15 +12675,15 @@ A magic staff charged with massive power of earth.
 INT +3
 MATK +230
 -------------------------
-Increases damage of ^6666CCEarth Spike^000000 and [Heaven's Drive] by 10%.
+Increases damage of ^CC5500Earth Spike^000000 and ^CC5500Heaven's Drive^000000 by 10%.
 -------------------------
 [^008800Forest set^000000]
 ^00FF00Forest Staff^000000
 ^00FF00Forest Robe^000000
 ^00FF00Forest Shoes^000000
 ^00FF00Forest Orb^000000
-Increases ^CC5500Earth^000000 element magics damage by 40%.
-Reduces ^FF0000Fire^000000 element magics damage by 30%.
+Increases ^CC5500Earth^000000 element magic damage by 40%.
+Reduces ^FF0000Fire^000000 element magic damage by 30%.
 Reduces resistance against ^FF0000Fire^000000 element attacks by 50%.
 -------------------------
 Class:^6666CC Two-Handed Staff^000000
@@ -12700,15 +12700,15 @@ A magic staff charged with massive power of wind.
 INT +5
 MATK +270
 -------------------------
-Increases damage of [Jupitel Thunder] by 30%.
+Increases damage of ^7BCC70Jupitel Thunder^000000 by 30%.
 -------------------------
-[^008800Goldenrod set^000000]
-^00FF00Goldenrod Staff II^000000
-^00FF00Goldenrod Robe^000000
-^00FF00Goldenrod Shoes^000000
-^00FF00Goldenrod Orb^000000
-Increases ^7BCC70Wind^000000 element magics damage by 60%.
-Reduces ^CC5500Earth^000000 element magics damage by 60%.
+[^008800Golden Rod set^000000]
+^00FF00Empowered Golden Rod Staff^000000
+^00FF00Golden Rod Robe^000000
+^00FF00Golden Rod Shoes^000000
+^00FF00Golden Rod Orb^000000
+Increases ^7BCC70Wind^000000 element magic damage by 60%.
+Reduces ^CC5500Earth^000000 element magic damage by 60%.
 Reduces resistance against ^CC5500Earth^000000 element attacks by 50%.
 -------------------------
 Class:^6666CC Two-Handed Staff^000000
@@ -12725,15 +12725,15 @@ A magic staff charged with freezing power of water.
 INT +5
 MATK +270
 -------------------------
-Increases the effectiveness of Cold Bolt and Frost Diver by 30%.
+Increases the effectiveness of ^0000BBCold Bolt^000000 and ^0000BBFrost Diver^000000 by 30%.
 -------------------------
 [^008800Aqua set^000000]
-^00FF00Aqua Staff II^000000
+^00FF00Empowered Aqua Staff^000000
 ^00FF00Aqua Robe^000000
 ^00FF00Aqua Shoes^000000
 ^00FF00Aqua Orb^000000
-Increases ^0000BBWater^000000 element magics damage by 60%.
-Reduces ^7BCC70Wind^000000 element magics damage by 60%.
+Increases ^0000BBWater^000000 element magic damage by 60%.
+Reduces ^7BCC70Wind^000000 element magic damage by 60%.
 Reduces resistance against ^7BCC70Wind^000000 element attacks by 50%.
 -------------------------
 Class:^6666CC Two-Handed Staff^000000
@@ -12750,15 +12750,15 @@ A magic staff charged with blazing power of fire.
 INT +5
 MATK +270
 -------------------------
-Increases damage of ^6666CCFire Bolt^000000 and [Fire Ball] by 30%.
+Increases damage of ^FF0000Fire Bolt^000000 and ^FF0000Fire Ball^000000 by 30%.
 -------------------------
 [^008800Crimson set^000000]
-^00FF00Crimson Staff II^000000
+^00FF00Empowered Crimson Staff^000000
 ^00FF00Crimson Robe^000000
 ^00FF00Crimson Shoes^000000
 ^00FF00Crimson Orb^000000
-Increases ^FF0000Fire^000000 element magics damage by 60%.
-Reduces ^0000BBWater^000000 element magics damage by 60%.
+Increases ^FF0000Fire^000000 element magic damage by 60%.
+Reduces ^0000BBWater^000000 element magic damage by 60%.
 Reduces resistance against ^0000BBWater^000000 element attacks by 50%.
 -------------------------
 Class:^6666CC Two-Handed Staff^000000
@@ -12775,15 +12775,15 @@ A magic staff charged with massive power of earth.
 INT +5
 MATK +270
 -------------------------
-Increases damage of ^6666CCEarth Spike^000000 and [Heaven's Drive] by 30%.
+Increases damage of ^CC5500Earth Spike^000000 and ^CC5500Heaven's Drive^000000 by 30%.
 -------------------------
 [^008800Forest set^000000]
-^00FF00Forest Staff II^000000
+^00FF00Empowered Forest Staff^000000
 ^00FF00Forest Robe^000000
 ^00FF00Forest Shoes^000000
 ^00FF00Forest Orb^000000
-Increases ^CC5500Earth^000000 element magics damage by 60%.
-Reduces ^FF0000Fire^000000 element magics damage by 60%.
+Increases ^CC5500Earth^000000 element magic damage by 60%.
+Reduces ^FF0000Fire^000000 element magic damage by 60%.
 Reduces resistance against ^FF0000Fire^000000 element attacks by 50%.
 -------------------------
 Class:^6666CC Two-Handed Staff^000000
@@ -73544,8 +73544,8 @@ MDEF +10.
 Increases MaxHP per refine level and tolerance to Demihuman and ^777777Neutral^000000 property damage by 5%.
 [^6666CCUr's set^000000]
 ^008800Ur's Plate^000000
-^008800Ur's Greaves^000000
 ^008800Ur's Manteau^000000
+^008800Ur's Greaves^000000
 ^008800Ur's Seal^000000
 MaxHP +14%, Increases SP consumption of all skills by 10% and tolerance to ^777777Neutral^000000 property by 10%.
 Increases damage of Hundred Spears by 50%, Enables use of Level 1 ^008800Auto Guard^000000.
@@ -73561,8 +73561,8 @@ MDEF +10.
 ATK +20, FLEE +17.
 [^6666CCPeuz's set^000000]
 ^008800Peuz's Plate^000000
-^008800Peuz's Greaves^000000
 ^008800Peuz's Manteau^000000
+^008800Peuz's Greaves^000000
 ^008800Peuz's Seal^000000
 Increases damage to all sizes monsters by 10%.
 Increases damage of Wind Cutter and Sonic Wave by 100%.
@@ -73581,9 +73581,9 @@ Adds a chance of auto-casting Level 1 Meteor Assault when dealing physical attac
 If higher level of this skill is learned then it will be cast.
 [^6666CCSapha Set^000000]
 ^008800Sapha's Cloth^000000
-^008800Sapha's Ring^000000
 ^008800Sapha's Hood^000000
 ^008800Sapha's Shoes^000000
+^008800Sapha's Ring^000000
 Flee +10, CRIT +15,
 Increase critical damage by 40%,
 Increase damage of Cross Impact by 20%,
@@ -73599,9 +73599,9 @@ An assassin's famous historical relic.
 STR +2, INT +2.
 [^6666CCNab Set^000000]
 ^008800Nab's Cloth^000000
-^008800Nab's Ring^000000
 ^008800Nab's Hood^000000
 ^008800Nab's Shoes^000000
+^008800Nab's Ring^000000
 ATK +10%, MATK +10%.
 If base STR is 120 or higher
 ATK +30
@@ -73640,9 +73640,9 @@ Increases ranged attack damage by 2x refine level.
 Increases Flee by 1 per refine level.
 [^6666CCWhite Wing Set^000000]
 ^008800White Wing Suit^000000
+^008800White Wing Manteau^000000
 ^008800White Wing Boots^000000
 ^008800White Wing Brooch^000000
-^008800White Wing Manteau^000000
 ASPD +2
 Increases damage of Arrow Storm by 50%.
 Increases ranged attack damage by 30%.
@@ -73659,9 +73659,9 @@ INT +2,
 Increases ATK by 3*Refine Level.
 [^0000FFBlack Wing Set^000000]
 ^008800Black Wing Suit^000000
+^008800Black Wing Manteau^000000
 ^008800Black Wing Boots^000000
 ^008800Black Wing Brooch^000000
-^008800Black Wing Manteau^000000
 MaxHP +15%, Perfect Dodge +20, ASPD -7, Increases damage of Cluster Bomb by 20%, decreases ranged attack damage by 30%
 Class:^6666CC Armor^000000
 Defense:^0000FF 45^000000
@@ -74677,10 +74677,10 @@ STR +1, INT +1
 MATK +180
 Physical and Magical Attacks have a chance to increase damage by 20% to ^6666CCDemon^000000 monsters for 7 seconds.
 [^6666CCJudgement set^000000]
-^008800Shoes of Judgement^000000
-^008800Shawl of Judgement^000000
-^008800Robe of Judgement^000000
 ^008800Mace of Judgement^000000
+^008800Robe of Judgement^000000
+^008800Shawl of Judgement^000000
+^008800Shoes of Judgement^000000
 Increase physical and magical damage against ^6666CCUndead^000000 monsters by 15%.
 Increase damage of Adoramus by 200%, and increase SP cost of Adoramus by 30.
 Class:^6666CC Mace^000000
@@ -74743,10 +74743,10 @@ STR +2, INT +2
 MATK +180
 Physical and Magical Attacks have a chance to increase damage by 40% to ^6666CCDemon^000000 monsters for 7 seconds.
 [^6666CCJudgement set^000000]
-^008800Shoes of Judgement^000000
-^008800Shawl of Judgement^000000
+^008800Empowered Mace of Judgement^000000
 ^008800Robe of Judgement^000000
-^008800Mace of Judgement II^000000
+^008800Shawl of Judgement^000000
+^008800Shoes of Judgement^000000
 Increase physical and magical damage against ^6666CCUndead^000000 monsters by 30%.
 Increase damage of Adoramus by 200%, and increase SP cost of Adoramus by 30.
 Class:^6666CC Mace^000000
