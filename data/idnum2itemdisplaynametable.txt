@@ -2904,7 +2904,7 @@
 4801#SP+100#
 4802#SP+150#
 4803#Cure1Lv#
-4804#Basilica1Lv#
+4804#Cathederal1Lv#
 4805#Archbishop1Lv#
 4806#MATK+3%#
 4807#ASPD+1#
