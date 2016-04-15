@@ -12607,8 +12607,8 @@ Increases damage of ^7BCC70Jupitel Thunder^000000 by 12%.
 ^00FF00Golden Rod Robe^000000
 ^00FF00Golden Rod Shoes^000000
 ^00FF00Golden Rod Orb^000000
-Increases ^7BCC70Wind^000000 element magic damage by 40%.
-Reduces ^CC5500Earth^000000 element magic damage by 30%.
+Increases magic damage of ^7BCC70Wind^000000 element by 40%.
+Reduces magic damage of ^CC5500Earth^000000 element by 30%.
 Reduces resistance against ^CC5500Earth^000000 element attacks by 50%.
 -------------------------
 Class:^6666CC Two-Handed Staff^000000
@@ -12632,8 +12632,8 @@ Increases damage of ^0000BBCold Bolt^000000 and ^0000BBFrost Diver^000000 by 10%
 ^00FF00Aqua Robe^000000
 ^00FF00Aqua Shoes^000000
 ^00FF00Aqua Orb^000000
-Increases ^0000BBWater^000000 element magic damage by 40%.
-Reduces ^7BCC70Wind^000000 element magic damage by 30%.
+Increases magic damage of ^0000BBWater^000000 element by 40%.
+Reduces magic damage of ^7BCC70Wind^000000 element by 30%.
 Reduces resistance against ^7BCC70Wind^000000 element attacks by 50%.
 -------------------------
 Class:^6666CC Two-Handed Staff^000000
@@ -12657,8 +12657,8 @@ Increases damage of ^FF0000Fire Bolt^000000 and ^FF0000Fire Ball^000000 by 10%.
 ^00FF00Crimson Robe^000000
 ^00FF00Crimson Shoes^000000
 ^00FF00Crimson Orb^000000
-Increases ^FF0000Fire^000000 element magic damage by 40%.
-Reduces ^0000BBWater^000000 element magic damage by 30%.
+Increases magic damage of ^FF0000Fire^000000 element by 40%.
+Reduces magic damage of ^0000BBWater^000000 element by 30%.
 Reduces resistance against ^0000BBWater^000000 element attacks by 50%.
 -------------------------
 Class:^6666CC Two-Handed Staff^000000
@@ -12682,8 +12682,8 @@ Increases damage of ^CC5500Earth Spike^000000 and ^CC5500Heaven's Drive^000000 b
 ^00FF00Forest Robe^000000
 ^00FF00Forest Shoes^000000
 ^00FF00Forest Orb^000000
-Increases ^CC5500Earth^000000 element magic damage by 40%.
-Reduces ^FF0000Fire^000000 element magic damage by 30%.
+Increases magic damage of ^CC5500Earth^000000 element by 40%.
+Reduces magic damage of ^FF0000Fire^000000 element by 30%.
 Reduces resistance against ^FF0000Fire^000000 element attacks by 50%.
 -------------------------
 Class:^6666CC Two-Handed Staff^000000
@@ -12707,8 +12707,8 @@ Increases damage of ^7BCC70Jupitel Thunder^000000 by 30%.
 ^00FF00Golden Rod Robe^000000
 ^00FF00Golden Rod Shoes^000000
 ^00FF00Golden Rod Orb^000000
-Increases ^7BCC70Wind^000000 element magic damage by 60%.
-Reduces ^CC5500Earth^000000 element magic damage by 60%.
+Increases magic damage of ^7BCC70Wind^000000 element by 60%.
+Reduces magic damage of ^CC5500Earth^000000 element by 60%.
 Reduces resistance against ^CC5500Earth^000000 element attacks by 50%.
 -------------------------
 Class:^6666CC Two-Handed Staff^000000
@@ -12732,8 +12732,8 @@ Increases the effectiveness of ^0000BBCold Bolt^000000 and ^0000BBFrost Diver^00
 ^00FF00Aqua Robe^000000
 ^00FF00Aqua Shoes^000000
 ^00FF00Aqua Orb^000000
-Increases ^0000BBWater^000000 element magic damage by 60%.
-Reduces ^7BCC70Wind^000000 element magic damage by 60%.
+Increases magic damage of ^0000BBWater^000000 element by 60%.
+Reduces magic damage of ^7BCC70Wind^000000 element by 60%.
 Reduces resistance against ^7BCC70Wind^000000 element attacks by 50%.
 -------------------------
 Class:^6666CC Two-Handed Staff^000000
@@ -12757,8 +12757,8 @@ Increases damage of ^FF0000Fire Bolt^000000 and ^FF0000Fire Ball^000000 by 30%.
 ^00FF00Crimson Robe^000000
 ^00FF00Crimson Shoes^000000
 ^00FF00Crimson Orb^000000
-Increases ^FF0000Fire^000000 element magic damage by 60%.
-Reduces ^0000BBWater^000000 element magic damage by 60%.
+Increases magic damage of ^FF0000Fire^000000 element by 60%.
+Reduces magic damage of ^0000BBWater^000000 element by 60%.
 Reduces resistance against ^0000BBWater^000000 element attacks by 50%.
 -------------------------
 Class:^6666CC Two-Handed Staff^000000
@@ -12782,8 +12782,8 @@ Increases damage of ^CC5500Earth Spike^000000 and ^CC5500Heaven's Drive^000000 b
 ^00FF00Forest Robe^000000
 ^00FF00Forest Shoes^000000
 ^00FF00Forest Orb^000000
-Increases ^CC5500Earth^000000 element magic damage by 60%.
-Reduces ^FF0000Fire^000000 element magic damage by 60%.
+Increases magic damage of ^CC5500Earth^000000 element by 60%.
+Reduces magic damage of ^FF0000Fire^000000 element by 60%.
 Reduces resistance against ^FF0000Fire^000000 element attacks by 50%.
 -------------------------
 Class:^6666CC Two-Handed Staff^000000
