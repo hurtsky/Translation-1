@@ -73428,7 +73428,8 @@ Jobs:^6666CC All classes^000000
 An ornate golden robe imbued with power of winds.
 INT +1
 MDEF +10
-Decreases the variable cast time of Lord of Vermilion by 3 seconds, INT +1 when unmodified INT is 120 or more.
+Decreases the variable cast time of Lord of Vermilion by 3 seconds.
+INT +1 when unmodified INT is 120 or more.
 Class:^6666CC Armor^000000
 Defense:^0000FF 40^000000
 Weight:^009900 50^000000
@@ -73440,7 +73441,8 @@ Jobs:^6666CC Warlock^000000
 An elegant blue robe imbued with power of water.
 INT +1
 MDEF +10
-Decreases the variable cast time of Storm Gust by 3 seconds, INT +1 when unmodified INT is 120 or more.
+Decreases the variable cast time of Storm Gust by 3 seconds.
+INT +1 when unmodified INT is 120 or more.
 Class:^6666CC Armor^000000
 Defense:^0000FF 40^000000
 Weight:^009900 50^000000
@@ -73452,7 +73454,8 @@ Jobs:^6666CC Warlock^000000
 An elaborate red robe imbued with power of fire.
 INT +1
 MDEF +10
-Decreases the variable cast time of Meteor Storm by 3 seconds, INT +1 when unmodified INT is 120 or more.
+Decreases the variable cast time of Meteor Storm by 3 seconds.
+INT +1 when unmodified INT is 120 or more.
 Class:^6666CC Armor^000000
 Defense:^0000FF 40^000000
 Weight:^009900 50^000000
@@ -73464,7 +73467,8 @@ Jobs:^6666CC Warlock^000000
 A simple turquoise robe imbued with power of earth.
 INT +1
 MDEF +10
-Decreases the variable cast time of Heaven's Drive by 1 second, INT +1 when unmodified INT is 120 or more.
+Decreases the variable cast time of Heaven's Drive by 1 second.
+INT +1 when unmodified INT is 120 or more.
 Class:^6666CC Armor^000000
 Defense:^0000FF 40^000000
 Weight:^009900 50^000000
