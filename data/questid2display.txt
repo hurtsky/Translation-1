@@ -4915,185 +4915,186 @@ Waiting Time: 3 hours#
 <¿şÀÌºê¸ğµå-ÇÏ´Ã>Àº ÇÏ·ç¿¡ ÇÑ ¹ø¸¸ ÀÌ¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù.#
 ´ë±â½Ã°£ 23½Ã°£#
 
-// Episode 15.1 Fantasmagorica
-5304#Ä¡¾È´ëÀå Ä³½½·¯#SG_FEEL#QUE_NOIMAGE#
-Ä¡¾È´ëÀå Ä³½½·¯¸¦ Ã³À½ ¸¸³µ½À´Ï´Ù.#
-Ä¡¾È´ëÀå Ä³½½·¯#
+// Episode 15.1 Phantasmagorika
+5304#Police Chief Kesler#SG_FEEL#QUE_NOIMAGE#
+You have met Police Chief Kesler for the first time.#
+Police Chief Kesler#
 
-5305#Ä¡¾È´ë¿ø »ì±×¶õ#SG_FEEL#QUE_NOIMAGE#
-Ä¡¾È´ë¿ø »ì±×¶õÀ» Ã³À½ ¸¸³µ½À´Ï´Ù.#
-Ä¡¾È´ë¿ø »ì±×¶õ#
+5305#Police Officer Salgran#SG_FEEL#QUE_NOIMAGE#
+You have met Police Officer Salgran for the first time.#
+Police Officer Salgran#
 
-5306#Ä¡¾È´ë¿ø °Ô·¹ÇÁ#SG_FEEL#QUE_NOIMAGE#
-Ä¡¾È´ë¿ø °Ô·¹ÇÁ¸¦ Ã³À½ ¸¸³µ½À´Ï´Ù.#
-Ä¡¾È´ë¿ø °Ô·¹ÇÁ#
+5306#Police Officer Gerev#SG_FEEL#QUE_NOIMAGE#
+You have met Police Officer Gerev for the first time.#
+Police Officer Gerev#
 
-5307#Ä¡¾È´ë¿ø ½ºÀÌµ§#SG_FEEL#QUE_NOIMAGE#
-Ä¡¾È´ë¿ø ½ºÀÌµ§À» Ã³À½ ¸¸³µ½À´Ï´Ù.#
-Ä¡¾È´ë¿ø ½ºÀÌµ§#
+5307#Police Officer Seiden#SG_FEEL#QUE_NOIMAGE#
+You have met Police Officer Seiden for the first time.#
+Police Officer Seiden#
 
-5308#Ä¡¾È´ë¿ø ÇÇÇÁ½º#SG_FEEL#QUE_NOIMAGE#
-Ä¡¾È´ë¿ø ÇÇÇÁ½º¸¦ Ã³À½ ¸¸³µ½À´Ï´Ù.#
-Ä¡¾È´ë¿ø ÇÇÇÁ½º#
+5308#Police Officer Piffs#SG_FEEL#QUE_NOIMAGE#
+You have met Police Officer Piffs for the first time.#
+Police Officer Piffs#
 
-5309#Ä¡¾È´ëÀåÀÇ ºÎÅ¹#SG_FEEL#QUE_NOIMAGE#
-ÆÇÅ¸½º¸¶°í¸®Ä«ÀÇ Ä¡¾È´ë¿øµé¿¡°Ô ±Ù¹« Áß °íÃæÀº ¾ø´ÂÁö ¹°¾îºÁ ´Ş¶ó´Â ºÎÅ¹À» ¹Ş¾Ò´Ù.#
+5309#Police Chief's Request#SG_FEEL#QUE_NOIMAGE#
+The Chief has asked you to listen to the problems of the members of the Phantasmagorika policing unit.#
 #
 
-5310#»ì±×¶õÀÇ °íÃæ#SG_FEEL#QUE_NOIMAGE#
-Ä¡¾È´ë¿ø »ì±×¶õ¿¡°Ô ±Ù¹« Áß °íÃæÀº ¾ø´ÂÁö ¹°¾îº¸¾Ò´Ù.#
+5310#Salgran's Problem#SG_FEEL#QUE_NOIMAGE#
+You have asked Police Officer Salgran if he has a problem.#
 #
 
-5311#°Ô·¹ÇÁÀÇ °íÃæ#SG_FEEL#QUE_NOIMAGE#
-Ä¡¾È´ë¿ø °Ô·¹ÇÁ¿¡°Ô ±Ù¹« Áß °íÃæÀº ¾ø´ÂÁö ¹°¾îº¸¾Ò´Ù.#
+5311#Gerev's Problem#SG_FEEL#QUE_NOIMAGE#
+You have asked Police Officer Gerev if he has a problem.#
 #
 
-5312#½ºÀÌµ§ÀÇ °íÃæ#SG_FEEL#QUE_NOIMAGE#
-Ä¡¾È´ë¿ø ½ºÀÌµ§¿¡°Ô ±Ù¹« Áß °íÃæÀº ¾ø´ÂÁö ¹°¾îº¸¾Ò´Ù.#
+5312#Seiden's Problem#SG_FEEL#QUE_NOIMAGE#
+You have asked Police Officer Seiden if he has a problem.#
 #
 
-5313#ÇÇºê½ºÀÇ °íÃæ#SG_FEEL#QUE_NOIMAGE#
-Ä¡¾È´ë¿ø ÇÇºê½º¿¡°Ô ±Ù¹« Áß °íÃæÀº ¾ø´ÂÁö ¹°¾îº¸¾Ò´Ù.#
+5313#Piffs's Problem#SG_FEEL#QUE_NOIMAGE#
+You have asked Police Officer Piffs if he has a problem.#
 #
 
-5314#»ì±×¶õÀÇ ºÎÅ¹#SG_FEEL#QUE_NOIMAGE#
-¸ê¸ÁÃàº¹È¸´Â Æ÷±³È°µ¿À» À§ÇØ ÆÇÅ¸½º¸¶°í¸®Ä«¿¡ ºÒ¹ıÈ«º¸¹°À» ºÎÂø ÁßÀÌ¶ó ÇÑ´Ù. À¯Àûº¸È£¸¦ À§ÇØ Ç®ÀÌ ¸¶¸£±â Àü¿¡ ºÒ¹ıÈ«º¸¹°À» 10°³ Á¦°ÅÇÏÀÚ.#
+5314#Salgran's Request#SG_FEEL#QUE_NOIMAGE#
+The Doom Prayers have been leaving illegal propaganda materials everywhere in Phantasmagorika. Remove 10 Illegal Leaflets before they are permanently glued to the ground.#
 #
 
-5315#°Ô·¹ÇÁÀÇ ºÎÅ¹#SG_FEEL#QUE_NOIMAGE#
-¸ê¸ÁÃàº¹È¸°¡ ÆÇÅ¸½º¸¶°í¸®Ä«¿¡ ¼³Ä¡ÇØ µĞ ÇÔÁ¤ ¶§¹®¿¡ ºÎ»óÀÚ°¡ ¼ÓÃâÇÏ°í ÀÖ´Ù. ´õ ÀÌ»óÀÇ ºÎ»óÀÚ ¹ß»ıÀ» ¸·±â À§ÇØ ÇÔÁ¤À» 10°³ Á¦°ÅÇÏÀÚ.#
+5315#Gerev's Request#SG_FEEL#QUE_NOIMAGE#
+People have been falling victim to the traps the Doom Prayers have left everywhere in Phantasmagorika. Remove 10 traps.#
 #
 
-5316#½ºÀÌµ§ÀÇ ºÎÅ¹#SG_FEEL#QUE_NOIMAGE#
-¸ê¸ÁÃàº¹È¸ ½ÅµµµéÀÌ ÁÖ¿ö ´øÁö´Â µ¹ ¶§¹®¿¡ Ä¡¾È´ë¿øµéÀÌ ºÎ»óÀ» ÀÔ°í ÀÖ´Ù. Ä¡¾È´ë¿øµéÀÇ ¾ÈÀüÀ» À§ÇØ ÆÇÅ¸½º¸¶°í¸®Ä«¿¡ ¶³¾îÁø µ¹À» 10°³ Á¤µµ ÁİÀÚ.#
+5316#Seiden's Request#SG_FEEL#QUE_NOIMAGE#
+The Doom Prayers have been throwing stones at the police officers. Remove 10 stones from the ground for the safety of the police officers.#
 #
 
-5317#ÇÇºê½ºÀÇ ºÎÅ¹#SG_FEEL#QUE_NOIMAGE#
-°è¼ÓµÈ ¸ê¸ÁÃàº¹È¸¿ÍÀÇ ´ëÄ¡ ¶§¹®¿¡ ºÎ»óÀ» ÀÔ´Â Ä¡¾È´ë¿øµéÀÌ ¸¹´Ù. ºÎ»óÀ» ÀÔÀº Ä¡¾È´ë¿øµéÀ» Ä¡·áÇÏ±ä À§ÇÑ ¾àÃÊ¸¦ 10°³Á¤µµ ±¸ÇØ¿ÀÀÚ.#
+5317#Piffs's Request#SG_FEEL#QUE_NOIMAGE#
+The police officers constantly injure themselves while fighting the Doom Prayers. Collect 10 herbs for the wounded.#
 #
 
-5318#³»ÀÏ ´Ù½Ã ÇÑ¹ø#SG_FEEL#QUE_NOIMAGE#
-³»ÀÏ ´Ù½Ã ÆÇÅ¸½º¸¶°í¸®Ä« Ä¡¾È´ëÀåÀ» Ã£¾Æ°¡¸é µµ¿ÍÁÙ ÀÏÀ» Ã£À» ¼ö ÀÖÁö ¾ÊÀ»±î?#
-´ë±â½Ã°£ 23½Ã°£#
+5318#Come Back Tomorrow#SG_FEEL#QUE_NOIMAGE#
+Return to the Phantasmagorika Police Chief tomorrow for more work.#
+Downtime: 23 hours#
 
-5341#¿©ÇàÀÇ Á¦ÇÑ#SG_FEEL#QUE_NOIMAGE#
-¸Ş¸ğ¸® ·¹ÄÚµå¸¦ »ç¿ëÇÑ ¿©ÇàÀ» ½ÃÀÛÇß´Ù. ÀÌ ¿©ÇàÀº ÃÖ´ë 22½Ã°£ µ¿¾È °¡´ÉÇÏ´Ù°í ÇÑ´Ù.#
-Á¦ÇÑ½Ã°£ 22½Ã°£#
+// EP15_2 Memory Record
+5341#Restriction on the Journey#SG_FEEL#QUE_NOIMAGE#
+You used Memory Record to embark on a journey for up to 22 hours.#
+Time Limit: 22 hours#
 
-5342#±×³à¸¦ µµ¿ÍÁà#SG_FEEL#QUE_NOIMAGE#
-¹ö³ëÅ© »çÀÌÈŞ¿¡°Ô È¥ÀÚ °í»ıÁßÀÎ ^0000FFDr. ÇÁ·¹»ç^000000¾¾¸¦ µµ¿Í´Ş¶õ ºÎÅ¹À» ¹Ş¾Ò´Ù.#
+5342#Help Her#SG_FEEL#QUE_NOIMAGE#
+Vernok Saihugh has asked you to relieve ^0000FFDr. Fressa^000000 from her lonely struggle.#
 #
 
-5343#ÀÎ¿øÆÄ¾Ç#SG_FEEL#QUE_NOIMAGE#
-Dr. ÇÁ·¹»ç¾¾¿¡°Ô ^0000FF»ı¸í°øÇĞÀÚ^000000µéÀÇ Çö ÀÎ¿øÆÄ¾ÇÀ» µµ¿Í´Ş¶õ ºÎÅ¹À» ¹Ş¾Ò´Ù.#
-»ı¸í°øÇĞÀÚ#
+5343#Making a Head Count#SG_FEEL#QUE_NOIMAGE#
+Dr. Fressa has asked you to count the number of ^0000FFBiological Engineers^000000.#
+Biological Engineers#
 
-5344#ÀÎ¿øÆÄ¾Ç#SG_FEEL#QUE_NOIMAGE#
-Dr. ÇÁ·¹»ç¾¾¿¡°Ô ^0000FF±â°è°øÇĞÀÚ^000000µéÀÇ Çö ÀÎ¿øÆÄ¾ÇÀ» µµ¿Í´Ş¶õ ºÎÅ¹À» ¹Ş¾Ò´Ù.#
-±â°è°øÇĞÀÚ#
+5344#Making a Head Count#SG_FEEL#QUE_NOIMAGE#
+Dr. Fressa has asked you to count the number of ^0000FFMechanical Engineers ^000000.#
+Mechanical Engineers#
 
-5345#ÀÎ¿øÆÄ¾Ç#SG_FEEL#QUE_NOIMAGE#
-Dr. ÇÁ·¹»ç¾¾¿¡°Ô ^0000FF¼³ºñ´ã´çÀÚ^000000µéÀÇ Çö ÀÎ¿øÆÄ¾ÇÀ» µµ¿Í´Ş¶õ ºÎÅ¹À» ¹Ş¾Ò´Ù.#
-¼³ºñ´ã´çÀÚ#
+5345#Making a Head Count#SG_FEEL#QUE_NOIMAGE#
+Dr. Fressa has asked you to count the number of ^0000FFEquipment Technicians^000000.#
+Equipment Technicians#
 
-5346#ÀÎ¿øÆÄ¾Ç#SG_FEEL#QUE_NOIMAGE#
-Dr. ÇÁ·¹»ç¾¾¿¡°Ô ^0000FFÈ­ÇĞ¹°ÁúÀü¹®°¡^000000µéÀÇ Çö ÀÎ¿øÆÄ¾ÇÀ» µµ¿Í´Ş¶õ ºÎÅ¹À» ¹Ş¾Ò´Ù.#
-È­ÇĞ¹°ÁúÀü¹®°¡#
+5346#Making a Head Count#SG_FEEL#QUE_NOIMAGE#
+Dr. Fressa has asked you to count the number of ^0000FFChemical Experts^000000.#
+Chemical Experts#
 
-5347#ÀÎ¿øÆÄ¾Ç ¿Ï·á#SG_FEEL#QUE_NOIMAGE#
-»ı¸í°øÇĞÀÚ Åõ¾î¸µ¿¡°Ô »ı¸í°øÇĞÀÚÀÇ Çö ÀÎ¿øÀ» º¸°í ¹Ş¾Ò´Ù. ^0000FFDr. ÇÁ·¹»ç^000000¿¡°Ô º¸°íÇÏÀÚ.#
-Dr. ÇÁ·¹»ç¿¡°Ô º¸°í#
+5347#Finishing a Head Count#SG_FEEL#QUE_NOIMAGE#
+Biological Engineer Touring provided the number of Biological Engineers to you. Report to ^0000FFDr. Fressa^000000.#
+Report to Dr. Fressa.#
 
-5348#ÀÎ¿øÆÄ¾Ç ¿Ï·á#SG_FEEL#QUE_NOIMAGE#
-±â°è°øÇĞÀÚ ¾Ë¿¡°Ô ±â°è°øÇĞÀÚÀÇ Çö ÀÎ¿øÀ» º¸°í ¹Ş¾Ò´Ù. ^0000FFDr. ÇÁ·¹»ç^000000¿¡°Ô º¸°íÇÏÀÚ.#
-Dr. ÇÁ·¹»ç¿¡°Ô º¸°í#
+5348#Finishing a Head Count#SG_FEEL#QUE_NOIMAGE#
+Mechanical Engineer Al provided the number of Mechanical Engineers to you. Report to ^0000FFDr. Fressa^000000.#
+Report to Dr. Fressa.#
 
-5349#ÀÎ¿øÆÄ¾Ç ¿Ï·á#SG_FEEL#QUE_NOIMAGE#
-¼³ºñ´ã´çÀÚ ¸®¸ğµ¨¸µ¿¡°Ô ¼³ºñ´ã´çÀÚÀÇ Çö ÀÎ¿øÀ» º¸°í ¹Ş¾Ò´Ù. ^0000FFDr. ÇÁ·¹»ç^000000¿¡°Ô º¸°íÇÏÀÚ.#
-Dr. ÇÁ·¹»ç¿¡°Ô º¸°í#
+5349#Finishing a Head Count#SG_FEEL#QUE_NOIMAGE#
+Equipment Technician Remodeling provided the number of Equipment Technicians to you. Report to ^0000FFDr. Fressa^000000.#
+Report to Dr. Fressa.#
 
-5350#ÀÎ¿øÆÄ¾Ç ¿Ï·á#SG_FEEL#QUE_NOIMAGE#
-È­ÇĞ¹°ÁúÀü¹®°¡ Ä®½ºÅÙ¿¡°Ô È­ÇĞ¹°ÁúÀü¹®°¡ÀÇ Çö ÀÎ¿øÀ» º¸°í ¹Ş¾Ò´Ù. ^0000FFDr. ÇÁ·¹»ç^000000¿¡°Ô º¸°íÇÏÀÚ.#
-Dr. ÇÁ·¹»ç¿¡°Ô º¸°í#
+5350#Finishing a Head Count#SG_FEEL#QUE_NOIMAGE#
+Chemical Expert Carlsten provided the number of Chemical Experts to you. Report to ^0000FFDr. Fressa^000000.#
+Report to Dr. Fressa.#
 
-5351#¿©ÇàÀÇ Á¦ÇÑ#SG_FEEL#QUE_NOIMAGE#
-¸Ş¸ğ¸® ·¹ÄÚµå¸¦ »ç¿ëÇÑ ¿©ÇàÀ» ½ÃÀÛÇß´Ù. ÀÌ ¿©ÇàÀº ÃÖ´ë 22½Ã°£ µ¿¾È °¡´ÉÇÏ´Ù°í ÇÑ´Ù.#
-Á¦ÇÑ½Ã°£ 22½Ã°£#
+5351#Restriction on the Journey#SG_FEEL#QUE_NOIMAGE#
+You used Memory Record to embark on a journey for up to 22 hours.#
+Time Limit: 22 hours#
 
-5352#°ø±âÁ¤È­ÀåÄ¡#SG_FEEL#QUE_NOIMAGE#
-´Ù¼¸ °÷¿¡¼­ ±â´Ù¸®°í ÀÖ´Â ¼³ºñ´ã´çÀÚ¿¡°Ô °ø±âÁ¤È­ÀåÄ¡¸¦ ¿Å°Ü´Ş¶ó´Â ºÎÅ¹À» ¹Ş¾Ò´Ù. (À§Ä¡) C-0, F-1, F-2, I-0, Z-0#
+5352#Air Purifier#SG_FEEL#QUE_NOIMAGE#
+You have been asked to take Air Purifiers to Equipment Technicians in 5 different locations. Locations: C-0, F-1, F-2, I-0, Z-0#
 #
 
-5353#C-0 ¹è´Ş¿Ï·á#SG_FEEL#QUE_NOIMAGE#
-C-0 ±¸¿ªÀÇ ¼³ºñ´ã´çÀÚ¿¡°Ô °ø±âÁ¤È­ÀåÄ¡¸¦ ¹è´ŞÇß´Ù.#
+5353#Delivered to C-0#SG_FEEL#QUE_NOIMAGE#
+You delivered an Air Purifier to the Equipment Technician in Area C-0.#
 #
 
-5354#F-1 ¹è´Ş¿Ï·á#SG_FEEL#QUE_NOIMAGE#
-F-1 ±¸¿ªÀÇ ¼³ºñ´ã´çÀÚ¿¡°Ô °ø±âÁ¤È­ÀåÄ¡¸¦ ¹è´ŞÇß´Ù.#
+5354#Delivered to F-1#SG_FEEL#QUE_NOIMAGE#
+You delivered an Air Purifier to the Equipment Technician in Area F-1.#
 #
 
-5355#F-2 ¹è´Ş¿Ï·á#SG_FEEL#QUE_NOIMAGE#
-F-2 ±¸¿ªÀÇ ¼³ºñ´ã´çÀÚ¿¡°Ô °ø±âÁ¤È­ÀåÄ¡¸¦ ¹è´ŞÇß´Ù.#
+5355#Delivered to F-2#SG_FEEL#QUE_NOIMAGE#
+You delivered an Air Purifier to the Equipment Technician in Area F-2.#
 #
 
-5356#I-0 ¹è´Ş¿Ï·á#SG_FEEL#QUE_NOIMAGE#
-I-0 ±¸¿ªÀÇ ¼³ºñ´ã´çÀÚ¿¡°Ô °ø±âÁ¤È­ÀåÄ¡¸¦ ¹è´ŞÇß´Ù.#
+5356#Delivered to I-0#SG_FEEL#QUE_NOIMAGE#
+You delivered an Air Purifier to the Equipment Technician in Area I-0.#
 #
 
-5357#Z-0 ¹è´Ş¿Ï·á#SG_FEEL#QUE_NOIMAGE#
-Z-0 ±¸¿ªÀÇ ¼³ºñ´ã´çÀÚ¿¡°Ô °ø±âÁ¤È­ÀåÄ¡¸¦ ¹è´ŞÇß´Ù.#
+5357#Delivered to Z-0#SG_FEEL#QUE_NOIMAGE#
+You delivered an Air Purifier to the Equipment Technician in Area Z-0.#
 #
 
-5358#¿©ÇàÀÇ Á¦ÇÑ#SG_FEEL#QUE_NOIMAGE#
-¸Ş¸ğ¸® ·¹ÄÚµå¸¦ »ç¿ëÇÑ ¿©ÇàÀ» ½ÃÀÛÇß´Ù. ÀÌ ¿©ÇàÀº ÃÖ´ë 22½Ã°£ µ¿¾È °¡´ÉÇÏ´Ù°í ÇÑ´Ù.#
-Á¦ÇÑ½Ã°£ 22½Ã°£#
+5358#Restriction on the Journey#SG_FEEL#QUE_NOIMAGE#
+You used Memory Record to embark on a journey for up to 22 hours.#
+Time Limit: 22 hours#
 
-5359#Æ÷µµ¼öÈ®#SG_FEEL#QUE_NOIMAGE#
-Æ÷µµ»óÀÚ ÇÑ ¹Ú½º¿¡´Â Æ÷µµ°¡ 30¼ÛÀÌ µé¾î°£´Ù°í ÇÑ´Ù. ³óÀåÀ» µ¹¸ç Æ÷µµ 30¼ÛÀÌ¸¦ µû¿ÀÀÚ.#
-½Å¼±ÇÑ Æ÷µµ 30¼ÛÀÌ#
+5359#Grape Harvest#SG_FEEL#QUE_NOIMAGE#
+Each box of grapes contains 30 clusters of grapes. Harvest 30 Grapes from the farm.#
+30 Grapes#
 
-5360#Æ÷µµ¹è´Ş#SG_FEEL#QUE_NOIMAGE#
-^0000ff±â°è°øÇĞÀÚ ¾Ë^000000¿¡°Ô ¹æ±İ µı Æ÷µµ¸¦ ¹è´ŞÇÏÀÚ.#
+5360#Grape Delivery#SG_FEEL#QUE_NOIMAGE#
+Deliver the fresh Grapes to ^0000ffMechanical Engineer Al^000000.#
 #
 
-5361#Æ÷µµ¹è´Ş#SG_FEEL#QUE_NOIMAGE#
-^0000ff¼³ºñ´ã´çÀÚ ¸®¸ğµ¨¸µ^000000¿¡°Ô ¹æ±İ µı Æ÷µµ¸¦ ¹è´ŞÇÏÀÚ.#
+5361#Grape Delivery#SG_FEEL#QUE_NOIMAGE#
+Deliver the fresh Grapes to ^0000ffEquipment Technician Remodeling^000000.#
 #
 
-5362#Æ÷µµ¹è´Ş#SG_FEEL#QUE_NOIMAGE#
-^0000ffÈ­ÇĞ¹°ÁúÀü¹®°¡ Ä®½ºÅÙ^000000¿¡°Ô ¹æ±İ µı Æ÷µµ¸¦ ¹è´ŞÇÏÀÚ.#
+5362#Grape Delivery#SG_FEEL#QUE_NOIMAGE#
+Deliver the fresh Grapes to ^0000ffChemical Expert Carlsten^000000.#
 #
 
-5363#¿©ÇàÀÇ Á¦ÇÑ#SG_FEEL#QUE_NOIMAGE#
-¸Ş¸ğ¸® ·¹ÄÚµå¸¦ »ç¿ëÇÑ ¿©ÇàÀ» ½ÃÀÛÇß´Ù. ÀÌ ¿©ÇàÀº ÃÖ´ë 22½Ã°£ µ¿¾È °¡´ÉÇÏ´Ù°í ÇÑ´Ù.#
-Á¦ÇÑ½Ã°£ 22½Ã°£#
+5363#Restriction on the Journey#SG_FEEL#QUE_NOIMAGE#
+You used Memory Record to embark on a journey for up to 22 hours.#
+Time Limit: 22 hours#
 
-5364#¹ßÀÛÈ¯ÀÚÁ¦¾Ğ#SG_FEEL#QUE_NOIMAGE#
-°£È£»ç¿¡°Ô ÀÓ½ÃÄ¡·á¼Ò ¾È¿¡¼­ ¹ßÀÛÁõ¼¼¸¦ º¸ÀÌ´Â È¯ÀÚ¸¦ Á¦¾ĞÇØ ´Ş¶ó´Â ºÎÅ¹À» ¹Ş¾Ò´Ù.#
+5364#Subdue Hysterical Patients#SG_FEEL#QUE_NOIMAGE#
+The Nurse has asked you to subdue hysterical patients in the temporary infirmary.#
 #
 
-5365#´Ù±ŞÇÑ ¼Ò½Ä#SG_FEEL#QUE_NOIMAGE#
-ÀÌ»ó ¹ßÀÛÁõ¼¼¸¦ º¸ÀÌ´Â È¯ÀÚ°¡ ±Ş°İÇÏ°Ô ´Ã°í ÀÖ´Ü ¼Ò½ÄÀ» ^0000FFDr. ÇÁ·¹»ç^000000¿¡°Ô ÀüÇÏÀÚ.#
+5365#Ugent News#SG_FEEL#QUE_NOIMAGE#
+Report to ^0000FFDr. Fressa^000000 that the convulsing patients are becoming numerous.#
 #
 
-5366#¿©ÇàÀÇ Á¦ÇÑ#SG_FEEL#QUE_NOIMAGE#
-¸Ş¸ğ¸® ·¹ÄÚµå¸¦ »ç¿ëÇÑ ¿©ÇàÀ» ½ÃÀÛÇß´Ù. ÀÌ ¿©ÇàÀº ÃÖ´ë 22½Ã°£ µ¿¾È °¡´ÉÇÏ´Ù°í ÇÑ´Ù.#
-Á¦ÇÑ½Ã°£ 22½Ã°£#
+5366#Restriction on the Journey#SG_FEEL#QUE_NOIMAGE#
+You used Memory Record to embark on a journey for up to 22 hours.#
+Time Limit: 22 hours#
 
-5367#»ıÇÊÇ° ¿î¼Û#SG_FEEL#QUE_NOIMAGE#
-Z-2±¸¿ª¿¡ ¹°°Ç¿î¹İ ÈÄ ±â°èÃ¢°í¿¡ ÀÖ´Â ^0000FF±â°è°øÇĞÀÚ ¾Ë^000000¿¡°Ô ^0000FF¸ÛÃ»ÇÑ ³à¼®µé¾Æ!! Àç·á ¾Æ±î¿ì´Ï ±â°è Á» ÀÛÀÛ ¸¸µé¾î!!^000000¶õ Àü¾ğÀ» ÀüÇØ´Ş¶õ ºÎÅ¹À» ¹Ş¾Ò´Ù.#
+5367#Daily Necessities Transport#SG_FEEL#QUE_NOIMAGE#
+Deliver the supplies to Area Z-2. Go to ^0000FFMechanical Engineer Al^000000 in the Machine Warehouse and deliver the message: ^0000FFYou idiots, stop wasting valuable resources on making machines!^000000#
 #
 
-5368#¹°Ç°¿î¼Û¿Ï·á#SG_FEEL#QUE_NOIMAGE#
-Z-2 ±¸¿ª¿¡ ºÎÅ¹ ¹ŞÀº ¹°°ÇÀ» ¿î¼ÛÇÏ¿´´Ù.#
+5368#Delivered Supplies#SG_FEEL#QUE_NOIMAGE#
+You delivered the supplies to Area Z-2.#
 #
 
-5369#Àü¾ğÀü´Ş¿Ï·á#SG_FEEL#QUE_NOIMAGE#
-±â°è°øÇĞÀÚ ¾Ë¿¡°Ô ºÎÅ¹ ¹ŞÀº Àü¾ğÀ» Àü´ŞÇß´Ù.#
+5369#Delivered the Message#SG_FEEL#QUE_NOIMAGE#
+You delivered the message to Mechanical Engineer Al.#
 #
 
-5370#¸Ş¸ğ¸® ·¹ÄÚµå#SG_FEEL#QUE_NOIMAGE#
-¸Ş¸ğ¸® ·¹ÄÚµå¸¦ »ç¿ëÇÑ ¿©ÇàÀ» ¼º°øÀûÀ¸·Î ¸¶ÃÆ´Ù.#
+5370#Memory Record#SG_FEEL#QUE_NOIMAGE#
+You successfully finished the Memory Record journey.#
 #
 
 5371#¸®º§¸®¿Â ½ºÅ³ÃÊ±âÈ­#SG_FEEL#QUE_NOIMAGE#
@@ -9093,102 +9094,102 @@ You defeated Fire Wolf Muspellskoll.#
 Your latest contract with the Guardian has not yet expired. No new contracts can be made until then.#
 #
 
-// º£·ç½º½ÃÆ¼
-7606#ÆÇÅ¸½º¸¶°í¸®Ä« ¹ß±¼´Ü ´ë ¸ğÁı#SG_FEEL#QUE_NOIMAGE#
-À¯Æä·Î½º À¯ÀûÀ» È®Àå ¹ß±¼ÇÕ´Ï´Ù! »õ·Î ¹ß°ßµÈ Áö¿ª ÆÇÅ¸½º¸¶°í¸®Ä«ÀÇ ºñ¹ĞÀ» ÇÔ²² ÆÄÇìÄ¥ ºĞµé ´ë ¸ğÁı!#
+// Verus City
+7606#Phantasmagorika Excavator Recruitment#SG_FEEL#QUE_NOIMAGE#
+The Juperos Ruins have been expanded. Come join us for exploration in the newly discovered Phantasmagorika!#
 #
 
-7607#³«¿ø´ÜÀÇ ´ÜÀå#SG_FEEL#QUE_NOIMAGE#
-³«¿ø´Ü¿¡µµ ´ÜÀåÀÌ Á¸ÀçÇß´Ù. ÆÇÅ¸½º¸¶°í¸®Ä« °ü·ÃÀ¸·Î ´ÜÀåÀÌ Á÷Á¢ ¸¸³ª±æ ¿øÇÑ´Ù. ´ÜÀåÀº ³«¿ø´Ü 2Ãş Á¦ÀÏ ¿ŞÂÊ ³¡¹æ¿¡ ÀÖÀ¸´Ï ¸¸³ªº¸ÀÚ.#
-³«¿ø´Ü ´ÜÀå°ú ´ëÈ­#
+7607#Eden Group Leader#SG_FEEL#QUE_NOIMAGE#
+The Eden Group's leader has been revealed. She wants to talk to you as to Phantasmagorika. Go to the farthest room on the left side on the second floor.#
+Talk to the Eden Group Captain.#
 
-7608#¾ÆÆ®³ªµå ¹ß±¼´Ü1#SG_FEEL#QUE_NOIMAGE#
-³«¿ø´Ü Á÷¿ø »ç¹«½Ç¿¡¼­ ´ë±â ÁßÀÎ ¶óÀÓÀ¸·ÎºÎÅÍ ¹ß±¼´Ü Âü¿©¿¡ ´ëÇÑ ÀÚ¼¼ÇÑ ÀÌ¾ß±â¸¦ µéÀ¸¶ó°í ÇÑ´Ù. Á÷¿ø »ç¹«½ÇÀº ´ÜÀå½Ç ¹Ù·Î ¿·¹æÀÌ´Ù.#
-Á÷¿ø½ÇÀÇ ¶óÀÓ°ú ´ëÈ­#
+7608#Artnard Excavation Team 1#SG_FEEL#QUE_NOIMAGE#
+The Eden Group Captain has asked you to talk to Lime in the employee office as to joining the excavation project. The employee office is the next room.#
+Talk to Lime in the employee office.#
 
-7609#¾ÆÆ®³ªµå ¹ß±¼´Ü2#SG_FEEL#QUE_NOIMAGE#
-À¯Æä·Î½º ´øÀüÀ» ÅëÇØ ¿¬°áµÈ »õ·Î ¹ß°ßµÈ Áö¿ªÀ¸·Î ÀÌµ¿ÇÏÀÚ. ¹ß±¼Áö¿¡ µµÂøÇÏ¸é Á¦ÀÏ ¸ÕÀú ¹ß±¼´Ü µî·ÏÇÏ´Â °ÍÀ» ÀØÁö ¸»°Í.#
-¾ÆÆ®³ªµå ¹ß±¼´Ü µî·Ï#
+7609#Artnard Excavation Team 2#SG_FEEL#QUE_NOIMAGE#
+Use the Juperos dungeon to move to the newly discovered area. Don't forget to register with the Central Command Center upon your arrival.#
+Register as an Artnard Excavation Team member.#
 
-7610#Á¤½Ä¹ß±¼´Ü µî·Ï#SG_FEEL#QUE_NOIMAGE#
-¾ÆÆ®³ªµå ¹ß±¼´ÜÀÇ ÀÌ¸§À¸·Î ÆÇÅ¸½º¸¶°í¸®Ä« ÀÛ¾÷¿¡ Á¤½ÄÀ¸·Î Âü¿©ÇÏ°Ô µÇ¾ú´Ù.#
+7610#Registered Excavator#SG_FEEL#QUE_NOIMAGE#
+You are now an official member of the Artnard Excavation Team, and can participate in the Phantasmagorika excavation project.#
 #
 
-7611#Åë·Î Ã»¼Ò#SG_FEEL#QUE_NOIMAGE#
-°¡´Â ±æ¿¡ ¸ó½ºÅÍ ÅğÄ¡ Á» ÇØÁÖ°Ú³ª? ÀÌ ±ÙÃ³ÀÇ ¸ó½ºÅÍµµ Æ÷ÇÔÀÏ¼¼. º¸°í´Â Á¾ÇÕ ÁöÈÖ¼Ò¿¡ °¡¼­ ÇÏ¸é µÈ´Ù³×.#
+7611#Passage Cleaning#SG_FEEL#QUE_NOIMAGE#
+Could you help us take care of monsters in the tunnel and around here?#
 #
 
-7612#Åë·Î Ã»¼Ò-´ë±â#SG_FEEL#QUE_NOIMAGE#
-´çºĞ°£ Åë·ÎÂÊ ¹æ¾î´Â ¿ëº´µéÀÌ ÇØ ÁÙ ¼ÀÀÌ¾ß. ÀÌ Âü¿¡ Á» ½¬´Â°Ô ÁÁ°Ú¾î.#
-ÀÏÀÏÄù½ºÆ® ´ë±â#
+7612#Passage Cleaning - Down#SG_FEEL#QUE_NOIMAGE#
+You should take rest. Our mercenaries can take care of the monsters in the passage.#
+The Daily quest is cooling down.#
 
-7613#À§Çù Â÷´Ü#SG_FEEL#QUE_NOIMAGE#
-ÁÖ ¹ß±¼ Áö¿ª¿¡ µîÀåÇÏ´Â ·Îº¿µéÀÌ ¿øÈ°ÇÑ ÀÛ¾÷À» ¹æÇØÇÏ°í ÀÖ¾î. ÀÌ ·Îº¿µéÀ» Á» Á¦°Å ÇØ ÁÖ¾úÀ¸¸é ÇÑ´Ù.#
+7613#Eliminating Risks#SG_FEEL#QUE_NOIMAGE#
+Robots in the main excavation site are getting in our way. Please get rid of them.#
 #
 
-7614#À§Çù Â÷´Ü-´ë±â#SG_FEEL#QUE_NOIMAGE#
-°©ÀÚ±â ±ŞÁõÇÑ ·Îº¿µéÀº ¼ö¿ùÇÏ°Ô Á¦¾ĞÇØ¼­ ¹ß±¼ÀÌ Àç°³µÈ »óÅÂ¾ß. ´ÙÀ½¹ø¿¡µµ ºÎÅ¹ÇÏÁö.#
-ÀÏÀÏÄù½ºÆ® ´ë±â#
+7614#Eliminating Risks - Down#SG_FEEL#QUE_NOIMAGE#
+We're able to clear the excavation site of those robots. Please come back next time.#
+The Daily quest is cooling down.#
 
-7615#ÄÚ¾î ¼öÁı#SG_FEEL#QUE_NOIMAGE#
-°íµµ·Î ¹ß´ŞÇÑ ¹®¸íÀÇ Áß¿äÇÑ ½Ç¸¶¸®°¡ µÉÁöµµ ¸ğ¸¦ '°¡µ¿Á¦¾îÀåÄ¡' 20°³¸¦ ¼öÁıÇØ ÁÖ°Ô. ·Îº¿À» Ã³¸®ÇÏ¸é ¾òÀ» ¼ö ÀÖÀ»°Å¾ß.#
-°¡µ¿Á¦¾îÀåÄ¡ 20°³#
+7615#Core Collection#SG_FEEL#QUE_NOIMAGE#
+Please collect 20 Power Control Devices from robots. They can be the key to the highly advanced civilization.#
+20 Power Control Devices#
 
-7616#ÄÚ¾î ¼öÁı-´ë±â#SG_FEEL#QUE_NOIMAGE#
-¾ÆÆ®³ªµå ¹ß±¼´ÜÀº ´çºĞ°£ ¼öÁıÇÑ ÀåÄ¡¿¡ ´ëÇÑ ¿¬±¸¸¦ ÇÒ ¸ğ¾çÀÌ´Ù. ÀÌ Âü¿¡ ½¬¾îµÎ´Â°Ô ÁÁÀ»Áöµµ..#
-ÀÏÀÏÄù½ºÆ® ´ë±â#
+7616#Core Collection - Down#SG_FEEL#QUE_NOIMAGE#
+The Artnard Excavation Team is focusing on studying the Power Control Devices. You should take rest while you can.#
+The Daily quest is cooling down.#
 
-7617#¹ß±¼ º¸°í¼­ Á¦Ãâ#SG_FEEL#QUE_NOIMAGE#
-¾ÆÆ®³ªµå ¹ß±¼´ÜÀÇ ÀÏÀÏ ¿¬±¸ ¼º°ú°¡ ±â·ÏµÈ º¸°í¼­¸¦ Á¾ÇÕ ÁöÈÖ¼ÒÀÇ ·çÀÌ½º¿¡°Ô Á¦ÃâÇØ¾ß ÇÑ´Ù. ÀÌ°É Á¦ÃâÇÏ¸é ¿À´Ã ÇÏ·ç´Â ÀÏ´Ü ¸¶¹«¸®!#
-·çÀÌ½º¿¡°Ô º¸°í¼­Á¦Ãâ#
+7617#Turning In Excavation Report#SG_FEEL#QUE_NOIMAGE#
+Take the Artnard Excavation Team's daily excavation report to Louis at the Central Command Center. After that your work for the day is done!#
+Turn in the report to Louis.#
 
-7618#¼º°úº¸°í-´ë±â#SG_FEEL#QUE_NOIMAGE#
-¾ÆÆ®³ªµå ¹ß±¼´ÜÀÇ ´ÙÀ½ º¸°í¼­¸¦ ´À±ßÇÏ°Ô ±â´Ù¸®ÀÚ.#
-ÀÏÀÏÄù½ºÆ® ´ë±â#
+7618#Reporting the Results - Down#SG_FEEL#QUE_NOIMAGE#
+Wait for the Artnard Excavation Team's next report.#
+The Daily quest is cooling down.#
 
-7619#¹ß±¼´ÜÀÇ ÀÏ#SG_FEEL#QUE_NOIMAGE#
-º»°İÀûÀ¸·Î ¹ß±¼´ÜÀÇ ÀÏÀ» µ½±â·Î Çß´Ù. ¾Æ¿ì·¹½º¿¡°Ô °¡º¸ÀÚ.#
-¾Æ¿ì·¹½º¿Í ´ëÈ­#
+7619#Assisting the Excavation Team#SG_FEEL#QUE_NOIMAGE#
+You are now an official member of the excavation team. Go to Aureth.#
+Talk to Aureth.#
 
-7620#ÀşÀº Ç÷±â..?#SG_FEEL#QUE_NOIMAGE#
-¾Æ¿ì·¹½ºÀÇ ºÎÅ¹À¸·Î º£·ç½º Áß¾Ó ±¤Àå¿¡ ÀÖ´Ù´Â ·ÎÀÌµå¶ó´Â ´Ü¿øÀ» Ã£¾Æ°¡±â·Î Çß´Ù. ·çÅ©µµ ÇÔ²² ÀÖÀ» °ÍÀÌ´Ù.#
-·ÎÀÌµå Ã£±â#
+7620#Young Blood?#SG_FEEL#QUE_NOIMAGE#
+Aureth has asked you to go to Lloyd and Luke at the plaza in the middle of Verus.#
+Find Lloyd.#
 
-7621#¿¡³ÊÁö º´Á¶¸²#SG_FEEL#QUE_NOIMAGE#
-·ÎÀÌµåÀÇ ¿¡³ÊÁö ¿¬±¸¸¦ µ½±â·Î Çß´Ù. º£·ç½º °÷°÷¿¡¼­ ¹ß°ßµÇ´Â ÀÜÇØ¿¡¼­ ^4d4dffºó º´^000000À» ÀÌ¿ëÇØ ÀÀÁıµÈ ¿¡³ÊÁö 10°³¸¦ Ã¤ÃëÇÏÀÚ.#
-ÀÀÁıµÈ ¿¡³ÊÁö 10°³#
+7621#Bottling the Energy#SG_FEEL#QUE_NOIMAGE#
+Lloyd has asked for your assistance in his energy research. Use ^4d4dffEmpty Bottles^000000 to collect 10 Condensed Energies from debris everywhere in Verus.#
+10 Condensed Energies#
 
-7622#ÁÁÀº ¼Ò½Ä!#SG_FEEL#QUE_NOIMAGE#
-¾Æ¿ì·¹½º¿¡°Ô ·ÎÀÌµåÀÇ ¿¬±¸ ¼º°ú¸¦ Àü´ŞÇÏÀÚ.#
-¾Æ¿ì·¹½º¿Í ´ëÈ­#
+7622#Good News!#SG_FEEL#QUE_NOIMAGE#
+Report Aureth with Lloyd's research results.#
+Talk to Aureth.#
 
-7623#¾ÆÆ®³ªµåÀÇ º¯´ö#SG_FEEL#QUE_NOIMAGE#
-¾ÆÆ®³ªµå°¡ ¹«½¼ ÀÏÀ» ½ÃÅ³ ¸ğ¾çÀÌ´Ù. ±×¿Í ´ëÈ­ÇÏÀÚ.#
-¾ÆÆ®³ªµå¿Í ´ëÈ­#
+7623#Artnard's Summon#SG_FEEL#QUE_NOIMAGE#
+Artnard has some chore in store for you. Talk to him.#
+Talk to Artnard.#
 
-7624#º°¹Ì¸¦ Ã£¾Æ¼­!#SG_FEEL#QUE_NOIMAGE#
-¸Ô±â °£ÆíÇÏ¸é¼­µµ À°ÁóÀÌ Ç³ºÎÇÏ°í »óÅ­ÇÏ°í ±ò²ûÇÑ µŞ¸¶¹«¸®°¡ µÇ´Â º°¹Ì¸¦ Ã£¾Æ³»¾ß ÇÑ´Ù..! ´Ù¸¥ ´Ü¿ø¿¡°Ô ¹°¾îº¸ÀÚ.#
-º°¹Ì Ã£±â#
+7624#In Search of a Delicacy#SG_FEEL#QUE_NOIMAGE#
+Find something that is ready to eat, juicy, refreshing, and clean-tasting. Seek advice from other team members.#
+Find a delicacy.#
 
-7625#³»°Ô ¸Ã°Ü.#SG_FEEL#QUE_NOIMAGE#
-·çÅ©°¡ Á¶°Ç¿¡ ÀûÇÕÇÑ À½½ÄÀÌ ¶°¿À¸¥´Ù¸ç Àç·á¸¦ ±¸ÇØ¿À¶ó°í Çß´Ù. Àç·á´Â °í±â 2°³, ¸ğ¶ó¸¸´Ù¸° 1°³, ¹Ù³ª³ª 1°³´Ù.#
-°í±â2, ¸ğ¶ó¸¸´Ù¸°1, ¹Ù³ª³ª1#
+7625#Count On Me#SG_FEEL#QUE_NOIMAGE#
+Luke will cook something for you if you can bring 2 Meats, 1 Mora Mandarin, and 1 Banana.#
+2 Meats, 1 Mora Mandarin, and 1 Banana#
 
-7626#±×°¡ Ã£´ø º°¹Ì#SG_FEEL#QUE_NOIMAGE#
-·çÅ©°¡ ¼Ø¾¾¸¦ ºÎ·Á ¸¸µç ¸ğ¶ó ¸í¹° ºñÇÁÅä½ºÆ®¸¦ ¾ÆÆ®³ªµå¿¡°Ô ÀüÇÏÀÚ.#
-ÀÌ¾È¿¡°Ô #
+7626#Delicacy for Him#SG_FEEL#QUE_NOIMAGE#
+Take Luke's Beef Toast, Mora's specialty food, to Artnard.#
+To Ian#
 
-7627#¸¶Áö¸· Å½»ç#SG_FEEL#QUE_NOIMAGE#
-±âÈ¸¸¦ ºÁ¼­ ÀÌ¾È ¾ÆÆ®³ªµå¿¡°Ô ¸¶Áö¸· Å½»ç¿¡ ´ëÇØ ¹°¾îº¸ÀÚ.#
+7627#Last Exploration#SG_FEEL#QUE_NOIMAGE#
+Ask Ian Artnard about his last exploration effort.#
 #
 
-7628#»õ·Î¿î µ¿·Â¿ø#SG_FEEL#QUE_NOIMAGE#
-·ÎÀÌµåÀÇ ¿¡³ÊÁö ¿¬±¸¸¦ µ½±â À§ÇØ ÀÀÁıµÈ ¿¡³ÊÁö ¼öÁıÇÏ´Â ÀÏÀ» ¸Ã¾Ò´Ù. ÀÌ ÀÏÀ» ¼öÇàÇÏ·Á¸é ºóº´ 10°³°¡ ÇÊ¿äÇÏ´Ù.#
-ÀÀÁıµÈ ¿¡³ÊÁö 10°³#
+7628#New Power Source#SG_FEEL#QUE_NOIMAGE#
+You are charged with collecting Condensed Energies for Lloyd's research. You need 10 Empty Bottles.#
+10 Condensed Energies#
 
-7629#³»ÀÏÀº ³»ÀÏÀÇ ¿¡³ÊÁö#SG_FEEL#QUE_NOIMAGE#
-·ÎÀÌµåÀÇ ¿¬±¸ Áö¼ÓÀ» À§ÇØ ¾à¼ÓµÈ ½Ã°£ÀÌ µÇ¸é ´Ù½Ã Ã£¾Æ°¡ÀÚ.#
-ÀÏÀÏÄù½ºÆ® ´ë±â#
+7629#Tomorrow for Tomorrow's Energy#SG_FEEL#QUE_NOIMAGE#
+Return to Lloyd tomorrow to continue to help him with his research.#
+The Daily quest is cooling down.#
 
 7630#Legenday Blue Unicorn#SG_FEEL#QUE_NOIMAGE#
 Rumor says there is a blue pony raging in the forest near Payon! Someone help me find the truth about this animal!#
@@ -13934,64 +13935,64 @@ The Delicious Stems have proven to be effective. Return to Barget Tiblack.#
 Talk to Barget Tiblack.#
 
 //-ep15.1
-11363#ÆÇÅ¸½º¸¶°í¸®Ä«·Î!!#SG_FEEL#QUE_NOIMAGE#
-¸®È÷Å¸¸£Á¨¿¡ ÀÖ´Â ·¹ÄËº£¸£ º»»ç 1Ãş ÀÔ±¸¿¡¼­ ¼­ÂÊ¹æÇâ µ¥½ºÅ©ÀÇ ·¹ÀÌÆ®³Ê¿Í ´ëÈ­ÇÏÀÚ.#
-·¹ÀÌÆ®³Ê¿Í ´ëÈ­#
+11363#To Phantasmagorika!#SG_FEEL#QUE_NOIMAGE#
+Go to Rekenber Corporation Headquarters in Lighthalzen. Talk to Leitner at the desk on the west side from the main entrance.#
+Talk to Leitner.#
 
-11364#ÆÇÅ¸½º¸¶°í¸®Ä«·Î!!#SG_FEEL#QUE_NOIMAGE#
-µî·ÏÀ» ¸¶ÃÆÀ¸´Ï ¿¤¸®º£ÀÌÅÍ¸¦ »ç¿ëÇÒ ¼ö ÀÖ°Ô µÇ¾ú´Ù.#
-¿¤¸®»ş¿Í ´ëÈ­#
+11364#To Phantasmagorika!#SG_FEEL#QUE_NOIMAGE#
+You have registered for the use of the elevator.#
+Talk to Elisha.#
 
-11365#ÆÇÅ¸½º¸¶°í¸®Ä«·Î!!#SG_FEEL#QUE_NOIMAGE#
-ÆÇÅ¸½º¸¶°í¸®Ä« Áß¾Ó ºĞ¼ö´ë ±ÙÃ³¿¡ÀÖ´Â ¾È³»¿ø ½ºÄ®·¿À» ¸¸³ªÀÚ.#
-½ºÄ®·¿°ú ´ëÈ­#
+11365#To Phantasmagorika!#SG_FEEL#QUE_NOIMAGE#
+Meet Guide Scarlet by the fountain in the middle of Phantasmagorika.#
+Talk to Scarlet.#
 
-11366#ÆÇÅ¸½º¸¶°í¸®Ä«·Î!!#SG_FEEL#QUE_NOIMAGE#
-À¯Æä·Î½º¿¡ ÀÖ´Â µğ¹ÌÅ©¸¦ Àâ¾Æ¼­ ³°Àº Ã¶ÆÇ¸¦ 30°³¸¦ °¡Á®¿ÀÀÚ.#
-³°ÀºÃ¶ÆÇ 30°³#
+11366#To Phantasmagorika!#SG_FEEL#QUE_NOIMAGE#
+Collect 30 Old Steel Plates from Dimiks in Juperos.#
+30 Old Steel Plates#
 
-11367#ÈçÀûÀ» Ã£¾Æ¼­¡¦#SG_FEEL#QUE_NOIMAGE#
-ÆÇÅ¸½º¸¶°í¸®Ä«¿¡ µµÂøÇÏÀÚ º¸ÀÎ °ÍÀº Ä¿´Ù¶õ ºĞ¼ö´ë, µà ÀÏÇà°ú ÇÔ²² ºĞ¼ö´ë¸¦ Á¶»çÇØº¸ÀÚ. #
-ºĞ¼ö´ë Á¶»ç#
+11367#Looking for the Traces#SG_FEEL#QUE_NOIMAGE#
+The first thing you saw in Phantasmagorika is a gigantic fountain in the center. Investigate the fountain with the Deus. #
+Investigate the fountain.#
 
-11368#ÈçÀûÀ» Ã£¾Æ¼­¡¦#SG_FEEL#QUE_NOIMAGE#
-ºĞ¼ö´ë¿¡¼­´Â ¾Ë¾Æ³½ °ÍÀÌ ¾ø´Ù. ¿ŞÂÊÀ¸·Î º¸ÀÌ´Â Àâµ¿»ç´Ï¸¦ Á¶»çÇØº¸ÀÚ.#
-Àâµ¿»ç´Ï¸¦ Á¶»ç#
+11368#Looking for the Traces#SG_FEEL#QUE_NOIMAGE#
+You have found nothing in the fountain. Check the sundries on the left side.#
+Investigate the sundries.#
 
-11369#ÈçÀûÀ» Ã£¾Æ¼­¡¦#SG_FEEL#QUE_NOIMAGE#
-½Ä¹°ÀÌ ÀÚ¶ö ¼ö ÀÖ´Â È¯°æÀÎ°¡? ¿ŞÂÊ À§·Î º¸ÀÌ´Â ³ª¹«¸¦ Á¶»çÇÏÀÚ.#
-³ª¹«¸¦ Á¶»ç#
+11369#Looking for the Traces#SG_FEEL#QUE_NOIMAGE#
+Is this environment good for plants? Check the tree on the upper left side.#
+Investigate the tree.#
 
-11370#ÈçÀûÀ» Ã£¾Æ¼­¡¦#SG_FEEL#QUE_NOIMAGE#
-¹®¾Õ¿¡ Æ¯ÀÌÇÑ Ç¥ÁöÆÇÀÌ º¸ÀÎ´Ù. Á¶»çÇØº¸ÀÚ.#
-Ç¥ÁöÆÇ Á¶»ç#
+11370#Looking for the Traces#SG_FEEL#QUE_NOIMAGE#
+A peculiar-looking sign is hung on the door. Examine it.#
+Examine the sign.#
 
-11371#ÈçÀûÀ» Ã£¾Æ¼­¡¦#SG_FEEL#QUE_NOIMAGE#
-°Ç¹° µÚÂÊÀ¸·Î ´Ù¸¥ °÷À¸·Î ÀÌµ¿ ÇÒ ¼ö ÀÖ´Â ±æÀÌ º¸ÀÎ´Ù. µ¹¾Æ°¡¼­ Æ÷Å»·Î ÀÌµ¿ÇÏÀÚ.#
-´Ù¸¥ Áö¿ªÀ¸·Î ÀÌµ¿#
+11371#Looking for the Traces#SG_FEEL#QUE_NOIMAGE#
+There's a new path behind the building. Turn around the building and enter the portal.#
+Move on to another area.#
 
-11372#ÈçÀûÀ» Ã£¾Æ¼­¡¦#SG_FEEL#QUE_NOIMAGE#
-À§ÂÊÀÇ ºĞ¼ö´ë¸¦ Á¶»çÇÏÀÚ.#
-ºĞ¼ö´ë Á¶»ç#
+11372#Looking for the Traces#SG_FEEL#QUE_NOIMAGE#
+Investigate the fountain on the upper side.#
+Investigate the fountain.#
 
-11373#ÈçÀûÀ» Ã£¾Æ¼­¡¦#SG_FEEL#QUE_NOIMAGE#
-¸ÕÀú ºÏÂÊ³¡À¸·Î ¿Ã¶ó°£ ¸¶Å©¸¦ µû¶ó°¡ÀÚ.#
-¸¶Å©¿Í ´ëÈ­#
+11373#Looking for the Traces#SG_FEEL#QUE_NOIMAGE#
+Follow Mark to the north.#
+Talk to Mark.#
 
-11374#ÈçÀûÀ» Ã£¾Æ¼­¡¦#SG_FEEL#QUE_NOIMAGE#
-±æÀÌ ÀÖ´Â °Í °°Áö¸¸ ¸·ÇôÀÖ´Ù. Á¶±İ ´õ ¾ÈÂÊ¿¡ ÀÖ´Â Å¸¸¶¸°°ú ´ëÈ­ÇÏÀÚ.#
-Å¸¸¶¸°°ú ´ëÈ­#
+11374#Looking for the Traces#SG_FEEL#QUE_NOIMAGE#
+The path is blocked. Talk to Tamarin standing farther in.#
+Talk to Tamarin.#
 
-11375#ÈçÀûÀ» Ã£¾Æ¼­¡¦#SG_FEEL#QUE_NOIMAGE#
-¾Æ·¡ÂÊ¿¡ ÀÖ´Â ¸¶±â¿Í ´ëÈ­ÇÏÀÚ.#
-¸¶±â¿Í ´ëÈ­#
+11375#Looking for the Traces#SG_FEEL#QUE_NOIMAGE#
+Talk to Magi down below.#
+Talk to Magi.#
 
-11376#º´Àº ÀÇ»ç¿¡°Ô ¾àÀº ¾à»ç¿¡°Ô#SG_FEEL#QUE_NOIMAGE#
-°©ÀÚ±â ¿¤¸®º£ÀÌÅÍ°¡ ¿òÁ÷ÀÌÁö ¾Ê´Â´Ù. ±â°è°¡ °íÀå³­ °Í °°Áø ¾ÊÀºµ¥¡¦ ¾Æ·¡·Î ³»·Á°¡¼­ È®ÀÎÇØº¸ÀÚ.#
-¿¤¸®º£ÀÌÅÍ È®ÀÎ#
+11376#Let the Specialists Handle It#SG_FEEL#QUE_NOIMAGE#
+Suddenly the elevator stopped moving, but it does not seem to be broken. Go down and check.#
+Check the elevator.#
 
-11377#ÂøÇÑÀÏÀº ±âºĞ ÁÁÀº°Í#SG_FEEL#QUE_NOIMAGE#
-¿¤¸®º£ÀÌÅÍ¿¡ ³¢ÀÎ »ç¶÷À» µµ¿ÍÁá´Ù. ÇÑµ¿¾ÈÀº ±¦Âú°ÚÁö¡¦#
+11377#Act of Kindness#SG_FEEL#QUE_NOIMAGE#
+You helped the man stuck between the elevator doors.#
 #
 
 11378#Trick or treat#SG_FEEL#QUE_NOIMAGE#
@@ -14373,6 +14374,58 @@ Complete Hat manufacture.#
 11470#ÄÚÆ®³×½ºÀÇ ¹øÂ½ÀÌ´Â ¸µ#SG_FEEL#QUE_NOIMAGE#
 ÄÚÆ®³×½ºÀÇ ½ÉºÎ¸§À» ¿Ï·áÇß´Ù. ³»ÀÏ ´Ù½Ã ¿ÀÀÚ.#
 ³»ÀÏ ´Ù½Ã!#
+
+11471#The Fast & The Old man#SG_FEEL#QUE_NOIMAGE#
+Deliver ^0000ff20 empty test tubes, 50 empty potion, 1 fire scroll, 5 holy water^000000to Boxter.#
+Delivery goods to Boxter#
+
+11472#The Fast & The Old man#SG_FEEL#QUE_NOIMAGE#
+Run all they way to ^0000ffNortheast of Izlude Wharf^000000 and test the effectiveness of the potion.#
+Travel to Izlude Wharf#
+
+11473#The Fast & The Old man#SG_FEEL#QUE_NOIMAGE#
+Confirmed the effectiveness of the potion. Go back to Boxter and report.#
+Talk to Boxter again#
+
+11474#The Fast & The Old man#SG_FEEL#QUE_NOIMAGE#
+Boxter looks too satisfied with the effectiveness of the potion and might have forgotten the purpose. Acquire ^0000ff25 Wings of Red Bat, 25 Claw of Rat, 25 Sweet Potatoes^000000 from field located 11 o' clock North of Payon and talk to Boxter again.#
+To the Payon Forest#
+
+11475#The Fast & The Old man#SG_FEEL#QUE_NOIMAGE#
+Eliminate 50 Sohee while Boxter formulate the potion.#
+Eliminate 50 Sohee#
+
+11476#The Fast & The Old man#SG_FEEL#QUE_NOIMAGE#
+Talk to Suspicious Man near Phrontera Library about potion distribution.#
+Talk to Suspicious Man#
+
+11477#The Fast & The Old man#SG_FEEL#QUE_NOIMAGE#
+Suspicious Man is willing to purchase every potion from Granpa Boxter. Let's go back to Boxter.#
+To Boxter once again#
+
+11478#The Fast & The Old man#SG_FEEL#QUE_NOIMAGE#
+Gang members of Lightalzen appears and begun to cause a mess. Let's get rid of atleast 2 Gang members and talk to Boxter.#
+Clear out Gang Members#
+
+11479#The Fast & The Old man#SG_FEEL#QUE_NOIMAGE#
+After getting rid of the gang members, Granny Boxter appears and disagrees with work of Grandpa Boxter. Go meet the Suspicious Man by the Phrontera Library again.#
+Talk with a Suspicious Man#
+
+11480#The Fast & The Old man#SG_FEEL#QUE_NOIMAGE#
+Heard from the Suspicious Man that Boxter's were taken and headed towards Phrontera Inn.#
+Rescue the Boxter's#
+
+11481#The Fast & The Old man#SG_FEEL#QUE_NOIMAGE#
+Granpa Boxter and his wife were taken and threatened by Lekenvere personnel so he decided to close down the laboratory. He wants to go to South field of Payon.#
+To Payon Forest#
+
+11482#The Fast & The Old man#SG_FEEL#QUE_NOIMAGE#
+You have secured and kicked out Lekenvere personnel from the lab. Go back to Izlude and acquire hidden away potion from Boxter.#
+To Boxter at Izlude#
+
+11483#The Fast & The Old man#SG_FEEL#QUE_NOIMAGE#
+Granpa Boxter's favor is done. Bit tired. Don't you think the rest is in order?#
+Rest if tired#
 
 
 // ¹ÚÇØ¸®½¼
@@ -15654,14 +15707,14 @@ Dol-Seoi wept when you gave him the pills that you found. Bring any other pills 
 Why can't this soul rest in peace? Bring any bracelets you find at the Faceworm's Nest back to Keaton.#
 #
 
-//-È£·¯ Àå³­°¨ °øÀå
-12330#ÇØ°ñ ¾ó±¼ÀÇ ¼Ò³à#SG_FEEL#QUE_NOIMAGE#
-¼ö»óÇÑ ¸ğ½ÀÀ» ÇÑ ¼Ò³àÀÇ ÀÌ¾ß±â¸¦ µé¾ú½À´Ï´Ù.#
-ÇØ°ñ ¾ó±¼ÀÇ ¼Ò³à#
+//- Horror Toy Factory
+12330#Skull Faced Girl#SG_FEEL#QUE_NOIMAGE#
+You heard a story of a skull faced girl inside the Toy Factory#
+#
 
-12331#Àå³­°¨ °øÀåÀÇ ÈçÀû#SG_FEEL#QUE_NOIMAGE#
-Àå³­°¨ °øÀåÀ» ÃâÀÔÇÑ ÈçÀûÀÌ ³²¾Æ ÀÖ½À´Ï´Ù. 23½Ã°£ µ¿¾È Àç ÀÔÀåÀÌ ºÒ°¡´ÉÇÕ´Ï´Ù.#
-Àå³­°¨ °øÀåÀÇ ÈçÀû#
+12331 #Toy Factory after-effects # SG_FEEL # QUE_NOIMAGE #
+You cannot re-enter the Faceworm's Nest until the timer has expired.#
+#
 
 12332#ÃÊ±âÈ­ ½Ã°£ Á¦ÇÑ#SG_FEEL#QUE_NOIMAGE#
 ½ºÅ×ÀÌÅÍ½º ÃÊ±âÈ­±ÇÀ» »ç¿ëÇÏ¿© ½ºÅ×ÀÌÅÍ½º ÃÊ±âÈ­¸¦ ÇÏ¼Ì½À´Ï´Ù. ¾Æ·¡¿¡ ³²Àº ½Ã°£±îÁö ÃÖ´ë 2È¸ÀÇ ½ºÅ×ÀÌÅÍ½º ÃÊ±âÈ­°¡ ´õ °¡´ÉÇÏ¸ç ¸ğµç È½¼ö¸¦ ¼ÒÁøÇÑ µÚ¿¡´Â Á¦ÇÑ ½Ã°£ÀÌ ³¡³¯¶§±îÁö ½ºÅ×ÀÌÅÍ½º ÃÊ±âÈ­°¡ ºÒ°¡´ÉÇÕ´Ï´Ù. ³²Àº È½¼ö´Â ÃÊ±âÈ­ NPC ¸¦ ÅëÇØ ¾È³»¹ŞÀ¸½Ê½Ã¿À.#
@@ -16546,40 +16599,40 @@ I should tell my tale to Captain Whitebeard.#
 #
 
 //-- 2012rwc
-13169#´º¿ÀÁîÀÇ ÀÌ¾ß±â#SG_FEEL#QUE_NOIMAGE#
-#
-#
+11369#Looking for the Traces#SG_FEEL#QUE_NOIMAGE#
+Is this environment good for plants? Check the tree on the upper left side.#
+Investigate the tree.#
 
-13170#´º¿ÀÁîÀÇ ¼±¹°#SG_FEEL#QUE_NOIMAGE#
-#
-#
+11370#Looking for the Traces#SG_FEEL#QUE_NOIMAGE#
+A peculiar-looking sign is hung on the door. Examine it.#
+Examine the sign.#
 
-13171#RWCÄ«µå ¸ğÀ¸±â#SG_FEEL#QUE_NOIMAGE#
-RWC2012ÆÄ¶õ Ä«µå¸¦ ¸ğ¾Æ¼­ °¡Á®´Ù ÁÖÀÚ. ¾ÆÂü! ¼ıÀÚ2 Ä«µå´Â µÎÀåÀÌ ÇÊ¿äÇÏ´Ù!#
-RWCÆÄ¶õÄ«µå ¸ğÀ¸±â#
+11371#Looking for the Traces#SG_FEEL#QUE_NOIMAGE#
+There's a new path behind the building. Turn around the building and enter the portal.#
+Move on to another area.#
 
-13172#È«º¸¿ä¿øÀÇ ¼±¹°#SG_FEEL#QUE_NOIMAGE#
-#
-#
+11372#Looking for the Traces#SG_FEEL#QUE_NOIMAGE#
+Investigate the fountain on the upper side.#
+Investigate the fountain.#
 
-13173#RWCÄ«µå ¸ğÀ¸±â - ´ë±â#SG_FEEL#QUE_NOIMAGE#
-³»ÀÏµµ È«º¸È°µ¿Àº ÇÊ¿äÇÒ °Í °°´Ù.#
-#
+11373#Looking for the Traces#SG_FEEL#QUE_NOIMAGE#
+Follow Mark to the north.#
+Talk to Mark.#
 
-13174#Á¡ÇÎ ÀÌº¥Æ®#SG_FEEL#QUE_NOIMAGE#
-#
-#
+11374#Looking for the Traces#SG_FEEL#QUE_NOIMAGE#
+The path is blocked. Talk to Tamarin standing farther in.#
+Talk to Tamarin.#
 
-13175#Á¡ÇÎ ÀÌº¥Æ®#SG_FEEL#QUE_NOIMAGE#
-ÀÌÁî·çµåÀÇ ·ÎÅ×¸£Æ®¸¦ ¸¸³ªº¾´Ï´Ù#
-#
+11375#Looking for the Traces#SG_FEEL#QUE_NOIMAGE#
+Talk to Magi down below.#
+Talk to Magi.#
 
-13176#Á¡ÇÎ ÀÌº¥Æ®#SG_FEEL#QUE_NOIMAGE#
-ÀÌÁî·çµåÀÇ ¶ó±â¸¦ ¸¸³ªº¾´Ï´Ù#
-#
+11376#Let the Specialists Handle It#SG_FEEL#QUE_NOIMAGE#
+Suddenly the elevator stopped moving, but it does not seem to be broken. Go down and check.#
+Check the elevator.#
 
-13177#Á¡ÇÎ ÀÌº¥Æ®#SG_FEEL#QUE_NOIMAGE#
-ÀÌÁî·çµåÀÇ ¾Æ¶ûÀ» ¸¸³ªº¾´Ï´Ù#
+11377#Act of Kindness#SG_FEEL#QUE_NOIMAGE#
+You helped the man stuck between the elevator doors.#
 #
 
 13178#Á¡ÇÎ ÀÌº¥Æ®#SG_FEEL#QUE_NOIMAGE#
@@ -16609,23 +16662,23 @@ You have used Runane's warp.#
 #
 
 //-ep15.1
-13184#Âû½ºÅÏ °øÀå#SG_FEEL#QUE_NOIMAGE#
-Âû½ºÅÏ°øÀå¿¡ ÀÔÀåÇÕ´Ï´Ù.#
+13184#Charleston Factory#SG_FEEL#QUE_NOIMAGE#
+Enter Charleston Factory.#
 #
 
-13185#Âû½ºÅÏ °øÀå - ´ë±â#SG_FEEL#QUE_NOIMAGE#
-±â°èÀåÄ¡¸¦ »ç¿ëÇß½À´Ï´Ù.#
+13185#Charleston Factory - Hold#SG_FEEL#QUE_NOIMAGE#
+You have used the mechanic device.#
 #
 
-13186#Âû½ºÅÏ °øÀå - ¿Ï·á#SG_FEEL#QUE_NOIMAGE#
+13186#Charleston Factory - Complete#SG_FEEL#QUE_NOIMAGE#
 #
 #
 
-13187#½ºÅÜ Ã³¸®#SG_FEEL#QUE_NOIMAGE#
-°øÀå¿¡¼­ ½ºÅÜÀ» Ã³¸®ÇÕ´Ï´Ù.#
+13187#Deal with the Staff#SG_FEEL#QUE_NOIMAGE#
+Take care of the Factory Staff.#
 #
 
-13188#½ºÅÜ Ã³¸® - ´ë±â#SG_FEEL#QUE_NOIMAGE#
+13188#Deal with the Staff - Hold#SG_FEEL#QUE_NOIMAGE#
 #
 #
 
@@ -20157,10 +20210,10 @@ You can only challenge Troy once the timer has expired.#
 #
 
 //-----
-//-------2015 ÀÎÆ®·Î º¯°æ, ÀÏºÎ Æ©Åä¸®¾ó ¼öÁ¤
-21001#³­ÆÄ¼± Å»Ãâ#SG_FEEL#QUE_NOIMAGE#
-¿©Çà Áß Ç³¶ûÀ» ¸¸³ª ¹«ÀÎµµ¿¡ ³­ÆÄÇØ ¹ö¸° ¹è¿¡¼­ Å»ÃâÇØ¾ß ÇÑ´Ù. ¼±³»¿¡ ¾ÆÁ÷ ºÎ»óÀÚ°¡ ÀÖÀ½À» ¾Ë¸®ÀÚ.#
-¼±Àå°ú ´ëÈ­#
+//-------2015 Changed and modified Intro	// currently translating this
+21001#Escape the Wreck#SG_FEEL#QUE_NOIMAGE#
+On the way to a desert island, the crew was suprised by a storm. Alrija will stay on board since he is injured.#
+Talk to the Captain#
 
 21002#ÃÖÃÊÀÇ ÀüÅõ#SG_FEEL#QUE_NOIMAGE#
 ¼±¹ÚÀÇ ¼ö¸®ÀÚÀç¸¦ ÈÉÃÄ ´Ş¾Æ³­ Æ÷¸µÀ» Àâ°í, ¸ñÀç 2°³¸¦ È¸¼ö ÇØ ¼±¿ø¿¡°Ô Àü´ŞÇØ ´Ş¶ó´Â ºÎÅ¹À» ¹Ş¾Ò´Ù. ±ÙÃ³¿¡¼­ Æ÷¸µÀ» Ã³Ä¡ÇÏ°í ¸ñÀç¸¦ È¸¼öÇÏÀÚ.#
@@ -20771,7 +20824,7 @@ You can only challenge Troy once the timer has expired.#
 °ÅºÏ¼¶ÀÇ Á¦ 2±â»ç´ÜÀÌ À§Çè¿¡ ºüÁöÁö ¾Êµµ·Ï, ¼Ö¸®´õ¿Í ÆÛ¸ÓÅÍ¸¦ »ç³ÉÇÏ¿© µ½µµ·Ï ÇÏÀÚ.#
 ¼Ö¸®´õ, ÆÛ¸ÓÅÍ °¢°¢ 10¸¶¸® Ã³Ä¡#
 
-21154#°ÅºÏÀÌ ‹ó Ã³Ä¡ 2#SG_FEEL#QUE_NOIMAGE#
+21154#°ÅºÏÀÌ ‹?Ã³Ä¡ 2#SG_FEEL#QUE_NOIMAGE#
 °ÅºÏ¼¶ ´øÀü ¾ÈÂÊ¿¡¼­ »ç¶÷À» ¹ß°ßÇß´Ù´Â º¸°í°¡ ÀÖ´Ù. ´øÀü ¾ÈÀ» Å½»çÇÏ´Â »ç¶÷µéÀÌ À§Çè¿¡ ºüÁöÁö ¾Êµµ·Ï, ÇÁ¸®Àú¿Í ÈıÅÍ¸¦ »ç³ÉÇÏµµ·Ï ÇÏÀÚ.#
 ÇÁ¸®Àú, ÈıÅÍ °¢°¢ 10¸¶¸® Ã³Ä¡#
 
