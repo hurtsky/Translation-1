@@ -20212,12 +20212,12 @@ You can only challenge Troy once the timer has expired.#
 //-----
 //-------2015 Changed and modified Intro	// currently translating this
 21001#Escape the Wreck#SG_FEEL#QUE_NOIMAGE#
-On the way to a desert island, the crew was suprised by a storm. Alrija will stay on board since he is injured.#
+On the way to Izlude Island, the crew was suprised by a storm. Due to his injuries, the wounded swordsman has to stay on board.#
 Talk to the Captain#
 
-21002#최초의 전투#SG_FEEL#QUE_NOIMAGE#
-선박의 수리자재를 훔쳐 달아난 포링을 잡고, 목재 2개를 회수 해 선원에게 전달해 달라는 부탁을 받았다. 근처에서 포링을 처치하고 목재를 회수하자.#
-목재 2개 선원에게 전달#
+21002#The first Battle#SG_FEEL#QUE_NOIMAGE#
+Porings interrupted the reparation and stole materials, the crew needs 2 Lumber in order to finish the work. Kill the Porings and bring the Lumber back.#
+Deliver 2 Lumber to the crew#
 
 21003#멀미에 좋은약#SG_FEEL#QUE_NOIMAGE#
 여행중에 만난 친구 레노의 멀미를 달래기 위해 뭔가 마실 것을 구해주기로 했다. ^4d4dff크리투라 학원 치료소^000000에 있는 ^4d4dff치료사에게 약초에 대해^000000 물어보자.#
