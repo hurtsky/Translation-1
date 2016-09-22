@@ -2833,7 +2833,7 @@ SKILL_DESCRIPT = {
 		"Effect:^777777 Gives character the Cloaked effect, it makes the user invisible to players and monsters but you don't lose the ability to move. Cloaked characters do not regenerate HP or SP, they can attack but this uncloaks them.",
 		"Attacking while being cloaked doubles the critical rate for that hit. Insects, Demons and Boss monsters see through this invisibility.",
 		"The Cloaked effect may be cancelled at any time by using the skill again (no SP Cost), by getting hit, reaching SP 0 or by coming into the area of effect of Attention Concentrate, Ruwach or Sight.",
-		"Lower Skill Levels don´t let you attack or use skills and require a wall next to you to allow movement. The movement speed increase does not stack with the one from Improve Dodge.",
+		"Lower Skill Levels dont let you attack or use skills and require a wall next to you to allow movement. The movement speed increase does not stack with the one from Improve Dodge.",
 		"Movement speed:",
 		"with wall / without wall ^000000",
 		"[LV 1]^777777 100% / can't move ^000000",
@@ -3760,11 +3760,11 @@ SKILL_DESCRIPT = {
 		"Effect:^777777 Summon various plants to attack monsters or players. The level you have determines the HP of the plant, while the level you use determines the type of plant summoned, the duration, and the amount of ^66cc33Plant Bottles^777777 consumed.",
 		"The HP formula is 2230+200*Possessed SkillLV per plant (yes, these have significantly more HP than normal ones), all other stats remain the same. If you have less than the total amount of bottles required for the Skill Level you used, it will take the rest of the bottles, and summon that many plants.",
 
-		"So if you have three plant bottles, and use level one, you’ll end up with three Mandragora instead of the typical five. When used during the War of Emperium, the defense value of the castle the plants are in raises the defense of the plants themselves.",
+		"So if you have three plant bottles, and use level one, youÂ’ll end up with three Mandragora instead of the typical five. When used during the War of Emperium, the defense value of the castle the plants are in raises the defense of the plants themselves.",
 		"Their attacks are considered extensions of your own when it comes to a single thing: auto-cast spells granted by weapons or cards. Status effects and damage increasing cards do not carry over to the plants.",
 		"You can only summon more plants once your first plants have died, or gone through their duration time. So long as you remain on screen with them, you will get the experience for their kills.",
 		"An effective strategy for all the plants is to summon them, hit/target a monster, and then use a Hiding accessory once the monster is in range of your plants.",
-		"Monsters will not attack your plants, thus rendering them sitting ducks until your plants have had their way with them, provided they’re not insect or demon type monsters.",
+		"Monsters will not attack your plants, thus rendering them sitting ducks until your plants have had their way with them, provided theyÂ’re not insect or demon type monsters.",
 		"The attacks are of neutral element with the occasional elemental attack corresponding to the plants element. The HIT/Flee stats below are what's required of players to hit/dodge them, not the HIT or Flee of the plant itself.",
 		"[LV 1]^777777 5 Mandragoras, 5 ^66cc33Plant Bottle^777777",
 		"ATK: 26-35",
@@ -3805,7 +3805,7 @@ SKILL_DESCRIPT = {
 		"Flee: 199",
 		"ASPD: Average.",
 		"Range: 3",
-		"Tip: randomly casts a 1024 HP Heal on allies. On specific servers (Aegis) in PvP only heals you if you’re in a party, it’s required for the Geographer to recognize you as a valid target for healing even if you are the only member. ^000000",
+		"Tip: randomly casts a 1024 HP Heal on allies. On specific servers (Aegis) in PvP only heals you if youÂ’re in a party, itÂ’s required for the Geographer to recognize you as a valid target for healing even if you are the only member. ^000000",
 
 	},
 
@@ -9539,20 +9539,20 @@ SKILL_DESCRIPT = {
 	[SKID.GM_SANDMAN] = {
 
 		"Lullaby",
-		"Type : ^777777 Active ^bb00bb(¿°·Â)^000000",
-		"Effect : ^777777ÀáµéÁö ¾ÊÀ» ¼ö ¾ø´Â ÀÚÀå°¡¸¦ ºÒ·¯ ´ë»óÀ» ÀÏÁ¤½Ã°£ ±ú¾î³¯ ¼ö ¾ø´Â ¼ö¸é»óÅÂ·Î ¸¸µç´Ù.^000000",
+		"Type : ^777777 Active ^bb00bb(ì—¼ë ¥)^000000",
+		"Effect : ^777777ì ë“¤ì§€ ì•Šì„ ìˆ˜ ì—†ëŠ” ìì¥ê°€ë¥¼ ë¶ˆëŸ¬ ëŒ€ìƒì„ ì¼ì •ì‹œê°„ ê¹¨ì–´ë‚  ìˆ˜ ì—†ëŠ” ìˆ˜ë©´ìƒíƒœë¡œ ë§Œë“ ë‹¤.^000000",
 	},
 
 	[SKID.ALL_CATCRY] = {
 
 		"Cat Cry",
-		"Effect : ³»¿ë : ^777777Áã¸¦ ÂÑ¾Æ³»±â À§ÇÑ °í¾çÀÌÀÇ ¿ïÀ½¼Ò¸®°¡ ³­´Ù.^000000",
+		"Effect : ë‚´ìš© : ^777777ì¥ë¥¼ ì«“ì•„ë‚´ê¸° ìœ„í•œ ê³ ì–‘ì´ì˜ ìš¸ìŒì†Œë¦¬ê°€ ë‚œë‹¤.^000000",
 	},
 
 	[SKID.ALL_PARTYFLEE] = {
 
 		"Party Flee",
-		"Effect : ^777777²É^000000\"",
+		"Effect : ^777777ê½ƒ^000000\"",
 	},
 
 	[SKID.ALL_ANGEL_PROTECT] = {
@@ -9563,7 +9563,7 @@ SKILL_DESCRIPT = {
 	[SKID.ALL_DREAM_SUMMERNIGHT] = {
 
 		"Dream Summernight",
-		"Effect : ^777777»ç¿ëÇÏ¸é ÇÑ ¿©¸§ ¹ãÀÇ ²ŞÀ» ²Ù´Â µí ÇÑ ´À³¦ÀÌ µç´Ù.^000000\"",
+		"Effect : ^777777ì‚¬ìš©í•˜ë©´ í•œ ì—¬ë¦„ ë°¤ì˜ ê¿ˆì„ ê¾¸ëŠ” ë“¯ í•œ ëŠë‚Œì´ ë“ ë‹¤.^000000\"",
 	},
 
 	[SKID.ALL_REVERSEORCISH] = {
@@ -11290,7 +11290,7 @@ SKILL_DESCRIPT = {
 		"Your character will appear transparant. While in camouflage status your critical chance and attack power is increased, but decreases your defense.",
 		"When camouflage status ends your attack power, critical, and defense returns to normal. Until you re-use the skill to cancel its effect, it will continaully drain SP.",
 		"With high enough level you can use the skill without being near an obstacle. ^000000",
-		--[New Untranslated Desc] Effect: »ç¿ë½Ã  º®ÀÌ³ª Àå¾Ö¹° ±ÙÃ³¿¡ ¸öÀ» ¼û°Ü, ¾Ç¸¶/°ïÃæÇüÀ» Á¦¿ÜÇÑ ¸ó½ºÅÍ¿¡°Ô ¹ß°¢µÇÁö ¾Êµµ·Ï ÇÑ´Ù. ¼û¾îÀÖ´Â µ¿¾ÈÀº ¸öÀÌ ¹İÅõ¸íÇÏ°Ô º¸¿©Áø´Ù. À§Àå Àü¼úÀ» »ç¿ëÇÏ°í ÀÖ´Â µ¿¾È Å©¸®Æ¼ÄÃ È®·ü°ú °ø°İ·ÂÀÌ »ó½ÂÇÏÁö¸¸, ¹İ´ë·Î ¹æ¾î·ÂÀº °¨¼ÒÇÑ´Ù. À§Àå Àü¼ú »óÅÂ¿¡¼­ ÇØÁ¦µÇ¸é °ø°İ·Â°ú Å©¸®Æ¼ÄÃ È®·ü, ¹æ¾î·ÂÀº ¿ø·¡´ë·Î µ¹¾Æ°£´Ù. Ä«¹«ÇÃ¶óÁê »óÅÂ¿¡¼­ °ø°İÀÌ³ª ½ºÅ³À» »ç¿ëÇÏ¸é À§Àå Àü¼ú »óÅÂ°¡ ÇØÁ¦µÈ´Ù. À§Àå Àü¼ú »óÅÂ µ¿¾È¿¡´Â Áö¼ÓÀûÀ¸·Î SP ¸¦ ¼Ò¸ğÇÑ´Ù. ·¹º§ÀÌ ¿À¸£¸é Àå¾Ö¹° ±ÙÃ³°¡ ¾Æ´Ï¶óµµ À§Àå Àü¼úÀ» »ç¿ëÇÒ ¼ö ÀÖ´Ù. 
+		--[New Untranslated Desc] Effect: ì‚¬ìš©ì‹œ  ë²½ì´ë‚˜ ì¥ì• ë¬¼ ê·¼ì²˜ì— ëª¸ì„ ìˆ¨ê²¨, ì•…ë§ˆ/ê³¤ì¶©í˜•ì„ ì œì™¸í•œ ëª¬ìŠ¤í„°ì—ê²Œ ë°œê°ë˜ì§€ ì•Šë„ë¡ í•œë‹¤. ìˆ¨ì–´ìˆëŠ” ë™ì•ˆì€ ëª¸ì´ ë°˜íˆ¬ëª…í•˜ê²Œ ë³´ì—¬ì§„ë‹¤. ìœ„ì¥ ì „ìˆ ì„ ì‚¬ìš©í•˜ê³  ìˆëŠ” ë™ì•ˆ í¬ë¦¬í‹°ì»¬ í™•ë¥ ê³¼ ê³µê²©ë ¥ì´ ìƒìŠ¹í•˜ì§€ë§Œ, ë°˜ëŒ€ë¡œ ë°©ì–´ë ¥ì€ ê°ì†Œí•œë‹¤. ìœ„ì¥ ì „ìˆ  ìƒíƒœì—ì„œ í•´ì œë˜ë©´ ê³µê²©ë ¥ê³¼ í¬ë¦¬í‹°ì»¬ í™•ë¥ , ë°©ì–´ë ¥ì€ ì›ë˜ëŒ€ë¡œ ëŒì•„ê°„ë‹¤. ì¹´ë¬´í”Œë¼ì¥¬ ìƒíƒœì—ì„œ ê³µê²©ì´ë‚˜ ìŠ¤í‚¬ì„ ì‚¬ìš©í•˜ë©´ ìœ„ì¥ ì „ìˆ  ìƒíƒœê°€ í•´ì œëœë‹¤. ìœ„ì¥ ì „ìˆ  ìƒíƒœ ë™ì•ˆì—ëŠ” ì§€ì†ì ìœ¼ë¡œ SP ë¥¼ ì†Œëª¨í•œë‹¤. ë ˆë²¨ì´ ì˜¤ë¥´ë©´ ì¥ì• ë¬¼ ê·¼ì²˜ê°€ ì•„ë‹ˆë¼ë„ ìœ„ì¥ ì „ìˆ ì„ ì‚¬ìš©í•  ìˆ˜ ìˆë‹¤. 
 		"[LV 1]^777777 6 SP per Sec / Can't Move ^000000",
 		"[LV 2]^777777 5 SP per Sec / Can't Move ^000000",
 		"[LV 3]^777777 4 SP per Sec / 25% Move Speed ^000000",
@@ -14059,7 +14059,7 @@ SKILL_DESCRIPT = {
 		"Cast Time:^777777 Unknown ^000000",
 		"Cool Down:^777777 50 + 10*SkillLV (except LV 5 which is 129 sec) ^000000",
 		"Duration:^777777 50 + 10*SkillLV sec ^000000",
-		"Effect:^777777 Instantaenuously switch the location of the player and the Homunculus. The monsters that were attacking the player will now attack the Homunculus instead.",
+		"Effect:^777777 Instantaneously switch the location of the player and the Homunculus. The monsters that were attacking the player will now attack the Homunculus instead.",
 		"[LV 1]^777777 - 20% chance",
 		"[LV 2]^777777 - 40% chance",
 		"[LV 3]^777777 - 60% chance",
@@ -15419,7 +15419,7 @@ SKILL_DESCRIPT = {
 		"Max Level:^777777 5 ^000000",
 		"SP Cost:^777777 5 + 5*SkillLV ^000000", 
 		"Effect : ^777777 Usable only in Fighter style. The skill must be used directly after Sonic Claw.",
-		"When used, consumes 1 spirit sphere.·Î",
+		"When used, consumes 1 spirit sphere.ë¡œ",
 		"Deals damage to the target as has a chance to cause stun. ^000000",
 		"[LV 1] ^777777 150% ATK / 25% Stun Chance ^000000",
 		"[LV 2] ^777777 300% ATK / 30% Stun Chance ^000000",
