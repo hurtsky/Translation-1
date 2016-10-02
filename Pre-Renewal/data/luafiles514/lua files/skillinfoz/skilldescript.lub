@@ -2833,7 +2833,7 @@ SKILL_DESCRIPT = {
 		"Effect:^777777 Gives character the Cloaked effect, it makes the user invisible to players and monsters but you don't lose the ability to move. Cloaked characters do not regenerate HP or SP, they can attack but this uncloaks them.",
 		"Attacking while being cloaked doubles the critical rate for that hit. Insects, Demons and Boss monsters see through this invisibility.",
 		"The Cloaked effect may be cancelled at any time by using the skill again (no SP Cost), by getting hit, reaching SP 0 or by coming into the area of effect of Attention Concentrate, Ruwach or Sight.",
-		"Lower Skill Levels dont let you attack or use skills and require a wall next to you to allow movement. The movement speed increase does not stack with the one from Improve Dodge.",
+		"Lower Skill Levels don't let you attack or use skills and require a wall next to you to allow movement. The movement speed increase does not stack with the one from Improve Dodge.",
 		"Movement speed:",
 		"with wall / without wall ^000000",
 		"[LV 1]^777777 100% / can't move ^000000",
@@ -3760,7 +3760,7 @@ SKILL_DESCRIPT = {
 		"Effect:^777777 Summon various plants to attack monsters or players. The level you have determines the HP of the plant, while the level you use determines the type of plant summoned, the duration, and the amount of ^66cc33Plant Bottles^777777 consumed.",
 		"The HP formula is 2230+200*Possessed SkillLV per plant (yes, these have significantly more HP than normal ones), all other stats remain the same. If you have less than the total amount of bottles required for the Skill Level you used, it will take the rest of the bottles, and summon that many plants.",
 
-		"So if you have three plant bottles, and use level one, youll end up with three Mandragora instead of the typical five. When used during the War of Emperium, the defense value of the castle the plants are in raises the defense of the plants themselves.",
+		"So if you have three plant bottles, and use level one, you'll end up with three Mandragora instead of the typical five. When used during the War of Emperium, the defense value of the castle the plants are in raises the defense of the plants themselves.",
 		"Their attacks are considered extensions of your own when it comes to a single thing: auto-cast spells granted by weapons or cards. Status effects and damage increasing cards do not carry over to the plants.",
 		"You can only summon more plants once your first plants have died, or gone through their duration time. So long as you remain on screen with them, you will get the experience for their kills.",
 		"An effective strategy for all the plants is to summon them, hit/target a monster, and then use a Hiding accessory once the monster is in range of your plants.",
