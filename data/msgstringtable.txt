@@ -2471,13 +2471,13 @@ ErrorCategory: %d, ErrorCode: %d (%d,%d,%d,%d)#
 %d%% ( Basic 100%% + Premium %d%% + Internet cafe %d%% + %s Server %d%% )#
 Basic item drop rate from monster hunting is increased for %dmins by %dtimes.#
 Basic item drop rate from monster hunting is increased for %dhour %.2dmins  by %dtimes.#
-The price of %s#
-100000000#
- ^ff0000%d^0000ffbillion#
+The price of^0000FF %s^000000#
+1000000000#
+ is over ^FF0000%d^0000FF Billion^000000 Zeny and#
 10000000#
- ^ff0000%d^0000ffmillion#
-^0000ffZeny ^000000Over.\nEnter the Amount?#
-Safety check more than 10million Zeny#
+ more than^FF0000 %d0^0000FF Million^000000 Zeny#
+. Is this correct?#
+Safety check for more than 10m Zeny#
 https://www.warpportal.com/account/login.aspx?ReturnUrl=%2faccount%2fpayment.aspx#
 https://kepler.warpportal.com/ro1/purchase/?step=1&steamid=%lld&accountname=#
 A giant crevice appeared in Bifrost, the bridge between Splendide, the end of the world and the floating continent of Alfheim, and you do not know the source of the labyrinth forest.#
