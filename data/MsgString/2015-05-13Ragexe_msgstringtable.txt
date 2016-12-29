@@ -2512,7 +2512,7 @@ Start time does not match the scope of sales.#
 Please enter the time#
 Please enter the Item DB Name#
 Item ID lookup failed. Please try again later#
->> ItemName: %s / Price: %dc / Quantity: %d / TimeOfSale: %dMonth:%dDay:%dMinute:%dSecond ~ %dMonth:%dDay:%dMinute:%Second#
+>> ItemName: %s / Price: %dc / Quantity: %d / TimeOfSale: %dMonth:%dDay:%dMinute:%dSecond ~ %dMonth:%dDay:%dMinute:%dSecond#
 Registration successful#
 Registration failure. Please try again later.#
 Item has already been registered. Please try again later.#
