@@ -5061,7 +5061,7 @@ achievement_tbl = {
 			},
 			[2] = {
 				text = "Manuk Explorer",
-				shortcut = 120918,
+				shortcut = 129018,
 			},
 		},
 		reward = {
