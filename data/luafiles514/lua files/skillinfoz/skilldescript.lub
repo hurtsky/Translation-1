@@ -8882,7 +8882,7 @@ SKILL_DESCRIPT = {
 		"all targets hit by it to sit. For monsters,",
 		"they are unable to move for a short period.",
 		"Damage is influenced by Over Brand skill level.",
-
+		"Requires ^00bb00Spear^777777 class weapon^000000.",
 		"[Lv 1]: ^777777120% ATK, Chance of success 40%^000000",
 		"[Lv 2]: ^777777240% ATK, Chance of success 48%^000000",
 		"[Lv 3]: ^777777360% ATK, Chance of success 56%^000000",

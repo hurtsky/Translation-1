@@ -1,4 +1,29 @@
-//-- Last updated 2015-10-26 10:26 PM
+
+// Illusion Geffen (Vampire)
+gef_d01_i.rsw#250 Pages#
+
+// Illusion Payon (Moonlight)
+pay_d03_i.rsw#Nightmare of Moonlight#
+
+// Chicken Mode Horror Toy Factory
+1@xm_d2.rsw#Horror Toy Factory#
+
+// Chicken Mode Nightmare Glastheim
+1@gl_k2.rsw#Old Glast Heim Chivalry 1st floor#
+2@gl_k2.rsw#Old Glast Heim Chivalry 2nd floor#
+
+// Localizing Rockridge
+har_in01.rsw#Rockridge#
+harboro1.rsw#Rockridge#
+harboro2.rsw#Underground Waterway#
+rockmi1.rsw#Rockridge Mine#
+rockmi2.rsw#Rockridge Mine#
+rockrdg1.rsw#Kiwawa Desert#
+rockrdg2.rsw#Kiwawa Desert#
+
+// Memorial day
+1@md_gef.rsw#Friday Memorial#
+1@md_pay.rsw#Weekend Memorial#
 
 // ep16.2
 1@slw.rsw#Central chamber of Werner Institute#

@@ -1463,7 +1463,13 @@ tbl = {
 	[3429] = { MonsterSize = 1.2, MonsterEff = EFFECT.EF_WHITEBODY },
 	[3430] = { MonsterSize = 1.2, MonsterEff = EFFECT.EF_WHITEBODY },
 	[3505] = { MonsterSize = 1.5, MonsterEff = EFFECT.EF_DOUBLEGUMGANG3 },
-	[3634] = { MonsterSize = 2.5, MonsterEff = EFFECT.EF_NONE }
+	[3634] = { MonsterSize = 2.5, MonsterEff = EFFECT.EF_NONE },
+	[3626] = { MonsterSize = 2, MonsterEff = EFFECT.EF_NONE },
+	[3621] = { MonsterSize = 1, MonsterEff = EFFECT.EF_GUMGANG },
+	[3636] = { MonsterSize = 0.7, MonsterEff = EFFECT.EF_BOTTOM_BARRIER },
+	[3657] = { MonsterSize = 2, MonsterEff = EFFECT.EF_NONE },
+	[2209] = { MonsterSize = 1.5, MonsterEff = EFFECT.EF_PURPLEBODY },
+	[3751] = { MonsterSize = 1.2, MonsterEff = EFFECT.EF_NONE }
 }
 
 main = function()

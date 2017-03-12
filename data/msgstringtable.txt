@@ -1,7 +1,7 @@
 Do you agree?#
 Failed to Connect to Server.#
 Disconnected from Server.#
-Disconnected from Server.#
+Disconnected from Server!#
 Server Closed.#
 Someone has Logged in with this ID.#
 Unregistered ID. Please make sure you have a registered account and you have correctly typed in the user ID.#

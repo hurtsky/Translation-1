@@ -9,6 +9,7 @@ CmdOnOffList = {
 	["/showname"] = 1,
 	["/fog"] = 1,
 	["/aura"] = 1,
+	["/aura2"] = 0,
 	["/window"] = 0,
 	["/miss"] = 1,
 	["/q1"] = 0,
@@ -31,7 +32,8 @@ CmdOnOffList = {
 	["/cashshop"] = 1,
 	["/goldpc"] = 1,
 	["/roulette"] = 1,
-	["/quake"] = 1
+	["/quake"] = 1,
+	["/mineffect"] = 0
 }
 OptionInfoList = {
 	Window_XPos = -1,
