@@ -2819,10 +2819,228 @@ Slot is full, please delete a character.#
 Item cannot be restored, are you sure want to apply it?#
 Registered as the following style.#
 There are plenty of golds in the bank, Please go to the bank now.#
+moving...#
+You are not allowed to fly over the sovereign airspace of the country.#
+Airship flight is temporarily unavailable due to atmospheric instability caused by magic.#
+Private airship#
+Please try again in a moment.#
+Not enough Zeny to use the private airship.#
+Not enough Cans to use the private airship.#
+You cannot meet the level to use the private airship.#
+You cannot move to the selected point by the private airship.#
+You cannot use the private airship where you are now.#
+Accessory#
+Second costume#
+Wardrobe#
+This hairstyle cannot be dyed.#
+Press an arrow to choose the style you want.#
+Come and see the new styles.\n(Purchased accessories will be sent via RODEX.)#
+Basic style#
+You can level up the skill from the base Lv. %d.#
+Special symbol can't be used in name#
+MaxHP is to low to use this skill#
+MaxSP is to low to use this skill#
+Compare items#
+Drop lock#
+Screenshots are not attached#
+TWITTER#
+General#
+Notice#
+Clear#
+Refresh#
+%d minute#
+%d hour#
+%d day#
+Returned#
+Do you want to delete the message?#
+Show information#
+Zoom in#
+Zoom out#
+Maximize#
+Show world map#
+Total possession item type#
+/minimap#
+Show minimap buttons#
+Hide minimap buttons#
+Show guild member login status#
+Intimacy: %s#
+Confirmation#
+Team name#
+Leader#
+Time limit exceeded. Closing the client#
+Input error. Closing the client#
+Incorrect input. A small buff has given to you#
+Enter 4 english words and 2 chinese words#
+Your entered answer is [%s]. Is it right?#
+Icon is unchecked#
+Incorrect input (Remaining chance: %d)#
+Do you want to announce %d to player?#
+Message has been sent to player#
+Needed Data for Query illegal software are not signed.#
+The player is being monitored.#
+Already signed in investigation system.#
+Failed to store icon.#
+Failed to store replied answer.#
+Hello, illegal software is being monitored.#
+Please enter the text below within the specified time.#
+According to game regulation, when you enter the wrong text three times, you will get banned.#
+Remaining chance : %d#
+Role#
+Range#
+You use the left mouse button to specify the role#
+You use the left mouse button to specify the range#
+Not a valid range, please press Enter#
+E X P : %.1f%% ( basic %.1f%% %s %.1f%%)#
+DROP  : %.1f%% ( basic %.1f%% %s %.1f%%)#
+DEATH : %.1f%% ( basic %.1f%% %s %.1f%%)#
+The role name will be sent: %s #
+Synthesis of the required materials#
+Insufficient synthesis materials#
+Required material %d ea.#
+Refine value is to low for synthesis#
+Do you want to sign in to the adventurers?#
+Please leave a message#
+Please enter the text on the graph#
+%d second left#
+Please enter your 6 identification number.#
+Identification number.#
+It's not a 6 identification number. Please try again#
+The message has been deleted#
+Please select the area where the private airship will move#
+E X P : %d%% ( basic 100.0%% %s %d%%)#
+DROP  : %d%% ( basic 100.0%% %s %d%%)#
+DEATH : %d%% ( basic 100.0%% %s %d%%)#
+Move to the destination#
+The [%s] is not present, the default AI will be used instead.#
+%.1f%% ( Basic 100.0%% + Premium %.1f%% + %s %.1f%%)#
+Would you like to open a shop at this location?#
+Doram race can't wear this clothes#
+Props open-air store sales will be traded in RODEX#
+30,000 z#
+Malangdo Special Can 100 pc#
+Cannot carry anymore because weight limit over 80%#
+Unsold items are sent to RODEX#
+Preview#
+Assign Guild Leader#
+Are sure want to assign %s as guild leader? After assigned your position will become %s#
+Cancel#
+Do you want to close the shop?#
+%02d day %02d hour %02d minute %02d second#
+Unable to sign in#
+Unable to sign in because the maximum number of sign-in is exceeded#
+Please select a location for your shop#
+Pet name will be changed to ^0000ff^0000ff %s^000000^000000, do you want to continue?#
+Trade date : #
+Trade item : #
+Trade quantity : #
+Trade price : #
+Total trade : #
+Open vending sales agent#
+Open vending purchase agent#
+Close vending sales agent#
+Close vending purchase agent#
+Balance: #
+Item list: #
+Vending agent#
+Returned item: #
+Returned quantity: #
+Returned date: #
+Total trade will be sent to RODEX #
+Name isn't available#
+Item has been delivered#
+Thank you for purchasing#
+Press again to unlock#
+Lock from NPC selling#
+There is no callable location nearby#
+Capture full screens#
+Capture part of screen#
+Send#
+Family Affairs agent#
+Acknowledgement of family member registrations.#
+Dear whom it may concern. \r\n\r\n Today, \"%s\" and \"%s\" 's son/daughter \"%s\" has fully separated and independent from your member of family.\r\n\r\nHereat, we inform you in writing.\r\n\r\nPlease contact to Prontera Family Affairs if you have any enquiries.\r\n\r\nThank you.#
+Equip#
+No image#
+[%s] is blocking Call Massage.#
+Currently in WoE hours, unable to delegate Guild leader#
+You have to wait for one day before delegating a new Guild leader#
+When adopted, character will not able to transcend, maximum stats will be limited, MaxHP and MaxSP will be reduced.\nAre you sure you want to continue?#
+Refining#
+Use Blacksmith's Blessing#
+Insufficient zeny#
+Not enough Blacksmith's Blessing#
+This equipment can not be refined#
+Upgrade success!#
+Upgrade failed!#
+Back#
+Success# 
+Return#
+With Mr/Miss#
+The Homunculus's name will be changed to^0000ff^0000ff %s^000000^000000, Are you sure?#
+Call function is ON#
+Call function is OFF#
+Display Call messages#
+This character is currently opening a shop and can't be deleted#
+The same vend shop NPC has been set up#
+Opening shop is not allowed on this location#
+Opening shop is not allowed when there is other character#
+Failed to feed pet, please close RODEX window#
+Set item setting#
+Equip#
+Equipment will dissapear when refine fails#
+Equipment's refine level will decreased when refine fails#
+Equipment will dissapear or refine level will decreased when refine fails#
+You cannot use RODEX while refining. RODEX has closed.#
+You cannot use RODEX while refining.#
+Please close other windows to continue.#
+Turn On Aura [Aura ON]#
+Turn Off Aura [Auta OFF]#
+Aura is turned off. Please turn it on and try again#
+You need %d bullet(s) to activate the skill.#
+Do you want to change the equipment set?#
+You can not do it while you are dead.#
+You can not do it while casting#
+You can not do it while trading#
+You can not do it while opening vendor#
+You can not do it while talking with NPC#
+You can not do it while opening chat room#
+Party members are not connected.#
+You need %d arrow(s) to activate the skill.#
+Sort#
+Please close item setting window to dump item.#
+There is no item to replace.#
+Deleted character#
+%y.%m.%d#
+Access date: %s#
+You can not use bank while refining. Bank has closed.#
+You can not use bank while refining.#
+The item has bind to set equipment.#
+Human#
+Swordman, Mage, Merchant, Acolyte, Thief, Archer, Expanded Classes#
+Doram#
+Summoner#
+Dominant race of Rune Midgard. Unlimited potential. Excellent adaptability to solve problems.#
+Race of Far-star continent with natural born curiosity and sparky character.#
+Possession limit is over 70%, or you have less than 10 free inventory space.#
+C#
+C#
+Another work is in progress.#
+Overheat limit : %d#
+You can't invite or withdraw while in Memorial dungeon.#
+Profanity detected.\nPlease check again.#
+Please enter at least %d characters. If you don't have account, please click [Register] button to create account.#
+Please enter at least %d characters.#
+A work is in progress, please try again.#
+%.1f%% (PCcafe %.1f%% + TPLUS %.1f%% + %s Server %.1f%%)#
+Unable to register item#
+/100#
+/2000#
+https://member.gnjoy.com.tw/mRO_SecPwd.aspx#
+The selected emblem isn't available, try placing it in emblem folder then try again#
 #
 #
 #
 #
+The message contains unrecognizable character#
 #
 #
 #
