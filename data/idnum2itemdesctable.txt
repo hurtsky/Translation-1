@@ -47725,7 +47725,7 @@ Weight:^009900 0^000000
 6958#
 It might be useful in creating something...
 ^FFFFFF_^000000
-Weight:^009900 0^000000
+Weight:^009900 1^000000
 #
 6960#
 A key used to enter fortress somewhere in the sky.
@@ -51841,7 +51841,7 @@ Weight:^009900 0^000000
 #
 7690#
 Coupon to exchange for a special gift
-Weight:^009900 0^000000
+Weight:^009900 1^000000
 #
 7701#
 ...
@@ -54755,7 +54755,7 @@ Weight:^009900 3^000000
 11576#
 Lucky Lollipop.
 ^FFFFFF_^000000
-Weight:^009900 3^000000
+Weight:^009900 4^000000
 #
 11577#
 A lump of rice which can be eaten for lunch.
@@ -57118,7 +57118,7 @@ Weight:^009900 0^000000
 #
 12326#
 A firecracker that shoots up into the sky when lit.
-Weight:^009900 2^000000
+Weight:^009900 1^000000
 #
 12327#
 ...
@@ -74215,7 +74215,7 @@ MaxSP +25%
 Increase movement speed.
 Class:^6666CC Armor^000000
 Defense:^0000FF 100^000000
-Weight:^009900 70^000000
+Weight:^009900 0^000000
 Level Requirement:^009900 125^000000
 Jobs:^6666CC All classes^000000
 #
