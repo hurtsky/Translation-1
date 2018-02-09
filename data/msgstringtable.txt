@@ -3001,55 +3001,194 @@ You can not do it while you are dead.#
 You can not do it while casting#
 You can not do it while trading#
 You can not do it while opening vendor#
-You can not do it while talking with NPC#
-You can not do it while opening chat room#
+You can not do it while using NPC#
+You can not do it while using chatting room#
 Party members are not connected.#
 You need %d arrow(s) to activate the skill.#
-Sort#
+Align items#
 Please close item setting window to dump item.#
 There is no item to replace.#
 Deleted character#
-%y.%m.%d#
+%Y.%m.%d#
 Access date: %s#
 You can not use bank while refining. Bank has closed.#
 You can not use bank while refining.#
 The item has bind to set equipment.#
 Human#
-Swordman, Mage, Merchant, Acolyte, Thief, Archer, Expanded Classes#
+Swordman, Mage, Merchant, Acolyte, Thief, Archer#
 Doram#
 Summoner#
-Dominant race of Rune Midgard. Unlimited potential. Excellent adaptability to solve problems.#
-Race of Far-star continent with natural born curiosity and sparky character.#
-Possession limit is over 70%, or you have less than 10 free inventory space.#
+Delegate race of Midgard. Very talented race to solve a problem with inifite potential and great adaptability.#
+One of delegate race of Far-star continent with natural born curiosity and sparky character.#
+Weight limit has reached toover 70%. Or less then 10 invenrory space.#
 C#
 C#
-Another work is in progress.#
+Doing in other activity.#
 Overheat limit : %d#
-You can't invite or withdraw while in Memorial dungeon.#
-Profanity detected.\nPlease check again.#
-Please enter at least %d characters. If you don't have account, please click [Register] button to create account.#
-Please enter at least %d characters.#
-A work is in progress, please try again.#
-%.1f%% (PCcafe %.1f%% + TPLUS %.1f%% + %s Server %.1f%%)#
-Unable to register item#
-/100#
-/2000#
+You cannot invite or withdraw while in memorial dungeon.#
+Expletive has detected.\nPlease check again.#
+Please enter over %d characters. If you don't have user account, please click [Register] button on the bottom left.#
+Please enter the password over %d characters.#
+Please finish your current work and try it again.#
+%.1f%% (Internet-Cafe %.1f%% + TPLUS %.1f%% + %sServer %.1f%%)#
+The item cannot be registered.#
+/300#
+/4000#
 https://member.gnjoy.com.tw/mRO_SecPwd.aspx#
-The selected emblem isn't available, try placing it in emblem folder then try again#
-#
-#
-#
-#
-The message contains unrecognizable character#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+The emblem you want to register does not exist. Insert it in the emblem file and try again#
+Ragnarok Ragnarok#
+If your screenshot or chat box includes other users besides yourself, first ask permission from the other users before using it.#
+You cannot change equipment in current condition#
+Getting the user's name#
+This message includes contents you are not able to use.#
+Failed to purchase item.#
+The lower numbers of the identification number does not match.#
+Close#
+Rule#
+Purchase 1x#
+Purchase 10x#
+Purchase 100x#
+Win 1st prize#
+Win 2nd prize#
+Win 3rd prize#
+Currently not in use#
+Currently not in use#
+Zeny Lottery winner#
+Lottery purchase amount#
+Participating character#
+1st Price#
+2nd Price#
+3rd Price#
+Purchase Reward Item#
+^1a1a1a Do you want to purchase ^b%d lottery tickets for \n^4435b2%dZeny^1a1a1a?#
+You have successfully purchased the lottery ticket.#
+Not enough Zeny to purchase lottey ticket.#
+You are only able to purchase the tickets upto 1000 times.#
+Yes#
+No#
+HP#
+SP#
+Lv#
+Lv#
+Exp#
+ all on#
+Play Replay Flie#
+P#
+Total#
+Basicinfo#
+Equip#
+Item#
+Skill#
+Guild#
+Party#
+Chatting#
+Shortcut#
+Status#
+ALL#
+User Defined File Name#
+Repeated File Check#
+on#
+<Basic Skin>#
+Select Skin#
+You cannot delete it because you are currently participating in the lottery#
+/achievement#
+Zeny Lottery ticket#
+Zenyy Lottery %dprize reward#
+%dprize reward: %s#
+Zeny Lottery Cumulative purchase reward#
+Cumulative %d times reward: %s#
+Zeny Lottery Refund#
+Refund amount: %d Zeny\r\nReason for Refund: Failed to draw lottery in the server#
+Add Mini Party Chat#
+Delete Mini Party Chat#
+The lottery draw had ended! Check the winner!#
+%dMonth %dDay#
+Till the next grade#
+All#
+Incomplete#
+(Accomplished!)#
+(Not Accomplished)#
+Change equipment#
+CHANGE#
+Power Parameter\n ^cc0000Melee PhysicalAttack^ffffff, Carrying Weight#
+Agility Parameter\n^cc0000Attack Speed^ffffff, Dodge, Physical Defense#
+HP Parameter\n^cc0000Max HP^ffffff, Physical Defense, Magic Defense#
+Intellect Parameter\n^cc0000Magic Attack^ffffff, Casting Time, Magic Defense#
+Handcraft Parameter\n^cc0000Long Range Physical Attack^ffffff, Accuracy, Casting Time, Magic Attack#
+Moon Parameter\n^cc0000Critical Rate^ffffff, Accuracy, Physical Attack, Magic Attack, Dodge#
+Physical Attack#
+Physical Defense#
+Accuracy#
+Critical Rate#
+Affiliated Guild#
+Points to level up each Parameter#
+Magic Attack#
+Magic Defense#
+Dodge#
+Attack Speed#
+Shortcut#
+Option#
+Skill Shortcut Key (F1 ~ F9)#
+Capture Image#
+Zoom In#
+Zoom Out#
+Guild#
+Bank#
+Mail#
+Cash Shop#
+Sit#
+Move#
+Rotate#
+The Party Leader can be dropped out only after another party member becomes a Party Leader.#
+Do you want to stop viewing this video?#
+ gear has been equipped in the gear equipment pop-up.#
+ gear has been removed in the gear equipment pop-up.#
+This is the last line.#
+%.1f%% ( Base 100%% + Premium %.1f%%+ %sServer %.1f%% )#
+Chinese character#
+Shortcut Settings#
+Your subscription will be ended on%s.#
+Cannot find the replay file.#
+Shoes#
+Head#
+Armor#
+Shoulders#
+Accessory#
+Costume#
+Sort Order#
+Normal Gear#
+Special Gear#
+Style#
+/quake : Screen Shaking Effect On/Off#
+/aura2 : You can completely turn off the aurora On/Off#
+Default Settings#
+Advanced Settings#
+The Default Settings will be applied. #
+The Default Settings will be applied. Do you agree?#
+The settings will be applied. Do you agree?#
+Need to restart to apply the settings. Do you agree?#
+Fog#
+Simplified aurora#
+Turn on aurora#
+Show Effect#
+Show Shadows#
+No Shift#
+Select Hardware T&L Acceleration Function#
+Select Game Resolution#
+Use full screen#
+Fix mouse#
+Effect Settings#
+Control Settings#
+Graphic Device Settings#
+Graphic Resolution Settings#
+Full Screen Settings#
+Fix mouse Settings#
+Commission : #
+Total commission amount : #
+Select receiver#
+Select receiving group#
+Change size(F10)#
+Loading the mailbox.\n^c92114Delete^000000unnecessary emails!!#
+NOW LOADING..#
+Title#
+Sender#
