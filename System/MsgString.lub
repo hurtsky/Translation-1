@@ -1,5 +1,4 @@
 SetupMSG = {
-
 	["Device"] = "T&L Hardware Acceleration. On/Off",
 	["Mode"] = "Resolution screen of the game.",
 	["FullScreen"] = "Fullscreen mode. On/Off",
